@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-beryl-coronet",
+  "title": "La aventura de la corona de berilos",
+  "titleRu": "Приключение с короной из берилов",
+  "originalTitle": "The Adventure of the Beryl Coronet",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Известный лондонский банкир Александр Холдер обращается к Шерлоку Холмсу после того, как бесценная Корона из берилов, оставленная ему в залог знатным клиентом, оказывается сломана, а три самоцвета похищены. Холмс раскрывает неожиданную правду: виновны не сын банкира, взявший на себя незаслуженный позор, а его племянница и её тайный возлюбленный.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

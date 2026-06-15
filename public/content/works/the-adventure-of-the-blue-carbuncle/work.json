@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-blue-carbuncle",
+  "title": "La aventura del carbunclo azul",
+  "titleRu": "Приключение синего карбункула",
+  "originalTitle": "The Adventure of the Blue Carbuncle",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Рождественским утром в зобу случайно найденного гуся обнаруживается знаменитый похищенный бриллиант — синий карбункул. Холмс распутывает цепочку от шляпы до рынка и находит настоящего вора, решив по-своему, что делать с преступником в канун Нового года.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

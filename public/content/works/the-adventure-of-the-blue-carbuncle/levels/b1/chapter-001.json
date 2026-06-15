@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-blue-carbuncle",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura del carbunclo azul"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "La mañana siguiente a Navidad, fui a visitar a Sherlock Holmes en su piso de Baker Street.", "translationRu": "На следующее утро после Рождества я пришёл навестить Шерлока Холмса в его квартире на Бейкер-стрит."},
+        {"id": "sent-002", "text": "Holmes estaba tumbado en el sofá con su bata violeta, rodeado de periódicos.", "translationRu": "Холмс лежал на диване в фиолетовом халате, окружённый газетами."},
+        {"id": "sent-003", "text": "Sobre la silla colgaba un sombrero viejo y roto que él examinaba con su lente.", "translationRu": "На стуле висела старая потрёпанная шляпа, которую он изучал с помощью лупы."},
+        {"id": "sent-004", "text": "Me explicó que el sombrero llegó junto con un ganso de Navidad, y que ambos pertenecían a alguien desconocido.", "translationRu": "Он объяснил мне, что шляпа пришла вместе с рождественским гусем и что оба предмета принадлежали какому-то незнакомцу."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Peterson, el comisionado, encontró el sombrero y el ganso cuando un hombre los abandonó huyendo de una pelea.", "translationRu": "Комиссионер Питерсон нашёл шляпу и гуся, когда какой-то человек бросил их во время потасовки."},
+        {"id": "sent-006", "text": "Como el ganso tenía una tarjeta que decía «Para la señora Henry Baker», Peterson trajo todo a Holmes.", "translationRu": "Поскольку к гусю была привязана карточка с надписью «Для миссис Генри Бейкер», Питерсон принёс всё это Холмсу."},
+        {"id": "sent-007", "text": "Sin embargo, no fue posible encontrar al dueño, porque hay cientos de Henry Baker en Londres.", "translationRu": "Однако найти хозяина не удалось, потому что в Лондоне сотни Генри Бейкеров."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-008", "text": "Holmes estudió el sombrero y dedujo muchas cosas sobre su dueño.", "translationRu": "Холмс изучил шляпу и сделал из неё множество выводов о её хозяине."},
+        {"id": "sent-009", "text": "Antes era un hombre inteligente y con dinero, pero ahora era pobre y bebía demasiado.", "translationRu": "Прежде это был умный и состоятельный человек, но теперь он обеднел и много пил."},
+        {"id": "sent-010", "text": "Yo me reía, porque me parecía imposible saber todo eso con solo mirar un sombrero viejo.", "translationRu": "Я смеялся, потому что мне казалось невозможным узнать всё это, просто взглянув на старую шляпу."},
+        {"id": "sent-011", "text": "Holmes me explicó pacientemente sus métodos: el tamaño del sombrero, las manchas, el polvo y las velas.", "translationRu": "Холмс терпеливо объяснил мне свои методы: размер шляпы, пятна, пыль и следы свечного жира."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-012", "text": "En ese momento entró Peterson corriendo, con los ojos abiertos de asombro.", "translationRu": "В этот момент вбежал Питерсон с широко раскрытыми от изумления глазами."},
+        {"id": "sent-013", "text": "Tenía en la mano una piedra azul brillante que su esposa había encontrado en el buche del ganso.", "translationRu": "В руке у него был блестящий синий камень, который его жена нашла в зобу гуся."},
+        {"id": "sent-014", "text": "Holmes reconoció inmediatamente la piedra: era el carbunclo azul, robado a la condesa de Morcar cinco días antes.", "translationRu": "Холмс немедленно узнал камень: это был синий карбункул, украденный у графини де Моркар пять дней назад."},
+        {"id": "sent-015", "text": "Un fontanero llamado Horner estaba en la cárcel, acusado del robo, aunque protestaba su inocencia.", "translationRu": "Водопроводчик по имени Хорнер сидел в тюрьме, обвинённый в краже, хотя и протестовал против обвинения."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-016", "text": "Holmes puso un anuncio en varios periódicos para encontrar al dueño del ganso.", "translationRu": "Холмс дал объявление в несколько газет, чтобы найти хозяина гуся."},
+        {"id": "sent-017", "text": "Esa tarde llegó Henry Baker: un hombre grande, con barba gris y ropa muy pobre.", "translationRu": "Вечером пришёл Генри Бейкер — крупный мужчина с седоватой бородой и в очень бедной одежде."},
+        {"id": "sent-018", "text": "Baker confirmó que el sombrero era suyo, pero cuando Holmes le preguntó de dónde sacó el ganso, contestó que lo recibió en el club del Alpha Inn.", "translationRu": "Бейкер подтвердил, что шляпа его, но когда Холмс спросил, откуда взялся гусь, тот ответил, что получил его в клубе харчевни «Альфа»."},
+        {"id": "sent-019", "text": "Baker no sabía nada de la joya y se fue contento con un ganso nuevo.", "translationRu": "Бейкер ничего не знал о драгоценности и ушёл довольный с новым гусем."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-020", "text": "Holmes y yo salimos a investigar en la noche fría.", "translationRu": "Холмс и я вышли на расследование в холодную ночь."},
+        {"id": "sent-021", "text": "Primero fuimos al Alpha Inn, donde el dueño nos dijo que compró los gansos a un vendedor de Covent Garden llamado Breckinridge.", "translationRu": "Сначала мы зашли в харчевню «Альфа», где хозяин сказал нам, что купил гусей у торговца с Ковент-Гарден по имени Брекинридж."},
+        {"id": "sent-022", "text": "Holmes usó una apuesta ingeniosa para que Breckinridge le revelara que los gansos venían de la señora Oakshott en Brixton Road.", "translationRu": "Холмс с помощью ловкого пари вынудил Брекинриджа раскрыть, что гуси поступили от миссис Оукшотт с Брикстон-роуд."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-023", "text": "Cerca del mercado vimos a un hombre pequeño que discutía con Breckinridge sobre los mismos gansos.", "translationRu": "Рядом с рынком мы заметили маленького человека, который спорил с Брекинриджем о тех же самых гусях."},
+        {"id": "sent-024", "text": "Holmes lo siguió y descubrió que se llamaba James Ryder y trabajaba como jefe de servicio en el Hotel Cosmopolitan.", "translationRu": "Холмс последовал за ним и выяснил, что его зовут Джеймс Райдер и что он работает старшим служащим в гостинице «Космополитан»."},
+        {"id": "sent-025", "text": "Ryder estaba muy nervioso, así que Holmes lo invitó a Baker Street para hablar.", "translationRu": "Райдер был очень нервозен, и Холмс пригласил его на Бейкер-стрит поговорить."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-026", "text": "En Baker Street, Holmes mostró el carbunclo azul a Ryder, y el hombre palideció.", "translationRu": "На Бейкер-стрит Холмс показал синий карбункул Райдеру, и тот побледнел."},
+        {"id": "sent-027", "text": "Entonces Ryder confesó que él robó la joya y la escondió en el buche de un ganso para llevarla a un cómplice en Kilburn.", "translationRu": "Тогда Райдер признался, что украл драгоценность и спрятал её в зобу гуся, чтобы доставить сообщнику в Килберн."},
+        {"id": "sent-028", "text": "Sin embargo, tomó el ganso equivocado: había dos gansos con la cola rayada y se confundió.", "translationRu": "Однако он взял не того гуся: было два гуся с полосатым хвостом, и он перепутал их."},
+        {"id": "sent-029", "text": "El ganso con el carbunclo fue vendido al mercado, y el carbunclo llegó finalmente a manos de Holmes.", "translationRu": "Гусь с карбункулом был продан на рынок, и карбункул в итоге оказался в руках у Холмса."},
+        {"id": "sent-030", "text": "Ryder cayó de rodillas y suplicó que lo dejaran ir, llorando desesperadamente.", "translationRu": "Райдер упал на колени и в отчаянии умолял отпустить его."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-031", "text": "Holmes pensó en silencio y luego abrió la puerta para que Ryder se fuera.", "translationRu": "Холмс молча подумал, а затем открыл дверь, чтобы Райдер мог уйти."},
+        {"id": "sent-032", "text": "Me explicó que, si Ryder huía, el caso contra Horner se caería y el inocente quedaría libre.", "translationRu": "Он объяснил мне, что если Райдер сбежит, дело против Хорнера рассыплется и невиновный выйдет на свободу."},
+        {"id": "sent-033", "text": "También dijo que el miedo que tenía Ryder era suficiente castigo, y que enviarlo a la cárcel lo convertiría en un criminal de por vida.", "translationRu": "Он также сказал, что страха, который испытывает Райдер, вполне достаточно в качестве наказания, а тюрьма сделала бы из него закоренелого преступника."},
+        {"id": "sent-034", "text": "«Además», añadió Holmes, «es la época de Navidad, el tiempo del perdón.»", "translationRu": "«К тому же», — добавил Холмс, — «сейчас Рождество, время прощения»."}
+      ]
+    }
+  ]
+}

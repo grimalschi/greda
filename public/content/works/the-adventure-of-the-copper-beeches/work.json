@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-copper-beeches",
+  "title": "La aventura de los hayas cobrizos",
+  "titleRu": "Приключение в поместье «Медные Буки»",
+  "originalTitle": "The Adventure of the Copper Beeches",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Институтка Вайолет Хантер обращается к Шерлоку Холмсу за советом: богатый помещик Ракасл предлагает ей неслыханное жалованье при условии, что она острижёт волосы и будет выполнять странные прихоти. Расследование раскрывает жестокую тайну: в запертом крыле поместья томится законная наследница, а самозванка-гувернантка служила живой куклой, призванной обмануть преданного жениха.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-blue-carbuncle",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura del carbunclo azul"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "La segunda mañana posterior a la Navidad me presenté en el piso de Baker Street con ánimo de felicitar a Sherlock Holmes por las fiestas, y lo encontré repantigado en el sofá, enfundado en su bata violeta, entre una pipa, una pila de periódicos manoseados y el silencio característico de quien acaba de entregar sus pensamientos a algún problema.", "translationRu": "На второе утро после Рождества я явился на Бейкер-стрит, намереваясь поздравить Шерлока Холмса с праздниками, и застал его развалившимся на диване в фиолетовом халате — среди трубки, груды потрёпанных газет и тишины, присущей человеку, всецело отдавшемуся какой-то задаче."},
+        {"id": "sent-002", "text": "Sobre el respaldo de la silla del rincón colgaba, como trofeo de alguna expedición urbana, un sombrero hongo de fieltro duro, viejo, cuarteado y tan zarrapastroso que parecía a punto de desintegrarse.", "translationRu": "На спинке угловатого стула висела, точно охотничий трофей какой-то городской экспедиции, старая твёрдая фетровая шляпа — потрескавшаяся и настолько замызганная, что казалось, она вот-вот рассыплется."},
+        {"id": "sent-003", "text": "Holmes me explicó que la prenda había llegado en compañía de un gordo ganso navideño la mañana de Navidad, traídos por Peterson, el comisionado, quien los había recogido en Tottenham Court Road tras asistir a una pelea en la que el dueño, asustado de que lo tomaran por el causante de un escaparate roto, soltó el ganso y se esfumó entre los callejones.", "translationRu": "Холмс объяснил мне, что шляпа прибыла в компании жирного рождественского гуся рождественским утром — её принёс комиссионер Питерсон, подобравший оба предмета на Тоттенхэм-Корт-роуд после того, как стал свидетелем потасовки, в которой хозяин, испугавшись, что его примут за виновника разбитой витрины, бросил гуся и растворился в переулках."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "La tarjeta atada a la pata del ganso rezaba «Para la señora Henry Baker», pero como en Londres hay centenares de Henry Baker, la identidad del propietario seguía siendo un enigma.", "translationRu": "Карточка, привязанная к лапе гуся, гласила «Для миссис Генри Бейкер», однако в Лондоне сотни Генри Бейкеров, и личность хозяина по-прежнему оставалась загадкой."},
+        {"id": "sent-005", "text": "Para entretenerme, Holmes tomó el sombrero y procedió a extraer de él un retrato psicológico completo de su dueño: hombre de notable capacidad intelectual en otros tiempos próspero, que había ido cuesta abajo en los últimos años merced, probablemente, a la bebida, perdiendo a la vez la diligencia de su esposa y el gas de su casa.", "translationRu": "Чтобы развлечь меня, Холмс взял шляпу и приступил к извлечению из неё полного психологического портрета её владельца: человека незаурядного ума, некогда состоятельного, постепенно катившегося вниз в последние годы, вероятно вследствие пьянства, утратившего при этом и заботу жены, и газовое освещение в доме."},
+        {"id": "sent-006", "text": "Cada deducción venía acompañada de su prueba material: la capacidad cúbica del sombrero para la inteligencia, las manchas de sebo para la falta de gas, el elástico roto para la voluntad debilitada.", "translationRu": "Каждый вывод подкреплялся вещественным доказательством: кубическая ёмкость шляпы — для ума, пятна свечного сала — для отсутствия газа, порванная резинка — для ослабленной воли."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-007", "text": "En el momento más inesperado irrumpió Peterson con el rostro encendido de emoción y tendió hacia nosotros, sobre la palma de la mano, una pequeña piedra azul que centelleaba como una estrella eléctrica en la penumbra del cuarto.", "translationRu": "В самый неожиданный момент вбежал Питерсон с пылающим от волнения лицом и протянул нам на ладони небольшой синий камень, сверкавший, словно электрическая звезда в полумраке комнаты."},
+        {"id": "sent-008", "text": "Su esposa lo había descubierto en el buche del ganso al prepararlo para la cocina.", "translationRu": "Его жена обнаружила его в зобу гуся, когда готовила птицу."},
+        {"id": "sent-009", "text": "Holmes se irguió de golpe: era el carbunclo azul de la condesa de Morcar, sustraído cinco días antes del Hotel Cosmopolitan, una gema de valor incalculable por cuya posesión se habían cometido ya, en su corta historia, dos asesinatos, un ataque con vitriolo, un suicidio y varias rapiñas.", "translationRu": "Холмс резко выпрямился: это был синий карбункул графини де Моркар, похищенный пять дней назад из гостиницы «Космополитан» — драгоценность бесценной стоимости, ради обладания которой за недолгую её историю уже были совершены два убийства, нападение с купоросом, самоубийство и несколько грабежей."},
+        {"id": "sent-010", "text": "Por el robo languideía en prisión un fontanero llamado John Horner, cuya condena previa por delito similar había bastado para que el magistrado lo considerara culpable sin mayor investigación.", "translationRu": "Из-за кражи томился в тюрьме водопроводчик по имени Джон Хорнер, прежняя судимость которого оказалась достаточной для мирового судьи, чтобы признать его виновным без более тщательного расследования."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-011", "text": "Holmes guardó la piedra, envió a Peterson a poner un anuncio en los periódicos vespertinos y se dispuso a aguardar con su paciencia habitual.", "translationRu": "Холмс убрал камень, отправил Питерсона дать объявление в вечерние газеты и приготовился ждать с присущим ему терпением."},
+        {"id": "sent-012", "text": "Esa misma noche se presentó Henry Baker: un hombre corpulento de cabeza maciza, barba pardogrisácea y hablar pausado y cuidadoso que delataba al intelectual venido a menos.", "translationRu": "В тот же вечер явился Генри Бейкер — крупный мужчина с массивной головой, серовато-каштановой бородой и медленной, тщательно взвешенной речью, выдававшей упавшего в мире интеллектуала."},
+        {"id": "sent-013", "text": "Reconoció el sombrero, explicó que no había podido permitirse anunciarlo y confirmó que el ganso provenía de la tómbola navideña del Alpha Inn, donde el posadero Windigate organizaba un club de gansos en el que sus clientes habituales contribuían semanalmente con unos peniques.", "translationRu": "Он признал шляпу, объяснил, что не мог позволить себе давать объявление, и подтвердил, что гусь поступил из рождественской лотереи харчевни «Альфа», где хозяин Уиндигейт устраивал гусиный клуб, в который постоянные посетители еженедельно вносили по нескольку пенсов."},
+        {"id": "sent-014", "text": "Holmes lo despidió con un ganso de repuesto satisfecho de haber confirmado que Baker era un inocente que ignoraba por completo el tesoro que había transportado sobre el hombro.", "translationRu": "Холмс проводил его с запасным гусем, удовлетворённый тем, что подтвердил: Бейкер был невиновен и совершенно не подозревал о сокровище, которое нёс на плече."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-015", "text": "Sin perder tiempo nos lanzamos a la calle helada, en cuyo silencio nocturno resonaban nuestros pasos como pistolazos sobre el empedrado.", "translationRu": "Не теряя времени, мы бросились на промёрзшую улицу, где в ночной тишине наши шаги гремели по мостовой, точно выстрелы."},
+        {"id": "sent-016", "text": "En el Alpha Inn el posadero nos confirmó que había adquirido los gansos a un tal Breckinridge, vendedor de Covent Garden.", "translationRu": "В харчевне «Альфа» хозяин подтвердил, что купил гусей у некоего Брекинриджа, торговца с Ковент-Гарден."},
+        {"id": "sent-017", "text": "Holmes provocó a este Breckinridge, individuo colérico y hosco, con una apuesta sobre el origen campesino o urbano de los gansos, y el vendedor, incapaz de tolerar que lo contradijeran, abrió sus propios libros para demostrar su razón, revelando sin quererlo que las aves procedían de la señora Oakshott, ciento diecisiete de Brixton Road.", "translationRu": "Холмс подзадорил этого Брекинриджа — вспыльчивого и угрюмого субъекта — пари о деревенском или городском происхождении гусей, и торговец, не вынеся противоречия, открыл собственные книги, чтобы доказать свою правоту, невольно раскрыв, что птицы поступили от миссис Оукшотт с Брикстон-роуд, 117."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-018", "text": "Al retirarnos divisamos junto al puesto a un hombrecillo de facciones ratoniles que disputaba acaloradamente con Breckinridge sobre aquellos mismos gansos; al ver que el vendedor lo ahuyentaba a gritos, Holmes lo siguió entre la multitud y le abordó con su cortesía desarmante.", "translationRu": "Отходя, мы заметили у лотка человечка с мышиными чертами, горячо споривший с Брекинриджем о тех же гусях; видя, что торговец прогоняет его криками, Холмс последовал за ним сквозь толпу и обратился к нему с обезоруживающей любезностью."},
+        {"id": "sent-019", "text": "Cuando el hombre intentó presentarse como John Robinson, Holmes lo atajó con suavidad: «El nombre verdadero, si es tan amable.»", "translationRu": "Когда тот попытался представиться Джоном Робинсоном, Холмс мягко его остановил: «Настоящее имя, если вы не против»."},
+        {"id": "sent-020", "text": "Un rubor súbito tiñó las mejillas del desconocido: era James Ryder, jefe de servicio del Hotel Cosmopolitan.", "translationRu": "Внезапный румянец залил щёки незнакомца: им оказался Джеймс Райдер, старший служащий гостиницы «Космополитан»."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-021", "text": "De regreso en Baker Street, Holmes sacó el carbunclo de la caja fuerte y lo sostuvo a la luz; Ryder se tambaleó, aferró la repisa de la chimenea y se quedó mirando la piedra con la expresión de quien ve simultáneamente la horca y el perdón.", "translationRu": "Вернувшись на Бейкер-стрит, Холмс достал карбункул из сейфа и поднёс к свету; Райдер пошатнулся, вцепился в каминную полку и уставился на камень с выражением человека, видящего одновременно виселицу и помилование."},
+        {"id": "sent-022", "text": "Holmes reconstruyó el crimen con frialdad clínica: Ryder había sobornado a la doncella Cusack para averiguar el escondite de la joya, había tendido una trampa al fontanero Horner haciendo que lo llamaran a arreglar la rejilla de la chimenea de la condesa, y una vez que Horner se fue, había vaciado la joyería y alzado la alarma contra el inocente.", "translationRu": "Холмс восстановил картину преступления с клинической холодностью: Райдер подкупил горничную Кьюсак, чтобы узнать место хранения драгоценности, устроил ловушку водопроводчику Хорнеру, вызвав его починить решётку камина в покоях графини, а когда тот ушёл — опустошил шкатулку и поднял тревогу против невиновного."},
+        {"id": "sent-023", "text": "Luego, aterrado de que la policía lo cachease en el hotel, había corrido a casa de su hermana —la señora Oakshott, criadora de aves de Brixton Road— y había deslizado el carbunclo por el gaznate de un ganso de cola rayada.", "translationRu": "Затем, испугавшись, что полиция обыщет его в гостинице, он бросился к сестре — миссис Оукшотт, разводившей птицу на Брикстон-роуд — и протолкнул карбункул в горло полосатохвостому гусю."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-024", "text": "Pero el plan se torció: había dos gansos con la cola rayada, y Ryder cogió el que no tenía la piedra.", "translationRu": "Но план дал сбой: было два гуся с полосатым хвостом, и Райдер взял того, в котором не было камня."},
+        {"id": "sent-025", "text": "Cuando abrió el ganso junto a su cómplice en Kilburn y no encontró nada, volvió corriendo a casa de su hermana solo para enterarse de que todos los gansos habían sido enviados a Breckinridge.", "translationRu": "Вскрыв гуся у сообщника в Килберне и ничего не найдя, он бросился обратно к сестре, лишь затем, чтобы узнать, что все гуси уже отправлены к Брекинриджу."},
+        {"id": "sent-026", "text": "El ganso portador del carbunclo había pasado, a través del Alpha Inn, a las manos de Henry Baker; el pobre hombre lo dejó caer durante una pelea, Peterson lo recogió, la esposa de Peterson lo preparó para la cena y la más famosa gema de Europa apareció finalmente sobre la palma de un comisionado asombrado.", "translationRu": "Гусь с карбункулом перешёл через харчевню «Альфа» к Генри Бейкеру; тот обронил его во время потасовки, Питерсон подобрал его, жена Питерсона приготовила птицу к ужину, и самая знаменитая драгоценность Европы в итоге оказалась на ладони изумлённого комиссионера."},
+        {"id": "sent-027", "text": "Ryder, pálido como la cera, se echó a los pies de Holmes entre convulsiones de llanto, implorando misericordia y prometiendo que jama volvería a delinquir.", "translationRu": "Райдер, бледный как полотно, бросился к ногам Холмса в судорожных рыданиях, умоляя о милосердии и клянясь, что никогда больше не встанет на путь преступления."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-028", "text": "Holmes permaneció en silencio un largo instante, tamborileando con los dedos sobre la mesa, con la mirada fija en algún punto más allá de la habitación.", "translationRu": "Холмс долгую минуту молчал, барабаня пальцами по столу и глядя куда-то за пределы комнаты."},
+        {"id": "sent-029", "text": "Luego cruzó la habitación, abrió la puerta y pronunció una sola palabra: «¡Fuera!»", "translationRu": "Затем он пересёк комнату, открыл дверь и произнёс одно слово: «Вон!»"},
+        {"id": "sent-030", "text": "Hubo un tropel, el repiqueteo de pasos en la escalera, el portazo y el staccato de unos pies que se alejaban a todo correr por la acera.", "translationRu": "Раздалась возня, дробный топот на лестнице, хлопок двери и стаккато убегающих по тротуару ног."},
+        {"id": "sent-031", "text": "Holmes me explicó que si Ryder abandonaba el país, el caso contra Horner se desmoronaría por falta de testigo de cargo, y el inocente quedaría libre sin que hubiera que revelar la historia entera.", "translationRu": "Холмс объяснил мне, что если Райдер покинет страну, дело против Хорнера рассыплется из-за отсутствия главного свидетеля обвинения, и невиновный выйдет на свободу без необходимости раскрывать всю историю."},
+        {"id": "sent-032", "text": "«No soy agente de la policía para cubrir sus deficiencias», dijo, encendiendo su cachimba de arcilla. «El terror que lleva ese hombre en el alma valdrá más para reformarlo que cualquier condena carcelaria; además, el que lo enviara a prisión lo convertiría en presidario de por vida.»", "translationRu": "«Я не состою на службе у полиции, чтобы восполнять её упущения», — сказал он, закуривая глиняную трубку. — «Ужас, который этот человек уносит в душе, исправит его вернее любого тюремного срока; к тому же заключение сделало бы из него закоренелого каторжника»."},
+        {"id": "sent-033", "text": "Hizo una pausa y añadió con la más leve sombra de sonrisa: «Y, Watson, es Navidad: la época en que resulta más fácil cometer misericordia.»", "translationRu": "Он сделал паузу и добавил с едва уловимой тенью улыбки: «И потом, Ватсон, сейчас Рождество — пора, когда милосердие совершать проще всего»."}
+      ]
+    }
+  ]
+}
