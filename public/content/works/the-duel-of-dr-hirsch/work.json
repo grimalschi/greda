@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-duel-of-dr-hirsch",
+  "title": "El duelo del doctor Hirsch",
+  "titleRu": "Дуэль доктора Гирша",
+  "originalTitle": "The Duel of Dr Hirsch",
+  "author": {
+    "id": "g-k-chesterton",
+    "name": "G. K. Chesterton"
+  },
+  "genres": [
+    "Детектив",
+    "Отец Браун"
+  ],
+  "synopsisRu": "Парижский учёный доктор Гирш обвинён в государственной измене: полковник Дюбоск разоблачает его перед толпой. Отец Браун разгадывает невероятную истину: оба персонажа — одно и то же лицо.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
