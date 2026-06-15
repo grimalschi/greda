@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "work.schema.json",
+  "title": "Work",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "titleRu",
+    "originalTitle",
+    "author",
+    "genres",
+    "synopsisRu",
+    "levels"
+  ],
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "title": { "type": "string", "minLength": 1 },
+    "titleRu": { "type": "string", "minLength": 1 },
+    "originalTitle": { "type": "string", "minLength": 1 },
+    "author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "name": { "type": "string", "minLength": 1 }
+      }
+    },
+    "genres": { "type": "array", "items": { "type": "string" } },
+    "synopsisRu": { "type": "string" },
+    "levels": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["a2", "b1", "b2", "c1"],
+      "properties": {
+        "a2": { "$ref": "#/definitions/levelInfo" },
+        "b1": { "$ref": "#/definitions/levelInfo" },
+        "b2": { "$ref": "#/definitions/levelInfo" },
+        "c1": { "$ref": "#/definitions/levelInfo" }
+      }
+    }
+  },
+  "definitions": {
+    "levelInfo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["available", "chapterCount"],
+      "properties": {
+        "available": { "type": "boolean" },
+        "chapterCount": { "type": "integer", "minimum": 0 }
+      }
+    }
+  }
+}

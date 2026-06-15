@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "catalog.schema.json",
+  "title": "Catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "works"],
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "works": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title",
+          "titleRu",
+          "originalTitle",
+          "authorId",
+          "authorName",
+          "genres",
+          "levels",
+          "availableLevels"
+        ],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "title": { "type": "string", "minLength": 1 },
+          "titleRu": { "type": "string", "minLength": 1 },
+          "originalTitle": { "type": "string", "minLength": 1 },
+          "authorId": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "authorName": { "type": "string", "minLength": 1 },
+          "genres": { "type": "array", "items": { "type": "string" } },
+          "levels": {
+            "type": "array",
+            "items": { "enum": ["a2", "b1", "b2", "c1"] }
+          },
+          "availableLevels": {
+            "type": "array",
+            "items": { "enum": ["a2", "b1", "b2", "c1"] }
+          }
+        }
+      }
+    }
+  }
+}

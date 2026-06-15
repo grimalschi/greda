@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "works": [
+    {
+      "id": "the-masque-of-the-red-death",
+      "title": "La máscara de la Muerte Roja",
+      "titleRu": "Маска Красной смерти",
+      "originalTitle": "The Masque of the Red Death",
+      "authorId": "edgar-allan-poe",
+      "authorName": "Edgar Allan Poe",
+      "genres": ["Готика", "Ужас", "Притча"],
+      "levels": ["a2", "b1", "b2", "c1"],
+      "availableLevels": ["a2", "b1", "b2", "c1"]
+    },
+    {
+      "id": "to-build-a-fire",
+      "title": "Encender una hoguera",
+      "titleRu": "Развести костёр",
+      "originalTitle": "To Build a Fire",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": ["Приключения", "Выживание", "Север"],
+      "levels": ["a2", "b1", "b2", "c1"],
+      "availableLevels": ["b1"]
+    },
+    {
+      "id": "the-law-of-life",
+      "title": "La ley de la vida",
+      "titleRu": "Закон жизни",
+      "originalTitle": "The Law of Life",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": ["Север", "Драма"],
+      "levels": ["a2", "b1", "b2", "c1"],
+      "availableLevels": []
+    },
+    {
+      "id": "love-of-life",
+      "title": "Amor a la vida",
+      "titleRu": "Любовь к жизни",
+      "originalTitle": "Love of Life",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": ["Приключения", "Выживание", "Север"],
+      "levels": ["a2", "b1", "b2", "c1"],
+      "availableLevels": []
+    },
+    {
+      "id": "the-white-silence",
+      "title": "El silencio blanco",
+      "titleRu": "Белое безмолвие",
+      "originalTitle": "The White Silence",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": ["Север", "Драма"],
+      "levels": ["a2", "b1", "b2", "c1"],
+      "availableLevels": []
+    }
+  ]
+}

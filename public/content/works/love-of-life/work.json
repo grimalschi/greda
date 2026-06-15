@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "id": "love-of-life",
+  "title": "Amor a la vida",
+  "titleRu": "Любовь к жизни",
+  "originalTitle": "Love of Life",
+  "author": { "id": "jack-london", "name": "Jack London" },
+  "genres": ["Приключения", "Выживание", "Север"],
+  "synopsisRu": "Раненый и брошенный спутником золотоискатель ползёт через тундру, борясь за жизнь из последних сил. Рассказ Джека Лондона о воле к жизни.",
+  "levels": {
+    "a2": { "available": false, "chapterCount": 0 },
+    "b1": { "available": false, "chapterCount": 0 },
+    "b2": { "available": false, "chapterCount": 0 },
+    "c1": { "available": false, "chapterCount": 0 }
+  }
+}

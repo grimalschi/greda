@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-masque-of-the-red-death",
+  "title": "La máscara de la Muerte Roja",
+  "titleRu": "Маска Красной смерти",
+  "originalTitle": "The Masque of the Red Death",
+  "author": { "id": "edgar-allan-poe", "name": "Edgar Allan Poe" },
+  "genres": ["Готика", "Ужас", "Притча"],
+  "synopsisRu": "Принц Просперо прячется с тысячей придворных за стенами аббатства, надеясь спастись от чумы — Красной смерти. Притча Эдгара По о тщетности бегства от неизбежного.",
+  "levels": {
+    "a2": { "available": true, "chapterCount": 1 },
+    "b1": { "available": true, "chapterCount": 1 },
+    "b2": { "available": true, "chapterCount": 1 },
+    "c1": { "available": true, "chapterCount": 1 }
+  }
+}
