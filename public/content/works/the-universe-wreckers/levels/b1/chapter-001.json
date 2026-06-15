@@ -5,98 +5,147 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los destructores del universo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
       "id": "para-001",
       "sentences": [
-        {"id": "sent-001", "text": "En el año 1994, el doctor Marlin descubrió que el sol giraba cada vez más rápido.", "translationRu": "В 1994 году доктор Марлин обнаружил, что солнце вращается всё быстрее."},
-        {"id": "sent-002", "text": "Su colega el doctor Whitely detectó una misteriosa vibración de rayos de fuerza que venía de Neptuno.", "translationRu": "Его коллега доктор Уайтли обнаружил таинственную вибрацию силовых лучей, исходившую от Нептуна."},
-        {"id": "sent-003", "text": "Marlin calculó que en ciento cincuenta días el sol se dividiría en dos estrellas.", "translationRu": "Марлин подсчитал, что через сто пятьдесят дней солнце разделится на две звезды."},
-        {"id": "sent-004", "text": "Todos los planetas interiores morirían, pero Neptuno sobreviviría más cerca de las dos nuevas soles.", "translationRu": "Все внутренние планеты погибнут, но Нептун выживет, оказавшись ближе к двум новым звёздам."},
-        {"id": "sent-005", "text": "Walter Hunt, agente de la Oficina de Inteligencia, se ofreció como cuarto miembro de la misión.", "translationRu": "Уолтер Хант, агент Бюро разведки, вызвался стать четвёртым членом экспедиции."}
+        {
+          "id": "sent-001",
+          "text": "Era el 3 de mayo de 1994 cuando el mundo recibió la primera noticia de algo muy extraño: el sol estaba girando más rápido.",
+          "translationRu": "Было 3 мая 1994 года, когда мир получил первое известие о чём-то очень странном: солнце вращалось быстрее."
+        },
+        {
+          "id": "sent-002",
+          "text": "El doctor Herbert Marlin, director del Observatorio de América del Norte en Nueva York, envió un breve mensaje en el que explicaba que en las últimas veinticuatro horas se había detectado un pequeño aumento en la velocidad de rotación del sol.",
+          "translationRu": "Доктор Герберт Марлин, директор Северо-Американской обсерватории в Нью-Йорке, направил краткое сообщение, в котором объяснял, что за последние двадцать четыре часа было обнаружено небольшое увеличение скорости вращения солнца."
+        },
+        {
+          "id": "sent-003",
+          "text": "Yo, Walter Hunt, trabajaba en la Oficina de Inteligencia del Gobierno Mundial en Nueva York, y fui yo quien supervisó la difusión de ese primer mensaje.",
+          "translationRu": "Я, Уолтер Хант, работал в Бюро разведки Мирового правительства в Нью-Йорке, и именно я руководил распространением этого первого сообщения."
+        },
+        {
+          "id": "sent-004",
+          "text": "Al principio me pareció de tan poco interés que lo envié solo en la onda de noticias científicas, no en la onda de noticias generales.",
+          "translationRu": "Поначалу оно показалось мне настолько малоинтересным, что я отправил его только по волне научных новостей, а не по волне общих новостей."
+        }
       ]
     },
     {
       "id": "para-002",
       "sentences": [
-        {"id": "sent-006", "text": "En un solo mes construyeron una nave espacial de treinta pies con forma de poliedro.", "translationRu": "За один месяц они построили тридцатифутовый космический корабль в форме многогранника."},
-        {"id": "sent-007", "text": "La nave usaba la misma tecnología de rayos de fuerza que los neptunianos empleaban desde su planeta.", "translationRu": "Корабль использовал ту же технологию силовых лучей, которой пользовались нептунцы со своей планеты."},
-        {"id": "sent-008", "text": "Salieron de Nueva York a medianoche del dieciséis de junio, con las luces de la ciudad brillando abajo.", "translationRu": "Они вылетели из Нью-Йорка в полночь шестнадцатого июня — огни города сверкали внизу."},
-        {"id": "sent-009", "text": "Pasaron cerca de Marte y vieron sus canales, y luego cruzaron el peligroso cinturón de asteroides.", "translationRu": "Они пролетели мимо Марса, увидев его каналы, а затем пересекли опасный пояс астероидов."},
-        {"id": "sent-010", "text": "Cerca de Saturno, un meteorito golpeó la nave y rompió las conexiones de los generadores.", "translationRu": "Вблизи Сатурна метеорит ударил в корабль и оборвал соединения генераторов."},
-        {"id": "sent-011", "text": "Los cuatro tripulantes salieron al espacio exterior y repararon los cables cuando caían hacia los anillos de Saturno.", "translationRu": "Все четыре члена экипажа вышли в открытый космос и починили кабели, когда уже падали в сторону колец Сатурна."}
+        {
+          "id": "sent-005",
+          "text": "Al día siguiente, el doctor Marlin confirmó que el aumento en la velocidad del sol era real; otros observatorios en París y Honolulú también lo habían verificado de forma independiente.",
+          "translationRu": "На следующий день доктор Марлин подтвердил, что увеличение скорости солнца было реальным; другие обсерватории в Париже и Гонолулу также независимо это проверили."
+        },
+        {
+          "id": "sent-006",
+          "text": "Seguí estos informes con un interés especial, porque el doctor Marlin había sido mi profesor de astronomía en la universidad y éramos buenos amigos.",
+          "translationRu": "Я следил за этими сообщениями с особым интересом, потому что доктор Марлин был моим профессором астрономии в университете и мы были хорошими друзьями."
+        },
+        {
+          "id": "sent-007",
+          "text": "Según él, el sol, que antes tardaba veinticinco días en dar una vuelta completa en su ecuador, ahora lo hacía en veinticuatro días y doce horas.",
+          "translationRu": "По его словам, солнце, которое прежде совершало полный оборот на своём экваторе за двадцать пять дней, теперь делало это за двадцать четыре дня и двенадцать часов."
+        },
+        {
+          "id": "sent-008",
+          "text": "En los días que siguieron, astrónomos de todo el mundo estudiaban el fenómeno con gran atención, pero nadie podía explicar su causa.",
+          "translationRu": "В последующие дни астрономы со всего мира с большим вниманием изучали это явление, однако никто не мог объяснить его причину."
+        }
       ]
     },
     {
       "id": "para-003",
       "sentences": [
-        {"id": "sent-012", "text": "El día veintiuno llegaron a Neptuno y encontraron que todo el planeta estaba cubierto por un techo de metal.", "translationRu": "На двадцать первый день они добрались до Нептуна и обнаружили, что вся планета накрыта металлической крышей."},
-        {"id": "sent-013", "text": "Descendieron a una ciudad desierta llena de polvo y máquinas extrañas.", "translationRu": "Они спустились в пустынный город, заполненный пылью и странными машинами."},
-        {"id": "sent-014", "text": "Las puertas medían solo cuatro pies de altura, porque sus habitantes no tenían forma humana.", "translationRu": "Двери были высотой всего четыре фута, так как их обитатели не имели человеческого облика."},
-        {"id": "sent-015", "text": "Los neptunianos llegaron en cilindros voladores: criaturas con cuerpo de disco, siete extremidades cortas y ojos compuestos.", "translationRu": "Нептунцы прилетели в летающих цилиндрах — существа с дискообразным телом, семью короткими конечностями и фасеточными глазами."},
-        {"id": "sent-016", "text": "Capturaron a Marlin y a Hunt y los llevaron a Tritón, la luna de Neptuno, también cubierta por un techo metálico.", "translationRu": "Они захватили Марлина и Ханта и доставили их на Тритон, луну Нептуна, тоже накрытую металлической крышей."}
+        {
+          "id": "sent-009",
+          "text": "Este descubrimiento causó una gran agitación entre los científicos, porque nadie esperaba que el sol pudiera cambiar su velocidad de rotación de forma tan repentina.",
+          "translationRu": "Это открытие вызвало большое волнение среди учёных, ведь никто не ожидал, что солнце может так внезапно изменить скорость вращения."
+        },
+        {
+          "id": "sent-010",
+          "text": "Algunos astrónomos dudaban de las observaciones y sugerían que el movimiento de las manchas solares podría crear una ilusión, pero las fotografías y los registros de tiempo del doctor Marlin eran irrefutables.",
+          "translationRu": "Некоторые астрономы сомневались в наблюдениях и предполагали, что движение солнечных пятен могло создать иллюзию, но фотографии и временны́е записи доктора Марлина были неопровержимы."
+        },
+        {
+          "id": "sent-011",
+          "text": "Al mismo tiempo, el sol acelerado ya producía efectos en la Tierra: tormentas eléctricas de gran potencia, auroras más al sur de lo normal y cambios rápidos de temperatura.",
+          "translationRu": "В то же время ускорившееся солнце уже производило эффекты на Земле: мощнейшие электрические бури, полярные сияния южнее обычного и резкие изменения температуры."
+        }
       ]
     },
     {
       "id": "para-004",
       "sentences": [
-        {"id": "sent-017", "text": "En Tritón vivían miles de millones de neptunianos que alternaban entre el lado iluminado y el lado oscuro cada diez horas.", "translationRu": "На Тритоне жили миллиарды нептунцев, которые каждые десять часов переходили с освещённой стороны на тёмную."},
-        {"id": "sent-018", "text": "El Consejo de los Treinta, conectados por un globo mental, les explicó todo.", "translationRu": "Совет Тридцати, связанных ментальным шаром, объяснил им всё."},
-        {"id": "sent-019", "text": "Neptuno era el planeta más viejo y su interior se enfriaba constantemente.", "translationRu": "Нептун был самой старой планетой, и его внутреннее тепло постоянно убывало."},
-        {"id": "sent-020", "text": "Su plan era hacer que el sol se dividiese para que Neptuno orbitara cerca de las nuevas dos estrellas y recibiera más calor.", "translationRu": "Их план состоял в том, чтобы разделить солнце: тогда Нептун вращался бы вблизи двух новых звёзд и получал больше тепла."},
-        {"id": "sent-021", "text": "Para eso, dispararon un rayo gigante desde Tritón hacia el sol y un rayo de apoyo hacia una estrella lejana.", "translationRu": "Для этого они направили гигантский луч с Тритона на солнце, а опорный луч — к далёкой звезде."},
-        {"id": "sent-022", "text": "El rayo solar empujaba al sol, y el rayo de apoyo impedía que Tritón saliera despedido por la reacción.", "translationRu": "Солнечный луч воздействовал на солнце, а опорный луч не давал Тритону быть отброшенным под действием реакции."}
+        {
+          "id": "sent-012",
+          "text": "El físico doctor Robert Whitely, colega del doctor Marlin en la Universidad de América del Norte, descubrió unas nuevas vibraciones que parecían provenir del sol perturbado.",
+          "translationRu": "Физик доктор Роберт Уайтли, коллега доктора Марлина в Северо-Американском университете, обнаружил новые вибрации, которые, по-видимому, исходили от возмущённого солнца."
+        },
+        {
+          "id": "sent-013",
+          "text": "Estas vibraciones tenían una frecuencia entre la luz y las ondas de radio, un territorio que nadie había explorado todavía.",
+          "translationRu": "Эти вибрации имели частоту между светом и радиоволнами — территорию, которую ещё никто не исследовал."
+        },
+        {
+          "id": "sent-014",
+          "text": "El doctor Whitely afirmó que se trataba de un tipo de vibración de fuerza que ejercía una presión física real sobre los objetos que tocaba.",
+          "translationRu": "Доктор Уайтли утверждал, что это была разновидность силовых вибраций, оказывавших реальное физическое давление на предметы, которых они касались."
+        }
       ]
     },
     {
       "id": "para-005",
       "sentences": [
-        {"id": "sent-023", "text": "Marlin y Hunt planearon la fuga: en la baja gravedad de Tritón podían saltar muy alto.", "translationRu": "Марлин и Хант разработали план побега: при низкой гравитации Тритона они могли прыгать очень высоко."},
-        {"id": "sent-024", "text": "Quitaron los discos de peso de sus pies y rebotaron de pared en pared hasta llegar a los techos de las celdas.", "translationRu": "Они сняли грузовые диски с ног и начали прыгать от стены к стене, пока не добрались до потолков камер."},
-        {"id": "sent-025", "text": "Cruzaron hacia el lado oscuro de Tritón entre neptunianos dormidos.", "translationRu": "Они пробрались на тёмную сторону Тритона, минуя спящих нептунцев."},
-        {"id": "sent-026", "text": "Tomaron un cilindro, golpearon al guardia y lo usaron para romper el techo de Tritón a toda velocidad.", "translationRu": "Они захватили цилиндр, обезвредили охранника и на полной скорости пробили им крышу Тритона."},
-        {"id": "sent-027", "text": "Cuando los cilindros enemigos los perseguían, apareció la nave espacial de Whitely y Randall, que estaban vivos.", "translationRu": "Когда вражеские цилиндры гнались за ними, появился космический корабль Уайтли и Рэндалла — они оказались живы."},
-        {"id": "sent-028", "text": "Los cuatro escaparon juntos y regresaron a la Tierra en diecisiete días.", "translationRu": "Все четверо бежали вместе и вернулись на Землю за семнадцать дней."}
+        {
+          "id": "sent-015",
+          "text": "Durante tres días, los astrónomos guardaron silencio sin dar nuevos informes, lo que irritó tanto al público como a los responsables de la Oficina de Inteligencia.",
+          "translationRu": "В течение трёх дней астрономы молчали и не давали новых отчётов, что раздражало как общественность, так и руководителей Бюро разведки."
+        },
+        {
+          "id": "sent-016",
+          "text": "Yo mismo comenté a mi jefe Markham que los científicos parecían guardar algún gran secreto, y él respondió que estaban privando al mundo de la primera gran noticia en mucho tiempo.",
+          "translationRu": "Я сам сказал своему начальнику Маркхэму, что учёные, по всей видимости, хранят какую-то большую тайну, и он ответил, что они лишают мир первой большой новости за долгое время."
+        },
+        {
+          "id": "sent-017",
+          "text": "El décimo día, el doctor Marlin publicó una declaración que iba a cambiar el mundo para siempre.",
+          "translationRu": "На десятый день доктор Марлин опубликовал заявление, которое навсегда изменило мир."
+        }
       ]
     },
     {
       "id": "para-006",
       "sentences": [
-        {"id": "sent-029", "text": "La Tierra ya había construido cinco mil naves espaciales mientras ellos estaban en Neptuno.", "translationRu": "Пока они были на Нептуне, Земля уже построила пять тысяч космических кораблей."},
-        {"id": "sent-030", "text": "La flota partió hacia Neptuno equipada con rayos de armas concentradas.", "translationRu": "Флот отправился к Нептуну, вооружённый концентрированными боевыми лучами."},
-        {"id": "sent-031", "text": "Los neptunianos tendieron una emboscada cerca de Saturno con cilindros gigantes y un rayo de fuerza masivo.", "translationRu": "Нептунцы устроили засаду близ Сатурна с гигантскими цилиндрами и мощным силовым лучом."},
-        {"id": "sent-032", "text": "Quinientas naves escaparon del rayo, destruyeron los cilindros gigantes y salvaron al resto de la flota.", "translationRu": "Пятьсот кораблей вырвались из-под луча, уничтожили гигантские цилиндры и спасли остальной флот."}
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {"id": "sent-033", "text": "La gran batalla final ocurrió cerca de Neptuno: cuatro mil naves terrestres contra ocho mil cilindros neptunianos.", "translationRu": "Финальное сражение произошло вблизи Нептуна: четыре тысячи земных кораблей против восьми тысяч нептунских цилиндров."},
-        {"id": "sent-034", "text": "Los neptunianos intentaron rodear a la flota con un círculo, pero Marlin ordenó disparar propulsores hacia afuera y rompieron la trampa.", "translationRu": "Нептунцы попытались окружить флот кольцом, но Марлин приказал направить двигатели наружу и вырвался из ловушки."},
-        {"id": "sent-035", "text": "Persiguieron a los sobrevivientes hasta Tritón, donde estaba el mecanismo del rayo solar.", "translationRu": "Они преследовали выживших до Тритона, где находился механизм солнечного луча."},
-        {"id": "sent-036", "text": "El pozo de control estaba guardado por cien fortalezas cúpula gigantes, y solo pudieron destruir una de las veinte cajas antes de perder muchos barcos.", "translationRu": "Яму управления охраняли сто гигантских крепостей-куполов, и им удалось уничтожить лишь одну из двадцати панелей, потеряв много кораблей."}
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {"id": "sent-037", "text": "Marlin gritó una nueva orden: atacar el rayo de apoyo en el lado oscuro de Tritón, protegido solo por diez fortalezas.", "translationRu": "Марлин выкрикнул новый приказ: атаковать опорный луч на тёмной стороне Тритона, охраняемый лишь десятью крепостями."},
-        {"id": "sent-038", "text": "Como meteoros de metal, las naves se lanzaron en picado sobre el pozo del rayo de apoyo.", "translationRu": "Словно металлические метеоры, корабли ринулись в пике на яму опорного луча."},
-        {"id": "sent-039", "text": "Randall disparó el rayo final y destruyó la última caja de control justo cuando las fortalezas cúpula llegaban.", "translationRu": "Рэндалл выстрелил последним лучом и уничтожил последний блок управления — в тот самый момент, когда подоспели крепости-купола."},
-        {"id": "sent-040", "text": "El rayo de apoyo se apagó y Tritón, empujado por su propio rayo solar, salió disparado hacia el espacio interestelar.", "translationRu": "Опорный луч погас, и Тритон, гонимый собственным солнечным лучом, был выброшен в межзвёздное пространство."},
-        {"id": "sent-041", "text": "Todos los neptunianos iban a bordo de Tritón y se fueron con él para siempre, lejos del sistema solar.", "translationRu": "Все нептунцы находились на борту Тритона и унеслись вместе с ним навсегда, прочь из Солнечной системы."}
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {"id": "sent-042", "text": "El sol dejó de acelerarse y el sistema solar quedó a salvo.", "translationRu": "Солнце прекратило ускоряться, и Солнечная система была спасена."},
-        {"id": "sent-043", "text": "Los cuatro héroes volvieron a la Tierra veinte días después, a bordo de los quinientos barcos que quedaban.", "translationRu": "Четыре героя вернулись на Землю двадцать дней спустя на борту оставшихся пятисот кораблей."},
-        {"id": "sent-044", "text": "Aterrizaron en Nueva York en medio de un silencio impresionante, con toda la ciudad iluminada.", "translationRu": "Они приземлились в Нью-Йорке среди потрясающей тишины — весь город был залит светом."},
-        {"id": "sent-045", "text": "El Presidente del Mundo les agradeció en nombre de todos, pero también recordó a los que habían muerto.", "translationRu": "Президент Мира поблагодарил их от имени всех, но также вспомнил тех, кто погиб."},
-        {"id": "sent-046", "text": "Marlin miró las estrellas y dijo que el mayor regalo era poder seguir viajando por el espacio.", "translationRu": "Марлин посмотрел на звёзды и сказал, что лучшим наградой для них будет возможность продолжать путешествовать в космосе."}
+        {
+          "id": "sent-018",
+          "text": "El doctor Marlin explicó que la velocidad de rotación del sol aumentaba exactamente cuatro horas al día, de forma constante y regular, lo que demostraba que no era un fenómeno causado por disturbios internos del sol.",
+          "translationRu": "Доктор Марлин объяснил, что скорость вращения солнца увеличивалась ровно на четыре часа в день, постоянно и равномерно, что доказывало: это не явление, вызванное внутренними нарушениями солнца."
+        },
+        {
+          "id": "sent-019",
+          "text": "Advirtió que si esta aceleración continuaba al mismo ritmo, en ciento cuarenta días el sol giraría una vez por hora.",
+          "translationRu": "Он предупредил, что если это ускорение продолжится с той же скоростью, через сто сорок дней солнце будет вращаться один раз в час."
+        },
+        {
+          "id": "sent-020",
+          "text": "A esa velocidad, la fuerza centrífuga sería tan grande que superaría la cohesión del sol y este se dividiría en una estrella doble.",
+          "translationRu": "При такой скорости центробежная сила стала бы настолько велика, что превысила бы сцепление солнца, и оно разделилось бы на двойную звезду."
+        },
+        {
+          "id": "sent-021",
+          "text": "Cuando el sol se dividiera, sus dos nuevas partes se alejarían la una de la otra y envolverían en llamas a Mercurio, Venus, la Tierra y Marte.",
+          "translationRu": "Когда солнце разделится, его две новые части удалятся друг от друга и охватят пламенем Меркурий, Венеру, Землю и Марс."
+        },
+        {
+          "id": "sent-022",
+          "text": "Solo Neptuno, el planeta más alejado del sol, estaba suficientemente lejos para sobrevivir a la catástrofe.",
+          "translationRu": "Только Нептун, самая удалённая от солнца планета, находился достаточно далеко, чтобы пережить катастрофу."
+        }
       ]
     }
   ]

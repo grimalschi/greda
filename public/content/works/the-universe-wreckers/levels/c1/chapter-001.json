@@ -5,95 +5,167 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los destructores del universo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
       "id": "para-001",
       "sentences": [
-        {"id": "sent-001", "text": "En mayo de 1994, el doctor Marlin compareció ante el Congreso Mundial con una revelación que heló el ánimo de cuantos la escucharon: el sol giraba con una velocidad creciente que en ciento cincuenta días provocaría su escisión en dos estrellas gemelas.", "translationRu": "В мае 1994 года доктор Марлин предстал перед Мировым Конгрессом с откровением, от которого похолодело у всех присутствующих: солнце вращалось со всё возрастающей скоростью, и через сто пятьдесят дней оно должно было расколоться на две звезды-близнеца."},
-        {"id": "sent-002", "text": "Su colega el doctor Whitely había trazado el origen de esa misteriosa vibración de rayos de fuerza hasta el confín helado de Neptuno, donde algo —o alguien— estaba alimentando aquella catástrofe a escala cósmica.", "translationRu": "Его коллега доктор Уайтли проследил источник таинственной вибрации силовых лучей до ледяных пределов Нептуна, где нечто — или некто — питало эту катастрофу космического масштаба."},
-        {"id": "sent-003", "text": "El destino de la Tierra y de los planetas interiores era la aniquilación; solo Neptuno, el mundo más periférico y más frío, se beneficiaría de la nueva configuración estelar al quedar en órbita alrededor de las dos nuevas soles.", "translationRu": "Земля и внутренние планеты были обречены на уничтожение; лишь Нептун, самый отдалённый и холодный мир, выиграл бы от новой звёздной конфигурации, оказавшись на орбите вокруг двух новых звёзд."},
-        {"id": "sent-004", "text": "Walter Hunt, agente de la Oficina de Inteligencia que presenció la sesión, se ofreció como cuarto tripulante de la misión que habría de viajar hasta Neptuno para intentar detener ese proceso.", "translationRu": "Уолтер Хант, агент Бюро разведки, присутствовавший на заседании, вызвался четвёртым членом экспедиции, которой предстояло добраться до Нептуна и попытаться остановить этот процесс."}
+        {
+          "id": "sent-001",
+          "text": "El tres de mayo de 1994, Walter Hunt acudió al despacho del doctor Marlin en la Oficina de Inteligencia de Washington con la inquietud de quien presiente que las noticias que lleva consigo cambiarán el mundo.",
+          "translationRu": "Третьего мая 1994 года Уолтер Хант прибыл в кабинет доктора Марлина в Бюро разведки в Вашингтоне с тревогой человека, чувствующего, что новости, которые он несёт, изменят мир."
+        },
+        {
+          "id": "sent-002",
+          "text": "Marlin, astrónomo jefe de la Oficina, era un hombre delgado y de ojos brillantes cuya tranquilidad habitual contrastaba esa mañana con un nerviosismo apenas contenido.",
+          "translationRu": "Марлин, главный астроном Бюро, был худощавым человеком с живыми глазами, чья обычная невозмутимость в то утро контрастировала с едва сдерживаемым волнением."
+        },
+        {
+          "id": "sent-003",
+          "text": "Sobre el escritorio reposaban los telegramas de las últimas horas: los observatorios de París y Honolulú confirmaban lo que la estación de Washington había detectado por primera vez dos días antes.",
+          "translationRu": "На столе лежали телеграммы последних часов: обсерватории Парижа и Гонолулу подтверждали то, что вашингтонская станция обнаружила впервые два дня назад."
+        },
+        {
+          "id": "sent-004",
+          "text": "El sol estaba acelerando su rotación.",
+          "translationRu": "Солнце ускоряло своё вращение."
+        }
       ]
     },
     {
       "id": "para-002",
       "sentences": [
-        {"id": "sent-005", "text": "En el plazo de un mes la humanidad concentró sus esfuerzos en construir una nave espacial de treinta pies de longitud, un poliedro de caras facetadas propulsado por el mismo principio de rayos de fuerza que emanaba del planeta enemigo.", "translationRu": "За месяц человечество сосредоточило усилия на строительстве тридцатифутового космического корабля — многогранника с гранёными поверхностями, движимого тем же принципом силовых лучей, что исходил от планеты-врага."},
-        {"id": "sent-006", "text": "Cuatro generadores producían rayos capaces de repeler o atraer cualquier masa, confiriendo a la nave una maniobrabilidad sin precedentes en el vacío.", "translationRu": "Четыре генератора создавали лучи, способные отталкивать или притягивать любую массу, наделяя корабль беспрецедентной манёвренностью в вакууме."},
-        {"id": "sent-007", "text": "A medianoche del dieciséis de junio, ante las miradas de una muchedumbre expectante reunida en los tejados de Nueva York, la pequeña nave ascendió silenciosamente hacia un cielo sin estrellas y se perdió en la oscuridad.", "translationRu": "В полночь шестнадцатого июня, на глазах у ожидающей толпы, собравшейся на крышах Нью-Йорка, маленький корабль беззвучно поднялся в беззвёздное небо и растворился во тьме."},
-        {"id": "sent-008", "text": "El viaje estuvo sembrado de peligros: pasaron junto a los míticos canales de Marte, esquivaron el laberinto caótico del cinturón de asteroides y, ya cerca de Saturno, un meteorito desgarro las conexiones de los generadores.", "translationRu": "Путешествие изобиловало опасностями: они пролетели мимо легендарных каналов Марса, уклонились от хаотичного лабиринта пояса астероидов, а уже близ Сатурна метеорит разорвал соединения генераторов."},
-        {"id": "sent-009", "text": "Los cuatro tripulantes salieron al vacío con trajes de paseo espacial y repararon los cables mientras la nave caía hacia los anillos de Saturno, logrando reconectar los generadores en el último instante antes de ser engullidos.", "translationRu": "Все четыре члена экипажа вышли в вакуум в скафандрах и починили кабели, пока корабль падал к кольцам Сатурна, сумев восстановить соединения в последний момент перед тем, как быть поглощёнными."}
+        {
+          "id": "sent-005",
+          "text": "Lo que desconcertaba a los científicos no era el hecho en sí —las variaciones solares no eran desconocidas— sino la regularidad aterradora del fenómeno: cada día, durante exactamente cuatro horas, el sol giraba más deprisa, y esas cuatro horas de aceleración se repetían con una precisión que no podía atribuirse a ninguna causa interna.",
+          "translationRu": "Что приводило учёных в замешательство — не сам факт, ведь солнечные изменения были известны, — а пугающая регулярность явления: каждый день ровно четыре часа солнце вращалось быстрее, и эти четыре часа ускорения повторялись с точностью, которую нельзя было объяснить никакой внутренней причиной."
+        },
+        {
+          "id": "sent-006",
+          "text": "Una causa interna habría producido variaciones caóticas e imprevisibles; aquella regularidad de reloj indicaba que algo externo estaba actuando sobre la estrella.",
+          "translationRu": "Внутренняя причина породила бы хаотичные и непредсказуемые изменения; эта часовая регулярность указывала на то, что нечто внешнее воздействует на звезду."
+        },
+        {
+          "id": "sent-007",
+          "text": "El doctor Whitely, físico del observatorio, había identificado la naturaleza de ese agente externo: un rayo de fuerza de frecuencia intermedia entre las ondas hertzianas y la luz, un rayo cuya procedencia apuntaba inequívocamente hacia Neptuno.",
+          "translationRu": "Доктор Уайтли, физик обсерватории, определил природу этого внешнего агента: луч силы с частотой, промежуточной между волнами Герца и светом, — луч, чьё происхождение недвусмысленно указывало на Нептун."
+        }
       ]
     },
     {
       "id": "para-003",
       "sentences": [
-        {"id": "sent-010", "text": "El día veintiuno de travesía divisaron Neptuno y con él una revelación perturbadora: la totalidad del planeta estaba recubierta por una vasta bóveda metálica, hermética desde el exterior y translúcida desde dentro.", "translationRu": "На двадцать первый день они увидели Нептун — и вместе с ним тревожное откровение: вся планета была покрыта обширным металлическим куполом, герметичным снаружи и полупрозрачным изнутри."},
-        {"id": "sent-011", "text": "Descendieron a una ciudad en compartimentos completamente desierta: gruesas capas de polvo cubrían las máquinas extractoras de agua, y las puertas —de apenas cuatro pies de altura— delataban que sus constructores no poseían forma humana.", "translationRu": "Они спустились в полностью пустынный секционированный город: толстый слой пыли покрывал вододобывающие машины, а двери — высотой едва в метр — выдавали, что их строители не имели человеческого облика."},
-        {"id": "sent-012", "text": "Los Neptuniano llegaron entonces en cilindros voladores: seres de cuerpo discoidal con siete extremidades cortas, ojos compuestos del tamaño de un puño y una voz staccato que taladraba el aire.", "translationRu": "Вслед за этим на летающих цилиндрах появились нептунцы: существа с дискообразным телом, семью короткими конечностями, фасеточными глазами размером с кулак и пронзительной отрывистой речью."},
-        {"id": "sent-013", "text": "Capturaron a Marlin y a Hunt, destruyeron aparentemente la nave con Whitely y Randall a bordo y los transportaron a Tritón, luna de Neptuno, igualmente enclaustrada bajo una cúpula metálica y hogar de miles de millones de aquellos seres.", "translationRu": "Они захватили Марлина и Ханта, по-видимому уничтожили корабль с Уайтли и Рэндаллом на борту и доставили пленников на Тритон, луну Нептуна, тоже заключённую под металлическим куполом и населённую миллиардами этих существ."}
+        {
+          "id": "sent-008",
+          "text": "Durante tres días los astrónomos de todo el mundo guardaron silencio: no querían desencadenar el pánico antes de estar absolutamente seguros.",
+          "translationRu": "На протяжении трёх дней астрономы всего мира хранили молчание: они не хотели сеять панику, пока не будут абсолютно уверены."
+        },
+        {
+          "id": "sent-009",
+          "text": "El pánico, de todos modos, llegó por sí solo: los rumores se propagaron de ciudad en ciudad, y las bolsas se desplomaron antes de que ningún científico hubiera pronunciado una sola palabra pública.",
+          "translationRu": "Паника всё равно пришла сама по себе: слухи распространялись из города в город, и биржи рухнули раньше, чем хоть один учёный произнёс публично хоть слово."
+        },
+        {
+          "id": "sent-010",
+          "text": "El trece de mayo, cuando los cálculos confirmaron que la aceleración era acumulativa y que, de continuar al ritmo actual, el sol se fisuraría en una estrella doble en ciento cuarenta días, Marlin compareció ante el Congreso Mundial para hacer pública la sentencia de muerte del sistema solar.",
+          "translationRu": "Тринадцатого мая, когда расчёты подтвердили, что ускорение накапливается и что, продолжись это в нынешнем темпе, солнце расколется на двойную звезду через сто сорок дней, Марлин предстал перед Мировым Конгрессом, чтобы огласить смертный приговор Солнечной системы."
+        }
       ]
     },
     {
       "id": "para-004",
       "sentences": [
-        {"id": "sent-014", "text": "En Tritón, miles de millones de neptunianos se alternaban entre el lado iluminado —donde trabajaban bajo la luz reflejada del sol— y el lado oscuro —donde dormían— en ciclos de diez horas señalados por una franja de luz brillante.", "translationRu": "На Тритоне миллиарды нептунцев сменяли друг друга на освещённой стороне — где работали при отражённом солнечном свете — и тёмной стороне — где спали, — чередуясь каждые десять часов по сигналу полосы яркого света."},
-        {"id": "sent-015", "text": "El Consejo de los Treinta —treinta neptunianos cuyos pensamientos se fundían en un único intelecto sintetizado a través de un globo de comunicación mental— reveló a los prisioneros la génesis de la catástrofe.", "translationRu": "Совет Тридцати — тридцать нептунцев, чьи мысли сливались в единый интеллект через шар ментальной связи, — открыл пленникам происхождение катастрофы."},
-        {"id": "sent-016", "text": "Neptuno era el planeta más antiguo del sistema solar; su calor interior menguaba sin remedio y sus habitantes, que habían evolucionado con cuerpos discoidales adaptados a la alta gravedad, vivían recluidos bajo cúpulas metálicas para conservar el poco calor que les quedaba.", "translationRu": "Нептун был древнейшей планетой Солнечной системы; его внутреннее тепло неуклонно убывало, а его жители, эволюционировавшие с дискообразными телами, приспособленными к высокой гравитации, жили взаперти под металлическими куполами, чтобы сохранить остатки тепла."},
-        {"id": "sent-017", "text": "Su solución —esbozada con la fría lógica de una civilización milenaria— fue disparar un colosal rayo de fuerza desde Tritón hacia el ecuador del sol para imprimirle una rotación creciente hasta que se escindiera en dos estrellas gemelas, alrededor de las cuales Neptuno quedaría en una órbita más cálida.", "translationRu": "Их решение — выработанное с холодной логикой тысячелетней цивилизации — состояло в том, чтобы направить колоссальный силовой луч с Тритона на экватор солнца, сообщив ему всё ускоряющееся вращение, пока оно не расщепится на две звезды-близнеца, вокруг которых Нептун окажется на более тёплой орбите."},
-        {"id": "sent-018", "text": "Para evitar que la reacción del rayo expulsara a Tritón al espacio, décadas antes habían lanzado un segundo rayo de apoyo desde el lado oscuro de la luna hacia una estrella en Sagitario, de forma que ambos rayos ejercieran presiones contrapuestas y simultáneas sobre la pequeña luna.", "translationRu": "Чтобы реакция луча не выбросила Тритон в космос, за десятилетия до этого они запустили второй опорный луч с тёмной стороны луны к звезде в Стрельце, так что оба луча оказывали на маленькую луну противоположное и одновременное давление."}
+        {
+          "id": "sent-011",
+          "text": "El Presidente Mundial convocó la sesión extraordinaria del Congreso a la que Hunt asistió como representante de la Oficina de Inteligencia.",
+          "translationRu": "Президент Мира созвал чрезвычайную сессию Конгресса, на которой Хант присутствовал как представитель Бюро разведки."
+        },
+        {
+          "id": "sent-012",
+          "text": "La sala estaba repleta de delegados de todos los continentes, y el silencio que reinaba mientras Marlin subía al estrado tenía la densidad de una catedral.",
+          "translationRu": "Зал был заполнен делегатами со всех континентов, и тишина, царившая в нём, когда Марлин поднимался на трибуну, была плотной, как в соборе."
+        },
+        {
+          "id": "sent-013",
+          "text": "El astrónomo habló sin rodeos: en ciento cuarenta días el sol se dividiría en dos, y los planetas interiores —incluida la Tierra— serían engullidos por los fuegos divergentes de las dos nuevas estrellas.",
+          "translationRu": "Астроном говорил прямо: через сто сорок дней солнце разделится надвое, и внутренние планеты — включая Землю — будут поглощены расходящимися огнями двух новых звёзд."
+        },
+        {
+          "id": "sent-014",
+          "text": "Solo Neptuno, el mundo más periférico y más frío del sistema, sobreviviría al cataclismo, beneficiándose incluso de la nueva configuración estelar.",
+          "translationRu": "Лишь Нептун, самый отдалённый и холодный мир системы, пережил бы катаклизм, и даже выиграл бы от новой звёздной конфигурации."
+        }
       ]
     },
     {
       "id": "para-005",
       "sentences": [
-        {"id": "sent-019", "text": "Marlin y Hunt tramaron la fuga con la ingeniosa explotación de la baja gravedad tritónica: desprendiéndose de los discos de lastre que llevaban en los pies podían saltar distancias enormes.", "translationRu": "Марлин и Хант задумали побег, хитроумно используя низкую гравитацию Тритона: сняв с ног балластные диски, они могли прыгать на огромные расстояния."},
-        {"id": "sent-020", "text": "Rebotando en zigzag de pared en pared alcanzaron los techos de los compartimentos a doscientos pies de altura, cruzaron el antecámara del Consejo y se adentraron en el lado oscuro sorteando a millones de neptunianos dormidos en el suelo.", "translationRu": "Прыгая зигзагом от стены к стене, они добрались до потолков секций на высоте двухсот футов, пересекли прихожую Совета и проникли на тёмную сторону, лавируя между миллионами нептунцев, спящих на полу."},
-        {"id": "sent-021", "text": "En el compartimento de aterrizaje redujeron al guardia, se apoderaron de un cilindro neptuniano y lo lanzaron a plena potencia contra el techo metálico de Tritón, perforándolo.", "translationRu": "В посадочном отсеке они обезвредили охранника, захватили нептунский цилиндр и на полной мощности направили его в металлическую крышу Тритона, пробив её."},
-        {"id": "sent-022", "text": "Cuando los cilindros perseguidores los acorralaban en el vacío, irrumpió la nave espacial original: Whitely y Randall habían sobrevivido simulando su destrucción con restos lanzados al espacio.", "translationRu": "Когда преследующие цилиндры загоняли их в угол в открытом космосе, ворвался первоначальный космический корабль: Уайтли и Рэндалл выжили, инсценировав свою гибель с помощью обломков, выброшенных в космос."},
-        {"id": "sent-023", "text": "Marlin empleó un viraje brusco para estrellar a los perseguidores contra la cúpula metálica de Neptuno, y los cuatro pusieron rumbo a la Tierra.", "translationRu": "Марлин резко отвернул, чтобы разбить преследователей о металлический купол Нептуна, и четвёрка взяла курс на Землю."}
+        {
+          "id": "sent-015",
+          "text": "Sin embargo, Marlin no había subido al estrado únicamente para anunciar la catástrofe, sino para proponer la única solución que él y Whitely habían concebido.",
+          "translationRu": "Однако Марлин поднялся на трибуну не только для того, чтобы объявить о катастрофе, но и чтобы предложить единственное решение, которое они с Уайтли придумали."
+        },
+        {
+          "id": "sent-016",
+          "text": "Puesto que Whitely había comprendido el principio físico del rayo de fuerza neptuniano, era posible construir una nave espacial impulsada por el mismo tipo de rayo: cuatro generadores dispuestos en ángulos opuestos empujarían la nave en cualquier dirección mediante el empuje de reacción.",
+          "translationRu": "Поскольку Уайтли понял физический принцип нептунского силового луча, стало возможным построить космический корабль, движимый тем же типом луча: четыре генератора, расположенных под противоположными углами, будут толкать корабль в любом направлении посредством реактивного импульса."
+        },
+        {
+          "id": "sent-017",
+          "text": "La nave volaría hasta Neptuno o su luna Tritón, determinaría el origen exacto del rayo destructor y lo detendría por cualquier medio disponible.",
+          "translationRu": "Корабль долетит до Нептуна или его луны Тритон, определит точное происхождение разрушительного луча и остановит его любыми доступными средствами."
+        },
+        {
+          "id": "sent-018",
+          "text": "La tripulación sería de tres: el propio Marlin como comandante, Whitely para los generadores, y un asistente de nombre Randall.",
+          "translationRu": "Экипаж будет состоять из трёх человек: сам Марлин в качестве командира, Уайтли для работы с генераторами и помощник по имени Рэндалл."
+        }
       ]
     },
     {
       "id": "para-006",
       "sentences": [
-        {"id": "sent-024", "text": "Diecisiete días después aterrizaban en una Tierra que, en su ausencia, había construido cinco mil naves espaciales basadas en el mismo principio de propulsión por rayos de fuerza.", "translationRu": "Семнадцать дней спустя они приземлились на Земле, которая за время их отсутствия построила пять тысяч кораблей, основанных на том же принципе тяги силовыми лучами."},
-        {"id": "sent-025", "text": "Tres días de frenéticos preparativos bastaron para equipar la flota con rayos de armas concentradas; entonces, los cinco mil barcos partieron hacia Neptuno bajo el mando conjunto de Marlin y los suyos.", "translationRu": "Трёх дней лихорадочной подготовки хватило, чтобы оснастить флот концентрированными боевыми лучами; затем пять тысяч кораблей двинулись к Нептуну под общим командованием Марлина и его команды."},
-        {"id": "sent-026", "text": "Junto a los anillos de Saturno los aguardaba la primera gran emboscada: cilindros gigantes aferraron a la flota con un rayo de fuerza masivo y la empujaron inexorablemente hacia los anillos.", "translationRu": "У колец Сатурна их ждала первая крупная засада: гигантские цилиндры захватили флот мощным силовым лучом и неудержимо толкали его к кольцам."},
-        {"id": "sent-027", "text": "Quinientas naves que habían quedado fuera del rayo atacaron por los flancos, destruyeron los cilindros gigantes y liberaron a la flota justo cuando sus proas rozaban ya los fragmentos helados.", "translationRu": "Пятьсот кораблей, оставшихся вне луча, ударили с флангов, уничтожили гигантские цилиндры и освободили флот в тот самый момент, когда его носы уже касались ледяных осколков."}
+        {
+          "id": "sent-019",
+          "text": "Mientras Marlin hablaba, Hunt sentía que algo se movía en su interior: una urgencia que no era miedo sino su contrario exacto.",
+          "translationRu": "Пока Марлин говорил, Хант чувствовал, как что-то шевелится внутри него: настойчивость, которая была не страхом, а его прямой противоположностью."
+        },
+        {
+          "id": "sent-020",
+          "text": "Antes de que la voz del astrónomo terminase de resonar en el recinto, Hunt ya estaba de pie, y antes de que hubiese tenido tiempo de ordenar sus pensamientos, sus pies lo habían llevado hasta el estrado.",
+          "translationRu": "Прежде чем голос астронома перестал отдаваться в зале, Хант уже стоял на ногах, а прежде чем успел упорядочить свои мысли, ноги сами вынесли его к трибуне."
+        },
+        {
+          "id": "sent-021",
+          "text": "—Necesitan un cuarto hombre —declaró, con una calma que lo sorprendió a él mismo—, y yo soy ese hombre.",
+          "translationRu": "— Вам нужен четвёртый человек, — заявил он со спокойствием, которое само его удивило, — и этот человек — я."
+        }
       ]
     },
     {
       "id": "para-007",
       "sentences": [
-        {"id": "sent-028", "text": "La gran batalla final se libró ante Neptuno: cuatro mil naves terrestres contra ocho mil cilindros neptunianos en una contienda que sacudió el espacio durante horas.", "translationRu": "Финальное сражение разгорелось у Нептуна: четыре тысячи земных кораблей против восьми тысяч нептунских цилиндров в битве, сотрясавшей пространство долгие часы."},
-        {"id": "sent-029", "text": "Los neptunianos intentaron ceñir a la flota terrestre en un cerco que la aniquilara, pero Marlin ordenó disparar los propulsores hacia afuera en masa, y la fuerza combinada rompió el anillo enemigo.", "translationRu": "Нептунцы попытались сомкнуть кольцо вокруг земного флота, чтобы уничтожить его, но Марлин приказал всем одновременно направить двигатели наружу, и объединённая сила разорвала вражеское кольцо."},
-        {"id": "sent-030", "text": "Persiguieron a los supervivientes hasta Tritón, donde el mecanismo del rayo solar —veinte cajas de control repartidas en el fondo de un inmenso pozo— estaba custodiado por cien fortalezas cúpula móviles de dimensiones colosales.", "translationRu": "Они преследовали выживших до Тритона, где механизм солнечного луча — двадцать блоков управления в глубине огромной ямы — охранялся сотней колоссальных подвижных крепостей-куполов."},
-        {"id": "sent-031", "text": "Los primeros asaltos destruyeron una sola caja antes de que las cien fortalezas diezmaran a la flota; la victoria parecía imposible.", "translationRu": "Первые атаки уничтожили лишь один блок, прежде чем сто крепостей начали выкашивать флот; победа казалась невозможной."}
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {"id": "sent-032", "text": "Fue entonces cuando Marlin lanzó su último recurso: el rayo de apoyo en el lado oscuro de Tritón estaba protegido por apenas diez fortalezas, no por cien.", "translationRu": "Именно тогда Марлин прибег к последнему средству: опорный луч на тёмной стороне Тритона охраняли всего десять крепостей, а не сто."},
-        {"id": "sent-033", "text": "Si conseguían destruir ese rayo de apoyo, la presión del propio rayo solar expulsaría a Tritón al espacio interestelar, destruyendo con él todo el mecanismo.", "translationRu": "Если бы им удалось уничтожить этот опорный луч, давление самого солнечного луча выбросило бы Тритон в межзвёздное пространство, уничтожив вместе с ним весь механизм."},
-        {"id": "sent-034", "text": "Como meteoros de metal, las naves restantes se precipitaron sobre el segundo pozo y en una primera pasada furiosa aniquilaron la mitad de sus cajas de control.", "translationRu": "Словно металлические метеоры, оставшиеся корабли обрушились на вторую яму и в первом яростном заходе уничтожили половину её блоков управления."},
-        {"id": "sent-035", "text": "Las cien fortalezas giraban en su persecución cuando Randall disparó la andanada final y una veintena de rayos convergentes aniquilaron la última caja de control en el preciso instante en que los grandes domos se cernían sobre el pozo dispuestos a exterminarlos.", "translationRu": "Сто крепостей разворачивались в погоне, когда Рэндалл дал последний залп и двадцать сходящихся лучей уничтожили последний блок управления в тот самый момент, когда огромные купола нависли над ямой, готовые их уничтожить."},
-        {"id": "sent-036", "text": "El rayo de apoyo se extinguió con un destello cegador y, sin nada que contrarrestara la presión inconmensurable del rayo solar, Tritón fue arrancado de la órbita de Neptuno y proyectado hacia el vacío interestelar con una velocidad que desafiaba la imaginación.", "translationRu": "Опорный луч угас ослепительной вспышкой, и без ничего, что противостояло бы неизмеримому давлению солнечного луча, Тритон был вырван с орбиты Нептуна и брошен в межзвёздный вакуум со скоростью, не поддающейся воображению."},
-        {"id": "sent-037", "text": "La luna se alejó girando, impulsada irónicamente por su propio rayo solar, llevando consigo a toda la civilización neptuniana hacia la oscuridad eterna del espacio exterior.", "translationRu": "Луна удалялась, кружась, движимая иронически собственным солнечным лучом, унося с собой всю нептунскую цивилизацию в вечную тьму внешнего космоса."},
-        {"id": "sent-038", "text": "Marlin, con la voz quebrada, habló al vacío negro donde la esfera menguante de Tritón se perdía: «¡O vosotros o nosotros! Luchasteis por Neptuno y vuestra raza como nosotros lo hicimos por la Tierra y el sistema solar, pero la Tierra y el sistema solar han vencido.»", "translationRu": "Марлин, со срывающимся голосом, обратился к чёрной пустоте, в которой тускнела убывающая сфера Тритона: «Или вы, или мы! Вы сражались за Нептун и свою расу, как мы — за Землю и Солнечную систему, но Земля и Солнечная система победили»."}
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {"id": "sent-039", "text": "Veinte días después, los quinientos barcos supervivientes regresaban a la Tierra con los cuatro exploradores en el puesto de mando, en un silencio mutuo que era a la vez agotamiento, duelo y asombro.", "translationRu": "Двадцать дней спустя пятьсот уцелевших кораблей возвращались на Землю с четырьмя исследователями на командном посту — в молчании, которое было одновременно изнеможением, скорбью и изумлением."},
-        {"id": "sent-040", "text": "Nueva York los recibió con una sobrecogedora inmensidad de silencio: las multitudes apiñadas en tejados y calles, los edificios ardiendo en luces como nunca antes, el Congreso Mundial en hilera en la azotea del gran Edificio del Gobierno.", "translationRu": "Нью-Йорк встретил их потрясающей безмерной тишиной: толпы на крышах и улицах, здания, сияющие огнями как никогда прежде, Мировой Конгресс в ряд на крыше великого Правительственного здания."},
-        {"id": "sent-041", "text": "El Presidente del Mundo se adelantó con las manos tendidas y la voz temblorosa para darles las gracias en nombre de una humanidad que no sabía cómo expresar su deuda.", "translationRu": "Президент Мира вышел вперёд с протянутыми руками и дрожащим голосом, чтобы поблагодарить их от имени человечества, не знавшего, как выразить свой долг."},
-        {"id": "sent-042", "text": "Marlin, en voz baja y extraña, respondió que la gratitud correspondía también a los que no habían regresado, y que para los cuatro la mayor recompensa era ya la que tenían: las naves espaciales y todos los mundos del sistema solar abiertos ante ellos.", "translationRu": "Марлин тихим и странным голосом ответил, что благодарность принадлежит и тем, кто не вернулся, и что для четверых высшей наградой уже является то, что у них есть: космические корабли и все миры Солнечной системы, открытые перед ними."},
-        {"id": "sent-043", "text": "Y con esas palabras, los cuatro miraron juntos hacia arriba, más allá de las luces brillantes, hacia las constelaciones estivales y los planetas que ardían entre ellas —Marte carmesí, Saturno amarillo, Júpiter blanco—, con una tensión súbita y extraña, olvidados por un instante del mundo que acababan de salvar.", "translationRu": "И с этими словами все четверо вместе посмотрели вверх — за пределы ярких огней, к летним созвездиям и пылающим среди них планетам: пунцовому Марсу, жёлтому Сатурну, белому Юпитеру, — с внезапным и странным напряжением, на мгновение забыв о мире, который только что спасли."}
+        {
+          "id": "sent-022",
+          "text": "Hubo un instante de silencio absoluto en el que el Congreso entero pareció contener la respiración.",
+          "translationRu": "Наступило мгновение абсолютной тишины, в которое весь Конгресс, казалось, затаил дыхание."
+        },
+        {
+          "id": "sent-023",
+          "text": "Marlin lo miró largo tiempo con aquellos ojos brillantes e inquisitivos, evaluando no sólo su coraje sino su utilidad práctica para la misión.",
+          "translationRu": "Марлин долго смотрел на него своими живыми и испытующими глазами, оценивая не только его мужество, но и практическую пользу для миссии."
+        },
+        {
+          "id": "sent-024",
+          "text": "Hunt era agente de la Oficina de Inteligencia, hombre acostumbrado a actuar bajo presión y a tomar decisiones en entornos hostiles, y aquellas cualidades podían ser precisamente las que la expedición necesitara.",
+          "translationRu": "Хант был агентом Бюро разведки, человеком, привыкшим действовать под давлением и принимать решения во враждебных условиях, и именно эти качества могли оказаться тем, что нужно экспедиции."
+        },
+        {
+          "id": "sent-025",
+          "text": "Finalmente, el astrónomo asintió con un gesto breve y seco que sellaba el trato: Walter Hunt sería el cuarto tripulante de la nave que intentaría salvar el sistema solar.",
+          "translationRu": "Наконец астроном кивнул коротким и чётким жестом, скрепляющим договор: Уолтер Хант станет четвёртым членом экипажа корабля, который попытается спасти Солнечную систему."
+        }
       ]
     }
   ]
