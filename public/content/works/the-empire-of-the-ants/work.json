@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-empire-of-the-ants",
+  "title": "El Imperio de las Hormigas",
+  "titleRu": "Империя муравьёв",
+  "originalTitle": "The Empire of the Ants",
+  "author": {
+    "id": "h-g-wells",
+    "name": "H. G. Wells"
+  },
+  "genres": [
+    "Фантастика",
+    "Уэллс"
+  ],
+  "synopsisRu": "Британский инженер Холройд плывёт на канонерке по Амазонке и сталкивается с новым видом муравьёв — разумных, организованных и безжалостных. Существа с ядовитыми укусами уже покорили обширные территории Бразилии, и ничто, кажется, не может их остановить.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

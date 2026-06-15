@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "a-dream-of-armageddon",
+  "title": "Un sueño del Armagedón",
+  "titleRu": "Сон об Армагеддоне",
+  "originalTitle": "A Dream of Armageddon",
+  "author": {
+    "id": "h-g-wells",
+    "name": "H. G. Wells"
+  },
+  "genres": [
+    "Фантастика",
+    "Уэллс"
+  ],
+  "synopsisRu": "Больной незнакомец в поезде рассказывает о снах, в которых он живёт в будущем под именем Хедон: бывший политический лидер, бросивший всё ради любви, беспомощно наблюдает, как разгорается мировая война. Их бегство заканчивается гибелью возлюбленной у древних храмов Пестума и его собственной смертью.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

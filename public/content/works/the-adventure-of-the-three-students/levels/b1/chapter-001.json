@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-three-students",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de los tres estudiantes"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "En el año 1895, Sherlock Holmes y el doctor Watson vivían en una ciudad universitaria mientras Holmes investigaba unos documentos históricos.", "translationRu": "В 1895 году Шерлок Холмс и доктор Ватсон жили в университетском городе, пока Холмс изучал старинные документы."},
+        {"id": "sent-002", "text": "Una noche llegó a verlos el señor Hilton Soames, profesor del Colegio de San Lucas.", "translationRu": "Однажды ночью к ним пришёл господин Хилтон Соамс, преподаватель колледжа Святого Луки."},
+        {"id": "sent-003", "text": "Era un hombre nervioso y delgado, y aquella noche estaba muy agitado.", "translationRu": "Это был нервный и худощавый человек, а той ночью он был особенно взволнован."},
+        {"id": "sent-004", "text": "Pidió ayuda a Holmes porque no quería llamar a la policía y causar un escándalo en la universidad.", "translationRu": "Он просил помощи Холмса, так как не хотел звать полицию и вызывать скандал в университете."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "El señor Soames explicó que al día siguiente había un examen importante para una beca muy valiosa.", "translationRu": "Господин Соамс объяснил, что на следующий день предстоял важный экзамен на очень ценную стипендию."},
+        {"id": "sent-006", "text": "Esa tarde llegaron los papeles secretos del examen, que él tuvo que revisar.", "translationRu": "В тот день пришли секретные бумаги экзамена, которые ему нужно было проверить."},
+        {"id": "sent-007", "text": "A las cuatro y media salió a tomar el té con un amigo y dejó los papeles en su mesa.", "translationRu": "В половине пятого он вышел пить чай с другом и оставил бумаги на столе."},
+        {"id": "sent-008", "text": "Cuando volvió, descubrió que alguien entró y leyó los papeles del examen.", "translationRu": "Когда он вернулся, то обнаружил, что кто-то вошёл и прочитал бумаги с вопросами."},
+        {"id": "sent-009", "text": "Su criado Bannister olvidó la llave en la puerta al entrar a preguntar si el señor Soames quería té.", "translationRu": "Его слуга Баннистер забыл ключ в двери, когда заходил спросить, не хочет ли господин Соамс чаю."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-010", "text": "Holmes fue con Watson al cuarto de Soames y examinó todo con mucho cuidado.", "translationRu": "Холмс отправился с Ватсоном в комнату Соамса и тщательно всё осмотрел."},
+        {"id": "sent-011", "text": "Encontró trozos de un lápiz azul de tamaño grande en la mesa de la ventana.", "translationRu": "На столе у окна он нашёл кусочки большого синего карандаша."},
+        {"id": "sent-012", "text": "También vio un corte en el cuero rojo de la mesa y una pequeña bola de barro negro.", "translationRu": "Также он заметил порез на красной коже стола и небольшой шарик чёрной глины."},
+        {"id": "sent-013", "text": "En el dormitorio encontró una segunda bola de barro igual, lo que indicaba que el intruso se escondió allí.", "translationRu": "В спальне он нашёл второй такой же шарик глины, что указывало: незваный гость прятался именно там."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-014", "text": "Soames le contó que en esa misma escalera vivían tres estudiantes que competían por la beca.", "translationRu": "Соамс рассказал, что на той же лестнице жили три студента, претендовавших на стипендию."},
+        {"id": "sent-015", "text": "Gilchrist era alto y gran deportista, pero era muy pobre porque su padre arruinó la fortuna familiar.", "translationRu": "Гилкрист был высоким и отличным спортсменом, но очень бедным — его отец промотал семейное состояние."},
+        {"id": "sent-016", "text": "Daulat Ras era un estudiante indio, tranquilo y metódico, aunque el griego era su punto débil.", "translationRu": "Дауат Рас — индийский студент, спокойный и методичный, хотя греческий был его слабым местом."},
+        {"id": "sent-017", "text": "Miles McLaren era brillante pero perezoso y con mala reputación, y tenía muchas razones para temer el examen.", "translationRu": "Майлз Маклорен был блестящим, но ленивым и с дурной репутацией — у него было много причин бояться экзамена."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-018", "text": "Holmes visitó los cuartos de los tres estudiantes con la excusa de estudiar la arquitectura del edificio.", "translationRu": "Холмс посетил комнаты всех трёх студентов под предлогом изучения архитектуры здания."},
+        {"id": "sent-019", "text": "En el cuarto de Gilchrist, Holmes rompió su lápiz a propósito y pidió prestado uno y un cuchillo.", "translationRu": "В комнате Гилкриста Холмс намеренно сломал свой карандаш и попросил в долг карандаш и нож."},
+        {"id": "sent-020", "text": "Cuando llamaron a la puerta de McLaren, él gritó con malas palabras y no abrió.", "translationRu": "Когда постучали в дверь Маклорена, тот закричал грубыми словами и не открыл."},
+        {"id": "sent-021", "text": "Holmes preguntó cuánto medía McLaren y observó que era más bajo que Gilchrist.", "translationRu": "Холмс спросил о росте Маклорена и выяснил, что тот ниже Гилкриста."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-022", "text": "A la mañana siguiente, Holmes llegó muy temprano con tres bolas de barro negro.", "translationRu": "На следующее утро Холмс пришёл очень рано с тремя шариками чёрной глины."},
+        {"id": "sent-023", "text": "Fue a los campos de atletismo donde los saltadores usan una tierra especial y llevó una muestra.", "translationRu": "Он сходил на спортивное поле, где прыгуны используют особую землю, и принёс образец."},
+        {"id": "sent-024", "text": "Le pidió a Soames que llamara a Gilchrist para hablar con él.", "translationRu": "Он попросил Соамса вызвать Гилкриста для разговора."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-025", "text": "Holmes explicó lo que pasó: Gilchrist practicaba el salto de longitud y volvió con sus zapatos de atletismo.", "translationRu": "Холмс объяснил произошедшее: Гилкрист тренировался в прыжках в длину и вернулся в шиповках."},
+        {"id": "sent-026", "text": "Como era muy alto, pudo ver a través de la ventana los papeles secretos sobre la mesa.", "translationRu": "Будучи очень высоким, он смог разглядеть через окно секретные бумаги на столе."},
+        {"id": "sent-027", "text": "Al ver la llave en la puerta, entró, copió los papeles y cuando oyó volver a Soames se escondió en el dormitorio.", "translationRu": "Заметив ключ в двери, он вошёл, скопировал бумаги, а когда услышал возвращение Соамса — спрятался в спальне."},
+        {"id": "sent-028", "text": "El barro de los zapatos de atletismo dejó las bolas negras que Holmes encontró en las dos habitaciones.", "translationRu": "Глина с шиповок оставила те самые чёрные шарики, которые Холмс нашёл в обеих комнатах."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-029", "text": "Gilchrist admitió su culpa y se arrodilló llorando.", "translationRu": "Гилкрист признал свою вину и упал на колени в слезах."},
+        {"id": "sent-030", "text": "Bannister confesó que se sentó en la silla para esconder los guantes de Gilchrist y protegerle.", "translationRu": "Баннистер признался, что сел на стул, чтобы спрятать перчатки Гилкриста и защитить его."},
+        {"id": "sent-031", "text": "Bannister trabajó de mayordomo para el padre de Gilchrist y sentía un gran afecto por el joven.", "translationRu": "Баннистер служил дворецким у отца Гилкриста и испытывал к молодому человеку искреннюю привязанность."},
+        {"id": "sent-032", "text": "Gilchrist ya escribió una carta diciendo que no iba a hacer el examen y que aceptó un trabajo en la policía de Rhodesia.", "translationRu": "Гилкрист уже написал письмо с отказом от экзамена и сообщал, что принял должность в полиции Родезии."},
+        {"id": "sent-033", "text": "Holmes se despidió con unas palabras amables para el joven y el caso se cerró sin escándalo.", "translationRu": "Холмс попрощался с молодым человеком добрыми словами, и дело закрылось без скандала."}
+      ]
+    }
+  ]
+}

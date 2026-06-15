@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-three-students",
+  "title": "La aventura de los tres estudiantes",
+  "titleRu": "Приключение трёх студентов",
+  "originalTitle": "The Adventure of the Three Students",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс расследует кражу секретных экзаменационных вопросов в университете: кто-то скопировал листы, пока преподаватель ушёл пить чай. Ключом к разгадке становятся шарики чёрной глины, оставленные атлетическими шиповками.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

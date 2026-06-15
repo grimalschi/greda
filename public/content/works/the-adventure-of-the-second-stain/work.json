@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-second-stain",
+  "title": "La aventura de la segunda mancha",
+  "titleRu": "Приключение второго пятна",
+  "originalTitle": "The Adventure of the Second Stain",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс берётся за расследование исчезновения секретного письма иностранного монарха, способного ввергнуть Европу в войну. Разгадка оказывается связана с убийством шпиона и отчаянным поступком светской дамы, которую шантажировали.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
