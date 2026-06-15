@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los ladrones de estrellas"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Ran Rarak era el capitán de una nave espacial de la Federación de Estrellas.",
-          "translationRu": "Ран Рарак был капитаном космического корабля Федерации Звёзд."
+          "text": "Entré en la pequeña sala de mando de la nave y el piloto me saludó.",
+          "translationRu": "Я вошёл в тесную рубку управления корабля, и пилот отдал мне честь."
         },
         {
           "id": "sent-002",
-          "text": "La Federación mantenía la paz en toda la Galaxia.",
-          "translationRu": "Федерация поддерживала мир во всей Галактике."
+          "text": "«Alfa Centauri está justo enfrente, señor», dijo.",
+          "translationRu": "«Альфа Центавра прямо по курсу, сэр», — доложил он."
         },
         {
           "id": "sent-003",
-          "text": "Un día, las autoridades del sistema solar llamaron a Ran Rarak de vuelta a casa.",
-          "translationRu": "Однажды власти Солнечной системы вызвали Ран Рарака домой."
+          "text": "Le ordené girar treinta grados y reducir la velocidad a ochenta veces la velocidad de la luz.",
+          "translationRu": "Я приказал повернуть на тридцать градусов и снизить скорость до восьмидесяти световых скоростей."
         },
         {
           "id": "sent-004",
-          "text": "Él no sabía por qué, pero obedeció la orden.",
-          "translationRu": "Он не знал почему, но выполнил приказ."
+          "text": "A través de las grandes ventanas vi las dos soles brillantes de Alfa Centauri moverse lentamente a un lado.",
+          "translationRu": "Сквозь большие иллюминаторы я видел, как два ярких солнца Альфа Центавра медленно сместились в сторону."
         }
       ]
     },
@@ -38,28 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "En Neptuno, Hurus Hol, el jefe de la Oficina de Conocimiento Astronómico, lo esperaba.",
-          "translationRu": "На Нептуне его ждал Хурус Хол, начальник Бюро Астрономических Знаний."
+          "text": "Nuestra nave era un crucero largo y delgado, y desde la sala de mando podíamos ver todas las estrellas del universo.",
+          "translationRu": "Наш корабль был длинным и узким крейсером, и из рубки управления нам были видны все звёзды вселенной."
         },
         {
           "id": "sent-006",
-          "text": "Hurus Hol le contó un secreto terrible.",
-          "translationRu": "Хурус Хол рассказал ему страшную тайну."
+          "text": "Delante brillaba el pequeño sol amarillo de nuestro propio sistema solar.",
+          "translationRu": "Впереди светило маленькое жёлтое солнце нашей собственной Солнечной системы."
         },
         {
           "id": "sent-007",
-          "text": "Una estrella muerta y gigante venía del espacio hacia nuestra Galaxia.",
-          "translationRu": "Огромная мёртвая звезда летела из космоса к нашей Галактике."
+          "text": "Hacía más de dos años que nuestro crucero había salido para unirse a la gran flota de la Federación de las Estrellas.",
+          "translationRu": "Более двух лет назад наш крейсер вышел в поход, чтобы присоединиться к великому флоту Федерации Звёзд."
         },
         {
           "id": "sent-008",
-          "text": "Esta estrella oscura iba a pasar muy cerca de nuestro sol.",
-          "translationRu": "Эта тёмная звезда должна была пройти очень близко от нашего Солнца."
-        },
-        {
-          "id": "sent-009",
-          "text": "Con su enorme fuerza de gravedad, iba a robar el sol y llevarlo al espacio oscuro.",
-          "translationRu": "Своей огромной гравитацией она собиралась похитить Солнце и унести его в тёмный космос."
+          "text": "La Federación mantenía la paz en toda la Galaxia, y nosotros patrullábamos las rutas espaciales y perseguíamos a los piratas.",
+          "translationRu": "Федерация поддерживала мир во всей Галактике, а мы патрулировали космические пути и преследовали пиратов."
         }
       ]
     },
@@ -67,19 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-009",
+          "text": "Ahora habíamos recibido una orden urgente de regresar a nuestro sistema solar y presentarnos en la Oficina del Conocimiento Astronómico, en Neptuno.",
+          "translationRu": "Теперь мы получили срочный приказ вернуться в нашу Солнечную систему и явиться в Бюро Астрономических Знаний на Нептуне."
+        },
+        {
           "id": "sent-010",
-          "text": "Hurus Hol tenía un plan: volar hacia la estrella oscura y detenerla.",
-          "translationRu": "У Хуруса Хола был план: лететь к тёмной звезде и остановить её."
+          "text": "Era algo muy raro: ninguna estrella llamaba a sus naves de vuelta desde la flota.",
+          "translationRu": "Это было крайне необычно: ни одна звезда не отзывала свои корабли из флота."
         },
         {
           "id": "sent-011",
-          "text": "Preparó cincuenta naves y pidió a Ran Rarak ser el capitán de la expedición.",
-          "translationRu": "Он подготовил пятьдесят кораблей и попросил Ран Рарака стать капитаном экспедиции."
+          "text": "Dal Nara, la segunda oficial de la nave, entró a la sala de mando con una sonrisa.",
+          "translationRu": "Дал Нара, второй офицер корабля, вошла в рубку управления с улыбкой."
         },
         {
           "id": "sent-012",
-          "text": "Ran Rarak aceptó sin dudar.",
-          "translationRu": "Ран Рарак согласился без колебаний."
+          "text": "«¡Doce horas más y estaremos en casa!», dijo, y la tripulación ya trabajaba más rápido de lo normal.",
+          "translationRu": "«Ещё двенадцать часов — и мы дома!» — сказала она, и экипаж уже работал быстрее обычного."
         }
       ]
     },
@@ -88,28 +88,23 @@
       "sentences": [
         {
           "id": "sent-013",
-          "text": "Las cincuenta naves volaron al espacio oscuro fuera de la Galaxia.",
-          "translationRu": "Пятьдесят кораблей полетели в тёмный космос за пределы Галактики."
+          "text": "Doce horas después nuestra nave llegó al sistema solar y descendió hacia Neptuno.",
+          "translationRu": "Двенадцать часов спустя наш корабль добрался до Солнечной системы и пошёл на снижение к Нептуну."
         },
         {
           "id": "sent-014",
-          "text": "Pronto llegaron a la enorme estrella oscura.",
-          "translationRu": "Вскоре они добрались до огромной тёмной звезды."
+          "text": "Sobre el planeta había miles de grandes naves de todas partes de la Galaxia: barcos de grano de Betelgeuse, lujosos trasatlánticos de Arturo y Vega, y muchos otros.",
+          "translationRu": "Над планетой висели тысячи больших кораблей со всей Галактики: зерновозы из Бетельгейзе, роскошные лайнеры из Арктура и Веги и многие другие."
         },
         {
           "id": "sent-015",
-          "text": "Tenía ciudades brillantes y seres extraños con tentáculos.",
-          "translationRu": "На ней были светящиеся города и странные существа с щупальцами."
+          "text": "Pero los cruceros de la Federación tenían prioridad, y todos los demás barcos abrieron paso para nosotros.",
+          "translationRu": "Но крейсеры Федерации имели приоритет, и все остальные суда расступились перед нами."
         },
         {
           "id": "sent-016",
-          "text": "Estos seres atacaron las naves de la expedición con bombas.",
-          "translationRu": "Эти существа атаковали корабли экспедиции бомбами."
-        },
-        {
-          "id": "sent-017",
-          "text": "Casi todas las naves fueron destruidas.",
-          "translationRu": "Почти все корабли были уничтожены."
+          "text": "Aterrizamos suavemente en el techo de la Oficina del Conocimiento Astronómico.",
+          "translationRu": "Мы мягко приземлились на крышу Бюро Астрономических Знаний."
         }
       ]
     },
@@ -117,29 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-017",
+          "text": "Bajé en un pequeño ascensor y entré en una sala de paredes blancas donde me esperaba Hurus Hol, el jefe de la Oficina.",
+          "translationRu": "Я спустился на маленьком лифте и вошёл в комнату с белыми стенами, где меня ждал Хурус Хол, начальник Бюро."
+        },
+        {
           "id": "sent-018",
-          "text": "La nave de Ran Rarak cayó a la superficie de la estrella oscura.",
-          "translationRu": "Корабль Ран Рарака упал на поверхность тёмной звезды."
+          "text": "«Ran Rarak», dijo Hurus Hol, «te ordené regresar por una razón que no podíamos decir en un mensaje abierto».",
+          "translationRu": "«Ран Рарак», — сказал Хурус Хол, — «я приказал тебе вернуться по причине, которую нельзя было сообщать в открытом сообщении»."
         },
         {
           "id": "sent-019",
-          "text": "Él, Hurus Hol y la oficial Dal Nara fueron al centro de la ciudad.",
-          "translationRu": "Он, Хурус Хол и офицер Дал Нара пошли в центр города."
+          "text": "Me explicó que hacía tres semanas los astrónomos descubrieron una gigante estrella oscura que se acercaba a nuestra Galaxia desde el espacio infinito.",
+          "translationRu": "Он объяснил, что три недели назад астрономы обнаружили гигантскую тёмную звезду, приближающуюся к нашей Галактике из бесконечного пространства."
         },
         {
           "id": "sent-020",
-          "text": "Allí vieron un gran condensador de gravedad.",
-          "translationRu": "Там они увидели огромный гравитационный конденсатор."
-        },
-        {
-          "id": "sent-021",
-          "text": "Esta máquina cambiaba el camino de la estrella oscura hacia el sol.",
-          "translationRu": "Эта машина изменяла курс тёмной звезды в сторону Солнца."
-        },
-        {
-          "id": "sent-022",
-          "text": "Los seres los capturaron y los pusieron en prisión.",
-          "translationRu": "Существа поймали их и бросили в тюрьму."
+          "text": "Esta estrella muerta era millones de veces más grande que nuestro propio sol, y se movía a una velocidad increíble.",
+          "translationRu": "Эта мёртвая звезда была в миллионы раз больше нашего Солнца и двигалась с невероятной скоростью."
         }
       ]
     },
@@ -147,24 +137,19 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-021",
+          "text": "Al principio, los científicos pensaron que la estrella oscura pasaría a quince mil millones de millas de nuestro sol, sin ningún peligro.",
+          "translationRu": "Поначалу учёные думали, что тёмная звезда пройдёт в пятнадцати миллиардах миль от нашего Солнца — без всякой опасности."
+        },
+        {
+          "id": "sent-022",
+          "text": "Pero ahora su camino se curvaba hacia adentro, y pasaría a solo tres mil millones de millas de nuestro sol.",
+          "translationRu": "Но теперь её путь искривлялся внутрь, и она должна была пройти всего в трёх миллиардах миль от нашего Солнца."
+        },
+        {
           "id": "sent-023",
-          "text": "En prisión, Hurus Hol explicó todo sobre los seres y su plan.",
-          "translationRu": "В тюрьме Хурус Хол объяснил всё о существах и их плане."
-        },
-        {
-          "id": "sent-024",
-          "text": "Ellos querían robar nuestro sol para calentar su mundo frío.",
-          "translationRu": "Они хотели похитить наше Солнце, чтобы обогреть свой холодный мир."
-        },
-        {
-          "id": "sent-025",
-          "text": "Ran Rarak estuvo inconsciente diez semanas.",
-          "translationRu": "Ран Рарак провёл без сознания десять недель."
-        },
-        {
-          "id": "sent-026",
-          "text": "Cuando se despertó, el sol estaba en peligro en solo diez días.",
-          "translationRu": "Когда он очнулся, Солнцу угрожала опасность — всего через десять дней."
+          "text": "«A esa distancia, la fuerza gravitacional del gigante oscuro va a capturar a nuestro sol y llevarlo al espacio infinito para siempre», dijo Hurus Hol con la cara blanca.",
+          "translationRu": "«На таком расстоянии гравитационная сила тёмного гиганта захватит наше Солнце и унесёт его в бесконечный космос навсегда», — сказал Хурус Хол с побелевшим лицом."
         }
       ]
     },
@@ -172,64 +157,29 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-024",
+          "text": "Hurus Hol me dijo que huir era imposible: no había suficientes naves para transportar a los trillones de habitantes del sistema solar.",
+          "translationRu": "Хурус Хол сказал мне, что бегство невозможно: не хватило бы кораблей, чтобы вывезти триллионы жителей Солнечной системы."
+        },
+        {
+          "id": "sent-025",
+          "text": "Solo había una oportunidad: salir al espacio exterior y desviar a la estrella oscura de su camino peligroso.",
+          "translationRu": "Был лишь один шанс: выйти во внешний космос и отклонить тёмную звезду с её опасного пути."
+        },
+        {
+          "id": "sent-026",
+          "text": "Hurus Hol ya tenía listos cincuenta cruceros rápidos en el techo del edificio, y quería que yo fuera el capitán de la expedición.",
+          "translationRu": "Хурус Хол уже подготовил пятьдесят быстрых крейсеров на крыше здания и хотел, чтобы я стал командиром экспедиции."
+        },
+        {
           "id": "sent-027",
-          "text": "Los tres prisioneros encontraron una cadena y escaparon por la ventana.",
-          "translationRu": "Трое заключённых нашли цепь и сбежали через окно."
+          "text": "Me acerqué a la ventana, miré el pequeño sol amarillo en el cielo lejano, y acepté el mando.",
+          "translationRu": "Я подошёл к окну, посмотрел на маленькое жёлтое солнце в далёком небе и принял командование."
         },
         {
           "id": "sent-028",
-          "text": "Corrieron a su nave y volaron hacia el condensador.",
-          "translationRu": "Они побежали к своему кораблю и полетели к конденсатору."
-        },
-        {
-          "id": "sent-029",
-          "text": "Pero los rayos de la nave ya no funcionaban.",
-          "translationRu": "Но лучевые пушки корабля уже не работали."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "De repente, llegó la flota de la Federación con cinco mil naves de guerra.",
-          "translationRu": "Внезапно прибыл флот Федерации — пять тысяч боевых кораблей."
-        },
-        {
-          "id": "sent-031",
-          "text": "Una nave solitaria escapó antes y pidió ayuda.",
-          "translationRu": "Один-единственный корабль успел сбежать раньше и позвал на помощь."
-        },
-        {
-          "id": "sent-032",
-          "text": "Ran Rarak usó su nave como un arma y chocó contra el interruptor del condensador.",
-          "translationRu": "Ран Рарак использовал свой корабль как оружие и протаранил выключатель конденсатора."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-033",
-          "text": "El condensador se apagó y la estrella oscura cambió su camino.",
-          "translationRu": "Конденсатор отключился, и тёмная звезда изменила курс."
-        },
-        {
-          "id": "sent-034",
-          "text": "El sol estaba a salvo.",
-          "translationRu": "Солнце было спасено."
-        },
-        {
-          "id": "sent-035",
-          "text": "La estrella oscura voló al espacio oscuro sin el sol robado.",
-          "translationRu": "Тёмная звезда улетела в тёмный космос без похищенного Солнца."
-        },
-        {
-          "id": "sent-036",
-          "text": "Ran Rarak y Dal Nara regresaron al servicio de la flota, felices de haber salvado su sol.",
-          "translationRu": "Ран Рарак и Дал Нара вернулись служить в флот, счастливые тем, что спасли своё Солнце."
+          "text": "Diez minutos después, nuestros cincuenta cruceros salían del planeta y se lanzaban a toda velocidad hacia las profundidades del espacio oscuro.",
+          "translationRu": "Десять минут спустя наши пятьдесят крейсеров уже покидали планету и мчались на полной скорости в глубины тёмного пространства."
         }
       ]
     }

@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los ladrones de estrellas"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El capitán Ran Rarak llevaba más de dos años surcando el espacio interestelar al mando de un crucero de la Federación de Estrellas cuando llegó la orden que lo desconcertó: regresar de inmediato al sistema solar y presentarse en la Oficina de Conocimiento Astronómico en Neptuno.",
-          "translationRu": "Капитан Ран Рарак уже более двух лет бороздил межзвёздный космос во главе крейсера Федерации Звёзд, когда пришёл приказ, поставивший его в тупик: немедленно вернуться в Солнечную систему и явиться в Бюро Астрономических Знаний на Нептуне."
+          "text": "Cuando el capitán Ran Rarak entró en la angosta sala de mando, el piloto se volvió hacia él con un saludo marcial: Alpha Centauri se erguía muerta frente a nosotros.",
+          "translationRu": "Когда капитан Ран Рарак вошёл в тесную рубку управления, пилот повернулся к нему со строгим приветствием: Альфа Центавра стояла прямо по курсу."
         },
         {
           "id": "sent-002",
-          "text": "Era un hecho casi sin precedentes en la historia de la Federación que una estrella miembro retirara uno de sus cruceros de la flota conjunta, y Ran Rarak no podía sacudirse la inquietud que le provocaba aquella incógnita durante las horas que duró el viaje de vuelta.",
-          "translationRu": "Это был почти беспрецедентный случай в истории Федерации — чтобы звезда-член отзывала один из своих крейсеров из совместного флота, и Ран Рарак не мог избавиться от тревоги, которую вягивала в него эта загадка на протяжении всех часов обратного пути."
+          "text": "Ordenó virar treinta grados y reducir a ochenta velocidades-luz hasta rebasar el sistema doble, y mientras la nave torcía su rumbo, el esplendor panorama interestelar ante las amplias ventanas fue desplazándose lentamente hacia un costado.",
+          "translationRu": "Он приказал повернуть на тридцать градусов и снизить скорость до восьмидесяти световых скоростей, пока они огибали двойную систему, и пока корабль менял курс, великолепная межзвёздная панорама в широких иллюминаторах медленно смещалась в сторону."
         },
         {
           "id": "sent-003",
-          "text": "Su segunda oficial, Dal Nara, descendiente de una larga estirpe de pilotos interestelares, recibió la noticia con una alegría que no logró disimular del todo, aunque también ella admitió que la repentina llamada resultaba inexplicable.",
-          "translationRu": "Его второй офицер, Дал Нара, происходившая из длинной династии межзвёздных пилотов, восприняла новость с радостью, которую ей не вполне удалось скрыть, хотя и она признала, что внезапный вызов не поддаётся объяснению."
+          "text": "A la derecha se extendía el río de fuego de la Galaxia, salpicado por los carmesíes de Betelgeuse y el destello helado de Rígel; y enfrente, ya despejada de los dos soles que acababan de pasar, brillaba la familiar estrella amarilla que era el sol de su sistema natal.",
+          "translationRu": "Справа простиралась огненная река Галактики, усеянная малиновыми пятнами Бетельгейзе и ледяным блеском Ригеля; а впереди, освободившись от двух только что миновавших солнц, светила знакомая жёлтая звезда — солнце его родной системы."
+        },
+        {
+          "id": "sent-004",
+          "text": "Más de dos años habían transcurrido desde que el crucero abandonara aquel sol para incorporarse a la gran flota de la Federación de Estrellas, que mantenía la paz en toda la Galaxia, escoltando las rutas comerciales interestelares y aplastando ocasionalmente las naves pirata que intentaban hostigar el tráfico.",
+          "translationRu": "Прошло более двух лет с тех пор, как крейсер покинул то солнце, чтобы войти в состав великого флота Федерации Звёзд, поддерживавшего мир во всей Галактике, сопровождая межзвёздные торговые маршруты и время от времени давя пиратские корабли, пытавшиеся досаждать торговле."
         }
       ]
     },
@@ -32,24 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Hurus Hol, el jefe de la Oficina, lo recibió a solas en su despacho de paredes de marfil y, tras unos instantes de silencio cargados de gravedad, le reveló un secreto que, de haberse filtrado al público, habría sumido al sistema solar en el pánico más apocalíptico de su historia.",
-          "translationRu": "Хурус Хол, начальник Бюро, принял его наедине в своём кабинете с белоснежными стенами и, после нескольких мгновений тишины, полной тяжёлой серьёзности, открыл тайну, которая, просочись она в публику, ввергла бы Солнечную систему в самую апокалиптическую панику в её истории."
-        },
-        {
           "id": "sent-005",
-          "text": "Una estrella muerta de dimensiones inconcebibles —mayor que Canopus, mayor que Antares, millones de veces más grande que el propio sol— viajaba desde las profundidades del espacio intergaláctico a una velocidad que desafiaba toda medida.",
-          "translationRu": "Мёртвая звезда немыслимых размеров — больше Канопуса, больше Антареса, в миллионы раз крупнее самого Солнца — летела из глубин межгалактического пространства со скоростью, бросавшей вызов всякому измерению."
+          "text": "La joven segunda oficial, Dal Nara, descendiente de una ilustre estirpe de pilotos interestelares, entró en la sala de mando con una sonrisa apenas contenida: doce horas y estarían de regreso, anunció.",
+          "translationRu": "Молодой второй офицер, Дал Нара, потомок прославленной династии межзвёздных пилотов, вошла в рубку с едва сдерживаемой улыбкой: двенадцать часов — и они будут дома, объявила она."
         },
         {
           "id": "sent-006",
-          "text": "En un principio, los cálculos indicaban que pasaría a quince mil millones de millas del borde galáctico, a una distancia inofensiva; sin embargo, en las últimas semanas su trayectoria había comenzado a curvarse hacia el interior de la Galaxia de manera que contrariaba todos los principios conocidos de la mecánica celeste.",
-          "translationRu": "Поначалу расчёты показывали, что она пройдёт в пятнадцати миллиардах миль от галактического края на безопасном расстоянии; однако в последние недели её траектория начала изгибаться внутрь Галактики таким образом, что противоречило всем известным принципам небесной механики."
+          "text": "Ran Rarak sonrió ante su entusiasmo, aunque una pregunta seguía demorándose en su mente: ¿qué razón tan urgente habría impulsado al sistema solar a retirar su único crucero de la flota de la Federación, un hecho casi inaudito en la historia de aquella institución?",
+          "translationRu": "Ран Рарак улыбнулся её энтузиазму, хотя один вопрос не давал ему покоя: что за столь неотложная причина заставила Солнечную систему отозвать свой единственный крейсер из флота Федерации — поступок, почти неслыханный в истории этой организации?"
         },
         {
           "id": "sent-007",
-          "text": "A la distancia que ahora alcanzaría —apenas tres mil millones de millas del sol—, la prodigiosa gravedad de aquel gigante muerto capturar inevitablemente a nuestra estrella y la arrastraría junto con sus ocho planetas hacia las tinieblas del espacio infinito, para no regresar jamás.",
-          "translationRu": "На том расстоянии, которое она теперь преодолеет — всего три миллиарда миль от Солнца, — чудовищная гравитация этого мёртвого исполина неизбежно захватит нашу звезду и утащит её вместе с восемью планетами во мрак бесконечного космоса, откуда возврата уже не будет."
+          "text": "Sin respuesta todavía a ese interrogante, la flota completó el último tramo del viaje y se dejó caer sobre Neptuno —punto de llegada y partida de todo el comercio interestelar del sistema solar—, abriéndose paso entre el denso tráfico de naves que pendían como nubes sobre el planeta.",
+          "translationRu": "Так и не получив ответа, флотилия завершила последний отрезок пути и начала снижение к Нептуну — пункту прибытия и отправления всей межзвёздной торговли Солнечной системы, — пробираясь сквозь плотный трафик кораблей, висевших над планетой подобно облакам."
+        },
+        {
+          "id": "sent-008",
+          "text": "Enormes cargueros de Betelgeuse, elegantes trasatlánticos de Arturo y Vega, largos correos de Deneb y Achernar se acumulaban en masa desde el horizonte hasta el horizonte; ante la insignia de la Federación de Estrellas que lucía la proa del crucero de Ran Rarak, sin embargo, todos abrieron paso de inmediato.",
+          "translationRu": "Огромные грузовозы из Бетельгейзе, изысканные лайнеры из Арктура и Веги, длинные почтовые суда из Денеба и Ахернара громоздились от горизонта до горизонта; однако при виде эмблемы Федерации Звёзд на носу крейсера Ран Рарака все немедленно расступились."
         }
       ]
     },
@@ -57,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "La huida era imposible: no había en toda la Galaxia suficientes naves para evacuar en cuatro semanas a los billones de habitantes del sistema solar.",
-          "translationRu": "Бегство было невозможно: во всей Галактике не нашлось бы достаточно кораблей, чтобы за четыре недели эвакуировать триллионы жителей Солнечной системы."
-        },
-        {
           "id": "sent-009",
-          "text": "Quedaba solo una posibilidad: volar hacia la estrella oscura con todo el instrumental científico disponible e intentar desviar su curso.",
-          "translationRu": "Оставалась лишь одна возможность: лететь к тёмной звезде со всем имеющимся научным оборудованием и попытаться отклонить её курс."
+          "text": "En el interior de la gran edificio que albergaba la Oficina de Conocimiento Astronómico, Hurus Hol —jefe de la institución, de pelo canoso y ojos penetrantes— recibió a Ran Rarak a solas en un despacho de paredes de marfil cuya pared lejana se abría por completo a la luz y la brisa de unos jardines exteriores.",
+          "translationRu": "Внутри большого здания, в котором располагалось Бюро Астрономических Знаний, Хурус Хол — начальник учреждения, седоволосый, с острым взглядом — принял Ран Рарака наедине в кабинете со стенами цвета слоновой кости, дальняя стена которого была полностью открыта свету и бризу наружных садов."
         },
         {
           "id": "sent-010",
-          "text": "Hurus Hol había reunido ya cincuenta cruceros y ofrecía el mando de la expedición a Ran Rarak, advirtiéndole que el peligro sería mayor de lo que ninguno de ellos podía imaginar.",
-          "translationRu": "Хурус Хол уже собрал пятьдесят крейсеров и предлагал командование экспедицией Ран Рараку, предупреждая, что опасность окажется больше, чем кто-либо из них мог представить."
+          "text": "Con voz pausada y rostro ceniciento, Hurus Hol le reveló el secreto que, de hacerse público, habría sumido al sistema solar en un pánico sin precedentes: los astrónomos habían descubierto tres semanas antes que una estrella oscura y muerta de dimensiones inconcebibles —mayor que Canopus, que Antares, que Betelgeuse, millones de veces más grande que el propio sol— se aproximaba a la Galaxia desde las profundidades del espacio infinito a una velocidad prodigiosa.",
+          "translationRu": "Размеренным голосом и с пепельным лицом Хурус Хол открыл тайну, которая, стань она достоянием общества, ввергла бы Солнечную систему в панику, небывалую доселе: три недели назад астрономы обнаружили, что мёртвая тёмная звезда немыслимых размеров — крупнее Канопуса, Антареса, Бетельгейзе, в миллионы раз больше самого Солнца — надвигается на Галактику из глубин бесконечного пространства с огромной скоростью."
         },
         {
           "id": "sent-011",
-          "text": "Ran Rarak se dirigió a la ventana abierta, alzó los ojos hacia el pequeño sol amarillo que ardía distante y sereno, y aceptó.",
-          "translationRu": "Ран Рарак подошёл к распахнутому окну, поднял взгляд к маленькому жёлтому Солнцу, горевшему далеко и безмятежно, и согласился."
+          "text": "Los cálculos iniciales indicaban que pasaría a quince mil millones de millas de borde galáctico —una distancia inofensiva—, pero en las últimas semanas su trayectoria había comenzado a curvarse inexplicablemente hacia el interior, de modo que ahora se preveía que pasaría a apenas tres mil millones de millas del sol.",
+          "translationRu": "Первоначальные расчёты показывали, что она пройдёт в пятнадцати миллиардах миль от галактического края — на безопасном расстоянии, — но в последние недели её траектория необъяснимо начала изгибаться внутрь, так что теперь предполагалось, что она пройдёт всего в трёх миллиардах миль от Солнца."
+        },
+        {
+          "id": "sent-012",
+          "text": "A esa distancia, la formidable atracción gravitacional del gigante muerto capturaría inevitablemente a nuestro sol y lo arrastraría consigo, junto con sus ocho planetas, hacia las tinieblas del espacio infinito, para no regresar jamás.",
+          "translationRu": "На таком расстоянии чудовищное гравитационное притяжение мёртвого исполина неизбежно захватит наше Солнце и увлечёт его за собой вместе с восемью планетами во мрак бесконечного пространства, откуда возврата не будет."
         }
       ]
     },
@@ -82,19 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "La flota salió disparada del sistema solar y se adentró en la oscuridad absoluta que yacía más allá del borde de la Galaxia, una tiniebla de proporciones inconmensurables en la que los únicos puntos de referencia eran la propia Galaxia retrocediendo a sus espaldas y algunos débiles parpadeos de luz que eran otras galaxias separadas por distancias inimaginables.",
-          "translationRu": "Флот устремился прочь из Солнечной системы и углубился в абсолютную тьму, лежавшую за краем Галактики, — мрак неизмеримых пропорций, в котором единственными ориентирами служили отступавшая за спиной Галактика и несколько слабых мерцаний, бывших другими галактиками, разделёнными невообразимыми расстояниями."
-        },
-        {
           "id": "sent-013",
-          "text": "Un enorme torbellino de corrientes etéricas —fenómeno desconocido dentro de la Galaxia— los golpeó sin advertencia y destruyó cuatro cruceros en cuestión de minutos, antes de que pudieran escapar de su agarre.",
-          "translationRu": "Огромный водоворот эфирных течений — явление, неизвестное внутри Галактики, — ударил без предупреждения и уничтожил четыре крейсера за несколько минут, прежде чем им удалось вырваться из его захвата."
+          "text": "La huida era imposible: no había en toda la Galaxia naves suficientes para evacuar a los billones de habitantes del sistema solar en las cuatro semanas que restaban.",
+          "translationRu": "Бегство было невозможно: во всей Галактике не нашлось бы достаточно кораблей, чтобы эвакуировать триллионы жителей Солнечной системы за оставшиеся четыре недели."
         },
         {
           "id": "sent-014",
-          "text": "Al sexto día, cuando ya dudaban de sus cálculos, avistaron ante ellos un resplandor tenue que se fue intensificando hasta revelar la inmensa esfera de la estrella oscura, bañada en una luz fosforescente procedente de los propios minerales radiactivos de su superficie.",
-          "translationRu": "На шестой день, когда они уже начали сомневаться в своих расчётах, перед ними забрезжило слабое свечение, постепенно усиливавшееся, пока не открылась огромная сфера тёмной звезды, омытая фосфорическим светом, исходившим от самих радиоактивных минералов её поверхности."
+          "text": "Solo quedaba una posibilidad ciega y desesperada: alcanzar aquella estrella oscura antes de que pasara junto al sol, llevando consigo todo el instrumental científico imaginable, e intentar desviar su curso lo suficiente para que pasara a una distancia segura.",
+          "translationRu": "Оставалась лишь одна слепая отчаянная возможность: настигнуть ту тёмную звезду прежде, чем она минует Солнце, захватив с собой всё мыслимое научное оборудование, и попытаться отклонить её курс настолько, чтобы она прошла на безопасном расстоянии."
+        },
+        {
+          "id": "sent-015",
+          "text": "Hurus Hol había reunido ya en secreto cincuenta cruceros ligeros especialmente equipados, y pensaba liderar la expedición en persona; lo que necesitaba era un crucero de batalla como nave insignia y a Ran Rarak como comandante de toda la fuerza.",
+          "translationRu": "Хурус Хол уже тайно собрал пятьдесят лёгких специально оснащённых крейсеров и намеревался лично возглавить экспедицию; ему нужен был боевой крейсер в качестве флагмана и Ран Рарак как командующий всеми силами."
+        },
+        {
+          "id": "sent-016",
+          "text": "Hurus Hol le advirtió sin ambages que el peligro sería mayor de lo que ninguno de ellos podía imaginar, y le ofreció la posibilidad de declinar el mando sin deshonra alguna.",
+          "translationRu": "Хурус Хол без обиняков предупредил его, что опасность окажется больше, чем кто-либо из них мог представить, и предложил ему возможность отказаться от командования без малейшего бесчестья."
         }
       ]
     },
@@ -102,19 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Sobre las llanuras luminosas se extendían bosques de vegetación retorcida y negra como el azabache, y entre ellos se alzaban las ciudades de sus moradores: pirámides colosales que brillaban con aquella misma luz difusa, habitadas por criaturas de cuerpo cónico y negros tentáculos que servían a la vez de brazos y de piernas.",
-          "translationRu": "Над светящимися равнинами простирались леса скрученной, чёрной как смоль растительности, а среди них возвышались города их обитателей: колоссальные пирамиды, мерцавшие тем же рассеянным светом и населённые существами с конусообразным телом и чёрными щупальцами, служившими одновременно руками и ногами."
-        },
-        {
-          "id": "sent-016",
-          "text": "Apenas la flota se acercó, enjambres de conos negros surgidos de los tejados de las pirámides lanzaron sobre ella una andanada de bombas etéricas que, en pocos minutos, redujo a la nada todos los cruceros salvo el de Ran Rarak y una sola nave que logró huir hacia la Galaxia.",
-          "translationRu": "Едва флот приблизился, рои чёрных конусов, вырвавшихся с крыш пирамид, обрушили на него шквал эфирных бомб и за несколько минут обратили в ничто все крейсеры, кроме крейсера Ран Рарака и одного корабля, которому удалось бежать к Галактике."
-        },
-        {
           "id": "sent-017",
-          "text": "El crucero recibió el impacto de uno de los conos enemigos, giró enloquecido y se precipitó hacia la superficie, salvándose de la destrucción total gracias a la amortiguación del bosque negro y a la intervención de última hora del capitán en los controles.",
-          "translationRu": "Крейсер принял удар одного из вражеских конусов, завертелся как безумный и рухнул к поверхности, спасшись от полного уничтожения лишь благодаря амортизации чёрного леса и вмешательству капитана на последних секундах."
+          "text": "Ran Rarak se dirigió en silencio a la gran ventana abierta de la sala; fuera se extendían los jardines verdes, y más allá los tejados blancos de los edificios que brillaban bajo la tenue luz del sol, pequeño y lejano aquí, pero aún el sol.",
+          "translationRu": "Ран Рарак молча подошёл к распахнутому большому окну кабинета; снаружи простирались зелёные сады, а дальше — белые крыши зданий, сиявшие в мягком свете Солнца, маленького и далёкого здесь, но всё же Солнца."
+        },
+        {
+          "id": "sent-018",
+          "text": "Durante un largo instante alzó los ojos hacia esa fuente de luz pálida, y luego se volvió hacia Hurus Hol con una sola palabra: aceptaba.",
+          "translationRu": "Долгое мгновение он смотрел на этот источник бледного света, а затем повернулся к Хурусу Холу с единственным словом: он принимал."
+        },
+        {
+          "id": "sent-019",
+          "text": "Diez minutos después estaban en el tejado; al sonar una alarma, las tripulaciones de los cincuenta cruceros corrieron a sus puestos, y en pocos minutos toda la escuadra despegó en formación de cuña cerrada hacia el cénit, remontando el caótico tráfico de Neptuno hasta que la flota entera quedó libre de él y aceleró hacia las fronteras de la Galaxia.",
+          "translationRu": "Десять минут спустя они были на крыше; когда прозвучала тревога, экипажи пятидесяти крейсеров бросились по местам, и вскоре вся эскадра взлетела в плотном клинообразном строю к зениту, преодолевая хаотичный трафик Нептуна, пока весь флот не вырвался на свободу и не устремился к границам Галактики."
+        },
+        {
+          "id": "sent-020",
+          "text": "Detrás y en torno a ellos brillaba el gran panorama de las estrellas galácticas, pero delante no había sino oscuridad: una tiniebla inconmensurable, cósmica, hacia la que sus naves se lanzaban a velocidad creciente mientras el sistema solar quedaba reducido a una mota amarilla invisible en la noche del espacio.",
+          "translationRu": "Позади и вокруг них сверкала великая панорама галактических звёзд, но впереди была только тьма: безмерный, космический мрак, в который их корабли устремлялись со всё возраставшей скоростью, пока Солнечная система не превратилась в крошечную жёлтую искорку, невидимую в ночи пространства."
         }
       ]
     },
@@ -122,19 +137,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "Aprovechando el período de sueño de los habitantes —señalado por el bramido de unas trompas gigantescas—, Ran Rarak, Hurus Hol, Dal Nara y el piloto Nal Jak se internaron en la ciudad silenciada y llegaron hasta el corazón de sus avenidas.",
-          "translationRu": "Воспользовавшись периодом сна жителей — отмечаемым рёвом исполинских труб, — Ран Рарак, Хурус Хол, Дал Нара и пилот Нал Как углубились в умолкший город и добрались до самого сердца его проспектов."
+          "id": "sent-021",
+          "text": "Veinticuatro horas después de la partida, Ran Rarak permanecía de pie en la sala de mando junto al imperturbable timonel Nal Jak, contemplando el vacío negro que se extendía ante ellos: nunca en todos sus años de navegación interestelar había afrontado semejante oscuridad.",
+          "translationRu": "Двадцать четыре часа после отплытия Ран Рарак стоял в рубке рядом с невозмутимым рулевым Нал Каком, глядя в чёрную пустоту, простиравшуюся перед ними: никогда за все годы межзвёздного плавания он не сталкивался с подобным мраком."
         },
         {
-          "id": "sent-019",
-          "text": "Allí contemplaron en el borde de un inmenso pozo circular el aparato que lo explicaba todo: centenares de hemisferios de un azul cegador, zumbantes y vibrantes, el condensador de gravedad con el que aquellas criaturas curvaban el curso de su estrella oscura.",
-          "translationRu": "Там, на краю огромного круглого котлована, они увидели устройство, объяснявшее всё: сотни ослепительно синих гудящих и вибрирующих полусфер — гравитационный конденсатор, с помощью которого эти существа изгибали курс своей тёмной звезды."
+          "id": "sent-022",
+          "text": "La Galaxia que habían dejado atrás era ya solo un enjambre de chispas de luz contrayéndose lentamente, y hacia la derecha brillaban apenas unos parches neblinosos que eran otras galaxias, titánicas aglomeraciones de soles reducidas a imperceptibles parpadeos por las distancias inconcebibles que las separaban.",
+          "translationRu": "Галактика, которую они оставили позади, была уже лишь роем медленно сжимавшихся искр света, а справа едва светились туманные пятна — другие галактики, исполинские скопления звёзд, сведённые к неразличимым мерцаниям немыслимыми расстояниями, разделявшими их."
         },
         {
-          "id": "sent-020",
-          "text": "Pero antes de que Hurus Hol pudiera articular su descubrimiento en voz alta, un cono de vigilancia los detectó; los seres se abalanzaron sobre ellos y, tras una refriega breve y feroz, los redujeron a la impotencia.",
-          "translationRu": "Но прежде чем Хурус Хол успел вслух сформулировать своё открытие, сторожевой конус их обнаружил; существа набросились на них и после короткой яростной схватки лишили сил."
+          "id": "sent-023",
+          "text": "Hurus Hol entró en la sala y ambos se inclinaron sobre el gran telechart —enorme placa de metal pulido que reproducía mediante rayos proyectados y reflejados la posición de todos los cuerpos celestes cercanos—: en él avanzaba, lento pero inexorable, un círculo negro de proporciones aterradoras hacia la línea luminosa que Hurus Hol había trazado en torno a su sol, la llamada «línea de peligro».",
+          "translationRu": "Хурус Хол вошёл в рубку, и оба склонились над большой телекартой — огромной пластиной полированного металла, воспроизводившей с помощью проецируемых и отражённых лучей положение всех близлежащих небесных тел: на ней медленно, но неотвратимо надвигался чёрный круг устрашающих размеров к светящейся линии, которую Хурус Хол провёл вокруг их Солнца, так называемой «линии опасности»."
+        },
+        {
+          "id": "sent-024",
+          "text": "Hurus Hol observó la siniestra mancha oscura y sacudió la cabeza: había algo muy extraño en esa trayectoria curva que contradecía abiertamente todas las leyes de la mecánica celeste.",
+          "translationRu": "Хурус Хол смотрел на зловещее тёмное пятно и покачал головой: в этой кривой траектории было что-то очень странное, явно противоречившее всем законам небесной механики."
         }
       ]
     },
@@ -142,24 +162,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Nal Jak fue viviseccionado por los científicos de las criaturas; los otros tres quedaron encerrados en una celda de la gran pirámide, donde Ran Rarak yació inconsciente y delirante durante diez semanas enteras.",
-          "translationRu": "Нал Как был вивисецирован учёными существ; остальные трое оказались заперты в камере большой пирамиды, где Ран Рарак целых десять недель пролежал без сознания в бреду."
+          "id": "sent-025",
+          "text": "Antes de que pudiera terminar su razonamiento, un impacto brutal sacudió la nave: el crucero cabeceó y giró enloquecido, como agitado por una mano gigante; Hurus Hol, Dal Nara, Ran Rarak y el piloto fueron arrojados violentamente contra los mamparos mientras a través de las ventanas asistían al espectáculo aterrador de los cincuenta cruceros girando a su alrededor como pajas al viento.",
+          "translationRu": "Прежде чем он смог завершить мысль, жестокий удар потряс корабль: крейсер дёрнулся и завертелся как безумный, словно встряхнутый исполинской рукой; Хурус Хол, Дал Нара, Ран Рарак и пилот были с силой брошены о переборки, пока через иллюминаторы они наблюдали ужасающее зрелище пятидесяти крейсеров, вращавшихся вокруг них как соломинки на ветру."
         },
         {
-          "id": "sent-022",
-          "text": "Durante ese tiempo, Hurus Hol se comunicó con los científicos-tentáculos mediante proyecciones de imágenes en la pared y fue reconstruyendo la historia de aquellos seres: su sol había ardido durante eones y luego se había enfriado irremediablemente; sus razas habían sacrificado planeta tras planeta para reavivar sus llamas moribundas hasta que, agotados los recursos, se instalaron sobre la propia superficie de la estrella muerta, cuya roca radiactiva les proporcionaba la única fuente de calor que les quedaba.",
-          "translationRu": "За это время Хурус Хол наладил общение с учёными-щупальцами через проецируемые на стену образы и постепенно восстановил историю этих существ: их солнце горело эонами, а потом безвозвратно остыло; их расы жертвовали планету за планетой, чтобы поддержать угасающие огни, пока, исчерпав ресурсы, не поселились на самой поверхности мёртвой звезды, чья радиоактивная порода давала им последний источник тепла."
+          "id": "sent-026",
+          "text": "Dos de los cruceros chocaron entre sí con una violencia que los aniquiló instantáneamente; Ran Rarak y Hurus Hol, arrastrándose por el suelo, alcanzaron los controles y lograron estabilizar la nave, que al cabo escapó de aquel agarre monstruoso y reemprendió su marcha entre el silencio y la calma de antes.",
+          "translationRu": "Два крейсера столкнулись друг с другом с такой силой, что были мгновенно уничтожены; Ран Рарак и Хурус Хол, ползком добравшись до приборов, сумели стабилизировать корабль, который в конце концов вырвался из того чудовищного захвата и возобновил ход среди прежней тишины и покоя."
         },
         {
-          "id": "sent-023",
-          "text": "Ahora también ese calor se agotaba, y sus astrónomos habían encontrado la única solución posible: robar una estrella de nuestra Galaxia al pasar junto a su borde, para que aquella estrella orbitara alrededor de su mundo oscuro como un sol secundario que los calentara durante eones venideros.",
-          "translationRu": "Теперь иссякало и это тепло, и их астрономы нашли единственно возможное решение: похитить звезду из нашей Галактики, проходя мимо её края, чтобы та звезда обращалась вокруг их тёмного мира как вторичное солнце, обогревающее их в грядущие эоны."
+          "id": "sent-027",
+          "text": "El operador de mensajes informó que cuatro cruceros habían sido destruidos por las colisiones; los demás volvían a formar en columna.",
+          "translationRu": "Оператор связи доложил, что четыре крейсера были уничтожены столкновениями; остальные снова выстраивались в колонну."
         },
         {
-          "id": "sent-024",
-          "text": "El condensador concentraba sobre la propia estrella oscura la fuerza gravitacional irradiada por toda la Galaxia, curvando su trayectoria inward hacia nuestro sol; cuando pasara a tres mil millones de millas de este, bastaría con apagar el condensador para que el sol fuera arrebatado por la gravedad del gigante negro.",
-          "translationRu": "Конденсатор концентрировал на самой тёмной звезде гравитационную силу, излучаемую всей Галактикой, изгибая её траекторию навстречу нашему Солнцу; когда она прошла бы в трёх миллиардах миль от него, достаточно было бы отключить конденсатор, чтобы Солнце было захвачено гравитацией чёрного исполина."
+          "id": "sent-028",
+          "text": "Hurus Hol explicó con calma que debían de haber cruzado un enorme torbellino de corrientes etéricas —fenómeno que en el interior de la Galaxia era siempre lento y casi imperceptible, pero que en las regiones vacías del espacio exterior podía alcanzar proporciones titánicas— y que habían tenido suerte de perder tan solo cuatro naves.",
+          "translationRu": "Хурус Хол спокойно объяснил, что они, по всей видимости, пересекли огромный водоворот эфирных течений — явление, которое внутри Галактики всегда было медленным и почти незаметным, но во внешних пустых регионах пространства могло достигать титанических масштабов, — и что им повезло потерять всего четыре корабля."
         }
       ]
     },
@@ -167,24 +187,24 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-025",
-          "text": "Cuando Ran Rarak recobró el conocimiento, solo quedaban diez días; la angustia de saberse prisioneros mientras el sol se perdía lentamente los sumió en una desesperación que rompieron solo cuando ya no les quedaba más remedio.",
-          "translationRu": "Когда Ран Рарак пришёл в себя, оставалось всего десять дней; тоска от сознания своей беспомощности, пока Солнце медленно уходило, ввергла их в отчаяние, которое они смогли преодолеть, лишь когда у них уже не было иного выхода."
+          "id": "sent-029",
+          "text": "Al sexto día de vuelo, cuando ya empezaban a dudar de sus cálculos y de haber errado el rumbo, Dal Nara fue la primera en señalar hacia adelante: una débil luminosidad cubría el cielo entero como un cerco fosforescente que se iba intensificando a medida que la flota se aproximaba.",
+          "translationRu": "На шестой день полёта, когда они уже начали сомневаться в своих расчётах и правильности курса, Дал Нара первой указала вперёд: слабое свечение охватывало всё небо подобно фосфоресцирующему кольцу, усиливавшемуся по мере того как флот приближался."
         },
         {
-          "id": "sent-026",
-          "text": "La fortuna les tendió una mano insólita: uno de los seres dejó caer ante su celda un rollo de cadena metálica de una resistencia extraordinaria; Dal Nara lo alcanzó con el pie y aquella cadena se convirtió en la única esperanza de tres condenados.",
-          "translationRu": "Судьба протянула им неожиданную руку помощи: одно из существ уронило у их камеры бухту металлической цепи исключительной прочности; Дал Нара дотянулась до неё ногой, и эта цепь стала единственной надеждой трёх обречённых."
+          "id": "sent-030",
+          "text": "Ascendiendo para ganar altura, la flota remontó lo que resultó ser el borde de una esfera de tamaño inimaginable: la estrella oscura, titánica y muerta, bañada en una fosforescencia fría y permanente que emanaba de su propia roca radiactiva.",
+          "translationRu": "Набирая высоту, флот поднялся над тем, что оkazалось краем сферы невообразимого размера: тёмная звезда, исполинская и мёртвая, омытая холодной постоянной фосфоресценцией, исходившей из её собственной радиоактивной породы."
         },
         {
-          "id": "sent-027",
-          "text": "Durante el período de sueño siguiente arrancaron con esfuerzo sobrehumano un barrote de la ventana, amarraron la cadena a los que quedaban y comenzaron el descenso por la pared de la pirámide, a quinientos pies de altura sobre la calle luminosa.",
-          "translationRu": "В следующий период сна они со сверхчеловеческим усилием выломали оконный прут, привязали цепь к оставшимся и начали спуск по стене пирамиды — в пятистах футах над светящейся улицей."
+          "id": "sent-031",
+          "text": "Sobre las llanuras luminosas se extendían bosques retorcidos de vegetación negra como el carbón, y entre ellos se alzaban ciudades enteras de pirámides ciclópeas que brillaban con la misma tenue y escalofriante luz blanca; era un paisaje de pesadilla cósmica, salido de un sueño que ningún ser humano habría podido imaginar.",
+          "translationRu": "Над светящимися равнинами простирались скрученные леса угольно-чёрной растительности, а среди них возвышались целые города циклопических пирамид, мерцавших тем же слабым жутковатым белым светом; это был пейзаж космического кошмара, пришедший из сна, который ни один человек не мог бы вообразить."
         },
         {
-          "id": "sent-028",
-          "text": "A mitad del descenso, uno de los tentáculos los descubrió e intentó seccionar la cadena con una herramienta de metal; Ran Rarak trepó de vuelta hasta la ventana y, en una lucha vertiginosa suspendida sobre el vacío, logró arrancar al ser de su soporte y precipitarlo a la calle.",
-          "translationRu": "На полпути один из щупалец их обнаружил и попытался перерубить цепь металлическим инструментом; Ран Рарак вскарабкался обратно к окну и в головокружительной схватке, подвешенной над пропастью, сумел оторвать существо от опоры и сбросить его на улицу."
+          "id": "sent-032",
+          "text": "Y de las cumbres truncadas de esas pirámides comenzaron a ascender de pronto, en enjambres compactos, largos conos negros que se lanzaron directamente hacia la flota.",
+          "translationRu": "И с усечённых вершин тех пирамид вдруг начали подниматься плотными роями длинные чёрные конусы, устремившиеся прямо к флоту."
         }
       ]
     },
@@ -192,54 +212,14 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-029",
-          "text": "Los tres ganaron las calles vacías y huyeron de la ciudad mientras las trompas de alarma llenaban el aire; cuando ya los conos los tenían en su mira, el crucero emergió del bosque negro como un ángel guardián y los recogió en plena carrera.",
-          "translationRu": "Трое вырвались на пустые улицы и бежали из города, пока тревожные трубы оглашали воздух; когда конусы уже брали их на прицел, крейсер вынырнул из чёрного леса, словно ангел-хранитель, и подобрал их на бегу."
-        },
-        {
-          "id": "sent-030",
-          "text": "Viraron hacia el condensador, pero los tubos de rayos estaban agotados; el crucero quedó indefenso mientras los conos se cerraban sobre él en un círculo cada vez más angosto.",
-          "translationRu": "Они развернулись к конденсатору, но лучевые трубки были разряжены; крейсер остался беззащитным, пока конусы смыкались вокруг него всё сужающимся кольцом."
-        },
-        {
-          "id": "sent-031",
-          "text": "En ese instante de derrota final, desde las alturas irrumpió la Nave 16 —la única fugitiva de la primera batalla— arrastrando tras de sí la flota entera de la Federación: cinco mil cruceros de guerra de todas las estrellas de la Galaxia, los guardianes de la Vía Láctea en plena gloria de combate.",
-          "translationRu": "В тот миг окончательного поражения с высоты ворвался Корабль 16 — единственный беглец из первого боя — увлекая за собой весь флот Федерации: пять тысяч боевых крейсеров со всех звёзд Галактики, хранители Млечного Пути во всей боевой славе."
-        }
-      ]
-    },
-    {
-      "id": "para-010",
-      "sentences": [
-        {
-          "id": "sent-032",
-          "text": "La batalla que siguió fue de proporciones cósmicas: rayos de de-cohesión y bombas etéricas cruzaban el aire en brillantes regueros verdes y blancas explosiones silenciosas, mientras los conos caían por centenares y los cruceros galácticos los barrían en vuelos rasantes.",
-          "translationRu": "Последовавшее сражение было космического масштаба: лучи дезинтеграции и эфирные бомбы чертили воздух яркими зелёными полосами и белыми беззвучными взрывами, конусы падали сотнями, а галактические крейсеры сметали их в бреющих атаках."
-        },
-        {
           "id": "sent-033",
-          "text": "Pero en el telechart el disco negro seguía acercándose con inexorable lentitud a la línea de peligro trazada en torno al sol: el condensador seguía funcionando, y ninguno de los cruceros galácticos lo atendía.",
-          "translationRu": "Но на телекарте чёрный диск с неотвратимой медлительностью продолжал приближаться к линии опасности, очерченной вокруг Солнца: конденсатор продолжал работать, и ни один из галактических крейсеров не обращал на него внимания."
+          "text": "La lluvia de bombas etéricas que aquellos conos lanzaron sobre la flota fulminó uno tras otro a los cruceros de escolta, que carecían de armamento: sus siluetas desaparecían en silenciosas llamaradas de luz cegadora, sin explosión ni detritos, borradas del espacio en un instante.",
+          "translationRu": "Шквал эфирных бомб, который эти конусы обрушили на флот, один за другим поражал крейсеры эскорта, не имевшие вооружения: их силуэты исчезали в беззвучных вспышках ослепительного света, без взрыва и обломков, стёртые из пространства в одно мгновение."
         },
         {
           "id": "sent-034",
-          "text": "Sin rayos ni tiempo, Ran Rarak eligió la única opción que quedaba: empujó los controles hasta el fondo y lanzó el crucero a toda potencia contra el mástil metálico que sostenía la jaula del interruptor del condensador, con el único grito de advertencia que le dio tiempo a pronunciar.",
-          "translationRu": "Без лучей и без времени Ран Рарак выбрал единственно оставшийся вариант: утопил рычаги управления до предела и бросил крейсер на полной мощности в металлическую мачту, державшую клетку с выключателем конденсатора, успев произнести лишь одно предупреждение."
-        },
-        {
-          "id": "sent-035",
-          "text": "El impacto fue brutal; la jaula arrancada voló hasta el suelo del pozo, y en el mismo instante la cegadora radiance azul de los hemisferios se extinguió.",
-          "translationRu": "Удар был чудовищным; вырванная клетка полетела на дно котлована, и в тот же миг ослепительное синее сияние полусфер угасло."
-        },
-        {
-          "id": "sent-036",
-          "text": "En el telechart, el disco de la estrella oscura vaciló durante un instante eterno al borde mismo de la línea de peligro y luego, infinitamente despacio, comenzó a retroceder: el gigante muerto curvaba su trayectoria de vuelta hacia el espacio exterior, alejándose del sol para siempre sin la estrella que había venido a robar.",
-          "translationRu": "На телекарте диск тёмной звезды завис в вечное мгновение у самой линии опасности, а потом, бесконечно медленно, начал отступать: мёртвый исполин изгибал свою траекторию обратно во внешний космос, навсегда уходя прочь от Солнца — без звезды, за которой пришёл."
-        },
-        {
-          "id": "sent-037",
-          "text": "Una semana después, cuando los honores y los festejos comenzaban a amainar, Ran Rarak y Dal Nara se despidieron de Hurus Hol en el mismo tejado de Neptuno del que habían partido, y pusieron proa de nuevo al espacio interestelar, llevando consigo el recuerdo silencioso de Nal Jak y la certeza de que su sol, aquel pequeño y familiar astro amarillo, seguiría brillando para ellos hasta el fin de los tiempos.",
-          "translationRu": "Неделю спустя, когда почести и торжества начали стихать, Ран Рарак и Дал Нара попрощались с Хурусом Холом на той же нептунианской крыше, откуда отправились в путь, и снова взяли курс в межзвёздное пространство, неся в себе тихую память о Нал Как и уверенность в том, что их Солнце — то самое маленькое привычное жёлтое светило — будет сиять для них до конца времён."
+          "text": "El crucero de Ran Rarak, único buque de guerra de la formación, bajó en picado para enfrentarse a los conos atacantes, disparando los devastadores rayos de de-cohesión que destrozaban sus cascos en lluvias de fragmentos; pero eran demasiados, y cuando un cono enorme se precipitó de cabeza sobre ellos en una embestida suicida, el impacto en la popa hizo girar al crucero como una peonza hasta que se desplomó en caída libre hacia la superficie luminosa.",
+          "translationRu": "Крейсер Ран Рарака, единственный боевой корабль в формировании, ринулся вниз, чтобы встретить атакующие конусы, ведя огонь опустошительными лучами дезинтеграции, разносившими их корпуса на дождь обломков; но их было слишком много, и когда огромный конус бросился вниз головой на них в самоубийственном таране, удар в корму заставил крейсер завертеться как волчок, пока тот не рухнул в свободное падение к светящейся поверхности."
         }
       ]
     }
