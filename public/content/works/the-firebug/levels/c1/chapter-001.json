@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-firebug",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El incendiario"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Aquella tarde de otoño, al entrar en el apartamento que compartía con Craig Kennedy, Walter Jameson divisó en la acera un automóvil rojo del Departamento de Bomberos, con su campana de latón reluciente en el capó.", "translationRu": "В тот осенний вечер, входя в квартиру, которую делил с Крейгом Кеннеди, Уолтер Джеймсон заметил у тротуара красный автомобиль пожарного департамента с блестящим бронзовым колоколом на капоте."},
+        {"id": "sent-002", "text": "Dentro aguardaba el mariscal McCormick, hombre fornido y canoso que golpeaba la mesa con el puño mientras describía a Kennedy una epidemia de incendios inexplicables en el barrio comercial.", "translationRu": "Внутри ожидал маршал Маккормик — крепкий седой мужчина, колотивший кулаком по столу, пока описывал Кеннеди эпидемию необъяснимых пожаров в торговом квартале."},
+        {"id": "sent-003", "text": "Todos los establecimientos incendiados dependían de las empresas Stacey, el gran consorcio de tiendas por departamentos que había monopolizado el comercio textil de la ciudad.", "translationRu": "Все сгоревшие заведения входили в структуры концерна Стейси, крупного торгового объединения, монополизировавшего текстильную торговлю города."},
+        {"id": "sent-004", "text": "Lo que distinguía a este criminal de los pirómanos ordinarios era la sofisticación del método: en cada escena del crimen aparecían restos de un cable eléctrico, indicio de una técnica desconocida hasta entonces.", "translationRu": "Этого преступника от обычных поджигателей отличала изощрённость метода: на каждом месте преступления обнаруживались остатки электрического провода — свидетельство доселе неизвестной техники."},
+        {"id": "sent-005", "text": "Seis muertos —dos de ellos bomberos— y pérdidas por millones pesaban sobre la conciencia del mariscal, cuya reputación, carrera y hasta la estabilidad de su familia dependían de resolver el caso.", "translationRu": "Шестеро погибших — двое из них пожарные — и многомиллионные убытки давили на совесть маршала, чья репутация, карьера и даже семейное благополучие зависели от раскрытия дела."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-006", "text": "El incendiario había tenido la desfachatez de enviar al mariscal varias notas burlescas suscritas con el sobrenombre irónico 'A. Spark', en las que alardeaba de sus crímenes y prometía nuevos atentados.", "translationRu": "Поджигатель имел наглость присылать маршалу несколько насмешливых записок, подписанных ироничным псевдонимом «А. Спарк», в которых хвастался своими преступлениями и обещал новые нападения."},
+        {"id": "sent-007", "text": "Kennedy examinó las notas con la minuciosidad propia de un grafólogo experimentado y anunció su veredicto: la primera la había redactado una mujer, a pesar de la tosquedad aparentemente masculina del texto.", "translationRu": "Кеннеди изучил записки с тщательностью опытного графолога и огласил свой вердикт: первую составила женщина, невзирая на кажущуюся мужскую грубость текста."},
+        {"id": "sent-008", "text": "La segunda y la tercera, aunque igualmente disfrazadas, delataban la mano del incendiario varón.", "translationRu": "Вторая и третья, хотя столь же тщательно замаскированные, выдавали руку мужчины-поджигателя."},
+        {"id": "sent-009", "text": "Así, lo que parecía la obra solitaria de un pirómano resultaba ser una empresa con al menos dos participantes, lo cual sugería una conspiración de mayor envergadura.", "translationRu": "Таким образом, то, что казалось одиночным злодеянием пиромана, оказывалось предприятием как минимум двух участников, что указывало на заговор более широкого масштаба."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-010", "text": "La misma noche saltó la alarma desde la tienda Stacey: alguien había penetrado en la oscura oficina del tercer piso.", "translationRu": "В ту же ночь прозвучала тревога из магазина Стейси: кто-то проник в тёмный офис на третьем этаже."},
+        {"id": "sent-011", "text": "Kennedy tropezó con un cable suelto en el suelo y lo siguió hasta un pequeño despacho donde el aire emanaba un olor dulzón e inconfundible.", "translationRu": "Кеннеди споткнулся о болтающийся провод на полу и проследовал за ним до маленького кабинета, где воздух источал сладковатый и неповторимый запах."},
+        {"id": "sent-012", "text": "'Éter', pronunció Kennedy en voz baja, y ordenó a todos alejarse de las linternas antes de idear una solución ingeniosa.", "translationRu": "«Эфир», — тихо произнёс Кеннеди и приказал всем отойти от фонарей, прежде чем придумал изящное решение."},
+        {"id": "sent-013", "text": "Mandó a Walter a la farmacia del otro lado de la calle a buscar salitre y azufre, mezcló ambas sustancias en un cuenco y las quemó: el dióxido de carbono y el dióxido de azufre resultantes desplazaron el vapor de éter de la sala.", "translationRu": "Он отправил Уолтера в аптеку напротив за селитрой и серой, смешал оба вещества в тазу и поджёг их: образовавшийся диоксид углерода и диоксид серы вытеснили пары эфира из помещения."},
+        {"id": "sent-014", "text": "En el cubículo encontraron una lata de éter evaporado y un pequeño aparato eléctrico diseñado para producir chispas: el incendiario dejaba que el éter impregnara el aire durante horas y luego, desde lejos, enviaba una chispa por el cable para provocar la explosión.", "translationRu": "В кабинете они нашли опустевшую банку из-под эфира и небольшой электрический прибор для получения искр: поджигатель давал эфиру пропитывать воздух часами, а затем издали посылал искру по проводу, вызывая взрыв."},
+        {"id": "sent-015", "text": "Esta vez el dispositivo había fallado porque la corriente eléctrica estaba cortada para la noche.", "translationRu": "На этот раз устройство дало сбой, потому что на ночь электричество было отключено."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-016", "text": "Convencidos de que el incendiario atacaría de nuevo en la misma zona, Kennedy y Walter se integraron al cuerpo de bomberos del barrio como miembros honorarios.", "translationRu": "Убеждённые в том, что поджигатель снова нанесёт удар в том же районе, Кеннеди и Уолтер вступили в местную пожарную команду в качестве почётных членов."},
+        {"id": "sent-017", "text": "Aprendieron a deslizarse por los postes de latón, a enfundarse los pantalones sobre las botas en cuestión de segundos y a mantener la calma bajo la presión de la alarma nocturna.", "translationRu": "Они научились съезжать по латунным столбам, натягивать штаны поверх сапог за считанные секунды и сохранять спокойствие под давлением ночной тревоги."},
+        {"id": "sent-018", "text": "Pocas noches después, el gong retumbó en la oscuridad: el incendiario había ejecutado su segunda embestida contra la tienda Stacey.", "translationRu": "Несколько ночей спустя гонг загремел в темноте: поджигатель нанёс второй удар по магазину Стейси."},
+        {"id": "sent-019", "text": "El incendio superó todo lo anterior: varios pisos ardían simultáneamente, las ventanas estallaban con el calor y las llamas lamían la cornisa del edificio con una voracidad que presagiaba catástrofe.", "translationRu": "Пожар превзошёл всё предыдущее: несколько этажей горели одновременно, окна лопались от жара, и пламя лизало карниз здания с жадностью, предвещавшей катастрофу."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-020", "text": "Domado el incendio, Kennedy, Walter y McCormick se adentraron entre vigas humeantes y hierros retorcidos hasta la oficina central.", "translationRu": "Усмирив пожар, Кеннеди, Уолтер и Маккормик пробрались сквозь дымящиеся балки и искорёженное железо до центрального офиса."},
+        {"id": "sent-021", "text": "En el suelo yacía una masa carbonizada e irreconocible: el cuerpo de una mujer, junto a la cual McCormick recuperó un cable chamuscado y los restos de una lata de éter.", "translationRu": "На полу лежала обугленная, неузнаваемая масса: тело женщины, рядом с которым Маккормик поднял обгоревший провод и остатки банки из-под эфира."},
+        {"id": "sent-022", "text": "McCormick exclamó que la incendiaria había perecido víctima de su propia trampa, pero Kennedy rechazó esa conclusión precipitada al hallar un estilete de acero clavado en el pecho de la víctima.", "translationRu": "Маккормик воскликнул, что поджигательница погибла в собственной ловушке, но Кеннеди отверг этот поспешный вывод, обнаружив стальной стилет, вонзённый в грудь жертвы."},
+        {"id": "sent-023", "text": "La mujer, identificada horas después como Miss Rebecca Wend —organizadora de las empresas Stacey y figura clave de la combinación comercial—, había sido asesinada con premeditación antes de que el fuego consumiera el edificio.", "translationRu": "Женщина, опознанная несколько часов спустя как мисс Ребекка Уэнд — организатор предприятий Стейси и ключевая фигура торгового объединения — была убита с умыслом до того, как огонь поглотил здание."},
+        {"id": "sent-024", "text": "Kennedy extrajo de su pecho, justo sobre el corazón, un expediente de cartas que guardó en silencio: aquellas páginas serían la llave del caso.", "translationRu": "Кеннеди извлёк у неё из груди, прямо над сердцем, папку с письмами и молча припрятал её: эти страницы станут ключом к делу."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-025", "text": "La reconstrucción de Kennedy era la siguiente: las empresas Stacey se encontraban en quiebra técnica y habían maquinado con una red de comerciantes deshonestos y ajustadores corruptos para provocar incendios y cobrar las indemnizaciones.", "translationRu": "Версия Кеннеди была такова: предприятия Стейси находились в состоянии технического банкротства и сговорились с сетью нечестных торговцев и продажных оценщиков, чтобы устраивать пожары и получать страховые возмещения."},
+        {"id": "sent-026", "text": "Miss Wend había formado parte de ese 'trust de incendiarios', pero al exigir su porción íntegra de los beneficios se convirtió en una amenaza que había que neutralizar.", "translationRu": "Мисс Уэнд была частью этого «треста поджигателей», но, потребовав полной своей доли прибыли, превратилась в угрозу, которую необходимо было нейтрализовать."},
+        {"id": "sent-027", "text": "El plan era triple: destruir los documentos comprometedores que ella guardaba, quemar el almacén Stacey para cobrar el seguro definitivo, y cargarle a ella la culpa de todos los incendios.", "translationRu": "План был тройным: уничтожить компрометирующие документы, которые она хранила, сжечь склад Стейси ради окончательной страховой выплаты и свалить на неё вину за все пожары."},
+        {"id": "sent-028", "text": "El contable Douglas, poseedor de todos los secretos de la conspiración, se ocultaba en el Lower East Side bajo la vigilancia discreta de los investigadores.", "translationRu": "Бухгалтер Дуглас, хранивший все тайны заговора, скрывался в нижнем Ист-Сайде под ненавязчивым наблюдением следователей."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-029", "text": "Para no dar tiempo a huir a los culpables, Kennedy convocó bajo pretexto neutral a todos los sospechosos en su laboratorio de química: el empresario Stacey, el gerente Bloom, y los ajustadores de seguros Lazard y Hartstein.", "translationRu": "Чтобы не дать виновным времени на бегство, Кеннеди под нейтральным предлогом созвал всех подозреваемых в свою химическую лабораторию: предпринимателя Стейси, управляющего Блума, а также страховых оценщиков Лазара и Хартштейна."},
+        {"id": "sent-030", "text": "Ante ellos presentó los documentos quemados que había descifrado mediante fotografía cromática: pagarés de Stacey a favor de Wend y cartas que delataban la autoría intelectual de los incendios.", "translationRu": "Перед ними он представил расшифрованные с помощью цветной фотографии сожжённые документы: долговые расписки Стейси в пользу Уэнд и письма, выдающие интеллектуальных авторов поджогов."},
+        {"id": "sent-031", "text": "Describió el funcionamiento del trust con precisión enciclopédica: una red activa en Chicago, Kansas City, Cleveland y otras ciudades, que había generado cientos de miles de dólares en indemnizaciones fraudulentas.", "translationRu": "Он описал работу треста с энциклопедической точностью: сеть, действовавшая в Чикаго, Канзас-Сити, Кливленде и других городах, успевшая выбить сотни тысяч долларов мошеннических страховых выплат."},
+        {"id": "sent-032", "text": "Lo que ninguno de los presentes sospechaba era que Kennedy llevaba toda la velada escribiendo con la mano derecha en el cajón entreabierto del escritorio.", "translationRu": "Чего никто из присутствующих не подозревал — так это того, что Кеннеди весь вечер писал правой рукой в приоткрытом ящике стола."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-033", "text": "En el cajón aguardaba un tele-autógrafo, instrumento capaz de reproducir simultáneamente en un punto distante la escritura del que lo operaba: cada palabra que Kennedy trazaba aparecía en tiempo real en el tribunal del magistrado Brenner.", "translationRu": "В ящике ждал телеавтограф — прибор, способный одновременно воспроизводить в удалённой точке записи оператора: каждое слово, выводимое Кеннеди, в реальном времени появлялось в суде магистрата Бреннера."},
+        {"id": "sent-034", "text": "Mientras los sospechosos escuchaban la exposición, Douglas fue detenido en su escondite, conduido ante el magistrado y firmó la denuncia: Samuel Lazard había asesinado a Rebecca Wend y había prendido los incendios bajo las órdenes de Joseph Stacey.", "translationRu": "Пока подозреваемые слушали изложение, Дуглас был задержан в укрытии, доставлен к магистрату и подписал обвинение: Сэмюэл Лазар убил Ребекку Уэнд и совершил поджоги по приказу Джозефа Стейси."},
+        {"id": "sent-035", "text": "Cuando Stacey tachó de falsificación la declaración —arguyendo que había visto a Douglas en persona hacía menos de una hora—, Kennedy sacó el tele-autógrafo a plena vista y explicó su funcionamiento ante el estupor general.", "translationRu": "Когда Стейси объявил показания фальсификацией — утверждая, что видел Дугласа лично менее часа назад — Кеннеди извлёк телеавтограф на всеобщее обозрение и объяснил его принцип работы под всеобщее изумление."},
+        {"id": "sent-036", "text": "La máquina receptora comenzó a trazar letras: era la orden de detención librada por el magistrado para todos los presentes.", "translationRu": "Принимающая машина начала выводить буквы: это был ордер на задержание, выданный магистратом для всех присутствующих."},
+        {"id": "sent-037", "text": "Lazard y Stacey huyeron hacia el automóvil, pero Kennedy disparó balas de sal al chófer para impedirle maniobrar, y McCormick llegó con la policía para esposarlos en el propio vehículo de Stacey.", "translationRu": "Лазар и Стейси бросились к автомобилю, но Кеннеди выстрелил в шофёра солевыми пулями, лишив его возможности управлять машиной, а Маккормик подоспел с полицией и надел наручники на беглецов прямо в автомобиле Стейси."},
+        {"id": "sent-038", "text": "Mientras Walter lamentaba la suerte del inocente chófer, Kennedy lo tranquilizó: las balas de sal eran antisépticas, se absorberían enseguida, y la única herida real de aquella noche era la que el propio Stacey había abierto en su codicia desmedida.", "translationRu": "Пока Уолтер сожалел о судьбе невиновного шофёра, Кеннеди его успокоил: солевые пули были антисептическими, впитаются очень быстро, а единственная настоящая рана той ночи — та, что Стейси сам нанёс себе своей безмерной алчностью."}
+      ]
+    }
+  ]
+}

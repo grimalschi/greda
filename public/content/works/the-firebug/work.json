@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-firebug",
+  "title": "El incendiario",
+  "titleRu": "Поджигатель",
+  "originalTitle": "The Firebug",
+  "author": {
+    "id": "arthur-b-reeve",
+    "name": "Arthur B. Reeve"
+  },
+  "genres": [
+    "Детектив",
+    "Крейг Кеннеди"
+  ],
+  "synopsisRu": "Детектив Крейг Кеннеди расследует серию поджогов, направленных против предприятий торгового магната Стейси, и раскрывает преступный «трест поджигателей», действовавший ради мошеннического получения страховки. Используя анализ почерка, химию и секретный телеавтограф, он разоблачает убийцу прямо во время встречи с подозреваемыми.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

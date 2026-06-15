@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-sand-hog",
+  "title": "El topo de arena",
+  "titleRu": "Песчаный крот",
+  "originalTitle": "The Sand-Hog",
+  "author": {
+    "id": "arthur-b-reeve",
+    "name": "Arthur B. Reeve"
+  },
+  "genres": [
+    "Детектив",
+    "Крейг Кеннеди"
+  ],
+  "synopsisRu": "Детектив Крейг Кеннеди расследует таинственную волну несчастных случаев на строительстве подводного тоннеля, где его друг Джек Ортон сражается с кессонной болезнью и происками конкурентов. С помощью телеграфона — прибора, записывающего телефонные разговоры, — Кеннеди разоблачает предательство в самом ближнем окружении Ортона.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
