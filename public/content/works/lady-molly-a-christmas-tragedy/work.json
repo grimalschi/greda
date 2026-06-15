@@ -15,8 +15,8 @@
   "synopsisRu": "В рождественскую ночь в поместье Клевер-Холл найден убитым угрюмый хозяин — майор Сили. Все улики указывают на молодого Сметика, но леди Молли уверена в его невиновности и начинает собственное расследование.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }

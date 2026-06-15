@@ -15,8 +15,8 @@
   "synopsisRu": "Ночь накануне Первой мировой войны: немецкий шпион фон Борк готовится передать в Берлин похищенные морские коды Британии, не подозревая, что его агент-ирландец — это сам Шерлок Холмс, два года жизший под маскировкой ради этого часа.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }

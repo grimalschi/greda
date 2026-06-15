@@ -15,8 +15,8 @@
   "synopsisRu": "Леди Молли распутывает дело о загадочном нападении на молодую продавщицу, за которым скрывается изощрённый шантаж аристократки, замешанной в скандале. Развязка оказывается самой неожиданной: всё здание преступления покоилось на несуществующей фотографии.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }
