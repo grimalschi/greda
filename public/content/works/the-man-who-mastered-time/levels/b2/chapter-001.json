@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El hombre que dominó el tiempo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,28 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Una noche en el Club Científico de Nueva York, el joven Loto Rogers hizo una revelación asombrosa a sus amigos.",
-          "translationRu": "Однажды вечером в Нью-Йоркском Научном клубе молодой Лото Роджерс сделал своим друзьям поразительное признание."
+          "text": "En el salón del Club Científico, un pequeño grupo de hombres debatía sobre la naturaleza del tiempo.",
+          "translationRu": "В зале Научного клуба небольшая группа мужчин спорила о природе времени."
         },
         {
           "id": "sent-002",
-          "text": "Dos años atrás, él y su padre habían logrado ver a través del tiempo gracias a una pantalla química experimental.",
-          "translationRu": "Два года назад они с отцом сумели заглянуть сквозь время благодаря экспериментальному химическому экрану."
+          "text": "«El tiempo», dijo George con una sonrisa, «es lo que impide que todo ocurra a la vez.»",
+          "translationRu": "«Время», — сказал Джордж с улыбкой, — «это то, что не даёт всему происходить одновременно.»"
         },
         {
           "id": "sent-003",
-          "text": "La visión reveló un paisaje nevado del futuro lejano: veintiocho mil años más adelante, el lugar que hoy es Central Park estaba cubierto de hielo.",
-          "translationRu": "Видение открыло заснеженный пейзаж далёкого будущего: через двадцать восемь тысяч лет то место, где сейчас Центральный парк, покрыто льдом."
+          "text": "Un murmullo de risa recorrió la sala, pero el Químico asintió con seriedad.",
+          "translationRu": "По залу прокатился смешок, но Химик серьёзно кивнул."
         },
         {
           "id": "sent-004",
-          "text": "En una casa de muros blancos, Loto había observado con telescopio a una chica de pelo dorado que vivía cautiva.",
-          "translationRu": "В доме с белыми стенами Лото наблюдал в телескоп за светловолосой девушкой, жившей в плену."
-        },
-        {
-          "id": "sent-005",
-          "text": "No podía dejar de pensar en ella; su cautiverio le obsesionaba tanto como el hallazgo científico.",
-          "translationRu": "Он не мог перестать думать о ней; её пленение преследовало его не меньше, чем научное открытие."
+          "text": "«En realidad eso no está lejos de la verdad científica», afirmó. «El tiempo y el espacio son lo único que separa un acontecimiento de otro.»",
+          "translationRu": "«На самом деле это недалеко от научной истины», — утверждал он. «Время и пространство — единственное, что разделяет одно событие и другое.»"
         }
       ]
     },
@@ -42,24 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-005",
+          "text": "Rogers, el anfitrión de la velada, explicó que el tiempo, el espacio y la materia no son entidades separadas sino que están íntimamente entrelazados.",
+          "translationRu": "Роджерс, хозяин вечера, объяснил, что время, пространство и материя — не отдельные сущности, а тесно переплетённые между собой."
+        },
+        {
           "id": "sent-006",
-          "text": "Loto explicó que el tiempo es una dimensión del espacio, no algo distinto.",
-          "translationRu": "Лото объяснил, что время — это измерение пространства, а не нечто принципиально иное."
+          "text": "«Una casa tiene longitud, anchura y profundidad», dijo, «pero también tiene duración: sin existir en el tiempo, no puede existir en absoluto.»",
+          "translationRu": "«У дома есть длина, ширина и глубина», — сказал он, — «но у него также есть продолжительность: без существования во времени он вообще не может существовать.»"
         },
         {
           "id": "sent-007",
-          "text": "Si la materia existe en cuatro dimensiones —tres de espacio y una de tiempo—, entonces es posible alterar esa dimensión temporal.",
-          "translationRu": "Если материя существует в четырёх измерениях — трёх пространственных и одном временно́м, — то это временно́е измерение можно изменить."
+          "text": "El movimiento, argumentó, también implica el tiempo: un tren pasa de estar «allí entonces» a estar «aquí ahora».",
+          "translationRu": "Движение, доказывал он, тоже предполагает время: поезд переходит от состояния «там тогда» к состоянию «здесь сейчас»."
         },
         {
           "id": "sent-008",
-          "text": "Durante dos años construyó un mecanismo capaz de modificar la naturaleza eléctrica de toda la materia dentro del avión.",
-          "translationRu": "Два года он строил механизм, способный изменить электрическую природу всей материи внутри самолёта."
-        },
-        {
-          "id": "sent-009",
-          "text": "Esa noche, ante sus amigos reunidos, se despidió de su padre y de su madre Lylda, y partió.",
-          "translationRu": "В тот вечер, перед собравшимися друзьями, он простился с отцом и матерью Лидой и отправился в путь."
+          "text": "En otras palabras, el movimiento es el cambio simultáneo de la posición de la materia en el tiempo y en el espacio.",
+          "translationRu": "Иными словами, движение — это одновременное изменение положения материи во времени и в пространстве."
         }
       ]
     },
@@ -67,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-009",
+          "text": "Cuando los hombres empezaban a comprender estas ideas, Rogers llamó a su hijo Loto, un joven de veinte años de cabello castaño ondulado y ojos azules que había permanecido en un rincón.",
+          "translationRu": "Когда мужчины начали понимать эти идеи, Роджерс позвал своего сына Лото — юношу двадцати лет с волнистыми каштановыми волосами и голубыми глазами, сидевшего в углу."
+        },
+        {
           "id": "sent-010",
-          "text": "El avión brilló como un fantasma fosforescente y desapareció, dejando un espacio vacío.",
-          "translationRu": "Самолёт засветился как фосфоресцирующий призрак и исчез, оставив пустое место."
+          "text": "Loto tomó asiento ante los demás y comenzó a relatar cómo, dos años atrás, él y su padre realizaban experimentos con tubos de Crookes en el laboratorio.",
+          "translationRu": "Лото сел перед остальными и начал рассказывать, как два года назад они с отцом проводили эксперименты с трубками Крукса в лаборатории."
         },
         {
           "id": "sent-011",
-          "text": "Desde dentro del vehículo, Loto vio a sus amigos moverse a velocidad extraordinaria, como en una película acelerada.",
-          "translationRu": "Изнутри машины Лото видел, как его друзья двигаются с невероятной скоростью, словно в ускоренном фильме."
+          "text": "Una noche, la oscuridad detrás de una pantalla química comenzó a irradiar una luminosidad extraña que atravesaba las paredes del laboratorio.",
+          "translationRu": "Однажды ночью темнота за химическим экраном начала излучать странное свечение, проходившее сквозь стены лаборатории."
         },
         {
           "id": "sent-012",
-          "text": "Las ciudades crecieron y se derrumbaron ante sus ojos mientras los siglos pasaban en minutos.",
-          "translationRu": "Города вырастали и рушились у него на глазах, пока века пролетали за минуты."
-        },
-        {
-          "id": "sent-013",
-          "text": "Tras doce horas de viaje, llegó a un mundo helado donde ya no quedaba rastro de la civilización moderna.",
-          "translationRu": "После двенадцати часов полёта он прибыл в ледяной мир, где от современной цивилизации не осталось и следа."
+          "text": "De repente pudieron ver a lo lejos un paisaje nevado, con el suelo a unos veinte metros por debajo de ellos y un cielo gris encapotado.",
+          "translationRu": "Внезапно вдали они увидели заснеженный пейзаж, с землёй примерно в двадцати метрах ниже них и серым пасмурным небом."
         }
       ]
     },
@@ -92,24 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-013",
+          "text": "Un enorme trineo tirado por un perro del tamaño de un caballo apareció y se detuvo cerca de una estructura ovalada de piedra blanca.",
+          "translationRu": "Огромные сани, запряжённые собакой размером с лошадь, появились и остановились рядом с овальным сооружением из белого камня."
+        },
+        {
           "id": "sent-014",
-          "text": "Loto aterrizó cerca de la casa y se acercó sigilosamente a medianoche.",
-          "translationRu": "Лото приземлился вблизи дома и в полночь осторожно подошёл к нему."
+          "text": "Antes de que pudieran observar más, un cable del aparato se fundió y la visión desapareció en la oscuridad.",
+          "translationRu": "Прежде чем они успели рассмотреть больше, кабель прибора перегорел, и видение растворилось в темноте."
         },
         {
           "id": "sent-015",
-          "text": "Encontró a Azeela dormida en su habitación, con el pelo dorado extendido sobre las pieles blancas.",
-          "translationRu": "Он нашёл Азилу спящей в её комнате, золотые волосы разметались по белым шкурам."
+          "text": "Rogers cayó enfermo esa misma noche, y Loto tuvo que continuar la investigación solo.",
+          "translationRu": "В ту же ночь Роджерс заболел, и Лото пришлось продолжать исследование в одиночку."
         },
         {
           "id": "sent-016",
-          "text": "Cuando ella se despertó y gritó, el dueño de la casa, Toroh, irrumpió con un arma de destellos cegadores.",
-          "translationRu": "Когда она проснулась и закричала, хозяин дома Торох ворвался с оружием, бьющим ослепительными вспышками."
-        },
-        {
-          "id": "sent-017",
-          "text": "Loto quedó ciego temporalmente y fue derribado; su pistola Collinger le fue arrebatada.",
-          "translationRu": "Лото временно ослеп и упал; его пистолет Коллинджер был вырван у него из рук."
+          "text": "Durante días, observó la escena con un pequeño telescopio y concluyó que estaban mirando hacia el futuro, pues el sol era una enorme bola roja y los detalles de la construcción resultaban ajenos a cualquier época conocida.",
+          "translationRu": "В течение нескольких дней он наблюдал за сценой в небольшой телескоп и пришёл к выводу, что они смотрели в будущее: солнце было огромным красным шаром, а детали постройки были чужды любой известной эпохе."
         }
       ]
     },
@@ -117,24 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-017",
+          "text": "Loto también vio a una joven cautiva: una muchacha pequeña y esbelta, de unos dieciséis años, con largo cabello dorado que parecía rojizo bajo el sol rojo.",
+          "translationRu": "Лото также увидел молодую пленницу: маленькую, стройную девушку лет шестнадцати с длинными золотыми волосами, казавшимися рыжими под красным солнцем."
+        },
+        {
           "id": "sent-018",
-          "text": "Durante semanas convivió como huésped forzoso con Toroh, el anciano Bool y la sirvienta Koa.",
-          "translationRu": "Недели он провёл как вынужденный гость вместе с Торохом, стариком Булом и служанкой Коа."
+          "text": "A veces la veía a través de la puerta transparente, sentada con su cabello en trenzas y tocando un pequeño instrumento de cuerdas.",
+          "translationRu": "Иногда он видел её сквозь прозрачную дверь: она сидела с волосами, заплетёнными в косы, и играла на маленьком струнном инструменте."
         },
         {
           "id": "sent-019",
-          "text": "Azeela aprendió inglés en pocas semanas y le contó su historia: era hija de Fahn, el presidente de la Liga de Científicos de los Angleses.",
-          "translationRu": "Азила выучила английский за несколько недель и рассказала свою историю: она дочь Фана, президента Лиги учёных англезов."
+          "text": "Un hombre llegó una vez e intentó besarla; ella lo rechazó, pero después la encerraron en otra habitación y Loto no volvió a verla.",
+          "translationRu": "Однажды пришёл мужчина и попытался её поцеловать; она оттолкнула его, но потом её заперли в другой комнате, и Лото больше её не видел."
         },
         {
           "id": "sent-020",
-          "text": "Toroh, exiliado de la isla por conspiración, había secuestrado a Azeela para usarla como rehén.",
-          "translationRu": "Торох, изгнанный с острова за заговор, похитил Азилу, чтобы использовать её как заложницу."
-        },
-        {
-          "id": "sent-021",
-          "text": "Con la complicidad de Koa, que odiaba a su amo, planearon la huida para cuando Toroh regresara.",
-          "translationRu": "С соучастием Коа, ненавидевшей хозяина, они спланировали побег к возвращению Тороха."
+          "text": "Después de ese día, el aparato dejó de funcionar y nunca lograron reproducir la pantalla que abría esa ventana al futuro.",
+          "translationRu": "После этого дня прибор перестал работать, и им так и не удалось воспроизвести экран, открывавший это окно в будущее."
         }
       ]
     },
@@ -142,24 +137,19 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-021",
+          "text": "Loto explicó que no podía olvidar a esa chica, pues aunque aún no hubiera nacido, era tan real como cualquier persona presente en la sala.",
+          "translationRu": "Лото объяснил, что не может забыть эту девушку: хотя она ещё не родилась, она была столь же реальна, как любой из присутствующих в зале."
+        },
+        {
           "id": "sent-022",
-          "text": "La fuga estuvo a punto de fracasar cuando el anciano Bool los sorprendió con un arma paralizante.",
-          "translationRu": "Побег едва не провалился, когда старик Бул застиг их врасплох с парализующим оружием."
+          "text": "«Ella existe en el futuro del mismo modo en que nosotros existimos en el presente», dijo con vehemencia. «Solo el tiempo nos separa, y el tiempo es una dimensión del espacio como cualquier otra.»",
+          "translationRu": "«Она существует в будущем так же, как мы существуем в настоящем», — сказал он с жаром. «Нас разделяет только время, а время — такое же измерение пространства, как любое другое.»"
         },
         {
           "id": "sent-023",
-          "text": "Koa derribó a Bool en el último segundo, permitiéndoles salir corriendo hacia el avión.",
-          "translationRu": "Коа в последнюю секунду сбила Була с ног, позволив им выбежать к самолёту."
-        },
-        {
-          "id": "sent-024",
-          "text": "Un perro enorme los persiguió, pero lograron entrar al avión justo cuando el animal saltaba sobre ellos.",
-          "translationRu": "Огромный пёс преследовал их, но им удалось забраться в самолёт в тот самый миг, когда зверь прыгал на них."
-        },
-        {
-          "id": "sent-025",
-          "text": "Volaron al sur hasta la isla tropical de los Angleses, donde Azeela fue recibida por su padre Fahn.",
-          "translationRu": "Они полетели на юг, к тропическому острову англезов, где Азилу встретил её отец Фан."
+          "text": "Usó la metáfora de un árbol inteligente que no pudiera moverse: así como el árbol no concebiría el viaje por el espacio, los hombres no conciben el viaje por el tiempo, pero eso no significa que sea imposible.",
+          "translationRu": "Он воспользовался метафорой разумного дерева, которое не может двигаться: подобно тому как дерево не представляет себе путешествие через пространство, люди не представляют себе путешествие через время, но это не означает, что оно невозможно."
         }
       ]
     },
@@ -167,79 +157,24 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-024",
+          "text": "Rogers pidió a los reunidos que volvieran al club dos semanas más tarde, pues el aparato ya casi estaba listo.",
+          "translationRu": "Роджерс попросил собравшихся вернуться в клуб через две недели, поскольку прибор был почти готов."
+        },
+        {
+          "id": "sent-025",
+          "text": "«He trabajado durante dos años», admitió Loto con calma, «y en dos semanas estaré completamente listo para partir.»",
+          "translationRu": "«Я работал два года», — спокойно признался Лото, — «и через две недели я буду полностью готов к отправлению.»"
+        },
+        {
           "id": "sent-026",
-          "text": "El padre de Loto llegó poco después con George en un segundo avión, guiados por la señal luminosa que Loto había preparado.",
-          "translationRu": "Отец Лото вскоре прибыл с Джорджем на втором самолёте, ориентируясь по световому сигналу, который Лото приготовил заранее."
+          "text": "El padre observó a su hijo con una mezcla de orgullo científico y honda preocupación paternal.",
+          "translationRu": "Отец смотрел на сына со смесью научной гордости и глубокой отцовской тревоги."
         },
         {
           "id": "sent-027",
-          "text": "La isla enfrentaba una amenaza urgente: Toroh organizaba a los Nofos, bárbaros del norte, para atacarla.",
-          "translationRu": "Остров оказался перед острой угрозой: Торох организовывал нофов — северных варваров — для нападения."
-        },
-        {
-          "id": "sent-028",
-          "text": "Para defenderla, Fahn equipó a un pequeño ejército con trajes de levitación y proyectores de rayos.",
-          "translationRu": "Для защиты Фан оснастил небольшую армию левитационными костюмами и лучевыми проекторами."
-        },
-        {
-          "id": "sent-029",
-          "text": "La hermana de Azeela, Dee, se convirtió en la más hábil del escuadrón de chicas voladoras.",
-          "translationRu": "Сестра Азилы, Ди, стала самой искусной в отряде летающих девушек."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "Toroh secuestró a Azeela de nuevo durante el Festival de las Flores e intentó volar atrás en el tiempo para robar armas de una era más avanzada.",
-          "translationRu": "Торох снова похитил Азилу во время Праздника цветов и попытался улететь назад во времени, чтобы похитить оружие из более развитой эпохи."
-        },
-        {
-          "id": "sent-031",
-          "text": "George y Dee lo persiguieron en el segundo avión, guiados por los mensajes telepáticos que Dee recibía de su hermana.",
-          "translationRu": "Джордж и Ди преследовали его на втором самолёте, ориентируясь по телепатическим сообщениям, которые Ди получала от сестры."
-        },
-        {
-          "id": "sent-032",
-          "text": "Azeela saltó del avión de Toroh en el momento preciso que Dee le indicó, y fue rescatada sana y salva.",
-          "translationRu": "Азила выпрыгнула из самолёта Тороха в точный момент, указанный Ди, и была спасена невредимой."
-        },
-        {
-          "id": "sent-033",
-          "text": "Sin embargo, Toroh había conseguido llevarse un arma misteriosa del pasado.",
-          "translationRu": "Тем не менее Торох успел раздобыть таинственное оружие из прошлого."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-034",
-          "text": "En la batalla naval del canal, la pequeña fuerza aérea Anglesa hundió cuatro barcazas enemigas a pesar de sufrir grandes pérdidas.",
-          "translationRu": "В морском бою на канале небольшие военно-воздушные силы англезов потопили четыре вражеские баржи, понеся при этом большие потери."
-        },
-        {
-          "id": "sent-035",
-          "text": "Toroh desembarcó su ejército principal en Orleen y masacró a la población de la ciudad.",
-          "translationRu": "Торох высадил свою основную армию в Орлине и устроил резню среди жителей города."
-        },
-        {
-          "id": "sent-036",
-          "text": "Fahn respondió con el único recurso que le quedaba: con su proyector más poderoso, disparó sobre el cráter del volcán que dominaba la ciudad.",
-          "translationRu": "Фан ответил единственным оставшимся средством: из своего мощнейшего проектора он выстрелил в жерло вулкана над городом."
-        },
-        {
-          "id": "sent-037",
-          "text": "La erupción destruyó a Toroh y a sus Nofos, aunque Fahn pagó esa victoria con su vida.",
-          "translationRu": "Извержение уничтожило Тороха и его нофов, хотя Фан заплатил за эту победу собственной жизнью."
-        },
-        {
-          "id": "sent-038",
-          "text": "Los viajeros del tiempo regresaron a Nueva York, llevando consigo a Azeela y Dee para empezar una nueva vida.",
-          "translationRu": "Путешественники во времени вернулись в Нью-Йорк, взяв с собой Азилу и Ди, чтобы начать новую жизнь."
+          "text": "«En dos semanas, caballeros, con vuestra ayuda, me propongo avanzar por los siglos que nos quedan por delante y encontrar a esa chica para sacarla de cualquier peligro en que se encuentre», declaró Loto, y sus palabras dejaron a los hombres en silencio.",
+          "translationRu": "«Через две недели, джентльмены, с вашей помощью я намерен двинуться по векам, что лежат впереди нас, и найти эту девушку, чтобы вызволить её из любой опасности, в которой она находится», — объявил Лото, и его слова оставили мужчин в молчании."
         }
       ]
     }

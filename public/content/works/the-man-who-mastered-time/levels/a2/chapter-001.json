@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El hombre que dominó el tiempo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,33 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Loto Rogers era un joven científico.",
-          "translationRu": "Лото Роджерс был молодым учёным."
+          "text": "Un grupo de amigos se reunió en el Club Científico de Nueva York.",
+          "translationRu": "Группа друзей собралась в Научном клубе Нью-Йорка."
         },
         {
           "id": "sent-002",
-          "text": "Su padre, el Químico, también era científico.",
-          "translationRu": "Его отец, Химик, тоже был учёным."
+          "text": "Rogers les habló sobre el tiempo y el espacio.",
+          "translationRu": "Роджерс говорил им о времени и пространстве."
         },
         {
           "id": "sent-003",
-          "text": "Un día, los dos trabajaban en el laboratorio de Rogers.",
-          "translationRu": "Однажды они вдвоём работали в лаборатории Роджерса."
+          "text": "Él dijo que el tiempo es como una propiedad del espacio.",
+          "translationRu": "Он сказал, что время — это своего рода свойство пространства."
         },
         {
           "id": "sent-004",
-          "text": "Usaron una pantalla química y un tubo especial.",
-          "translationRu": "Они использовали химический экран и специальную трубку."
-        },
-        {
-          "id": "sent-005",
-          "text": "La pantalla brilló y vieron algo increíble.",
-          "translationRu": "Экран засветился, и они увидели нечто невероятное."
-        },
-        {
-          "id": "sent-006",
-          "text": "Miraron a través de las paredes del laboratorio hacia el futuro.",
-          "translationRu": "Они смотрели сквозь стены лаборатории в будущее."
+          "text": "El tiempo, el espacio y la materia están unidos.",
+          "translationRu": "Время, пространство и материя связаны между собой."
         }
       ]
     },
@@ -47,29 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-005",
+          "text": "El banquero no entendía bien estas ideas.",
+          "translationRu": "Банкир плохо понимал эти идеи."
+        },
+        {
+          "id": "sent-006",
+          "text": "Rogers explicó con un ejemplo: una casa tiene longitud, anchura y altura.",
+          "translationRu": "Роджерс объяснил на примере: у дома есть длина, ширина и высота."
+        },
+        {
           "id": "sent-007",
-          "text": "Vieron nieve y un cielo gris.",
-          "translationRu": "Они видели снег и серое небо."
+          "text": "Pero la casa también necesita duración para existir.",
+          "translationRu": "Но дому также нужна продолжительность, чтобы существовать."
         },
         {
           "id": "sent-008",
-          "text": "Había una casa blanca cerca de Central Park.",
-          "translationRu": "У Центрального парка стоял белый дом."
-        },
-        {
-          "id": "sent-009",
-          "text": "Con un telescopio, Loto vio a una chica dentro de la casa.",
-          "translationRu": "В телескоп Лото увидел в доме девушку."
-        },
-        {
-          "id": "sent-010",
-          "text": "La chica era pequeña y tenía el pelo dorado.",
-          "translationRu": "Девушка была маленькой и светловолосой."
-        },
-        {
-          "id": "sent-011",
-          "text": "Ella era prisionera de un hombre cruel.",
-          "translationRu": "Она была пленницей жестокого мужчины."
+          "text": "Sin tiempo, nada puede existir.",
+          "translationRu": "Без времени ничто не может существовать."
         }
       ]
     },
@@ -77,24 +62,19 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Loto dijo a sus amigos: «El tiempo es como el espacio».",
-          "translationRu": "Лото сказал друзьям: «Время — это как пространство»."
+          "id": "sent-009",
+          "text": "Luego Rogers llamó a su hijo Loto.",
+          "translationRu": "Затем Роджерс позвал своего сына Лото."
         },
         {
-          "id": "sent-013",
-          "text": "«Se puede viajar por el tiempo como se viaja por el espacio.»",
-          "translationRu": "«По нему можно путешествовать так же, как по пространству»."
+          "id": "sent-010",
+          "text": "Loto era un joven de veinte años, delgado, con el pelo castaño y los ojos azules.",
+          "translationRu": "Лото был молодым человеком двадцати лет, стройным, с каштановыми волосами и голубыми глазами."
         },
         {
-          "id": "sent-014",
-          "text": "Loto construyó un avión especial en el tejado del Club Científico.",
-          "translationRu": "Лото построил особый самолёт на крыше Научного клуба."
-        },
-        {
-          "id": "sent-015",
-          "text": "El avión podía viajar hacia el futuro.",
-          "translationRu": "Самолёт мог лететь в будущее."
+          "id": "sent-011",
+          "text": "Se levantó y se acercó al grupo con timidez.",
+          "translationRu": "Он встал и робко приблизился к группе."
         }
       ]
     },
@@ -102,24 +82,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "Loto se despidió de su padre y su madre Lylda.",
-          "translationRu": "Лото попрощался с отцом и матерью Лидой."
+          "id": "sent-012",
+          "text": "Loto contó que dos años antes, él y su padre trabajaban en el laboratorio.",
+          "translationRu": "Лото рассказал, что два года назад они с отцом работали в лаборатории."
         },
         {
-          "id": "sent-017",
-          "text": "El avión comenzó a vibrar y brillar.",
-          "translationRu": "Самолёт начал вибрировать и светиться."
+          "id": "sent-013",
+          "text": "Hacían experimentos con electrones y un tubo especial.",
+          "translationRu": "Они проводили опыты с электронами и специальной трубкой."
         },
         {
-          "id": "sent-018",
-          "text": "En un momento, desapareció.",
-          "translationRu": "В какой-то момент он исчез."
+          "id": "sent-014",
+          "text": "De repente, la oscuridad detrás de la pantalla empezó a brillar.",
+          "translationRu": "Вдруг темнота за экраном начала светиться."
         },
         {
-          "id": "sent-019",
-          "text": "Loto viajó miles de años hacia el futuro.",
-          "translationRu": "Лото полетел на тысячи лет в будущее."
+          "id": "sent-015",
+          "text": "La luz se extendió y ellos vieron un paisaje lejano a través de las paredes.",
+          "translationRu": "Свет расширился, и они увидели сквозь стены далёкий пейзаж."
         }
       ]
     },
@@ -127,24 +107,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Encontró la casa con la chica y aterrizó cerca.",
-          "translationRu": "Он нашёл дом с девушкой и приземлился рядом."
+          "id": "sent-016",
+          "text": "Vieron un gran campo cubierto de nieve.",
+          "translationRu": "Они увидели большое поле, покрытое снегом."
         },
         {
-          "id": "sent-021",
-          "text": "De noche entró en la casa, pero el hombre lo atrapó.",
-          "translationRu": "Ночью он вошёл в дом, но мужчина его поймал."
+          "id": "sent-017",
+          "text": "El sol era enorme y rojo, casi sin calor.",
+          "translationRu": "Солнце было огромным и красным, почти без тепла."
         },
         {
-          "id": "sent-022",
-          "text": "El hombre se llamaba Toroh y era muy peligroso.",
-          "translationRu": "Мужчина звался Торохом и был очень опасен."
+          "id": "sent-018",
+          "text": "Loto usó un telescopio para ver la escena.",
+          "translationRu": "Лото воспользовался телескопом, чтобы рассмотреть сцену."
         },
         {
-          "id": "sent-023",
-          "text": "Toroh cegó a Loto con una luz y le quitó su arma.",
-          "translationRu": "Торох ослепил Лото вспышкой света и отобрал его оружие."
+          "id": "sent-019",
+          "text": "Vio una casa ovalada de color blanco y, cerca, un trineo grande.",
+          "translationRu": "Он увидел овальный белый дом и рядом большие сани."
         }
       ]
     },
@@ -152,24 +132,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-024",
-          "text": "Loto vivió en la casa durante semanas.",
-          "translationRu": "Лото прожил в доме несколько недель."
+          "id": "sent-020",
+          "text": "Una muchacha pequeña con el pelo dorado salió de la casa.",
+          "translationRu": "Из дома вышла маленькая девушка с золотистыми волосами."
         },
         {
-          "id": "sent-025",
-          "text": "La chica se llamaba Azeela y aprendió inglés muy rápido.",
-          "translationRu": "Девушку звали Азила, и она очень быстро выучила английский."
+          "id": "sent-021",
+          "text": "Ella era prisionera de un hombre joven y cruel.",
+          "translationRu": "Она была пленницей молодого жестокого мужчины."
         },
         {
-          "id": "sent-026",
-          "text": "Azeela era hija de Fahn, el jefe de los científicos.",
-          "translationRu": "Азила была дочерью Фана, главы учёных."
+          "id": "sent-022",
+          "text": "Una noche el hombre quiso besarla, pero ella lo rechazó.",
+          "translationRu": "Однажды ночью мужчина захотел её поцеловать, но она оттолкнула его."
         },
         {
-          "id": "sent-027",
-          "text": "Toroh la secuestró para obligar a Fahn a ceder.",
-          "translationRu": "Торох похитил её, чтобы заставить Фана подчиниться."
+          "id": "sent-023",
+          "text": "Después, la muchacha lloró durante mucho tiempo.",
+          "translationRu": "После этого девушка долго плакала."
         }
       ]
     },
@@ -177,64 +157,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-028",
-          "text": "Con ayuda de Koa, la sirvienta, Loto y Azeela escaparon.",
-          "translationRu": "С помощью служанки Коа Лото и Азила бежали."
+          "id": "sent-024",
+          "text": "Después de unas semanas, la pantalla dejó de funcionar.",
+          "translationRu": "Спустя несколько недель экран перестал работать."
         },
         {
-          "id": "sent-029",
-          "text": "Un perro gigante los persiguió, pero llegaron al avión.",
-          "translationRu": "Огромная собака гналась за ними, но они добрались до самолёта."
+          "id": "sent-025",
+          "text": "Loto no pudo olvidar a esa muchacha prisionera.",
+          "translationRu": "Лото не мог забыть эту девушку-пленницу."
         },
         {
-          "id": "sent-030",
-          "text": "Volaron al sur, a la isla de los Angleses, el pueblo de Azeela.",
-          "translationRu": "Они полетели на юг, на остров англезов — народа Азилы."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-031",
-          "text": "El padre de Loto llegó con su amigo George en otro avión.",
-          "translationRu": "Отец Лото прилетел с другом Джорджем на другом самолёте."
+          "id": "sent-026",
+          "text": "Él trabajó durante dos años para construir una máquina del tiempo.",
+          "translationRu": "Он работал два года, чтобы построить машину времени."
         },
         {
-          "id": "sent-032",
-          "text": "Toroh atacó la isla con un ejército de bárbaros.",
-          "translationRu": "Торох напал на остров с армией варваров."
-        },
-        {
-          "id": "sent-033",
-          "text": "Los Angleses lucharon con armas especiales y ganaron.",
-          "translationRu": "Англезы сражались особым оружием и победили."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-034",
-          "text": "Fahn destruyó la ciudad del enemigo con un volcán.",
-          "translationRu": "Фан уничтожил город врага с помощью вулкана."
-        },
-        {
-          "id": "sent-035",
-          "text": "Toroh y sus hombres murieron.",
-          "translationRu": "Торох и его люди погибли."
-        },
-        {
-          "id": "sent-036",
-          "text": "Loto, Azeela y los demás volvieron a Nueva York.",
-          "translationRu": "Лото, Азила и остальные вернулись в Нью-Йорк."
-        },
-        {
-          "id": "sent-037",
-          "text": "Allí empezaron una nueva vida juntos.",
-          "translationRu": "Там они начали новую совместную жизнь."
+          "id": "sent-027",
+          "text": "Ahora estaba listo para ir al futuro y liberarla.",
+          "translationRu": "Теперь он был готов отправиться в будущее и освободить её."
         }
       ]
     }
