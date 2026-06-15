@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El hombre de la radio"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,18 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Ralph Farley encontró un manuscrito encerrado en un cilindro de oro dentro de un meteorito que cayó en su granja de Chappaquiddick.",
-          "translationRu": "Ральф Фарли обнаружил рукопись, запечатанную в золотой цилиндр внутри метеорита, упавшего на его ферму на Чаппаквидике."
+          "text": "Era una cálida noche de agosto cuando un meteoro en llamas cruzó el cielo y cayó con estrépito tras la colina detrás de mi granja en Chappaquiddick.",
+          "translationRu": "Это была тёплая августовская ночь, когда огненный метеорит пронёсся по небу и с грохотом упал за холмом позади моей фермы на Чаппаквидике."
         },
         {
           "id": "sent-002",
-          "text": "La firmaba su antiguo compañero de Harvard, Myles S. Cabot, quien había desaparecido misteriosamente cuatro años antes.",
-          "translationRu": "Её подписал его бывший однокурсник по Гарварду, Майлз С. Кэбот, который таинственно исчез четыре года назад."
+          "text": "Al día siguiente encontramos la cima de la colina chamuscada, la roca grande marcada por el impacto y un surco que bajaba por la ladera hasta un hoyo hundido.",
+          "translationRu": "На следующий день мы нашли вершину холма опалённой, большой камень — отмеченным ударом, а по склону тянулась борозда, заканчивавшаяся провалившейся ямой."
         },
         {
           "id": "sent-003",
-          "text": "Lo que Myles relató en esas páginas era una historia tan extraordinaria que sólo quien lo conocía bien podía creerla.",
-          "translationRu": "То, что Майлз рассказал на этих страницах, было настолько необычайной историей, что поверить в неё мог лишь тот, кто хорошо его знал."
+          "text": "Publiqué la noticia en el periódico local, y pronto recibí una carta del profesor Gerrish del Observatorio de Harvard, pidiéndome que le enviara una muestra del meteoro para su análisis.",
+          "translationRu": "Я опубликовал новость в местной газете, и вскоре получил письмо от профессора Герриша из Гарвардской обсерватории с просьбой прислать ему образец метеорита для анализа."
         }
       ]
     },
@@ -33,18 +33,23 @@
       "sentences": [
         {
           "id": "sent-004",
-          "text": "Myles era un ingeniero de radio que había combinado la televisión tridimensional con la transmisión de materia.",
-          "translationRu": "Майлз был радиоинженером, которому удалось объединить трёхмерное телевидение с передачей материи."
+          "text": "Mis hombres y yo desenterramos el cuerpo principal: una masa negra con forma de lágrima, del tamaño de un barril, perfectamente aerodinámica.",
+          "translationRu": "Мои рабочие и я откопали основное тело — чёрную каплевидную массу размером с бочку, идеально обтекаемой формы."
         },
         {
           "id": "sent-005",
-          "text": "Durante un experimento con alto voltaje, un cortocircuito lo transmitió a sí mismo hasta el planeta Venus.",
-          "translationRu": "Во время эксперимента с высоким напряжением короткое замыкание перенесло его самого на планету Венеру."
+          "text": "Al retirar el revestimiento negro, descubrimos debajo una superficie de metal amarillo y una grieta absolutamente recta que rodeaba la cintura del objeto.",
+          "translationRu": "Сняв чёрное покрытие, мы обнаружили под ним поверхность из жёлтого металла и совершенно прямую трещину, опоясывавшую объект по середине."
         },
         {
           "id": "sent-006",
-          "text": "Se despertó en una playa de arena blanca bajo un cielo plateado sin sombras, sin ropa y completamente desorientado.",
-          "translationRu": "Он очнулся на белом песчаном пляже под серебристым беззатенённым небом, без одежды и совершенно дезориентированный."
+          "text": "Esa grieta, por su regularidad perfecta, era claramente obra de un ser inteligente; resultó ser una rosca de sentido contrario al habitual.",
+          "translationRu": "Эта трещина, благодаря своей идеальной правильности, явно была делом разума; оказалось, что это резьба обратного направления."
+        },
+        {
+          "id": "sent-007",
+          "text": "Cuando al fin separamos las dos mitades, el interior hueco estaba completamente relleno de algo envuelto en más de cien metros de una cinta plateada.",
+          "translationRu": "Когда мы наконец разделили две половины, пустое пространство внутри было полностью заполнено чем-то, обёрнутым более чем в сто метров серебристой ленты."
         }
       ]
     },
@@ -52,24 +57,19 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-007",
-          "text": "Cuatro hormigas negras de dos metros de altura aterrizaron en un avión y atacaron a Myles.",
-          "translationRu": "Четыре чёрных муравья двухметрового роста приземлились на самолёте и напали на Майлза."
-        },
-        {
           "id": "sent-008",
-          "text": "Él luchó valientemente con un palo, pero cayó cuando su zapato se desintegró en la gravedad más baja del planeta.",
-          "translationRu": "Он мужественно сражался с палкой, но упал, когда его ботинок распался под воздействием меньшей гравитации планеты."
+          "text": "Debajo de la cinta hallamos un cilindro de oro del tamaño de una lata de galletas, cubierto de arabescos y caracteres extraños; dentro había un manuscrito escrito en inglés sobre una sustancia finísima parecida al pergamino.",
+          "translationRu": "Под лентой мы нашли золотой цилиндр размером с жестяную банку из-под печенья, покрытый арабесками и странными знаками; внутри была рукопись, написанная по-английски на тончайшем материале, похожем на пергамент."
         },
         {
           "id": "sent-009",
-          "text": "Las hormigas lo paralizaron con un mordisco y lo transportaron a su ciudad de bloques de edificios apilados.",
-          "translationRu": "Муравьи парализовали его укусом и перевезли в свой город из нагромождённых строительных блоков."
+          "text": "Al ver la firma —Myles S. Cabot— recordé que ese hombre había sido mi compañero en Harvard y había desaparecido misteriosamente cuatro años atrás.",
+          "translationRu": "Увидев подпись — Майлз С. Кэбот — я вспомнил, что этот человек был моим однокурсником в Гарварде и четыре года назад таинственно исчез."
         },
         {
           "id": "sent-010",
-          "text": "Una hormiga bondadosa, a quien llamó Doggo, lo protegió de las demás, especialmente de una cruel llamada Satán.",
-          "translationRu": "Один добросердечный муравей, которого он назвал Догго, защищал его от остальных, особенно от жестокого по имени Сатан."
+          "text": "El periódico había publicado que la puerta de su laboratorio estaba cerrada por dentro, en el suelo quedaba un montón de objetos metálicos, y en el aire había un olor eléctrico, pero Myles había desaparecido sin dejar huella.",
+          "translationRu": "Газета сообщала, что дверь его лаборатории была заперта изнутри, на полу лежала груда металлических предметов, в воздухе ощущался электрический запах, но Майлз исчез, не оставив следа."
         }
       ]
     },
@@ -78,18 +78,23 @@
       "sentences": [
         {
           "id": "sent-011",
-          "text": "Durante meses, Doggo le enseñó el lenguaje escrito de los formicos, mientras cuatro profesores universitarios estudiaban a Myles con fascinación científica.",
-          "translationRu": "Месяцами Догго обучал его письменному языку формиков, пока четыре университетских профессора изучали Майлза с научным восхищением."
+          "text": "Abrí el manuscrito y leí en voz alta ante mi familia. Así comenzaba Myles: mi principal línea de trabajo desde Harvard había sido la televisión tridimensional.",
+          "translationRu": "Я открыл рукопись и прочёл её вслух перед семьёй. Так начинал Майлз: моей главной работой со времён Гарварда было трёхмерное телевидение."
         },
         {
           "id": "sent-012",
-          "text": "Fue entonces cuando desde la ventana vio a una criatura etérea en el jardín: una joven de piel rosada, pelo rubio rizado, pequeñas alas iridiscentes y antenas en la frente.",
-          "translationRu": "Именно тогда из окна он увидел в саду эфирное существо: молодую женщину с розовой кожей, вьющимися золотыми волосами, маленькими переливающимися крылышками и усиками на лбу."
+          "text": "Mediante tres circuitos simultáneos podía reproducir cualquier objeto dentro del marco receptor, como si estuviera allí en persona.",
+          "translationRu": "С помощью трёх одновременных цепей я мог воспроизводить любой объект в рамке приёмника, как будто он стоял там сам по себе."
         },
         {
           "id": "sent-013",
-          "text": "Doggo le explicó que pertenecía a los «cupios», los seres humanoides del planeta Poros, como llamaban los venusianos a su mundo.",
-          "translationRu": "Догго объяснил ему, что она принадлежала к «купийцам» — человекоподобным существам планеты Порос, как венерианцы называли свой мир."
+          "text": "Gracias a un artículo inédito del francés Flambeau, combiné la transmisión de imágenes con la transmisión de materia y logré enviar objetos físicos sin cambio de forma.",
+          "translationRu": "Благодаря неопубликованной статье француза Фламбо я объединил передачу изображений с передачей материи и научился перемещать физические объекты без изменения формы."
+        },
+        {
+          "id": "sent-014",
+          "text": "Sin embargo, con potencia excesiva el aparato lanzaba objetos fuera de su rango normal a lugares desconocidos, y quise investigar ese fenómeno con un equipo de alto voltaje.",
+          "translationRu": "Однако при избыточной мощности прибор забрасывал объекты за пределы обычного диапазона в неизвестные места, и я захотел исследовать этот феномен с помощью высоковольтного оборудования."
         }
       ]
     },
@@ -97,19 +102,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "Myles dedujo que los cupios y formicos se comunicaban mediante ondas de radio emitidas por sus antenas.",
-          "translationRu": "Майлз пришёл a выводу, что купийцы и формики общались посредством радиоволн, излучаемых их усиками."
-        },
-        {
           "id": "sent-015",
-          "text": "Trasladado a la Universidad de Mooni, construyó un aparato de auriculares y antenas artificiales que le permitió tanto escuchar como enviar en el espectro de frecuencias que usaban los nativos.",
-          "translationRu": "Переведённый в Университет Муни, он создал аппарат с наушниками и искусственными усиками, позволявший ему как слышать, так и передавать в диапазоне частот, используемых туземцами."
+          "text": "La tarde en que completé la instalación, me dispuse a colocar un pequeño jarrón azul en el transmisor; de repente algo produjo un cortocircuito, vino un destello cegador y perdí el conocimiento.",
+          "translationRu": "В тот вечер, когда была завершена установка, я приготовился поместить маленькую синюю вазу в передатчик; вдруг что-то вызвало короткое замыкание, сверкнула ослепительная вспышка, и я потерял сознание."
         },
         {
           "id": "sent-016",
-          "text": "Cuando regresó a la ciudad de las hormigas, se disfrazó de cupio para su encuentro con la joven, quien al principio lo había rechazado con horror.",
-          "translationRu": "Когда он вернулся в город муравьёв, он оделся купийцем для встречи с молодой женщиной, которая поначалу отвергла его с ужасом."
+          "text": "Al recobrar el sentido, me encontré tumbado en una playa de arena blanca junto a un lago tranquilo, con el jarrón aún en la mano.",
+          "translationRu": "Придя в себя, я обнаружил, что лежу на белом песчаном пляже у спокойного озера, всё ещё сжимая вазочку в руке."
+        },
+        {
+          "id": "sent-017",
+          "text": "La atmósfera era cálida, húmeda y fragante; el cielo estaba completamente cubierto de nubes plateadas que difundían una luz uniforme y sin sombras.",
+          "translationRu": "Атмосфера была тёплой, влажной и ароматной; небо было полностью покрыто серебристыми облаками, рассеивавшими ровный свет без теней."
+        },
+        {
+          "id": "sent-018",
+          "text": "Cuando intenté ponerme de pie, el esfuerzo me lanzó a considerable altura en el aire; comprendí de inmediato que la gravedad de ese lugar era menor que en la Tierra.",
+          "translationRu": "Когда я попытался встать, усилие подбросило меня на значительную высоту в воздух; я сразу понял, что гравитация в этом месте меньше, чем на Земле."
         }
       ]
     },
@@ -117,19 +127,19 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-017",
-          "text": "Con el tiempo, Myles supo que la hermosa cupia era la Princesa Lilla, hija del Rey Kew XII de Cupia, retenida ilegalmente por los formicos como parte de sus experimentos eugénicos.",
-          "translationRu": "Со временем Майлз узнал, что красивая купийка была Принцессой Лиллой, дочерью Короля Кью XII Купийского, незаконно удерживаемой формиками в рамках их евгенических экспериментов."
-        },
-        {
-          "id": "sent-018",
-          "text": "El príncipe Yuri, quien admitió haber organizado su secuestro, propuso ahora rescatarla con la ayuda de Myles, afirmando que los celos habían nublado su juicio.",
-          "translationRu": "Принц Юри, признавший организацию её похищения, теперь предложил спасти её с помощью Майлза, утверждая, что ревность помутила его рассудок."
-        },
-        {
           "id": "sent-019",
-          "text": "Myles y Lilla huyeron en el kerkool de Yuri, enfrentando un puesto de control formico y una persecución nocturna entre arañas gigantes y woofus —las bestias felinas más temidas de Poros.",
-          "translationRu": "Майлз и Лилла бежали на керкуле Юри, преодолевая формийский контрольный пост и ночную погоню среди гигантских пауков и вуфусов — самых грозных кошачьих хищников Пороса."
+          "text": "Un avión aterrizó cien metros más adelante y de él salieron cuatro hormigas negras de casi dos metros de altura, que corrieron hacia mí con sus mandíbulas chasqueando.",
+          "translationRu": "Самолёт приземлился в ста метрах от меня, и из него вышли четыре чёрных муравья почти двухметрового роста, которые побежали ко мне с щёлкающими мандибулами."
+        },
+        {
+          "id": "sent-020",
+          "text": "Me armé con un trozo de madera a la deriva y logré matar a una de ellas de un golpe afortunado, pero la diferencia de gravedad me hacía ser menos seguro en mis movimientos y al final resbalé y caí.",
+          "translationRu": "Я вооружился куском выброшенного волнами дерева и смог убить одного из них удачным ударом, но разница в гравитации делала мои движения менее уверенными, и в конце концов я поскользнулся и упал."
+        },
+        {
+          "id": "sent-021",
+          "text": "Una hormiga me clavó sus mandíbulas en el costado; sentí un dolor lacerante que me hizo perder el conocimiento por segunda vez aquel día.",
+          "translationRu": "Муравей вонзил свои мандибулы в мой бок; я почувствовал мучительную боль, от которой второй раз за тот день потерял сознание."
         }
       ]
     },
@@ -137,19 +147,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Al llegar a la frontera, Yuri traicionó a Myles ante el centinela, se llevó a Lilla y lo dejó encadenado.",
-          "translationRu": "Добравшись до границы, Юри предал Майлза стражнику, забрал Лиллу и оставил его в цепях."
-        },
-        {
-          "id": "sent-021",
-          "text": "Los formicos lo procesaron ante la reina Formis, una criatura de seis metros de altura que gobernaba todo Poros desde su lecho de puesta de huevos.",
-          "translationRu": "Формики предали его суду перед королевой Формис — существом ростом шесть метров, правившим всем Поросом с кладочного ложа."
-        },
-        {
           "id": "sent-022",
-          "text": "Lo condenaron al Valle de las Rocas Aullantes, donde un ruido infernal había matado a decenas de prisioneros.",
-          "translationRu": "Его приговорили к Долине Воющих Скал, где адский шум убил десятки заключённых."
+          "text": "Al despertar me hallé paralizado en la cabina de un avión que surcaba el cielo; uno de mis captores manejaba los mandos con sus patas delanteras y los otros vigilaban.",
+          "translationRu": "Очнувшись, я обнаружил, что лежу парализованным в кабине летящего самолёта; один из моих похитителей управлял рычагами передними лапами, остальные наблюдали."
+        },
+        {
+          "id": "sent-023",
+          "text": "Una de las hormigas me traía agua en un cuenco y me levantaba la cabeza con su pata delantera para que pudiera beber; ese gesto me llenó de esperanza.",
+          "translationRu": "Один из муравьёв приносил мне воду в миске и приподнимал мою голову передней лапой, чтобы я мог пить; этот жест наполнил меня надеждой."
+        },
+        {
+          "id": "sent-024",
+          "text": "A ese individuo, cuya torpeza de movimientos me recordaba a un buen compañero de Harvard apodado Doggo, empecé a llamarle mentalmente por ese mismo nombre; al otro, hostil y cruel, lo apodé Satán.",
+          "translationRu": "Этому муравью, чья неуклюжесть движений напоминала мне доброго однокурсника по Гарварду по прозвищу Догго, я стал мысленно давать то же самое имя; другого, враждебного и жестокого, я прозвал Сатаной."
+        },
+        {
+          "id": "sent-025",
+          "text": "Mientras el avión seguía su camino, caí en la cuenta de que aquellos insectos gigantes construían aviones y usaban armas, lo cual indicaba que la raza gobernante de ese planeta no eran mamíferos sino hormigas.",
+          "translationRu": "Пока самолёт продолжал свой путь, я осознал, что эти гигантские насекомые строили самолёты и использовали оружие, что указывало на то, что правящая раса этой планеты — не млекопитающие, а муравьи."
         }
       ]
     },
@@ -157,69 +172,24 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "Sin embargo, Myles descubrió que el ruido fatal del valle era en realidad una radiación que sólo su aparato captaba: al apagarlo, reinó el silencio.",
-          "translationRu": "Однако Майлз обнаружил, что смертоносный шум долины был на самом деле излучением, улавливаемым только его аппаратом: выключив его, воцарилась тишина."
-        },
-        {
-          "id": "sent-024",
-          "text": "Escaló las paredes, cruzó el pale —el gran muro que separaba Formia de Cupia— y llegó a la capital Kuana.",
-          "translationRu": "Он взобрался на стены, пересёк пэйл — великую стену, разделявшую Формию и Купию, — и добрался до столицы Куана."
-        },
-        {
-          "id": "sent-025",
-          "text": "Allí Yuri lo arrestó de nuevo, pero el bondadoso carcelero Poblath y la doncella Bthuh lo pusieron en contacto con la princesa y con el propio rey.",
-          "translationRu": "Там Юри снова арестовал его, но добросердечный тюремщик Поблат и служанка Бтух свели его с принцессой и самим королём."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
           "id": "sent-026",
-          "text": "Myles reveló al Rey Kew toda la verdad sobre Yuri y la detención ilegal de Lilla, ganándose la confianza del monarca.",
-          "translationRu": "Майлз открыл Королю Кью всю правду о Юри и незаконном заключении Лиллы, завоевав доверие монарха."
+          "text": "El aparato hizo de repente un bucle completo y yo salí despedido; caí de lado en una enorme telaraña cuyos hilos cubiertos de sustancia pegajosa me retuvieron como papel atrapamoscas.",
+          "translationRu": "Самолёт внезапно сделал полную мёртвую петлю, и меня выбросило; я упал боком в огромную паутину, нити которой, покрытые клейким веществом, удержали меня, как бумага для мух."
         },
         {
           "id": "sent-027",
-          "text": "Para ganarse un ascenso social que le permitiera casarse con la princesa, inventó el rifle de combate y lo presentó como un nuevo deporte nacional.",
-          "translationRu": "Чтобы получить социальное повышение, позволявшее жениться на принцессе, он изобрёл боевую винтовку и представил её как новый национальный вид спорта."
+          "text": "Desde una esquina de la telaraña se acercaba la araña: un ser con el cuerpo del tamaño del mío y patas de más de tres metros, que comenzó a envolverme en un capullo de seda.",
+          "translationRu": "Из угла паутины приближался паук — существо с телом размером с моё и лапами длиной более трёх метров, начавшее заворачивать меня в шёлковый кокон."
         },
         {
           "id": "sent-028",
-          "text": "Los formicos, engañados, consideraron que el deporte sólo serviría para entretener a los cupios y no les dio mayor importancia.",
-          "translationRu": "Формики, введённые в заблуждение, решили, что спорт лишь поможет развлечь купийцев, и не придали ему особого значения."
-        }
-      ]
-    },
-    {
-      "id": "para-010",
-      "sentences": [
+          "text": "Una abeja del tamaño de un caballo cayó también en la red y, tras una lucha feroz, clavó su aguijón en la araña y la derribó de la telaraña, lo que me permitió morderme y abrirme camino hacia la libertad.",
+          "translationRu": "В сеть попала также пчела размером с лошадь и после жестокой борьбы вонзила жало в паука и сбила его с паутины, что позволило мне прогрызться и вырваться на свободу."
+        },
         {
           "id": "sent-029",
-          "text": "En el quinto centenario del Tratado de Mooni, el Rey Kew proclamó la guerra de liberación ante el ejército reunido, y Myles dirigió la batalla con un cañón antiaéreo secreto y un gran rifle de artillería.",
-          "translationRu": "В пятисотлетнюю годовщину Договора Муни Король Кью провозгласил освободительную войну перед собравшейся армией, и Майлз руководил битвой с помощью секретной зенитной пушки и большого артиллерийского орудия."
-        },
-        {
-          "id": "sent-030",
-          "text": "La capital formia fue destruida, Yuri —que había vuelto a secuestrar a Lilla— quedó enterrado entre las ruinas, y la reina Formis murió.",
-          "translationRu": "Столица Формии была уничтожена, Юри — вновь похитивший Лиллу — оказался погребён под руинами, и королева Формис погибла."
-        },
-        {
-          "id": "sent-031",
-          "text": "Myles rescató a Lilla de un último formico que la usaba como rehén, disparándole desde la cadera con su revólver mientras el enemigo vigilaba los rifles.",
-          "translationRu": "Майлз спас Лиллу от последнего формика, использовавшего её как заложницу, выстрелив от бедра из своего револьвера, пока враг следил за ружьями."
-        },
-        {
-          "id": "sent-032",
-          "text": "Tras la victoria y la firma de un nuevo tratado, el rey lo nombró mariscal y lo elevó a la nobleza, haciendo posible su boda con la Princesa Lilla.",
-          "translationRu": "После победы и подписания нового договора король назначил его маршалом и возвёл в дворянство, сделав возможной его свадьбу с Принцессой Лиллой."
-        },
-        {
-          "id": "sent-033",
-          "text": "Myles terminó su manuscrito preparando una cápsula para enviarlo a la Tierra en el interior de un proyectil disparado por un supercañón, confiando en que su mensaje llegaría a los hombres de su planeta natal.",
-          "translationRu": "Майлз завершил свою рукопись, готовя капсулу для отправки её на Землю внутри снаряда, выпущенного из сверхпушки, надеясь, что его послание достигнет людей его родной планеты."
+          "text": "Ayudé a la abeja a liberarse, notando que le faltaba un tramo de una pata y que tenía una cicatriz peculiar en el abdomen; la reconocería si algún día la volvía a ver.",
+          "translationRu": "Я помог пчеле освободиться, заметив, что у неё не хватает части одной лапы и что на брюшке есть особый шрам; я узнал бы её, если когда-нибудь снова её увидел."
         }
       ]
     }
