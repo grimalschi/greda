@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los señores del aire de Han"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,28 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Anthony Rogers se despertó en el año 2419.",
-          "translationRu": "Энтони Роджерс проснулся в 2419 году."
+          "text": "Mi nombre es Anthony Rogers y viví en el siglo veinte.",
+          "translationRu": "Меня зовут Энтони Роджерс, и я жил в двадцатом веке."
         },
         {
           "id": "sent-002",
-          "text": "Él dormía desde 1927 en una mina.",
-          "translationRu": "Он спал с 1927 года в шахте."
+          "text": "En el año 1927, dormí en una mina abandonada cerca de Scranton durante casi quinientos años.",
+          "translationRu": "В 1927 году я заснул в заброшенной шахте близ Скрантона почти на пятьсот лет."
         },
         {
           "id": "sent-003",
-          "text": "América era diferente ahora.",
-          "translationRu": "Америка теперь была другой."
+          "text": "Gases radiactivos me mantuvieron dormido todo ese tiempo.",
+          "translationRu": "Радиоактивные газы держали меня в этом сне всё это время."
         },
         {
           "id": "sent-004",
-          "text": "Los Hans gobernaban el país con sus naves voladoras.",
-          "translationRu": "Ханы правили страной с помощью своих летательных аппаратов."
-        },
-        {
-          "id": "sent-005",
-          "text": "Los americanos vivían en los bosques como animales.",
-          "translationRu": "Американцы жили в лесах как звери."
+          "text": "Cuando desperté, América ya no era el país que yo conocía.",
+          "translationRu": "Когда я проснулся, Америка уже не была той страной, которую я знал."
         }
       ]
     },
@@ -42,24 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-005",
+          "text": "En el año 2270, los Señores del Aire de Han llegaron del cielo en grandes naves.",
+          "translationRu": "В 2270 году Воздушные Владыки Хань спустились с неба на больших кораблях."
+        },
+        {
           "id": "sent-006",
-          "text": "Rogers se unió a la banda Wyoming.",
-          "translationRu": "Роджерс примкнул к банде Вайоминг."
+          "text": "Estos mongoles feroces usaron rayos desintegradores y mataron a cuatro quintas partes de los americanos.",
+          "translationRu": "Эти свирепые монголы применили дезинтегрирующие лучи и убили четыре пятых американцев."
         },
         {
           "id": "sent-007",
-          "text": "Los americanos aprendieron a destruir las naves Han.",
-          "translationRu": "Американцы научились уничтожать корабли Ханов."
+          "text": "Los otros americanos huyeron a los grandes bosques y vivieron allí como clanes.",
+          "translationRu": "Остальные американцы бежали в густые леса и жили там кланами."
         },
         {
           "id": "sent-008",
-          "text": "En la primavera de 2420, los americanos rodearon Nu-Yok.",
-          "translationRu": "Весной 2420 года американцы окружили Ню-Йок."
-        },
-        {
-          "id": "sent-009",
-          "text": "Era la gran ciudad Han del este.",
-          "translationRu": "Это был великий город Ханов на востоке."
+          "text": "Los Hans se encerraron en quince ciudades y produjeron todo lo que necesitaban de manera artificial.",
+          "translationRu": "Ханьцы заперлись в пятнадцати городах и производили всё необходимое искусственным путём."
         }
       ]
     },
@@ -67,24 +62,19 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-009",
+          "text": "Yo me uní al clan de Wyoming y aprendí a luchar contra los Hans.",
+          "translationRu": "Я примкнул к клану Вайоминга и научился воевать против ханьцев."
+        },
+        {
           "id": "sent-010",
-          "text": "Los Hans enviaron barcos de tierra para atacar.",
-          "translationRu": "Ханы отправили наземные корабли в атаку."
+          "text": "Descubrí que los cohetes explosivos podían destruir las naves Han si golpeaban los rayos repelentes.",
+          "translationRu": "Я обнаружил, что взрывные ракеты могут уничтожать ханьские корабли, если попасть по отталкивающим лучам."
         },
         {
           "id": "sent-011",
-          "text": "Estos barcos flotaban cerca del suelo.",
-          "translationRu": "Эти корабли летели близко к земле."
-        },
-        {
-          "id": "sent-012",
-          "text": "Tenían rayos que destruían todo.",
-          "translationRu": "У них были лучи, которые всё уничтожали."
-        },
-        {
-          "id": "sent-013",
-          "text": "Pero los americanos los destruyeron con cohetes en el suelo.",
-          "translationRu": "Но американцы уничтожили их ракетами в земле."
+          "text": "En la primavera del año 2420, los americanos rodearon la ciudad de Nu-Yok con miles de tiradores.",
+          "translationRu": "Весной 2420 года американцы окружили город Ню-Йок тысячами стрелков."
         }
       ]
     },
@@ -92,24 +82,24 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-012",
+          "text": "Nuestros tiradores estaban escondidos en el bosque y disparaban desde lejos.",
+          "translationRu": "Наши стрелки прятались в лесу и стреляли издалека."
+        },
+        {
+          "id": "sent-013",
+          "text": "Los Hans activaron un muro de rayos desintegradores alrededor de su ciudad para protegerse.",
+          "translationRu": "Ханьцы включили стену дезинтегрирующих лучей вокруг города для защиты."
+        },
+        {
           "id": "sent-014",
-          "text": "Rogers voló solo en su pequeño barco inertron.",
-          "translationRu": "Роджерс полетел один на своём маленьком инертронном корабле."
+          "text": "Nuestros cohetes no podían penetrar ese muro, así que la situación llegó a un punto muerto.",
+          "translationRu": "Наши ракеты не могли пробить эту стену, поэтому ситуация зашла в тупик."
         },
         {
           "id": "sent-015",
-          "text": "Atacó una gran nave Han.",
-          "translationRu": "Он атаковал большой корабль Ханов."
-        },
-        {
-          "id": "sent-016",
-          "text": "El rayo Han lo atrapó y no pudo maniobrar.",
-          "translationRu": "Луч Ханов поймал его, и он не мог маневрировать."
-        },
-        {
-          "id": "sent-017",
-          "text": "Su barco subió muy alto y se perdió.",
-          "translationRu": "Его корабль взлетел очень высоко и потерялся."
+          "text": "Teníamos un material especial llamado inertron que los rayos no podían destruir, pero era muy poco.",
+          "translationRu": "У нас был особый материал — инертрон, который лучи не могли уничтожить, но его было слишком мало."
         }
       ]
     },
@@ -117,19 +107,24 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-016",
+          "text": "Los Hans enviaron convoyes de naves entre sus ciudades, pero nosotros disparábamos a muchas de ellas.",
+          "translationRu": "Ханьцы посылали конвои кораблей между городами, но мы поражали многие из них."
+        },
+        {
+          "id": "sent-017",
+          "text": "Los Hans que caían a tierra nunca eran capturados: el odio de los americanos era demasiado grande.",
+          "translationRu": "Ханьцев, упавших на землю, никогда не брали в плен — ненависть американцев была слишком велика."
+        },
+        {
           "id": "sent-018",
-          "text": "Rogers saltó del barco y cayó a tierra.",
-          "translationRu": "Роджерс выпрыгнул из корабля и упал на землю."
+          "text": "Después de varios meses sin resultado, los Hans tomaron una decisión importante.",
+          "translationRu": "После нескольких месяцев без результата ханьцы приняли важное решение."
         },
         {
           "id": "sent-019",
-          "text": "Los soldados Hans lo capturaron.",
-          "translationRu": "Солдаты Ханов захватили его."
-        },
-        {
-          "id": "sent-020",
-          "text": "Lo llevaron a Lo-Tan, la ciudad Han en las montañas.",
-          "translationRu": "Его отвезли в Ло-Тан — город Ханов в горах."
+          "text": "Decidieron bajar a tierra y luchar contra nosotros en el bosque.",
+          "translationRu": "Они решили спуститься на землю и сражаться с нами в лесу."
         }
       ]
     },
@@ -137,24 +132,19 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-020",
+          "text": "Una de nuestras exploradoras oyó esta información en el campamento de un clan enemigo.",
+          "translationRu": "Одна из наших разведчиц услышала эту информацию в лагере враждебного клана."
+        },
+        {
           "id": "sent-021",
-          "text": "San-Lan era el jefe de los Hans.",
-          "translationRu": "Сан-Лан был вождём Ханов."
+          "text": "Ella saltó a las ramas de un árbol y escuchó sin que la vieran.",
+          "translationRu": "Она прыгнула на ветви дерева и слушала, оставаясь незамеченной."
         },
         {
           "id": "sent-022",
-          "text": "Él quería información de Rogers.",
-          "translationRu": "Он хотел получить информацию от Роджерса."
-        },
-        {
-          "id": "sent-023",
-          "text": "Usó drogas e hipnosis, pero Rogers no habló.",
-          "translationRu": "Он использовал наркотики и гипноз, но Роджерс не заговорил."
-        },
-        {
-          "id": "sent-024",
-          "text": "Rogers pensaba en su esposa Wilma y era fuerte.",
-          "translationRu": "Роджерс думал о своей жене Уилме и оставался сильным."
+          "text": "Después llamó por ultrateléfono a nuestro cuartel general y contó todo lo que había escuchado.",
+          "translationRu": "Затем она связалась по ультрафону с нашим штабом и рассказала всё, что услышала."
         }
       ]
     },
@@ -162,19 +152,24 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-023",
+          "text": "Los jefes de todos los clanes se reunieron de noche en un claro del bosque.",
+          "translationRu": "Вожди всех кланов собрались ночью на лесной поляне."
+        },
+        {
+          "id": "sent-024",
+          "text": "Llevaban uniformes verdes y armas muy diferentes entre sí.",
+          "translationRu": "Они носили зелёную форму и совершенно разное оружие."
+        },
+        {
           "id": "sent-025",
-          "text": "Los americanos destruyeron Nu-Yok con cohetes inertron.",
-          "translationRu": "Американцы уничтожили Ню-Йок инертронными ракетами."
+          "text": "Algunos tenían escudos grandes de inertron; otros llevaban hachas con cañones.",
+          "translationRu": "У одних были большие инертронные щиты, у других — топоры с пушками."
         },
         {
           "id": "sent-026",
-          "text": "San-Lan estaba muy enojado.",
-          "translationRu": "Сан-Лан был очень зол."
-        },
-        {
-          "id": "sent-027",
-          "text": "Los Hans querían huir a ciudades bajo la tierra.",
-          "translationRu": "Ханы хотели бежать в подземные города."
+          "text": "Yo mandé un batallón de bayonetas, porque creía que al final habría combate mano a mano.",
+          "translationRu": "Я командовал штыковым батальоном, потому что верил, что в конце концов дойдёт до рукопашной."
         }
       ]
     },
@@ -182,54 +177,19 @@
       "id": "para-008",
       "sentences": [
         {
+          "id": "sent-027",
+          "text": "Los Hans tenían «barcos de tierra» que flotaban unos metros sobre el suelo.",
+          "translationRu": "У ханьцев были «наземные корабли», которые парили в нескольких метрах над землёй."
+        },
+        {
           "id": "sent-028",
-          "text": "Una bola voladora americana llegó a la ciudad.",
-          "translationRu": "Американский летающий шар прилетел в город."
+          "text": "Estos barcos tenían una capa protectora de rayos desintegradores en forma de cono.",
+          "translationRu": "Эти корабли были защищены конусообразным слоем дезинтегрирующих лучей."
         },
         {
           "id": "sent-029",
-          "text": "Mató a los guardias de Rogers.",
-          "translationRu": "Он убил охранников Роджерса."
-        },
-        {
-          "id": "sent-030",
-          "text": "Wilma hablaba con Rogers a través de la bola.",
-          "translationRu": "Уилма разговаривала с Роджерсом через шар."
-        },
-        {
-          "id": "sent-031",
-          "text": "Rogers escapó por los túneles de la montaña.",
-          "translationRu": "Роджерс сбежал через туннели горы."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-032",
-          "text": "Los americanos destruyeron Lo-Tan con las bolas explosivas.",
-          "translationRu": "Американцы уничтожили Ло-Тан взрывными шарами."
-        },
-        {
-          "id": "sent-033",
-          "text": "Los Hans que quedaban lucharon en las montañas.",
-          "translationRu": "Оставшиеся Ханы сражались в горах."
-        },
-        {
-          "id": "sent-034",
-          "text": "Rogers y Wilma pelearon juntos.",
-          "translationRu": "Роджерс и Уилма сражались вместе."
-        },
-        {
-          "id": "sent-035",
-          "text": "Los americanos ganaron la batalla.",
-          "translationRu": "Американцы выиграли битву."
-        },
-        {
-          "id": "sent-036",
-          "text": "América era libre de nuevo.",
-          "translationRu": "Америка снова была свободной."
+          "text": "Los cohetes normales no podían llegar al barco porque el cono los destruía antes.",
+          "translationRu": "Обычные ракеты не могли достичь корабля, потому что конус уничтожал их раньше."
         }
       ]
     }

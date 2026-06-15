@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los señores del aire de Han"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,28 +13,18 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Anthony Rogers se despertó en el año 2419 después de dormir casi quinientos años en una mina abandonada.",
-          "translationRu": "Энтони Роджерс проснулся в 2419 году после почти пятисот лет сна в заброшенной шахте."
+          "text": "Me llamo Anthony Rogers y desperté después de casi quinientos años de animación suspendida en una mina abandonada cerca de Scranton.",
+          "translationRu": "Меня зовут Энтони Роджерс, и я проснулся после почти пятисот лет приостановленной анимации в заброшенной шахте близ Скрэнтона."
         },
         {
           "id": "sent-002",
-          "text": "Cuando abrió los ojos, descubrió que América ya no era la nación que él conocía.",
-          "translationRu": "Когда он открыл глаза, то обнаружил, что Америка больше не та страна, которую он знал."
+          "text": "Al despertar descubrí que América había caído bajo la tiranía de los Señores del Aire Han, unos mongoles feroces que en el año 2270 descendieron del cielo en enormes naves que viajaban sobre rayos repulsores.",
+          "translationRu": "Проснувшись, я обнаружил, что Америка пала под тиранию Властителей Воздуха Хань — свирепых монголов, которые в 2270 году спустились с небес на огромных кораблях, летевших на отталкивающих лучах."
         },
         {
           "id": "sent-003",
-          "text": "Los Hans, una raza mongola con ciencia muy avanzada, conquistaron el continente en el año 2270.",
-          "translationRu": "Ханы — монгольская раса с очень развитой наукой — завоевали континент в 2270 году."
-        },
-        {
-          "id": "sent-004",
-          "text": "Sus grandes naves volaban en rayos repulsores y destruían todo con rayos desintegradores.",
-          "translationRu": "Их огромные корабли летели на репульсорных лучах и уничтожали всё лучами-дезинтеграторами."
-        },
-        {
-          "id": "sent-005",
-          "text": "Los americanos que sobrevivieron vivían escondidos en los vastos bosques del país.",
-          "translationRu": "Выжившие американцы прятались в огромных лесах страны."
+          "text": "Con sus terribles rayos desintegradores destruyeron más de cuatro quintas partes de la raza americana y obligaron al resto a refugiarse en los vastos bosques que crecieron sobre las ruinas de la antigua civilización.",
+          "translationRu": "Своими ужасающими дезинтегрирующими лучами они уничтожили более четырёх пятых американской расы и вынудили остальных укрыться в бескрайних лесах, выросших над руинами древней цивилизации."
         }
       ]
     },
@@ -42,24 +32,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-004",
+          "text": "Para el otoño de 2419, los americanos habían desarrollado en secreto una ciencia terrible en sus refugios del bosque y se volvieron ferozmente contra los Hans, que llevaban generaciones encerrados en sus quince grandes ciudades.",
+          "translationRu": "К осени 2419 года американцы тайно развили ужасающую науку в своих лесных убежищах и яростно обратились против Хань, которые поколениями запирались в своих пятнадцати великих городах."
+        },
+        {
+          "id": "sent-005",
+          "text": "Los Hans habían abandonado el cultivo de la tierra y la minería, pues producían todo lo que necesitaban mediante procesos electrosintéticos.",
+          "translationRu": "Хань забросили земледелие и горнодобычу, так как производили всё необходимое посредством электросинтетических процессов."
+        },
+        {
           "id": "sent-006",
-          "text": "Rogers se unió a la banda Wyoming y aprendió las nuevas armas del siglo XXV.",
-          "translationRu": "Роджерс примкнул к банде Вайоминг и освоил новое оружие XXV века."
+          "text": "Yo fui adoptado por la Pandilla Wyoming y descubrí por accidente cómo destruir las naves Han disparando cohetes explosivos a las columnas de rayos repulsores, no directamente a los blindados cascos.",
+          "translationRu": "Меня принял клан Вайоминг, и я случайно обнаружил, как уничтожать корабли Хань, стреляя взрывными ракетами по колоннам отталкивающих лучей, а не прямо по бронированным корпусам."
         },
         {
           "id": "sent-007",
-          "text": "Descubrió cómo destruir las naves Han disparando cohetes a sus columnas de rayos repulsores.",
-          "translationRu": "Он открыл, как уничтожать корабли Ханов, стреляя ракетами в их колонны репульсорных лучей."
-        },
-        {
-          "id": "sent-008",
-          "text": "En la primavera de 2420, los americanos rodearon la gran ciudad Han de Nu-Yok con miles de artilleros.",
-          "translationRu": "Весной 2420 года американцы окружили великий город Ханов Ню-Йок тысячами артиллеристов."
-        },
-        {
-          "id": "sent-009",
-          "text": "Cuando los Hans lanzaron los nuevos barcos de tierra, los americanos los destruyeron haciendo explotar el suelo delante de ellos.",
-          "translationRu": "Когда Ханы пустили в бой новые наземные корабли, американцы уничтожили их, взрывая землю перед ними."
+          "text": "Los cohetes eran atraídos hacia arriba por los rayos repulsores hasta que explotaban contra los generadores de la nave, destruyéndola.",
+          "translationRu": "Ракеты притягивались вверх отталкивающими лучами и взрывались у генераторов корабля, уничтожая его."
         }
       ]
     },
@@ -67,24 +57,24 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-008",
+          "text": "Para la primavera de 2420, solo seis meses después de aquellos primeros éxitos, las posiciones de la raza amarilla y la raza blanca en América se habían invertido: los cazados eran ahora los cazadores.",
+          "translationRu": "К весне 2420 года, всего через шесть месяцев после первых успехов, положение жёлтой и белой расы в Америке поменялось местами: преследуемые стали охотниками."
+        },
+        {
+          "id": "sent-009",
+          "text": "Las Pandillas americanas habían rodeado cada una de las quince ciudades Han con una línea desplegada de artilleros de largo alcance.",
+          "translationRu": "Американские банды окружили каждый из пятнадцати городов Хань широкой линией дальнобойных стрелков."
+        },
+        {
           "id": "sent-010",
-          "text": "Rogers voló en su pequeño swooper de inertron para atacar una gran nave Han que bombardeaba el bosque.",
-          "translationRu": "Роджерс вылетел на своём маленьком инертронном скутере, чтобы атаковать большой корабль Ханов, бомбардировавший лес."
+          "text": "Nuestra campaña contra los Hans de Nu-Yok era bastante típica de cómo se desarrollaba la guerra en todo el país.",
+          "translationRu": "Наша кампания против Хань из Ню-Йока была весьма типична для того, как развивалась война по всей стране."
         },
         {
           "id": "sent-011",
-          "text": "El rayo desintegrador Han lo atrapó y lo hizo girar en el vacío que el rayo creaba.",
-          "translationRu": "Луч-дезинтегратор Ханов поймал его и закрутил в вакууме, который создавал луч."
-        },
-        {
-          "id": "sent-012",
-          "text": "Para escapar, Rogers soltó su lastre de ultron y el barco salió disparado hacia el cielo.",
-          "translationRu": "Чтобы спастись, Роджерс сбросил балласт из ультрона, и корабль выстрелил вверх в небо."
-        },
-        {
-          "id": "sent-013",
-          "text": "Sin control, la nave subió kilómetros hasta que Rogers logró separar la proa y saltar.",
-          "translationRu": "Без управления корабль поднялся на километры, пока Роджерс не сумел отсоединить нос и прыгнуть."
+          "text": "Nuestras fuerzas rodeaban la ciudad en un radio amplio, con la línea corriendo desde Staten Island hasta las montañas al oeste de Newark y luego hacia el norte cruzando el Hudson.",
+          "translationRu": "Наши силы окружали город в широком радиусе: линия шла от Стейтен-Айленда до гор к западу от Ньюарка и затем на север через Гудзон."
         }
       ]
     },
@@ -92,19 +82,19 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-012",
+          "text": "Teníamos no más de cuatro artilleros de largo alcance por milla cuadrada en nuestra primera línea, pero cada uno valía por una batería de artillería pesada de las que yo conocía en la Primera Guerra Mundial.",
+          "translationRu": "У нас было не более четырёх дальнобойных стрелков на квадратную милю на первой линии, но каждый из них стоил батареи тяжёлой артиллерии, знакомой мне по Первой мировой войне."
+        },
+        {
+          "id": "sent-013",
+          "text": "Cuando concentramos el fuego sobre la ciudad Han, destruimos sus paredes exteriores antes de que los ingenieros enemigos pudieran activar el anillo de generadores que rodeaba la ciudad con un filme de rayos desintegradores.",
+          "translationRu": "Когда мы сосредоточили огонь на городе Хань, мы разрушили его внешние стены прежде, чем вражеские инженеры успели включить кольцо генераторов, окружавшее город плёнкой дезинтегрирующих лучей."
+        },
+        {
           "id": "sent-014",
-          "text": "Una patrulla Han lo encontró inconsciente y lo llevó como prisionero hacia el oeste.",
-          "translationRu": "Ханский патруль нашёл его без сознания и повёз на запад как пленника."
-        },
-        {
-          "id": "sent-015",
-          "text": "Así llegó a Lo-Tan, la magnífica ciudad Han construida en la cima de una montaña rocosa.",
-          "translationRu": "Так он попал в Ло-Тан — великолепный город Ханов, построенный на вершине скалистой горы."
-        },
-        {
-          "id": "sent-016",
-          "text": "Sus torres de cristal brillaban como joyas en la niebla de las alturas.",
-          "translationRu": "Его стеклянные башни сверкали как драгоценные камни в туманной высоте."
+          "text": "Nuestros cohetes no podían penetrar este filme, ya que desintegraba cualquier sustancia material al instante, con la única excepción del inertron, ese elemento sintético desarrollado por los americanos.",
+          "translationRu": "Наши ракеты не могли пробить эту плёнку, поскольку она мгновенно дезинтегрировала любое материальное вещество, за единственным исключением инертрона — синтетического элемента, разработанного американцами."
         }
       ]
     },
@@ -112,24 +102,19 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-015",
+          "text": "La operación continua de los desintegradores destruía el aire y mantenía un vacío constante, lo que producía disturbios atmosféricos que terminaron en una tormenta local.",
+          "translationRu": "Непрерывная работа дезинтеграторов уничтожала воздух и поддерживала постоянный вакуум, порождая атмосферные возмущения, завершившиеся местной бурей."
+        },
+        {
+          "id": "sent-016",
+          "text": "Los Hans luego reorganizaron su sistema de rayos para dejar aperturas diagonales a través de las cuales entraba el aire y salían sus naves a explorar nuestras posiciones.",
+          "translationRu": "Затем Хань перестроили систему своих лучей, оставив диагональные отверстия, через которые поступал воздух и выходили их корабли разведывать наши позиции."
+        },
+        {
           "id": "sent-017",
-          "text": "San-Lan, el Señor Supremo de los Hans, recibió a Rogers con curiosidad y crueldad.",
-          "translationRu": "Сан-Лан, Верховный Повелитель Ханов, принял Роджерса с любопытством и жестокостью."
-        },
-        {
-          "id": "sent-018",
-          "text": "Durante dos meses usó drogas, hipnosis y visiones falsas de Wilma para quebrar su voluntad.",
-          "translationRu": "На протяжении двух месяцев он использовал наркотики, гипноз и поддельные образы Уилмы, чтобы сломить его волю."
-        },
-        {
-          "id": "sent-019",
-          "text": "Rogers resistió porque sabía que la verdadera Wilma nunca le pediría que traicionara a su pueblo.",
-          "translationRu": "Роджерс держался, потому что знал — настоящая Уилма никогда не попросила бы его предать свой народ."
-        },
-        {
-          "id": "sent-020",
-          "text": "San-Lan admiró su fuerza y dejó de torturarlo, pero siguió teniéndolo prisionero.",
-          "translationRu": "Сан-Лан восхитился его стойкостью и прекратил пытки, но по-прежнему держал его под стражей."
+          "text": "Derribamos siete cruceros Hans antes de que se dieran cuenta de lo peligroso que era flotar individualmente sobre nuestra línea invisible.",
+          "translationRu": "Мы сбили семь крейсеров Хань прежде, чем те поняли, насколько опасно было летать поодиночке над нашей невидимой линией."
         }
       ]
     },
@@ -137,19 +122,19 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Wilma, que era ahora jefa de los Wyoming, lideró las tropas hacia el oeste para atacar Lo-Tan.",
-          "translationRu": "Уилма, ставшая теперь главой клана Вайоминг, повела войска на запад атаковать Ло-Тан."
+          "id": "sent-018",
+          "text": "Las «naves de caída», que los Hans enviaron después, eran más difíciles de manejar: subían a inmensas alturas detrás de la pared desintegradora, apagaban sus rayos repulsores y se lanzaban a enorme velocidad planeando en grandes círculos.",
+          "translationRu": "«Корабли-пикировщики», которых Хань послали затем, были труднее для борьбы: они поднимались на огромную высоту за стеной дезинтеграторов, отключали отталкивающие лучи и бросались вниз с огромной скоростью, планируя широкими кругами."
         },
         {
-          "id": "sent-022",
-          "text": "Los americanos inventaron las «bolas de aire», pequeños drones esféricos controlados desde lejos.",
-          "translationRu": "Американцы изобрели «воздушные шары» — маленькие сферические дроны, управляемые на расстоянии."
+          "id": "sent-019",
+          "text": "Sin embargo, su gran velocidad también les impedía causar daño real, pues solo podían usar el rayo desintegrador desde una posición fija en la proa mientras caían en línea recta.",
+          "translationRu": "Однако их огромная скорость и не позволяла причинять реальный вред: они могли использовать дезинтегрирующий луч лишь из фиксированного генератора в носу, падая строго по прямой."
         },
         {
-          "id": "sent-023",
-          "text": "Estas bolas entraron en Lo-Tan a través de brechas en las paredes y sembraron el pánico.",
-          "translationRu": "Эти шары проникли в Ло-Тан через бреши в стенах и посеяли панику."
+          "id": "sent-020",
+          "text": "No podían ver a nuestros artilleros dispersos e invisibles, así que sus reconocimientos eran tan ineficaces como nuestros intentos de derribarlos.",
+          "translationRu": "Они не могли видеть наших рассредоточенных невидимых стрелков, поэтому их разведка была столь же бесплодной, как и наши попытки их сбить."
         }
       ]
     },
@@ -157,19 +142,24 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-021",
+          "text": "Por más de un mes la situación permaneció como un punto muerto: los Hans encerrados en sus ciudades mientras nosotros movilizábamos artilleros y suministros.",
+          "translationRu": "Более месяца ситуация оставалась патовой: Хань заперты в своих городах, а мы тем временем мобилизуем стрелков и запасы."
+        },
+        {
+          "id": "sent-022",
+          "text": "Si hubiéramos tenido suficiente inertron, podríamos haber terminado la guerra rápidamente con naves aéreas impenetrables al rayo desintegrador, pero su producción era un proceso lento y doloroso.",
+          "translationRu": "Если бы у нас было достаточно инертрона, мы могли бы быстро закончить войну с воздушными судами, непроницаемыми для дезинтегрирующего луча, но его производство было мучительно медленным процессом."
+        },
+        {
+          "id": "sent-023",
+          "text": "Finalmente los Hans rompieron parcialmente nuestro bloqueo reanudando el tráfico entre sus ciudades en grandes convoyes protegidos por escuadrones de cruceros que jugaban una pantalla cruzada de rayos desintegradores.",
+          "translationRu": "В конце концов Хань частично прорвали нашу блокаду, возобновив движение между городами в больших конвоях под защитой эскадронов крейсеров, создававших перекрёстную завесу из дезинтегрирующих лучей."
+        },
+        {
           "id": "sent-024",
-          "text": "Noticias llegaron a Rogers: Nu-Yok había sido destruida con cohetes de inertron.",
-          "translationRu": "Известие дошло до Роджерса: Ню-Йок был уничтожен инертронными ракетами."
-        },
-        {
-          "id": "sent-025",
-          "text": "San-Lan recibió la noticia con furia, pero Rogers le dijo sin miedo que el dominio Han había terminado.",
-          "translationRu": "Сан-Лан принял новость с яростью, но Роджерс бесстрашно сказал ему, что власть Ханов закончилась."
-        },
-        {
-          "id": "sent-026",
-          "text": "San-Lan descubrió que los Hans planeaban huir a través de túneles secretos bajo la montaña.",
-          "translationRu": "Роджерс узнал, что Ханы планируют бежать через секретные туннели под горой."
+          "text": "Era raro que un convoy hiciera el viaje entre Nu-Yok y otras ciudades Han sin perder varios barcos, pues nuestros artilleros distribuidos a lo largo de las rutas aéreas siempre registraban algunos impactos.",
+          "translationRu": "Редкий конвой добирался между Ню-Йоком и другими городами Хань без потери нескольких кораблей, ведь наши стрелки, рассредоточенные вдоль воздушных маршрутов, всегда добивались попаданий."
         }
       ]
     },
@@ -177,29 +167,19 @@
       "id": "para-008",
       "sentences": [
         {
+          "id": "sent-025",
+          "text": "Los Hans que llegaban al suelo con vida nunca eran hechos prisioneros: el salvaje odio desarrollado a lo largo de siglos de opresión desleal hacía imposible perdonarlos.",
+          "translationRu": "Хань, добравшихся до земли живыми, никогда не брали в плен: дикая ненависть, накопившаяся за века подлого угнетения, делала невозможным проявлять к ним снисхождение."
+        },
+        {
+          "id": "sent-026",
+          "text": "Los Hans también intentaron «cuñas aéreas» en formación de banco de nubes, arando caminos de destrucción de más de una milla de ancho a través de nuestras posiciones.",
+          "translationRu": "Хань также пробовали «воздушные клинья» в построении облачного банка, прокладывая пути разрушения шириной более мили через наши позиции."
+        },
+        {
           "id": "sent-027",
-          "text": "Una bola de aire controlada por Wilma encontró a Rogers en su habitación y mató a sus guardias.",
-          "translationRu": "Воздушный шар, которым управляла Уилма, нашёл Роджерса в его комнате и убил охранников."
-        },
-        {
-          "id": "sent-028",
-          "text": "Wilma y Rogers hablaron a través del aparato y planearon su escape.",
-          "translationRu": "Уилма и Роджерс переговорили через прибор и спланировали побег."
-        },
-        {
-          "id": "sent-029",
-          "text": "Rogers descendió por los túneles de la montaña usando un carro magnético Han.",
-          "translationRu": "Роджерс спустился по туннелям горы в магнитном вагоне Ханов."
-        },
-        {
-          "id": "sent-030",
-          "text": "La bola explotó la puerta de salida y Rogers escapó a la oscuridad de la noche.",
-          "translationRu": "Шар взорвал выходные ворота, и Роджерс вырвался в ночную тьму."
-        },
-        {
-          "id": "sent-031",
-          "text": "Un swooper americano lo recogió y lo llevó al campamento de los Wyoming.",
-          "translationRu": "Американский скутер подобрал его и доставил в лагерь Вайоминга."
+          "text": "Pero cuando salían al otro lado de nuestras líneas no tenían nada que hacer sino regresar a Nu-Yok, y nuestras líneas se cerraban de nuevo como si nada.",
+          "translationRu": "Но выйдя на другую сторону наших линий, им оставалось лишь вернуться в Ню-Йок, а наши линии смыкались снова, будто ничего не произошло."
         }
       ]
     },
@@ -207,34 +187,19 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-032",
-          "text": "Rogers transmitió toda la información sobre los túneles, y los americanos atacaron Lo-Tan de inmediato.",
-          "translationRu": "Роджерс передал всю информацию о туннелях, и американцы немедленно атаковали Ло-Тан."
+          "id": "sent-028",
+          "text": "Así que en la primavera de 2420, americanos y Hans estaban provisionalmente en un punto muerto, pero los Hans estaban tan desesperados como seguros nos sentíamos nosotros, pues el tiempo jugaba a nuestro favor.",
+          "translationRu": "Итак, весной 2420 года американцы и Хань пребывали во временном тупике, но Хань были так же отчаянны, как мы были уверены в себе — ведь время работало на нас."
         },
         {
-          "id": "sent-033",
-          "text": "Las bolas explosivas destruyeron la ciudad y la montaña entera tembló con explosiones gigantescas.",
-          "translationRu": "Взрывные шары разрушили город, и вся гора содрогнулась от исполинских взрывов."
+          "id": "sent-029",
+          "text": "Fue en ese período cuando supimos que los Señores del Aire habían decidido, de manera muy impopular entre sus pueblos conscriptos, llevar la lucha al terreno.",
+          "translationRu": "Именно в тот период мы узнали, что Властители Воздуха решили — решение весьма непопулярное среди их призывных народов — перенести борьбу на землю."
         },
         {
-          "id": "sent-034",
-          "text": "Rogers y Wilma lucharon juntos en las montañas contra los soldados Hans que intentaban escapar.",
-          "translationRu": "Роджерс и Уилма сражались вместе в горах против солдат Ханов, пытавшихся спастись."
-        },
-        {
-          "id": "sent-035",
-          "text": "Los americanos destruyeron al enemigo y salvaron el flanco derecho de su ejército.",
-          "translationRu": "Американцы уничтожили врага и спасли правый фланг своей армии."
-        },
-        {
-          "id": "sent-036",
-          "text": "San-Lan desapareció para siempre y el poder de los Hans se derrumbó.",
-          "translationRu": "Сан-Лан исчез навсегда, и власть Ханов рухнула."
-        },
-        {
-          "id": "sent-037",
-          "text": "Con los años, los americanos liberaron todo el continente y construyeron una nueva civilización.",
-          "translationRu": "Со временем американцы освободили весь континент и построили новую цивилизацию."
+          "id": "sent-030",
+          "text": "El dominio del aire ya no significaba la victoria cuando no había ciudades visibles ni grupos concentrados de hombres que destruir; solo vastos bosques silenciosos donde nuestras fuerzas acechaban invisibles.",
+          "translationRu": "Господство в воздухе больше не означало победы, когда не было ни видимых городов, ни скоплений людей, которые можно было бы уничтожить: лишь бескрайние молчаливые леса, где наши силы скрывались невидимыми."
         }
       ]
     }
