@@ -14,13 +14,15 @@ export function WorkCard({ work }: { work: CatalogWork }) {
       <div className="levels">
         {LEVELS.map((l) => {
           const has = work.availableLevels.includes(l)
+          const w = work.words?.[l]
           return (
             <span
               key={l}
               className={`level-badge ${has ? '' : 'level-badge--off'}`}
-              title={has ? `Уровень ${LEVEL_LABELS[l]} готов` : `Уровень ${LEVEL_LABELS[l]} скоро`}
+              title={has ? `${LEVEL_LABELS[l]}: ${w ?? '—'} слов` : `Уровень ${LEVEL_LABELS[l]} скоро`}
             >
               {LEVEL_LABELS[l]}
+              {has && w != null ? <span className="level-badge__w">{w}</span> : null}
             </span>
           )
         })}

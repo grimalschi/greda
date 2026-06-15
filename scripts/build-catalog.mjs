@@ -10,6 +10,25 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const WORKS = resolve(ROOT, 'public', 'content', 'works')
 const LEVELS = ['a2', 'b1', 'b2', 'c1']
 
+// Считает слова (по испанскому тексту `text`) во всех главах уровня.
+function levelWordCount(workId, level) {
+  const dir = resolve(WORKS, workId, 'levels', level)
+  const mp = resolve(dir, 'manifest.json')
+  if (!existsSync(mp)) return 0
+  let total = 0
+  for (const ch of JSON.parse(readFileSync(mp, 'utf8')).chapters) {
+    const cp = resolve(dir, `${ch.id}.json`)
+    if (!existsSync(cp)) continue
+    for (const p of JSON.parse(readFileSync(cp, 'utf8')).paragraphs) {
+      for (const s of p.sentences) {
+        const t = (s.text || '').trim()
+        if (t) total += t.split(/\s+/).length
+      }
+    }
+  }
+  return total
+}
+
 const works = []
 let normalized = 0
 
@@ -51,6 +70,10 @@ for (const id of readdirSync(WORKS)) {
     normalized++
   }
 
+  const availableLevels = LEVELS.filter((l) => norm.levels[l].available)
+  const words = {}
+  for (const l of availableLevels) words[l] = levelWordCount(norm.id, l)
+
   works.push({
     id: norm.id,
     title: norm.title,
@@ -60,7 +83,8 @@ for (const id of readdirSync(WORKS)) {
     authorName: norm.author.name,
     genres: norm.genres,
     levels: LEVELS.filter((l) => norm.levels[l]),
-    availableLevels: LEVELS.filter((l) => norm.levels[l].available),
+    availableLevels,
+    words,
   })
 }
 

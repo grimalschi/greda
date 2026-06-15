@@ -284,6 +284,7 @@ button {
 
 .levels {
   display: flex;
+  flex-wrap: wrap;
   gap: 6px;
   margin-top: 12px;
 }
@@ -295,6 +296,12 @@ button {
   border-radius: 6px;
   background: color-mix(in srgb, var(--accent) 16%, transparent);
   color: var(--accent);
+}
+.level-badge__w {
+  margin-left: 5px;
+  font-weight: 600;
+  opacity: 0.72;
+  font-variant-numeric: tabular-nums;
 }
 .level-badge--off {
   background: var(--surface-2);

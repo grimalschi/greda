@@ -27,6 +27,8 @@ export interface CatalogWork {
   levels: Level[]
   /** Уровни, для которых контент уже подготовлен. */
   availableLevels: Level[]
+  /** Количество слов (по испанскому тексту) на каждом доступном уровне. */
+  words?: Partial<Record<Level, number>>
 }
 
 export interface Catalog {

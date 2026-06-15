@@ -38,6 +38,16 @@
           "availableLevels": {
             "type": "array",
             "items": { "enum": ["a2", "b1", "b2", "c1"] }
+          },
+          "words": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "a2": { "type": "integer", "minimum": 0 },
+              "b1": { "type": "integer", "minimum": 0 },
+              "b2": { "type": "integer", "minimum": 0 },
+              "c1": { "type": "integer", "minimum": 0 }
+            }
           }
         }
       }
