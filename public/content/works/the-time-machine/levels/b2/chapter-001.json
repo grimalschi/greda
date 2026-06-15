@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La máquina del tiempo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,28 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El Viajero del Tiempo, un inventor excéntrico de la época victoriana, estaba convencido de que el tiempo era simplemente la cuarta dimensión del espacio.",
-          "translationRu": "Путешественник во времени, эксцентричный изобретатель викторианской эпохи, был убеждён, что время — это не что иное, как четвёртое измерение пространства."
+          "text": "El Viajero del Tiempo —así lo llamaremos, pues es conveniente— nos exponía aquella noche una cuestión muy profunda mientras estábamos sentados alrededor de la chimenea después de cenar.",
+          "translationRu": "Путешественник во Времени — так мы его будем называть, ибо это удобно — излагал нам в тот вечер весьма глубокий вопрос, пока мы сидели у камина после ужина."
         },
         {
           "id": "sent-002",
-          "text": "Para demostrar su teoría ante un grupo de amigos escépticos, hizo que el psicólogo empujara la palanca de un modelo en miniatura, el cual se desvaneció ante sus ojos.",
-          "translationRu": "Чтобы доказать свою теорию скептически настроенным друзьям, он попросил психолога нажать рычаг миниатюрной модели — и та растворилась у них на глазах."
+          "text": "Sus ojos grises brillaban de entusiasmo y su rostro, habitualmente pálido, estaba encendido y animado.",
+          "translationRu": "Его серые глаза сверкали воодушевлением, а лицо, обычно бледное, раскраснелось и оживилось."
         },
         {
           "id": "sent-003",
-          "text": "Una semana después construyó y pilotó él mismo la máquina completa.",
-          "translationRu": "Неделю спустя он построил полноразмерную машину и сам сел за её рычаги."
+          "text": "El fuego ardía con fuerza, y en aquel ambiente de sobremesa lujosa, el pensamiento fluía con gracilidad, libre de la precisión del día.",
+          "translationRu": "Огонь ярко горел, и в этой роскошной послеобеденной атмосфере мысли текли плавно, освобождённые от дневной строгости."
+        },
+        {
+          "id": "sent-004",
+          "text": "«Tenéis que seguirme con atención», dijo, marcando sus puntos con el dedo índice. «Voy a contradecir una o dos ideas que se aceptan casi universalmente.»",
+          "translationRu": "«Вам нужно следить за мной внимательно», — сказал он, отмечая тезисы указательным пальцем. «Я собираюсь опровергнуть одну-две идеи, которые признаются почти повсеместно.»"
+        },
+        {
+          "id": "sent-005",
+          "text": "Filby, una persona argumentativa de pelo rojo, protestó diciendo que aquello era ya mucho por donde empezar.",
+          "translationRu": "Филби, склонный к спорам рыжеволосый человек, возразил, что это слишком много для начала."
         }
       ]
     },
@@ -32,24 +42,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "El Viajero llegó al año 802701 en medio de una tormenta de granizo, y lo primero que le impresionó fue una colosal esfinge de mármol blanco sobre un pedestal de bronce cubierto de verdín.",
-          "translationRu": "Путешественник прибыл в 802701 год во время града, и первое, что произвело на него впечатление, — колоссальный белый мраморный сфинкс на позеленевшем бронзовом постаменте."
-        },
-        {
-          "id": "sent-005",
-          "text": "Pronto surgieron los Eloi, una raza de seres bellos pero tremendamente frágiles e infantiles, que le saludaron sin el menor temor.",
-          "translationRu": "Вскоре появились элои — красивая, но невероятно хрупкая и инфантильная раса, встретившая его без малейшего страха."
-        },
-        {
           "id": "sent-006",
-          "text": "Le pusieron guirnaldas de flores y lo llevaron a un gran salón en ruinas donde comieron juntos fruta exótica.",
-          "translationRu": "Они увенчали его гирляндами цветов и привели в огромный полуразрушенный зал, где все вместе поели экзотических фруктов."
+          "text": "«No os pido que aceptéis nada sin fundamento razonable», respondió el Viajero del Tiempo. «Todos sabéis que una línea matemática —de grosor nulo— no tiene existencia real. Tampoco un plano matemático. Son meras abstracciones.»",
+          "translationRu": "«Я не прошу вас принимать ничего без разумных оснований», — ответил Путешественник во Времени. «Вы все знаете, что математическая линия — нулевой толщины — не имеет реального существования. То же самое с математической плоскостью. Это лишь абстракции.»"
         },
         {
           "id": "sent-007",
-          "text": "El Viajero pensó que la humanidad había alcanzado una paz perfecta, aunque ya entrevió que algo esencial se había perdido en el camino.",
-          "translationRu": "Путешественник решил, что человечество достигло совершенного мира, хотя уже тогда почуял, что по дороге что-то важное было утрачено."
+          "text": "Prosiguió diciendo que cualquier cuerpo real debe tener extensión en cuatro direcciones: longitud, anchura, grosor y duración.",
+          "translationRu": "Он продолжил, утверждая, что любое реальное тело должно иметь протяжённость в четырёх направлениях: длину, ширину, толщину и продолжительность."
+        },
+        {
+          "id": "sent-008",
+          "text": "«Hay realmente cuatro dimensiones: tres que llamamos los tres planos del Espacio, y una cuarta, el Tiempo. Existe, sin embargo, la tendencia a establecer una distinción irreal entre las tres primeras y la última, porque nuestra conciencia solo se mueve en una dirección a lo largo de ella.»",
+          "translationRu": "«На самом деле существуют четыре измерения: три, которые мы называем пространственными плоскостями, и четвёртое — Время. Однако есть тенденция проводить нереальное различие между первыми тремя и последним, потому что наше сознание движется лишь в одном направлении вдоль него.»"
+        },
+        {
+          "id": "sent-009",
+          "text": "El Médico preguntó, sin apartar la vista de las brasas: si el Tiempo es realmente una cuarta dimensión del Espacio, ¿por qué siempre se lo ha considerado algo diferente, y por qué no podemos movernos en él como en las otras dimensiones?",
+          "translationRu": "Врач, не отрывая взгляда от углей, спросил: если Время действительно является четвёртым измерением Пространства, почему его всегда считали чем-то иным и почему мы не можем двигаться в нём так же, как в других измерениях?"
         }
       ]
     },
@@ -57,24 +67,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "Aquella primera noche descubrió con horror que su máquina había desaparecido.",
-          "translationRu": "В ту первую ночь он с ужасом обнаружил, что его машина исчезла."
-        },
-        {
-          "id": "sent-009",
-          "text": "Corrió desesperado hasta la esfinge blanca, cuya sonrisa pétrea parecía burlarse de su pánico.",
-          "translationRu": "Он бросился в отчаянии к белому сфинксу, чья каменная улыбка, казалось, насмехалась над его паникой."
-        },
-        {
           "id": "sent-010",
-          "text": "Las puertas del pedestal de bronce estaban cerradas, y los Eloi reaccionaban con repugnancia y confusión ante cualquier pregunta sobre ellas.",
-          "translationRu": "Двери бронзового постамента были закрыты, а элои реагировали на любые вопросы о них с отвращением и растерянностью."
+          "text": "El Viajero sonrió. «¿Estáis seguros de que podemos movernos libremente en el Espacio? A derecha e izquierda, hacia delante y hacia atrás, sí; pero ¿hacia arriba y hacia abajo? La gravedad nos limita ahí.»",
+          "translationRu": "Путешественник улыбнулся. «Вы уверены, что можем свободно двигаться в Пространстве? Вправо и влево, вперёд и назад — да; но что насчёт вверх и вниз? Там нас ограничивает гравитация.»"
         },
         {
           "id": "sent-011",
-          "text": "Comprendió que fuerzas desconocidas controlaban este mundo y que sin la máquina estaba atrapado para siempre.",
-          "translationRu": "Он понял, что в этом мире правят неведомые силы, и без машины он застрял здесь навсегда."
+          "text": "Explicó que nuestra conciencia se mueve a lo largo de la Dimensión Temporal con velocidad uniforme desde la cuna hasta la tumba, como si nos cayéramos desde cincuenta millas de altura.",
+          "translationRu": "Он объяснил, что наше сознание движется вдоль измерения Времени с равномерной скоростью от колыбели до могилы — как если бы мы падали с высоты пятидесяти миль."
+        },
+        {
+          "id": "sent-012",
+          "text": "«Un hombre civilizado puede subir contra la gravedad en un globo. ¿Por qué no debería esperar, al final, poder detener o acelerar su deriva a lo largo de la Dimensión Temporal, o incluso dar la vuelta y viajar en sentido contrario?»",
+          "translationRu": "«Цивилизованный человек может подниматься против силы тяжести на воздушном шаре. Почему же он не должен рассчитывать, что когда-нибудь сможет остановить или ускорить своё движение во Времени — или даже развернуться и двигаться назад?»"
+        },
+        {
+          "id": "sent-013",
+          "text": "Filby se contentó con reírse, pero el Viajero del Tiempo anunció que tenía verificación experimental y que hacía mucho tiempo había concebido una máquina que viajaría indistintamente en cualquier dirección del Espacio y del Tiempo.",
+          "translationRu": "Филби ограничился смехом, но Путешественник объявил, что у него есть экспериментальное подтверждение, и что давно задумал машину, способную двигаться в любом направлении Пространства и Времени."
         }
       ]
     },
@@ -82,24 +92,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "La verdad se reveló cuando bajó por uno de los pozos circulares que punteaban el paisaje: bajo tierra existía otra humanidad, los Morlocks.",
-          "translationRu": "Правда открылась, когда он спустился в один из круглых колодцев, усеявших пейзаж: под землёй существовало другое человечество — морлоки."
-        },
-        {
-          "id": "sent-013",
-          "text": "Eran criaturas pálidas y simiescos, con enormes ojos grises que reflejaban la luz como los de un gato, y trabajaban entre máquinas ensordecedoras en una oscuridad casi total.",
-          "translationRu": "Это были бледные, обезьяноподобные существа с огромными серыми глазами, отражавшими свет подобно кошачьим, — они работали среди оглушительных машин почти в полной темноте."
-        },
-        {
           "id": "sent-014",
-          "text": "En una mesa vio restos de carne fresca, y comprendió con náuseas la horrible simbiosis: los Morlocks mantenían y vestían a los Eloi, pero a cambio los usaban como ganado.",
-          "translationRu": "На столе он увидел остатки свежего мяса и с отвращением понял чудовищный симбиоз: морлоки содержали и одевали элоев, но взамен использовали их как скот."
+          "text": "El Viajero fue al laboratorio y regresó sosteniendo en la mano un delicado armazón metálico, no más grande que un reloj pequeño, hecho de marfil y una sustancia cristalina transparente.",
+          "translationRu": "Путешественник вышел в лабораторию и вернулся, держа в руке изящный металлический каркас — не больше маленьких часов, сделанный из слоновой кости и прозрачного кристаллического вещества."
         },
         {
           "id": "sent-015",
-          "text": "Escapó del subsuelo cuando sus últimas cerillas mantuvieron a raya a las criaturas que trataban de sujetarlo en la oscuridad.",
-          "translationRu": "Он выбрался из-под земли, когда последние спички удерживали существ, пытавшихся схватить его во тьме."
+          "text": "«Este pequeño asunto», dijo apoyando los codos en la mesa, «es solo un modelo. Es mi plano para una máquina que viaja a través del tiempo. Notaréis que tiene un aspecto algo torcido y que hay una extraña apariencia oscilante en esta barra, como si fuera irreal.»",
+          "translationRu": "«Этот маленький предмет», — сказал он, положив локти на стол, — «всего лишь модель. Это мой проект машины для путешествий во времени. Вы заметите, что она выглядит немного перекошенной и что эта штанга словно мерцает — будто она нереальна.»"
+        },
+        {
+          "id": "sent-016",
+          "text": "Señaló dos pequeñas palancas y explicó que una enviaba la máquina hacia el futuro y la otra invertía el movimiento.",
+          "translationRu": "Он указал на две маленькие рукоятки и объяснил: одна отправляет машину в будущее, другая — меняет направление."
+        },
+        {
+          "id": "sent-017",
+          "text": "«No quiero desperdiciar este modelo y que me digan luego que soy un charlatán. Mirad bien la cosa. Mirad también la mesa y comprobad que no hay trampa.»",
+          "translationRu": "«Я не хочу тратить эту модель попусту, а потом услышать, что я шарлатан. Хорошенько посмотрите на неё. Посмотрите и на стол — убедитесь, что никакого обмана нет.»"
         }
       ]
     },
@@ -107,29 +117,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "Entre los Eloi, el Viajero había salvado de ahogarse a una pequeña llamada Weena, quien desde entonces no se separaba de él.",
-          "translationRu": "Среди элоев Путешественник спас от утопления маленькую существо по имени Уина, которая с тех пор не отходила от него."
-        },
-        {
-          "id": "sent-017",
-          "text": "Era como una niña afectuosa e impulsiva, y llenaba sus bolsillos de flores sin comprender para qué servían.",
-          "translationRu": "Она была как ласковый порывистый ребёнок и набивала его карманы цветами, не понимая, зачем они нужны."
-        },
-        {
           "id": "sent-018",
-          "text": "Juntos recorrieron el Palacio de Porcelana Verde, un antiguo museo en ruinas donde el Viajero encontró cerillas y alcanfor, armas invaluables contra la oscuridad de los Morlocks.",
-          "translationRu": "Вместе они прошли Дворец Зелёного Фарфора — старый разрушенный музей, где Путешественник нашёл спички и камфору — бесценное оружие против морлоковской тьмы."
+          "text": "El Viajero tomó la mano del Psicólogo y le hizo poner el dedo índice sobre la palanca: fue el Psicólogo en persona quien envió el modelo al viaje.",
+          "translationRu": "Путешественник взял руку Психолога и заставил его положить указательный палец на рычаг: именно Психолог лично отправил модель в путь."
         },
         {
           "id": "sent-019",
-          "text": "De regreso, al cruzar un bosque nocturno, los Morlocks los emboscaron; el Viajero encendió un fuego para mantenerlos a distancia, pero se quedó dormido y las llamas se extendieron al bosque.",
-          "translationRu": "На обратном пути, пробираясь через ночной лес, они попали в засаду морлоков; Путешественник разжёг огонь, чтобы держать их на расстоянии, но заснул, и пламя перекинулось на лес."
+          "text": "La llama de la lámpara tembló, una de las velas del estante se apagó, y la maquinita giró bruscamente, se volvió borrosa, apareció como un fantasma durante un segundo —un remolino de latón y marfil apenas perceptible— y desapareció.",
+          "translationRu": "Пламя лампы вздрогнуло, одна из свечей на каминной полке погасла, и маленькая машина резко закружилась, стала нечёткой, на секунду мелькнула призраком — едва различимым вихрем латуни и слоновой кости — и исчезла."
         },
         {
           "id": "sent-020",
-          "text": "Weena desapareció en el caos y el fuego; el Viajero comprendió que la había perdido para siempre.",
-          "translationRu": "Уина исчезла в хаосе и огне; Путешественник понял, что потерял её навсегда."
+          "text": "Salvo la lámpara, la mesa quedó vacía. Todos guardaron silencio por un momento; luego Filby dijo una maldición.",
+          "translationRu": "Кроме лампы, стол оказался пуст. Все на мгновение замолчали; потом Филби выругался."
+        },
+        {
+          "id": "sent-021",
+          "text": "El Psicólogo se recuperó y buscó debajo de la mesa, ante lo cual el Viajero del Tiempo soltó una carcajada.",
+          "translationRu": "Психолог опомнился и заглянул под стол, на что Путешественник во Времени расхохотался."
         }
       ]
     },
@@ -137,19 +142,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Al amanecer se encaminó hacia la esfinge blanca y, para su sorpresa, las puertas de bronce estaban abiertas.",
-          "translationRu": "На рассвете он направился к белому сфинксу и, к своему удивлению, обнаружил бронзовые двери открытыми."
-        },
-        {
           "id": "sent-022",
-          "text": "Dentro encontró la máquina del tiempo, limpiada y aceitada por los Morlocks, quienes esperaban atraparlo en la oscuridad cuando las puertas se cerrasen de golpe.",
-          "translationRu": "Внутри он нашёл машину времени — вычищенную и смазанную морлоками, которые рассчитывали поймать его в темноте, когда двери захлопнутся."
+          "text": "El Médico preguntó si hablaba en serio y si aquella máquina había viajado realmente en el tiempo.",
+          "translationRu": "Врач спросил, говорит ли он серьёзно и действительно ли машина переместилась во времени."
         },
         {
           "id": "sent-023",
-          "text": "Las puertas se cerraron, pero el Viajero consiguió insertar las palancas y partir antes de que lo sujetasen del todo.",
-          "translationRu": "Двери захлопнулись, но Путешественник успел вставить рычаги и умчаться прежде, чем они его окончательно схватили."
+          "text": "«Ciertamente», respondió el Viajero encendiendo su pipa junto a la chimenea. «Y además, tengo una máquina grande casi terminada en el laboratorio: cuando esté lista, pienso hacer un viaje por mi propia cuenta.»",
+          "translationRu": "«Разумеется», — ответил Путешественник, прикуривая трубку у камина. «Более того, у меня в лаборатории почти готова большая машина: когда она будет закончена, я собираюсь совершить путешествие сам.»"
+        },
+        {
+          "id": "sent-024",
+          "text": "Llevó a sus invitados por un largo pasillo oscuro hasta el laboratorio, donde vieron una versión mayor del mecanismo: piezas de níquel, de marfil y de cristal de roca, algunas aún sin acabar sobre el banco.",
+          "translationRu": "Он провёл гостей по длинному тёмному коридору в лабораторию, где они увидели увеличенную версию механизма: детали из никеля, слоновой кости и горного хрусталя, некоторые ещё незаконченные на верстаке."
+        },
+        {
+          "id": "sent-025",
+          "text": "«Sobre esa máquina», declaró el Viajero alzando la lámpara, «tengo intención de explorar el tiempo. ¿Está claro? Nunca he hablado más en serio en toda mi vida.»",
+          "translationRu": "«На этой машине», — заявил Путешественник, поднимая лампу, — «я намерен исследовать время. Ясно? Никогда в жизни я не был более серьёзен.»"
         }
       ]
     },
@@ -157,19 +167,29 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-024",
-          "text": "Sin querer se lanzó hacia el futuro más remoto y vio el ocaso definitivo de la Tierra.",
-          "translationRu": "Неожиданно для себя он устремился в самое далёкое будущее и увидел окончательный закат Земли."
-        },
-        {
-          "id": "sent-025",
-          "text": "El sol, enorme y rojo, colgaba inmóvil sobre el horizonte; la playa oscura estaba poblada solo por cangrejos gigantes y musgos verdes sobre las rocas.",
-          "translationRu": "Солнце — огромное и красное — неподвижно висело над горизонтом; тёмный берег населяли лишь гигантские крабы да зелёный мох на камнях."
-        },
-        {
           "id": "sent-026",
-          "text": "Un eclipse súbito sumergió el mundo en una oscuridad glacial, y el Viajero, aterrado, huyó de vuelta al pasado.",
-          "translationRu": "Внезапное затмение погрузило мир в ледяную тьму, и Путешественник в ужасе бросился обратно в прошлое."
+          "text": "El jueves siguiente, el narrador llegó a la casa del Viajero y encontró a varios invitados ya reunidos, pero el anfitrión no estaba.",
+          "translationRu": "В следующий четверг рассказчик прибыл в дом Путешественника и застал уже несколько гостей, но хозяина не было."
+        },
+        {
+          "id": "sent-027",
+          "text": "El Médico mostró una nota que pedía comenzar la cena a las siete si él no había vuelto, pues explicaría todo a su llegada.",
+          "translationRu": "Врач показал записку с просьбой начинать ужин в семь, если он не вернулся, — он всё объяснит по приходе."
+        },
+        {
+          "id": "sent-028",
+          "text": "En medio de la cena, la puerta del pasillo se abrió despacio, sin hacer ruido, y el Viajero del Tiempo apareció en el umbral.",
+          "translationRu": "В разгар ужина дверь из коридора медленно, беззвучно приоткрылась, и Путешественник во Времени появился на пороге."
+        },
+        {
+          "id": "sent-029",
+          "text": "Tenía el abrigo sucio y manchado de verde en las mangas; el pelo en desorden, aparentemente más gris por el polvo; el rostro espectral, con un corte a medio cicatrizar en la barbilla; la mirada extraviada, como la de alguien que acaba de sufrir un dolor intenso.",
+          "translationRu": "Пальто его было грязным, рукава — испачканы зеленью; волосы в беспорядке, будто побелевшие от пыли; лицо мертвенно-бледное, с полузажившим порезом на подбородке; взгляд блуждающий — как у человека, только что перенёсшего сильную боль."
+        },
+        {
+          "id": "sent-030",
+          "text": "Caminaba cojeando como un vagabundo descalzo, y cuando se sentó se vio que en los pies solo llevaba unos calcetines harapientos y manchados de sangre.",
+          "translationRu": "Он шёл, прихрамывая, как босой бродяга, и когда сел, все увидели, что на ногах у него — лишь рваные, запятнанные кровью носки."
         }
       ]
     },
@@ -177,44 +197,29 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-027",
-          "text": "Regresó a su laboratorio victoriano la misma tarde en que había salido, con la ropa hecha jirones y los pies en carne viva.",
-          "translationRu": "Он вернулся в свою викторианскую лабораторию в тот же вечер, когда отправился, — в изодранной одежде и с окровавленными ногами."
-        },
-        {
-          "id": "sent-028",
-          "text": "Relató su historia ante sus amigos, que lo escucharon fascinados pero sin poder creerle del todo.",
-          "translationRu": "Он поведал свою историю друзьям, которые слушали его с восхищением, но не могли поверить до конца."
-        },
-        {
-          "id": "sent-029",
-          "text": "Como única prueba dejó sobre la mesa dos flores extrañas y marchitas que Weena había metido en su bolsillo.",
-          "translationRu": "Единственным доказательством остались два странных увядших цветка, которые Уина положила ему в карман."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "A la mañana siguiente, el narrador fue a visitar al Viajero y lo encontró preparando una nueva expedición con una cámara fotográfica y una mochila.",
-          "translationRu": "На следующее утро рассказчик пришёл навестить Путешественника и застал его готовящимся к новой экспедиции — с фотоаппаратом и рюкзаком."
-        },
-        {
           "id": "sent-031",
-          "text": "Un momento después oyó un golpe seco, entró al laboratorio y la máquina había desaparecido.",
-          "translationRu": "Мгновение спустя он услышал резкий звук, вошёл в лабораторию — и машина исчезла."
+          "text": "El Editor le llenó una copa de champán, que él apuró de un trago; enseguida pidió más y algo de carne, pues estaba hambriento.",
+          "translationRu": "Редактор наполнил ему бокал шампанского, который он осушил одним глотком; тотчас попросил ещё и мяса — он умирал от голода."
         },
         {
           "id": "sent-032",
-          "text": "El Viajero del Tiempo nunca volvió.",
-          "translationRu": "Путешественник во времени так и не вернулся."
+          "text": "«Voy a lavarme y vestirme», dijo con voz vacilante, «y luego bajaré a explicaros todo.»",
+          "translationRu": "«Пойду умоюсь и переоденусь», — произнёс он неуверенным голосом, — «а потом спущусь и всё объясню.»"
         },
         {
           "id": "sent-033",
-          "text": "Solo las flores marchitas de Weena permanecen como testimonio de que incluso al final del mundo, cuando la mente y la fuerza ya no existían, la ternura y la gratitud seguían vivas en el corazón humano.",
-          "translationRu": "Лишь увядшие цветки Уины остались как свидетельство того, что даже на краю света, когда разум и сила иссякли, нежность и благодарность ещё жили в человеческом сердце."
+          "text": "Cuando regresó a la mesa, vestido ya con ropa de noche corriente y con solo el aspecto demacrado como huella de lo sucedido, el Editor le preguntó bromeando si había viajado hasta la semana siguiente.",
+          "translationRu": "Когда он вернулся к столу, уже переодетый в обычный вечерний костюм, и лишь измождённый вид хранил след произошедшего, Редактор шaлoвливо спросил, не путешествовал ли он до следующей недели."
+        },
+        {
+          "id": "sent-034",
+          "text": "El Viajero sonrió calladamente, a la antigua usanza, y pidió sus chuletas. «¡Qué placer volver a clavar un tenedor en la carne!», dijo.",
+          "translationRu": "Путешественник молча улыбнулся — по-старому — и потребовал свои отбивные. «Какое удовольствие снова вонзить вилку в мясо!» — сказал он."
+        },
+        {
+          "id": "sent-035",
+          "text": "Solo cuando terminó de comer y se trasladó a la sala de fumar se dispuso a contar la historia, con la única condición de que nadie le interrumpiera.",
+          "translationRu": "Лишь когда поужинал и перешёл в курительную комнату, он был готов рассказать свою историю — при единственном условии: никаких перебиваний."
         }
       ]
     }
