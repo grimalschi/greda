@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "filmer",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Filmer, el inventor del vuelo"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Filmer era un hombre tímido y pobre.", "translationRu": "Филмер был робким и бедным человеком."},
+        {"id": "sent-002", "text": "Su padre hacía botas en Dover.", "translationRu": "Его отец тачал сапоги в Дувре."},
+        {"id": "sent-003", "text": "Filmer estudió mucho y sacó buenas notas.", "translationRu": "Филмер много учился и получал хорошие оценки."},
+        {"id": "sent-004", "text": "Trabajó en secreto durante muchos años.", "translationRu": "Он работал в тайне долгие годы."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Filmer inventó una máquina para volar.", "translationRu": "Филмер изобрёл летательную машину."},
+        {"id": "sent-006", "text": "La máquina podía subir y bajar en el aire.", "translationRu": "Машина могла подниматься и опускаться в воздухе."},
+        {"id": "sent-007", "text": "Era más ligera que el aire o más pesada, según quería él.", "translationRu": "Она была легче воздуха или тяжелее — по его желанию."},
+        {"id": "sent-008", "text": "Nadie creyó en él al principio.", "translationRu": "Поначалу никто ему не верил."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-009", "text": "Un día hizo una prueba con un modelo pequeño.", "translationRu": "Однажды он испытал небольшую модель."},
+        {"id": "sent-010", "text": "El modelo voló y volvió sano y salvo.", "translationRu": "Модель взлетела и вернулась целой."},
+        {"id": "sent-011", "text": "Después de la prueba, Filmer se desmayó de emoción.", "translationRu": "После испытания Филмер упал в обморок от волнения."},
+        {"id": "sent-012", "text": "Más tarde lloró sin parar.", "translationRu": "Затем он долго и безутешно плакал."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-013", "text": "Un periodista poderoso se llamaba Banghurst.", "translationRu": "Одного влиятельного журналиста звали Бангёрст."},
+        {"id": "sent-014", "text": "Banghurst vio el invento y lo publicó en su periódico.", "translationRu": "Бангёрст увидел изобретение и написал о нём в своей газете."},
+        {"id": "sent-015", "text": "Todo el mundo habló de Filmer.", "translationRu": "Весь мир заговорил о Филмере."},
+        {"id": "sent-016", "text": "Ahora Filmer era famoso.", "translationRu": "Теперь Филмер был знаменит."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-017", "text": "Banghurst construyó una máquina grande para un hombre.", "translationRu": "Бангёрст построил большую машину, рассчитанную на человека."},
+        {"id": "sent-018", "text": "Todos esperaban que Filmer volara en ella.", "translationRu": "Все ожидали, что Филмер полетит на ней."},
+        {"id": "sent-019", "text": "Pero Filmer tenía mucho miedo de volar.", "translationRu": "Но Филмер очень боялся летать."},
+        {"id": "sent-020", "text": "No dormía de noche y pensaba en el cielo.", "translationRu": "По ночам он не спал и думал о небе."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-021", "text": "Lady Mary Elkinghorn admiraba a Filmer.", "translationRu": "Леди Мэри Элкинхорн восхищалась Филмером."},
+        {"id": "sent-022", "text": "Filmer no quería perder su admiración.", "translationRu": "Филмер не хотел терять её восхищения."},
+        {"id": "sent-023", "text": "Eso hacía más difícil su decisión.", "translationRu": "Это делало его выбор ещё тяжелее."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-024", "text": "El gran día llegó con sol y gente.", "translationRu": "Великий день наступил — солнечный и людный."},
+        {"id": "sent-025", "text": "Filmer no durmió en toda la noche.", "translationRu": "Филмер не спал всю ночь."},
+        {"id": "sent-026", "text": "Antes de volar dijo que no se sentía bien.", "translationRu": "Перед полётом он сказал, что чувствует себя плохо."},
+        {"id": "sent-027", "text": "Banghurst lo llevó a una pequeña sala.", "translationRu": "Бангёрст отвёл его в маленькую комнату."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-028", "text": "En la sala había un rifle pequeño.", "translationRu": "В комнате лежало небольшое ружьё."},
+        {"id": "sent-029", "text": "Banghurst salió a buscar coñac.", "translationRu": "Бангёрст вышел за коньяком."},
+        {"id": "sent-030", "text": "Cuando volvió, Filmer estaba muerto.", "translationRu": "Когда он вернулся, Филмер был мёртв."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-031", "text": "Al día siguiente, su asistente MacAndrew voló con la máquina.", "translationRu": "На следующий день его ассистент Макэндрю полетел на машине."},
+        {"id": "sent-032", "text": "La máquina funcionó muy bien.", "translationRu": "Машина работала превосходно."},
+        {"id": "sent-033", "text": "Filmer inventó el vuelo, pero nunca voló.", "translationRu": "Филмер изобрёл полёт, но так и не взлетел сам."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-star",
+  "title": "La estrella",
+  "titleRu": "Звезда",
+  "originalTitle": "The Star",
+  "author": {
+    "id": "h-g-wells",
+    "name": "H. G. Wells"
+  },
+  "genres": [
+    "Фантастика",
+    "Уэллс"
+  ],
+  "synopsisRu": "Чужеродное тело из межзвёздного пространства сталкивается с Нептуном и несётся к Земле, сея по всей планете наводнения, землетрясения и пожары. Когда опасность миновала, марсианские астрономы замечают, что крупнейшая катастрофа в истории человечества с их расстояния выглядит ничтожной мелочью.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

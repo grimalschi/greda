@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "a-story-of-the-days-to-come",
+  "title": "Una historia de los días por venir",
+  "titleRu": "История дней грядущих",
+  "originalTitle": "A Story of the Days To Come",
+  "author": {
+    "id": "h-g-wells",
+    "name": "H. G. Wells"
+  },
+  "genres": [
+    "Фантастика",
+    "Уэллс"
+  ],
+  "synopsisRu": "В Лондоне двадцать второго века двое влюблённых — Дентон и Элизабет — проходят через разлуку, вызванную гипнозом, наивный побег в давно опустевшую деревню и суровую жизнь в подземных фабриках. Их история — о том, как любовь и человеческое упорство выживают даже в самом механистичном из возможных миров.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

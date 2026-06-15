@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "in-the-abyss",
+  "title": "En el abismo",
+  "titleRu": "В бездне",
+  "originalTitle": "In the Abyss",
+  "author": {
+    "id": "h-g-wells",
+    "name": "H. G. Wells"
+  },
+  "genres": [
+    "Фантастика",
+    "Уэллс"
+  ],
+  "synopsisRu": "Учёный Элстед спускается в стальной сфере на дно Тихого океана и обнаруживает там цивилизацию человекоподобных существ, которые принимают его за бога. Вернувшись на поверхность с невероятным рассказом, он решается на второе погружение — из которого уже не возвращается.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
