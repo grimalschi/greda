@@ -29,11 +29,24 @@ export default defineConfig({
         ],
       },
       workbox: {
-        // Для MVP кэшируем всё приложение и весь контент сразу (см. ТЗ §7).
-        globPatterns: ['**/*.{js,css,html,svg,json,woff2,webmanifest,ico,png}'],
-        maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
+        // Прекэшируем ТОЛЬКО оболочку приложения. Контент (268 работ ≈ 16 МБ) не прекэшируем —
+        // иначе первая загрузка тяжёлая, а обновления каталога «залипают» в старом кэше SW.
+        globPatterns: ['**/*.{js,css,html,svg,woff2,webmanifest,ico,png}'],
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
+        runtimeCaching: [
+          {
+            // Контент: онлайн — всегда свежий из сети; офлайн — из кэша (то, что уже открывали).
+            urlPattern: /\/content\/.+\.json$/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'greda-content',
+              networkTimeoutSeconds: 4,
+              expiration: { maxEntries: 4000, maxAgeSeconds: 60 * 60 * 24 * 365 },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
+        ],
       },
       devOptions: {
         // Чтобы PWA можно было проверить и в `vite dev`.
