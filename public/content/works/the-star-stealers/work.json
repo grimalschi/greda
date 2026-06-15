@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-star-stealers",
+  "title": "Los ladrones de estrellas",
+  "titleRu": "Похитители звёзд",
+  "originalTitle": "The Star-Stealers",
+  "author": {
+    "id": "edmond-hamilton",
+    "name": "Edmond Hamilton"
+  },
+  "genres": ["Фантастика", "Межзвёздный патруль"],
+  "synopsisRu": "Капитан Ран Рарак узнаёт, что гигантская мёртвая звезда с населённой поверхностью движется к Солнечной системе, чтобы гравитационно похитить наше Солнце. Отчаянная экспедиция на пятидесяти кораблях превращается в смертельную схватку с щупальцевыми существами — и только таран вражеского конденсатора в последнюю секунду спасает Солнце.",
+  "levels": {
+    "a2": {"available": true, "chapterCount": 1},
+    "b1": {"available": true, "chapterCount": 1},
+    "b2": {"available": true, "chapterCount": 1},
+    "c1": {"available": true, "chapterCount": 1}
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-abysmal-invaders",
+  "title": "Los invasores del abismo",
+  "titleRu": "Захватчики из бездны",
+  "originalTitle": "The Abysmal Invaders",
+  "author": {
+    "id": "edmond-hamilton",
+    "name": "Edmond Hamilton"
+  },
+  "genres": ["Фантастика"],
+  "synopsisRu": "Когда известный палеонтолог исчезает в болоте, его помощник Роуэн обнаруживает, что из земных глубин поднимаются динозавры под управлением разумных ящероподобных существ, выживших со времён мезозоя и намеренных завоевать мир. Только ценой самопожертвования можно остановить вторжение из бездны.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

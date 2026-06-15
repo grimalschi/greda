@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-alien-intelligence",
+  "title": "La Inteligencia Alienígena",
+  "titleRu": "Чужой разум",
+  "originalTitle": "The Alien Intelligence",
+  "author": {
+    "id": "jack-williamson",
+    "name": "Jack Williamson"
+  },
+  "genres": ["Фантастика"],
+  "synopsisRu": "Молодой врач Уинфилд Фаулер получает радиосообщение от пропавшего друга-учёного и отправляется в кратер Горы Луны в австралийской пустыне — туда, где за кольцом чёрных утёсов скрывается тайный мир с хрустальным городом, серебряным озером и зловещей расой разумных насекомых, порабощающих людей.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-sea-horror",
+  "title": "El horror del mar",
+  "titleRu": "Морской ужас",
+  "originalTitle": "The Sea Horror",
+  "author": {
+    "id": "edmond-hamilton",
+    "name": "Edmond Hamilton"
+  },
+  "genres": ["Фантастика"],
+  "synopsisRu": "Экспедиция доктора Клинтона в глубины Атлантики обнаруживает древнюю цивилизацию существ-слизней, которые веками строили генераторы, чтобы затопить всю сушу. Когда моря начинают подниматься, угрожая уничтожить человечество, горстка подводных лодок спускается в бездну ради отчаянной последней битвы.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

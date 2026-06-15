@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "id": "cities-in-the-air",
+  "title": "Ciudades en el aire",
+  "titleRu": "Города в небе",
+  "originalTitle": "Cities in the Air",
+  "author": {
+    "id": "edmond-hamilton",
+    "name": "Edmond Hamilton"
+  },
+  "genres": ["Фантастика"],
+  "synopsisRu": "В 2069 году капитан Брант сражается в Последней воздушной войне: три федерации вступают в смертельную схватку, используя города-гиганты, парящие в небе на высоте пяти миль. Открытый разведчиком секрет сверхскоростных двигателей и смертельно рискованный захват вражеской столицы решают судьбу Америки.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

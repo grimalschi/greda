@@ -2,6 +2,52 @@
   "schemaVersion": "1.0",
   "works": [
     {
+      "id": "the-bridge-of-light",
+      "title": "El Puente de Luz",
+      "titleRu": "Мост Света",
+      "originalTitle": "The Bridge of Light",
+      "authorId": "a-hyatt-verrill",
+      "authorName": "A. Hyatt Verrill",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-artificial-man",
+      "title": "El hombre artificial",
+      "titleRu": "Искусственный человек",
+      "originalTitle": "The Artificial Man",
+      "authorId": "clare-winger-harris",
+      "authorName": "Clare Winger Harris",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "skylark-three",
       "title": "Skylark Tres",
       "titleRu": "Жаворонок Три",
@@ -36,6 +82,29 @@
         "Готика",
         "Ужас",
         "Притча"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "cities-in-the-air",
+      "title": "Ciudades en el aire",
+      "titleRu": "Города в небе",
+      "originalTitle": "Cities in the Air",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика"
       ],
       "levels": [
         "a2",
@@ -97,6 +166,53 @@
       ]
     },
     {
+      "id": "the-sea-horror",
+      "title": "El horror del mar",
+      "titleRu": "Морской ужас",
+      "originalTitle": "The Sea Horror",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "within-the-nebula",
+      "title": "En el interior de la nebulosa",
+      "titleRu": "Внутри туманности",
+      "originalTitle": "Within the Nebula",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика",
+        "Межзвёздный патруль"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-universe-wreckers",
       "title": "Los destructores del universo",
       "titleRu": "Разрушители вселенной",
@@ -120,6 +236,53 @@
       ]
     },
     {
+      "id": "the-abysmal-invaders",
+      "title": "Los invasores del abismo",
+      "titleRu": "Захватчики из бездны",
+      "originalTitle": "The Abysmal Invaders",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-star-stealers",
+      "title": "Los ladrones de estrellas",
+      "titleRu": "Похитители звёзд",
+      "originalTitle": "The Star-Stealers",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика",
+        "Межзвёздный патруль"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-space-visitors",
       "title": "Los visitantes del espacio",
       "titleRu": "Гости из космоса",
@@ -128,6 +291,30 @@
       "authorName": "Edmond Hamilton",
       "genres": [
         "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "outside-the-universe",
+      "title": "Más allá del universo",
+      "titleRu": "За пределами вселенной",
+      "originalTitle": "Outside the Universe",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика",
+        "Межзвёздный патруль"
       ],
       "levels": [
         "a2",
@@ -264,10 +451,56 @@
       ]
     },
     {
+      "id": "the-alien-intelligence",
+      "title": "La Inteligencia Alienígena",
+      "titleRu": "Чужой разум",
+      "originalTitle": "The Alien Intelligence",
+      "authorId": "jack-williamson",
+      "authorName": "Jack Williamson",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-green-girl",
       "title": "La chica verde",
       "titleRu": "Зелёная девушка",
       "originalTitle": "The Green Girl",
+      "authorId": "jack-williamson",
+      "authorName": "Jack Williamson",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-second-shell",
+      "title": "La segunda corteza",
+      "titleRu": "Вторая оболочка",
+      "originalTitle": "The Second Shell",
       "authorId": "jack-williamson",
       "authorName": "Jack Williamson",
       "genres": [

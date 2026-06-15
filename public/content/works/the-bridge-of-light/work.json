@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-bridge-of-light",
+  "title": "El Puente de Luz",
+  "titleRu": "Мост Света",
+  "originalTitle": "The Bridge of Light",
+  "author": {
+    "id": "a-hyatt-verrill",
+    "name": "A. Hyatt Verrill"
+  },
+  "genres": ["Фантастика"],
+  "synopsisRu": "Американский этнолог случайно покупает в испанском антикварном магазине древний майянский кодекс, который ведёт его через смертельные опасности к скрытому городу Миктолан — последнему убежищу цивилизации майя, где его ждут тайны радиоактивного минерала, Мост Света и любовь.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
