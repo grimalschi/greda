@@ -1,0 +1,242 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "thorndyke-the-stolen-ingots",
+  "level": "b2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Los lingotes robados"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "El señor Halethorpe, representante de la compañía de seguros Sphinx, se presentó una tarde en los despachos de Thorndyke para informarle de un robo desconcertante.",
+          "translationRu": "Господин Хейлторп, представитель страховой компании «Сфинкс», явился однажды вечером в кабинет Торндайка, чтобы сообщить о загадочном ограблении."
+        },
+        {
+          "id": "sent-002",
+          "text": "Cuatro barras de oro habían sido enviadas desde la Costa de Oro a bordo del vapor Labadi, aseguradas por su compañía en unas cuatro mil libras.",
+          "translationRu": "Четыре золотых слитка были отправлены с Золотого берега на борту парохода «Лабади» и застрахованы его компанией примерно на четыре тысячи фунтов."
+        },
+        {
+          "id": "sent-003",
+          "text": "Las barras desembarcaron sin incidentes en Bellhaven, pero en la pequeña estación de Garbridge, mientras el jefe de estación estaba ausente, alguien sustituyó la caja por una imitación rellena de tuberías de plomo.",
+          "translationRu": "Слитки без происшествий выгрузили в Беллхейвене, однако на маленькой станции Гарбридж, пока начальник станции отсутствовал, кто-то подменил ящик подделкой, набитой свинцовыми трубами."
+        },
+        {
+          "id": "sent-004",
+          "text": "La policía había tomado cartas en el asunto, pero Halethorpe prefería que Thorndyke también investigara.",
+          "translationRu": "Полиция уже занималась делом, но Хейлторп предпочёл, чтобы Торндайк тambién провёл расследование."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Antes de examinar la escena del robo en Garbridge, Thorndyke insistió en visitar Bellhaven, algo que a Jervis le pareció una pérdida de tiempo.",
+          "translationRu": "Прежде чем осмотреть место кражи в Гарбридже, Торндайк настоял на поездке в Беллхейвен — что Джервису показалось пустой тратой времени."
+        },
+        {
+          "id": "sent-006",
+          "text": "En la aduana, el oficial Byrne confirmó que había abierto la caja personalmente y que las barras medían nueve pulgadas de largo por cuatro de ancho y dos de profundidad.",
+          "translationRu": "На таможне чиновник Бёрн подтвердил, что лично открывал ящик, и что слитки были девяти дюймов в длину, четырёх в ширину и двух в глубину."
+        },
+        {
+          "id": "sent-007",
+          "text": "Thorndyke tomó nota de esas medidas sin revelar por qué le importaban tanto.",
+          "translationRu": "Торндайк записал эти размеры, не раскрывая, почему они его так интересуют."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "En la oficina del agente naviero, Thorndyke revisó meticulosamente el manifiesto del Labadi, copiando entradas aparentemente irrelevantes sobre goma copal, semillas y nueces para despistar al gerente, que miraba por encima de su hombro.",
+          "translationRu": "В конторе судового агента Торндайк методично просматривал манифест «Лабади», переписывая внешне несущественные записи о гуммикопале, семенах и орехах, чтобы усыпить бдительность управляющего, заглядывавшего ему через плечо."
+        },
+        {
+          "id": "sent-009",
+          "text": "Entre las páginas halló una entrada que le resultó particularmente significativa: una caja de pernos de latón de seis pulgadas cuyo peso neto casi coincidía exactamente con el de las barras de oro robadas.",
+          "translationRu": "Среди страниц он обнаружил запись, которая показалась ему особенно значимой: ящик с шестидюймовыми латунными болтами, чистый вес которых почти точно совпадал с весом похищенных золотых слитков."
+        },
+        {
+          "id": "sent-010",
+          "text": "¿Quién podría querer importar pernos de latón desde África hasta Londres?",
+          "translationRu": "Кому вообще могло понадобиться везти латунные болты из Африки в Лондон?"
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "En el tren a Garbridge, Thorndyke explicó a Jervis la clave del enigma: las dimensiones declaradas por Byrne eran físicamente imposibles para el oro.",
+          "translationRu": "В поезде до Гарбриджа Торндайк объяснил Джервису ключ к загадке: размеры, описанные Бёрном, были физически невозможны для золота."
+        },
+        {
+          "id": "sent-012",
+          "text": "Unas barras del tamaño descrito habrían pesado cerca de doscientas libras, el doble del peso declarado en el manifiesto.",
+          "translationRu": "Слитки таких размеров весили бы около двухсот фунтов — вдвое больше указанного в манифесте."
+        },
+        {
+          "id": "sent-013",
+          "text": "Por tanto, las barras que había visto Byrne en el puerto eran falsas, y la sustitución había ocurrido a bordo del Labadi, no en Garbridge.",
+          "translationRu": "Следовательно, слитки, которые видел Бёрн в порту, были поддельными, а подмена произошла на борту «Лабади», а не в Гарбридже."
+        },
+        {
+          "id": "sent-014",
+          "text": "El robo de Garbridge no era más que una distracción cuidadosamente preparada para desviar las sospechas.",
+          "translationRu": "Кража в Гарбридже была не чем иным, как тщательно подготовленным отвлекающим манёвром."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "En Garbridge les aguardaba el inspector Badger, que vigilaba el río convencido de que los ladrones habían ocultado el botín en alguna embarcación.",
+          "translationRu": "В Гарбридже их ждал инспектор Баджер, наблюдавший за рекой в уверенности, что воры спрятали добычу на каком-нибудь судне."
+        },
+        {
+          "id": "sent-016",
+          "text": "Desde el puente divisaron una barcaza pequeña y desvencijada cuyos dos tripulantes eran forasteros.",
+          "translationRu": "С моста они заметили небольшую ветхую баржу, двое матросов которой были чужаками."
+        },
+        {
+          "id": "sent-017",
+          "text": "Al levar el ancla, la cadena subió con un peso inusitado y, cuando los flukes emergieron del agua, de ellos colgaba una caja de madera asegurada con cadenas.",
+          "translationRu": "Когда подняли якорь, цепь шла с непривычной тяжестью, и когда лапы якоря показались из воды, к ним был прикреплён деревянный ящик на цепных стропах."
+        },
+        {
+          "id": "sent-018",
+          "text": "Badger, que había inspeccionado antes la barcaza sin pensar en revisar el ancla, lanzó una maldición.",
+          "translationRu": "Баджер, который уже осматривал баржу, не додумавшись проверить якорь, разразился проклятиями."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "La barcaza escapó río abajo aprovechando la marea, y aunque Jervis y Badger la persiguieron en un bote de pescadores, la corriente del canal Whitaker los frenó hasta hacerlos imposibles de alcanzar.",
+          "translationRu": "Баржа ушла вниз по реке под прикрытием отлива, и хотя Джервис и Баджер преследовали её на рыбацкой лодке, течение в канале Уайтакер затормозило их, сделав погоню безнадёжной."
+        },
+        {
+          "id": "sent-020",
+          "text": "El inspector cayó en lo más hondo del desaliento cuando la barcaza desapareció en el estuario.",
+          "translationRu": "Инспектор впал в полное отчаяние, когда баржа скрылась в устье реки."
+        },
+        {
+          "id": "sent-021",
+          "text": "Sin embargo, la Providencia intervino en forma de un crucero de aduanas que apareció de improviso y se unió a la persecución.",
+          "translationRu": "Однако Провидение вмешалось в образе таможенного крейсера, неожиданно появившегося и присоединившегося к погоне."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "El crucero alcanzó la barcaza cerca del barco faro Mouse y la abordó con éxito.",
+          "translationRu": "Крейсер настиг баржу вблизи плавучего маяка Mouse и успешно взял её на абордаж."
+        },
+        {
+          "id": "sent-023",
+          "text": "En el camarote hallaron al verdadero capitán y a su hijo atados y con gorros de lana sobre la cara, junto a la caja con el aspecto correcto.",
+          "translationRu": "В каюте они обнаружили настоящего капитана и его сына, связанных с вязаными шапками, натянутыми на лица, а рядом — ящик с верными маркировками."
+        },
+        {
+          "id": "sent-024",
+          "text": "Los dos marineros forasteros fueron detenidos tras una breve resistencia.",
+          "translationRu": "Двое чужих матросов были задержаны после недолгого сопротивления."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "Al día siguiente, en Scotland Yard, Thorndyke insistió en abrir la caja ante el asombro de Badger y el superintendente Miller.",
+          "translationRu": "На следующий день в Скотленд-Ярде Торндайк настоял на вскрытии ящика, к изумлению Баджера и суперинтенданта Миллера."
+        },
+        {
+          "id": "sent-026",
+          "text": "Con una regla midió uno de los lingotes y lo llevó a la báscula: veintinueve libras con tres onzas.",
+          "translationRu": "Линейкой он измерил один из слитков и отнёс его на весы: двадцать девять фунтов три унции."
+        },
+        {
+          "id": "sent-027",
+          "text": "«Plomo», declaró con calma Thorndyke, y cortó un trozo para revelar el brillo plateado del metal bajo el dorado.",
+          "translationRu": "«Свинец», — спокойно произнёс Торндайк и отрезал кусочек, обнажив серебристый блеск металла под позолотой."
+        },
+        {
+          "id": "sent-028",
+          "text": "Los verdaderos ladrones habían engañado a los ladrones del tren, que nunca supieron que estaban robando plomo.",
+          "translationRu": "Настоящие преступники обманули железнодорожных воров, которые и не подозревали, что крадут свинец."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-029",
+          "text": "Thorndyke condujo entonces a la policía a los muelles de Londres, donde esperaba la caja de pernos de latón consignada a un tal Jackson and Walker.",
+          "translationRu": "Торндайк повёл полицию в Лондонский порт, где ждал ящик с латунными болтами, адресованный некоей фирме «Джексон и Уокер»."
+        },
+        {
+          "id": "sent-030",
+          "text": "Los pernos eran de oro puro, fundidos a bordo del Labadi por el ingeniero jefe y camuflados como carga ordinaria.",
+          "translationRu": "Болты были из чистого золота, отлитые на борту «Лабади» главным инженером и замаскированные под обычный груз."
+        },
+        {
+          "id": "sent-031",
+          "text": "Su peso agregado coincidía con el de los lingotes originales salvo por dos onzas perdidas en la fundición.",
+          "translationRu": "Их совокупный вес совпадал с весом первоначальных слитков — не хватало лишь двух унций, потерянных при плавке."
+        },
+        {
+          "id": "sent-032",
+          "text": "El consignatario huyó al ver el descubrimiento, pero fue capturado en las puertas del muelle.",
+          "translationRu": "Получатель груза бросился бежать, увидев разоблачение, но был пойман у ворот дока."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-033",
+          "text": "El consignatario, para obtener clemencia, se ofreció a testificar contra sus cómplices.",
+          "translationRu": "Получатель груза, добиваясь снисхождения, предложил свидетельствовать против сообщников."
+        },
+        {
+          "id": "sent-034",
+          "text": "El primer oficial, el ingeniero jefe y el sobrecargo del Labadi fueron arrestados y se declararon culpables, confirmando casi al pie de la letra la reconstrucción de Thorndyke.",
+          "translationRu": "Первый помощник, главный инженер и казначей «Лабади» были арестованы и признали себя виновными, подтвердив версию Торндайка почти слово в слово."
+        },
+        {
+          "id": "sent-035",
+          "text": "Habían preparado la caja falsa en el barco antes de llegar a Bellhaven, fundido el oro en el taller del ingeniero y enviado la carga como pernos para despistar a cualquier inspector.",
+          "translationRu": "Они подготовили поддельный ящик на борту ещё до прибытия в Беллхейвен, переплавили золото в мастерской инженера и отправили груз как болты, чтобы обмануть любого инспектора."
+        },
+        {
+          "id": "sent-036",
+          "text": "Thorndyke descubrió todo ello simplemente porque supo interpretar las columnas de peso en un manifiesto de carga.",
+          "translationRu": "Торндайк раскрыл всё это лишь потому, что умел читать столбцы весов в грузовом манифесте."
+        }
+      ]
+    }
+  ]
+}

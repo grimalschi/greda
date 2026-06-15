@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-mad-planet",
+  "title": "El planeta loco",
+  "titleRu": "Безумная планета",
+  "originalTitle": "The Mad Planet",
+  "author": {
+    "id": "murray-leinster",
+    "name": "Murray Leinster"
+  },
+  "genres": [
+    "Фантастика"
+  ],
+  "synopsisRu": "В далёком будущем Земля превратилась в мир гигантских грибов и исполинских насекомых, а человечество деградировало до уровня первобытных племён. Молодой Бёрл совершает первые в истории своего народа самостоятельные охотничьи вылазки и, преодолевая множество смертельных опасностей, открывает для себя силу разума.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
