@@ -1,0 +1,232 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-empty-house",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de la casa vacía"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "En la primavera de 1894, todo Londres hablaba del misterioso asesinato de Ronald Adair, un joven aristócrata que vivía en el número 427 de Park Lane.",
+          "translationRu": "Весной 1894 года весь Лондон говорил о таинственном убийстве Рональда Адэра — молодого аристократа, жившего в доме 427 по Парк-лейн."
+        },
+        {
+          "id": "sent-002",
+          "text": "Lo encontraron muerto con una herida grave en la cabeza, pero no había ningún arma en el cuarto.",
+          "translationRu": "Его нашли мёртвым с тяжёлой раной в голове, однако в комнате не было никакого оружия."
+        },
+        {
+          "id": "sent-003",
+          "text": "La puerta estaba cerrada por dentro y la ventana daba a una caída de seis metros, sin señales de que nadie hubiera pasado por allí.",
+          "translationRu": "Дверь была заперта изнутри, а окно выходило на шестиметровую высоту — без каких-либо следов того, что кто-то там прошёл."
+        },
+        {
+          "id": "sent-004",
+          "text": "El doctor Watson pensó todo el día en este misterio porque le recordaba los métodos de su amigo Sherlock Holmes, que según él había muerto tres años antes.",
+          "translationRu": "Доктор Ватсон целый день раздумывал над этой загадкой, потому что она напоминала ему о методах его друга Шерлока Холмса, который, по его убеждению, погиб три года назад."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Por la tarde Watson fue a Park Lane para examinar la escena del crimen.",
+          "translationRu": "После полудня Ватсон отправился на Парк-лейн, чтобы осмотреть место преступления."
+        },
+        {
+          "id": "sent-006",
+          "text": "Cuando se alejaba, chocó con un anciano jorobado que llevaba varios libros bajo el brazo.",
+          "translationRu": "Уходя оттуда, он столкнулся с сгорбленным стариком, который нёс несколько книг под мышкой."
+        },
+        {
+          "id": "sent-007",
+          "text": "El anciano recogió sus libros con rabia y se marchó sin decir nada.",
+          "translationRu": "Старик сердито подобрал свои книги и ушёл, не сказав ни слова."
+        },
+        {
+          "id": "sent-008",
+          "text": "Poco después, cuando Watson estaba en su estudio, el mismo anciano llamó a la puerta y entró con sus libros.",
+          "translationRu": "Вскоре, когда Ватсон был в своём кабинете, тот же старик постучал и вошёл вместе со своими книгами."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "El viejo habló de libros raros y señaló un hueco en la estantería de Watson.",
+          "translationRu": "Старик заговорил о редких книгах и указал на пустое место на полке Ватсона."
+        },
+        {
+          "id": "sent-010",
+          "text": "Cuando Watson se volvió para mirar, el anciano desapareció y en su lugar estaba Sherlock Holmes, sonriendo.",
+          "translationRu": "Когда Ватсон повернулся посмотреть, старик исчез, а на его месте стоял улыбающийся Шерлок Холмс."
+        },
+        {
+          "id": "sent-011",
+          "text": "Watson se desmayó de la sorpresa y cuando volvió en sí, Holmes le estaba ofreciendo coñac.",
+          "translationRu": "Ватсон потерял сознание от изумления, а когда очнулся, Холмс протягивал ему коньяк."
+        },
+        {
+          "id": "sent-012",
+          "text": "«Holmes», dijo Watson, «¿realmente eres tú? ¿Es posible que estés vivo?»",
+          "translationRu": "«Холмс», — сказал Ватсон, — «неужели это вы? Возможно ли, что вы живы?»"
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Holmes explicó que en las cataratas de Reichenbach luchó con el profesor Moriarty usando técnicas de lucha japonesa.",
+          "translationRu": "Холмс объяснил, что у Рейхенбахского водопада он боролся с профессором Мориарти, используя приёмы японской борьбы."
+        },
+        {
+          "id": "sent-014",
+          "text": "Moriarty cayó al abismo y Holmes subió por la pared de roca para escapar sin dejar huellas en el camino.",
+          "translationRu": "Мориарти упал в пропасть, а Холмс взобрался по скальной стене, чтобы бежать, не оставив следов на тропе."
+        },
+        {
+          "id": "sent-015",
+          "text": "Desde esa roca vio cómo un cómplice de Moriarty lanzaba piedras para matarlo, por lo que descendió rápidamente y huyó a través de las montañas.",
+          "translationRu": "С этой скалы он увидел, как сообщник Мориарти бросал камни, пытаясь убить его, и потому быстро спустился и бежал через горы."
+        },
+        {
+          "id": "sent-016",
+          "text": "Luego viajó durante tres años por Tíbet, Persia y Francia, escondido bajo el nombre de Sigerson.",
+          "translationRu": "Затем он три года путешествовал по Тибету, Персии и Франции под именем Сигерсон."
+        },
+        {
+          "id": "sent-017",
+          "text": "Solo su hermano Mycroft sabía que estaba vivo.",
+          "translationRu": "Только его брат Майкрофт знал, что он жив."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-018",
+          "text": "Holmes volvió a Londres cuando supo que el caso Adair ofrecía una oportunidad para atrapar al último peligroso enemigo que le quedaba.",
+          "translationRu": "Холмс вернулся в Лондон, узнав, что дело Адэра даёт возможность поймать последнего опасного врага."
+        },
+        {
+          "id": "sent-019",
+          "text": "Esa misma noche Holmes y Watson salieron juntos en un coche hacia Baker Street.",
+          "translationRu": "В ту же ночь Холмс и Ватсон вместе отправились в экипаже на Бейкер-стрит."
+        },
+        {
+          "id": "sent-020",
+          "text": "Holmes comprobó en cada esquina que nadie los seguía.",
+          "translationRu": "На каждом углу Холмс проверял, не следит ли за ними кто-нибудь."
+        },
+        {
+          "id": "sent-021",
+          "text": "Entraron por la puerta trasera en una casa vacía que estaba justo enfrente del número 221B.",
+          "translationRu": "Они вошли через заднюю дверь в пустой дом, стоявший прямо напротив дома двести двадцать один Б."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Desde la ventana oscura de la casa vacía, Watson vio que en el cuarto de Holmes en Baker Street había una silueta iluminada.",
+          "translationRu": "Из тёмного окна пустого дома Ватсон увидел, что в комнате Холмса на Бейкер-стрит виднелся освещённый силуэт."
+        },
+        {
+          "id": "sent-023",
+          "text": "La silueta parecía exactamente Holmes: su perfil, sus hombros, su postura.",
+          "translationRu": "Силуэт выглядел точь-в-точь как Холмс: его профиль, его плечи, его осанка."
+        },
+        {
+          "id": "sent-024",
+          "text": "Holmes le explicó que era un busto de cera que la señora Hudson movía desde el suelo cada quince minutos.",
+          "translationRu": "Холмс объяснил, что это был восковой бюст, который миссис Хадсон передвигала с пола каждые четверть часа."
+        },
+        {
+          "id": "sent-025",
+          "text": "El plan era que el enemigo creyera que Holmes estaba en su sillón.",
+          "translationRu": "План состоял в том, чтобы враг думал, будто Холмс сидит в своём кресле."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "Poco después de medianoche, alguien entró en silencio en la casa vacía por la puerta trasera.",
+          "translationRu": "Вскоре после полуночи кто-то бесшумно вошёл в пустой дом через заднюю дверь."
+        },
+        {
+          "id": "sent-027",
+          "text": "Era un hombre mayor con un bigote enorme y un frente alto; llevó una pistola de aire comprimido especial.",
+          "translationRu": "Это был пожилой мужчина с огромными усами и высоким лбом; он нёс особый пневматический пистолет."
+        },
+        {
+          "id": "sent-028",
+          "text": "El hombre abrió la ventana con cuidado, apuntó al busto de cera y disparó.",
+          "translationRu": "Мужчина осторожно открыл окно, прицелился в восковой бюст и выстрелил."
+        },
+        {
+          "id": "sent-029",
+          "text": "La bala atravesó la cabeza del busto con un ruido de cristal roto.",
+          "translationRu": "Пуля пробила голову бюста со звоном разбитого стекла."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "En ese instante Holmes saltó sobre el hombre y Watson lo golpeó en la cabeza con la culata de su revólver.",
+          "translationRu": "В тот же миг Холмс прыгнул на мужчину, а Ватсон ударил его по голове рукоятью своего револьвера."
+        },
+        {
+          "id": "sent-031",
+          "text": "Holmes silbó y la policía, que esperaba en la calle, entró y arrestó al prisionero.",
+          "translationRu": "Холмс свистнул, и полиция, поджидавшая на улице, вошла и арестовала преступника."
+        },
+        {
+          "id": "sent-032",
+          "text": "Era el coronel Sebastian Moran, el hombre más peligroso que quedaba de la banda de Moriarty.",
+          "translationRu": "Это был полковник Себастьян Моран — самый опасный человек из шайки Мориарти."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-033",
+          "text": "En Baker Street, Holmes explicó a Watson que Moran mató a Adair porque Adair descubrió que el coronel hacía trampa en las cartas.",
+          "translationRu": "На Бейкер-стрит Холмс объяснил Ватсону, что Моран убил Адэра, потому что тот раскрыл шулерство полковника."
+        },
+        {
+          "id": "sent-034",
+          "text": "Moran usó la pistola de aire de Von Herder para disparar desde la calle sin hacer ruido.",
+          "translationRu": "Моран воспользовался пневматическим пистолетом фон Хердера, чтобы выстрелить с улицы бесшумно."
+        },
+        {
+          "id": "sent-035",
+          "text": "Con el arresto de su último enemigo, Sherlock Holmes pudo volver a su vida en Londres y dedicarse de nuevo a resolver crímenes.",
+          "translationRu": "С арестом своего последнего врага Шерлок Холмс смог вернуться к лондонской жизни и снова посвятить себя раскрытию преступлений."
+        }
+      ]
+    }
+  ]
+}

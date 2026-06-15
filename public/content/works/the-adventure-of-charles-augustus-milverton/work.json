@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-charles-augustus-milverton",
+  "title": "La aventura de Charles Augustus Milverton",
+  "titleRu": "Приключение Чарлза Огастуса Милвертона",
+  "originalTitle": "The Adventure of Charles Augustus Milverton",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс берётся защитить леди Еву Блэквелл от шантажиста Чарлза Милвертона и решается на дерзкое ночное ограбление его особняка. Однако прямо во время взлома сейфа разворачивается неожиданная трагедия, меняющая всё.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-abbey-grange",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de la abadía Grange"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Era una mañana muy fría de invierno.",
+          "translationRu": "Это было очень холодное зимнее утро."
+        },
+        {
+          "id": "sent-002",
+          "text": "Holmes me despertó temprano.",
+          "translationRu": "Холмс разбудил меня рано."
+        },
+        {
+          "id": "sent-003",
+          "text": "\"¡Vamos, Watson, el juego empieza!\" gritó.",
+          "translationRu": "«Идёмте, Ватсон, игра началась!» — крикнул он."
+        },
+        {
+          "id": "sent-004",
+          "text": "Tomamos un taxi y fuimos a la estación.",
+          "translationRu": "Мы взяли кэб и поехали на вокзал."
+        },
+        {
+          "id": "sent-005",
+          "text": "En el tren, Holmes leyó una nota del inspector Hopkins.",
+          "translationRu": "В поезде Холмс прочитал записку от инспектора Хопкинса."
+        },
+        {
+          "id": "sent-006",
+          "text": "La nota decía que Sir Eustace Brackenstall estaba muerto.",
+          "translationRu": "В записке говорилось, что сэр Юстас Брэкенстолл мёртв."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "Llegamos a la Abadía Grange, una gran casa en Kent.",
+          "translationRu": "Мы приехали в аббатство Грейндж — большой дом в Кенте."
+        },
+        {
+          "id": "sent-008",
+          "text": "El inspector Hopkins nos esperaba en la puerta.",
+          "translationRu": "Инспектор Хопкинс ждал нас у входа."
+        },
+        {
+          "id": "sent-009",
+          "text": "\"Los ladrones Randall mataron a Sir Eustace\", dijo Hopkins.",
+          "translationRu": "«Сэра Юстаса убили воры Рэндаллы», — сказал Хопкинс."
+        },
+        {
+          "id": "sent-010",
+          "text": "Le golpearon la cabeza con un atizador de hierro.",
+          "translationRu": "Ему проломили голову железной кочергой."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Hablamos con Lady Brackenstall en la sala.",
+          "translationRu": "Мы поговорили с леди Брэкенстолл в гостиной."
+        },
+        {
+          "id": "sent-012",
+          "text": "Era una mujer muy bella, pero tenía un golpe en la cara.",
+          "translationRu": "Она была очень красивой женщиной, но на лице у неё был синяк."
+        },
+        {
+          "id": "sent-013",
+          "text": "Lady Brackenstall dijo que tres ladrones entraron por la ventana.",
+          "translationRu": "Леди Брэкенстолл сказала, что три вора влезли через окно."
+        },
+        {
+          "id": "sent-014",
+          "text": "La ataron a una silla y mataron a su marido.",
+          "translationRu": "Её привязали к стулу и убили её мужа."
+        },
+        {
+          "id": "sent-015",
+          "text": "Después, los ladrones bebieron vino y se fueron.",
+          "translationRu": "Затем воры выпили вина и ушли."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-016",
+          "text": "En el comedor, Holmes vio tres copas de vino en la mesa.",
+          "translationRu": "В столовой Холмс увидел на столе три бокала вина."
+        },
+        {
+          "id": "sent-017",
+          "text": "Solo una copa tenía sedimento en el fondo.",
+          "translationRu": "Только в одном бокале был осадок на дне."
+        },
+        {
+          "id": "sent-018",
+          "text": "Esto le pareció muy extraño a Holmes.",
+          "translationRu": "Это показалось Холмсу очень странным."
+        },
+        {
+          "id": "sent-019",
+          "text": "También vio que la cuerda de la campana estaba cortada, no rota.",
+          "translationRu": "Он также заметил, что шнур звонка был срезан, а не оборван."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-020",
+          "text": "En el tren de vuelta, Holmes pensó mucho.",
+          "translationRu": "В поезде на обратном пути Холмс долго думал."
+        },
+        {
+          "id": "sent-021",
+          "text": "De repente, bajó del tren.",
+          "translationRu": "Внезапно он вышел из поезда."
+        },
+        {
+          "id": "sent-022",
+          "text": "\"Watson, la historia de Lady Brackenstall es mentira\", dijo.",
+          "translationRu": "«Ватсон, история леди Брэкенстолл — ложь», — сказал он."
+        },
+        {
+          "id": "sent-023",
+          "text": "\"Solo dos personas bebieron vino, no tres.\"",
+          "translationRu": "«Вино пили только двое, а не трое»."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-024",
+          "text": "Holmes volvió a la casa y buscó más pruebas.",
+          "translationRu": "Холмс вернулся в дом и стал искать новые улики."
+        },
+        {
+          "id": "sent-025",
+          "text": "Encontró sangre en la silla donde estaba atada Lady Brackenstall.",
+          "translationRu": "Он нашёл кровь на стуле, к которому была привязана леди Брэкенстолл."
+        },
+        {
+          "id": "sent-026",
+          "text": "Esto significaba que la ataron después de la muerte de su marido.",
+          "translationRu": "Это означало, что её привязали уже после смерти мужа."
+        },
+        {
+          "id": "sent-027",
+          "text": "Luego Holmes fue a la empresa de barcos y preguntó por el capitán Crocker.",
+          "translationRu": "Затем Холмс отправился в пароходную компанию и спросил о капитане Крокере."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "Esa noche, el capitán Crocker vino a Baker Street.",
+          "translationRu": "Той ночью капитан Крокер пришёл на Бейкер-стрит."
+        },
+        {
+          "id": "sent-029",
+          "text": "Era un hombre grande y fuerte con bigote dorado.",
+          "translationRu": "Это был большой сильный мужчина с золотистыми усами."
+        },
+        {
+          "id": "sent-030",
+          "text": "Contó la verdad: él amaba a Mary Fraser desde el barco.",
+          "translationRu": "Он рассказал правду: он любил Мэри Фрейзер ещё с корабля."
+        },
+        {
+          "id": "sent-031",
+          "text": "La noche del crimen, él visitó a Mary en secreto.",
+          "translationRu": "В ночь убийства он тайно навестил Мэри."
+        },
+        {
+          "id": "sent-032",
+          "text": "Sir Eustace entró y golpeó a Mary.",
+          "translationRu": "Сэр Юстас вошёл и ударил Мэри."
+        },
+        {
+          "id": "sent-033",
+          "text": "Crocker tomó el atizador y mató a Sir Eustace para protegerla.",
+          "translationRu": "Крокер схватил кочергу и убил сэра Юстаса, защищая её."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-034",
+          "text": "Holmes escuchó toda la historia.",
+          "translationRu": "Холмс выслушал всю историю."
+        },
+        {
+          "id": "sent-035",
+          "text": "Entonces hizo un juicio especial con Watson como jurado.",
+          "translationRu": "Затем он устроил особый суд, где Ватсон был присяжным."
+        },
+        {
+          "id": "sent-036",
+          "text": "Watson dijo: \"No culpable.\"",
+          "translationRu": "Ватсон сказал: «Не виновен»."
+        },
+        {
+          "id": "sent-037",
+          "text": "Holmes dejó ir libre al capitán Crocker.",
+          "translationRu": "Холмс отпустил капитана Крокера на свободу."
+        },
+        {
+          "id": "sent-038",
+          "text": "\"Vuelve a Mary en un año\", le dijo Holmes.",
+          "translationRu": "«Вернись к Мэри через год», — сказал ему Холмс."
+        }
+      ]
+    }
+  ]
+}

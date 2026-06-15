@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-missing-three-quarter",
+  "title": "La aventura del tres cuartos desaparecido",
+  "titleRu": "Приключение пропавшего трёхчетвертного",
+  "originalTitle": "The Adventure of the Missing Three-Quarter",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Холмс расследует загадочное исчезновение лучшего регбиста Кембриджа накануне важного матча. За тайной оказывается не преступление, а история о тайном браке, смертельной болезни и безграничном горе.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

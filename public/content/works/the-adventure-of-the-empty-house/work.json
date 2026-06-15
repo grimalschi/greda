@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-empty-house",
+  "title": "La aventura de la casa vacía",
+  "titleRu": "Приключение в пустом доме",
+  "originalTitle": "The Adventure of the Empty House",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Доктор Ватсон потрясён, обнаружив, что Шерлок Холмс жив: три года сыщик скрывался под чужим именем, чтобы выманить последнего смертельного врага. Вместе они расставляют ловушку — восковой манекен у окна Бейкер-стрит — и берут с поличным полковника Морана, убившего молодого Адэра из бесшумного пневматического ружья.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

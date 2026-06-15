@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-dancing-men",
+  "title": "La aventura de los hombres bailarines",
+  "titleRu": "Приключение танцующих человечков",
+  "originalTitle": "The Adventure of the Dancing Men",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс берётся за дело норфолкского помещика Хилтона Кьюбитта, чья жена Элси охвачена ужасом от загадочных рисунков — танцующих человечков, появляющихся на стенах поместья. Расшифровав тайный код, Холмс раскрывает преступника из чикагской банды, однако трагедию предотвратить уже не успевает.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

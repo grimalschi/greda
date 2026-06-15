@@ -1,0 +1,217 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-dancing-men",
+  "level": "b2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de los hombres bailarines"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Una mañana, mientras Holmes se hallaba absorto en sus experimentos químicos, llegó a Baker Street un robusto caballero de campo: Hilton Cubitt, propietario de Riding Thorpe Manor, en Norfolk.",
+          "translationRu": "Однажды утром, когда Холмс был поглощён своими химическими опытами, на Бейкер-стрит явился крепкий сельский джентльмен — Хилтон Кьюбитт, владелец поместья Райдинг-Торп в Норфолке."
+        },
+        {
+          "id": "sent-002",
+          "text": "Traía consigo un trozo de papel cubierto de pequeñas siluetas que danzaban: figuras tan absurdas como las que dibuja un niño.",
+          "translationRu": "С собой он принёс листок бумаги, покрытый маленькими танцующими силуэтами — такими нелепыми, словно их нарисовал ребёнок."
+        },
+        {
+          "id": "sent-003",
+          "text": "Sin embargo, esas inocentes figuras aterrorizaban a su esposa Elsie hasta el punto de hacerla desvanecerse.",
+          "translationRu": "Тем не менее эти безобидные фигурки пугали его жену Элси до такой степени, что она теряла сознание."
+        },
+        {
+          "id": "sent-004",
+          "text": "Holmes escuchó el relato con atención y, aunque no reveló sus sospechas, le pidió a Cubitt que copiara cualquier nueva inscripción y regresara con más muestras.",
+          "translationRu": "Холмс выслушал рассказ с вниманием и, хотя не раскрыл своих подозрений, попросил Кьюбитта копировать любые новые надписи и возвращаться с новыми образцами."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Cubitt había conocido a Elsie Patrick un año antes en Londres, durante la Jubileo, y se habían casado en pocas semanas.",
+          "translationRu": "Кьюбитт познакомился с Элси Патрик год назад в Лондоне во время Юбилея, и они поженились в течение нескольких недель."
+        },
+        {
+          "id": "sent-006",
+          "text": "Antes de la boda, Elsie le confesó que su pasado contenía asociaciones desagradables de las que prefería no hablar, y Cubitt aceptó esa condición sin reservas.",
+          "translationRu": "Перед свадьбой Элси призналась, что её прошлое связано с неприятными людьми, о которых она предпочла бы не говорить, и Кьюбитт принял это условие без оговорок."
+        },
+        {
+          "id": "sent-007",
+          "text": "Todo había marchado bien hasta que llegó una carta de América: Elsie la leyó, se puso lívida y la arrojó al fuego.",
+          "translationRu": "Всё шло хорошо, пока не пришло письмо из Америки: Элси прочла его, побледнела и бросила в огонь."
+        },
+        {
+          "id": "sent-008",
+          "text": "Desde entonces vivía en un estado de terror permanente, y fue entonces cuando aparecieron los primeros hombres bailarines en el alféizar de una ventana.",
+          "translationRu": "С тех пор она пребывала в постоянном страхе, и именно тогда на подоконнике впервые появились танцующие человечки."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Dos semanas después, Cubitt regresó con varias inscripciones nuevas, incluyendo mensajes que rezaban «Ven, Elsie» y «Nunca», además del testimonio escalofriante de haber visto al autor de los dibujos merodeando de noche.",
+          "translationRu": "Две недели спустя Кьюбитт вернулся с несколькими новыми надписями, в том числе с посланиями «Приходи, Элси» и «Никогда», а также с леденящим рассказом о том, как ночью видел автора рисунков, крадущегося во тьме."
+        },
+        {
+          "id": "sent-010",
+          "text": "Elsie había intentado detener a su marido cuando él quiso atrapar al intruso, lo que dejó en la mente de Cubitt la dolorosa duda de si su esposa protegía a ese hombre o le protegía a él.",
+          "translationRu": "Элси пыталась удержать мужа, когда тот хотел поймать незваного гостя, что посеяло в душе Кьюбитта мучительное сомнение: защищает ли жена этого человека или его самого."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "En cuanto Cubitt se marchó, Holmes se lanzó sobre los papeles y trabajó durante horas, aplicando los principios del análisis de frecuencias para descifrar el criptograma.",
+          "translationRu": "Как только Кьюбитт ушёл, Холмс набросился на бумаги и работал несколько часов, применяя принципы частотного анализа для расшифровки криптограммы."
+        },
+        {
+          "id": "sent-012",
+          "text": "Dedujo que cada figura bailarina representaba una letra, y que las que portaban una banderita señalaban el final de las palabras.",
+          "translationRu": "Он пришёл к выводу, что каждая фигурка обозначает букву, а те, что держат флажок, отмечают конец слова."
+        },
+        {
+          "id": "sent-013",
+          "text": "El primer mensaje era «Estoy aquí, Abe Slaney»; al descifrar el nombre, Holmes cablegrafió a su contacto en la Oficina de Policía de Nueva York.",
+          "translationRu": "Первое послание гласило «Я здесь, Эйб Слэни»; расшифровав имя, Холмс отправил телеграмму своему знакомому в Бюро полиции Нью-Йорка."
+        },
+        {
+          "id": "sent-014",
+          "text": "La respuesta fue contundente: «El criminal más peligroso de Chicago».",
+          "translationRu": "Ответ был однозначен: «Самый опасный преступник в Чикаго»."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "Esa misma noche llegó una carta de Cubitt con el mensaje más amenazante hasta entonces: «Elsie, prepárate para encontrar a tu Dios».",
+          "translationRu": "В ту же ночь пришло письмо от Кьюбитта с самым угрожающим посланием до сих пор: «Элси, готовься встретить своего Бога»."
+        },
+        {
+          "id": "sent-016",
+          "text": "Holmes reconoció que había esperado demasiado; él y Watson partieron al alba hacia Norfolk.",
+          "translationRu": "Холмс понял, что слишком долго медлил; на рассвете они с Ватсоном отправились в Норфолк."
+        },
+        {
+          "id": "sent-017",
+          "text": "El jefe de estación de North Walsham los recibió con una noticia terrible: habían disparado tanto a Hilton Cubitt como a su esposa.",
+          "translationRu": "Начальник станции Норт-Уолшема встретил их с ужасной новостью: в Хилтона Кьюбитта и его жену стреляли."
+        },
+        {
+          "id": "sent-018",
+          "text": "Cubitt había muerto en el acto; Elsie, gravemente herida, yacía inconsciente.",
+          "translationRu": "Кьюбитт скончался на месте; Элси с тяжёлым ранением лежала без сознания."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "Holmes inspeccionó el estudio junto al inspector Martin con la meticulosidad de quien busca lo que los demás dan por imposible.",
+          "translationRu": "Холмс осмотрел кабинет вместе с инспектором Мартином с дотошностью человека, ищущего то, что другие считают невозможным."
+        },
+        {
+          "id": "sent-020",
+          "text": "Señaló un orificio de bala en el marco inferior de la ventana: había un tercer disparo, lo que probaba que un intruso había actuado desde el jardín.",
+          "translationRu": "Он указал на пулевое отверстие в нижней раме окна: был произведён третий выстрел, что доказывало участие постороннего человека из сада."
+        },
+        {
+          "id": "sent-021",
+          "text": "Las huellas en el parterre bajo la ventana confirmaban que el asesino había huido hacia el exterior, mientras Elsie cerraba la ventana por instinto.",
+          "translationRu": "Следы на клумбе под окном подтверждали, что убийца бежал наружу, пока Элси инстинктивно закрывала окно."
+        },
+        {
+          "id": "sent-022",
+          "text": "En el bolso de cocodrilo de Elsie había mil libras en billetes, dinero que ella había preparado para sobornar al perseguidor.",
+          "translationRu": "В крокодиловой сумочке Элси лежала тысяча фунтов банкнотами — деньги, которые она приготовила, чтобы откупиться от преследователя."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "Con la sangre fría de quien ya conoce el desenlace, Holmes redactó una nota en el código de los hombres bailarines que decía «Ven aquí en seguida» y la envió a la granja Elrige, donde se alojaba Slaney.",
+          "translationRu": "С хладнокровием человека, уже знающего развязку, Холмс написал записку кодом танцующих человечков со словами «Приходи немедленно» и отправил её на ферму Элридж, где остановился Слэни."
+        },
+        {
+          "id": "sent-024",
+          "text": "Slaney, convencido de que la nota era de Elsie, pues nadie más debería conocer el secreto de la banda, se presentó en la mansión con paso seguro.",
+          "translationRu": "Слэни, убеждённый, что записка от Элси — ведь никто другой не должен был знать тайный код банды, — явился в поместье уверенной походкой."
+        },
+        {
+          "id": "sent-025",
+          "text": "En el momento en que cruzó el umbral, Holmes le apuntó con su pistola y el inspector le colocó las esposas.",
+          "translationRu": "В тот миг, когда он переступил порог, Холмс направил на него пистолет, а инспектор надел наручники."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "Al conocer la suerte de Elsie, Slaney lanzó un grito de dolor y cayó en el sofá con el rostro entre las manos.",
+          "translationRu": "Узнав о судьбе Элси, Слэни издал крик боли и упал на диван, закрыв лицо руками."
+        },
+        {
+          "id": "sent-027",
+          "text": "Luego, con la compostura de quien ya no tiene nada que perder, lo explicó todo: conocía a Elsie desde niña, pues su padre dirigía la banda de Chicago que había inventado el código.",
+          "translationRu": "Затем, с самообладанием человека, которому нечего терять, он объяснил всё: знал Элси с детства — её отец руководил чикагской бандой, придумавшей этот код."
+        },
+        {
+          "id": "sent-028",
+          "text": "Elsie huyó a Inglaterra para dejar esa vida atrás, pero Slaney la rastreó y empezó a enviarle mensajes secretos para que regresara con él.",
+          "translationRu": "Элси сбежала в Англию, чтобы оставить ту жизнь позади, но Слэни выследил её и начал слать тайные послания с призывом вернуться."
+        },
+        {
+          "id": "sent-029",
+          "text": "La noche del crimen, ella bajó al jardín con dinero para sobornarlo; él intentó arrastrarla por la ventana; Cubitt irrumpió armado y ambos dispararon casi al mismo tiempo.",
+          "translationRu": "В ночь преступления она спустилась в сад с деньгами, чтобы откупиться; он попытался втащить её в окно; Кьюбитт ворвался с оружием, и оба выстрелили почти одновременно."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "El tribunal condenó a Slaney a muerte, aunque la pena fue conmutada por trabajos forzados al tenerse en cuenta que Hilton Cubitt había disparado primero.",
+          "translationRu": "Суд приговорил Слэни к смертной казни, однако наказание заменили каторжными работами, приняв во внимание, что Хилтон Кьюбитт выстрелил первым."
+        },
+        {
+          "id": "sent-031",
+          "text": "Elsie se recuperó de sus graves heridas y, ya viuda, dedicó su vida entera al cuidado de los pobres y a la administración del legado de su marido.",
+          "translationRu": "Элси оправилась от тяжёлых ран и, оставшись вдовой, посвятила всю жизнь помощи бедным и управлению наследием мужа."
+        },
+        {
+          "id": "sent-032",
+          "text": "Holmes lamentó no haber actuado antes, pero logró que la justicia llegara a tiempo para proteger la memoria del noble squire de Norfolk.",
+          "translationRu": "Холмс сожалел, что не действовал раньше, однако добился того, чтобы справедливость восторжествовала и защитила память благородного норфолкского сквайра."
+        }
+      ]
+    }
+  ]
+}
