@@ -1,0 +1,212 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-wisteria-lodge",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de Wisteria Lodge"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Hacia finales de marzo de 1892, en un día crudo y ventoso que se prestaba a presagios sombríos, irrumpió en nuestro salón de Baker Street un caballero de mediana edad cuya respetabilidad habitual había sido sacudida por alguna experiencia fuera de lo común.",
+          "translationRu": "К концу марта 1892 года, в холодный ветреный день, располагавший к мрачным предчувствиям, в нашу гостиную на Бейкер-стрит ворвался господин средних лет, чья привычная респектабельность была явно поколеблена каким-то из ряда вон выходящим происшествием."
+        },
+        {
+          "id": "sent-002",
+          "text": "Era John Scott Eccles, un soltero conservador y convencional, del tipo que inspira confianza inmediata en los jurados y en los agentes de policía.",
+          "translationRu": "Это был Джон Скотт Экклс — холостяк-консерватор, человек привычных устоев, из тех, кто сразу внушает доверие присяжным и полицейским."
+        },
+        {
+          "id": "sent-003",
+          "text": "Había pasado la noche en Wisteria Lodge, la villa que un joven español de nombre Aloysius García —a quien había conocido pocas semanas antes en la mesa de un amigo común— le había propuesto con inusitada insistencia que visitase.",
+          "translationRu": "Он провёл ночь в Вистерия-лодж — поместье, которое молодой испанец по имени Алойсиус Гарсия, познакомившийся с ним несколько недель назад за общим столом, уговорил его посетить с настойчивостью, показавшейся Экклсу необычной."
+        },
+        {
+          "id": "sent-004",
+          "text": "Aquella noche, sin embargo, García se mostró nervioso e impenetrable; y a la mañana siguiente, al despertar, Eccles encontró la casa enteramente desierta: el anfitrión, el criado melancólico y el cocinero mestizo habían desaparecido sin dar explicación alguna.",
+          "translationRu": "Той ночью, однако, Гарсия вёл себя нервно и замкнуто; а наутро, проснувшись, Экклс обнаружил дом совершенно пустым: хозяин, мрачный слуга и повар-метис исчезли, не дав никаких объяснений."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Cuando Eccles empezaba a exponer su relato, la narración fue interrumpida por los inspectores Gregson, de Scotland Yard, y Baynes, de la policía de Surrey.",
+          "translationRu": "Когда Экклс начал излагать свою историю, рассказ был прерван инспекторами Грегсоном из Скотленд-Ярда и Бейнсом из полиции Суррея."
+        },
+        {
+          "id": "sent-006",
+          "text": "Traían noticias que transformaban el misterio doméstico en tragedia: el cuerpo de García había sido hallado en Oxshott Common, el cráneo destrozado por golpes repetidos de una porra o saco de arena, con una ferocidad que superaba el simple homicidio.",
+          "translationRu": "Они принесли известие, превращавшее бытовую загадку в трагедию: тело Гарсии было найдено на Оксшотт-Коммон — череп раздроблен многократными ударами дубинки или мешка с песком, нанесёнными с яростью, превышавшей необходимость простого убийства."
+        },
+        {
+          "id": "sent-007",
+          "text": "El único rastro de identidad que portaba el cadáver era una carta de Eccles, lo que explicaba la presencia de los dos inspectores en Baker Street.",
+          "translationRu": "Единственным свидетельством личности при трупе оказалось письмо Экклса — вот почему оба инспектора и явились на Бейкер-стрит."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "El perspicaz Baynes había rescatado del hogar de Wisteria Lodge un fragmento de papel apenas chamuscado que resultó ser una nota cifrada en clave doméstica: colores, escaleras, números de puertas y la lacónica despedida 'Que Dios te ayude. D.'",
+          "translationRu": "Проницательный Бейнс извлёк из камина Вистерия-лодж едва обгоревший клочок бумаги — записку, зашифрованную в домашнем коде: цвета, лестницы, номера дверей и лаконичное прощание «Да поможет вам Бог. Д.»"
+        },
+        {
+          "id": "sent-009",
+          "text": "Holmes vio en ella algo más que un galanteo: la instrucción precisa para recorrer, de noche y en silencio, los pasillos de una mansión de tamaño considerable cercana a Oxshott.",
+          "translationRu": "Холмс увидел в ней нечто большее, чем любовную записку: точные инструкции для того, чтобы ночью, в тinieblas, пройти по коридорам обширного поместья неподалёку от Оксшотта."
+        },
+        {
+          "id": "sent-010",
+          "text": "Comprendió además que García había atraído a Eccles —el paradigma de la respetabilidad inglesa— con el único fin de tener a mano un testigo irreprochable que pudiera jurar que el español no había salido de casa aquella noche.",
+          "translationRu": "Он также понял, что Гарсия заманил Экклса — воплощение английской респектабельности — с единственной целью: иметь под рукой безупречного свидетеля, способного поклясться, что испанец не покидал дома в ту ночь."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Aquella misma tarde, Holmes y yo nos instalamos en la posada Bull de Esher, y al caer la noche acompañamos a Baynes a Wisteria Lodge bajo una lluvia fina y persistente.",
+          "translationRu": "В тот же вечер Холмс и я остановились в гостинице «Булл» в Эшере, а с наступлением темноты под моросящим дождём отправились с Бейнсом в Вистерия-лодж."
+        },
+        {
+          "id": "sent-012",
+          "text": "La cocina de la villa reveló lo que ningún policía provincial habría esperado encontrar: una figura negra y marchita de aspecto simiesco, un gallo blanco despedazado sobre el fregadero y un cubo de zinc con sangre coagulada junto a un plato de huesos calcinados.",
+          "translationRu": "Кухня поместья открыла то, чего ни один провинциальный полицейский не ожидал найти: чёрную, сморщенную фигурку обезьяньего вида, растерзанного белого петуха над раковиной и цинковое ведро со свернувшейся кровью рядом с блюдом обугленных костей."
+        },
+        {
+          "id": "sent-013",
+          "text": "Holmes, quien días después confirmaría sus sospechas en el British Museum, reconoció en aquellos objetos los atributos clásicos del culto vudú, practicado por el cocinero mestizo como propiciación antes de una empresa de suma importancia.",
+          "translationRu": "Холмс, впоследствии подтвердивший свои догадки в Британском музее, узнал в этих предметах классические атрибуты культа вуду — совершённое поваром-метисом жертвоприношение перед делом величайшей важности."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-014",
+          "text": "Durante los días siguientes, Holmes recorrió el campo con la paciencia de un entomólogo y la astucia de un espía, camuflando su investigación bajo el disfraz del botánico aficionado.",
+          "translationRu": "В последующие дни Холмс обходил местность с терпением энтомолога и хитростью шпиона, маскируя расследование под личиной любителя-ботаника."
+        },
+        {
+          "id": "sent-015",
+          "text": "Entre todas las mansiones de los alrededores, solo una concentró su atención: High Gable, gobernada por un hombre de nombre Henderson, de mirada oscura e imperiosa que jamás salía sin la sombra de su secretario.",
+          "translationRu": "Среди всех окрестных поместий лишь одно сосредоточило его внимание: Хай-Гейбл, которым правил некий Хендерсон — человек с тёмным и властным взглядом, никогда не выходивший без тени своего секретаря."
+        },
+        {
+          "id": "sent-016",
+          "text": "Una institutriz inglesa, Miss Burnet, llevaba varios días desaparecida de aquel extraño hogar desde la misma noche del asesinato.",
+          "translationRu": "Английская гувернантка мисс Бёрнет с той самой ночи убийства несколько дней как пропала из этого странного дома."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Holmes expuso ante mí la reconstrucción de los hechos con la precisión de un relojero: Miss Burnet había redactado la nota para abrir a García el acceso a la habitación de Henderson, pero el secretario López la sorprendió y, tras doblarle el brazo hasta el límite de lo tolerable, obtuvo de ella la dirección de García.",
+          "translationRu": "Холмс изложил передо мной восстановление событий с точностью часовщика: мисс Бёрнет написала записку, чтобы открыть Гарсии доступ в покои Хендерсона, но секретарь Лопес застал её и, выкручивая руку до предела терпимого, вырвал у неё адрес Гарсии."
+        },
+        {
+          "id": "sent-018",
+          "text": "Henderson interceptó al joven español en los matorrales y lo golpeó hasta matarlo; después encarceló a Miss Burnet en su cuarto, manteniéndola con penas de hambre y amenazas de muerte.",
+          "translationRu": "Хендерсон перехватил молодого испанца в зарослях и забил до смерти; затем заточил мисс Бёрнет в её комнате, держа в полуголоде и под угрозой смерти."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "El inspector Baynes, que seguía una pista paralela con notable sagacidad, procedió a arrestar al cocinero mulato, pero lo hizo deliberadamente para inducir a Henderson a creer que la policía había cerrado el caso y que podía moverse sin riesgo.",
+          "translationRu": "Инспектор Бейнс, шедший параллельным следом с завидной проницательностью, намеренно арестовал повара-мулата — лишь для того, чтобы убедить Хендерсона в закрытии дела и создать иллюзию безопасности."
+        },
+        {
+          "id": "sent-020",
+          "text": "Cuando se lo hice saber a Holmes, él reconoció con sincera admiración que Baynes había jugado esa carta con un instinto policial digno de toda alabanza.",
+          "translationRu": "Когда я сообщил об этом Холмсу, он с искренним восхищением признал, что Бейнс разыграл эту карту с полицейским чутьём, заслуживающим всяческой похлопывания."
+        },
+        {
+          "id": "sent-021",
+          "text": "La trampa funcionó: Henderson dispuso su huida a España, decidido a llevarse consigo a la única testigo peligrosa, a quien había narcotizado con opio para que no opusiera resistencia.",
+          "translationRu": "Ловушка сработала: Хендерсон организовал побег в Испанию, решив забрать единственную опасную свидетельницу, которую напоил опием, чтобы та не могла сопротивляться."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Pero en el andén de la estación, cuando las ruedas del tren casi empezaban a girar, Miss Burnet sacudió el aturdimiento del narcótico con la energía de la desesperación y logró arrojarse del vagón.",
+          "translationRu": "Но на перроне вокзала, когда колёса поезда уже почти начали вращаться, мисс Бёрнет стряхнула одурь наркотика с силой отчаяния и бросилась из вагона."
+        },
+        {
+          "id": "sent-023",
+          "text": "El jardinero Warner, que había montado guardia fiel a las instrucciones de Holmes, la rescató del tumulto y la condujo hasta nosotros.",
+          "translationRu": "Садовник Уорнер, неотлучно стоявший на страже согласно указаниям Холмса, вырвал её из суматохи и доставил к нам."
+        },
+        {
+          "id": "sent-024",
+          "text": "Dos tazas de café bien cargado disiparon la bruma del opio y la dejaron en condiciones de hablar.",
+          "translationRu": "Две чашки крепкого кофе рассеяли опийный туман, и она смогла говорить."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "Miss Burnet —cuyo verdadero nombre era Signora Victor Durando— reveló que Henderson era en realidad Juan Murillo, conocido como el Tigre de San Pedro: el tirano más sanguinario que había gobernado jamás aquella república centroamericana.",
+          "translationRu": "Мисс Бёрнет — чьим настоящим именем было Синьора Виктор Дуранда — открыла, что Хендерсон есть в действительности Хуан Мурильо, известный как Тигр Сан-Педро: самый кровавый тиран, когда-либо правивший той центральноамериканской республикой."
+        },
+        {
+          "id": "sent-026",
+          "text": "Murillo había mandado fusilar a su marido, el ministro de San Pedro en Londres, con la única razón de que su mérito lo hacía potencialmente peligroso.",
+          "translationRu": "Мурильо приказал расстрелять её мужа — министра Сан-Педро в Лондоне — по единственной причине: его достоинства делали того потенциально опасным."
+        },
+        {
+          "id": "sent-027",
+          "text": "Al caer el régimen, Murillo escapó con su fortuna y sus cómplices y vagó por Europa bajo distintos nombres; pero las víctimas de su tiranía, entre ellas Miss Burnet y el joven García, habían jurado no cesar hasta obtener justicia.",
+          "translationRu": "Когда режим пал, Мурильо бежал с состоянием и сообщниками, скитаясь по Европе под разными именами; однако жертвы его тирании — в том числе мисс Бёрнет и молодой Гарсия — поклялись не останавливаться, пока не свершится правосудие."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "Murillo y López consiguieron burlar la red policial y desaparecieron de Inglaterra antes de que se pudiera ejecutar ninguna orden de arresto.",
+          "translationRu": "Мурильо и Лопес сумели ускользнуть от полицейских сетей и покинули Англию прежде, чем удалось выписать ордер на арест."
+        },
+        {
+          "id": "sent-029",
+          "text": "Pocos meses después, el inspector Baynes nos visitó en Baker Street con la descripción impresa de dos cadáveres hallados en el hotel Escorial de Madrid: el Marqués de Montalva y su secretario, asesinados en sus habitaciones.",
+          "translationRu": "Несколько месяцев спустя инспектор Бейнс нанёс нам визит на Бейкер-стрит с напечатанным описанием двух тел, найденных в мадридском отеле «Эскориал»: маркиза де Монтальва и его секретаря, убитых в своих номерах."
+        },
+        {
+          "id": "sent-030",
+          "text": "Holmes cerró su cuaderno de notas con una sonrisa lenta y pronunció su veredicto: entre los muchos casos grotescos que había tenido la fortuna de examinar, este era notable por la cadena de venganzas que lo atravesaba, recordatorio de que, por sinuosos que sean sus caminos, la justicia acaba por llegar.",
+          "translationRu": "Холмс медленно закрыл записную книжку с улыбкой и вынес свой вердикт: среди многих гротескных дел, которые ему посчастливилось изучить, это выделялось цепью мести, пронизывавшей его насквозь, — напоминание о том, что сколь бы извилистыми ни были её пути, справедливость приходит неизбежно."
+        }
+      ]
+    }
+  ]
+}

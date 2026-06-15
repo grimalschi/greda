@@ -1,0 +1,217 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-red-circle",
+  "level": "b2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura del Círculo Rojo"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Una mañana gris de otoño, la señora Warren irrumpió en el despacho de Baker Street con el semblante descompuesto por la inquietud.",
+          "translationRu": "Одним серым осенним утром миссис Уоррен ворвалась в кабинет на Бейкер-стрит с лицом, искажённым тревогой."
+        },
+        {
+          "id": "sent-002",
+          "text": "Hacía diez días que un inquilino desconocido se había instalado en su casa, pagando cinco libras semanales a cambio de una sola condición: que nadie lo molestara ni lo viera.",
+          "translationRu": "Десять дней назад в её доме поселился неизвестный жилец, платя пять фунтов в неделю при единственном условии: чтобы никто его не беспокоил и не видел."
+        },
+        {
+          "id": "sent-003",
+          "text": "Pedía la comida mediante notas impresas en lápiz —nunca escritas a mano— y jamás cruzaba el umbral de su habitación.",
+          "translationRu": "Он заказывал еду через записки, напечатанные карандашом — никогда написанные от руки — и не переступал порог своей комнаты."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Holmes examinó las notas con detenimiento y señaló dos anomalías reveladoras.",
+          "translationRu": "Холмс тщательно изучил записки и отметил два характерных отклонения."
+        },
+        {
+          "id": "sent-005",
+          "text": "La escritura impresa impedía identificar la letra, y el uso incorrecto del plural —«match» en vez de «matches»— sugería que el autor había consultado un diccionario, no que dominara el inglés.",
+          "translationRu": "Печатные буквы не позволяли опознать почерк, а неправильное употребление множественного числа — «match» вместо «matches» — указывало на то, что автор пользовался словарём, а не владел языком."
+        },
+        {
+          "id": "sent-006",
+          "text": "Además, el cigarrillo hallado en la bandeja era incompatible con la descripción de un hombre barbudo: sólo un hombre sin barba podía haberlo fumado así.",
+          "translationRu": "Кроме того, найденный на подносе окурок не вязался с описанием бородатого мужчины: так мог курить только бритый человек."
+        },
+        {
+          "id": "sent-007",
+          "text": "Holmes concluyó que el inquilino original había sido reemplazado por otra persona, probablemente una mujer.",
+          "translationRu": "Холмс заключил, что первоначальный жилец был заменён другим человеком, вероятно женщиной."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "La sospecha se confirmó de forma dramática cuando la señora Warren regresó al día siguiente con una noticia alarmante.",
+          "translationRu": "Подозрение подтвердилось драматическим образом, когда на следующий день миссис Уоррен вернулась с тревожными новостями."
+        },
+        {
+          "id": "sent-009",
+          "text": "Al amanecer, dos hombres habían arrojado una capa sobre la cabeza de su marido, lo habían empujado a un carruaje y lo habían abandonado en Hampstead Heath una hora después.",
+          "translationRu": "На рассвете двое мужчин накинули плащ на голову её мужа, втолкнули его в экипаж и бросили час спустя на Хэмпстед-Хит."
+        },
+        {
+          "id": "sent-010",
+          "text": "Holmes dedujo que los enemigos del inquilino habían confundido al señor Warren con él en la neblina matinal, y que, al descubrir el error, lo habían liberado.",
+          "translationRu": "Холмс сделал вывод, что враги жильца приняли господина Уоррена за него в утреннем тумане и, обнаружив ошибку, отпустили его."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Holmes buscó en los anuncios cifrados de la columna de agonia del Daily Gazette y encontró una serie de mensajes firmados con la letra «G» que se correspondían exactamente con la llegada del inquilino.",
+          "translationRu": "Холмс просмотрел зашифрованные объявления в рубрике «Агония» в Daily Gazette и нашёл серию сообщений, подписанных буквой «G», точно совпадавших по времени с появлением жильца."
+        },
+        {
+          "id": "sent-012",
+          "text": "El último aviso indicaba una ventana concreta de un edificio rojizo de piedra blanca situado frente a la casa de la señora Warren.",
+          "translationRu": "Последнее объявление указывало на конкретное окно в красном кирпичном здании с белыми фасадными камнями напротив дома миссис Уоррен."
+        },
+        {
+          "id": "sent-013",
+          "text": "Alguien utilizaba la columna de anuncios para comunicarse con la misteriosa prisionera voluntaria.",
+          "translationRu": "Кто-то использовал газетную рубрику для связи с таинственной добровольной затворницей."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-014",
+          "text": "Esa tarde se escondieron en el cuarto de trastos y, gracias a un espejo colocado estratégicamente, observaron cómo la puerta se entornaba y dos manos delgadas recogían la bandeja.",
+          "translationRu": "В тот же день они спрятались в чулане и с помощью стратегически расположенного зеркала наблюдали, как дверь слегка приоткрылась и две тонкие руки забрали поднос."
+        },
+        {
+          "id": "sent-015",
+          "text": "Por un instante fugaz apareció el rostro de una mujer joven, oscuro y hermoso, distorsionado por el terror.",
+          "translationRu": "На краткий миг показалось молодое смуглое красивое лицо, искажённое ужасом."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-016",
+          "text": "Al caer la noche, desde la ventana oscurecida de la casa de huéspedes, Holmes descifró con cuidado los destellos de una vela en el edificio de enfrente.",
+          "translationRu": "С наступлением ночи из затемнённого окна пансиона Холмс старательно расшифровывал вспышки свечи в здании напротив."
+        },
+        {
+          "id": "sent-017",
+          "text": "El mensaje, transmitido tres veces, era en italiano: «Attenta! Pericolo!», es decir, «¡Cuidado! ¡Peligro!»",
+          "translationRu": "Послание, переданное трижды, было на итальянском: «Attenta! Pericolo!» — то есть «Осторожно! Опасность!»"
+        },
+        {
+          "id": "sent-018",
+          "text": "Entonces la vela se apagó bruscamente a mitad del mensaje, como si alguien hubiera interrumpido al transmisor por la fuerza.",
+          "translationRu": "Затем свеча резко погасла на середине сообщения, словно кто-то насильно прервал передающего."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "Holmes y Watson cruzaron la calle a toda prisa y se encontraron en el portal con el inspector Gregson y el detective americano Leverton, de la agencia Pinkerton.",
+          "translationRu": "Холмс и Уотсон стремглав пересекли улицу и у подъезда встретили инспектора Грегсона и американского детектива Левертона из агентства Пинкертона."
+        },
+        {
+          "id": "sent-020",
+          "text": "Leverton había seguido a Gorgiano desde Nueva York: un sicario que respondía al apodo de «la Muerte» y al que se atribuían más de cincuenta asesinatos.",
+          "translationRu": "Левертон преследовал Горджано из Нью-Йорка — наёмного убийцу, носившего прозвище «Смерть» и которому приписывали более пятидесяти убийств."
+        },
+        {
+          "id": "sent-021",
+          "text": "Gorgiano dirigía en Italia y América la sociedad secreta llamada el Círculo Rojo, afiliada a los antiguos Carbonarios.",
+          "translationRu": "Горджано руководил в Италии и Америке тайным обществом под названием Красный Круг, связанным с древними карбонариями."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Los cuatro subieron al tercer piso; la puerta de la izquierda estaba entreabierta.",
+          "translationRu": "Все четверо поднялись на третий этаж; дверь слева была приоткрыта."
+        },
+        {
+          "id": "sent-023",
+          "text": "Gregson alzó su linterna y alumbró un reguero de sangre fresca que cruzaba el suelo desnudo de tarimas.",
+          "translationRu": "Грегсон поднял фонарь и осветил дорожку свежей крови, пересекавшую голый дощатый пол."
+        },
+        {
+          "id": "sent-024",
+          "text": "En la habitación interior yacía el corpachón de Gorgiano, con un cuchillo hundido hasta el mango en la garganta y la cabeza rodeada de un halo carmesí.",
+          "translationRu": "Во внутренней комнате лежала туша Горджано с ножом, вонзённым по рукоять в горло, и головой, окружённой багровым нимбом."
+        },
+        {
+          "id": "sent-025",
+          "text": "Alguien se había adelantado a la ley.",
+          "translationRu": "Кто-то опередил закон."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "Holmes señaló con la vela desde la ventana del edificio e hizo entrar a la mujer que esperaba en la oscuridad.",
+          "translationRu": "Холмс просигналил свечой из окна здания и впустил женщину, ожидавшую в темноте."
+        },
+        {
+          "id": "sent-027",
+          "text": "Era Emilia Lucca, esposa de Gennaro Lucca, un italiano que en su juventud había jurado lealtad al Círculo Rojo sin prever las consecuencias.",
+          "translationRu": "Это была Эмилия Лукка, жена Дженнаро Лукка — итальянца, который в юности поклялся в верности Красному Кругу, не предвидя последствий."
+        },
+        {
+          "id": "sent-028",
+          "text": "Cuando huyeron a Nueva York, creyeron haber escapado; pero Gorgiano los siguió y exigió a Gennaro que asesinara a su benefactor Castalotte, que se había negado a pagar el chantaje de la sociedad.",
+          "translationRu": "Когда они бежали в Нью-Йорк, они думали, что спаслись; но Горджано последовал за ними и потребовал, чтобы Дженнаро убил своего благодетеля Касталотте, отказавшегося платить дань обществу."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-029",
+          "text": "En lugar de obedecer, Gennaro advirtió a Castalotte, informó a la policía y huyó a Londres con Emilia, ocultándola en el cuarto de la señora Warren mientras él permanecía a la sombra.",
+          "translationRu": "Вместо того чтобы подчиниться, Дженнаро предупредил Касталотте, сообщил в полицию и бежал с Эмилией в Лондон, укрыв её в комнате миссис Уоррен, пока сам оставался в тени."
+        },
+        {
+          "id": "sent-030",
+          "text": "Cuando Gorgiano los encontró y se lanzó sobre Gennaro, este lo mató en defensa propia.",
+          "translationRu": "Когда Горджано их нашёл и бросился на Дженнаро, тот убил его в целях самообороны."
+        },
+        {
+          "id": "sent-031",
+          "text": "Gregson quedó convencido de que el jurado absolvería al marido, y Holmes, satisfecho con el desenlace, señaló que aún había tiempo para llegar al segundo acto de Wagner en el Covent Garden.",
+          "translationRu": "Грегсон был убеждён, что присяжные оправдают мужа, а Холмс, довольный развязкой, заметил, что ещё можно успеть ко второму акту Вагнера в Ковент-Гардене."
+        }
+      ]
+    }
+  ]
+}

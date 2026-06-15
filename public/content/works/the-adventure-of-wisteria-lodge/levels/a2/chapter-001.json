@@ -1,0 +1,217 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-wisteria-lodge",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de Wisteria Lodge"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Un día, el señor Scott Eccles llegó al apartamento de Sherlock Holmes muy agitado.",
+          "translationRu": "Однажды мистер Скотт Экклс пришёл в квартиру Шерлока Холмса в крайнем волнении."
+        },
+        {
+          "id": "sent-002",
+          "text": "Tenía el pelo sin peinar y los botones de la ropa mal abrochados.",
+          "translationRu": "Волосы его были не причёсаны, а пуговицы на одежде застёгнуты наспас."
+        },
+        {
+          "id": "sent-003",
+          "text": "Dijo que pasó la noche en casa de un amigo español llamado García.",
+          "translationRu": "Он рассказал, что провёл ночь в доме у своего испанского друга по имени Гарсия."
+        },
+        {
+          "id": "sent-004",
+          "text": "Por la mañana, García y todos sus criados habían desaparecido.",
+          "translationRu": "Утром Гарсия и все его слуги бесследно исчезли."
+        },
+        {
+          "id": "sent-005",
+          "text": "La casa, llamada Wisteria Lodge, estaba completamente vacía.",
+          "translationRu": "Дом, который назывался Вистерия-лодж, оказался совершенно пустым."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "Dos inspectores de policía llegaron a la habitación de Holmes.",
+          "translationRu": "В комнату Холмса вошли два полицейских инспектора."
+        },
+        {
+          "id": "sent-007",
+          "text": "Uno se llamaba Gregson y el otro Baynes.",
+          "translationRu": "Одного звали Грегсон, другого — Бейнс."
+        },
+        {
+          "id": "sent-008",
+          "text": "Dijeron que García estaba muerto.",
+          "translationRu": "Они сообщили, что Гарсия мёртв."
+        },
+        {
+          "id": "sent-009",
+          "text": "Lo encontraron en Oxshott Common con la cabeza destrozada.",
+          "translationRu": "Его нашли на Оксшотт-Коммон с проломленной головой."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "Holmes fue con el inspector Baynes a Wisteria Lodge.",
+          "translationRu": "Холмс вместе с инспектором Бейнсом отправился в Вистерия-лодж."
+        },
+        {
+          "id": "sent-011",
+          "text": "En la cocina encontraron cosas muy extrañas.",
+          "translationRu": "На кухне они обнаружили очень странные вещи."
+        },
+        {
+          "id": "sent-012",
+          "text": "Había una figura negra de aspecto horrible, un gallo blanco muerto y huesos quemados.",
+          "translationRu": "Там была чёрная жуткая фигурка, мёртвый белый петух и обгоревшие кости."
+        },
+        {
+          "id": "sent-013",
+          "text": "También había sangre en un cubo.",
+          "translationRu": "А также кровь в ведре."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-014",
+          "text": "Holmes estudió la zona y buscó información sobre las casas grandes cerca de Oxshott.",
+          "translationRu": "Холмс обследовал округу и собирал сведения о больших домах вблизи Оксшотта."
+        },
+        {
+          "id": "sent-015",
+          "text": "Una casa se llamaba High Gable y su dueño era un hombre misterioso llamado Henderson.",
+          "translationRu": "Один дом назывался Хай-Гейбл, и его хозяином был таинственный человек по имени Хендерсон."
+        },
+        {
+          "id": "sent-016",
+          "text": "Holmes pensó que Henderson tenía algo que ver con el crimen.",
+          "translationRu": "Холмс решил, что Хендерсон как-то связан с преступлением."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "En High Gable vivía también una institutriz inglesa llamada Miss Burnet.",
+          "translationRu": "В Хай-Гейбл жила также английская гувернантка мисс Бёрнет."
+        },
+        {
+          "id": "sent-018",
+          "text": "Ella escribió una nota secreta a García para ayudarlo.",
+          "translationRu": "Она написала Гарсии тайную записку, чтобы помочь ему."
+        },
+        {
+          "id": "sent-019",
+          "text": "Pero Henderson descubrió el plan y mató a García.",
+          "translationRu": "Но Хендерсон раскрыл план и убил Гарсию."
+        },
+        {
+          "id": "sent-020",
+          "text": "Después encerró a Miss Burnet en su habitación.",
+          "translationRu": "После этого он запер мисс Бёрнет в её комнате."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "El inspector Baynes capturó al cocinero, un hombre enorme y salvaje.",
+          "translationRu": "Инспектор Бейнс задержал повара — огромного и дикого человека."
+        },
+        {
+          "id": "sent-022",
+          "text": "Pero lo hizo para engañar a Henderson.",
+          "translationRu": "Но сделал он это, чтобы обмануть Хендерсона."
+        },
+        {
+          "id": "sent-023",
+          "text": "Henderson creyó que la policía no lo buscaba y quiso escapar.",
+          "translationRu": "Хендерсон решил, что полиция его не ищет, и попытался бежать."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-024",
+          "text": "Cuando Henderson intentó llevar a Miss Burnet en el tren, ella escapó.",
+          "translationRu": "Когда Хендерсон попытался увезти мисс Бёрнет поездом, ей удалось сбежать."
+        },
+        {
+          "id": "sent-025",
+          "text": "El jardinero de Holmes la ayudó y la llevó a Holmes en un taxi.",
+          "translationRu": "Садовник Холмса помог ей и привёз её к Холмсу в такси."
+        },
+        {
+          "id": "sent-026",
+          "text": "Miss Burnet contó toda la verdad sobre Henderson.",
+          "translationRu": "Мисс Бёрнет рассказала всю правду о Хендерсоне."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "Henderson era en realidad Don Murillo, el Tigre de San Pedro.",
+          "translationRu": "Хендерсон на самом деле был Доном Мурильо — Тигром Сан-Педро."
+        },
+        {
+          "id": "sent-028",
+          "text": "Fue un dictador muy cruel en América Central.",
+          "translationRu": "Он был жестоким диктатором в Центральной Америке."
+        },
+        {
+          "id": "sent-029",
+          "text": "García y Miss Burnet querían vengarse de él.",
+          "translationRu": "Гарсия и мисс Бёрнет хотели отомстить ему."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "Henderson y su secretario escaparon a España.",
+          "translationRu": "Хендерсон и его секретарь бежали в Испанию."
+        },
+        {
+          "id": "sent-031",
+          "text": "Pero poco después los mataron en un hotel de Madrid.",
+          "translationRu": "Но вскоре их убили в мадридской гостинице."
+        },
+        {
+          "id": "sent-032",
+          "text": "Holmes dijo que al final la justicia llegó, aunque tarde.",
+          "translationRu": "Холмс сказал, что справедливость в конце концов восторжествовала, пусть и с опозданием."
+        }
+      ]
+    }
+  ]
+}
