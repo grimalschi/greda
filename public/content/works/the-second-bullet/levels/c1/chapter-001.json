@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-second-bullet",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La segunda bala"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "El agente que vino a solicitar los servicios de Violet Strange lo hizo con cierta cautela, consciente de que la joven solía rechazar los casos que le parecían comprometedores o demasiado sombríos para su delicada posición social.", "translationRu": "Агент, явившийся просить услуг Вайолет Стрэндж, держался с известной осторожностью, понимая, что молодая женщина обычно отклоняла дела, казавшиеся ей сомнительными или слишком мрачными для её деликатного общественного положения."},
+        {"id": "sent-002", "text": "El caso era el siguiente: George Hammond, especulador de bolsa de no muy buena reputación, había sido hallado muerto en su apartamento del norte de Manhattan con un disparo en el pecho y la pistola aún en la mano.", "translationRu": "Дело состояло в следующем: Джордж Хаммонд, биржевой спекулянт с неважной репутацией, был найден мёртвым в своей квартире на севере Манхэттена с пулей в груди и пистолетом в руке."},
+        {"id": "sent-003", "text": "El veredicto oficial era el de suicidio, y la compañía Shuler Life Insurance se amparaba en ese veredicto para negarse a honrar la póliza que el fallecido había contratado poco tiempo antes.", "translationRu": "Официальный вердикт гласил: самоубийство, и компания «Шулер Лайф Иншуранс» ссылалась на него, отказываясь выплачивать страховку, которую покойный оформил незадолго до смерти."},
+        {"id": "sent-004", "text": "Para la viuda, que había quedado sin recursos y con la carga de sus deudas, la póliza era el único horizonte de salvación.", "translationRu": "Для вдовы, оставшейся без средств и с бременем долгов, страховка была единственной надеждой на спасение."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Violet se resistió en un principio con la elegante evasión que la caracterizaba, pero la suma ofrecida era lo bastante sustancial como para doblegar sus escrúpulos.", "translationRu": "Вайолет поначалу уклонялась с присущей ей изяществом, однако предложенная сумма была достаточно весомой, чтобы преодолеть её колебания."},
+        {"id": "sent-006", "text": "Convinieron en que la señora Hammond acudiría a verla a las tres en punto.", "translationRu": "Они условились, что миссис Хаммонд придёт к ней ровно в три часа."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-007", "text": "El caso, ya conocido del público por los periódicos, había transcurrido de la manera siguiente: una sofocante noche de septiembre, los Saunders, matrimonio que ocupaba el apartamento contiguo, fueron despertados por el llanto incesante del bebé de los Hammond.", "translationRu": "Дело, уже известное публике из газет, разворачивалось следующим образом: душной сентябрьской ночью супруги Сондерс, занимавшие соседнюю квартиру, были разбужены неумолкающим плачем ребёнка Хаммондов."},
+        {"id": "sent-008", "text": "Él se puso a fumar; ella se asomó a la ventana en busca de algo de fresco.", "translationRu": "Он закурил; она высунулась в окно в надежде поймать хоть немного свежего воздуха."},
+        {"id": "sent-009", "text": "En torno a las dos de la madrugada se oyó un disparo, y lo que sobrevino al instante fue un silencio abrupto y total: el bebé había dejado de llorar.", "translationRu": "Около двух часов ночи прозвучал выстрел, и наступившая следом тишина была внезапной и абсолютной: ребёнок перестал плакать."},
+        {"id": "sent-010", "text": "Un policía subió, derribó la puerta cerrada con llave y encontró al señor Hammond con una herida mortal en el pecho y la pistola en la mano crispada; el bebé yacía en el suelo, sin vida, con el brazo del padre tendido sobre su pequeña garganta.", "translationRu": "Полицейский поднялся наверх, выломал запертую дверь и обнаружил господина Хаммонда со смертельной раной в груди и пистолетом в стиснутой руке; младенец лежал на полу без признаков жизни, с отцовской рукой, распростёртой поперёк его маленького горла."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-011", "text": "La señora Hammond, que dormía en otra habitación a raíz de una discusión conyugal, señaló la ventana abierta y el espejo estrellado de un balazo como indicios de que su marido no había actuado solo.", "translationRu": "Миссис Хаммонд, спавшая в другой комнате после супружеской ссоры, указала на открытое окно и зеркало, разбитое выстрелом, как на свидетельство того, что её муж действовал не один."},
+        {"id": "sent-012", "text": "La señora Saunders declaró haber percibido algo parecido a un doble eco en el disparo.", "translationRu": "Миссис Сондерс заявила, что уловила нечто похожее на двойное эхо выстрела."},
+        {"id": "sent-013", "text": "Sin embargo, ningún segundo proyectil fue hallado, y la bala extraída del pecho de Hammond correspondía exactamente con las que quedaban en el arma.", "translationRu": "Тем не менее никакого второго снаряда найдено не было, а пуля, извлечённая из груди Хаммонда, в точности соответствовала оставшимся в оружии патронам."},
+        {"id": "sent-014", "text": "El jurado dictaminó suicidio, y la compañía aseguradora se atuvo a esa resolución.", "translationRu": "Присяжные вынесли решение о самоубийстве, и страховая компания придерживалась этого решения."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-015", "text": "Cuando por fin la señora Hammond se sentó frente a Violet en el boudoir color rosa, confesó lo que había callado ante el jurado: aquella noche ella y George habían tenido una de sus discusiones habituales sobre el cuidado del bebé, y él la había excluido del dormitorio con llave.", "translationRu": "Когда наконец миссис Хаммонд села напротив Вайолет в будуаре цвета розы, она призналась в том, что скрыла от присяжных: той ночью они с Джорджем поссорились, как обычно, из-за ухода за ребёнком, и он запер её снаружи спальни."},
+        {"id": "sent-016", "text": "Afirmó que su marido era un cobarde patológico —incapaz de dispararse a sí mismo— y que un rival de la época del noviazgo, hombre de tez oscura y con un pie deforme, había jurado ante la misma puerta de la iglesia que jamás serían felices juntos.", "translationRu": "Она утверждала, что её муж был патологическим трусом — неспособным выстрелить в себя — и что соперник времён ухаживания, смуглый мужчина с больной ногой, поклялся прямо у дверей церкви, что они никогда не будут счастливы вместе."},
+        {"id": "sent-017", "text": "Ese hombre, al encontrarse casualmente con George en el metro esa misma tarde, habría relanzado la vieja amenaza, y ella creía que había trepado por la celosía exterior para disparar a través de la ventana.", "translationRu": "Этот человек, случайно столкнувшийся с Джорджем в метро в тот же день, по всей видимости, возобновил старую угрозу, и она считала, что он забрался по наружной решётке и выстрелил сквозь окно."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-018", "text": "Aquella noche, tras sus compromisos sociales, Violet regresó sola al apartamento y comenzó a reconstruir los movimientos de Hammond con la misma minucia con que una actriz estudia el papel de otro.", "translationRu": "Той ночью, после светских обязательств, Вайолет вернулась в квартиру одна и принялась восстанавливать движения Хаммонда с той же тщательностью, с какой актриса изучает чужую роль."},
+        {"id": "sent-019", "text": "Partiendo del lugar donde había estado la cuna, recorrió el cuarto hasta encontrar el punto exacto desde el cual un hombre asustado —oyendo un ruido a la altura de la ventana— se habría agazapado junto a la cama y alargado la mano hacia la pistola guardada bajo la almohada.", "translationRu": "Начав с места, где стояла колыбель, она прошла по комнате, пока не нашла точку, из которой испуганный мужчина — услышав звук у окна — пригнулся бы к кровати и потянулся к пистолету под подушкой."},
+        {"id": "sent-020", "text": "Desde esa postura descubrió que el marco de la ventana opuesta quedaba reflejado en el espejo directamente ante sus ojos.", "translationRu": "Из этой позы она обнаружила, что рама противоположного окна отражалась в зеркале прямо перед её глазами."},
+        {"id": "sent-021", "text": "Hammond, en la penumbra y bajo el terror del momento, había confundido esa sombra especular con la figura real del asesino apostado en la celosía y había disparado hacia el cristal.", "translationRu": "Хаммонд в полутьме и в ужасе момента принял этот зеркальный силуэт за реального убийцу, засевшего на решётке, и выстрелил в стекло."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-022", "text": "Quedaba por resolver adónde había ido a parar su bala: el ángulo oblicuo del impacto impedía que alcanzara la pared opuesta, y ninguna marca había aparecido en ninguna superficie de la habitación.", "translationRu": "Оставалось выяснить, куда делась его пуля: косой угол удара не позволял ей достичь противоположной стены, и никаких следов не было обнаружено ни на одной поверхности в комнате."},
+        {"id": "sent-023", "text": "La mirada de Violet descendió lentamente hasta el suelo y se posó en el lugar donde habían sido hallados los cuerpos del padre y del hijo.", "translationRu": "Взгляд Вайолет медленно опустился на пол и остановился на месте, где были найдены тела отца и сына."},
+        {"id": "sent-024", "text": "La evidencia se le impuso con la brutalidad de lo irrefutable: la bala, desviada por el espejo y privada de su impulso, había caído al suelo.", "translationRu": "Очевидность обрушилась на неё с жестокостью неопровержимого: пуля, отклонённая зеркалом и лишившаяся силы, упала на пол."},
+        {"id": "sent-025", "text": "El bebé, que su padre había depositado en el suelo mientras intentaba calmarlo, la había recogido —como hacen los niños con todo objeto brillante— y se la había llevado a la boca.", "translationRu": "Младенец, которого отец положил на пол, пытаясь успокоить, подобрал её — как дети подбирают любой блестящий предмет — и потянул в рот."},
+        {"id": "sent-026", "text": "Un estremecimiento convulsivo del padre agonizante bastó para que el niño, asustado, aspirara la bala hasta la laringe.", "translationRu": "Судорожной дрожи умирающего отца хватило, чтобы испуганный ребёнок втянул пулю в гортань."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-027", "text": "Tan horrorosa era la conclusión que Violet, incapaz de soportar más la atmósfera del apartamento, dejó una escueta nota a la señora Hammond advirtiéndola de que no se dejara llevar por la esperanza antes de tiempo.", "translationRu": "Вывод был настолько ужасающим, что Вайолет, не в силах больше оставаться в квартире, оставила миссис Хаммонд краткую записку с предупреждением не поддаваться надежде прежде времени."},
+        {"id": "sent-028", "text": "A la mañana siguiente se presentó ante su jefe con el velo corrido y el semblante demacrado, y le confió en voz baja lo que había descubierto.", "translationRu": "На следующее утро она явилась к своему начальнику с опущенной вуалью и осунувшимся лицом и тихо поведала ему о своём открытии."},
+        {"id": "sent-029", "text": "Los médicos forenses examinaron el cuerpo del bebé; encontraron la bala en la laringe.", "translationRu": "Судебно-медицинские эксперты осмотрели тело ребёнка; пуля в гортани была обнаружена."},
+        {"id": "sent-030", "text": "El proyectil no correspondía a la pistola de Hammond: era de un calibre distinto, lo cual acreditaba sin lugar a dudas la presencia de un segundo tirador.", "translationRu": "Снаряд не соответствовал пистолету Хаммонда: калибр был иным, что неопровержимо свидетельствовало о присутствии второго стрелка."},
+        {"id": "sent-031", "text": "La Shuler Life Insurance Company, ante la fuerza de esta evidencia, desistió de su negativa y abonó la póliza a la señora Hammond, cerrando así uno de los casos más singulares que jamás pasaron por las manos de Violet Strange.", "translationRu": "Компания «Шулер Лайф Иншуранс», перед лицом этого доказательства, отказалась от своего отказа и выплатила страховку миссис Хаммонд, завершив тем самым одно из самых необычных дел, которые когда-либо проходили через руки Вайолет Стрэндж."}
+      ]
+    }
+  ]
+}

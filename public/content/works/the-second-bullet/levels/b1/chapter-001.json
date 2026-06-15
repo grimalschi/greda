@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-second-bullet",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La segunda bala"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Un representante de una agencia de detectives fue a visitar a Violet Strange para pedirle que investigara un caso.", "translationRu": "Представитель детективного агентства пришёл к Вайолет Стрэндж с просьбой расследовать дело."},
+        {"id": "sent-002", "text": "Un hombre llamado George Hammond había muerto de un disparo en su apartamento de Manhattan, y la policía declaró que era un suicidio.", "translationRu": "Некий Джордж Хаммонд был застрелен в своей манхэттенской квартире, и полиция объявила это самоубийством."},
+        {"id": "sent-003", "text": "Su viuda necesitaba cobrar el seguro de vida, pero la compañía se negaba a pagar porque el contrato excluía el suicidio.", "translationRu": "Его вдова нуждалась в страховой выплате, однако компания отказывалась платить, поскольку договор исключал самоубийство."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "Violet no quería aceptar el caso porque parecía demasiado difícil.", "translationRu": "Вайолет не хотела браться за дело, потому что оно казалось слишком сложным."},
+        {"id": "sent-005", "text": "Pero cuando le ofrecieron una suma considerable de dinero, cambió de idea y acordó recibir a la señora Hammond.", "translationRu": "Но когда ей предложили значительную сумму денег, она передумала и согласилась принять миссис Хаммонд."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-006", "text": "Aquella noche de septiembre, los vecinos del apartamento contiguo escucharon el llanto de un bebé y luego un disparo.", "translationRu": "Той сентябрьской ночью соседи в соседней квартире слышали плач младенца, а затем выстрел."},
+        {"id": "sent-007", "text": "Un policía subió y tuvo que romper la puerta porque estaba cerrada con llave.", "translationRu": "Полицейский поднялся наверх и был вынужден выломать дверь, так как она была заперта."},
+        {"id": "sent-008", "text": "Dentro encontraron al señor Hammond muerto con una pistola en la mano y al bebé sin vida en el suelo.", "translationRu": "Внутри они обнаружили мёртвого господина Хаммонда с пистолетом в руке и мёртвого ребёнка на полу."},
+        {"id": "sent-009", "text": "La señora Hammond dormía en otra habitación porque había tenido una discusión con su marido.", "translationRu": "Миссис Хаммонд спала в другой комнате, так как поссорилась с мужем."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-010", "text": "En la pared había un espejo roto, y los vecinos decían haber oído un sonido extraño en el disparo, como si hubiera sido doble.", "translationRu": "На стене висело разбитое зеркало, а соседи утверждали, что звук выстрела был странным — будто бы двойным."},
+        {"id": "sent-011", "text": "Sin embargo, el jurado del forense decidió que Hammond se había suicidado, porque la bala de su cuerpo coincidía con las de su propia pistola.", "translationRu": "Тем не менее жюри коронера постановило, что Хаммонд покончил с собой, поскольку пуля в его теле соответствовала патронам его собственного пистолета."},
+        {"id": "sent-012", "text": "No encontraron ninguna segunda bala.", "translationRu": "Никакой второй пули найдено не было."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-013", "text": "Cuando la señora Hammond vino a ver a Violet, le contó que esa noche ella y su marido discutieron por el cuidado del bebé.", "translationRu": "Когда миссис Хаммонд пришла к Вайолет, она рассказала, что той ночью они с мужем поссорились из-за ухorro за ребёнком."},
+        {"id": "sent-014", "text": "Dijo que su marido era muy cobarde y que nunca se habría suicidado.", "translationRu": "Она сказала, что её муж был очень трусливым человеком и никогда бы не покончил с собой."},
+        {"id": "sent-015", "text": "Creía que un hombre de pelo oscuro y con un pie deforme lo había matado desde la celosía que daba a la ventana.", "translationRu": "Она была убеждена, что человек с тёмными волосами и больной ногой убил его с решётки, выходившей к окну."},
+        {"id": "sent-016", "text": "Este hombre había jurado vengarse de Hammond desde su boda.", "translationRu": "Этот человек поклялся отомстить Хаммонду ещё со дня его свадьбы."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-017", "text": "De noche, Violet fue sola al apartamento y caminó por el cuarto reproduciendo los movimientos del señor Hammond.", "translationRu": "Ночью Вайолет пришла в квартиру одна и ходила по комнате, воспроизводя движения господина Хаммонда."},
+        {"id": "sent-018", "text": "Entendió que Hammond, cuando oyó un ruido, buscó la pistola debajo de la almohada y disparó hacia lo que vio en el espejo.", "translationRu": "Она поняла: когда Хаммонд услышал шум, он потянулся за пистолетом под подушкой и выстрелил в то, что увидел в зеркале."},
+        {"id": "sent-019", "text": "Pero había confundido el reflejo de la ventana con la ventana real, y por eso la bala golpeó el espejo.", "translationRu": "Но он перепутал отражение окна с настоящим окном, и поэтому пуля попала в зеркало."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-020", "text": "Mirando el suelo, Violet de repente comprendió lo que había pasado con la segunda bala.", "translationRu": "Глядя на пол, Вайолет вдруг поняла, что произошло со второй пулей."},
+        {"id": "sent-021", "text": "La bala había rebotado en el espejo y caído al suelo.", "translationRu": "Пуля срикошетила от зеркала и упала на пол."},
+        {"id": "sent-022", "text": "El bebé, que estaba en el suelo, la había cogido y se la metió en la boca.", "translationRu": "Младенец, лежавший на полу, подобрал её и сунул в рот."},
+        {"id": "sent-023", "text": "En ese momento el bebé se asustó o se atragantó, y la bala le entró en la garganta y lo mató.", "translationRu": "В этот момент ребёнок испугался или подавился, и пуля попала ему в горло и убила его."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-024", "text": "Violet fue a ver a su jefe al día siguiente y le reveló su descubrimiento.", "translationRu": "На следующий день Вайолет пришла к своему начальнику и сообщила ему о своём открытии."},
+        {"id": "sent-025", "text": "Los médicos examinaron el cuerpo del bebé y encontraron la segunda bala en su garganta.", "translationRu": "Врачи осмотрели тело ребёнка и нашли вторую пулю в его горле."},
+        {"id": "sent-026", "text": "Esta bala no correspondía a la pistola de Hammond, lo que probaba que había otro tirador.", "translationRu": "Эта пуля не соответствовала пистолету Хаммонда, что доказывало присутствие другого стрелка."},
+        {"id": "sent-027", "text": "La compañía de seguros reconoció que había sido un asesinato y pagó a la señora Hammond.", "translationRu": "Страховая компания признала, что речь идёт об убийстве, и выплатила деньги миссис Хаммонд."}
+      ]
+    }
+  ]
+}
