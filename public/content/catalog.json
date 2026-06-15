@@ -2,6 +2,29 @@
   "schemaVersion": "1.0",
   "works": [
     {
+      "id": "through-the-craters-rim",
+      "title": "Al borde del cráter",
+      "titleRu": "На краю кратера",
+      "originalTitle": "Through the Crater's Rim",
+      "authorId": "a-hyatt-verrill",
+      "authorName": "A. Hyatt Verrill",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-bridge-of-light",
       "title": "El Puente de Luz",
       "titleRu": "Мост Света",
@@ -478,6 +501,30 @@
       ]
     },
     {
+      "id": "the-time-raider",
+      "title": "El Invasor del Tiempo",
+      "titleRu": "Захватчик Времени",
+      "originalTitle": "The Time-Raider",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика",
+        "Межзвёздный патруль"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-man-who-saw-the-future",
       "title": "El hombre que vio el futuro",
       "titleRu": "Человек, увидевший будущее",
@@ -929,6 +976,29 @@
       ]
     },
     {
+      "id": "the-colour-out-of-space",
+      "title": "El color del espacio exterior",
+      "titleRu": "Цвет из иных миров",
+      "originalTitle": "The Colour Out of Space",
+      "authorId": "h-p-lovecraft",
+      "authorName": "H. P. Lovecraft",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "love-of-life",
       "title": "Amor a la vida",
       "titleRu": "Любовь к жизни",
@@ -1142,6 +1212,29 @@
       ]
     },
     {
+      "id": "the-red-dust",
+      "title": "El polvo rojo",
+      "titleRu": "Красная пыль",
+      "originalTitle": "The Red Dust",
+      "authorId": "murray-leinster",
+      "authorName": "Murray Leinster",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "maza-of-the-moon",
       "title": "Maza de la Luna",
       "titleRu": "Маза с Луны",
@@ -1198,6 +1291,149 @@
       "genres": [
         "Фантастика",
         "Бак Роджерс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "thorndyke-the-case-of-the-white-foot-prints",
+      "title": "El caso de las huellas blancas",
+      "titleRu": "Дело о белых следах",
+      "originalTitle": "The Case of the White Foot-Prints",
+      "authorId": "r-austin-freeman",
+      "authorName": "R. Austin Freeman",
+      "genres": [
+        "Детектив",
+        "Доктор Торндайк"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "thorndyke-the-blue-scarab",
+      "title": "El escarabajo azul",
+      "titleRu": "Синий скарабей",
+      "originalTitle": "The Blue Scarab",
+      "authorId": "r-austin-freeman",
+      "authorName": "R. Austin Freeman",
+      "genres": [
+        "Детектив",
+        "Доктор Торндайк"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "thorndyke-the-funeral-pyre",
+      "title": "La hoguera",
+      "titleRu": "Погребальный костёр",
+      "originalTitle": "The Funeral Pyre",
+      "authorId": "r-austin-freeman",
+      "authorName": "R. Austin Freeman",
+      "genres": [
+        "Детектив",
+        "Доктор Торндайк"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "thorndyke-a-fisher-of-men",
+      "title": "Un pescador de hombres",
+      "titleRu": "Рыбак человеков",
+      "originalTitle": "A Fisher of Men",
+      "authorId": "r-austin-freeman",
+      "authorName": "R. Austin Freeman",
+      "genres": [
+        "Детектив",
+        "Доктор Торндайк"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-radio-man",
+      "title": "El hombre de la radio",
+      "titleRu": "Человек-радио",
+      "originalTitle": "The Radio Man",
+      "authorId": "ralph-milne-farley",
+      "authorName": "Ralph Milne Farley",
+      "genres": [
+        "Фантастика",
+        "The Radio Man"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-man-on-the-meteor",
+      "title": "El hombre en el meteoro",
+      "titleRu": "Человек на метеорите",
+      "originalTitle": "The Man on the Meteor",
+      "authorId": "ray-cummings",
+      "authorName": "Ray Cummings",
+      "genres": [
+        "Фантастика"
       ],
       "levels": [
         "a2",

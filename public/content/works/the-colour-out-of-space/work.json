@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-colour-out-of-space",
+  "title": "El color del espacio exterior",
+  "titleRu": "Цвет из иных миров",
+  "originalTitle": "The Colour Out of Space",
+  "author": {
+    "id": "h-p-lovecraft",
+    "name": "H. P. Lovecraft"
+  },
+  "genres": [
+    "Фантастика"
+  ],
+  "synopsisRu": "На ферму в Новой Англии падает метеорит невозможного цвета, который начинает пожирать всё живое вокруг. Семья фермера Нейхума Гарднера гибнет одна за другой, пока таинственная сущность, пришедшая из космоса, не улетает обратно к звёздам — оставив после себя лишь серую мёртвую пустошь.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

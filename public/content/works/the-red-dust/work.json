@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-red-dust",
+  "title": "El polvo rojo",
+  "titleRu": "Красная пыль",
+  "originalTitle": "The Red Dust",
+  "author": {
+    "id": "murray-leinster",
+    "name": "Murray Leinster"
+  },
+  "genres": [
+    "Фантастика"
+  ],
+  "synopsisRu": "В далёком будущем, где гигантские насекомые властвуют над Землёй, молодой вождь Бёрл ведёт своё племя через смертоносный лес красных грибов, чьи споры убивают всё живое, — навстречу безопасной долине в горах и новой жизни рядом с любимой Сайей.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
