@@ -1,5 +1,5 @@
 import { Fragment, useCallback, useEffect, useRef, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useNavigate, useParams } from 'react-router-dom'
 import { TopBar } from '../components/TopBar'
 import { ErrorView, Loading } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
@@ -43,15 +43,18 @@ function ChapterNav({
   level: Level
   chapterId: string
 }) {
+  const navigate = useNavigate()
   if (!manifest) return null
   const idx = manifest.chapters.findIndex((c) => c.id === chapterId)
   const prev = idx > 0 ? manifest.chapters[idx - 1] : null
   const next = idx >= 0 && idx < manifest.chapters.length - 1 ? manifest.chapters[idx + 1] : null
 
+  // Листание глав заменяет запись в истории (replace), чтобы кнопка «назад»
+  // всегда возвращала к списку глав, а не к предыдущей главе.
   return (
     <nav className="chapter-nav">
       {prev ? (
-        <Link className="chapter-nav__btn" to={`/read/${workId}/${level}/${prev.id}`}>
+        <Link replace className="chapter-nav__btn" to={`/read/${workId}/${level}/${prev.id}`}>
           ‹ {prev.title}
         </Link>
       ) : (
@@ -59,15 +62,20 @@ function ChapterNav({
       )}
       {next ? (
         <Link
+          replace
           className="chapter-nav__btn chapter-nav__btn--next"
           to={`/read/${workId}/${level}/${next.id}`}
         >
           {next.title} ›
         </Link>
       ) : (
-        <Link className="chapter-nav__btn chapter-nav__btn--next" to={`/work/${workId}`}>
+        <button
+          type="button"
+          className="chapter-nav__btn chapter-nav__btn--next"
+          onClick={() => navigate(-1)}
+        >
           К списку глав ›
-        </Link>
+        </button>
       )}
     </nav>
   )
@@ -165,7 +173,7 @@ export function ReaderPage() {
       <TopBar
         title={work?.title ?? 'Чтение'}
         subtitle={chapter ? `${LEVEL_LABELS[level]} · ${chapter.chapter.title}` : LEVEL_LABELS[level]}
-        backTo={`/work/${workId}`}
+        back
       />
       <div className="reader__progress" aria-hidden="true">
         <div className="reader__progress-fill" style={{ width: `${percent}%` }} />

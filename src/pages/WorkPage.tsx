@@ -82,9 +82,6 @@ export function WorkPage() {
                   ))}
                 </div>
               ) : null}
-              {work.synopsisRu ? (
-                <p className="work-head__synopsis">{work.synopsisRu}</p>
-              ) : null}
             </header>
 
             <section className="block">

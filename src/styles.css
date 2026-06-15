@@ -555,6 +555,10 @@ button {
 .chapter-nav__btn--next {
   text-align: right;
 }
+button.chapter-nav__btn {
+  color: inherit;
+  cursor: pointer;
+}
 
 /* ---------- Настройки ---------- */
 .settings-preview {
