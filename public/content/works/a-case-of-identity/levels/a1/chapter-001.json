@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "a-case-of-identity",
+  "level": "a1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Un caso de identidad"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Sherlock Holmes y Watson están en casa.",
+          "translationRu": "Шерлок Холмс и Ватсон сидят дома."
+        },
+        {
+          "id": "sent-002",
+          "text": "Holmes mira por la ventana.",
+          "translationRu": "Холмс смотрит в окно."
+        },
+        {
+          "id": "sent-003",
+          "text": "Ve a una mujer en la calle.",
+          "translationRu": "Он видит женщину на улице."
+        },
+        {
+          "id": "sent-004",
+          "text": "La mujer entra en la casa.",
+          "translationRu": "Женщина входит в дом."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "La mujer se llama Mary Sutherland.",
+          "translationRu": "Женщину зовут Мэри Сазерленд."
+        },
+        {
+          "id": "sent-006",
+          "text": "Holmes dice: «Usted escribe con una máquina.»",
+          "translationRu": "Холмс говорит: «Вы пишете на машинке.»"
+        },
+        {
+          "id": "sent-007",
+          "text": "Mary pregunta: «¿Cómo lo sabe?»",
+          "translationRu": "Мэри спрашивает: «Как вы это знаете?»"
+        },
+        {
+          "id": "sent-008",
+          "text": "Holmes explica: «Veo las marcas en su ropa.»",
+          "translationRu": "Холмс объясняет: «Я вижу следы на вашей одежде.»"
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Mary tiene un padrastro.",
+          "translationRu": "У Мэри есть отчим."
+        },
+        {
+          "id": "sent-010",
+          "text": "Su nombre es James Windibank.",
+          "translationRu": "Его зовут Джеймс Уиндибэнк."
+        },
+        {
+          "id": "sent-011",
+          "text": "Mary tiene dinero propio: cien libras al año.",
+          "translationRu": "У Мэри есть свои деньги: сто фунтов в год."
+        },
+        {
+          "id": "sent-012",
+          "text": "Windibank usa ese dinero.",
+          "translationRu": "Уиндибэнк пользуется этими деньгами."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Un día Mary va a un baile.",
+          "translationRu": "Однажды Мэри идёт на бал."
+        },
+        {
+          "id": "sent-014",
+          "text": "Allí conoce a un hombre.",
+          "translationRu": "Там она знакомится с мужчиной."
+        },
+        {
+          "id": "sent-015",
+          "text": "Su nombre es Hosmer Angel.",
+          "translationRu": "Его зовут Хосмер Энджел."
+        },
+        {
+          "id": "sent-016",
+          "text": "Hosmer lleva gafas oscuras y habla muy bajo.",
+          "translationRu": "Хосмер носит тёмные очки и говорит очень тихо."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Hosmer escribe cartas a Mary.",
+          "translationRu": "Хосмер пишет письма Мэри."
+        },
+        {
+          "id": "sent-018",
+          "text": "Las cartas son a máquina.",
+          "translationRu": "Письма напечатаны на машинке."
+        },
+        {
+          "id": "sent-019",
+          "text": "La firma también es a máquina.",
+          "translationRu": "Подпись тоже напечатана на машинке."
+        },
+        {
+          "id": "sent-020",
+          "text": "Hosmer quiere casarse con Mary.",
+          "translationRu": "Хосмер хочет жениться на Мэри."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "El día de la boda, Mary va a la iglesia.",
+          "translationRu": "В день свадьбы Мэри едет в церковь."
+        },
+        {
+          "id": "sent-022",
+          "text": "Hosmer no llega.",
+          "translationRu": "Хосмер не приходит."
+        },
+        {
+          "id": "sent-023",
+          "text": "Mary está muy triste.",
+          "translationRu": "Мэри очень расстроена."
+        },
+        {
+          "id": "sent-024",
+          "text": "Ella va a ver a Holmes.",
+          "translationRu": "Она идёт к Холмсу."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "Holmes mira las cartas de Hosmer.",
+          "translationRu": "Холмс смотрит на письма Хосмера."
+        },
+        {
+          "id": "sent-026",
+          "text": "Las cartas y una carta de Windibank son iguales.",
+          "translationRu": "Письма и одно письмо Уиндибэнка — одинаковые."
+        },
+        {
+          "id": "sent-027",
+          "text": "Holmes llama a Windibank.",
+          "translationRu": "Холмс вызывает Уиндибэнка."
+        },
+        {
+          "id": "sent-028",
+          "text": "Windibank viene al día siguiente.",
+          "translationRu": "Уиндибэнк приходит на следующий день."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-029",
+          "text": "Holmes le dice la verdad a Windibank.",
+          "translationRu": "Холмс говорит Уиндибэнку правду."
+        },
+        {
+          "id": "sent-030",
+          "text": "Windibank era Hosmer Angel.",
+          "translationRu": "Уиндибэнк был Хосмером Энджелом."
+        },
+        {
+          "id": "sent-031",
+          "text": "Llevaba gafas y bigote para no ser reconocido.",
+          "translationRu": "Он носил очки и усы, чтобы его не узнали."
+        },
+        {
+          "id": "sent-032",
+          "text": "No quería que Mary se casara con otro hombre.",
+          "translationRu": "Он не хотел, чтобы Мэри вышла замуж за другого."
+        },
+        {
+          "id": "sent-033",
+          "text": "Si Mary se casa, Windibank pierde su dinero.",
+          "translationRu": "Если Мэри выйдет замуж, Уиндибэнк потеряет её деньги."
+        },
+        {
+          "id": "sent-034",
+          "text": "Windibank se va y Holmes no dice nada a Mary.",
+          "translationRu": "Уиндибэнк уходит, а Холмс ничего не говорит Мэри."
+        }
+      ]
+    }
+  ]
+}
