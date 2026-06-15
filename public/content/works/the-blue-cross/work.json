@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-blue-cross",
+  "title": "La cruz azul",
+  "titleRu": "Голубой крест",
+  "originalTitle": "The Blue Cross",
+  "author": {
+    "id": "g-k-chesterton",
+    "name": "G. K. Chesterton"
+  },
+  "genres": [
+    "Детектив",
+    "Отец Браун"
+  ],
+  "synopsisRu": "Знаменитый парижский сыщик Валентин приезжает в Лондон, чтобы поймать преступника-гиганта Фламбо, который под видом священника охотится за сапфировым крестом отца Брауна. Кажущийся беспомощным деревенский священник оказывается куда хитрее, чем думают и Фламбо, и Валентин.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

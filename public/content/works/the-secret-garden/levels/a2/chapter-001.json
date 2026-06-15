@@ -1,0 +1,207 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-secret-garden",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El jardín secreto"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Aristide Valentin era el jefe de la policía de París.",
+          "translationRu": "Аристид Валентен был начальником парижской полиции."
+        },
+        {
+          "id": "sent-002",
+          "text": "Su casa tenía paredes altas y un gran jardín.",
+          "translationRu": "Его дом имел высокие стены и большой сад."
+        },
+        {
+          "id": "sent-003",
+          "text": "El jardín no tenía salida al exterior.",
+          "translationRu": "Из сада не было выхода наружу."
+        },
+        {
+          "id": "sent-004",
+          "text": "Un criado viejo llamado Iván cuidaba la puerta de entrada.",
+          "translationRu": "Старый слуга по имени Иван охранял входную дверь."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Valentin invitó a cenar a muchas personas.",
+          "translationRu": "Валентен пригласил на ужин много людей."
+        },
+        {
+          "id": "sent-006",
+          "text": "Entre los invitados estaba el padre Brown, un sacerdote inglés.",
+          "translationRu": "Среди гостей был отец Браун, английский священник."
+        },
+        {
+          "id": "sent-007",
+          "text": "También estaba el comandante O'Brien, un soldado irlandés.",
+          "translationRu": "Там же был командант О'Брайен, ирландский военный."
+        },
+        {
+          "id": "sent-008",
+          "text": "Y estaba Julius Brayne, un millonario americano.",
+          "translationRu": "И был Юлиус Брейн, американский миллионер."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Después de cenar, Lord Galloway buscó a su hija Margaret.",
+          "translationRu": "После ужина лорд Гэллоуэй стал искать свою дочь Маргарет."
+        },
+        {
+          "id": "sent-010",
+          "text": "Ella caminó cerca del comandante O'Brien y su padre no estaba contento.",
+          "translationRu": "Она общалась с командантом О'Брайеном, и отец был недоволен."
+        },
+        {
+          "id": "sent-011",
+          "text": "Lord Galloway fue al jardín y tropezó con algo en la hierba.",
+          "translationRu": "Лорд Гэллоуэй пошёл в сад и споткнулся о что-то в траве."
+        },
+        {
+          "id": "sent-012",
+          "text": "Era un hombre muerto con la cabeza cortada.",
+          "translationRu": "Это был мёртвый человек с отрубленной головой."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Valentin organizó una investigación en la casa.",
+          "translationRu": "Валентен организовал расследование в доме."
+        },
+        {
+          "id": "sent-014",
+          "text": "Nadie podía salir hasta el día siguiente.",
+          "translationRu": "Никто не мог уйти до следующего дня."
+        },
+        {
+          "id": "sent-015",
+          "text": "El doctor Simon dijo que el muerto no era uno de los invitados.",
+          "translationRu": "Доктор Симон сказал, что мёртвый не был среди гостей."
+        },
+        {
+          "id": "sent-016",
+          "text": "El sable del comandante O'Brien no estaba en su lugar.",
+          "translationRu": "Сабля командanta О'Брайена исчезла со своего места."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Lady Margaret dijo que O'Brien estuvo con ella en el jardín.",
+          "translationRu": "Леди Маргарет заявила, что О'Брайен был с ней в саду."
+        },
+        {
+          "id": "sent-018",
+          "text": "Él le pidió matrimonio, pero ella dijo no.",
+          "translationRu": "Он просил её руки, но она отказала."
+        },
+        {
+          "id": "sent-019",
+          "text": "Después Iván encontró el sable fuera de la casa, con sangre.",
+          "translationRu": "Потом Иван нашёл саблю за домом, в крови."
+        },
+        {
+          "id": "sent-020",
+          "text": "Y Brayne había desaparecido.",
+          "translationRu": "А Брейн исчез."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "Por la mañana encontraron una segunda cabeza en el río.",
+          "translationRu": "Утром нашли вторую голову в реке."
+        },
+        {
+          "id": "sent-022",
+          "text": "El padre Brown miró bien las dos cabezas.",
+          "translationRu": "Отец Браун внимательно осмотрел обе головы."
+        },
+        {
+          "id": "sent-023",
+          "text": "La segunda cabeza era la de Brayne.",
+          "translationRu": "Вторая голова оказалась головой Брейна."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-024",
+          "text": "El padre Brown explicó todo.",
+          "translationRu": "Отец Браун объяснил всё."
+        },
+        {
+          "id": "sent-025",
+          "text": "El asesino puso una cabeza diferente en el cuerpo para engañar a todos.",
+          "translationRu": "Убийца поставил чужую голову на тело, чтобы всех обмануть."
+        },
+        {
+          "id": "sent-026",
+          "text": "La cabeza era de un criminal llamado Becker, ejecutado el día anterior.",
+          "translationRu": "Это была голова преступника по имени Беккер, казнённого накануне."
+        },
+        {
+          "id": "sent-027",
+          "text": "El verdadero asesino era Valentin.",
+          "translationRu": "Настоящим убийцей был Валентен."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "Valentin mató a Brayne porque este quería dar dinero a la Iglesia.",
+          "translationRu": "Валентен убил Брейна, потому что тот хотел пожертвовать деньги Церкви."
+        },
+        {
+          "id": "sent-029",
+          "text": "Valentin era ateo y quería detener eso.",
+          "translationRu": "Валентен был атеистом и хотел этому помешать."
+        },
+        {
+          "id": "sent-030",
+          "text": "Cuando todos fueron al despacho, Valentin ya estaba muerto.",
+          "translationRu": "Когда все вошли в кабинет, Валентен был уже мёртв."
+        },
+        {
+          "id": "sent-031",
+          "text": "Se había envenenado con pastillas.",
+          "translationRu": "Он отравился таблетками."
+        }
+      ]
+    }
+  ]
+}

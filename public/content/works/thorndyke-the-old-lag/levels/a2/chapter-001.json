@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "thorndyke-the-old-lag",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El viejo delincuente"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Una noche de noviembre, el doctor Jervis llegó a su casa.", "translationRu": "В ноябрьский вечер доктор Джервис вернулся домой."},
+        {"id": "sent-002", "text": "El doctor Thorndyke leía una carta junto al fuego.", "translationRu": "Доктор Торндайк читал письмо у камина."},
+        {"id": "sent-003", "text": "Un hombre llamado Belfield pidió ayuda.", "translationRu": "Некий человек по имени Белфилд просил о помощи."},
+        {"id": "sent-004", "text": "La policía le buscaba por un asesinato.", "translationRu": "Полиция разыскивала его по делу об убийстве."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Belfield llegó con una peluca y una barba falsa.", "translationRu": "Белфилд явился в парике и с накладной бородой."},
+        {"id": "sent-006", "text": "Thorndyke lo reconoció sin problema.", "translationRu": "Торндайк без труда его узнал."},
+        {"id": "sent-007", "text": "Belfield dijo que él no mató a nadie.", "translationRu": "Белфилд заявил, что никого не убивал."},
+        {"id": "sent-008", "text": "Antes estuvo en prisión, pero ahora vivía con su esposa.", "translationRu": "Прежде он сидел в тюрьме, но теперь жил честно с женой."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-009", "text": "La policía encontró las huellas de Belfield en la ventana.", "translationRu": "Полиция обнаружила отпечатки Белфилда на окне."},
+        {"id": "sent-010", "text": "El superintendente Miller llegó con una camisa manchada de sangre.", "translationRu": "Суперинтендант Миллер явился с рубашкой, испачканной кровью."},
+        {"id": "sent-011", "text": "Thorndyke escondió a Belfield en la oficina.", "translationRu": "Торндайк спрятал Белфилда в кабинете."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-012", "text": "Thorndyke analizó la mancha: era sangre de ave, no de persona.", "translationRu": "Торндайк исследовал пятно — это была птичья кровь, а не человеческая."},
+        {"id": "sent-013", "text": "Miller le mostró el vidrio con las huellas.", "translationRu": "Миллер показал ему стекло с отпечатками."},
+        {"id": "sent-014", "text": "Thorndyke dijo que esas huellas no eran de Belfield.", "translationRu": "Торндайк заявил, что эти отпечатки не принадлежат Белфилду."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-015", "text": "Thorndyke explicó su razonamiento.", "translationRu": "Торндайк объяснил свои рассуждения."},
+        {"id": "sent-016", "text": "El pulgar no puede dejar huella plana cuando se pone la mano en un vidrio.", "translationRu": "Большой палец не может оставить плоский отпечаток, когда рука прижата к стеклу."},
+        {"id": "sent-017", "text": "Belfield tuvo un accidente y tiene una cicatriz en el dedo.", "translationRu": "Белфилд получил травму, и на его пальце есть шрам."},
+        {"id": "sent-018", "text": "Las huellas en el vidrio no tenían esa cicatriz.", "translationRu": "Отпечатки на стекле этого шрама не имели."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-019", "text": "Thorndyke mostró que las huellas eran falsas, hechas con un sello.", "translationRu": "Торндайк показал, что отпечатки были поддельными — сделанными с помощью штампа."},
+        {"id": "sent-020", "text": "La policía dejó libre a Belfield.", "translationRu": "Полиция отпустила Белфилда."},
+        {"id": "sent-021", "text": "La esposa de Belfield llegó y lloró de alegría.", "translationRu": "Жена Белфилда пришла и расплакалась от радости."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-022", "text": "Al día siguiente, Thorndyke fue con Jervis a la casa del muerto.", "translationRu": "На следующий день Торндайк с Джервисом поехали на место убийства."},
+        {"id": "sent-023", "text": "Encontraron un pañuelo con el nombre de Belfield.", "translationRu": "Там нашли носовой платок с именем Белфилда."},
+        {"id": "sent-024", "text": "Thorndyke sabía que era otra trampa.", "translationRu": "Торндайк понял, что это тоже ловушка."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-025", "text": "Thorndyke fue al zoológico y habló con un guardián de camellos.", "translationRu": "Торндайк отправился в зоопарк и поговорил со смотрителем верблюдов."},
+        {"id": "sent-026", "text": "El guardián se llamaba Woodthorpe.", "translationRu": "Смотрителя звали Вудторп."},
+        {"id": "sent-027", "text": "Belfield dijo que conocía a Woodthorpe de la prisión.", "translationRu": "Белфилд рассказал, что знал Вудторпа по тюрьме."},
+        {"id": "sent-028", "text": "En el zoológico, Belfield le dio su pañuelo a Woodthorpe.", "translationRu": "В зоопарке Белфилд дал Вудторпу свой носовой платок."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-029", "text": "La mancha del pañuelo era sangre de camello.", "translationRu": "Пятно на носовом платке оказалось верблюжьей кровью."},
+        {"id": "sent-030", "text": "Woodthorpe había trabajado en Holloway y tomó las huellas de Belfield.", "translationRu": "Вудторп работал в тюрьме Холлоуэй и снимал отпечатки пальцев Белфилда."},
+        {"id": "sent-031", "text": "Él copió las huellas y las usó para inculpar a Belfield.", "translationRu": "Он скопировал отпечатки и использовал их, чтобы подставить Белфилда."},
+        {"id": "sent-032", "text": "La policía arrestó a Woodthorpe y el caso quedó resuelto.", "translationRu": "Полиция арестовала Вудторпа, и дело было закрыто."}
+      ]
+    }
+  ]
+}

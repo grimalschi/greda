@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "thorndyke-the-old-lag",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El viejo delincuente"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Entre los placeres menores pero genuinamente físicos de la vida, el doctor Jervis clasificaba en lugar preferente esa sensación de bienestar corporal que experimenta quien, tras una noche invernal de lluvia y oscuridad, cruza el umbral de una estancia iluminada por el candor de las lámparas y el crepitar de un buen fuego.", "translationRu": "Среди незначительных, но подлинно телесных удовольствий жизни доктор Джервис отдавал особое место тому ощущению уютного покоя, которое испытываешь, когда после зимней ночи с дождём и мраком переступаешь порог комнаты, залитой мягким светом ламп и согретой потрескивающим огнём."},
+        {"id": "sent-002", "text": "Al entrar en los aposentos del Temple encontró a Thorndyke sumido en la lectura de una carta, y supo por cierto matiz de ensimismamiento en su rostro que estaba sopesando si debía involucrarse en un caso delicado.", "translationRu": "Войдя в комнаты Темпла, он застал Торндайка погружённым в чтение письма и по особому выражению задумчивости на его лице понял, что тот взвешивает, стоит ли браться за щекотливое дело."},
+        {"id": "sent-003", "text": "Un hombre llamado Frank Belfield, con orden de arresto pendiente por asesinato, suplicaba una entrevista y garantía de que podría retirarse en libertad; Thorndyke, consciente de que acceder equivalía a una complicidad moral en la fuga, había respondido que sí.", "translationRu": "Некий Фрэнк Белфилд, против которого был выдан ордер на арест по обвинению в убийстве, умолял о встрече и гарантии беспрепятственного ухода; Торндайк, понимая, что согласие равнозначно моральному соучастию в побеге, тем не менее ответил утвердительно."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "Belfield se presentó con un disfraz tan aparatoso —peluca encendida, barba postiza y unas gafas a través de las cuales era visible que no alcanzaba a ver— que Thorndyke lo reconoció al instante y no tardó en advertirle, con amable ironía, que semejante atuendo no podía sino atraer la atención de todo el cuerpo de policía.", "translationRu": "Белфилд явился в столь нелепом маскараде — пышный парик, накладная борода и очки, через которые явно ничего не видел, — что Торндайк узнал его немедленно и не замó не заметил случая мягко заметить ему, что подобный наряд способен лишь привлечь внимание всей полиции."},
+        {"id": "sent-005", "text": "El visitante, una vez instalado, relató su historia sin ambages: había tenido un pasado de delincuente, pagó su deuda con la sociedad, y fue una mujer —la más honrada y fiel que pudiera imaginarse— quien lo rescató y le buscó trabajo de dependiente en un almacén.", "translationRu": "Усевшись, посетитель без обиняков рассказал свою историю: у него было преступное прошлое, он сполна расплатился с обществом, и именно женщина — честнейшая и преданнейшая, какую только можно вообразить, — спасла его и нашла ему работу клерка на складе."},
+        {"id": "sent-006", "text": "Esa misma mañana, al pasar frente a la comisaría, había reconocido su propia fotografía carcelaria en un edicto 'Se busca': le imputaban el asesinato de Caldwell, en Camberwell.", "translationRu": "В то же утро, проходя мимо полицейского участка, он узнал собственную тюремную фотографию на объявлении «Разыскивается»: ему вменяли убийство Колдуэлла в Кэмберуэлле."},
+        {"id": "sent-007", "text": "Como coartada sólo contaba con su esposa, testigo parco ante cualquier jurado.", "translationRu": "В качестве алиби у него была лишь жена — свидетель, которому никакое жюри не поверит."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-008", "text": "Aún no había terminado Belfield de exponer su situación cuando unos nudillos enérgicos golpearon la puerta exterior: era el superintendente Miller, de Scotland Yard, que traía consigo una camisa con una mancha pardo-rojiza en la manga.", "translationRu": "Белфилд ещё не закончил своего рассказа, когда в наружную дверь энергично постучали: это был суперинтендант Миллер из Скотленд-Ярда с рубашкой, на рукаве которой темнело буровато-красное пятно."},
+        {"id": "sent-009", "text": "Thorndyke, con una flema que sería la envidia de cualquier prestidigitador, hizo que Belfield se encerrara en el cuarto contiguo y salió a recibir al detective como si nada hubiera ocurrido.", "translationRu": "Торндайк с хладнокровием, какому позавидовал бы любой фокусник, велел Белфилду запереться в соседней комнате и вышел встречать детектива с видом, будто ничего не происходит."},
+        {"id": "sent-010", "text": "Acordó con Miller analizar la mancha en una hora a cambio de poder examinar el vidrio con las huellas dactilares y el formulario oficial de Holloway.", "translationRu": "Он договорился с Миллером исследовать пятно за час в обмен на возможность осмотреть стекло с отпечатками пальцев и официальный бланк из Холлоуэя."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-011", "text": "Jervis examinó la mancha con el microscopio y halló eritrocitos de morfología oval con núcleos bien diferenciados, inequívoca señal de sangre de ave.", "translationRu": "Джервис исследовал пятно под микроскопом и обнаружил эритроциты овальной формы с отчётливыми ядрами — неопровержимый признак птичьей крови."},
+        {"id": "sent-012", "text": "Thorndyke estimó que se trataba de sangre de faisán o de gallina doméstica —dato que, al comunicárselo a Miller cuando éste regresó, resultó ser la confirmación exacta de la coartada de otro sospechoso que había alegado haberse manchado manipulando un faisán herido.", "translationRu": "Торндайк установил, что это кровь фазана или домашней курицы — факт, который, когда он сообщил его вернувшемуся Миллеру, оказался именно тем подтверждением алиби другого подозреваемого, заявлявшего, что запачкался кровью раненого фазана."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-013", "text": "Thorndyke inspeccionó a continuación el vidrio con la ayuda de una potente lupa de bolsillo, deteniéndose con especial cuidado sobre la huella del pulgar.", "translationRu": "Затем Торндайк осмотрел стекло с помощью мощной карманной лупы, задержавшись с особым вниманием на отпечатке большого пальца."},
+        {"id": "sent-014", "text": "Su veredicto desconcertó al superintendente: las huellas del vidrio eran idénticas a las del formulario y, precisamente por ello, no podían haber sido estampadas por Belfield.", "translationRu": "Его вывод поверг суперинтенданта в замешательство: отпечатки на стекле идентичны бланку — и именно поэтому они не могли быть оставлены Белфилдом."},
+        {"id": "sent-015", "text": "Señaló dos incongruencias decisivas: la primera, que en el vidrio el pulgar había impreso su superficie palmar, lo cual es anatómicamente imposible cuando una mano se apoya de modo natural sobre una superficie plana; la segunda, que el índice de Belfield lucía desde hacía casi un año una cicatriz producida por un utensilio oxidado, pero las huellas del vidrio mostraban las crestas papilares perfectas, tal como aparecían en el formulario tomado seis años atrás.", "translationRu": "Он указал на два решающих несоответствия: первое — на стекле большой палец отпечатал ладонную поверхность, что анатомически невозможно при естественном прикосновении к плоскости; второе — указательный палец Белфилда почти год носил шрам от заржавевшего инструмента, тогда как отпечатки на стекле показывали нетронутые папиллярные гребни — такие, какими они были на бланке шесть лет назад."},
+        {"id": "sent-016", "text": "Para ilustrarlo sin lugar a equívocos, Thorndyke extrajo de un archivador el sello de gelatina que había fabricado en el caso Hornby y, al presionarlo sobre una tarjeta de visita, obtuvo una huella perfecta e indistinguible de la original.", "translationRu": "Чтобы проиллюстрировать это без тени сомнения, Торндайк достал из архива желатиновый штамп, изготовленный в деле Хорнби, и, прижав его к визитной карточке, получил безупречный отпечаток, неотличимый от подлинника."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-017", "text": "Convencido, Miller retiró la orden de arresto; Belfield salió de la oficina contigua pálido y estupefacto, y su esposa, que llegó en ese momento, rompió a llorar de alivio mientras Thorndyke le decía con media sonrisa que él no era el tipo de hombre que faltara a su palabra.", "translationRu": "Убеждённый, Миллер отозвал ордер на арест; Белфилд вышел из соседней комнаты бледный и ошеломлённый, а его жена, появившаяся в ту же минуту, расплакалась от облегчения, пока Торндайк с полуулыбкой говорил ей, что он не из тех, кто нарушает слово."},
+        {"id": "sent-018", "text": "Al cerrar la puerta tras los Belfield, Thorndyke confió a Jervis que pensaba averiguar quién había intentado arruinar la felicidad de aquella noble mujer.", "translationRu": "Закрыв за Белфилдами дверь, Торндайк признался Джервису, что намерен выяснить, кто пытался разрушить счастье этой благородной женщины."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-019", "text": "A la mañana siguiente, tras comparar con minuciosas mediciones las fotografías de ambas huellas, Thorndyke desveló a Jervis su primera conclusión: el asesino había fabricado los sellos a partir del propio formulario oficial, pues las imperfecciones debidas a un entintado deficiente se reproducían con exactitud milimétrica en el vidrio.", "translationRu": "На следующее утро, скрупулёзно сравнив фотографии обоих комплектов отпечатков, Торндайк раскрыл Джервису первый вывод: убийца изготовил штампы по самому официальному бланку, так как дефекты неравномерного нанесения чернил воспроизводились на стекле с точностью до долей миллиметра."},
+        {"id": "sent-020", "text": "En la casa de Caldwell —antiguo receptor y confidente de la policía, asesinado probablemente porque alguien a quien chantajeaba decidió cortar por lo sano— Thorndyke encontró en la caja fuerte un pañuelo marcado con el nombre 'F. Belfield' y varios objetos procedentes de al menos seis robos distintos, todos de escaso valor pero perfectamente identificables.", "translationRu": "В доме Колдуэлла — бывшего скупщика и полицейского осведомителя, убитого, по всей видимости, потому что кто-то, кого он шантажировал, решил покончить с этим раз и навсегда, — Торндайк обнаружил в сейфе носовой платок с меткой «Ф. Белфилд» и несколько предметов как минимум из шести разных краж, все малоценные, но легко опознаваемые."},
+        {"id": "sent-021", "text": "Era evidente que el asesino había acudido a la cita con premeditación total: traía los sellos para falsificar las huellas, el pañuelo para incriminar a Belfield y los objetos robados para atribuirle además los allanamientos.", "translationRu": "Было очевидно, что убийца явился на встречу с полным умыслом: принёс штампы для подделки отпечатков, платок для подставы Белфилда и краденые предметы, чтобы приписать ему ещё и кражи со взломом."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-022", "text": "Esa tarde, Thorndyke llevó a Jervis al Jardín Zoológico con el pretexto de un paseo, pero su verdadero interés resultó estar concentrado en los establos de los camellos y en las personas que se movían en su entorno.", "translationRu": "В тот же день Торндайк повёл Джервиса в Зоологический сад под видом прогулки, однако его подлинный интерес, как оказалось, был сосредоточен на верблюжьих конюшнях и людях, что около них вращались."},
+        {"id": "sent-023", "text": "Consiguió el nombre de un cuidador aficionado a la fotografía: Joseph Woodthorpe.", "translationRu": "Он узнал имя смотрителя-фотолюбителя: Джозеф Вудторп."},
+        {"id": "sent-024", "text": "Esa misma noche, Belfield confirmó sin saberlo el hilo conductor: Woodthorpe había sido guardián en Holloway —y por tanto fue él quien tomó sus huellas—, y el último lunes de Pascua se habían encontrado en el zoológico, donde Belfield le prestó su pañuelo para vendarle la pata a un camello herido.", "translationRu": "В тот же вечер Белфилд, сам того не зная, подтвердил нить расследования: Вудторп служил надзирателем в Холлоуэе — значит, именно он снимал его отпечатки, — а в последний понедельник Пасхи они встретились в зоопарке, где Белфилд одолжил ему платок, чтобы перевязать раненую ногу верблюда."},
+        {"id": "sent-025", "text": "Woodthorpe se lo devolvió limpio y bien doblado, pero Belfield no lo examinó y lo depositó directamente en el cesto de la ropa sucia: sin duda era un pañuelo distinto, marcado también con su nombre.", "translationRu": "Вудторп вернул его чистым и аккуратно сложенным, но Белфилд не стал его рассматривать и бросил прямо в корзину для грязного белья: без сомнения, это был другой платок, тоже помеченный его именем."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-026", "text": "El análisis microscópico del pañuelo reveló que la mancha era sangre de camello, reconocible por una característica única entre los mamíferos: los camellos poseen glóbulos rojos elípticos en lugar de circulares.", "translationRu": "Микроскопический анализ платка показал, что пятно — кровь верблюда, опознаваемая по уникальному среди млекопитающих признаку: у верблюдовых эритроциты эллиптические, а не круглые."},
+        {"id": "sent-027", "text": "Pero la pieza más devastadora era la fotografía del formulario oficial de Holloway: al pie se leía 'Impresiones tomadas por Joseph Woodthorpe, guardián, prisión de Holloway'.", "translationRu": "Но самой убийственной уликой стала фотография официального бланка из Холлоуэя: внизу значилось: «Отпечатки сняты Джозефом Вудторпом, надзирателем тюрьмы Холлоуэй»."},
+        {"id": "sent-028", "text": "Thorndyke reconstruyó el método: Woodthorpe, fotógrafo hábil, fotografió el formulario con una cámara de mano, fabricó sellos de goma o gelatina y los usó para plantar en el ventanal de Caldwell unas huellas perfectas de Belfield, mientras asesinaba al chantajista que le tenía atrapado.", "translationRu": "Торндайк восстановил метод: Вудторп, умелый фотограф, заснял бланк ручной камерой, изготовил резиновые или желатиновые штампы и с их помощью оставил на окне Колдуэлла безупречные «отпечатки» Белфилда, одновременно убив шантажиста, державшего его в своих руках."},
+        {"id": "sent-029", "text": "Cuando la policía registró el cuarto de Woodthorpe, encontró los sellos de huellas y un archivo de fotografías de formularios oficiales; su culpabilidad quedó establecida sin asomo de duda y la sociedad se vio libre de un indeseable.", "translationRu": "Когда полиция обыскала комнату Вудторпа, там обнаружили штампы с отпечатками и целый архив фотографий официальных бланков; его вина была доказана вне всяких сомнений, и общество избавилось от весьма нежелательного члена."},
+        {"id": "sent-030", "text": "Al cerrar el caso, Thorndyke enunció la lección que extraía: el valor evidencial de un hecho cualquiera es una magnitud desconocida hasta que ese hecho ha sido examinado, una verdad que parece obvia pero que la práctica cotidiana traiciona constantemente.", "translationRu": "Закрывая дело, Торндайк сформулировал извлечённый урок: доказательственная ценность любого факта остаётся величиной неизвестной, пока этот факт не исследован, — истина, кажущаяся очевидной, но которую повседневная практика непрестанно предаёт."}
+      ]
+    }
+  ]
+}

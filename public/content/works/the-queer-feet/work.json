@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-queer-feet",
+  "title": "Los Pasos Extraños",
+  "titleRu": "Странные шаги",
+  "originalTitle": "The Queer Feet",
+  "author": {
+    "id": "g-k-chesterton",
+    "name": "G. K. Chesterton"
+  },
+  "genres": [
+    "Детектив",
+    "Отец Браун"
+  ],
+  "synopsisRu": "Отец Браун, оказавшись в роскошном отеле, замечает странные шаги в коридоре и разгадывает хитрый план Фламбо — похитить серебряные приборы аристократического клуба, попеременно притворяясь то официантом, то гостем.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
