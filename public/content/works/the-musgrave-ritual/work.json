@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-musgrave-ritual",
+  "title": "El ritual de los Musgrave",
+  "titleRu": "Ритуал Масгрейвов",
+  "originalTitle": "The Musgrave Ritual",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс расследует двойное исчезновение в старинном поместье Хёрлстон: дворецкий Брантон и служанка Рейчел Хауэлс пропадают после того, как Брантон тайно изучает загадочный родовой ритуал. Разгадав зашифрованное послание XVII века, Холмс обнаруживает скрытую погреб-камеру, мертвеца и тайну, хранившуюся со времён казни короля Карла I.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-greek-interpreter",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El intérprete griego"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "En el transcurso de mi larga e íntima amistad con el señor Sherlock Holmes, nunca lo había oído hacer referencia alguna a sus allegados ni, apenas, a su propia vida pasada.", "translationRu": "За долгие годы нашей близкой дружбы с господином Шерлоком Холмсом я ни разу не слышал, чтобы он упоминал кого-либо из родных или говорил о собственном прошлом."},
+        {"id": "sent-002", "text": "Esta reticencia contribuía a acentuar el efecto casi inhumano que producía en mí, hasta el punto de que a veces lo contemplaba como un fenómeno aislado, un cerebro sin corazón.", "translationRu": "Эта молчаливость лишь усиливала то почти нечеловеческое впечатление, которое он производил на меня, — порой я смотрел на него как на явление особого рода, разум без сердца."},
+        {"id": "sent-003", "text": "Por eso fue para mí una enorme sorpresa cuando, en el transcurso de una velada estival, comenzó a hablarme de su hermano Mycroft.", "translationRu": "Тем большим сюрпризом стало для меня, когда однажды летним вечером он вдруг заговорил о своём брате Майкрофте."},
+        {"id": "sent-004", "text": "Holmes sostenía con su característica precisión que Mycroft superaba incluso sus propias facultades de observación y deducción, aunque era absolutamente incapaz de llevar a la práctica ningún caso, pues le faltaban la energía y la ambición necesarias.", "translationRu": "Холмс с присущей ему точностью утверждал, что Майкрофт превосходит даже его собственные способности к наблюдению и дедукции, однако совершенно не способен доводить дела до конца — ему недоставало нужных для этого энергии и честолюбия."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Aquella misma tarde nos encaminamos al Club Diógenes, institución singular que Holmes describió como el lugar más insólito de Londres.", "translationRu": "В тот же вечер мы направились в клуб Диоген — странное заведение, которое Холмс назвал самым необычным местом в Лондоне."},
+        {"id": "sent-006", "text": "Fundado para los hombres más huraños e insociables de la ciudad, el club imponía un silencio absoluto en todas sus dependencias salvo en la Sala de Visitas, so pena de expulsión.", "translationRu": "Основанный для самых нелюдимых и необщительных людей города, клуб требовал абсолютного молчания во всех своих помещениях, кроме Гостиной, — под угрозой исключения."},
+        {"id": "sent-007", "text": "Mycroft Holmes resultó ser un hombre mucho más corpulento que su hermano, de rostro macizo que conservaba, sin embargo, aquella agudeza de expresión que distinguía al menor de los dos; sus ojos grises y acuosos parecían contemplar siempre horizontes lejanos.", "translationRu": "Майкрофт Холмс оказался значительно более грузным мужчиной, чем его брат, с массивным лицом, сохранявшим, однако, ту остроту выражения, которая отличала младшего из них; его водянистые серые глаза, казалось, всегда смотрели в дальние дали."},
+        {"id": "sent-008", "text": "Los dos hermanos se entretuvieron en deducir la historia completa de un transeúnte que pasaba ante la ventana del club, ofreciéndonos una demostración tan brillante como improvisada del método deductivo.", "translationRu": "Оба брата развлеклись тем, что по одному лишь виду прохожего, миновавшего окно клуба, восстановили всю его историю — блестящая и непринуждённая демонстрация дедуктивного метода."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-009", "text": "Fue entonces cuando Mycroft nos presentó a su vecino de piso, el señor Melas, intérprete oficial de griego en los tribunales y guía de viajeros orientales.", "translationRu": "Именно тогда Майкрофт познакомил нас со своим соседом по этажу — господином Меласом, официальным переводчиком с греческого в судах и гидом для восточных путешественников."},
+        {"id": "sent-010", "text": "El hombre, de tez olivácea y cabellos azabaches que proclamaban su origen meridional, llegó visiblemente perturbado y nos relató con voz trémula lo ocurrido dos noches antes.", "translationRu": "Смуглый, чернокудрый мужчина, чья внешность свидетельствовала о южном происхождении, пришёл явно взволнованным и дрожащим голосом поведал нам о том, что случилось двумя ночами ранее."},
+        {"id": "sent-011", "text": "Un tal Harold Latimer, joven de aspecto distinguido, se había presentado en su casa para requerir sus servicios; afirmaba tener un huésped griego que no hablaba ningún otro idioma.", "translationRu": "Некий Гарольд Латимер, молодой человек изысканной внешности, явился к нему домой с просьбой оказать услуги: он утверждал, что у него гостит грек, не говорящий ни на каком другом языке."},
+        {"id": "sent-012", "text": "Nada más subir al carruaje, Latimer extrajo una intimidante porra cargada de plomo, cubrió las ventanas con papel para impedir toda visibilidad y dejó muy claro que cualquier resistencia resultaría inútil.", "translationRu": "Едва они сели в карету, Латимер достал устрашающую свинцовую дубину, закрыл окна бумагой, лишив возможности что-либо видеть, и дал понять, что любое сопротивление бесполезно."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-013", "text": "El trayecto se prolongó casi dos horas, en las que Melas no pudo formarse la menor idea de su destino.", "translationRu": "Поездка продолжалась почти два часа, и всё это время Мелас не мог составить ни малейшего представления о том, куда они едут."},
+        {"id": "sent-014", "text": "La casa a la que llegaron era amplia y mal iluminada; un hombre de mediana edad de aspecto nervioso y risas cortas e inquietantes los aguardaba en el interior.", "translationRu": "Дом, к которому они прибыли, был просторным и плохо освещённым; внутри их ждал нервозный мужчина средних лет с короткими тревожными смешками."},
+        {"id": "sent-015", "text": "En una sala de evidente lujo, sumida en la penumbra, hallaron a un hombre terriblemente demacrado, de ojos brillantes y fiebres espirituales, con el rostro grotescamente recubierto de esparadrapos y la boca sellada.", "translationRu": "В роскошной, но погружённой в полумрак комнате они обнаружили страшно истощённого мужчину с горящими глазами и лихорадочным духом — лицо его было гротескно покрыто пластырями, а рот заклеен."},
+        {"id": "sent-016", "text": "Le habían dado una pizarra para que pudiera escribir, pues sus manos, al menos, quedaban libres.", "translationRu": "Ему дали грифельную доску для письма — руки его, по крайней мере, были свободны."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-017", "text": "Los dos carceleros exigían que Melas le preguntara si estaba dispuesto a suscribir los documentos que cedían su fortuna y la de su hermana.", "translationRu": "Оба тюремщика требовали, чтобы Мелас спросил его, готов ли он подписать документы о передаче его состояния и состояния сестры."},
+        {"id": "sent-018", "text": "La respuesta del prisionero fue invariable: «¡Nunca!», o bien: «Solo si la veo casada ante un sacerdote griego de mi confianza.»", "translationRu": "Ответ заключённого оставался неизменным: «Никогда!» — или: «Только если увижу, что она обвенчана перед знакомым мне греческим священником»."},
+        {"id": "sent-019", "text": "Con una astucia que lo honra, Melas empezó a introducir subrepticiamente sus propias preguntas en griego entre las que le dictaban sus captores, confiando en que estos ignoraran la lengua.", "translationRu": "Проявив хитрость, делающую ему честь, Мелас начал тайно вставлять собственные вопросы по-гречески среди тех, что ему диктовали похитители, надеясь, что те не знают языка."},
+        {"id": "sent-020", "text": "Así obtuvo que el hombre le revelara su nombre —Kratides—, su origen ateniense, el tiempo que llevaba preso —tres semanas— y el cruel sistema de inanición al que lo sometían.", "translationRu": "Так ему удалось узнать имя мужчины — Кратидес, — его афинское происхождение, срок заключения — три недели — и жестокое голодание, которому его подвергали."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-021", "text": "Estaba a punto de obtener información decisiva cuando la puerta se abrió y entró una mujer alta y esbelta, de cabellos negros y bata blanca, que hablaba inglés con acento extranjero.", "translationRu": "Он был уже близок к тому, чтобы получить решающие сведения, когда дверь отворилась и вошла высокая стройная женщина с чёрными волосами в белом халате — она говорила по-английски с иностранным акцентом."},
+        {"id": "sent-022", "text": "Al posarse su mirada en el prisionero exclamó en griego: «¡Dios mío, es Paul!», poniendo de manifiesto que era la hermana del cautivo, Sophy Kratides.", "translationRu": "Когда её взгляд упал на заключённого, она воскликнула по-гречески: «Боже мой, это Пол!» — раскрыв тем самым, что она сестра узника, Соффи Кратидес."},
+        {"id": "sent-023", "text": "Kratides se arrancó el esparadrapo de la boca con un esfuerzo convulsivo y gritó su nombre antes de que los dos carceleros intervinieran brutalmente para separarlos.", "translationRu": "Кратидес судорожным усилием сорвал пластырь с губ и крикнул её имя прежде, чем оба тюремщика грубо вмешались и разлучили их."},
+        {"id": "sent-024", "text": "El episodio revelaba que Sophy ignoraba la presencia de su hermano en la casa y que ella misma se hallaba en una situación de cautiverio encubierto.", "translationRu": "Произошедшее свидетельствовало о том, что Соффи не знала о присутствии брата в доме и что она сама находилась в замаскированном заточении."},
+        {"id": "sent-025", "text": "Melas fue devuelto al carruaje y abandonado en Wandsworth Common pasada la medianoche, con la amenaza de que el silencio era su única garantía de vida.", "translationRu": "Меласа вернули в карету и бросили на Уондсвортском пустыре после полуночи с предупреждением, что молчание — единственная его гарантия жизни."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-026", "text": "Holmes reconstruyó el caso con brillante celeridad: Sophy, joven griega de familia acomodada, había sido seducida por Latimer durante una estancia en Inglaterra y había huido con él.", "translationRu": "Холмс с блестящей быстротой восстановил картину преступления: Соффи, молодая гречанка из состоятельной семьи, была соблазнена Латимером во время пребывания в Англии и сбежала с ним."},
+        {"id": "sent-027", "text": "Paul, su hermano y posiblemente administrador de la fortuna familiar, había cruzado el mar desde Atenas para recuperarla, pero Latimer y su cómplice Wilson Kemp —hombre de los antecedentes más ignominiosos— lo habían capturado y lo torturaban metódicamente.", "translationRu": "Пол, её брат и, по всей видимости, управляющий семейным состоянием, переплыл море из Афин, чтобы вернуть её, но Латимер и его сообщник Уилсон Кемп — человек с самым гнусным прошлым — захватили его и методично пытали."},
+        {"id": "sent-028", "text": "Los esparadrapos en el rostro tenían un doble propósito: dificultar el reconocimiento por parte de su hermana y suprimir todo intento de comunicación verbal.", "translationRu": "Пластыри на лице служили двойной цели: затруднить опознание со стороны сестры и пресечь любую попытку словесного общения."},
+        {"id": "sent-029", "text": "Mycroft había publicado un anuncio en la prensa buscando a los Kratides, y aquella misma noche recibieron una respuesta que situaba a Sophy en The Myrtles, Beckenham.", "translationRu": "Майкрофт дал объявление в прессу с поиском Кратидесов, и той же ночью они получили ответ, указывавший местонахождение Соффи: «Миртл», Бекенхэм."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-030", "text": "Pero cuando fueron a recoger a Melas para que los acompañara como intérprete, la patrona de su pensión les informó de que hacía apenas un momento se lo habían llevado en carruaje un caballero de baja estatura, gafas y risa perpetua.", "translationRu": "Но когда они пришли за Меласом, чтобы взять его с собой переводчиком, хозяйка его пансиона сообщила, что буквально только что его увёз в карете невысокий господин в очках с неизменной улыбкой на лице."},
+        {"id": "sent-031", "text": "Era Kemp: habían vuelto a capturarlo para una segunda sesión de interrogatorio forzado, y probablemente para silenciarlo.", "translationRu": "Это был Кемп: они снова захватили его для второго сеанса принудительного допроса — и, по всей видимости, чтобы заставить замолчать навсегда."},
+        {"id": "sent-032", "text": "Holmes, Watson, Mycroft y el inspector Gregson partieron inmediatamente hacia Beckenham.", "translationRu": "Холмс, Ватсон, Майкрофт и инспектор Грегсон немедленно выехали в Бекенхэм."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-033", "text": "The Myrtles estaba sumida en la oscuridad; Holmes observó en el barro las rodadas de un carruaje pesadamente cargado que había partido poco antes: los pájaros habían volado.", "translationRu": "«Миртл» была погружена во тьму; Холмс заметил в грязи следы тяжело нагруженного экипажа, уехавшего незадолго до их прибытия: птицы улaron."},
+        {"id": "sent-034", "text": "Forzaron una ventana y penetraron en la casa; los lamentos que provenían del piso superior los condujeron hasta una puerta cerrada por fuera.", "translationRu": "Они взломали окно и проникли в дом; стоны, доносившиеся сверху, привели их к двери, запертой снаружи."},
+        {"id": "sent-035", "text": "Al abrirla, Holmes retrocedió de golpe ante una bocanada de un gas asfixiante: en el centro del cuarto ardía suavemente un trípode de bronce con carbón.", "translationRu": "Открыв её, Холмс резко отступил, получив в лицо волну удушливого газа: в центре комнаты тихо тлела бронзовая жаровня с углём."},
+        {"id": "sent-036", "text": "Con singular valentía, entró de nuevo, arrojó el brasero por la ventana y entre todos sacaron a rastras a dos figuras insensibles hasta el pasillo.", "translationRu": "С редкостной отвагой он снова вошёл, выбросил жаровню в окно, и все вместе они на руках вынесли два безжизненных тела в коридор."},
+        {"id": "sent-037", "text": "Uno era Melas, esposado y con la señal de un violento golpe sobre el ojo; el otro era Kratides, en el estadio final de la consunción.", "translationRu": "Один был Мелас — в наручниках, с синяком от сильного удара над глазом; другой — Кратидес, в последней стадии истощения."},
+        {"id": "sent-038", "text": "Watson logró devolverle la vida a Melas mediante amoníaco y brandy; Kratides, en cambio, había cruzado ya ese umbral del que no se regresa.", "translationRu": "Ватсону удалось вернуть Меласа к жизни с помощью нашатыря и бренди; Кратидес же уже переступил тот порог, за которым не возвращаются."}
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {"id": "sent-039", "text": "Los villanos, sabedores de que su secreto había sido traicionado por el anuncio en los periódicos, habían huido con Sophy horas antes, cargando el carruaje con el equipaje de una casa alquilada que abandonaban para siempre.", "translationRu": "Злодеи, зная, что их тайна раскрыта благодаря газетному объявлению, сбежали с Соффи за несколько часов до этого, нагрузив карету вещами из снятого дома, который они покидали навсегда."},
+        {"id": "sent-040", "text": "Meses después llegó a Baker Street desde Budapest un recorte de prensa: dos ingleses que viajaban en compañía de una mujer habían sido hallados apuñalados; la policía húngara presumía que habían disputado entre sí con desenlace fatal.", "translationRu": "Спустя несколько месяцев в Бейкер-стрит пришла газетная вырезка из Будапешта: двое англичан, путешествовавших в сопровождении женщины, были найдены заколотыми насмерть; венгерская полиция предполагала, что они поспорили между собой с роковым исходом."},
+        {"id": "sent-041", "text": "Holmes, sin embargo, es de distinta opinión, y guarda el convencimiento de que, si algún día se encontrase a la joven griega, se sabría por fin de qué manera quedaron satisfechos los agravios perpetrados contra ella y contra su hermano.", "translationRu": "Холмс, однако, думает иначе и твёрдо убеждён: если когда-нибудь удастся найти молодую гречанку, наконец станет известно, каким образом были искуплены обиды, нанесённые ей и её брату."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-reigate-squires",
+  "level": "b2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Los hacendados de Reigate"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Tras haber resuelto brillantemente el caso de la Compañía Holanda-Sumatra, Sherlock Holmes quedó tan agotado que cayó gravemente enfermo en Lyon.", "translationRu": "После блестящего раскрытия дела голландско-суматранской компании Шерлок Холмс был так истощён, что тяжело заболел в Лионе."},
+        {"id": "sent-002", "text": "El doctor Watson acudió a buscarlo y, al encontrarlo postrado en una profunda depresión nerviosa, decidió llevarlo a descansar al campo.", "translationRu": "Доктор Ватсон поспешил к нему и, застав его в состоянии глубокой нервной депрессии, решил отвезти его отдыхать за город."},
+        {"id": "sent-003", "text": "El destino elegido fue la casa del coronel Hayter, un viejo amigo de Watson, situada cerca de Reigate, en Surrey.", "translationRu": "Местом назначения стал дом полковника Хейтера, старого друга Ватсона, расположенный неподалёку от Рейгейта в Суррее."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "La primera noche, mientras los tres conversaban en la sala de armas, el coronel mencionó que la casa del señor Acton había sido asaltada y que los ladrones se habían llevado una extraña colección de objetos sin valor aparente.", "translationRu": "В первый вечер, пока трое беседовали в оружейной комнате, полковник упомянул, что дом мистера Эктона был ограблен и воры унесли странную коллекцию предметов, не имеющих видимой ценности."},
+        {"id": "sent-005", "text": "Holmes mostró curiosidad, pero Watson logró desviar la conversación hacia temas más tranquilos, preocupado por la salud de su amigo.", "translationRu": "Холмс выказал любопытство, но Ватсон, беспокоясь о здоровье друга, сумел перевести разговор на более мирные темы."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-006", "text": "A la mañana siguiente, el mayordomo irrumpió con la noticia de que habían matado a tiros al cochero William Kirwan junto a la puerta trasera de la propiedad de los Cunningham.", "translationRu": "На следующее утро дворецкий ворвался с вестью о том, что кучер Уильям Кирван был застрелен у задней двери поместья Каннингемов."},
+        {"id": "sent-007", "text": "El inspector Forrester llegó pronto para solicitar la colaboración de Holmes, y le mostró el indicio clave: un trozo de papel hallado entre los dedos del muerto.", "translationRu": "Инспектор Форрестер быстро явился, чтобы привлечь Холмса к расследованию, и показал ему главную улику: клочок бумаги, найденный в пальцах убитого."},
+        {"id": "sent-008", "text": "El papel contenía una cita para las doce menos cuarto, la hora exacta del crimen, lo que sugería que alguien había atraído a William hasta allí deliberadamente.", "translationRu": "Бумага содержала встречу на без четверти двенадцать — точное время преступления, что говорило о том, что кто-то намеренно заманил Уильяма туда."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-009", "text": "Holmes examinó el papel con una concentración que hacía brillar sus ojos igual que antes de su enfermedad.", "translationRu": "Холмс изучал бумагу с такой сосредоточенностью, что его глаза блестели так же, как до болезни."},
+        {"id": "sent-010", "text": "Observó que estaba escrito por dos personas que alternaban palabras: una con trazo firme y otra con letra más temblorosa, lo que delataba diferencia de edad.", "translationRu": "Он заметил, что записку писали двое, чередуя слова: один — твёрдым почерком, другой — более дрожащим, что выдавало разницу в возрасте."},
+        {"id": "sent-011", "text": "Además, ambas manos compartían ciertos rasgos hereditarios que apuntaban a que los autores eran parientes.", "translationRu": "Кроме того, оба почерка имели общие наследственные черты, указывавшие на то, что авторы состоят в родстве."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-012", "text": "Al visitar la escena del crimen, Holmes descubrió que la distancia desde la que se disparó hacía imposible la versión de los Cunningham, según la cual el asesino y la víctima habían forcejeado.", "translationRu": "Осматривая место преступления, Холмс выяснил, что расстояние, с которого был произведён выстрел, делало невозможной версию Каннингемов о борьбе убийцы с жертвой."},
+        {"id": "sent-013", "text": "Tampoco había huellas de barro en la zanja que supuestamente cruzó el asesino al huir, lo cual demostraba que nunca hubo ningún extraño.", "translationRu": "В канаве, которую якобы пересёк убийца при побеге, также не было следов грязи — это доказывало, что никакого чужака не было."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-014", "text": "Para conseguir el resto del papel que Alec Cunningham debía de haber guardado, Holmes ideó una serie de maniobras de distracción.", "translationRu": "Чтобы добраться до остатка записки, которую Алек Каннингем должен был припрятать, Холмс придумал ряд отвлекающих манёвров."},
+        {"id": "sent-015", "text": "Primero simuló un ataque de nervios para que el inspector no revelara la importancia del papel ante los sospechosos.", "translationRu": "Сначала он сыграл нервный припадок, чтобы инспектор не раскрыл сопернику важность бумаги."},
+        {"id": "sent-016", "text": "Luego logró que el viejo Cunningham escribiera la palabra «twelve» para comparar su letra.", "translationRu": "Затем добился, чтобы старый Каннингем написал слово «twelve», и сравнил его почерк."},
+        {"id": "sent-017", "text": "Finalmente, volcó una bandeja de fruta para distraer a todos y escabullirse al cuarto de vestir de Alec.", "translationRu": "Наконец, опрокинул поднос с фруктами, чтобы отвлечь всех и прокрасться в гардеробную Алека."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-018", "text": "Allí encontró en el bolsillo del albornoz el trozo de papel que faltaba, pero los dos Cunningham lo descubrieron antes de que pudiera escapar.", "translationRu": "Там он нашёл в кармане халата недостающий клочок бумаги, но оба Каннингема застигли его прежде, чем он успел скрыться."},
+        {"id": "sent-019", "text": "Padre e hijo lo atacaron furiosamente, y Holmes estuvo al borde de ser asesinado.", "translationRu": "Отец и сын яростно набросились на него, и Холмс оказался на грани гибели."},
+        {"id": "sent-020", "text": "Watson, el coronel y el inspector, alertados por sus gritos, irrumpieron a tiempo para liberarlo y detener a los culpables.", "translationRu": "Ватсон, полковник и инспектор, услышав его крики, вбежали вовремя, чтобы освободить его и задержать виновных."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-021", "text": "Más tarde, Holmes explicó con detalle los motivos del crimen.", "translationRu": "Позже Холмс подробно объяснил мотивы преступления."},
+        {"id": "sent-022", "text": "Los Cunningham estaban enzarzados en un largo litigio con su vecino Acton, que reclamaba la mitad de su propiedad.", "translationRu": "Каннингемы были втянуты в долгую тяжбу с соседом Эктоном, претендовавшим на половину их имения."},
+        {"id": "sent-023", "text": "Para destruir un documento clave guardado en la biblioteca de Acton, habían simulado un robo, llevándose objetos sin valor para disimular sus verdaderas intenciones.", "translationRu": "Чтобы уничтожить ключевой документ, хранившийся в библиотеке Эктона, они инсценировали кражу, унося бесценные предметы, чтобы скрыть свои истинные намерения."},
+        {"id": "sent-024", "text": "El cochero William los había seguido aquella noche y, conociendo su secreto, los chantajeó.", "translationRu": "Кучер Уильям следил за ними той ночью и, узнав их тайну, начал шантажировать их."},
+        {"id": "sent-025", "text": "Alec Cunningham aprovechó el clima de inseguridad que reinaba en la zona para cometer el asesinato y hacerlo pasar por un nuevo robo.", "translationRu": "Алек Каннингем воспользовался атмосферой страха перед кражами в округе, чтобы совершить убийство и выдать его за очередное ограбление."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-026", "text": "Holmes concluyó que, si hubieran recogido todo el papel del muerto y prestado más atención a los detalles, tal vez nunca se hubiera levantado ninguna sospecha contra ellos.", "translationRu": "Холмс заключил, что если бы они забрали весь клочок бумаги у убитого и уделили больше внимания деталям, возможно, подозрение никогда бы не пало на них."},
+        {"id": "sent-027", "text": "Watson reconoció que su amigo había logrado lo imposible: resolver el caso sin moverse del campo de descanso.", "translationRu": "Ватсон признал, что его друг совершил невозможное: раскрыл дело, не покидая загородного отдыха."}
+      ]
+    }
+  ]
+}

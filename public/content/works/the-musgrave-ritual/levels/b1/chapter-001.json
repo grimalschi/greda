@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-musgrave-ritual",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El ritual de los Musgrave"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Una noche de invierno, Sherlock Holmes sacó una caja de hojalata del dormitorio.", "translationRu": "Зимним вечером Шерлок Холмс вынес из спальни жестяную коробку."},
+        {"id": "sent-002", "text": "Dentro había objetos curiosos: una llave antigua, un palo con un cordel y unas monedas oxidadas.", "translationRu": "Внутри лежали странные предметы: старинный ключ, палочка с верёвкой и проржавевшие монеты."},
+        {"id": "sent-003", "text": "Holmes le explicó a Watson que esos objetos eran los restos de un caso muy singular.", "translationRu": "Холмс объяснил Ватсону, что эти предметы — остатки одного необычного дела."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "Años antes, su antiguo compañero de universidad Reginald Musgrave vino a visitarle.", "translationRu": "Несколько лет назад его старый университетский товарищ Реджинальд Масгрейв пришёл к нему."},
+        {"id": "sent-005", "text": "Era dueño de Hurlstone, una mansión muy antigua en Sussex.", "translationRu": "Он был владельцем Хёрлстона — очень старинного поместья в Суссексе."},
+        {"id": "sent-006", "text": "Musgrave le contó que pasaban cosas muy extrañas en su casa y que la policía no podía resolverlas.", "translationRu": "Масгрейв рассказал, что в его доме происходят очень странные вещи, с которыми полиция не может разобраться."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-007", "text": "El mayordomo Brunton era un hombre inteligente y elegante que llevaba veinte años en la familia.", "translationRu": "Дворецкий Брантон был умным и представительным человеком, прослужившим в семье двадцать лет."},
+        {"id": "sent-008", "text": "Una noche Musgrave no podía dormir, y cuando bajó al piso inferior, vio luz en la biblioteca.", "translationRu": "Однажды ночью Масгрейв не мог заснуть и, спустившись на нижний этаж, увидел свет в библиотеке."},
+        {"id": "sent-009", "text": "Brunton estaba sentado con un papel antiguo de la familia y estudiaba un mapa en secreto.", "translationRu": "Брантон сидел со старым семейным документом и тайно изучал какую-то карту."},
+        {"id": "sent-010", "text": "Musgrave le dijo que tenía que marcharse en una semana porque había traicionado su confianza.", "translationRu": "Масгрейв сказал ему, что тот должен уйти через неделю, поскольку предал его доверие."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-011", "text": "Tres días después, Brunton desapareció sin dejar rastro.", "translationRu": "Три дня спустя Брантон бесследно исчез."},
+        {"id": "sent-012", "text": "Su ropa, su dinero y sus botas seguían en su habitación, pero él no estaba.", "translationRu": "Его одежда, деньги и ботинки остались в комнате, а сам он пропал."},
+        {"id": "sent-013", "text": "La criada Rachel Howells, que antes había amado a Brunton, también desapareció poco después.", "translationRu": "Служанка Рейчел Хауэлс, которая прежде любила Брантона, тоже вскоре исчезла."},
+        {"id": "sent-014", "text": "En el lago cercano encontraron una bolsa con unos metales oscuros y unas piedras apagadas.", "translationRu": "В ближайшем озере нашли сумку с потемневшими металлическими предметами и тусклыми камнями."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-015", "text": "Holmes quiso ver el papel que Brunton había leído: el Ritual de los Musgrave.", "translationRu": "Холмс захотел увидеть бумагу, которую читал Брантон, — Ритуал Масгрейвов."},
+        {"id": "sent-016", "text": "Era un texto antiguo del siglo XVII con preguntas y respuestas sobre el sol, un roble y un olmo.", "translationRu": "Это был старинный текст XVII века с вопросами и ответами о солнце, дубе и вязе."},
+        {"id": "sent-017", "text": "El ritual también indicaba cuántos pasos había que dar en cada dirección para llegar a un lugar oculto.", "translationRu": "Ритуал также указывал, сколько шагов нужно сделать в каждом направлении, чтобы добраться до тайного места."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-018", "text": "Holmes viajó con Musgrave a Hurlstone y empezó a investigar el jardín.", "translationRu": "Холмс отправился с Масгрейвом в Хёрлстон и приступил к изучению сада."},
+        {"id": "sent-019", "text": "Usó una vara de seis pies para calcular la sombra que habría proyectado el olmo antes de que lo cortaran.", "translationRu": "Он использовал шестифутовый прут, чтобы вычислить тень, которую отбрасывал вяз до его рубки."},
+        {"id": "sent-020", "text": "Siguió los pasos indicados en el ritual y llegó hasta la puerta de la parte antigua de la casa.", "translationRu": "Следуя шагам, указанным в ритуале, он дошёл до двери в старую часть дома."},
+        {"id": "sent-021", "text": "El texto decía «y debajo», así que bajaron al sótano.", "translationRu": "В тексте говорилось «и под», поэтому они спустились в подвал."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-022", "text": "En el sótano encontraron los troncos de madera apartados y una piedra plana con un anillo de hierro.", "translationRu": "В подвале они обнаружили отодвинутые деревянные поленья и плоский камень с железным кольцом."},
+        {"id": "sent-023", "text": "Con ayuda de la policía levantaron la piedra y encontraron una cámara subterránea.", "translationRu": "С помощью полиции они подняли камень и нашли подземную камеру."},
+        {"id": "sent-024", "text": "Dentro había una caja vieja con llave y el cuerpo muerto de Brunton, doblado sobre la tapa.", "translationRu": "Внутри находился старинный сундук с ключом и мёртвое тело Брантона, склонившегося над крышкой."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-025", "text": "Holmes reconstruyó lo que había ocurrido.", "translationRu": "Холмс восстановил картину произошедшего."},
+        {"id": "sent-026", "text": "Brunton necesitaba ayuda para levantar la piedra, y convenció a Rachel para que le ayudara.", "translationRu": "Брантону нужна была помощь, чтобы поднять камень, и он уговорил Рейчел помочь ему."},
+        {"id": "sent-027", "text": "Cuando Brunton bajó a la cámara, Rachel dejó caer la piedra sobre la abertura por venganza.", "translationRu": "Когда Брантон спустился в камеру, Рейчел из мести опустила камень на отверстие."},
+        {"id": "sent-028", "text": "Brunton murió atrapado en el fondo, y Rachel huyó y arrojó el contenido de la caja al lago.", "translationRu": "Брантон погиб в ловушке, а Рейчел бежала и бросила содержимое сундука в озеро."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-029", "text": "Holmes examinó los objetos del lago y reconoció que eran la antigua corona de los reyes de Inglaterra.", "translationRu": "Холмс осмотрел предметы из озера и понял, что это древняя корона английских королей."},
+        {"id": "sent-030", "text": "La familia Musgrave había guardado la corona del rey Carlos el Primer durante generaciones.", "translationRu": "Семья Масгрейвов хранила корону короля Карла I на протяжении многих поколений."},
+        {"id": "sent-031", "text": "Brunton fue el primero en descifrar el ritual, pero perdió la vida al intentar robar el tesoro.", "translationRu": "Брантон первым разгадал ритуал, но поплатился жизнью, пытаясь похитить сокровище."},
+        {"id": "sent-032", "text": "Rachel desapareció para siempre y nadie supo adónde fue.", "translationRu": "Рейчел исчезла навсегда, и никто не узнал, куда она ушла."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-naval-treaty",
+  "title": "El tratado naval",
+  "titleRu": "Морской договор",
+  "originalTitle": "The Naval Treaty",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Перси Фелпс, молодой дипломат, теряет секретный морской договор, похищенный прямо из его рабочего кабинета, и тяжело заболевает от потрясения. Шерлок Холмс берётся за дело и разоблачает вора, которого Перси считал самым близким другом.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

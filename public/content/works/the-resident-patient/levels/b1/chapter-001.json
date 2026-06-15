@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-resident-patient",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El paciente residente"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Una noche de octubre, Sherlock Holmes y el doctor Watson regresaron a Baker Street y encontraron una carroza esperando en la puerta.",
+          "translationRu": "Однажды октябрьским вечером Шерлок Холмс и доктор Ватсон вернулись на Бейкер-стрит и обнаружили карету у двери."
+        },
+        {
+          "id": "sent-002",
+          "text": "Holmes reconoció que era la carroza de un médico antes de entrar en casa.",
+          "translationRu": "Холмс ещё до входа в дом определил, что это карета врача."
+        },
+        {
+          "id": "sent-003",
+          "text": "En su salón les esperaba el doctor Percy Trevelyan, un hombre joven y pálido con expresión nerviosa.",
+          "translationRu": "В гостиной их ждал доктор Перси Тревельян — молодой бледный человек с нервным выражением лица."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Trevelyan era un médico brillante pero no tenía dinero para abrir su propia consulta.",
+          "translationRu": "Тревельян был блестящим врачом, но у него не было средств открыть собственный кабинет."
+        },
+        {
+          "id": "sent-005",
+          "text": "Un hombre llamado Blessington se presentó un día y le propuso un trato extraño: él pagaría todo a cambio de tres cuartas partes de las ganancias.",
+          "translationRu": "Однажды некий Блессингтон явился к нему с необычным предложением: оплатить всё в обмен на три четверти доходов."
+        },
+        {
+          "id": "sent-006",
+          "text": "Trevelyan aceptó, se mudó a Brook Street y la consulta tuvo mucho éxito.",
+          "translationRu": "Тревельян согласился, переехал на Брук-стрит, и практика стала весьма успешной."
+        },
+        {
+          "id": "sent-007",
+          "text": "Blessington vivía en la misma casa como paciente residente porque tenía problemas de corazón.",
+          "translationRu": "Блессингтон жил в том же доме на правах постоянного пациента — у него были проблемы с сердцем."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "Unas semanas antes de la visita a Holmes, Blessington empezó a comportarse de forma muy extraña.",
+          "translationRu": "За несколько недель до визита к Холмсу Блессингтон начал вести себя очень странно."
+        },
+        {
+          "id": "sent-009",
+          "text": "Tenía miedo de algo, miraba constantemente por la ventana y no quería salir.",
+          "translationRu": "Он чего-то боялся, постоянно смотрел в окно и не желал выходить."
+        },
+        {
+          "id": "sent-010",
+          "text": "Cuando Trevelyan le preguntó qué pasaba, se puso muy agresivo y no quiso hablar.",
+          "translationRu": "Когда Тревельян спросил, что происходит, тот стал очень груб и отказался говорить."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Un día llegó a la consulta un hombre mayor que decía ser un noble ruso con ataques de catalepsia.",
+          "translationRu": "Однажды в кабинет пришёл пожилой мужчина, называвший себя русским дворянином с каталептическими припадками."
+        },
+        {
+          "id": "sent-012",
+          "text": "Le acompañaba su hijo, un joven alto y fuerte que esperó en la sala de espera.",
+          "translationRu": "Его сопровождал сын — высокий крепкий юноша, который остался ждать в приёмной."
+        },
+        {
+          "id": "sent-013",
+          "text": "Durante la consulta el paciente entró en un ataque repentino, así que Trevelyan bajó a buscar una medicina.",
+          "translationRu": "Во время осмотра у пациента начался приступ, и Тревельян спустился за лекарством."
+        },
+        {
+          "id": "sent-014",
+          "text": "Cuando volvió cinco minutos después, el paciente y su hijo habían desaparecido.",
+          "translationRu": "Когда через пять минут он вернулся, пациент и его сын исчезли."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "Al día siguiente los dos rusos volvieron y explicaron que el padre se había confundido al despertar del ataque.",
+          "translationRu": "На следующий день оба русских вернулись и объяснили, что отец, очнувшись от приступа, не понял, где находится."
+        },
+        {
+          "id": "sent-016",
+          "text": "Trevelyan terminó la consulta y los despidió, pero poco después Blessington bajó corriendo, lleno de pánico.",
+          "translationRu": "Тревельян завершил осмотр и проводил их, но вскоре Блессингтон прибежал вниз в панике."
+        },
+        {
+          "id": "sent-017",
+          "text": "Alguien había entrado en su habitación: había huellas grandes y frescas en la alfombra clara.",
+          "translationRu": "Кто-то побывал в его комнате: на светлом ковре виднелись большие свежие следы."
+        },
+        {
+          "id": "sent-018",
+          "text": "Estaba tan asustado que empezó a llorar y pidió a Trevelyan que llamara a Holmes.",
+          "translationRu": "Он был так напуган, что расплакался и попросил Тревельяна вызвать Холмса."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "Holmes fue a Brook Street pero Blessington no quiso decir quiénes eran esos hombres.",
+          "translationRu": "Холмс отправился на Брук-стрит, но Блессингтон отказался назвать этих людей."
+        },
+        {
+          "id": "sent-020",
+          "text": "Holmes le advirtió que no podía ayudarle si mentía y se marchó.",
+          "translationRu": "Холмс предупредил его, что не сможет помочь, если тот лжёт, и ушёл."
+        },
+        {
+          "id": "sent-021",
+          "text": "En el camino de regreso, Holmes explicó a Watson que los dos rusos eran impostores que buscaban a Blessington.",
+          "translationRu": "По дороге домой Холмс объяснил Ватсону, что оба русских были самозванцами, искавшими Блессингтона."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "A la mañana siguiente llegó una nota urgente de Trevelyan: Blessington estaba muerto.",
+          "translationRu": "Следующим утром пришла срочная записка от Тревельяна: Блессингтон был мёртв."
+        },
+        {
+          "id": "sent-023",
+          "text": "La criada lo encontró colgado de un gancho en su habitación.",
+          "translationRu": "Служанка нашла его повешенным на крюке в комнате."
+        },
+        {
+          "id": "sent-024",
+          "text": "Holmes examinó el cuarto con su lupa y encontró cuatro colillas de cigarro de diferentes marcas y dos fumadores distintos.",
+          "translationRu": "Холмс осмотрел комнату с лупой и обнаружил четыре окурка разных марок от двух разных курильщиков."
+        },
+        {
+          "id": "sent-025",
+          "text": "También encontró marcas en la cerradura que mostraban que la habían forzado con un alambre.",
+          "translationRu": "Он также нашёл царапины на замке, свидетельствовавшие о том, что дверь вскрыли проволокой."
+        },
+        {
+          "id": "sent-026",
+          "text": "Holmes anunció que no era un suicidio, sino un asesinato premeditado cometido por tres hombres.",
+          "translationRu": "Холмс объявил, что это было не самоубийство, а заранее спланированное убийство, совершённое тремя людьми."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "Holmes pasó la tarde investigando y por la tarde reveló la identidad de Blessington.",
+          "translationRu": "Холмс провёл день в расследованиях и к вечеру раскрыл личность Блессингтона."
+        },
+        {
+          "id": "sent-028",
+          "text": "Su nombre real era Sutton y había pertenecido a la banda que robó el banco de Worthingdon en 1875.",
+          "translationRu": "Его настоящее имя было Саттон, и он состоял в банде, ограбившей банк в Уортингдоне в 1875 году."
+        },
+        {
+          "id": "sent-029",
+          "text": "Sutton traicionó a sus compañeros y habló con la policía, por lo que sus socios fueron a la cárcel durante quince años.",
+          "translationRu": "Саттон предал своих товарищей и дал показания полиции, из-за чего те провели в тюрьме пятнадцать лет."
+        },
+        {
+          "id": "sent-030",
+          "text": "Cuando salieron, los criminales llamados Biddle, Hayward y Moffat decidieron vengarse de él.",
+          "translationRu": "Выйдя на свободу, преступники по именам Биддл, Хейворд и Моффат решили отомстить ему."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-031",
+          "text": "Los supuestos rusos eran dos de los vengadores, que habían subido al cuarto de Blessington para identificarle.",
+          "translationRu": "Мнимые русские оказались двумя мстителями, которые поднялись в комнату Блессингтона, чтобы опознать его."
+        },
+        {
+          "id": "sent-032",
+          "text": "Esa noche volvieron con un tercer cómplice, entraron con la ayuda del chico de los recados y ejecutaron a Blessington.",
+          "translationRu": "Той ночью они вернулись с третьим сообщником, вошли с помощью посыльного и расправились с Блессингтоном."
+        },
+        {
+          "id": "sent-033",
+          "text": "Los tres asesinos huyeron y nunca fueron capturados por la policía.",
+          "translationRu": "Три убийцы бежали и так и не были пойманы полицией."
+        }
+      ]
+    }
+  ]
+}

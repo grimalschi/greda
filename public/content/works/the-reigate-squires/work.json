@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-reigate-squires",
+  "title": "Los hacendados de Reigate",
+  "titleRu": "Сквайры из Рейгейта",
+  "originalTitle": "The Reigate Squires",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Холмс отдыхает в деревне после тяжёлой болезни, когда рядом обнаруживают убитого кучера и загадочную записку, написанную двумя почерками. Анализируя рукописный текст, Холмс раскрывает, что убийцы — уважаемые местные помещики.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

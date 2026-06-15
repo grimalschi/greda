@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-yellow-face",
+  "title": "La cara amarilla",
+  "titleRu": "Жёлтое лицо",
+  "originalTitle": "The Yellow Face",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Грант Манро обращается к Шерлоку Холмсу с тревогой: его жена хранит загадочную тайну — ночные тайные визиты к соседям и жёлтое лицо в окне соседнего коттеджа. Разгадка оказывается не той, что предположил великий сыщик.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-resident-patient",
+  "level": "b2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El paciente residente"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Una ventosa noche de octubre, Holmes y Watson regresaron a Baker Street tras un paseo por el Strand y encontraron una carroza médica aguardando frente a su puerta.",
+          "translationRu": "Ненастным октябрьским вечером Холмс и Ватсон вернулись на Бейкер-стрит после прогулки по Стрэнду и обнаружили у своей двери медицинский экипаж."
+        },
+        {
+          "id": "sent-002",
+          "text": "Holmes identificó al visitante como médico joven con mucha práctica antes de subir las escaleras.",
+          "translationRu": "Холмс ещё до того, как подняться по лестнице, определил, что посетитель — молодой врач с большой практикой."
+        },
+        {
+          "id": "sent-003",
+          "text": "El doctor Percy Trevelyan era un hombre pálido y demacrado cuya expresión ansiosa delataba una tensión considerable.",
+          "translationRu": "Доктор Перси Тревельян оказался бледным, осунувшимся человеком, чей тревожный вид выдавал немалое напряжение."
+        },
+        {
+          "id": "sent-004",
+          "text": "Había ganado el premio Bruce Pinkerton por su monografía sobre lesiones nerviosas, pero carecía de capital para establecerse como especialista.",
+          "translationRu": "Он получил премию Брюса Пинкертона за монографию о нервных поражениях, однако у него не было средств, чтобы открыть специализированный кабинет."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "La solución llegó en forma de un misterioso personaje llamado Blessington, quien ofreció costear la consulta en Brook Street a cambio de tres cuartas partes de los ingresos.",
+          "translationRu": "Выход нашёлся в лице таинственного человека по имени Блессингтон, предложившего оплатить кабинет на Брук-стрит в обмен на три четверти доходов."
+        },
+        {
+          "id": "sent-006",
+          "text": "La práctica prosperó rápidamente y Blessington, con el pretexto de un corazón delicado, se instaló en la misma casa como paciente residente.",
+          "translationRu": "Практика быстро расцвела, а Блессингтон, сославшись на слабое сердце, обосновался в том же доме в качестве постоянного пациента."
+        },
+        {
+          "id": "sent-007",
+          "text": "Era un hombre de hábitos singulares: rara vez salía y cada tarde revisaba los libros de cuentas con una puntualidad inquietante.",
+          "translationRu": "У него были странные привычки: он редко выходил и каждый вечер с тревожной пунктуальностью просматривал бухгалтерские книги."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "Unas semanas antes, Blessington había caído en un estado de agitación inusual tras leer noticias sobre un robo en el West End.",
+          "translationRu": "Несколько недель назад Блессингтон впал в необычное возбуждение, прочитав о краже в Вест-Энде."
+        },
+        {
+          "id": "sent-009",
+          "text": "Insistió en reforzar puertas y ventanas y dejó de hacer su paseo habitual, espiando constantemente desde las ventanas.",
+          "translationRu": "Он настаивал на укреплении дверей и окон, прекратил ежедневные прогулки и неотрывно следил за улицей из окна."
+        },
+        {
+          "id": "sent-010",
+          "text": "Sin embargo, cuando Trevelyan le preguntó la causa, Blessington se volvió tan agresivo que el médico tuvo que dejar el asunto.",
+          "translationRu": "Однако когда Тревельян спросил о причине, Блессингтон так грубо его оборвал, что доктору пришлось оставить эту тему."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "La crisis se agudizó cuando se presentó en la consulta un supuesto noble ruso acompañado de un hijo hercúleo.",
+          "translationRu": "Кризис обострился, когда в кабинете появился мнимый русский дворянин в сопровождении сына богатырского сложения."
+        },
+        {
+          "id": "sent-012",
+          "text": "El joven prefirió aguardar en la sala de espera mientras el padre describía sus ataques de catalepsia.",
+          "translationRu": "Молодой человек предпочёл остаться в приёмной, пока отец описывал свои каталептические припадки."
+        },
+        {
+          "id": "sent-013",
+          "text": "De repente el anciano se quedó rígido e inmóvil, así que Trevelyan bajó al laboratorio a buscar nitrito de amilo, un remedio habitual para estos casos.",
+          "translationRu": "Внезапно старик окоченел и застыл, и Тревельян спустился в лабораторию за нитритом амила — привычным средством при таких приступах."
+        },
+        {
+          "id": "sent-014",
+          "text": "Al volver cinco minutos después encontró el consultorio vacío: tanto el padre como el hijo habían desaparecido sin dejar rastro.",
+          "translationRu": "Вернувшись через пять минут, он обнаружил кабинет пустым: и отец, и сын исчезли, не оставив следов."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "Al día siguiente los mismos hombres volvieron y explicaron, con una historia plausible, que el padre se había confundido al salir del trance.",
+          "translationRu": "На следующий день те же люди вернулись и с правдоподобным объяснением рассказали, что отец, выйдя из транса, запутался и ушёл."
+        },
+        {
+          "id": "sent-016",
+          "text": "Trevelyan completó la consulta y los despidió, pero momentos después Blessington irrumpió en el consultorio pálido como un muerto.",
+          "translationRu": "Тревельян завершил осмотр и проводил их, но через мгновение Блессингтон ворвался в кабинет бледный как полотно."
+        },
+        {
+          "id": "sent-017",
+          "text": "Alguien había penetrado en su dormitorio: las huellas grandes y frescas sobre la alfombra clara no dejaban lugar a dudas.",
+          "translationRu": "Кто-то проник в его спальню: большие свежие следы на светлом ковре не оставляли сомнений."
+        },
+        {
+          "id": "sent-018",
+          "text": "Blessington lloró de terror y rogó que llamasen a Sherlock Holmes.",
+          "translationRu": "Блессингтон плакал от ужаса и умолял вызвать Шерлока Холмса."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "Holmes acudió a Brook Street, pero al interrogar a Blessington sobre sus enemigos, este se negó a revelar nada.",
+          "translationRu": "Холмс явился на Брук-стрит, но на вопросы о врагах Блессингтон отказался что-либо открыть."
+        },
+        {
+          "id": "sent-020",
+          "text": "Holmes le advirtió secamente que era imposible ayudar a quien ocultaba la verdad y abandonó la casa.",
+          "translationRu": "Холмс сухо предупредил, что невозможно помочь тому, кто скрывает правду, и покинул дом."
+        },
+        {
+          "id": "sent-021",
+          "text": "Camino a casa, explicó a Watson que los ataques catalépticos eran simulados y que el hijo había aprovechado la consulta para registrar el cuarto de Blessington.",
+          "translationRu": "По дороге домой он объяснил Ватсону, что каталептические припадки были симулированы, а сын воспользовался консультацией, чтобы обыскать комнату Блессингтона."
+        },
+        {
+          "id": "sent-022",
+          "text": "Estaba convencido de que Blessington conocía perfectamente la identidad de sus perseguidores pero callaba por alguna razón oscura.",
+          "translationRu": "Холмс был убеждён, что Блессингтон прекрасно знал личность своих преследователей, но молчал по какой-то тёмной причине."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "A las siete y media de la mañana siguiente, un mensaje angustiado de Trevelyan despertó a los dos amigos: Blessington había amanecido muerto.",
+          "translationRu": "На следующее утро в половине восьмого отчаянная записка от Тревельяна разбудила обоих друзей: Блессингтон не проснулся."
+        },
+        {
+          "id": "sent-024",
+          "text": "Habían encontrado su cuerpo colgado de un gancho en medio de la habitación.",
+          "translationRu": "Его тело нашли повешенным на крюке посреди комнаты."
+        },
+        {
+          "id": "sent-025",
+          "text": "Holmes examinó metódicamente la habitación con su lente, y entre la ceniza de la chimenea descubrió cuatro colillas de dos clases distintas de cigarros.",
+          "translationRu": "Холмс методично осмотрел комнату с лупой и в золе камина обнаружил четыре окурка двух разных сортов сигар."
+        },
+        {
+          "id": "sent-026",
+          "text": "Dos habían sido fumados con boquilla y dos sin ella; además, las marcas en la cerradura revelaban que la habían forzado con un alambre.",
+          "translationRu": "Два окурка были от мундштука, два — без него; кроме того, царапины на замке свидетельствовали о вскрытии проволокой."
+        },
+        {
+          "id": "sent-027",
+          "text": "Holmes declaró ante el inspector que se trataba de un asesinato premeditado y frío, no de un suicidio.",
+          "translationRu": "Холмс заявил инспектору, что речь идёт о хладнокровно спланированном убийстве, а не о самоубийстве."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "Según Holmes, tres hombres habían subido a tientas la escalera, abrieron la cerradura con un alambre y sometieron a Blessington.",
+          "translationRu": "По словам Холмса, трое мужчин на цыпочках поднялись по лестнице, вскрыли замок проволокой и скрутили Блессингтона."
+        },
+        {
+          "id": "sent-029",
+          "text": "Celebraron algo parecido a un juicio mientras fumaban, y luego ejecutaron su sentencia sirviéndose de la cuerda de incendios que Blessington guardaba junto a su cama.",
+          "translationRu": "Они провели нечто вроде судилища за сигарами, а затем привели приговор в исполнение, воспользовавшись верёвкой для спасения при пожаре, которую Блессингтон держал у кровати."
+        },
+        {
+          "id": "sent-030",
+          "text": "Un cómplice interno, el chico de los recados, les abrió la puerta y la cerró al marcharse.",
+          "translationRu": "Сообщник внутри дома — мальчик-посыльный — впустил их и запер дверь за ними при уходе."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-031",
+          "text": "Esa tarde Holmes reveló que el verdadero nombre de Blessington era Sutton y que había pertenecido a la banda de Worthingdon, responsable de un robo bancario en 1875 en el que murió un vigilante.",
+          "translationRu": "В тот же день Холмс раскрыл, что настоящее имя Блессингтона было Саттон и что тот принадлежал к уортингдонской банде, совершившей в 1875 году ограбление банка, в котором погиб охранник."
+        },
+        {
+          "id": "sent-032",
+          "text": "Sutton traicionó a sus cómplices y, gracias a su testimonio, uno fue ahorcado y los demás condenados a quince años.",
+          "translationRu": "Саттон предал своих сообщников, и по его показаниям один был повешен, а остальные приговорены к пятнадцати годам."
+        },
+        {
+          "id": "sent-033",
+          "text": "Los supervivientes —Biddle, Hayward y Moffat— habían regresado dispuestos a cobrar la deuda de sangre.",
+          "translationRu": "Уцелевшие — Биддл, Хейворд и Моффат — вернулись, полные решимости взыскать кровный долг."
+        },
+        {
+          "id": "sent-034",
+          "text": "Los tres asesinos huyeron y se cree que perecieron poco después en el naufragio del vapor Norah Creina, frente a la costa portuguesa.",
+          "translationRu": "Все три убийцы бежали и, по всей видимости, вскоре погибли при крушении парохода «Нора Крейна» у берегов Португалии."
+        }
+      ]
+    }
+  ]
+}

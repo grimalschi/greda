@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-yellow-face",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La cara amarilla"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Una tarde de primavera, Sherlock Holmes y el doctor Watson volvieron tarde a Baker Street.", "translationRu": "Одним весенним вечером Шерлок Холмс и доктор Ватсон поздно вернулись на Бейкер-стрит."},
+        {"id": "sent-002", "text": "El chico de los recados les dijo que un caballero muy nervioso había esperado durante media hora y se había marchado.", "translationRu": "Мальчик-посыльный сообщил им, что очень нервный господин прождал полчаса и ушёл."},
+        {"id": "sent-003", "text": "Holmes encontró una pipa olvidada sobre la mesa y dedujo varias cosas sobre su dueño.", "translationRu": "Холмс нашёл забытую на столе трубку и сделал по ней несколько выводов о её хозяине."},
+        {"id": "sent-004", "text": "Cuando el desconocido volvió, resultó ser un hombre joven y bien vestido que se llamaba Grant Munro.", "translationRu": "Когда незнакомец вернулся, им оказался хорошо одетый молодой человек по имени Грант Манро."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Munro explicó que llevaba tres años felizmente casado con su esposa Effie, pero que desde el lunes pasado había un misterio entre ellos.", "translationRu": "Манро объяснил, что три года был счастливо женат на Эффи, однако с прошлого понедельника между ними возникла тайна."},
+        {"id": "sent-006", "text": "Antes de casarse con él, Effie era viuda: su primer marido y su hijo habían muerto de fiebre amarilla en Atlanta, y ella había regresado a Inglaterra.", "translationRu": "До замужества с ним Эффи была вдовой: её первый муж и ребёнок умерли от жёлтой лихорадки в Атланте, и она вернулась в Англию."},
+        {"id": "sent-007", "text": "Hacía unos dos meses, Effie había pedido cien libras sin explicar por qué las necesitaba.", "translationRu": "Около двух месяцев назад Эффи попросила сто фунтов, не объяснив, зачем они ей нужны."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-008", "text": "Un lunes por la tarde, Munro vio que habían llegado nuevos inquilinos a la casa vacía que estaba al otro lado del campo.", "translationRu": "В понедельник вечером Манро заметил, что в пустовавший дом по ту сторону поля въехали новые жильцы."},
+        {"id": "sent-009", "text": "Cuando se acercó, vio en la ventana de arriba una cara de un color amarillo lívido y con un aspecto rígido, casi sobrenatural.", "translationRu": "Когда он подошёл ближе, то увидел в верхнем окне лицо жёлто-серого цвета, с неподвижными, почти неестественными чертами."},
+        {"id": "sent-010", "text": "La cara desapareció de repente, y la mujer mayor que abrió la puerta lo rechazó con malos modos.", "translationRu": "Лицо внезапно исчезло, а пожилая женщина, открывшая дверь, грубо его прогнала."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-011", "text": "Esa misma noche, Munro se despertó y vio que Effie se estaba vistiendo en silencio.", "translationRu": "Той же ночью Манро проснулся и увидел, что Эффи бесшумно одевается."},
+        {"id": "sent-012", "text": "Ella salió a las tres de la mañana, y cuando volvió le dijo que había salido a tomar aire.", "translationRu": "Она вышла в три часа ночи, а когда вернулась, сказала, что просто подышать свежим воздухом."},
+        {"id": "sent-013", "text": "Munro no la creyó porque ella no lo miró a los ojos cuando hablaba.", "translationRu": "Манро ей не поверил: пока она говорила, то не смотрела ему в глаза."},
+        {"id": "sent-014", "text": "Al día siguiente encontró a su esposa saliendo de la casa misteriosa.", "translationRu": "На следующий день он обнаружил жену выходящей из таинственного дома."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-015", "text": "Effie le suplicó que no entrara en la casa, diciendo que si lo hacía todo estaría perdido entre ellos.", "translationRu": "Эффи умоляла его не входить в дом, говоря, что если он войдёт, между ними всё будет кончено."},
+        {"id": "sent-016", "text": "Munro prometió respetar el secreto, pero cuando volvió antes de lo esperado y la criada corrió hacia la casa, entró por la fuerza.", "translationRu": "Манро пообещал хранить тайну, но когда вернулся домой раньше времени и увидел служанку, бегущую к тому дому, вошёл туда силой."},
+        {"id": "sent-017", "text": "Encontró la casa vacía, pero en la habitación de arriba había una fotografía de Effie encima de la chimenea.", "translationRu": "Он обнаружил дом пустым, но в верхней комнате над камином висела фотография Эффи."},
+        {"id": "sent-018", "text": "Effie se negó a explicar quién vivía allí, y Munro fue a ver a Holmes.", "translationRu": "Эффи отказалась объяснить, кто там жive, и Манро отправился к Холмсу."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-019", "text": "Holmes escuchó todo con atención y propuso su teoría: el primer marido de Effie, que quizás no había muerto, la estaba chantajeando.", "translationRu": "Холмс внимательно выслушал всё и выдвинул свою теорию: первый муж Эффи, возможно не умерший, шантажировал её."},
+        {"id": "sent-020", "text": "Por eso ella había pedido el dinero, y por eso iba a la casa en secreto.", "translationRu": "Вот почему она просила деньги и тайно ходила в тот дом."},
+        {"id": "sent-021", "text": "Aconsejó a Munro que volviera a Norbury y que avisara si la casa seguía ocupada.", "translationRu": "Холмс посоветовал Манро вернуться в Норбери и дать знать, если дом по-прежнему занят."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-022", "text": "Poco después llegó el telegrama: la cara había vuelto a aparecer en la ventana.", "translationRu": "Вскоре пришла телеграмма: лицо снова появилось в окне."},
+        {"id": "sent-023", "text": "Holmes y Watson tomaron el tren hasta Norbury, donde les esperaba Munro en el andén.", "translationRu": "Холмс и Ватсон сели на поезд до Норбери, где их на перроне ждал Манро."},
+        {"id": "sent-024", "text": "Los tres avanzaron por un camino oscuro y llegaron a la casa con las ventanas iluminadas.", "translationRu": "Втроём они прошли по тёмной дороге и подошли к дому с освещёнными окнами."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-025", "text": "Effie intentó detener a su marido en la puerta, pero él entró con Holmes y Watson.", "translationRu": "Эффи попыталась остановить мужа у двери, но он вошёл вместе с Холмсом и Ватсоном."},
+        {"id": "sent-026", "text": "En la habitación de arriba vieron a una niña pequeña con un vestido rojo y una cara de color extraño.", "translationRu": "В верхней комнате они увидели маленькую девочку в красном платье со странно окрашенным лицом."},
+        {"id": "sent-027", "text": "Holmes pasó la mano por detrás de su oreja y quitó una máscara blanca.", "translationRu": "Холмс провёл рукой за ухом девочки и снял белую маску."},
+        {"id": "sent-028", "text": "Debajo había una niña negra que sonreía con todos sus dientes.", "translationRu": "Под маской оказалась темнокожая девочка, улыбавшаяся во весь рот."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-029", "text": "Effie explicó entonces toda la verdad: su primer marido, John Hebron, era un abogado negro de Atlanta, y su hija Lucy había heredado el color de su padre.", "translationRu": "Эффи тогда рассказала всю правду: её первый муж, Джон Хэброн, был темнокожим адвocatom из Атланты, и дочь Люси унаследовала цвет кожи отца."},
+        {"id": "sent-030", "text": "Cuando se enamoró de Jack Munro, tuvo miedo de perderle y no le dijo que tenía una hija.", "translationRu": "Когда она влюбилась в Джека Манро, то испугалась потерять его и не рассказала, что у неё есть дочь."},
+        {"id": "sent-031", "text": "Había mandado el dinero para traer a Lucy desde América con una criada escocesa.", "translationRu": "Она отправила деньги, чтобы привезти Люси из Америки вместе со шотландской служанкой."},
+        {"id": "sent-032", "text": "La máscara era para que nadie viera que la niña era negra.", "translationRu": "Маска была нужна, чтобы никто не видел, что девочка темнокожая."}
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {"id": "sent-033", "text": "Grant Munro no dijo nada durante mucho tiempo, pero al final cogió a la niña en brazos, la besó y dio la mano a su esposa.", "translationRu": "Грант Манро долго молчал, но наконец взял девочку на руки, поцеловал её и подал руку жене."},
+        {"id": "sent-034", "text": "«Volvamos a casa», dijo, «creo que soy mejor hombre de lo que tú pensabas».", "translationRu": "«Вернёмся домой», — сказал он, — «думаю, я лучший человек, чем ты считала»."},
+        {"id": "sent-035", "text": "Cuando salían, Holmes le dijo a Watson en voz baja que en este caso se había equivocado completamente.", "translationRu": "Уже выходя, Холмс тихо сказал Ватсону, что в этом деле он ошибся совершенно."},
+        {"id": "sent-036", "text": "Le pidió que le recordara la palabra «Norbury» si alguna vez se volvía demasiado seguro de sí mismo.", "translationRu": "Он попросил Ватсона напоминать ему слово «Норбери», если он когда-нибудь станет слишком самоуверенным."}
+      ]
+    }
+  ]
+}

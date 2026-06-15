@@ -1,0 +1,217 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-resident-patient",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El paciente residente"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Una noche el doctor Percy Trevelyan fue a Baker Street a ver a Sherlock Holmes.",
+          "translationRu": "Однажды вечером доктор Перси Тревельян пришёл на Бейкер-стрит к Шерлоку Холмсу."
+        },
+        {
+          "id": "sent-002",
+          "text": "Holmes y Watson llegaron a casa y vieron una carroza esperando en la puerta.",
+          "translationRu": "Холмс и Ватсон вернулись домой и увидели карету у дверей."
+        },
+        {
+          "id": "sent-003",
+          "text": "El doctor Trevelyan era joven y tenía una cara muy pálida.",
+          "translationRu": "Доктор Тревельян был молод, с очень бледным лицом."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Trevelyan contó su historia: era un médico muy bueno pero no tenía dinero.",
+          "translationRu": "Тревельян рассказал свою историю: он был отличным врачом, но у него не было денег."
+        },
+        {
+          "id": "sent-005",
+          "text": "Un día llegó un hombre llamado Blessington y le ofreció un trato.",
+          "translationRu": "Однажды к нему пришёл человек по имени Блессингтон и предложил сделку."
+        },
+        {
+          "id": "sent-006",
+          "text": "Blessington pagó la casa en Brook Street y Trevelyan trabajó allí como médico.",
+          "translationRu": "Блессингтон оплатил дом на Брук-стрит, и Тревельян работал там врачом."
+        },
+        {
+          "id": "sent-007",
+          "text": "Blessington vivía en la misma casa como paciente residente.",
+          "translationRu": "Блессингтон жил в том же доме на правах постоянного пациента."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "Un día llegó a la consulta un hombre ruso con su hijo.",
+          "translationRu": "Однажды в приёмную пришёл русский мужчина со своим сыном."
+        },
+        {
+          "id": "sent-009",
+          "text": "El hijo era alto y fuerte, el padre era viejo y delgado.",
+          "translationRu": "Сын был высоким и крепким, отец — старым и худым."
+        },
+        {
+          "id": "sent-010",
+          "text": "El padre entró al consultorio y el hijo esperó en la sala.",
+          "translationRu": "Отец вошёл в кабинет, а сын остался ждать в комнате ожидания."
+        },
+        {
+          "id": "sent-011",
+          "text": "De pronto el paciente ruso se quedó inmóvil, como en un trance.",
+          "translationRu": "Вдруг русский пациент замер неподвижно, словно в трансе."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-012",
+          "text": "Trevelyan bajó a buscar una medicina y cuando volvió, el paciente había desaparecido.",
+          "translationRu": "Тревельян спустился за лекарством, а когда вернулся, пациент исчез."
+        },
+        {
+          "id": "sent-013",
+          "text": "El hijo también se fue sin decir nada.",
+          "translationRu": "Сын тоже ушёл, ничего не сказав."
+        },
+        {
+          "id": "sent-014",
+          "text": "Al día siguiente los dos rusos volvieron y explicaron que era por la enfermedad.",
+          "translationRu": "На следующий день оба русских вернулись и объяснили случившееся болезнью."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "Cuando Blessington volvió a casa esa tarde, subió a su cuarto y gritó.",
+          "translationRu": "Когда в тот вечер Блессингтон вернулся домой, он поднялся в свою комнату и закричал."
+        },
+        {
+          "id": "sent-016",
+          "text": "Alguien había entrado en su habitación y dejó huellas grandes en la alfombra.",
+          "translationRu": "Кто-то побывал в его комнате и оставил большие следы на ковре."
+        },
+        {
+          "id": "sent-017",
+          "text": "Blessington tenía mucho miedo y lloró.",
+          "translationRu": "Блессингтон был очень напуган и плакал."
+        },
+        {
+          "id": "sent-018",
+          "text": "Holmes fue a Brook Street pero Blessington no quiso decir la verdad.",
+          "translationRu": "Холмс отправился на Брук-стрит, но Блессингтон не захотел говорить правду."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "A la mañana siguiente Holmes y Watson recibieron una nota urgente.",
+          "translationRu": "На следующее утро Холмс и Ватсон получили срочную записку."
+        },
+        {
+          "id": "sent-020",
+          "text": "Cuando llegaron a Brook Street, Trevelyan les dijo que Blessington estaba muerto.",
+          "translationRu": "Когда они прибыли на Брук-стрит, Тревельян сообщил им, что Блессингтон мёртв."
+        },
+        {
+          "id": "sent-021",
+          "text": "La criada lo encontró colgado en su cuarto por la mañana.",
+          "translationRu": "Утром служанка нашла его повешенным в комнате."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Holmes examinó el cuarto con cuidado.",
+          "translationRu": "Холмс внимательно осмотрел комнату."
+        },
+        {
+          "id": "sent-023",
+          "text": "Encontró cuatro colillas de cigarro de distintas marcas.",
+          "translationRu": "Он нашёл четыре окурка сигары разных марок."
+        },
+        {
+          "id": "sent-024",
+          "text": "Holmes dijo que no fue un suicidio, sino un asesinato.",
+          "translationRu": "Холмс заявил, что это было не самоубийство, а убийство."
+        },
+        {
+          "id": "sent-025",
+          "text": "Tres hombres entraron por la noche y mataron a Blessington.",
+          "translationRu": "Три человека вошли ночью и убили Блессингтона."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "Holmes investigó y descubrió quién era Blessington.",
+          "translationRu": "Холмс провёл расследование и выяснил, кем был Блессингтон."
+        },
+        {
+          "id": "sent-027",
+          "text": "Su nombre real era Sutton y era un criminal que traicionó a su banda.",
+          "translationRu": "Его настоящее имя было Саттон, и он был преступником, предавшим свою банду."
+        },
+        {
+          "id": "sent-028",
+          "text": "La banda robó un banco en Worthingdon en 1875 y mató a un guardián.",
+          "translationRu": "Банда ограбила банк в Уортингдоне в 1875 году и убила охранника."
+        },
+        {
+          "id": "sent-029",
+          "text": "Sutton habló con la policía y sus compañeros fueron a la cárcel.",
+          "translationRu": "Саттон дал показания полиции, и его товарищи оказались в тюрьме."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "Cuando los tres criminales salieron de la cárcel, buscaron a Sutton para vengarse.",
+          "translationRu": "Когда трое преступников вышли из тюрьмы, они стали искать Саттона, чтобы отомстить."
+        },
+        {
+          "id": "sent-031",
+          "text": "Los rusos eran en realidad dos de esos criminales.",
+          "translationRu": "Русские на самом деле оказались двумя из этих преступников."
+        },
+        {
+          "id": "sent-032",
+          "text": "Ellos entraron en la noche y mataron a Blessington.",
+          "translationRu": "Той ночью они проникли в дом и убили Блессингтона."
+        }
+      ]
+    }
+  ]
+}
