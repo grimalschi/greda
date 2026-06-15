@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La chica del mar"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "En la primavera de 1990, varios barcos de superficie desaparecieron misteriosamente en el Pacífico.",
-          "translationRu": "Весной 1990 года несколько надводных кораблей таинственно исчезли в Тихом океане."
+          "text": "En marzo de 1990, un viejo barco de carga llamado Malaysia se hundió en el Pacífico sin causa aparente, con toda su tripulación a bordo.",
+          "translationRu": "В марте 1990 года старое грузовое судно «Малайзия» затонуло в Тихом океане без видимой причины, со всей командой на борту."
         },
         {
           "id": "sent-002",
-          "text": "Yo, Geoffry Grant, era oficial de un barco submarino y escuché la señal de auxilio de uno de ellos.",
-          "translationRu": "Я, Джеффри Грант, служил офицером на подводном корабле и принял сигнал бедствия с одного из них."
+          "text": "Mi nombre es Geoffry Grant y en esa época tenía veintidós años; era el segundo al mando de uno de los mayores submarinos comerciales del Pacífico.",
+          "translationRu": "Меня зовут Джеффри Грант; в то время мне было двадцать два года — я был вторым по командованию на одной из крупнейших торговых субмарин Тихого океана."
         },
         {
           "id": "sent-003",
-          "text": "Cuando llegamos, solo encontramos restos flotando en el agua oscura.",
-          "translationRu": "Когда мы прибыли, на тёмной воде плавали лишь обломки."
+          "text": "Nuestro submarino recibió la señal de socorro del Malaysia casi a medianoche y cambiamos de rumbo para ir al lugar del hundimiento.",
+          "translationRu": "Наша субмарина получила сигнал бедствия от «Малайзии» почти в полночь, и мы изменили курс, направившись к месту гибели судна."
         },
         {
           "id": "sent-004",
-          "text": "Arturo Plantet, un joven soñador que viajaba a bordo, sentía una extraña fascinación por el mar.",
-          "translationRu": "Артуро Планте, молодой мечтатель, путешествовавший на борту, испытывал странное влечение к морю."
+          "text": "Cuando llegamos, solo encontramos escombros flotando en el mar oscuro, sin ningún sobreviviente y sin explicación.",
+          "translationRu": "Когда мы добрались туда, на тёмном море плавали лишь обломки — ни одного выжившего и никакого объяснения."
         }
       ]
     },
@@ -38,23 +38,18 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Una noche, Arturo y yo vimos algo increíble: una esfera metálica flotaba en las profundidades.",
-          "translationRu": "Однажды ночью мы с Артуро увидели нечто невероятное: металлическая сфера парила в глубине."
+          "text": "Esa noche estaba en mi camarote Arturo Plantet, un muchacho de dieciocho años que viajaba como pasajero y era completamente diferente a mí.",
+          "translationRu": "В ту ночь в моей каюте находился Артуро Планте — восемнадцатилетний юноша-пассажир, совершенно непохожий на меня."
         },
         {
           "id": "sent-006",
-          "text": "Cuando la iluminamos con el reflector, una cara apareció en su ventana.",
-          "translationRu": "Когда мы осветили её прожектором, в иллюминаторе показалось лицо."
+          "text": "Yo era alto y rubio, mientras que Arturo era delgado, con ojos oscuros y soñadores llenos de sensibilidad poética.",
+          "translationRu": "Я был высоким и светловолосым, а Артуро — стройным, с тёмными мечтательными глазами, полными поэтической чувствительности."
         },
         {
           "id": "sent-007",
-          "text": "Era una chica joven con ojos verdes brillantes y pelo enredado como algas.",
-          "translationRu": "Это была молодая девушка с яркими зелёными глазами и спутанными, как водоросли, волосами."
-        },
-        {
-          "id": "sent-008",
-          "text": "La imagen desapareció antes de que pudiéramos reaccionar.",
-          "translationRu": "Образ исчез прежде, чем мы успели опомниться."
+          "text": "Era un soñador que prefería la música y la fantasía a las cosas prácticas, aunque tenía una valentía real cuando la necesitaba.",
+          "translationRu": "Он был мечтателем, предпочитавшим музыку и фантазии практическим вещам, хотя при необходимости проявлял настоящее мужество."
         }
       ]
     },
@@ -62,24 +57,24 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-008",
+          "text": "El hundimiento del Malaysia fue el primero de muchas catástrofes misteriosas que ocurrieron ese año en el Pacífico.",
+          "translationRu": "Гибель «Малайзии» стала первой из многих таинственных катастроф, произошедших в том году в Тихом океане."
+        },
+        {
           "id": "sent-009",
-          "text": "El padre de Arturo, el doctor Plantet, era un científico que estudiaba el interior de la Tierra.",
-          "translationRu": "Отец Артуро, доктор Планте, был учёным, изучавшим недра Земли."
+          "text": "Varios barcos de carga antiguos desaparecieron sin dejar rastro, siempre en el Pacífico, siempre cargados de alimentos.",
+          "translationRu": "Несколько старых грузовых судов бесследно исчезли — всегда в Тихом океане, всегда с грузом продовольствия."
         },
         {
           "id": "sent-010",
-          "text": "Nos explicó que los océanos estaban perdiendo agua porque se filtraba hacia cavernas enormes bajo el fondo del mar.",
-          "translationRu": "Он объяснил нам, что океаны теряют воду, которая просачивается в огромные пещеры под дном моря."
+          "text": "Al mismo tiempo, el mundo notó algo inquietante: los niveles del mar bajaban en todo el planeta y las mareas eran cada vez más extrañas.",
+          "translationRu": "В то же время мир заметил нечто тревожное: уровни моря по всей планете снижались, а приливы становились всё более странными."
         },
         {
           "id": "sent-011",
-          "text": "En esas cavernas vivía una civilización desconocida que quería conquistar nuestra superficie.",
-          "translationRu": "В этих пещерах жила неведомая цивилизация, стремившаяся покорить нашу поверхность."
-        },
-        {
-          "id": "sent-012",
-          "text": "El doctor construyó el submarino Dolphin para explorar esas profundidades.",
-          "translationRu": "Доктор построил субмарину «Дельфин» для исследования этих глубин."
+          "text": "Los volcanes se activaban en diferentes partes del mundo y los científicos no tenían ninguna explicación satisfactoria.",
+          "translationRu": "Вулканы активизировались в разных частях света, и учёные не могли дать никакого удовлетворительного объяснения."
         }
       ]
     },
@@ -87,24 +82,29 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-012",
+          "text": "En junio, en el último viaje del que tuve a mi cargo, Arturo y yo vimos algo extraordinario en las aguas de Micronesia.",
+          "translationRu": "В июне, во время последнего рейса под моим командованием, мы с Артуро увидели нечто необычайное в водах Микронезии."
+        },
+        {
           "id": "sent-013",
-          "text": "Arturo desapareció antes de que pudiéramos zarpar y fue solo a una isla pequeña en Micronesia.",
-          "translationRu": "Артуро исчез до нашего отплытия и отправился один на маленький остров в Микронезии."
+          "text": "Un objeto esférico y brillante apareció frente a nosotros: era como un globo metálico de unos seis metros de diámetro con una gran ventana circular.",
+          "translationRu": "Перед нами появился блестящий сферический объект — металлический шар около шести метров в диаметре с большим круглым иллюминатором."
         },
         {
           "id": "sent-014",
-          "text": "Esperó de noche tocando su violín, y la chica del mar salió del océano.",
-          "translationRu": "Ночью он ждал её, играя на скрипке, и девушка из моря вышла из океана."
+          "text": "Arturo encendió un reflector y durante un instante los dos vimos el rostro de una joven muchacha en la ventana del globo.",
+          "translationRu": "Артуро включил прожектор, и на мгновение мы оба увидели лицо молодой девушки в иллюминаторе шара."
         },
         {
           "id": "sent-015",
-          "text": "Arturo la llamó Nereid y aprendieron a comunicarse poco a poco.",
-          "translationRu": "Артуро назвал её Нереидой, и они постепенно научились понимать друг друга."
+          "text": "Tenía los ojos de un verde intenso y el cabello enredado como algas marinas; su mirada nos dejó temblando.",
+          "translationRu": "У неё были ярко-зелёные глаза и спутанные, как морские водоросли, волосы; её взгляд заставил нас задрожать."
         },
         {
           "id": "sent-016",
-          "text": "Nereid le contó que su pueblo, los Middge, vivía oprimido por los Gians, una raza más poderosa.",
-          "translationRu": "Нереида рассказала ему, что её народ, Миджи, живёт в угнетении у Гианов — более могущественной расы."
+          "text": "El globo desapareció en las profundidades antes de que pudiéramos reaccionar, dejándonos completamente desconcertados.",
+          "translationRu": "Шар исчез в глубине прежде, чем мы успели отреагировать, оставив нас в полном замешательстве."
         }
       ]
     },
@@ -113,23 +113,23 @@
       "sentences": [
         {
           "id": "sent-017",
-          "text": "Arturo mandó una señal de radio y el Dolphin fue a buscarlos.",
-          "translationRu": "Артуро послал радиосигнал, и «Дельфин» отправился за ними."
+          "text": "De regreso en Maine, el padre de Arturo, el doctor Plantet, nos reunió en su jardín a la orilla del mar para explicarnos lo que había descubierto.",
+          "translationRu": "Вернувшись в Мэн, отец Артуро, доктор Планте, собрал нас в саду на берегу моря, чтобы объяснить, что он обнаружил."
         },
         {
           "id": "sent-018",
-          "text": "Con Nereid a bordo, encontramos el ejército de los Gians preparándose para atacar Maui.",
-          "translationRu": "Имея на борту Нереиду, мы обнаружили армию Гианов, готовившуюся к нападению на Мауи."
+          "text": "Era un hombre robusto de cuarenta y cinco años, antiguo cirujano de fama mundial y apasionado estudioso de la oceanografía.",
+          "translationRu": "Это был крепкий мужчина сорока пяти лет, бывший хирург с мировым именем и страстный исследователь океанографии."
         },
         {
           "id": "sent-019",
-          "text": "Un rayo de luz extraño atrapó el Dolphin, pero conseguimos escapar.",
-          "translationRu": "Странный световой луч захватил «Дельфина», но нам удалось вырваться."
+          "text": "Nos explicó que los océanos de la Tierra se estaban vaciando porque el agua se filtraba por grietas hacia enormes cavernas en el interior del planeta.",
+          "translationRu": "Он объяснил нам, что океаны Земли опустошаются, поскольку вода просачивается через трещины в огромные пещеры внутри планеты."
         },
         {
           "id": "sent-020",
-          "text": "Arturo saltó al mar con Nereid para bajar a su mundo y tratar de detener la amenaza.",
-          "translationRu": "Артуро прыгнул в море вместе с Нереидой, чтобы спуститься в её мир и попытаться остановить угрозу."
+          "text": "Pero lo más alarmante era su conclusión: alguien lo había provocado intencionalmente.",
+          "translationRu": "Но самым тревожным был его вывод: кто-то вызвал это намеренно."
         }
       ]
     },
@@ -138,23 +138,23 @@
       "sentences": [
         {
           "id": "sent-021",
-          "text": "Un año después, Nereid me llamó telepáticamente y fui a la isla a encontrarlos.",
-          "translationRu": "Год спустя Нереида позвала меня телепатически, и я поехал на остров, чтобы встретиться с ними."
+          "text": "El doctor nos dijo que una raza de seres humanos desconocidos vivía en el interior de la Tierra, bajo el fondo del Océano Pacífico.",
+          "translationRu": "Доктор рассказал нам, что неизвестная раса людей жила в недрах Земли, под дном Тихого океана."
         },
         {
           "id": "sent-022",
-          "text": "Allí también estaba Tad Megan, un amigo que creíamos perdido en el mar.",
-          "translationRu": "Там оказался и Тэд Меган — друг, которого мы считали пропавшим в море."
+          "text": "Esta raza había planeado durante generaciones vaciar los océanos para poder salir a conquistar nuestra superficie.",
+          "translationRu": "Эта раса на протяжении поколений планировала осушить океаны, чтобы выйти и завоевать нашу поверхность."
         },
         {
           "id": "sent-023",
-          "text": "Los cuatro bajamos juntos en la esfera de Nereid hacia las profundidades de la Tierra.",
-          "translationRu": "Все четверо мы спустились вместе в сфере Нереиды в глубины Земли."
+          "text": "Los barcos que habían desaparecido fueron robados por ellos para quedarse con sus alimentos.",
+          "translationRu": "Исчезнувшие суда были похищены ими ради продовольствия."
         },
         {
           "id": "sent-024",
-          "text": "El viaje fue duro porque el aire de ese mundo subterráneo era diferente al nuestro.",
-          "translationRu": "Путь был тяжёлым: воздух этого подземного мира отличался от нашего."
+          "text": "Y la chica que Arturo y yo habíamos visto en el globo era, sin duda, una representante de esta civilización subterránea.",
+          "translationRu": "А девушка, которую мы с Артуро видели в шаре, была, несомненно, представительницей этой подземной цивилизации."
         }
       ]
     },
@@ -163,73 +163,23 @@
       "sentences": [
         {
           "id": "sent-025",
-          "text": "Llegamos a la Ciudad del Montículo, donde vivían los Middge bajo el dominio cruel de la emperatriz Rhana.",
-          "translationRu": "Мы прибыли в Город Холма, где Миджи жили под жестокой властью императрицы Раны."
+          "text": "Polly, la hermana de Arturo, una joven práctica y valiente de diecinueve años, también escuchó todo aquella noche.",
+          "translationRu": "Полли, сестра Артуро — практичная и смелая девятнадцатилетняя девушка — тоже слушала всё той ночью."
         },
         {
           "id": "sent-026",
-          "text": "Rhana nos capturó a Arturo y a mí usando a su espía Bhool.",
-          "translationRu": "Рана захватила нас с Артуро через своего шпиона Бхула."
+          "text": "El doctor Plantet anunció que estaba construyendo un pequeño submarino especial llamado el Dolphin, capaz de descender dos mil brazas.",
+          "translationRu": "Доктор Планте объявил, что строит маленькую специальную субмарину под названием «Дельфин», способную погружаться на две тысячи саженей."
         },
         {
           "id": "sent-027",
-          "text": "Tad y Nereid nos rescataron con unas ropas que hacían invisibles a las personas.",
-          "translationRu": "Тэд и Нереида спасли нас с помощью одежды, делавшей людей невидимыми."
+          "text": "Con ese barco iríamos al Pacífico a buscar al enemigo oculto y a entender la amenaza que se cernía sobre nuestra civilización.",
+          "translationRu": "На этом корабле мы отправимся в Тихий океан искать скрытого врага и понять угрозу, нависшую над нашей цивилизацией."
         },
         {
           "id": "sent-028",
-          "text": "Pero Rhana ya había abierto las compuertas y el agua de los océanos caía hacia el interior de la Tierra.",
-          "translationRu": "Но Рана уже открыла шлюзы, и воды океанов устремились в недра Земли."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-029",
-          "text": "Intentamos cerrar las compuertas, pero Rhana nos bloqueó y las destruyó.",
-          "translationRu": "Мы попытались закрыть шлюзы, но Рана заблокировала нас и уничтожила их."
-        },
-        {
-          "id": "sent-030",
-          "text": "Escapamos por un túnel interminable con los sobrevivientes Middge y llegamos a la nueva tierra seca.",
-          "translationRu": "Мы бежали по бесконечному туннелю с уцелевшими Миджами и вышли на новую сушу."
-        },
-        {
-          "id": "sent-031",
-          "text": "Rhana capturó a Nereid y a mí durante una falsa reunión de paz.",
-          "translationRu": "Рана захватила нас с Нереидой во время ложных мирных переговоров."
-        },
-        {
-          "id": "sent-032",
-          "text": "Nereid rompió el mecanismo del aeronave para que cayera y así impedir que Rhana envenenara nuestras ciudades.",
-          "translationRu": "Нереида сломала механизм летательного аппарата, чтобы он упал и помешать Ране отравить наши города."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-033",
-          "text": "Rhana murió en la caída y su amenaza terminó para siempre.",
-          "translationRu": "Рана погибла при падении, и её угроза исчезла навсегда."
-        },
-        {
-          "id": "sent-034",
-          "text": "Los Middge destruyeron el campamento de los Gians con un rayo de luz carmesí.",
-          "translationRu": "Миджи уничтожили лагерь Гианов лучом малинового света."
-        },
-        {
-          "id": "sent-035",
-          "text": "Después desaparecieron bajo tierra, sin querer saber nada de nuestro mundo.",
-          "translationRu": "После этого они скрылись под землёй, не желая иметь ничего общего с нашим миром."
-        },
-        {
-          "id": "sent-036",
-          "text": "Arturo y Nereid se quedaron juntos en nuestra superficie, y yo me quedé con Polly.",
-          "translationRu": "Артуро и Нереида остались вместе на нашей поверхности, а я — с Полли."
+          "text": "Arturo nos escuchaba en silencio, con sus ojos oscuros fijos en el mar, y yo sentí que su mente ya estaba muy lejos de nosotros.",
+          "translationRu": "Артуро слушал нас молча, устремив тёмные глаза в море, и я почувствовал, что мыслями он уже был очень далеко от нас."
         }
       ]
     }

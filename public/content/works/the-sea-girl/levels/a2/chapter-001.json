@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La chica del mar"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,33 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "En 1990, muchos barcos desaparecieron en el océano Pacífico.",
-          "translationRu": "В 1990 году многие корабли исчезли в Тихом океане."
+          "text": "En marzo de 1990, un viejo barco de carga se hundió en el océano Pacífico sin ninguna razón.",
+          "translationRu": "В марте 1990 года старое грузовое судно затонуло в Тихом океане без всякой причины."
         },
         {
           "id": "sent-002",
-          "text": "Yo me llamo Geoffry Grant y soy oficial de un barco submarino.",
-          "translationRu": "Меня зовут Джеффри Грант, я офицер подводного корабля."
+          "text": "Nadie sobrevivió y no encontraron los botes salvavidas.",
+          "translationRu": "Никто не выжил, и спасательные шлюпки так и не нашли."
         },
         {
           "id": "sent-003",
-          "text": "Una noche, vi una cosa extraña en el agua.",
-          "translationRu": "Однажды ночью я увидел нечто странное в воде."
+          "text": "Me llamo Geoffry Grant y tenía veintidós años ese año.",
+          "translationRu": "Меня зовут Джеффри Грант, и в том году мне было двадцать два года."
         },
         {
           "id": "sent-004",
-          "text": "Era una bola de metal con una ventana.",
-          "translationRu": "Это был металлический шар с окошком."
-        },
-        {
-          "id": "sent-005",
-          "text": "En la ventana vi la cara de una chica joven.",
-          "translationRu": "В окошке я увидел лицо молодой девушки."
-        },
-        {
-          "id": "sent-006",
-          "text": "Tenía los ojos verdes y el pelo largo.",
-          "translationRu": "У неё были зелёные глаза и длинные волосы."
+          "text": "Era oficial jefe de un gran barco submarino moderno.",
+          "translationRu": "Я был старшим офицером большого современного подводного корабля."
         }
       ]
     },
@@ -47,24 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-005",
+          "text": "Una noche, nuestro barco recibió la señal de socorro del Malaysia.",
+          "translationRu": "Однажды ночью наш корабль получил сигнал бедствия от «Малайзии»."
+        },
+        {
+          "id": "sent-006",
+          "text": "En mi cabina estaba sentado con Arturo Plantet, nuestro único pasajero.",
+          "translationRu": "В моей каюте сидел Артуро Планте — наш единственный пассажир."
+        },
+        {
           "id": "sent-007",
-          "text": "El doctor Plantet nos explicó algo muy importante.",
-          "translationRu": "Доктор Планте объяснил нам кое-что очень важное."
+          "text": "Arturo era un chico de dieciocho años, delgado y soñador.",
+          "translationRu": "Артуро был восемнадцатилетним юношей — тонким и мечтательным."
         },
         {
           "id": "sent-008",
-          "text": "Los océanos del mundo perdían agua cada día.",
-          "translationRu": "Мировые океаны теряли воду каждый день."
-        },
-        {
-          "id": "sent-009",
-          "text": "El agua iba a un mundo secreto dentro de la Tierra.",
-          "translationRu": "Вода уходила в тайный мир внутри Земли."
-        },
-        {
-          "id": "sent-010",
-          "text": "Allí vivían dos grupos de personas: los Gians y los Middge.",
-          "translationRu": "Там жили два народа: Гианы и Миджи."
+          "text": "Tocaba el violín y amaba el mar como un lugar de leyendas.",
+          "translationRu": "Он играл на скрипке и любил море как место преданий."
         }
       ]
     },
@@ -72,24 +62,19 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-009",
+          "text": "Nuestro barco fue rápido al lugar del accidente.",
+          "translationRu": "Наш корабль быстро направился к месту аварии."
+        },
+        {
+          "id": "sent-010",
+          "text": "Solo encontramos escombros flotando en el agua oscura.",
+          "translationRu": "Мы нашли лишь обломки, плавающие в тёмной воде."
+        },
+        {
           "id": "sent-011",
-          "text": "Arturo, el hijo del doctor, fue solo a una isla pequeña.",
-          "translationRu": "Артуро, сын доктора, отправился один на маленький остров."
-        },
-        {
-          "id": "sent-012",
-          "text": "Esperó allí de noche con su violín.",
-          "translationRu": "Он ждал там ночью со своей скрипкой."
-        },
-        {
-          "id": "sent-013",
-          "text": "La chica del mar salió del agua y se llamaba Nereid.",
-          "translationRu": "Девушка из моря вышла из воды — её звали Нереида."
-        },
-        {
-          "id": "sent-014",
-          "text": "Ella aprendió a hablar inglés muy rápido.",
-          "translationRu": "Она очень быстро научилась говорить по-английски."
+          "text": "El Malaysia se hundió en las profundidades y no pudimos seguirlo.",
+          "translationRu": "«Малайзия» ушла на дно, и мы не могли последовать за ней."
         }
       ]
     },
@@ -97,24 +82,19 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "El doctor Plantet construyó un barco especial llamado Dolphin.",
-          "translationRu": "Доктор Планте построил особый корабль под названием «Дельфин»."
+          "id": "sent-012",
+          "text": "En los meses siguientes, muchos barcos desaparecieron en el Pacífico.",
+          "translationRu": "В последующие месяцы в Тихом океане исчезли многие корабли."
         },
         {
-          "id": "sent-016",
-          "text": "El Dolphin podía ir muy profundo en el océano.",
-          "translationRu": "«Дельфин» мог погружаться очень глубоко в океан."
+          "id": "sent-013",
+          "text": "Todos llevaban comida y se hundieron sin explicación.",
+          "translationRu": "Все они везли продовольствие и тонули без объяснений."
         },
         {
-          "id": "sent-017",
-          "text": "Arturo trajo a Nereid al barco.",
-          "translationRu": "Артуро привёл Нереиду на корабль."
-        },
-        {
-          "id": "sent-018",
-          "text": "Ella nos llevó a ver el ejército enemigo debajo del mar.",
-          "translationRu": "Она привела нас посмотреть на вражескую армию под водой."
+          "id": "sent-014",
+          "text": "El gobierno prohibió hablar de estos desastres en las noticias.",
+          "translationRu": "Правительство запретило сообщать об этих катастрофах в новостях."
         }
       ]
     },
@@ -122,24 +102,19 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-019",
-          "text": "Arturo bajó solo al mundo subterráneo con Nereid.",
-          "translationRu": "Артуро спустился один в подземный мир вместе с Нереидой."
+          "id": "sent-015",
+          "text": "Había algo más raro: las mareas del mundo eran incorrectas.",
+          "translationRu": "Происходило нечто ещё более странное: приливы во всём мире были неправильными."
         },
         {
-          "id": "sent-020",
-          "text": "Allí también estaba Tad Megan, un amigo que creíamos muerto.",
-          "translationRu": "Там был и Тэд Меган — друг, которого мы считали погибшим."
+          "id": "sent-016",
+          "text": "El agua de los océanos bajaba poco a poco cada día.",
+          "translationRu": "Вода в океанах медленно убывала с каждым днём."
         },
         {
-          "id": "sent-021",
-          "text": "Yo fui a la isla y los tres me llevaron al fondo de la Tierra.",
-          "translationRu": "Я добрался до острова, и все трое провели меня на дно Земли."
-        },
-        {
-          "id": "sent-022",
-          "text": "Bajamos por el agua en una bola de metal.",
-          "translationRu": "Мы спустились сквозь воду в металлическом шаре."
+          "id": "sent-017",
+          "text": "Los puertos perdían profundidad y los barcos no podían entrar bien.",
+          "translationRu": "Порты мелели, и корабли с трудом могли заходить в них."
         }
       ]
     },
@@ -147,89 +122,29 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "La emperatriz Rhana era la jefa de los Gians.",
-          "translationRu": "Императрица Рана была предводительницей Гианов."
+          "id": "sent-018",
+          "text": "En nuestro último viaje, Arturo y yo vimos algo increíble en las profundidades.",
+          "translationRu": "В нашем последнем рейсе мы с Артуро увидели в глубине нечто невероятное."
         },
         {
-          "id": "sent-024",
-          "text": "Ella era muy cruel y quería conquistar nuestro mundo.",
-          "translationRu": "Она была очень жестокой и хотела завоевать наш мир."
+          "id": "sent-019",
+          "text": "Un objeto redondo y metálico flotaba ante nosotros como una enorme araña de mar.",
+          "translationRu": "Круглый металлический объект парил перед нами, как огромный морской паук."
         },
         {
-          "id": "sent-025",
-          "text": "Rhana nos capturó a Arturo y a mí en su castillo.",
-          "translationRu": "Рана захватила нас с Артуро в своём замке."
+          "id": "sent-020",
+          "text": "Arturo usó el telescopio y vio una ventana redonda en la esfera.",
+          "translationRu": "Артуро воспользовался телескопом и увидел круглое окно в сфере."
         },
         {
-          "id": "sent-026",
-          "text": "Tad y Nereid nos salvaron con ropa invisible.",
-          "translationRu": "Тэд и Нереида спасли нас с помощью невидимой одежды."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
-          "id": "sent-027",
-          "text": "Los Gians abrieron las compuertas y el agua entró en el mundo subterráneo.",
-          "translationRu": "Гианы открыли шлюзы, и вода хлынула в подземный мир."
+          "id": "sent-021",
+          "text": "Detrás del vidrio apareció el rostro de una chica joven con ojos verdes y pelo largo.",
+          "translationRu": "За стеклом показалось лицо молодой девушки с зелёными глазами и длинными волосами."
         },
         {
-          "id": "sent-028",
-          "text": "Intentamos cerrar las compuertas pero Rhana nos ganó.",
-          "translationRu": "Мы попытались закрыть шлюзы, но Рана нас опередила."
-        },
-        {
-          "id": "sent-029",
-          "text": "Escapamos por un túnel largo y llegamos a la superficie.",
-          "translationRu": "Мы бежали по длинному туннелю и выбрались на поверхность."
-        },
-        {
-          "id": "sent-030",
-          "text": "Nereid se sacrificó para destruir el aeronave de Rhana.",
-          "translationRu": "Нереида пожертвовала собой, чтобы уничтожить летательный аппарат Раны."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-031",
-          "text": "Rhana murió cuando el aeronave cayó al suelo.",
-          "translationRu": "Рана погибла, когда летательный аппарат рухнул на землю."
-        },
-        {
-          "id": "sent-032",
-          "text": "Los Middge destruyeron el campamento de los Gians con una gran arma.",
-          "translationRu": "Миджи уничтожили лагерь Гианов мощным оружием."
-        },
-        {
-          "id": "sent-033",
-          "text": "Después, los Middge desaparecieron otra vez en las profundidades.",
-          "translationRu": "После этого Миджи снова скрылись в глубинах земли."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-034",
-          "text": "Al final, Arturo y Nereid vivían juntos junto a un río.",
-          "translationRu": "В конце концов Артуро и Нереида жили вместе на берегу реки."
-        },
-        {
-          "id": "sent-035",
-          "text": "Yo me casé con Polly, la hermana de Arturo.",
-          "translationRu": "Я женился на Полли, сестре Артуро."
-        },
-        {
-          "id": "sent-036",
-          "text": "El mundo cambió mucho, pero la vida continuó.",
-          "translationRu": "Мир изменился, но жизнь продолжалась."
+          "id": "sent-022",
+          "text": "Sus ojos me miraron y sentí algo extraño, como un miedo y un deseo al mismo tiempo.",
+          "translationRu": "Её глаза смотрели на меня, и я почувствовал нечто странное — смесь страха и влечения."
         }
       ]
     }
