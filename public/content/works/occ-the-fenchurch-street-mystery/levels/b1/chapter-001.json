@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "occ-the-fenchurch-street-mystery",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El misterio de Fenchurch Street"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Polly Burton leía un artículo sobre crímenes sin resolver cuando un hombre extraño se sentó frente a ella.",
+          "translationRu": "Полли Бёртон читала статью о нераскрытых преступлениях, когда напротив неё сел странный человек."
+        },
+        {
+          "id": "sent-002",
+          "text": "Era muy delgado y pálido, con el pelo rubio peinado hacia atrás sobre una cabeza casi calva.",
+          "translationRu": "Он был очень худым и бледным, с гладко зачёсанными светлыми волосами на почти лысой голове."
+        },
+        {
+          "id": "sent-003",
+          "text": "Jugaba sin parar con un trozo de cuerda, haciendo nudos con sus dedos largos y nerviosos.",
+          "translationRu": "Он без остановки играл с кусочком верёвки, завязывая узлы своими длинными нервными пальцами."
+        },
+        {
+          "id": "sent-004",
+          "text": "Cuando Polly comentó en voz alta sobre los misterios sin resolver, el hombre respondió que no existían si se usaba la inteligencia.",
+          "translationRu": "Когда Полли вслух прокомментировала нераскрытые тайны, мужчина ответил, что их не существует, если применять разум."
+        },
+        {
+          "id": "sent-005",
+          "text": "Polly le preguntó con ironía si tampoco era un misterio el caso de Fenchurch Street.",
+          "translationRu": "Полли иронично спросила, не является ли тайной и дело Фенчёрч-стрит."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "El hombre del rincón comenzó a contar la historia con calma y detalle.",
+          "translationRu": "Человек в углу спокойно и подробно начал рассказывать историю."
+        },
+        {
+          "id": "sent-007",
+          "text": "En diciembre, una mujer pobre fue a Scotland Yard porque su marido, William Kershaw, había desaparecido.",
+          "translationRu": "В декабре бедная женщина пришла в Скотланд-Ярд, потому что её муж, Уильям Кершоу, пропал."
+        },
+        {
+          "id": "sent-008",
+          "text": "Fue acompañada por su amigo alemán, Karl Müller, quien conocía los detalles del caso.",
+          "translationRu": "Её сопровождал немецкий друг, Карл Мюллер, который знал подробности дела."
+        },
+        {
+          "id": "sent-009",
+          "text": "Kershaw había sido estudiante de medicina y conocía a un hombre llamado Barker, que se convirtió en asesino.",
+          "translationRu": "Кершоу был студентом медицины и знал человека по имени Баркер, ставшего убийцей."
+        },
+        {
+          "id": "sent-010",
+          "text": "Barker huyó al extranjero y, con el nombre de Francis Smethurst, se hizo millonario en Siberia.",
+          "translationRu": "Баркер бежал за границу и под именем Фрэнсиса Сметхёрста стал миллионером в Сибири."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Kershaw recibió dos cartas de Smethurst en las que este le informaba de su regreso a Inglaterra.",
+          "translationRu": "Кершоу получил два письма от Сметхёрста, в которых тот сообщал о своём возвращении в Англию."
+        },
+        {
+          "id": "sent-012",
+          "text": "La segunda carta le citaba en la sala de espera de primera clase de la estación de Fenchurch Street.",
+          "translationRu": "Во втором письме его приглашали в зал ожидания первого класса на вокзале Фенчёрч-стрит."
+        },
+        {
+          "id": "sent-013",
+          "text": "Kershaw pensaba chantajear al millonario con los secretos de su pasado criminal.",
+          "translationRu": "Кершоу намеревался шантажировать миллионера тайнами его преступного прошлого."
+        },
+        {
+          "id": "sent-014",
+          "text": "Su mujer tenía miedo porque Smethurst podría ser peligroso, pero Kershaw fue de todas formas.",
+          "translationRu": "Его жена боялась, что Сметхёрст может быть опасен, но Кершоу всё равно пошёл."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "Kershaw no regresó esa noche, y su mujer pasó días buscándole por los alrededores de Fenchurch Street.",
+          "translationRu": "Кершоу не вернулся той ночью, и его жена несколько дней искала его в окрестностях Фенчёрч-стрит."
+        },
+        {
+          "id": "sent-016",
+          "text": "A finales de diciembre, unos trabajadores encontraron un cuerpo muy descompuesto en una barcaza.",
+          "translationRu": "В конце декабря рабочие нашли в барже сильно разложившееся тело."
+        },
+        {
+          "id": "sent-017",
+          "text": "La mujer identificó objetos personales de Kershaw y creyó que era él.",
+          "translationRu": "Женщина опознала личные вещи Кершоу и решила, что это он."
+        },
+        {
+          "id": "sent-018",
+          "text": "La policía arrestó a Smethurst en el Hotel Cecil, donde vivía rodeado de lujo.",
+          "translationRu": "Полиция арестовала Сметхёрста в отеле «Сесил», где он жил в роскоши."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "En el juicio, los testigos declararon que un hombre con abrigo de piel llegó a la estación el 10 de diciembre.",
+          "translationRu": "На суде свидетели показали, что 10 декабря на вокзал прибыл человек в меховом пальто."
+        },
+        {
+          "id": "sent-020",
+          "text": "Habló con un individuo mal vestido en la sala de espera y luego ambos desaparecieron juntos.",
+          "translationRu": "Он поговорил с плохо одетым человеком в зале ожидания, а потом они вместе исчезли."
+        },
+        {
+          "id": "sent-021",
+          "text": "El taxista que esperaba a Smethurst tuvo que aguardar más de dos horas antes de que el millonario regresara.",
+          "translationRu": "Таксист, ожидавший Сметхёрста, ждал более двух часов, прежде чем миллионер вернулся."
+        },
+        {
+          "id": "sent-022",
+          "text": "Todo parecía indicar que Smethurst había matado a Kershaw durante esas horas.",
+          "translationRu": "Всё указывало на то, что за эти часы Сметхёрст убил Кершоу."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "Pero el abogado defensor presentó dos pruebas que cambiaron todo.",
+          "translationRu": "Но адвокат защиты представил два доказательства, изменивших всё."
+        },
+        {
+          "id": "sent-024",
+          "text": "Primero, el dueño de un restaurante declaró que Kershaw visitó su local el 16 de diciembre, seis días después del supuesto crimen.",
+          "translationRu": "Во-первых, владелец ресторана заявил, что Кершоу посещал его заведение 16 декабря, через шесть дней после предполагаемого преступления."
+        },
+        {
+          "id": "sent-025",
+          "text": "Segundo, los peritos comprobaron que la letra de Smethurst no coincidía con la de las cartas.",
+          "translationRu": "Во-вторых, эксперты установили, что почерк Сметхёрста не совпадает с почерком на письмах."
+        },
+        {
+          "id": "sent-026",
+          "text": "El juez liberó a Smethurst por falta de pruebas.",
+          "translationRu": "Судья освободил Сметхёрста из-за отсутствия доказательств."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "El hombre del rincón entonces reveló su sorprendente conclusión.",
+          "translationRu": "Человек в углу тогда раскрыл свой поразительный вывод."
+        },
+        {
+          "id": "sent-028",
+          "text": "Kershaw no fue la víctima, sino el asesino: mató al verdadero Smethurst en la niebla del East End.",
+          "translationRu": "Кершоу был не жертвой, а убийцей: он убил настоящего Сметхёрста в тумане Ист-Энда."
+        },
+        {
+          "id": "sent-029",
+          "text": "Fue Kershaw quien escribió las cartas con el nombre de Smethurst para preparar la trampa.",
+          "translationRu": "Именно Кершоу написал письма от имени Сметхёрста, чтобы подготовить ловушку."
+        },
+        {
+          "id": "sent-030",
+          "text": "Después se afeitó la barba, se peinó diferente y adoptó la identidad del millonario.",
+          "translationRu": "Потом он сбрил бороду, изменил причёску и присвоил личность миллионера."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-031",
+          "text": "Visitó el restaurante Torriani dos veces para crear la prueba de que seguía vivo como Kershaw.",
+          "translationRu": "Он дважды посетил ресторан Торриани, чтобы создать доказательство того, что Кершоу жив."
+        },
+        {
+          "id": "sent-032",
+          "text": "El cuerpo del río no era el de Kershaw, sino el del verdadero millonario siberia.",
+          "translationRu": "Тело в реке принадлежало не Кершоу, а настоящему сибирскому миллионеру."
+        },
+        {
+          "id": "sent-033",
+          "text": "Ni la policía ni los jueces llegaron a esta conclusión, y el caso quedó sin resolver.",
+          "translationRu": "Ни полиция, ни судьи не пришли к этому выводу, и дело осталось нераскрытым."
+        },
+        {
+          "id": "sent-034",
+          "text": "El hombre del rincón se levantó, pagó su vaso de leche y desapareció entre la gente.",
+          "translationRu": "Человек в углу встал, заплатил за стакан молока и растворился в толпе."
+        }
+      ]
+    }
+  ]
+}

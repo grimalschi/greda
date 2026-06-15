@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "occ-the-dublin-mystery",
+  "title": "El misterio de Dublín",
+  "titleRu": "Дублинская тайна",
+  "originalTitle": "The Dublin Mystery",
+  "author": {
+    "id": "baroness-orczy",
+    "name": "Baroness Orczy"
+  },
+  "genres": [
+    "Детектив",
+    "Старик в углу"
+  ],
+  "synopsisRu": "Когда дублинский миллионер Брукс умирает после ссоры с сыном, а его адвокат оказывается убит в тот же день, найденное под подушкой завещание оказывается поддельным. Старик в углу раскрывает Полли изящный и жестокий план настоящего преступника.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
