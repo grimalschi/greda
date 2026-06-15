@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El horror del mar"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,18 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El doctor Herbert Clinton era el mayor experto en vida marina de Gran Bretaña.",
-          "translationRu": "Доктор Герберт Клинтон был крупнейшим специалистом по морской жизни в Великобритании."
+          "text": "Ahora que conocemos toda la historia, podemos entender lo cerca que estuvo el mundo de su destrucción.",
+          "translationRu": "Теперь, зная всю историю, мы можем понять, насколько близко мир стоял к своей гибели."
         },
         {
           "id": "sent-002",
-          "text": "Gracias a sus investigaciones fue posible construir los nuevos submarinos tipo K, que podían bajar a profundidades de más de tres millas.",
-          "translationRu": "Благодаря его исследованиям стало возможным строить новые подводные лодки типа К, способные погружаться на глубину более трёх миль."
+          "text": "Todo empezó con el doctor Herbert Clinton, el mayor experto en vida marina de las Islas Británicas.",
+          "translationRu": "Всё началось с доктора Герберта Клинтона — крупнейшего знатока морской жизни Британских островов."
         },
         {
           "id": "sent-003",
-          "text": "En diciembre, Clinton anunció una expedición a las profundas fosas Nelsen del Atlántico para estudiar formas de vida desconocidas.",
-          "translationRu": "В декабре Клинтон объявил об экспедиции в глубокие впадины Нельсена в Атлантике для изучения неизвестных форм жизни."
-        },
-        {
-          "id": "sent-004",
-          "text": "El joven instructor Stevens iba a participar, pero se torció el tobillo y tuvo que quedarse en tierra.",
-          "translationRu": "Молодой инструктор Стивенс должен был участвовать, но подвернул лодыжку и был вынужден остаться на берегу."
+          "text": "Durante veinte años, sus investigaciones habían añadido importantes descubrimientos a la ciencia del mar profundo.",
+          "translationRu": "На протяжении двадцати лет его исследования приносили важные открытия в науку о глубинах океана."
         }
       ]
     },
@@ -37,24 +32,19 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-004",
+          "text": "Sus estudios sobre las criaturas de las profundidades hicieron posible el diseño de los nuevos submarinos tipo K.",
+          "translationRu": "Его изучение глубоководных существ позволило создать новые субмарины типа K."
+        },
+        {
           "id": "sent-005",
-          "text": "El K-16 partió en abril y durante los primeros días los mensajes de radio describían el trabajo normal de redes y clasificación de especies.",
-          "translationRu": "К-16 отплыл в апреле, и в первые дни радиосообщения описывали обычную работу с сетями и классификацию видов."
+          "text": "Estos submarinos podían descender a profundidades de más de tres millas sin sufrir daños.",
+          "translationRu": "Эти субмарины могли погружаться на глубину более трёх миль без каких-либо повреждений."
         },
         {
           "id": "sent-006",
-          "text": "El 9 de mayo, Clinton informó que habían perdido una red de forma extraña: el cable estaba cortado limpiamente, como si usaran unas tijeras gigantes.",
-          "translationRu": "9 мая Клинтон сообщил, что они странным образом потеряли сеть: кабель был чисто перерезан, словно гигантскими ножницами."
-        },
-        {
-          "id": "sent-007",
-          "text": "El 11 de mayo llegó un mensaje urgente: la expedición había encontrado algo increíble y iba a bajar para investigarlo.",
-          "translationRu": "11 мая пришло срочное сообщение: экспедиция обнаружила нечто невероятное и собирается спуститься для исследования."
-        },
-        {
-          "id": "sent-008",
-          "text": "Después de ese mensaje, el K-16 guardó silencio y el mundo creyó que el submarino había sido destruido.",
-          "translationRu": "После этого сообщения К-16 замолчал, и мир решил, что подводная лодка была уничтожена."
+          "text": "En diciembre, Clinton anunció una expedición para explorar las grandes fosas del Atlántico llamadas Nelsen Deeps, situadas a medio camino entre Irlanda y Terranova.",
+          "translationRu": "В декабре Клинтон объявил об экспедиции для исследования больших атлантических впадин — Нельсоновых глубин, расположенных на полпути между Ирландией и Ньюфаундлендом."
         }
       ]
     },
@@ -62,24 +52,19 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-007",
+          "text": "Las redes de arrastre usadas en esas fosas habían sacado huesos extraños que no correspondían a ninguna especie conocida.",
+          "translationRu": "Тралы, применявшиеся в этих впадинах, извлекли странные кости, не принадлежавшие ни одному известному виду."
+        },
+        {
+          "id": "sent-008",
+          "text": "Clinton planeaba usar el submarino K-16, equipado con focos submarinos, ventanillas de vidrio reforzado y un potente aparato de radio.",
+          "translationRu": "Клинтон планировал использовать субмарину K-16, оснащённую подводными прожекторами, иллюминаторами из армированного стекла и мощной радиостанцией."
+        },
+        {
           "id": "sent-009",
-          "text": "Una red del K-16 había sacado del fondo una pequeña máquina de metal desconocido, con tubos transparentes y engranajes, que no se parecía a nada fabricado por los hombres.",
-          "translationRu": "Сеть К-16 подняла со дна небольшую машину из неизвестного металла с прозрачными трубками и шестерёнками, которая не была похожа ни на что, созданное людьми."
-        },
-        {
-          "id": "sent-010",
-          "text": "Clinton pensó que esa máquina provenía de las profundidades y decidió bajar para investigar.",
-          "translationRu": "Клинтон решил, что машина пришла из глубин, и решил спуститься для исследования."
-        },
-        {
-          "id": "sent-011",
-          "text": "A tres millas de profundidad, a través de las ventanillas, los exploradores vieron una enorme ciudad de globos metálicos iluminados por una luz blanca.",
-          "translationRu": "На глубине трёх миль через иллюминаторы исследователи увидели огромный город металлических шаров, освещённых белым светом."
-        },
-        {
-          "id": "sent-012",
-          "text": "Por las calles de esa ciudad se arrastraban criaturas negras como babosas gigantes, con grandes ojos oscuros.",
-          "translationRu": "По улицам этого города ползли чёрные существа, похожие на гигантских слизней, с большими тёмными глазами."
+          "text": "El K-16 tenía también laboratorios, tanques de almacenaje y tubos de torpedo, lo que lo hacía perfecto para la exploración.",
+          "translationRu": "K-16 имел также лаборатории, баки для хранения и торпедные аппараты, что делало его идеальным для исследований."
         }
       ]
     },
@@ -87,24 +72,19 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-013",
-          "text": "Una máquina caminante de mil pies de altura agarró el submarino con un brazo enorme y lo llevó a una de las esferas.",
-          "translationRu": "Шагающая машина высотой в тысячу футов схватила подводную лодку огромной рукой и отнесла её к одной из сфер."
+          "id": "sent-010",
+          "text": "A finales de abril, el largo submarino de acero bajó por el Támesis y salió al mar abierto.",
+          "translationRu": "В конце апреля длинная стальная субмарина спустилась по Темзе в открытое море."
         },
         {
-          "id": "sent-014",
-          "text": "Dentro del globo, los tripulantes respiraron aire puro gracias a los sistemas de las criaturas.",
-          "translationRu": "Внутри шара члены экипажа дышали чистым воздухом благодаря системам существ."
+          "id": "sent-011",
+          "text": "El joven instructor de biología Ernest Stevens iba a ser parte de la expedición, pero el día antes de la partida se torció el tobillo en las escaleras de la universidad.",
+          "translationRu": "Молодой преподаватель биологии Эрнест Стивенс должен был участвовать в экспедиции, но накануне отплытия подвернул лодыжку на ступенях университета."
         },
         {
-          "id": "sent-015",
-          "text": "Tres criaturas en trajes metálicos entraron al globo y Clinton logró comunicarse con ellas mediante dibujos.",
-          "translationRu": "Три существа в металлических костюмах вошли в шар, и Клинтон сумел объясниться с ними с помощью рисунков."
-        },
-        {
-          "id": "sent-016",
-          "text": "Durante varios días los hombres y las criaturas intercambiaron ideas sobre el mundo de arriba y el mundo del fondo del mar.",
-          "translationRu": "Несколько дней люди и существа обменивались сведениями о мире наверху и о мире морского дна."
+          "id": "sent-012",
+          "text": "Un submarino abarrotado no era lugar para un herido, así que Stevens tuvo que quedarse en tierra y seguir las noticias por radio.",
+          "translationRu": "Переполненная субмарина была неподходящим местом для раненого, поэтому Стивенсу пришлось остаться на берегу и следить за новостями по радио."
         }
       ]
     },
@@ -112,24 +92,19 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-017",
-          "text": "Las criaturas existían desde antes de que el hombre apareciera en la Tierra, y sus dominios se reducían porque los mares se estaban encogiendo poco a poco.",
-          "translationRu": "Существа появились раньше человека на Земле, и их владения сокращались, потому что моря постепенно мermaban."
+          "id": "sent-013",
+          "text": "Durante los primeros días, el K-16 avanzó hacia el noroeste y los mensajes de radio describían el trabajo normal con las redes y la clasificación de nuevas especies.",
+          "translationRu": "В первые дни K-16 двигался на северо-запад, и радиосообщения описывали обычную работу с тралами и классификацию новых видов."
         },
         {
-          "id": "sent-018",
-          "text": "Para sobrevivir, habían construido durante siglos generadores gigantes bajo sus ciudades que podían crear agua de la nada y cubrir toda la Tierra con el mar.",
-          "translationRu": "Чтобы выжить, они в течение веков строили гигантские генераторы под своими городами, способные создавать воду из ничего и покрыть всю Землю морем."
+          "id": "sent-014",
+          "text": "El 9 de mayo, Clinton mencionó que habían perdido una red de forma misteriosa: el cable de acero estaba cortado de manera limpia, como si lo hubieran cortado con tijeras gigantes.",
+          "translationRu": "9 мая Клинтон упомянул, что они загадочно потеряли трал: стальной трос был срезан чисто, словно гигантскими ножницами."
         },
         {
-          "id": "sent-019",
-          "text": "Cuando los generadores se pusieron en marcha, el nivel del mar comenzó a subir en todo el mundo.",
-          "translationRu": "Когда генераторы запустили, уровень моря во всём мире начал подниматься."
-        },
-        {
-          "id": "sent-020",
-          "text": "Holanda fue la primera víctima: el mar rompió sus diques y ahogó la mitad del país.",
-          "translationRu": "Нидерланды стали первой жертвой: море сломило дамбы и затопило половину страны."
+          "id": "sent-015",
+          "text": "Esa frase extraña inquietó a Stevens, pero Clinton no explicó más y el 10 de mayo no llegó ningún mensaje.",
+          "translationRu": "Эта странная фраза встревожила Стивенса, но Клинтон не объяснил ничего больше, а 10 мая не пришло ни одного сообщения."
         }
       ]
     },
@@ -137,24 +112,19 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "El comandante Evans propuso usar el submarino como ariete para romper las puertas del globo.",
-          "translationRu": "Командир Эванс предложил использовать подводную лодку как таран, чтобы сломать двери шара."
+          "id": "sent-016",
+          "text": "El 11 de mayo llegó un mensaje corto pero extraordinario: la expedición había sacado de las aguas algo tan increíble que ninguno podía creer lo que veían.",
+          "translationRu": "11 мая пришло краткое, но необычайное сообщение: экспедиция подняла из воды нечто настолько невероятное, что никто не мог поверить собственным глазам."
         },
         {
-          "id": "sent-022",
-          "text": "Después de tres embestidas, las puertas cedieron y el submarino escapó hacia la superficie entre los brazos de las máquinas gigantes.",
-          "translationRu": "После трёх таранных ударов двери поддались, и подводная лодка вырвалась на поверхность, уклоняясь от рук гигантских машин."
+          "id": "sent-017",
+          "text": "\"O estamos todos locos, o hemos hecho el mayor descubrimiento de la historia\", escribió Clinton.",
+          "translationRu": "«Или мы все сошли с ума, или мы совершили величайшее открытие в истории», — написал Клинтон."
         },
         {
-          "id": "sent-023",
-          "text": "Clinton llegó a Londres y convenció a las autoridades navales de la amenaza.",
-          "translationRu": "Клинтон прибыл в Лондон и убедил военно-морские власти в реальности угрозы."
-        },
-        {
-          "id": "sent-024",
-          "text": "Él encontró a Stevens en su casa durante el caos de la inundación y lo invitó a unirse a la última expedición.",
-          "translationRu": "Он нашёл Стивенса дома в хаосе наводнения и пригласил его присоединиться к последней экспедиции."
+          "id": "sent-018",
+          "text": "Añadió que iban a descender en el submarino para investigar y que cuando dieran noticias de nuevo lo sabrían todo.",
+          "translationRu": "Он добавил, что собираются погрузиться на субмарине для исследования и что когда они снова выйдут на связь — всё прояснится."
         }
       ]
     },
@@ -162,69 +132,29 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-025",
-          "text": "Más de trescientos submarinos de varios países descendieron juntos hacia la ciudad del fondo.",
-          "translationRu": "Более трёхсот подводных лодок из разных стран вместе спустились к подводному городу."
+          "id": "sent-019",
+          "text": "Ese mensaje despertó el interés de periodistas y científicos en ambos lados del Atlántico.",
+          "translationRu": "Это сообщение пробудило интерес журналистов и учёных по обе стороны Атлантики."
         },
         {
-          "id": "sent-026",
-          "text": "Las criaturas lanzaron esferas-bomba que subían desde abajo y destruyeron muchos submarinos con destellos de luz violeta.",
-          "translationRu": "Существа запустили шары-бомбы, которые поднимались снизу и уничтожали подводные лодки вспышками фиолетового света."
+          "id": "sent-020",
+          "text": "En la estación de radio de la universidad de Londres, Stevens y los colegas de Clinton esperaban con tensión creciente, pero durante todo el día y la noche siguiente el submarino guardó silencio.",
+          "translationRu": "На радиостанции Лондонского университета Стивенс и коллеги Клинтона ждали с нарастающим напряжением, однако весь день и следующую ночь субмарина молчала."
         },
         {
-          "id": "sent-027",
-          "text": "Después, un gran cilindro magnético atrajo a los demás submarinos hacia la ciudad, donde las máquinas gigantes los aplastaron.",
-          "translationRu": "Затем огромный магнитный цилиндр притянул оставшиеся подводные лодки к городу, где гигантские машины их раздавили."
+          "id": "sent-021",
+          "text": "Los periódicos del día 13 confirmaron que los barcos enviados al lugar no habían encontrado ningún rastro del K-16.",
+          "translationRu": "Газеты 13-го числа сообщили, что суда, посланные к месту последнего выхода на связь, не обнаружили никаких следов K-16."
         },
         {
-          "id": "sent-028",
-          "text": "Solo el submarino de Clinton resistió, porque un golpe de la máquina gigante lo sacó del campo magnético.",
-          "translationRu": "Лишь подводная лодка Клинтона устояла, так как удар гигантской машины вытолкнул её из магнитного поля."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-029",
-          "text": "Clinton tomó el control y dirigió el submarino directo hacia la pequeña sala de control en la cima de la torre central.",
-          "translationRu": "Клинтон взял управление и направил подводную лодку прямо в небольшой зал управления на вершине центральной башни."
+          "id": "sent-022",
+          "text": "La opinión general era que Clinton había descendido demasiado y que la inmensa presión del agua había aplastado el submarino.",
+          "translationRu": "Общее мнение сводилось к тому, что Клинтон погрузился слишком глубоко и чудовищное давление воды раздавило субмарину."
         },
         {
-          "id": "sent-030",
-          "text": "El submarino chocó contra la sala y la destruyó, lo que liberó la energía de todos los generadores del mundo al mismo tiempo.",
-          "translationRu": "Подводная лодка врезалась в зал и разрушила его, что высвободило энергию всех генераторов в мире одновременно."
-        },
-        {
-          "id": "sent-031",
-          "text": "En ese momento, todas las ciudades de las criaturas en todos los océanos explotaron y sus habitantes perecieron.",
-          "translationRu": "В тот миг все города существ во всех океанах взорвались, и их обитатели погибли."
-        },
-        {
-          "id": "sent-032",
-          "text": "El submarino fue lanzado hacia arriba por las convulsiones del agua y salió a la superficie.",
-          "translationRu": "Подводная лодка была выброшена вверх конвульсиями воды и вышла на поверхность."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-033",
-          "text": "Al atardecer, Clinton y Stevens estaban en cubierta mirando el mar tranquilo.",
-          "translationRu": "На закате Клинтон и Стивенс стояли на палубе, глядя на спокойное море."
-        },
-        {
-          "id": "sent-034",
-          "text": "Solo doce de los trescientos submarinos sobrevivieron.",
-          "translationRu": "Лишь двенадцать из трёхсот подводных лодок выжили."
-        },
-        {
-          "id": "sent-035",
-          "text": "El mar empezó a bajar y los pueblos del mundo pudieron regresar a sus hogares.",
-          "translationRu": "Море начало отступать, и народы мира смогли вернуться в свои дома."
+          "id": "sent-023",
+          "text": "En pocos días el mundo olvidó la expedición y siguió con sus propios asuntos, sin sospechar el peligro terrible que crecía en las profundidades.",
+          "translationRu": "Через несколько дней мир забыл об экспедиции и вернулся к своим делам, не подозревая об ужасной угрозе, зревшей в глубинах."
         }
       ]
     }
