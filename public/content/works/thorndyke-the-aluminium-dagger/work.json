@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "thorndyke-the-aluminium-dagger",
+  "title": "El dagger de aluminio",
+  "titleRu": "Алюминиевый кинжал",
+  "originalTitle": "The Aluminium Dagger",
+  "author": {
+    "id": "r-austin-freeman",
+    "name": "R. Austin Freeman"
+  },
+  "genres": [
+    "Детектив",
+    "Доктор Торндайк"
+  ],
+  "synopsisRu": "Доктор Торндайк расследует загадочное убийство: жертва найдена с кинжалом в спине в запертой изнутри квартире. Блестящий анализ необычного оружия раскрывает, что убийца никогда не входил в комнату — кинжал был выстрелен из снайперской позиции напротив.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
