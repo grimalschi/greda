@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La Inteligencia Alienígena"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Winfield Fowler era médico en Australia.",
-          "translationRu": "Уинфилд Фаулер был врачом в Австралии."
+          "text": "Winfield Fowler era un médico joven que vivía en Perth, Australia.",
+          "translationRu": "Уинфилд Фаулер был молодым врачом, жившим в Перте, Австралии."
         },
         {
           "id": "sent-002",
-          "text": "Su amigo el doctor Austen desapareció en el desierto de Victoria.",
-          "translationRu": "Его друг доктор Остен исчез в пустыне Виктория."
+          "text": "Su mejor amigo era el doctor Horace Austen, un científico famoso.",
+          "translationRu": "Его лучшим другом был доктор Хорас Остен, знаменитый учёный."
         },
         {
           "id": "sent-003",
-          "text": "Un día Fowler recibió un mensaje de radio muy extraño.",
-          "translationRu": "Однажды Фаулер получил очень странное радиосообщение."
+          "text": "Austen fue al desierto de Victoria para investigar unas columnas antiguas.",
+          "translationRu": "Остен отправился в пустыню Виктория, чтобы исследовать древние колонны."
         },
         {
           "id": "sent-004",
-          "text": "Austen decía que estaba perdido en un mundo nuevo y pedía ayuda.",
-          "translationRu": "Остен говорил, что потерялся в новом мире и просил о помощи."
+          "text": "Después de muchas semanas, Austen desapareció y nadie sabía dónde estaba.",
+          "translationRu": "Спустя много недель Остен исчез, и никто не знал, где он."
         }
       ]
     },
@@ -38,23 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Fowler tomó armas y equipo científico y viajó al desierto.",
-          "translationRu": "Фаулер взял оружие и научное оборудование и отправился в пустыню."
+          "text": "Un día el tío de Winfield escuchó un mensaje de radio muy extraño.",
+          "translationRu": "Однажды дядя Уинфилда принял очень странное радиосообщение."
         },
         {
           "id": "sent-006",
-          "text": "Llegó a la Montaña de la Luna, una gran montaña de piedra negra.",
-          "translationRu": "Он добрался до Горы Луны — огромной горы из чёрного камня."
+          "text": "El mensaje era de Austen: «Estoy perdido en un mundo nuevo y terrible.»",
+          "translationRu": "Сообщение было от Остена: «Я потерялся в новом ужасном мире.»"
         },
         {
           "id": "sent-007",
-          "text": "Por la noche vio luces rojas que volaban por el cielo.",
-          "translationRu": "Ночью он увидел красные огни, летящие по небу."
+          "text": "Austen hablaba de una montaña misteriosa llamada la Montaña de la Luna.",
+          "translationRu": "Остен говорил о таинственной горе под названием Гора Луны."
         },
         {
           "id": "sent-008",
-          "text": "Las luces asustaron a sus caballos y se los llevaron.",
-          "translationRu": "Огни напугали его лошадей и унесли их."
+          "text": "Pedía ayuda y decía: «Venid por el amor de la humanidad.»",
+          "translationRu": "Он просил помощи и говорил: «Приходите ради человечества.»"
         }
       ]
     },
@@ -63,23 +63,18 @@
       "sentences": [
         {
           "id": "sent-009",
-          "text": "Fowler encontró una escalera de metal en la roca.",
-          "translationRu": "Фаулер нашёл металлическую лестницу на скале."
+          "text": "Winfield tomó su rifle, dos pistolas y el equipo científico de Austen.",
+          "translationRu": "Уинфилд взял винтовку, два пистолета и научное оборудование Остена."
         },
         {
           "id": "sent-010",
-          "text": "Subió la escalera y vio un gran abismo debajo.",
-          "translationRu": "Он поднялся по лестнице и увидел огромную пропасть внизу."
+          "text": "Viajó tres semanas por el desierto y llegó a la Montaña de la Luna.",
+          "translationRu": "Три недели он шёл через пустыню и добрался до Горы Луны."
         },
         {
           "id": "sent-011",
-          "text": "Bajó otra escalera al fondo del cráter.",
-          "translationRu": "Он спустился по другой лестнице на дно кратера."
-        },
-        {
-          "id": "sent-012",
-          "text": "Vio una llanura roja, un lago de plata y una ciudad brillante.",
-          "translationRu": "Он увидел красную равнину, серебряное озеро и блестящий город."
+          "text": "La montaña tenía paredes de roca negra muy altas y peligrosas.",
+          "translationRu": "У горы были очень высокие и опасные стены из чёрной скалы."
         }
       ]
     },
@@ -87,24 +82,29 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-012",
+          "text": "En la noche, una luz roja brillante apareció sobre la montaña.",
+          "translationRu": "Ночью над горой появился яркий красный свет."
+        },
+        {
           "id": "sent-013",
-          "text": "En el cráter conoció a una chica muy bella que se llamaba Melvar.",
-          "translationRu": "В кратере он познакомился с очень красивой девушкой по имени Мелвар."
+          "text": "Winfield oyó un grito horrible y sintió un viento muy fuerte.",
+          "translationRu": "Уинфилд услышал ужасный крик и почувствовал очень сильный ветер."
         },
         {
           "id": "sent-014",
-          "text": "Melvar hablaba inglés porque Austen le había enseñado.",
-          "translationRu": "Мелвар говорила по-английски, потому что Остен научил её."
+          "text": "El viento rompió su tienda y tuvo mucho miedo.",
+          "translationRu": "Ветер разрушил его палатку, и он очень испугался."
         },
         {
           "id": "sent-015",
-          "text": "Ella le dio a Fowler una carta de su amigo.",
-          "translationRu": "Она передала Фаулеру письмо от его друга."
+          "text": "También escuchó una risa muy extraña, no humana.",
+          "translationRu": "Он также услышал очень странный смех, нечеловеческий."
         },
         {
           "id": "sent-016",
-          "text": "La carta decía que Austen había ido al otro lado del Lago de Plata.",
-          "translationRu": "В письме говорилось, что Остен ушёл на другую сторону Серебряного озера."
+          "text": "Después, todo desapareció en la noche.",
+          "translationRu": "Потом всё исчезло в ночи."
         }
       ]
     },
@@ -113,18 +113,18 @@
       "sentences": [
         {
           "id": "sent-017",
-          "text": "Los sacerdotes querían matar a Melvar como sacrificio.",
-          "translationRu": "Жрецы хотели убить Мелвар в жертву."
+          "text": "Por la mañana, sus caballos habían desaparecido.",
+          "translationRu": "Утром его лошади исчезли."
         },
         {
           "id": "sent-018",
-          "text": "Fowler llegó al templo y disparó su pistola para salvarla.",
-          "translationRu": "Фаулер добрался до храма и выстрелил из пистолета, чтобы спасти её."
+          "text": "Encontró huellas de pies humanos en la arena, pero ningún caballo.",
+          "translationRu": "Он нашёл следы человеческих ног на песке, но ни одной лошади."
         },
         {
           "id": "sent-019",
-          "text": "Los tres escaparon de la ciudad de cristal.",
-          "translationRu": "Все трое бежали из хрустального города."
+          "text": "Algo misterioso había llevado a los animales.",
+          "translationRu": "Что-то таинственное унесло животных."
         }
       ]
     },
@@ -133,23 +133,23 @@
       "sentences": [
         {
           "id": "sent-020",
-          "text": "En el bosque encontraron al viejo Austen en su campamento.",
-          "translationRu": "В лесу они нашли старого Остена в его лагере."
+          "text": "Winfield buscó y encontró una escalera de metal vieja en la roca.",
+          "translationRu": "Уинфилд поискал и нашёл старую металлическую лестницу в скале."
         },
         {
           "id": "sent-021",
-          "text": "Austen había construido máquinas para estudiar el lago.",
-          "translationRu": "Остен построил машины, чтобы изучить озеро."
+          "text": "Subió seiscientos pies con todas sus cosas hasta la cima.",
+          "translationRu": "Он поднялся на шестьсот футов со всеми вещами до вершины."
         },
         {
           "id": "sent-022",
-          "text": "Él descubrió que los Krimlu eran insectos enormes con cuerpos de metal.",
-          "translationRu": "Он выяснил, что Кримлу были огромными насекомыми с металлическими телами."
+          "text": "Desde arriba vio un inmenso agujero, como un gran cráter.",
+          "translationRu": "Сверху он увидел огромную дыру, как большой кратер."
         },
         {
           "id": "sent-023",
-          "text": "Los Krimlu capturaban personas y las convertían en esclavos morados.",
-          "translationRu": "Кримлу захватывали людей и превращали их в фиолетовых рабов."
+          "text": "Abajo había una llanura roja, un lago brillante de color plata y una montaña con cristales de colores.",
+          "translationRu": "Внизу была красная равнина, блестящее серебристое озеро и гора с цветными кристаллами."
         }
       ]
     },
@@ -158,28 +158,53 @@
       "sentences": [
         {
           "id": "sent-024",
-          "text": "Austen bajó solo a la tierra de los Krimlu para destruirlos.",
-          "translationRu": "Остен один спустился в подземный мир Кримлу, чтобы уничтожить их."
+          "text": "Winfield bajó por una segunda escalera muy larga.",
+          "translationRu": "Уинфилд спустился по второй, очень длинной лестнице."
         },
         {
           "id": "sent-025",
-          "text": "Fowler y Melvar subieron en un barco cohete y huyeron.",
-          "translationRu": "Фаулер и Мелвар поднялись на ракетный корабль и улетели."
+          "text": "Fue muy difícil y peligroso porque era de noche.",
+          "translationRu": "Это было очень трудно и опасно, потому что уже была ночь."
         },
         {
           "id": "sent-026",
-          "text": "Austen hizo explotar el Lago de Plata y destruyó a todos los Krimlu.",
-          "translationRu": "Остен взорвал Серебряное озеро и уничтожил всех Кримлу."
+          "text": "Unos objetos rojos volaban rápido por el cielo, como torpedos.",
+          "translationRu": "По небу быстро летали красные объекты, похожие на торпеды."
         },
         {
           "id": "sent-027",
-          "text": "El cohete salió del cráter y llegó al desierto de Australia.",
-          "translationRu": "Ракета вылетела из кратера и приземлилась в австралийской пустыне."
+          "text": "Uno de ellos se acercó a él y Winfield tuvo tanto miedo que cayó.",
+          "translationRu": "Один из них приблизился к нему, и Уинфилд так испугался, что упал."
         },
         {
           "id": "sent-028",
-          "text": "Fowler y Melvar se casaron y vivieron juntos.",
-          "translationRu": "Фаулер и Мелвар поженились и зажили вместе."
+          "text": "Cayó al suelo y se golpeó la cabeza, pero sobrevivió.",
+          "translationRu": "Он упал на землю и ударился головой, но выжил."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-029",
+          "text": "Al día siguiente encontró cartuchos de pistola en el suelo rojo.",
+          "translationRu": "На следующий день он нашёл пистолетные гильзы на красной земле."
+        },
+        {
+          "id": "sent-030",
+          "text": "Eran del calibre de Austen, así que su amigo había pasado por aquí.",
+          "translationRu": "Они были калибра Остена, значит, его друг прошёл здесь."
+        },
+        {
+          "id": "sent-031",
+          "text": "Vio unos soldados altos con armadura de cristal que marchaban hacia la ciudad.",
+          "translationRu": "Он увидел высоких солдат в хрустальных доспехах, марширующих к городу."
+        },
+        {
+          "id": "sent-032",
+          "text": "Los soldados eran blancos y rubios, y sus espadas brillaban como diamantes.",
+          "translationRu": "Солдаты были светлокожими и светловолосыми, их мечи блестели как алмазы."
         }
       ]
     }

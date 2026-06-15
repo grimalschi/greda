@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La Inteligencia Alienígena"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,28 +13,33 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Winfield Fowler era un joven médico americano que ejercía en Perth, Australia.",
-          "translationRu": "Уинфилд Фаулер был молодым американским врачом, практиковавшим в Перте, Австралия."
+          "text": "Ante mí, a menos de un kilómetro, se alzaban las murallas de la Montaña de la Luna.",
+          "translationRu": "Передо мной, на расстоянии менее километра, поднимались укреплённые стены Горы Луны."
         },
         {
           "id": "sent-002",
-          "text": "Su mejor amigo, el doctor Horace Austen, desapareció mientras exploraba el desierto de Victoria.",
-          "translationRu": "Его лучший друг, доктор Хорас Остен, исчез, исследуя пустыню Виктория."
+          "text": "El sol rojo ardía sobre la arena del desierto con una intensidad terrible.",
+          "translationRu": "Красное солнце пылало над пустынным песком с ужасающей силой."
         },
         {
           "id": "sent-003",
-          "text": "Unos meses después, el tío de Fowler captó un mensaje de radio muy extraño.",
-          "translationRu": "Несколько месяцев спустя дядя Фаулера поймал очень странное радиосообщение."
+          "text": "Los acantilados negros se elevaban en vertical como una barrera oscura y amenazante.",
+          "translationRu": "Чёрные утёсы поднимались вертикально, как тёмный и угрожающий барьер."
         },
         {
           "id": "sent-004",
-          "text": "Austen decía que estaba perdido en un mundo desconocido donde reinaban terrores alienígenas.",
-          "translationRu": "Остен говорил, что потерялся в неизвестном мире, где царили чужеродные ужасы."
+          "text": "Hacía un año que yo, Winfield Fowler, médico americano, había llegado a Perth, Australia, para ejercer mi profesión.",
+          "translationRu": "Год назад я, Уинфилд Фаулер, американский врач, прибыл в Перт, Австралия, чтобы заниматься своей профессией."
         },
         {
           "id": "sent-005",
-          "text": "Le pedía a Fowler que viniera con armas y equipo científico a la Montaña de la Luna.",
-          "translationRu": "Он просил Фаулера прийти с оружием и научным оборудованием к Горе Луны."
+          "text": "Mi mejor amigo era el doctor Horace Austen, famoso radiólogo y explorador, treinta años mayor que yo.",
+          "translationRu": "Моим лучшим другом был доктор Хорас Остен, известный рентгенолог и исследователь, на тридцать лет старше меня."
+        },
+        {
+          "id": "sent-006",
+          "text": "Austen se había internado en el Gran Desierto de Victoria para investigar unas columnas en ruinas, y simplemente había desaparecido.",
+          "translationRu": "Остен ушёл в Большую пустыню Виктория, чтобы исследовать разрушенные колонны, и просто исчез."
         }
       ]
     },
@@ -42,24 +47,29 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-006",
-          "text": "Fowler preparó sus pistolas, un rifle y el equipo de rayos X de Austen, y viajó durante tres semanas al desierto.",
-          "translationRu": "Фаулер подготовил пистолеты, винтовку и рентгеновское оборудование Остена и три недели добирался до пустыни."
-        },
-        {
           "id": "sent-007",
-          "text": "Cuando llegó a la montaña, vio acantilados negros que se elevaban cientos de metros sobre la arena.",
-          "translationRu": "Добравшись до горы, он увидел чёрные утёсы, поднимавшиеся на сотни метров над песком."
+          "text": "Unos meses después, el tío de Fowler captó por radio un mensaje extraordinario de su amigo perdido.",
+          "translationRu": "Несколько месяцев спустя дядя Фаулера поймал по радио необычайное сообщение от пропавшего друга."
         },
         {
           "id": "sent-008",
-          "text": "La primera noche, luces rojas volaron sobre su campamento y se llevaron sus caballos.",
-          "translationRu": "В первую ночь красные огни пролетели над его лагерем и унесли его лошадей."
+          "text": "El mensaje decía: «Estoy perdido en un mundo nuevo y desconocido, donde reinan terrores alienígenas, dentro de un cráter en la Montaña de la Luna».",
+          "translationRu": "В сообщении говорилось: «Я потерялся в новом неизведанном мире, где царят чужеродные ужасы, внутри кратера в Горе Луны»."
         },
         {
           "id": "sent-009",
-          "text": "También encontró huellas de pies humanos descalzos en la arena, lo que lo llenó de inquietud.",
-          "translationRu": "Он также нашёл следы босых человеческих ног на песке, что наполнило его тревогой."
+          "text": "Austen pedía que Fowler viniera con armas y con el equipo de tubos Röntgen y el espectrómetro.",
+          "translationRu": "Остен просил Фаулера прийти с оружием и оборудованием — трубками Рентгена и спектрометром."
+        },
+        {
+          "id": "sent-010",
+          "text": "También mencionaba a una chica llamada Melvar, «doncella de la ciudad de cristal», que podría ayudar al visitante.",
+          "translationRu": "Он также упомянул девушку по имени Мелвар, «деву хрустального города», которая могла бы помочь гостю."
+        },
+        {
+          "id": "sent-011",
+          "text": "Fowler recibió el mensaje cinco veces en dos semanas; la dirección de las señales apuntaba al lugar donde el explorador Wellington había visto la montaña en 1887.",
+          "translationRu": "Фаулер получил сообщение пять раз за две недели; направление сигналов указывало на место, где исследователь Веллингтон видел гору в 1887 году."
         }
       ]
     },
@@ -67,24 +77,34 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-010",
-          "text": "Fowler encontró una escalera de metal antiguo que subía por la roca hasta el borde del cráter.",
-          "translationRu": "Фаулер нашёл старинную металлическую лестницу, поднимавшуюся по скале к краю кратера."
-        },
-        {
-          "id": "sent-011",
-          "text": "Cuando llegó arriba, vio un abismo enorme con una llanura roja, un lago brillante como plata y una ciudad de cristal.",
-          "translationRu": "Когда он добрался до вершины, увидел огромную пропасть с красной равниной, озером, блестящим как серебро, и хрустальным городом."
-        },
-        {
           "id": "sent-012",
-          "text": "Bajó una segunda escalera hasta el fondo del cráter, pero cuando llegó era de noche y las luces rojas volaban peligrosamente cerca.",
-          "translationRu": "Он спустился по второй лестнице на дно кратера, но когда добрался туда, была ночь и красные огни опасно кружили рядом."
+          "text": "Fowler reunió dos pistolas automáticas, un rifle pesado y el equipo científico de Austen, y partió en tren hacia Kanowna.",
+          "translationRu": "Фаулер собрал два автоматических пистолета, тяжёлую винтовку и научное оборудование Остена, и отправился на поезде в Кановна."
         },
         {
           "id": "sent-013",
-          "text": "Una de las luces se acercó demasiado y Fowler se cayó de la escalera, perdiendo el conocimiento.",
-          "translationRu": "Один из огней подлетел слишком близко, и Фаулер упал с лестницы, потеряв сознание."
+          "text": "Desde allí cabalgó tres semanas por el desierto, con tres ponis cargados de provisiones y agua.",
+          "translationRu": "Оттуда он три недели скакал по пустыне на трёх пони, нагруженных провизией и водой."
+        },
+        {
+          "id": "sent-014",
+          "text": "Al llegar por fin a la montaña, la vio alzarse ante él como un cráter de la Luna, con paredes negras pulidas por el viento.",
+          "translationRu": "Добравшись наконец до горы, он увидел её перед собой, как лунный кратер, с чёрными стенами, отполированными ветром."
+        },
+        {
+          "id": "sent-015",
+          "text": "La primera noche, una luz escarlata descendió del cielo con un silbido ensordecedor y dobló la tienda de campaña.",
+          "translationRu": "В первую ночь алый свет спустился с неба с оглушительным свистом и повалил палатку."
+        },
+        {
+          "id": "sent-016",
+          "text": "Después de la luz, Fowler oyó una carcajada salvaje e inhumana que resonó contra los acantilados.",
+          "translationRu": "После появления света Фаулер услышал дикий нечеловеческий хохот, отдавшийся эхом от утёсов."
+        },
+        {
+          "id": "sent-017",
+          "text": "Por la mañana comprobó que sus dos ponis habían desaparecido y que había huellas de pies humanos descalzos en la arena.",
+          "translationRu": "Утром он обнаружил, что оба пони исчезли, а на песке остались следы босых человеческих ног."
         }
       ]
     },
@@ -92,24 +112,29 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "Al día siguiente Fowler encontró en el bosque rojo a una chica de cabello dorado llamada Melvar.",
-          "translationRu": "На следующий день Фаулер нашёл в красном лесу золотоволосую девушку по имени Мелвар."
+          "id": "sent-018",
+          "text": "Al norte del pico más alto, Fowler encontró una escalera de metal blanco muy antiguo que subía seiscientos metros por la roca.",
+          "translationRu": "К северу от самой высокой вершины Фаулер нашёл лестницу из очень древнего белого металла, поднимавшуюся на шестьсот метров по скале."
         },
         {
-          "id": "sent-015",
-          "text": "Ella hablaba inglés porque Austen la había enseñado durante su estancia en la ciudad de Astran.",
-          "translationRu": "Она говорила по-английски, потому что Остен обучил её во время пребывания в городе Астран."
+          "id": "sent-019",
+          "text": "Cargó con el equipo y subió peldaño a peldaño, deteniéndose a descansar varias veces en el camino.",
+          "translationRu": "Он взял оборудование и поднимался ступенька за ступенькой, несколько раз останавливаясь отдохнуть."
         },
         {
-          "id": "sent-016",
-          "text": "Melvar le dio a Fowler una carta de su amigo y lo llevó a descansar en un escondite secreto de la ciudad.",
-          "translationRu": "Мелвар передала Фаулеру письмо от его друга и привела его отдохнуть в тайное убежище в городе."
+          "id": "sent-020",
+          "text": "Al llegar al borde, se quedó paralizado ante el espectáculo: un inmenso cráter cuyo fondo estaba a kilómetros de profundidad.",
+          "translationRu": "Добравшись до края, он застыл поражённый зрелищем: огромный кратер, дно которого находилось в нескольких километрах глубиной."
         },
         {
-          "id": "sent-017",
-          "text": "En la carta, Austen explicaba que iba a explorar el territorio más allá del Lago de Plata para resolver el misterio de las luces.",
-          "translationRu": "В письме Остен объяснял, что собирается исследовать территорию за Серебряным озером, чтобы разгадать тайну огней."
+          "id": "sent-021",
+          "text": "En el fondo se extendía una llanura de color rojo sangre, y en el centro brillaba una montaña coronada de joyas de fuego.",
+          "translationRu": "На дне простиралась равнина цвета крови, а в центре сияла гора, увенчанная огненными самоцветами."
+        },
+        {
+          "id": "sent-022",
+          "text": "Más allá de la montaña resplandecía el Lago de Plata, con forma de media luna, cuyas aguas brillaban como mercurio bajo el sol.",
+          "translationRu": "За горой сиял Серебряный Лаг в форме полумесяца, воды которого блестели как ртуть под солнцем."
         }
       ]
     },
@@ -117,29 +142,29 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "Los sacerdotes de Astran planeaban sacrificar a Melvar al Dios Sol Morado porque ella había ayudado a los forasteros.",
-          "translationRu": "Жрецы Астрана планировали принести Мелвар в жертву Богу Пурпурного Солнца за то, что она помогала чужакам."
+          "id": "sent-023",
+          "text": "Fowler empezó a bajar por una segunda escalera que descendía hasta la llanura roja, kilómetros abajo.",
+          "translationRu": "Фаулер начал спускаться по второй лестнице, уходившей вниз к красной равнине на километры."
         },
         {
-          "id": "sent-019",
-          "text": "Una noche, cuando los Krimlu atacaban la ciudad, el hermano de Melvar llevó a Fowler hasta el templo.",
-          "translationRu": "Однажды ночью, когда Кримлу атаковали город, брат Мелвар провёл Фаулера к храму."
+          "id": "sent-024",
+          "text": "Cuando cayó la noche, formas de color rojo salieron volando de la niebla morada: eran cilindros enormes que se desplazaban a velocidades increíbles.",
+          "translationRu": "Когда стемнело, из пурпурного тумана вылетели красные формы — огромные цилиндры, двигавшиеся с невероятной скоростью."
         },
         {
-          "id": "sent-020",
-          "text": "El sacerdote Jorak levantaba ya el recipiente con el líquido mortal sobre la chica arrodillada.",
-          "translationRu": "Жрец Йорак уже поднимал сосуд со смертоносной жидкостью над коленопреклонённой девушкой."
+          "id": "sent-025",
+          "text": "Uno de ellos pasó tan cerca que el viento caliente de su estela golpeó el rostro de Fowler.",
+          "translationRu": "Один из них пролетел так близко, что горячий ветер от его следа ударил Фаулера в лицо."
         },
         {
-          "id": "sent-021",
-          "text": "Fowler disparó y destrozó el recipiente; el líquido cayó sobre Jorak y lo mató.",
-          "translationRu": "Фаулер выстрелил и разбил сосуд — жидкость пролилась на Йорака и убила его."
+          "id": "sent-026",
+          "text": "Un tercer cilindro se detuvo en el aire y se dirigió lentamente hacia él, con una luz verde en la punta que parecía un ojo maligno.",
+          "translationRu": "Третий цилиндр завис в воздухе и медленно двинулся к нему — зелёный свет на конце казался злобным глазом."
         },
         {
-          "id": "sent-022",
-          "text": "En la confusión, los tres escaparon de la ciudad y huyeron hacia el Lago de Plata.",
-          "translationRu": "В суматохе все трое бежали из города и направились к Серебряному озеру."
+          "id": "sent-027",
+          "text": "En ese momento Fowler resbaló de la escalera y cayó; cuando recobró el conocimiento, era de día y estaba tumbado entre arbustos rojos al pie de la roca.",
+          "translationRu": "В этот момент Фаулер соскользнул с лестницы и упал; когда он пришёл в себя, был день и он лежал среди красных кустов у подножия скалы."
         }
       ]
     },
@@ -147,54 +172,29 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "Después de cruzar el lago a bordo de un barco cohete capturado, encontraron a Austen en un campamento improvisado en la jungla roja.",
-          "translationRu": "Переправившись через озеро на захваченном ракетном корабле, они нашли Остена в импровизированном лагере в красных джунглях."
-        },
-        {
-          "id": "sent-024",
-          "text": "El viejo científico había construido una turbina de vapor, un generador eléctrico y un laboratorio con herramientas de cobre.",
-          "translationRu": "Старый учёный построил паровую турбину, электрогенератор и лабораторию с медными инструментами."
-        },
-        {
-          "id": "sent-025",
-          "text": "Austen descubrió que los Krimlu eran insectos evolucionados que vivían en cuerpos metálicos y esclavizaban a los humanos.",
-          "translationRu": "Остен выяснил, что Кримлу были эволюционировавшими насекомыми, жившими в металлических телах и порабощавшими людей."
-        },
-        {
-          "id": "sent-026",
-          "text": "El Lago de Plata era en realidad una energía química almacenada por la máquina de los Krimlu.",
-          "translationRu": "Серебряное озеро на самом деле было химической энергией, накопленной машиной Кримлу."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
-          "id": "sent-027",
-          "text": "Austen bajó solo al mundo subterráneo de los Krimlu con el plan de hacer explotar sus máquinas.",
-          "translationRu": "Остен один спустился в подземный мир Кримлу с планом взорвать их машины."
-        },
-        {
           "id": "sent-028",
-          "text": "Fowler esperó arriba hasta que comprendió que su amigo no pensaba volver.",
-          "translationRu": "Фаулер ждал наверху, пока не понял, что его друг не собирается возвращаться."
+          "text": "La vegetación del cráter era extraña: arbustos de color rojo sangre, flores blancas y un olor penetrante muy especial.",
+          "translationRu": "Растительность кратера была странной: кусты цвета крови, белые цветы и очень своеобразный острый запах."
         },
         {
           "id": "sent-029",
-          "text": "Un incendio destruyó la jungla, pero Melvar sobrevivió dentro del barco cohete.",
-          "translationRu": "Пожар уничтожил джунгли, но Мелвар уцелела внутри ракетного корабля."
+          "text": "Fowler encontró en la arena tres casquillos de pistola del calibre 45: era la prueba de que Austen había pasado por allí.",
+          "translationRu": "Фаулер нашёл в песке три стреляные гильзы калибра 45: это было доказательством того, что Остен здесь проходил."
         },
         {
           "id": "sent-030",
-          "text": "Cuando Austen hizo explotar el Lago de Plata, la explosión lanzó el cohete fuera de la atmósfera.",
-          "translationRu": "Когда Остен взорвал Серебряное озеро, взрыв выбросил ракету за пределы атмосферы."
+          "text": "Un poco más tarde escuchó el tintineo de armas de cristal y vio pasar a una columna de soldados altos y rubios con armaduras de gemas.",
+          "translationRu": "Немного позже он услышал звон хрустального оружия и увидел колонну высоких светловолосых солдат в доспехах из самоцветов."
         },
         {
           "id": "sent-031",
-          "text": "El cohete cayó en el desierto australiano y Fowler y Melvar regresaron al mundo civilizado, donde se casaron.",
-          "translationRu": "Ракета упала в австралийскую пустыню, и Фаулер с Мелвар вернулись в цивилизованный мир, где поженились."
+          "text": "Fowler comprendió entonces que la Montaña de la Luna albergaba una civilización de hombres de piel blanca que usaban cristal en lugar de metal.",
+          "translationRu": "Фаулер понял тогда, что Гора Луны укрывала цивилизацию белокожих людей, использовавших кристалл вместо металла."
+        },
+        {
+          "id": "sent-032",
+          "text": "Decidió seguirlos con cautela y averiguar todo lo posible antes de mostrar su presencia.",
+          "translationRu": "Он решил осторожно следовать за ними и узнать как можно больше, прежде чем показываться им."
         }
       ]
     }
