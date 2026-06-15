@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Más allá del universo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El capitán Dur Nal patrullaba el borde de la galaxia con su pequeña escuadra de la Patrulla Interestelar cuando la pantalla espacial reveló algo sin precedentes.",
-          "translationRu": "Капитан Дур Нал патрулировал край галактики со своей небольшой эскадрой Межзвёздного Патруля, когда звёздная карта показала нечто беспрецедентное."
+          "text": "El suelo bajo mis pies se inclinó bruscamente y me lanzó contra la pared metálica cuando nuestra nave giró de manera descontrolada en el vacío del espacio.",
+          "translationRu": "Пол подо мной резко накренился и швырнул меня о металлическую стену, когда наш корабль беспорядочно завертелся в пустоте космоса."
         },
         {
           "id": "sent-002",
-          "text": "Miles de puntos negros avanzaban desde el vacío exterior hacia la galaxia a una velocidad incomprensible.",
-          "translationRu": "Тысячи чёрных точек надвигались из внешней пустоты к галактике с непостижимой скоростью."
+          "text": "Por un instante solo vi paredes, suelo y techo girando enloquecidos mientras intentaba agarrarme a algo sin lograrlo; a través de la ventana alcancé a ver las otras naves de mi escuadrón hundiéndose torpemente detrás de nosotros.",
+          "translationRu": "Мгновение я видел лишь стены, пол и потолок, безумно вращающиеся вокруг, пока пытался за что-нибудь ухватиться; сквозь иллюминатор я успел заметить другие корабли эскадрона, беспомощно кренящиеся позади нас."
         },
         {
           "id": "sent-003",
-          "text": "Al acercarse, los pilotos comprendieron con asombro que no se trataba de meteoritos, sino de inmensas naves ovoides de metal liso, cuyas proas transparentes brillaban con luz blanca.",
-          "translationRu": "Приблизившись, пилоты с изумлением поняли, что это не метеориты, а огромные овоидные корабли из полированного металла с прозрачными носовыми отсеками, светящимися белым светом."
+          "text": "Cuando el giro frenético amainó, subí a trompicones hasta la pequeña sala de pilotos de paredes transparentes, donde mis dos tenientes estaban ante los controles.",
+          "translationRu": "Когда безумное вращение стихло, я с трудом поднялся в маленькую рубку управления со стеклянными стенами, где мои два лейтенанта стояли у приборов."
+        },
+        {
+          "id": "sent-004",
+          "text": "«¡Korus Kan! ¡Jhul Din!», exclamé. «¿Estáis intentando destruirnos a todos?»",
+          "translationRu": "«Корус Кан! Джул Дин!» — воскликнул я. «Вы пытаетесь нас всех уничтожить?»"
         }
       ]
     },
@@ -32,19 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Las naves invasoras atacaron con rayos pálidos de muerte que borraban toda vida en un instante, y destruyeron casi toda la escuadra de Dur Nal.",
-          "translationRu": "Корабли захватчиков атаковали бледными лучами смерти, мгновенно уничтожавшими всё живое, и почти полностью уничтожили эскадру Дур Нала."
-        },
-        {
           "id": "sent-005",
-          "text": "Solo la nave del capitán escapó gracias a las maniobras vertiginosas de Korus Kan.",
-          "translationRu": "Лишь корабль капитана спасся благодаря головокружительным манёврам Коруса Кана."
+          "text": "Los dos se volvieron hacia mí y me saludaron: Korus Kan, de Antares, era uno de los seres de cuerpo metálico de ese sistema, con su cerebro y órganos vitales alojados en un cuerpo erguido de metal brillante y dotado de poderosos brazos y piernas triples.",
+          "translationRu": "Оба повернулись ко мне и отдали честь: Корус Кан с Антареса принадлежал к расе металлотелых существ — его мозг и жизненно важные органы были заключены в прямостоящем теле из блестящего металла, снабжённом мощными тройными руками и ногами."
         },
         {
           "id": "sent-006",
-          "text": "Dur Nal llamó de inmediato al Cuartel General en Canopus e informó que una flota de cinco mil naves alienígenas había salido del espacio exterior para atacar el universo.",
-          "translationRu": "Дур Нал немедленно связался со Штабом на Канопусе и сообщил, что флот из пяти тысяч чужеродных кораблей вышел из внешнего пространства с намерением атаковать вселенную."
+          "text": "Jhul Din era claramente de Spica, uno de los pueblos crustáceos de aquel sol, con su gran cuerpo erguido cubierto de un caparazón negro y duro, sus cuatro extremidades cortas y gruesas y sus dos ojos redondos que sobresalían de su cónica cabeza negra.",
+          "translationRu": "Джул Дин был явно с Спики — один из ракообразных народов той звезды: его большое прямостоящее тело покрывал твёрдый чёрный панцирь, четыре конечности были короткими и толстыми, а два круглых глаза торчали из конической чёрной головы."
+        },
+        {
+          "id": "sent-007",
+          "text": "«Lo siento, señor», dijo Korus Kan. «Fue otra corriente etérea sin cartografiar».",
+          "translationRu": "«Прошу прощения, сэр», — сказал Корус Кан. «Это была ещё одна незанесённая на карту эфирная течь»."
+        },
+        {
+          "id": "sent-008",
+          "text": "«Este escuadrón patrulla la sección más tranquila de toda la Patrulla Interestelar, aquí en el borde de la galaxia», dijo Jhul Din, «pero no bien salimos de una maldita corriente cuando caemos en otra».",
+          "translationRu": "«Наш эскадрон охраняет самый спокойный участок всего Межзвёздного Патруля, здесь на краю галактики», — сказал Джул Дин, — «но едва мы выбираемся из одной проклятой течи, как попадаем в следующую»."
         }
       ]
     },
@@ -52,19 +62,19 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-007",
-          "text": "El jefe Lacq Larus le ordenó servir de cebo y conducir a los invasores hasta el cúmulo del Cáncer, donde toda la flota de la Patrulla se estaba concentrando para lanzar un contraataque sorpresa.",
-          "translationRu": "Командующий Лак Ларус приказал ему стать приманкой и завлечь захватчиков в скопление Рака, где весь флот Патруля сосредотачивался для внезапного контрудара."
-        },
-        {
-          "id": "sent-008",
-          "text": "Durante la huida, Korus Kan aprovechó un enorme remolino de éter para desorientar a la flota perseguidora, ganando tiempo precioso.",
-          "translationRu": "Во время побега Корус Кан воспользовался огромным эфирным вихрем, чтобы дезориентировать преследующий флот и выиграть драгоценное время."
-        },
-        {
           "id": "sent-009",
-          "text": "Al entrar en el cúmulo, las naves de la Patrulla salieron por ambos lados de los dos soles gemelos blancos y cayeron sobre el centenar de naves de vanguardia invasora.",
-          "translationRu": "Войдя в скопление, корабли Патруля вышли с обеих сторон от двух белых солнц-близнецов и обрушились на сотню кораблей вражеского авангарда."
+          "text": "«Corrientes o no, tenemos que mantener el rumbo», les dije. «La Patrulla debe seguir activa incluso aquí».",
+          "translationRu": "«Течения или нет — мы должны держать курс», — сказал я им. «Патруль должен продолжать работу, даже здесь»."
+        },
+        {
+          "id": "sent-010",
+          "text": "A nuestra izquierda se extendía la inmensa banda de estrellas brillantes de nuestra galaxia, una masa de disco colosal que flotaba en el vacío negro como una pequeña isla de luz; a nuestra derecha y delante, solo la oscuridad absoluta e inimaginable del espacio exterior.",
+          "translationRu": "Слева простиралась огромная полоса ярких звёзд нашей галактики — колоссальная дискообразная масса, плывущая в чёрной пустоте, как маленький остров света; справа и впереди — лишь абсолютная, немыслимая тьма внешнего пространства."
+        },
+        {
+          "id": "sent-011",
+          "text": "En ese oscuro espacio exterior, a cientos de miles de millones de kilómetros del último sol de la galaxia, eran apenas visibles unas pocas manchas tenues de luz: otras galaxias separadas de la nuestra por un vacío de millones de años luz.",
+          "translationRu": "В этом тёмном внешнем пространстве, в сотнях миллиардов километров от последних звёзд галактики, едва виднелись несколько слабых световых пятен: другие галактики, отделённые от нашей пустотой в миллионы световых лет."
         }
       ]
     },
@@ -72,14 +82,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-010",
-          "text": "La victoria fue breve: cuando la flota principal de los invasores llegó, desplegó naves de atracción disco que inmovilizaron a toda la Patrulla con una fuerza magnética irresistible.",
-          "translationRu": "Победа оказалась недолгой: когда подошёл главный флот захватчиков, он выпустил дискообразные корабли-притяжатели, обездвижившие весь Патруль неодолимой магнитной силой."
+          "id": "sent-012",
+          "text": "De repente Korus Kan dio un grito agudo, señalando hacia arriba: «¡Mirad! ¡Ese enjambre en el mapa espacial!»",
+          "translationRu": "Внезапно Корус Кан резко вскрикнул, указывая вверх: «Смотрите! Этот рой на карте пространства!»"
         },
         {
-          "id": "sent-011",
-          "text": "Los rayos de muerte arrasaron la flota indefensa, y solo la nave de Dur Nal logró abrirse paso a la fuerza antes de que el casco cediera por la colisión.",
-          "translationRu": "Лучи смерти выкосили беззащитный флот, и лишь корабль Дур Нала силой проложил себе путь, прежде чем корпус не разрушился от столкновения."
+          "id": "sent-013",
+          "text": "Levanté la vista hacia el gran mapa espacial en la pared: en él, un enorme enjambre de puntos negros avanzaba desde el espacio exterior hacia la galaxia y hacia nuestro pequeño grupo de naves.",
+          "translationRu": "Я поднял взгляд к большой карте пространства на стене: на ней огромный рой чёрных точек двигался из внешнего пространства к галактике и к нашей маленькой группе кораблей."
+        },
+        {
+          "id": "sent-014",
+          "text": "«¡Un enjambre de meteoritos del espacio exterior!», exclamé. «¡Y se mueven a una velocidad increíble, atrapados sin duda en alguna corriente etérea de velocidad inconcebible!»",
+          "translationRu": "«Рой метеоритов из внешнего пространства!» — воскликнул я. «И движутся с невероятной скоростью, несомненно захваченные какой-то эфирной течью немыслимой силы!»"
+        },
+        {
+          "id": "sent-015",
+          "text": "«Su velocidad parece estar frenándose constantemente», observó Jhul Din mientras lo contemplábamos en silencio y con asombro.",
+          "translationRu": "«Их скорость, кажется, постоянно замедляется», — заметил Джул Дин, пока мы смотрели на карту в тихом изумлении."
         }
       ]
     },
@@ -87,19 +107,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Con el casco agrietándose y los minutos contados, Dur Nal ideó algo que nunca antes había ocurrido en la historia interestelar: abordar una nave enemiga en pleno espacio.",
-          "translationRu": "Когда корпус трещал и счёт шёл на минуты, Дур Нал задумал то, чего никогда прежде не случалось в межзвёздной истории: взять на абордаж вражеский корабль прямо в открытом космосе."
+          "id": "sent-016",
+          "text": "Ordené detener nuestras naves para esperar la llegada del enjambre, con la intención de estudiar su alcance y reportar al Cuartel General de la Patrulla en Canopus.",
+          "translationRu": "Я приказал остановить наши корабли и ждать прихода роя, намереваясь изучить его масштаб и доложить в Главный штаб Патруля на Канопусе."
         },
         {
-          "id": "sent-013",
-          "text": "La tripulación se puso los trajes de emergencia, saltaron al vacío y aterrizaron sobre la espalda de la nave enemiga que volaba justo debajo.",
-          "translationRu": "Команда надела аварийные скафандры, прыгнула в пустоту и приземлилась на спину вражеского корабля, летевшего прямо внизу."
+          "id": "sent-017",
+          "text": "Cuando el enjambre se aproximó lo suficiente, nos situamos miles de kilómetros por encima de él y avanzamos a la misma velocidad, en la maniobra habitual de reconocimiento.",
+          "translationRu": "Когда рой приблизился достаточно, мы зависли на тысячи километров выше него и двигались с той же скоростью в привычном разведывательном манёвре."
         },
         {
-          "id": "sent-014",
-          "text": "Jhul Din fue el último en saltar cuando el casco se desmoronó a su alrededor, y cayó entre sus compañeros justo a tiempo.",
-          "translationRu": "Джул Дин прыгнул последним, когда корпус рухнул вокруг него, и упал прямо к товарищам."
+          "id": "sent-018",
+          "text": "Pero cuando miramos hacia abajo en el abismo oscuro que había bajo nosotros, vimos algo que nos dejó atónitos: aquellos no eran meteoritos.",
+          "translationRu": "Но когда мы взглянули вниз в тёмную бездну под нами, то увидели нечто, поразившее нас до глубины души: это были не метеориты."
+        },
+        {
+          "id": "sent-019",
+          "text": "Eran cinco mil naves espaciales, grandes formas simétricas de metal suave y ovaladas, tan grandes o mayores que las nuestras, avanzando en una formación triangular cuyo vértice apuntaba hacia la galaxia, con sus extremos delanteros transparentes y brillantemente iluminados desde dentro.",
+          "translationRu": "Это было пять тысяч космических кораблей — большие симметричные овальные формы из гладкого металла, не меньше наших, летящих треугольным строем с вершиной, направленной к галактике; их прозрачные передние концы ярко светились изнутри."
         }
       ]
     },
@@ -107,19 +132,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Dentro de la nave, descubrieron que los tripulantes eran seres-serpiente: criaturas sin extremidades de diez pies de largo que se desplazaban retorciéndose y poseían enormes ojos facetados.",
-          "translationRu": "Внутри корабля они обнаружили, что экипаж составляют змеелюди — безногие существа длиной в три метра, передвигавшиеся извиваясь и обладавшие огромными фасеточными глазами."
+          "id": "sent-020",
+          "text": "En las salas de pilotos de cada nave podíamos entrever masas de maquinaria extraña y seres aún más extraños que dirigían su rumbo mientras todo el gigantesco enjambre avanzaba hacia los soles de nuestra galaxia.",
+          "translationRu": "В пилотских кабинах каждого корабля мы смутно различали массы странных механизмов и ещё более странных существ, управлявших курсом, пока весь огромный рой двигался к солнцам нашей галактики."
         },
         {
-          "id": "sent-016",
-          "text": "Con barras de metal como únicas armas, la tripulación de Dur Nal aplastó a los seres-serpiente y tomó el control de la nave.",
-          "translationRu": "Используя металлические прутья как единственное оружие, экипаж Дур Нала уничтожил змеелюдей и захватил управление кораблём."
+          "id": "sent-021",
+          "text": "«¡Naves espaciales!», exclamé, lleno de asombro. «¡Miles de naves del espacio exterior atacando nuestro universo!»",
+          "translationRu": "«Космические корабли!» — воскликнул я, охваченный изумлением. «Тысячи кораблей из внешнего пространства атакуют нашу вселенную!»"
         },
         {
-          "id": "sent-017",
-          "text": "El capitán puso rumbo a Canopus, donde el Consejo de los Soles esperaba con urgencia.",
-          "translationRu": "Капитан взял курс на Канопус, где в напряжённом ожидании находился Совет Солнц."
+          "id": "sent-022",
+          "text": "Antes de que pudiera terminar el pensamiento, Jhul Din gritó señalando hacia abajo: una veintena de las grandes naves extrañas se precipitaba hacia nosotros, y de la delantera brotó un rayo blanco y espectral de muerte.",
+          "translationRu": "Не успел я закончить мысль, как Джул Дин вскрикнул, указывая вниз: около двадцати больших странных кораблей устремились к нам, и из переднего вырвался призрачный белый луч смерти."
+        },
+        {
+          "id": "sent-023",
+          "text": "El rayo alcanzó a una de las naves de nuestro escuadrón, barrió a través de ella y al instante aniquiló toda vida en su interior: la nave salió disparada sin tripulación, ciega y fuera de control, hacia el vacío del espacio.",
+          "translationRu": "Луч поразил один из кораблей нашего эскадрона, прошил его насквозь и мгновенно уничтожил всё живое внутри: корабль умчался без экипажа, слепой и неуправляемый, в пустоту космоса."
         }
       ]
     },
@@ -127,19 +157,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "Los registros metálicos capturados en la nave revelaron que los invasores procedían de un universo oscuro y agonizante cuyas estrellas se apagaban una a una.",
-          "translationRu": "Металлические записи, захваченные на корабле, раскрыли, что захватчики происходят из тёмной, умирающей вселенной, чьи звёзды гасли одна за другой."
+          "id": "sent-024",
+          "text": "La batalla que siguió fue un torbellino de acción vertiginosa: Korus Kan giró nuestra nave en maniobras corkscrews para esquivar los rayos espectrales mientras nuestros propios rayos rojos de destrucción aniquilaban varias naves atacantes en brillantes explosiones de luz carmesí.",
+          "translationRu": "Последовавшее сражение было вихрем головокружительных действий: Корус Кан бросал наш корабль в штопорные манёвры, уклоняясь от призрачных лучей, пока наши красные лучи уничтожения поджигали несколько атакующих кораблей в ярких вспышках багряного света."
         },
         {
-          "id": "sent-019",
-          "text": "Habían intentado invadir la galaxia de Andrómeda primero, pero fueron repelidos; ahora se volvían contra la nuestra.",
-          "translationRu": "Сначала они пытались завоевать галактику Андромеды, но были отброшены; теперь они обратились против нашей."
+          "id": "sent-025",
+          "text": "Pero era una batalla desigual: todo nuestro escuadrón, salvo nuestra nave, fue destruido y el enjambre entero nos perseguía.",
+          "translationRu": "Но это была неравная битва: весь наш эскадрон, кроме нашего корабля, был уничтожен, и весь рой преследовал нас."
         },
         {
-          "id": "sent-020",
-          "text": "El jefe del Consejo, Serk Haj, propuso enviar una misión a Andrómeda para que sus pueblos vinieran a ayudarnos antes de que llegaran las hordas principales con su gigantesco cono de la muerte.",
-          "translationRu": "Глава Совета Серк Хадж предложил отправить миссию в Андромеду, чтобы тамошние народы пришли на помощь прежде, чем прибудут главные орды с их гигантским конусом смерти."
+          "id": "sent-026",
+          "text": "Contacté de inmediato con el Cuartel General de la Patrulla en Canopus, reportando el descubrimiento de cinco mil naves desconocidas del espacio exterior, armadas con un letal rayo de muerte que aniquilaba a los tripulantes sin dañar las naves.",
+          "translationRu": "Я немедленно связался с Главным штабом Патруля на Канопусе, доложив об обнаружении пяти тысяч неизвестных кораблей из внешнего пространства, вооружённых смертоносным лучом, уничтожавшим экипажи, не повреждая сами корабли."
+        },
+        {
+          "id": "sent-027",
+          "text": "La respuesta del Jefe Lacq Larus fue clara: debíamos intentar conducir al enjambre al interior del cúmulo de Cáncer, donde toda la flota de la Patrulla Interestelar se concentraría en secreto para tenderles una emboscada.",
+          "translationRu": "Ответ начальника Лака Ларуса был ясным: мы должны попытаться завлечь рой внутрь скопления Рака, где весь флот Межзвёздного Патруля тайно сосредоточится для засады."
         }
       ]
     },
@@ -147,94 +182,19 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Solo la nave capturada podía cruzar el vacío entre universos gracias a sus generadores que creaban corrientes de éter en lugar de vencer su resistencia.",
-          "translationRu": "Только захваченный корабль мог пересечь пустоту между вселенными благодаря генераторам, создававшим эфирные потоки вместо того, чтобы преодолевать его сопротивление."
-        },
-        {
-          "id": "sent-022",
-          "text": "Dur Nal, Korus Kan y Jhul Din partieron con una nueva tripulación elegida de entre las razas de la galaxia.",
-          "translationRu": "Дур Нал, Корус Кан и Джул Дин отправились с новым экипажем, отобранным из представителей рас галактики."
-        },
-        {
-          "id": "sent-023",
-          "text": "El viaje a través del vacío fue terrible: atravesaron regiones de calor infernal generado por colisiones de corrientes de éter, y zonas de vibración radiactiva que desintegraban poco a poco las paredes de la nave.",
-          "translationRu": "Путешествие через пустоту оказалось ужасным: они прошли через области адского жара, порождённого столкновениями эфирных потоков, и зоны радиоактивной вибрации, постепенно разрушавшей стены корабля."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-024",
-          "text": "A mitad del camino, cincuenta naves-serpiente salidas del universo moribundo los interceptaron y los capturaron.",
-          "translationRu": "На полпути пятьдесят кораблей-змеелюдей, вышедших из умирающей вселенной, перехватили и захватили их."
-        },
-        {
-          "id": "sent-025",
-          "text": "Los llevaron como prisioneros al mundo central de los seres-serpiente, donde un museo macabro albergaba miles de seres vivos paralizados con un veneno de suspensión.",
-          "translationRu": "Их доставили пленниками на центральный мир змеелюдей, где в жутком музее содержались тысячи живых существ, парализованных ядом временного застывания."
-        },
-        {
-          "id": "sent-026",
-          "text": "Jhul Din, que había escapado y se había escondido en una estrella muerta, regresó de noche para inyectarles el antídoto y liberarlos.",
-          "translationRu": "Джул Дин, успевший сбежать и спрятавшийся на мёртвой звезде, ночью вернулся, чтобы ввести им антидот и освободить."
-        },
-        {
-          "id": "sent-027",
-          "text": "Durante la huida, Dur Nal liberó con el antídoto rojo a varios monstruos del museo, que se lanzaron contra los guardias para ganar tiempo.",
-          "translationRu": "Во время побега Дур Нал ввёл красный антидот нескольким монстрам из музея, которые набросились на охрану, чтобы выиграть время."
-        }
-      ]
-    },
-    {
-      "id": "para-010",
-      "sentences": [
-        {
           "id": "sent-028",
-          "text": "Escaparon del universo-serpiente burlando sus colosales fortalezas espaciales y llegaron al universo de Andrómeda, donde los seres gaseosos de color verde les oyeron gracias a un globo mental de comunicación.",
-          "translationRu": "Они вырвались из вселенной змеелюдей, перехитрив их колоссальные космические крепости, и достигли вселенной Андромеды, где зелёные газообразные существа выслушали их через телепатический шар общения."
+          "text": "A máxima velocidad nos lanzamos hacia el cúmulo, pero los invasores nos iban ganando terreno con lentitud implacable.",
+          "translationRu": "На максимальной скорости мы помчались к скоплению, но захватчики неуклонно и медленно сокращали расстояние."
         },
         {
           "id": "sent-029",
-          "text": "El Consejo de Andrómeda votó reunir cien mil naves para atacar la civilización serpiente en su propio universo.",
-          "translationRu": "Совет Андромеды проголосовал за то, чтобы собрать сто тысяч кораблей для нападения на цивилизацию змеелюдей в их собственной вселенной."
+          "text": "Korus Kan tuvo una idea brillante: apuntó nuestra nave directamente hacia un enorme remolino de éter marcado en el mapa como zona de peligro, y cuando el enjambre nos seguía de cerca, viró bruscamente y los dejó hundirse en el caos del remolino.",
+          "translationRu": "Корус Кан придумал блестящий ход: он направил наш корабль прямо к огромному эфирному водовороту, отмеченному на карте как опасная зона, и когда рой следовал за нами по пятам, резко свернул, оставив их нырять в хаос водоворота."
         },
         {
           "id": "sent-030",
-          "text": "Sin embargo, los seres-serpiente habían abandonado su universo moribundo y ya habían trasladado toda su horda a nuestra galaxia.",
-          "translationRu": "Однако змеелюди покинули свою умирающую вселенную и уже перебрались всей ордой в нашу галактику."
-        }
-      ]
-    },
-    {
-      "id": "para-011",
-      "sentences": [
-        {
-          "id": "sent-031",
-          "text": "Tras una colosal batalla entre tres flotas universo —la andromedana, la de la galaxia y la serpiente— que se extendió entre soles y mundos, a través de una nebulosa ardiente y junto a estrellas gemelas, los seres-serpiente empezaron a retroceder.",
-          "translationRu": "После колоссального сражения трёх межвселенских флотов — андромедского, галактического и змеелюдей, — которое прокатилось мимо звёзд и миров, через пылающую туманность и вдоль двойных звёзд, змеелюди начали отступать."
-        },
-        {
-          "id": "sent-032",
-          "text": "Pero cuando la victoria parecía segura, el enorme cono de la muerte emergió desde el cúmulo del Cáncer, a punto de barrer toda la vida de la galaxia.",
-          "translationRu": "Но когда победа казалась уже верной, из скопления Рака появился огромный конус смерти, готовый выкосить всё живое в галактике."
-        },
-        {
-          "id": "sent-033",
-          "text": "En ese momento crítico, Korus Kan llegó con las cien naves rotagravitacionales que habían escapado de las naves de atracción en el vacío exterior.",
-          "translationRu": "В этот критический момент прибыл Корус Кан со ста гравитационно-поворотными кораблями, которым удалось вырваться из захвата кораблей-притяжателей во внешней пустоте."
-        },
-        {
-          "id": "sent-034",
-          "text": "Sus proyectores de fuerza morada bloquearon la gravedad exterior del cúmulo, haciendo que todos sus soles se precipitaran unos contra otros.",
-          "translationRu": "Их проекторы фиолетовой силы заблокировали внешнее притяжение скопления, заставив все его звёзды рухнуть друг на друга."
-        },
-        {
-          "id": "sent-035",
-          "text": "El colosal cono y todas las hordas serpiente que llenaban los mundos del cúmulo quedaron aniquilados en el choque titánico de soles, y el universo fue salvado.",
-          "translationRu": "Колоссальный конус и все орды змеелюдей, населявшие миры скопления, были уничтожены в титаническом столкновении звёзд, и вселенная была спасена."
+          "text": "Fue suficiente para llegar al cúmulo del Cáncer, donde la flota de la Patrulla aguardaba oculta detrás de dos soles blancos gigantes: cuando el vanguardia de cien naves invasoras entró en el cúmulo, la flota entera les cayó encima desde ambos lados.",
+          "translationRu": "Этого хватило, чтобы добраться до скопления Рака, где флот Патруля ждал в засаде за двумя гигантскими белыми солнцами: когда авангард из ста кораблей захватчиков вошёл в скопление, весь флот обрушился на них с обеих сторон."
         }
       ]
     }

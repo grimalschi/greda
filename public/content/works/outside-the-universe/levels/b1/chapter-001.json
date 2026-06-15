@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Más allá del universo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Yo era el capitán Dur Nal, y patrullaba el borde de la galaxia con mi pequeña flota de la Patrulla Interestelar.",
-          "translationRu": "Я был капитаном Дур Налом и патрулировал край галактики со своей небольшой эскадрой Межзвёздного Патруля."
+          "text": "Yo era el capitán Dur Nal, piloto de la Patrulla Interestelar, y patrullaba el borde exterior de la galaxia con mi escuadra de doce naves.",
+          "translationRu": "Я был капитаном Дур Налом, пилотом Межзвёздного Патруля, и патрулировал внешний край галактики со своей эскадрой из двенадцати кораблей."
         },
         {
           "id": "sent-002",
-          "text": "Mis dos tenientes eran Korus Kan, un ser de metal del sistema de Antares, y Jhul Din, un ser con caparazón de Spica.",
-          "translationRu": "Моими двумя лейтенантами были Корус Кан — существо с металлическим телом из системы Антареса, и Джул Дин — существо с панцирем из системы Спики."
+          "text": "Mis dos tenientes eran Korus Kan, un ser de cuerpo metálico del sistema de Antares, con tres brazos y tres ojos triangulares, y Jhul Din, un crustáceo de Spica con caparazón negro.",
+          "translationRu": "Моими двумя лейтенантами были Корус Кан — существо с металлическим телом из системы Антареса с тремя руками и тремя треугольными глазами, и Джул Дин — ракообразный из Спики с чёрным панцирем."
         },
         {
           "id": "sent-003",
-          "text": "Un día, nuestra pantalla espacial mostró algo inesperado: miles de puntos negros que venían del espacio exterior hacia la galaxia.",
-          "translationRu": "Однажды наша звёздная карта показала нечто неожиданное: тысячи чёрных точек, летящих из внешнего пространства к галактике."
+          "text": "A nuestra izquierda resplandecía la galaxia, una gran masa de soles que flotaba en el vacío como una isla de luz.",
+          "translationRu": "Слева от нас сияла галактика — огромная масса звёзд, плывущая в пустоте как остров света."
         },
         {
           "id": "sent-004",
-          "text": "Al principio pensamos que era un enjambre de meteoritos, pero cuando nos acercamos, vimos que eran naves enormes de metal.",
-          "translationRu": "Сначала мы решили, что это рой метеоритов, но когда приблизились, увидели огромные металлические корабли."
+          "text": "A la derecha se extendía la oscuridad absoluta del espacio exterior, donde a veces se podían ver, muy lejos, pequeños destellos que eran otras galaxias.",
+          "translationRu": "Справа простиралась абсолютная тьма внешнего космоса, где вдали иногда мерцали крошечные огни других галактик."
         }
       ]
     },
@@ -38,18 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Las naves ovaladas atacaron con rayos pálidos de muerte y destruyeron casi toda nuestra escuadra.",
-          "translationRu": "Овальные корабли атаковали бледными лучами смерти и уничтожили почти всю нашу эскадру."
+          "text": "De repente Korus Kan señaló el gran mapa espacial en la pared: miles de puntos negros avanzaban desde el espacio exterior hacia nuestra escuadra y hacia la galaxia.",
+          "translationRu": "Вдруг Корус Кан указал на большую звёздную карту на стене: тысячи чёрных точек двигались из внешнего пространства к нашей эскадре и к галактике."
         },
         {
           "id": "sent-006",
-          "text": "Solo mi nave escapó, y llamé al Cuartel General en Canopus para informar del peligro.",
-          "translationRu": "Спастись удалось лишь моему кораблю, и я связался со Штабом на Канопусе, чтобы сообщить об угрозе."
+          "text": "Al principio pensé que era un enjambre de meteoritos, pero su velocidad era enorme: más de mil veces la velocidad de la luz.",
+          "translationRu": "Поначалу я решил, что это рой метеоров, но его скорость была огромной: больше тысячи скоростей света."
         },
         {
           "id": "sent-007",
-          "text": "El jefe Lacq Larus me ordenó llevar a los invasores hasta el cúmulo del Cáncer, donde esperaba toda la flota de la Patrulla.",
-          "translationRu": "Главнокомандующий Лак Ларус приказал мне завести захватчиков в скопление Рака, где ждал весь флот Патруля."
+          "text": "Detuve la escuadra y esperamos durante horas mientras el enjambre se acercaba lentamente.",
+          "translationRu": "Я остановил эскадру, и мы часами ждали, пока рой медленно приближался."
+        },
+        {
+          "id": "sent-008",
+          "text": "Para observarlo mejor, maniobré la escuadra por encima del enjambre y avanzamos a la misma velocidad.",
+          "translationRu": "Чтобы лучше рассмотреть его, я выполнил манёвр, поставив эскадру над роем, и мы двигались с той же скоростью."
         }
       ]
     },
@@ -57,19 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "Volamos a toda velocidad hacia la galaxia, perseguidos por las miles de naves enemigas.",
-          "translationRu": "Мы летели на полной скорости к галактике, преследуемые тысячами вражеских кораблей."
-        },
-        {
           "id": "sent-009",
-          "text": "Cuando los enemigos estaban a punto de alcanzarnos, Korus Kan los llevó hacia un gran remolino de éter y los perdimos un momento.",
-          "translationRu": "Когда враги почти настигли нас, Корус Кан завёл их в огромный эфирный вихрь, и мы на время оторвались."
+          "text": "Descendimos poco a poco y en la oscuridad debajo de nosotros vimos pequeños puntos luminosos que avanzaban hacia la galaxia en formación triangular perfecta.",
+          "translationRu": "Мы медленно снижались, и в темноте под нами увидели маленькие светящиеся точки, движущиеся к галактике в идеальном треугольном строю."
         },
         {
           "id": "sent-010",
-          "text": "Entramos en el cúmulo, y las naves de la Patrulla salieron por los dos lados para atacar a los invasores.",
-          "translationRu": "Мы влетели в скопление, и корабли Патруля вышли с обеих сторон, чтобы атаковать захватчиков."
+          "text": "Cuando nos acercamos más, comprendimos con asombro que aquellos puntos no eran meteoritos sino cinco mil enormes naves de metal con forma oval.",
+          "translationRu": "Когда мы подошли ближе, с изумлением поняли, что эти точки — не метеоры, а пять тысяч огромных металлических кораблей в форме овала."
+        },
+        {
+          "id": "sent-011",
+          "text": "Cada nave tenía una cabina transparente iluminada en la proa, y en esas cabinas se movían seres extraños y desconocidos.",
+          "translationRu": "У каждого корабля был прозрачный освещённый нос, и в этих кабинах двигались странные, незнакомые существа."
+        },
+        {
+          "id": "sent-012",
+          "text": "Antes de que pudiéramos reaccionar, varias naves del enjambre se lanzaron hacia nosotros y dispararon un rayo ancho de luz blanca fantasmal que mató a toda la tripulación de una de nuestras naves.",
+          "translationRu": "Прежде чем мы успели среагировать, несколько кораблей из роя бросились к нам и выпустили широкий луч призрачного белого света, убивший всю команду одного из наших кораблей."
         }
       ]
     },
@@ -77,24 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-011",
-          "text": "Al principio ganamos, porque cogimos por sorpresa a los cien barcos de la vanguardia enemiga.",
-          "translationRu": "Поначалу мы побеждали, застав врасплох сотню кораблей вражеского авангарда."
-        },
-        {
-          "id": "sent-012",
-          "text": "Pero cuando el ejército principal de los invasores llegó, usaron naves especiales de atracción magnética.",
-          "translationRu": "Но когда подошли главные силы захватчиков, они применили особые магнитные корабли-притяжатели."
-        },
-        {
           "id": "sent-013",
-          "text": "Esas naves jalaron toda la flota de la Patrulla hacia arriba, y los rayos de muerte la destruyeron.",
-          "translationRu": "Эти корабли притянули весь флот Патруля вверх, и лучи смерти уничтожили его."
+          "text": "Combatimos desesperadamente: nuestros rayos rojos de energía destruyeron varias naves enemigas, pero eran demasiadas.",
+          "translationRu": "Мы отчаянно сражались: наши красные энергетические лучи уничтожили несколько вражеских кораблей, но их было слишком много."
         },
         {
           "id": "sent-014",
-          "text": "Solo mi nave y unas pocas más escaparon del desastre.",
-          "translationRu": "Только мой корабль и ещё несколько смогли избежать катастрофы."
+          "text": "Los rayos de muerte enemigos destruyeron casi toda nuestra escuadra en pocos minutos.",
+          "translationRu": "Вражеские лучи смерти уничтожили почти всю нашу эскадру за считанные минуты."
+        },
+        {
+          "id": "sent-015",
+          "text": "Jhul Din gritó: esas naves venían del espacio exterior para atacar nuestro universo.",
+          "translationRu": "Джул Дин закричал: эти корабли пришли из внешнего пространства, чтобы напасть на нашу вселенную."
+        },
+        {
+          "id": "sent-016",
+          "text": "Huimos a máxima velocidad hacia la galaxia, con miles de naves enemigas persiguiéndonos de cerca.",
+          "translationRu": "Мы бежали на максимальной скорости к галактике, а тысячи вражеских кораблей гнались за нами по пятам."
         }
       ]
     },
@@ -102,24 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Mi nave estaba muy dañada, pero debajo de nosotros vi una nave enemiga que viajaba sola.",
-          "translationRu": "Мой корабль был сильно повреждён, но внизу я заметил одинокий вражеский корабль."
-        },
-        {
-          "id": "sent-016",
-          "text": "Tomé una decisión desesperada: mi tripulación y yo saltamos al espacio usando trajes especiales.",
-          "translationRu": "Я принял отчаянное решение: мы с командой прыгнули в открытый космос в специальных скафандрах."
-        },
-        {
           "id": "sent-017",
-          "text": "Aterrizamos en la espalda de la nave enemiga, abrimos su escotilla y luchamos contra los seres serpiente que la tripulaban.",
-          "translationRu": "Мы приземлились на корпус вражеского корабля, вскрыли люк и сразились со змеелюдьми, которые управляли им."
+          "text": "Durante la huida, contacté con el Cuartel General de la Patrulla en Canopus e informé del ataque.",
+          "translationRu": "Во время бегства я связался со штабом Патруля на Канопусе и сообщил о нападении."
         },
         {
           "id": "sent-018",
-          "text": "Los seres serpiente eran largos y sin brazos ni piernas, pero los vencimos con barras de metal.",
-          "translationRu": "Змеелюди были длинными, без рук и ног, но мы победили их металлическими прутьями."
+          "text": "El jefe Lacq Larus me ordenó atraer al enjambre hacia el interior del cúmulo de Cáncer, donde toda la flota de la Patrulla se reuniría para atacarlos por sorpresa.",
+          "translationRu": "Главнокомандующий Лак Ларус приказал мне завлечь рой внутрь скопления Рака, где весь флот Патруля соберётся для внезапной атаки."
+        },
+        {
+          "id": "sent-019",
+          "text": "Cuando los perseguidores estaban casi sobre nosotros, Korus Kan dirigió nuestra nave hacia un enorme remolino de éter sin cartografiar.",
+          "translationRu": "Когда преследователи почти нагнали нас, Корус Кан направил наш корабль к огромному незанесённому на карту эфирному водовороту."
+        },
+        {
+          "id": "sent-020",
+          "text": "Viramos en el último segundo y el enjambre entero chocó con el torbellino y quedó atrapado en él por un tiempo.",
+          "translationRu": "В последнюю секунду мы свернули, и весь рой врезался в водоворот и на время оказался захвачен им."
         }
       ]
     },
@@ -127,24 +137,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-019",
-          "text": "Tomamos el control de la nave capturada y volamos directamente a Canopus.",
-          "translationRu": "Мы захватили управление кораблём и полетели прямо на Канопус."
-        },
-        {
-          "id": "sent-020",
-          "text": "En el Consejo de los Soles, el jefe Serk Haj explicó que los invasores venían de un universo moribundo.",
-          "translationRu": "На заседании Совета Солнц его глава Серк Хадж объяснил, что захватчики прибыли из умирающей вселенной."
-        },
-        {
           "id": "sent-021",
-          "text": "Sus soles se apagaban poco a poco, y buscaban una galaxia nueva para vivir.",
-          "translationRu": "Их звёзды постепенно угасали, и они искали новую галактику для жизни."
+          "text": "Aprovechamos esa pausa y aceleramos hacia el cúmulo de Cáncer, cuyas estrellas brillaban ante nosotros como un enorme globo de luz.",
+          "translationRu": "Мы воспользовались этой паузой и ускорились к скоплению Рака, чьи звёзды сияли перед нами как огромный шар света."
         },
         {
           "id": "sent-022",
-          "text": "Primero atacaron el universo de Andrómeda, pero allí los rechazaron.",
-          "translationRu": "Сначала они напaron на вселенную Андромеды, но там их отбили."
+          "text": "Los enemigos escaparon del remolino y volvieron a perseguirnos, acercándose cada vez más mientras llegábamos a las dos grandes estrellas blancas en el borde del cúmulo.",
+          "translationRu": "Враги вырвались из водоворота и снова погнались за нами, всё больше сокращая расстояние, пока мы приближались к двум большим белым звёздам на краю скопления."
+        },
+        {
+          "id": "sent-023",
+          "text": "Volamos directamente entre los dos soles gigantes a toda velocidad, con sus llamaradas enormes que nos rodeaban por ambos lados.",
+          "translationRu": "Мы пролетели прямо между двумя гигантскими звёздами на полной скорости, а их огромные протуберанцы окружали нас с обеих сторон."
+        },
+        {
+          "id": "sent-024",
+          "text": "Al salir por el otro lado, las dos grandes masas de naves de la Patrulla aparecieron de detrás de los soles y atacaron a los cien barcos enemigos que nos seguían.",
+          "translationRu": "Выйдя с другой стороны, мы увидели две огромные группы кораблей Патруля, появившихся из-за звёзд и атаковавших сотню вражеских кораблей, следовавших за нами."
         }
       ]
     },
@@ -152,79 +162,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "El Consejo decidió que debíamos pedir ayuda al universo de Andrómeda, porque sus armas eran más poderosas.",
-          "translationRu": "Совет решил, что нам нужно просить помощи у вселенной Андромеды, поскольку их оружие было мощнее."
-        },
-        {
-          "id": "sent-024",
-          "text": "Solo la nave capturada podía cruzar el enorme vacío entre universos.",
-          "translationRu": "Только захваченный корабль мог преодолеть огромную пустоту между вселенными."
-        },
-        {
           "id": "sent-025",
-          "text": "El Consejo me eligió a mí, Korus Kan y Jhul Din para llevar ese mensaje.",
-          "translationRu": "Совет выбрал меня, Коруса Кана и Джула Дина для этой миссии."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
+          "text": "La batalla fue feroz: nuestra flota destruyó casi todos los cien barcos, pero entonces el enjambre principal llegó y la situación cambió.",
+          "translationRu": "Сражение было ожесточённым: наш флот уничтожил почти все сто кораблей, но затем прибыл основной рой, и ситуация изменилась."
+        },
         {
           "id": "sent-026",
-          "text": "El viaje fue peligroso: pasamos por zonas de calor terrible y por regiones de vibración radiactiva.",
-          "translationRu": "Путешествие оказалось опасным: мы прошли через зоны страшного жара и области радиоактивной вибрации."
+          "text": "Las naves especiales en forma de disco del enemigo proyectaron una fuerza magnética que atrajo hacia arriba todos nuestros cruceros de la Patrulla, inmovilizándolos.",
+          "translationRu": "Специальные дискообразные корабли врага испустили магнитную силу, притянувшую вверх все наши крейсеры Патруля и обездвижившую их."
         },
         {
           "id": "sent-027",
-          "text": "Los seres serpiente nos capturaron en el espacio exterior y nos llevaron a su universo moribundo.",
-          "translationRu": "Змеелюди захватили нас в открытом космосе и привезли в свою умирающую вселенную."
+          "text": "Atrapados en esa fuerza, nuestros miles de naves fueron destruidas una por una por los rayos de muerte enemigos.",
+          "translationRu": "Захваченные этой силой, тысячи наших кораблей были уничтожены один за другим вражескими лучами смерти."
         },
         {
           "id": "sent-028",
-          "text": "Allí vimos la ciudad enorme de vibración azul y el gran cono de la muerte que construían.",
-          "translationRu": "Там мы увидели огромный город из синих вибраций и гигантский конус смерти, который они строили."
-        },
-        {
-          "id": "sent-029",
-          "text": "Jhul Din escapó y volvió después para salvarnos del museo de seres vivos paralizados.",
-          "translationRu": "Джул Дин сбежал и вернулся позже, чтобы спасти нас из музея парализованных живых существ."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "Escapamos del universo serpiente y llegamos por fin al universo de Andrómeda.",
-          "translationRu": "Мы вырвались из вселенной змеелюдей и наконец достигли вселенной Андромеды."
-        },
-        {
-          "id": "sent-031",
-          "text": "Los Andromedanos eran columnas de gas verde y nos entendieron gracias a un globo especial de comunicación.",
-          "translationRu": "Андромедяне были столбами зелёного газа; мы объяснились с ними с помощью особого коммуникационного шара."
-        },
-        {
-          "id": "sent-032",
-          "text": "Juntos atacamos el universo serpiente, pero descubrimos que los enemigos ya habían volado a nuestra galaxia.",
-          "translationRu": "Вместе мы атаковали вселенную змеелюдей, но обнаружили, что враги уже улетели в нашу галактику."
-        },
-        {
-          "id": "sent-033",
-          "text": "Después de una batalla enorme en el cúmulo del Cáncer, Korus Kan volvió con las cien naves especiales que podían mover soles.",
-          "translationRu": "После грандиозного сражения в скоплении Рака Корус Кан вернулся со ста особыми кораблями, способными двигать звёзды."
-        },
-        {
-          "id": "sent-034",
-          "text": "Esas naves destruyeron el cono de la muerte y aplastaron todos los soles del cúmulo entre sí.",
-          "translationRu": "Эти корабли уничтожили конус смерти и столкнули все звёзды скопления друг с другом."
-        },
-        {
-          "id": "sent-035",
-          "text": "Todos los invasores serpiente murieron, y nuestro universo quedó salvado.",
-          "translationRu": "Все захватчики-змеелюди погибли, и наша вселенная была спасена."
+          "text": "Solo mi nave, que estaba en la retaguardia, logró escapar virando a tiempo, pero nuestra nave ya estaba gravemente dañada.",
+          "translationRu": "Лишь мой корабль, находившийся в тылу, успел вовремя свернуть, но наш корабль уже был серьёзно повреждён."
         }
       ]
     }
