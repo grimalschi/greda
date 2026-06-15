@@ -303,10 +303,42 @@ button {
 }
 
 /* ---------- Фильтры / чипы ---------- */
+.section-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.search {
+  width: 100%;
+  padding: 11px 14px;
+  margin-bottom: 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 1rem;
+}
+.search::placeholder {
+  color: var(--muted);
+}
+.search:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+}
+
 .filter {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+}
+.filter--levels {
+  margin-top: 8px;
+}
+.chip-btn--sm {
+  padding: 5px 11px;
+  font-size: 0.82rem;
 }
 .chip-btn {
   padding: 8px 14px;
