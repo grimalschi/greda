@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-tachypomp",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La Taquipompa"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Yo era el peor estudiante de matemáticas de la clase.", "translationRu": "Я был худшим студентом по математике во всём классе."},
+        {"id": "sent-002", "text": "El profesor Surd no me quería.", "translationRu": "Профессор Сёрд меня не любил."},
+        {"id": "sent-003", "text": "Él amaba las matemáticas y yo no las entendía.", "translationRu": "Он обожал математику, а я её не понимал."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "El profesor Surd tenía una hija. Se llamaba Abscissa.", "translationRu": "У профессора Сёрда была дочь. Её звали Абсцисса."},
+        {"id": "sent-005", "text": "Yo me enamoré de ella.", "translationRu": "Я влюбился в неё."},
+        {"id": "sent-006", "text": "Ella también me quería.", "translationRu": "Она тоже любила меня."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-007", "text": "Fui a ver al profesor.", "translationRu": "Я отправился к профессору."},
+        {"id": "sent-008", "text": "Le pedí la mano de Abscissa.", "translationRu": "Я попросил руки Абсциссы."},
+        {"id": "sent-009", "text": "Él dijo: «Tienes que descubrir la velocidad infinita. Solo así puedes casarte con mi hija».", "translationRu": "Он сказал: «Ты должен открыть бесконечную скорость. Только тогда ты сможешь жениться на моей дочери»."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-010", "text": "Fui a ver a mi tutor, Jean Marie Rivarol.", "translationRu": "Я пошёл к своему репетитору Жану Мари Риваролю."},
+        {"id": "sent-011", "text": "Él era un hombre muy inteligente.", "translationRu": "Он был очень умным человеком."},
+        {"id": "sent-012", "text": "Su cuarto estaba lleno de máquinas extrañas.", "translationRu": "Его комната была полна странных машин."},
+        {"id": "sent-013", "text": "Le conté el problema.", "translationRu": "Я рассказал ему о задаче."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-014", "text": "Rivarol pensó por mucho tiempo.", "translationRu": "Риварол долго думал."},
+        {"id": "sent-015", "text": "Luego dijo: «Tengo la solución. La llamo la Taquipompa».", "translationRu": "Потом он сказал: «У меня есть решение. Я называю его Тахипомп»."},
+        {"id": "sent-016", "text": "Explicó la idea: si un tren lleva otro tren encima, las dos velocidades se suman.", "translationRu": "Он объяснил идею: если поезд везёт на себе другой поезд, скорости складываются."},
+        {"id": "sent-017", "text": "Con muchos trenes encima de otros, la velocidad puede ser infinita.", "translationRu": "Если поездов много, один на другом, скорость может стать бесконечной."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-018", "text": "Decidimos construir la máquina en las praderas del oeste.", "translationRu": "Мы решили построить машину в западных прериях."},
+        {"id": "sent-019", "text": "Invitamos al profesor y a Abscissa para ver la Taquipompa.", "translationRu": "Мы пригласили профессора и Абсциссу посмотреть на Тахипомп."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-020", "text": "Quise salir del cuarto rápido.", "translationRu": "Я хотел быстро выйти из комнаты."},
+        {"id": "sent-021", "text": "Pisé una trampa en el suelo y caí.", "translationRu": "Я наступил на люк в полу и упал."},
+        {"id": "sent-022", "text": "Caí y caí en la oscuridad.", "translationRu": "Я падал и падал во тьму."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-023", "text": "Abrí los ojos. Estaba en el cuarto del profesor Surd.", "translationRu": "Я открыл глаза. Я был в кабинете профессора Сёрда."},
+        {"id": "sent-024", "text": "El profesor me miraba con una sonrisa.", "translationRu": "Профессор смотрел на меня с улыбкой."},
+        {"id": "sent-025", "text": "Dijo: «Eres el hijo de mi amigo el juez Furnace. Puedes casarte con Abscissa».", "translationRu": "Он сказал: «Ты сын моего друга судьи Фёрнеса. Ты можешь жениться на Абсциссе»."},
+        {"id": "sent-026", "text": "¡Todo había sido un sueño, pero el final fue real!", "translationRu": "Всё это было сном, но конец оказался настоящим!"}
+      ]
+    }
+  ]
+}

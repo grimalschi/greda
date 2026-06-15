@@ -1,0 +1,192 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-boscombe-valley-mystery",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El misterio del valle de Boscombe"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Una mañana de principios de junio, el doctor Watson fue arrancado de su desayuno por un telegrama lacónico de Sherlock Holmes, que lo convocaba a acompañarle al oeste de Inglaterra con motivo de una oscura tragedia ocurrida en el valle de Boscombe, en Herefordshire.",
+          "translationRu": "Ранним июньским утром доктора Ватсона оторвала от завтрака краткая телеграмма Шерлока Холмса, призывавшего его сопровождать его на запад Англии в связи с тёмной трагедией, разыгравшейся в долине Боском в Херефордшире."
+        },
+        {
+          "id": "sent-002",
+          "text": "Watson no vaciló un instante: hizo rápidamente su equipaje y se reunió con Holmes en el andén de Paddington, donde su amigo aguardaba con ese aire de concentración absorta que lo singularizaba antes de toda empresa de importancia.",
+          "translationRu": "Ватсон не колебался ни секунды: он быстро собрался и встретился с Холмсом на платформе Паддингтона, где тот ждал с тем выражением поглощённой сосредоточенности, которое всегда отличало его накануне важного дела."
+        },
+        {
+          "id": "sent-003",
+          "text": "Durante el trayecto, Holmes leyó y anotó papeles con esa energía silenciosa que Watson conocía bien, y solo cuando dejaron atrás Reading le expuso los contornos del caso.",
+          "translationRu": "В дороге Холмс читал и делал заметки с той сосредоточенной энергией, которую Ватсон хорошо знал, и лишь миновав Рединг, изложил ему контуры дела."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Charles McCarthy, antiguo colono australiano que labraba la granja Hatherley en calidad de arrendatario del acaudalado John Turner, había sido hallado muerto junto al lago Boscombe en la tarde del lunes 3 de junio.",
+          "translationRu": "Чарльз Маккарти, бывший австралийский колонист, арендовавший ферму Хезерли у состоятельного Джона Тёрнера, был найден мёртвым у озера Боском во второй половине дня в понедельник, 3 июня."
+        },
+        {
+          "id": "sent-005",
+          "text": "Los testigos declararon que su hijo James le había seguido hasta el lago y que los habían visto en medio de una acalorada disputa junto a la orilla.",
+          "translationRu": "Свидетели показали, что его сын Джеймс следовал за ним к озеру и что их видели в разгаре жестокой ссоры на берегу."
+        },
+        {
+          "id": "sent-006",
+          "text": "Cuando James McCarthy regresó al lago tras oír un grito, encontró a su padre agonizando; su rifle yacía abandonado a pocos pasos del cadáver y su manga derecha estaba manchada de sangre.",
+          "translationRu": "Когда Джеймс Маккарти вернулся к озеру, услышав крик, он нашёл отца умирающим; его ружьё валялось брошенным в нескольких шагах от тела, а правый рукав был запятнан кровью."
+        },
+        {
+          "id": "sent-007",
+          "text": "Semejante convergencia de circunstancias indujo a la policía a detenerle sin tardanza, y el jurado del sumario no tardó en emitir un veredicto de homicidio con premeditación.",
+          "translationRu": "Столь очевидное стечение обстоятельств побудило полицию немедленно задержать его, и следственное жюри незамедлительно вынесло вердикт об умышленном убийстве."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "En la pequeña ciudad de Ross les esperaba el inspector Lestrade, que exhibía la satisfacción perezosa de quien cree haber concluido su trabajo, y también Alice Turner, cuya vehemente fe en la inocencia de James contrastaba de manera llamativa con el escepticismo del policía.",
+          "translationRu": "В маленьком городке Росс их ждал инспектор Лестрейд, демонстрировавший вальяжное довольство человека, считающего работу завершённой, а также Алиса Тёрнер, чья пылкая вера в невиновность Джеймса разительно контрастировала со скептицизмом полицейского."
+        },
+        {
+          "id": "sent-009",
+          "text": "La joven explicó que el origen de la disputa entre padre e hijo residía en que McCarthy presionaba a James para que le propusiera matrimonio, ignorando que ambos jóvenes se consideraban más hermanos que otra cosa.",
+          "translationRu": "Девушка объяснила, что причиной ссоры между отцом и сыном было давление, которое Маккарти оказывал на Джеймса, добиваясь, чтобы тот сделал ей предложение, не подозревая, что оба молодых человека относились друг к другу скорее как брат и сестра."
+        },
+        {
+          "id": "sent-010",
+          "text": "Añadió además que su propio padre, Turner, se encontraba postrado en cama a causa de una dolencia crónica, y que había conocido a McCarthy en los tiempos de las minas de oro de Victoria.",
+          "translationRu": "Она также добавила, что её собственный отец, Тёрнер, прикован к постели хронической болезнью и что он познакомился с Маккарти в годы золотодобычи в Виктории."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Holmes visitó a James en la cárcel aquella misma noche y regresó con la convicción de que el joven decía la verdad: había acudido al lago atraído por el grito de «¡Cooee!», señal habitual entre él y su padre, aunque en aquella ocasión McCarthy no podía saber que su hijo había regresado de Bristol.",
+          "translationRu": "В ту же ночь Холмс навестил Джеймса в тюрьме и вернулся с убеждением, что молодой человек говорит правду: он пришёл к озеру, привлечённый криком «Куи!» — привычным сигналом между ним и отцом, — хотя в тот раз Маккарти не мог знать, что сын вернулся из Бристоля."
+        },
+        {
+          "id": "sent-012",
+          "text": "Antes de expirar, el padre había murmurado algo que James interpretó como «rata», y el joven recordaba también haber entrevisto, casi sin advertirlo, algo de color gris tendido en el suelo que desapareció mientras él velaba el cadáver.",
+          "translationRu": "Перед смертью отец прошептал нечто, что Джеймс принял за слово «крыса», а кроме того, юноша смутно припоминал, что почти не заметил лежавшее на земле нечто серое, исчезнувшее, пока он стоял у тела."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "A la mañana siguiente, Holmes inspeccionó el escenario del crimen con esa intensidad animal que transformaba su fisonomía habitual y que tanto asombraba a cuantos solo le conocían como pensador de gabinete.",
+          "translationRu": "Наутро Холмс осматривал место преступления с тем зверино-сосредоточенным видом, который преображал его привычный облик и неизменно поражал тех, кто знал его лишь как кабинетного мыслителя."
+        },
+        {
+          "id": "sent-014",
+          "text": "Rastreó las huellas de unas botas de gruesas suelas y puntas cuadradas desde la orilla del lago hasta el tronco de un gran haya en el lindero del bosque, donde el asesino había aguardado, fumando, el momento de actuar.",
+          "translationRu": "Он проследил следы толстоподошвенных сапог с квадратными носками от берега озера до ствола большого бука на опушке леса, где убийца курил в ожидании подходящего момента."
+        },
+        {
+          "id": "sent-015",
+          "text": "Allí recogió la colilla de un cigarro indio enrollado en Rotterdam y una piedra de bordes irregulares cuyo emplazamiento original revelaba que había sido levantada apenas unos días antes.",
+          "translationRu": "Там он подобрал окурок индийской сигары, скрученной в Роттердаме, и камень с неровными краями, само местоположение которого говорило о том, что его подняли всего несколько дней назад."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-016",
+          "text": "De regreso al hotel, Holmes expuso a Watson la cadena de deducciones que le permitían describir al asesino con una precisión casi fotográfica: un australiano de Ballarat, hombre de edad avanzada, estatura elevada, zurdo, con cojera en la pierna derecha y costumbre de llevar una amplia capa gris.",
+          "translationRu": "Вернувшись в гостиницу, Холмс изложил Ватсону цепочку умозаключений, позволявших описать убийцу с почти фотографической точностью: австралиец из Баллара́та, пожилой, высокого роста, левша, хромающий на правую ногу, привычный носить широкий серый плащ."
+        },
+        {
+          "id": "sent-017",
+          "text": "Sobre el enigmático «rata», Holmes extendió un mapa de Victoria: tapando parte del nombre con la mano dejaba visible «ARAT»; al levantarla aparecía «BALLARAT»: el moribundo había intentado pronunciar el nombre de su asesino.",
+          "translationRu": "По поводу загадочной «крысы» Холмс развернул карту Виктории: закрыв ладонью часть названия, оставил видимым «АРАТ»; убрав руку, обнажил «БАЛЛАРАТ»: умирающий пытался произнести имя своего убийцы."
+        },
+        {
+          "id": "sent-018",
+          "text": "El grito «¡Cooee!» era la clave final: se trataba de una señal típicamente australiana, señal que McCarthy usó para llamar a alguien cuya presencia en aquel paraje era conocida de antemano.",
+          "translationRu": "Крик «Куи!» стал последним ключом: это был сугубо австралийский сигнал, которым Маккарти подзывал кого-то, чьё присутствие в тех местах было заранее известно."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "Holmes no había terminado su exposición cuando unos golpes lentos y pesados en la puerta anunciaron la llegada de John Turner en persona: un anciano de imponente corpulencia reducido por la enfermedad a una sombra de sí mismo, con la tez cenicien­ta y los labios amoratados.",
+          "translationRu": "Холмс не успел закончить изложение, как медленные тяжёлые удары в дверь возвестили о приходе самого Джона Тёрнера: грузного старика, которого болезнь превратила в собственную тень — пепельно-бледного, с посиневшими губами."
+        },
+        {
+          "id": "sent-020",
+          "text": "Después de explicar que en sus años de colono australiano había sido el jefe de la banda de Ballarat, conocida como «Black Jack», Turner narró cómo McCarthy, uno de los rehenes de un asalto a un convoy de oro, lo había reconocido en Londres años después y le había impuesto un chantaje que duró veinte años.",
+          "translationRu": "Объяснив, что в годы австралийской колонии был главарём «банды Баллара́та» под прозвищем «Чёрный Джек», Тёрнер поведал, как Маккарти — один из заложников нападения на золотой конвой — узнал его в Лондоне много лет спустя и двадцать лет держал под угрозой шантажа."
+        },
+        {
+          "id": "sent-021",
+          "text": "McCarthy le había cedido tierras, dinero y una granja libre de arrendamiento, pero cuando pretendió unir a su hijo con Alice para hacerse con la fortuna de los Turner, el viejo terrateniente comprendió que aquel yugo nunca podría romperse de otro modo.",
+          "translationRu": "Маккарти получил от него земли, деньги и ферму в безвозмездное пользование, но когда задумал соединить своего сына с Алисой, чтобы завладеть состоянием Тёрнеров, старый землевладелец понял, что иначе это ярмо не сбросить."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Turner acudió al lago, aguardó fumando detrás del gran haya mientras McCarthy despachaba a su hijo con una discusión, y en el instante en que quedó solo se adelantó y le asestó el golpe mortal por la espalda con la piedra.",
+          "translationRu": "Тёрнер пришёл к озеру, курил в ожидании за большим буком, пока Маккарти ссорой отправлял сына прочь, и в тот миг, когда тот остался один, вышел вперёд и нанёс смертельный удар сзади камнем."
+        },
+        {
+          "id": "sent-023",
+          "text": "Huyó al amparo del bosque, pero tuvo que regresar a recoger la capa gris que había perdido en la precipitación, y lo hizo cuando James, de rodillas junto a su padre, le daba la espalda a escasos metros.",
+          "translationRu": "Он скрылся под защитой леса, но был вынужден вернуться за серым плащом, потерянным впопыхах, — и сделал это, когда Джеймс, стоя на коленях у отца, стоял к нему спиной в нескольких шагах."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-024",
+          "text": "Holmes le hizo firmar una confesión escrita, prometiéndole que la mantendría bajo reserva a menos que la condena de James lo obligara a presentarla.",
+          "translationRu": "Холмс попросил его подписать письменное признание, пообещав хранить его в тайне, если только приговор Джеймсу не вolviera necesario el presentarlo."
+        },
+        {
+          "id": "sent-025",
+          "text": "Gracias al trabajo de Holmes, el abogado defensor de James acumuló suficientes objeciones para que el jurado lo absolviera en las Assizes.",
+          "translationRu": "Благодаря работе Холмса защитник Джеймса собрал достаточно возражений, чтобы присяжные оправдали его на сессии суда присяжных."
+        },
+        {
+          "id": "sent-026",
+          "text": "John Turner sobrevivió tan solo siete meses, muriendo bajo su propio techo, como siempre había deseado; su hija no llegó a saber jamás la verdad sobre el hombre que le había dado la vida.",
+          "translationRu": "Джон Тёрнер прожил лишь семь месяцев и умер под собственной крышей, как всегда и мечтал; его дочь так никогда и не узнала правды о человеке, давшем ей жизнь."
+        },
+        {
+          "id": "sent-027",
+          "text": "James y Alice, ignorantes por igual de la nube oscura que planeaba sobre su historia, pudieron al fin construir juntos el futuro que las circunstancias les habían negado.",
+          "translationRu": "Джеймс и Алиса, одинаково не ведая о тёмной тени, нависшей над их историей, смогли наконец выстроить вместе то будущее, в котором обстоятельства им отказывали."
+        }
+      ]
+    }
+  ]
+}

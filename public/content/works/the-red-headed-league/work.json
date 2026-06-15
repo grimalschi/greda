@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-red-headed-league",
+  "title": "La Liga de los Pelirrojos",
+  "titleRu": "Союз рыжеволосых",
+  "originalTitle": "The Red-Headed League",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Ломбардщик Джабез Уилсон получает странную работу в «Союзе рыжеволосых» — переписывать энциклопедию за щедрое жалованье. Шерлок Холмс разгадывает, что это лишь отвлекающий манёвр, позволяющий вору прорыть туннель из подвала лавки в хранилище соседнего банка.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

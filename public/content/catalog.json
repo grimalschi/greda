@@ -1103,6 +1103,30 @@
       ]
     },
     {
+      "id": "the-man-with-the-twisted-lip",
+      "title": "El hombre con el labio torcido",
+      "titleRu": "Человек с рассечённой губой",
+      "originalTitle": "The Man with the Twisted Lip",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-crooked-man",
       "title": "El hombre torcido",
       "titleRu": "Горбун",
@@ -1131,6 +1155,30 @@
       "title": "El intérprete griego",
       "titleRu": "Греческий переводчик",
       "originalTitle": "The Greek Interpreter",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-boscombe-valley-mystery",
+      "title": "El misterio del valle de Boscombe",
+      "titleRu": "Тайна долины Боском",
+      "originalTitle": "The Boscombe Valley Mystery",
       "authorId": "arthur-conan-doyle",
       "authorName": "Arthur Conan Doyle",
       "genres": [
@@ -1271,6 +1319,30 @@
       ]
     },
     {
+      "id": "the-red-headed-league",
+      "title": "La Liga de los Pelirrojos",
+      "titleRu": "Союз рыжеволосых",
+      "originalTitle": "The Red-Headed League",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-adventure-of-charles-augustus-milverton",
       "title": "La aventura de Charles Augustus Milverton",
       "titleRu": "Приключение Чарлза Огастуса Милвертона",
@@ -1371,6 +1443,30 @@
       "title": "La aventura de la abadía Grange",
       "titleRu": "Приключение в Грейндж-Аббатстве",
       "originalTitle": "The Adventure of the Abbey Grange",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-adventure-of-the-speckled-band",
+      "title": "La aventura de la banda moteada",
+      "titleRu": "Приключение пёстрой ленты",
+      "originalTitle": "The Adventure of the Speckled Band",
       "authorId": "arthur-conan-doyle",
       "authorName": "Arthur Conan Doyle",
       "genres": [
@@ -2159,6 +2255,30 @@
       ]
     },
     {
+      "id": "the-five-orange-pips",
+      "title": "Los cinco huesos de naranja",
+      "titleRu": "Пять апельсиновых косточек",
+      "originalTitle": "The Five Orange Pips",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-reigate-squires",
       "title": "Los hacendados de Reigate",
       "titleRu": "Сквайры из Рейгейта",
@@ -2926,6 +3046,29 @@
       ]
     },
     {
+      "id": "the-facts-in-the-case-of-m-valdemar",
+      "title": "El caso del señor Valdemar",
+      "titleRu": "Правда о том, что случилось с господином Валдемаром",
+      "originalTitle": "The Facts in the Case of M. Valdemar",
+      "authorId": "edgar-allan-poe",
+      "authorName": "Edgar Allan Poe",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-masque-of-the-red-death",
       "title": "La máscara de la Muerte Roja",
       "titleRu": "Маска Красной смерти",
@@ -2936,6 +3079,52 @@
         "Готика",
         "Ужас",
         "Притча"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "some-words-with-a-mummy",
+      "title": "Unas palabras con una momia",
+      "titleRu": "Несколько слов с мумией",
+      "originalTitle": "Some Words with a Mummy",
+      "authorId": "edgar-allan-poe",
+      "authorName": "Edgar Allan Poe",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "von-kempelen-and-his-discovery",
+      "title": "Von Kempelen y su descubrimiento",
+      "titleRu": "Фон Кемпелен и его открытие",
+      "originalTitle": "Von Kempelen and His Discovery",
+      "authorId": "edgar-allan-poe",
+      "authorName": "Edgar Allan Poe",
+      "genres": [
+        "Фантастика"
       ],
       "levels": [
         "a2",
@@ -3232,6 +3421,29 @@
       ]
     },
     {
+      "id": "the-tachypomp",
+      "title": "La Taquipompa",
+      "titleRu": "Тахипомп",
+      "originalTitle": "The Tachypomp",
+      "authorId": "edward-page-mitchell",
+      "authorName": "Edward Page Mitchell",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "carrados-the-game-played-in-the-dark",
       "title": "El juego en la oscuridad",
       "titleRu": "Игра в темноте",
@@ -3409,6 +3621,29 @@
       "genres": [
         "Детектив",
         "Макс Каррадос"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-diamond-lens",
+      "title": "La lente de diamante",
+      "titleRu": "Алмазная линза",
+      "originalTitle": "The Diamond Lens",
+      "authorId": "fitz-james-obrien",
+      "authorName": "Fitz-James O'Brien",
+      "genres": [
+        "Фантастика"
       ],
       "levels": [
         "a2",

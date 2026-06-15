@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-speckled-band",
+  "title": "La aventura de la banda moteada",
+  "titleRu": "Приключение пёстрой ленты",
+  "originalTitle": "The Adventure of the Speckled Band",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Молодая женщина просит Холмса расследовать загадочную смерть сестры, произошедшую в запертой комнате. Холмс раскрывает дьявольский план отчима, использовавшего ядовитую индийскую змею в качестве орудия убийства.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

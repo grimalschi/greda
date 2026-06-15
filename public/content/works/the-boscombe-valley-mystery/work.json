@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-boscombe-valley-mystery",
+  "title": "El misterio del valle de Boscombe",
+  "titleRu": "Тайна долины Боском",
+  "originalTitle": "The Boscombe Valley Mystery",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс и доктор Ватсон расследуют убийство у озера Боском: сын обвиняется в гибели отца, однако Холмс по мельчайшим следам устанавливает настоящего преступника — состоятельного соседа, двадцать лет страдавшего под гнётом шантажа.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
