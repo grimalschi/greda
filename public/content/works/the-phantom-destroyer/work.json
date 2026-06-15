@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-phantom-destroyer",
+  "title": "El destructor fantasma",
+  "titleRu": "Призрачный разрушитель",
+  "originalTitle": "The Phantom Destroyer",
+  "author": {
+    "id": "arthur-b-reeve",
+    "name": "Arthur B. Reeve"
+  },
+  "genres": [
+    "Детектив",
+    "Крейг Кеннеди"
+  ],
+  "synopsisRu": "Детектив Крейг Кеннеди расследует серию таинственных взрывов на военном пороховом заводе, которые устраивает невидимый враг на прозрачном бесшумном самолёте. Разгадав природу «призрачного разрушителя», Кеннеди обнаруживает, что за преступлениями стоит самый неожиданный подозреваемый.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

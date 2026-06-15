@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-bruce-partington-plans",
+  "title": "La aventura de los planos Bruce-Partington",
+  "titleRu": "Приключение с чертежами Брюс-Партингтона",
+  "originalTitle": "The Adventure of the Bruce-Partington Plans",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс расследует гибель молодого чиновника, найденного мёртвым в лондонском метро с секретными чертежами новейшей подводной лодки в кармане. Разгадка скрывается на крыше поезда и в доме иностранного шпиона.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

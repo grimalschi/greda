@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-dying-detective",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura del detective moribundo"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "La señora Hudson fue a buscar al doctor Watson.", "translationRu": "Миссис Хадсон пришла к доктору Ватсону."},
+        {"id": "sent-002", "text": "Ella dijo que Sherlock Holmes estaba muy enfermo.", "translationRu": "Она сказала, что Шерлок Холмс очень болен."},
+        {"id": "sent-003", "text": "Holmes no comió ni bebió nada en tres días.", "translationRu": "Холмс не ел и не пил три дня."},
+        {"id": "sent-004", "text": "Watson fue rápido a Baker Street.", "translationRu": "Ватсон быстро поехал на Бейкер-стрит."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Holmes estaba en la cama. Tenía la cara muy delgada.", "translationRu": "Холмс лежал в постели. Его лицо было очень исхудавшим."},
+        {"id": "sent-006", "text": "Sus ojos brillaban mucho. Sus labios eran negros y secos.", "translationRu": "Глаза сильно блестели. Губы были почерневшими и сухими."},
+        {"id": "sent-007", "text": "Watson quiso acercarse, pero Holmes gritó: «¡Atrás!»", "translationRu": "Ватсон хотел подойти, но Холмс крикнул: «Назад!»"}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-008", "text": "Holmes dijo que tenía una enfermedad de Sumatra.", "translationRu": "Холмс сказал, что у него болезнь с Суматры."},
+        {"id": "sent-009", "text": "La enfermedad era muy peligrosa y muy contagiosa.", "translationRu": "Болезнь была очень опасной и очень заразной."},
+        {"id": "sent-010", "text": "«No te puedes acercar a mí», dijo Holmes.", "translationRu": "«Ты не можешь подходить ко мне», — сказал Холмс."},
+        {"id": "sent-011", "text": "Watson quiso llamar a un médico, pero Holmes no lo permitió.", "translationRu": "Ватсон хотел вызвать врача, но Холмс не позволил."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-012", "text": "Watson fue a la chimenea y vio una caja pequeña de marfil.", "translationRu": "Ватсон подошёл к камину и увидел маленькую шкатулку из слоновой кости."},
+        {"id": "sent-013", "text": "Holmes gritó: «¡No toques esa caja!»", "translationRu": "Холмс закричал: «Не трогай эту шкатулку!»"},
+        {"id": "sent-014", "text": "Watson se asustó mucho y dejó la caja.", "translationRu": "Ватсон очень испугался и оставил шкатулку."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-015", "text": "A las seis, Holmes pidió a Watson que fuera a ver a Culverton Smith.", "translationRu": "В шесть часов Холмс попросил Ватсона пойти к Калвертону Смиту."},
+        {"id": "sent-016", "text": "Culverton Smith sabía mucho sobre enfermedades tropicales.", "translationRu": "Калвертон Смит много знал о тропических болезнях."},
+        {"id": "sent-017", "text": "Holmes dijo: «Él puede salvarme. Sólo él puede hacerlo.»", "translationRu": "Холмс сказал: «Он может спасти меня. Только он.»"},
+        {"id": "sent-018", "text": "Watson fue solo. Holmes dijo que volviera antes que Smith.", "translationRu": "Ватсон пошёл один. Холмс сказал вolver antes que Smith."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-019", "text": "Watson encontró a Culverton Smith en su casa.", "translationRu": "Ватсон нашёл Калвертона Смита дома."},
+        {"id": "sent-020", "text": "Smith era un hombre pequeño con una cara amarilla y ojos grises.", "translationRu": "Смит был маленьким человеком с жёлтым лицом и серыми глазами."},
+        {"id": "sent-021", "text": "Al principio, Smith no quiso ir. Después dijo que sí.", "translationRu": "Сначала Смит не хотел идти. Потом согласился."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-022", "text": "Cuando Watson volvió, Holmes lo escondió detrás de la cama.", "translationRu": "Когда Ватсон вернулся, Холмс спрятал его за кроватью."},
+        {"id": "sent-023", "text": "Smith llegó y habló con Holmes. Creía que Holmes iba a morir.", "translationRu": "Смит пришёл и разговаривал с Холмсом. Он думал, что Холмс умрёт."},
+        {"id": "sent-024", "text": "Smith admitió que él mató a su sobrino Victor Savage.", "translationRu": "Смит признался, что убил своего племянника Виктора Сэвиджа."},
+        {"id": "sent-025", "text": "También dijo que la caja de marfil tenía una aguja venenosa.", "translationRu": "Он также сказал, что в шкатулке из слоновой кости была ядовитая игла."}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-026", "text": "De repente, Holmes habló con su voz normal: «¿Me das un cigarrillo?»", "translationRu": "Внезапно Холмс заговорил нормальным голосом: «Дашь мне сигарету?»"},
+        {"id": "sent-027", "text": "Smith se sorprendió mucho. Entonces llegó el inspector Morton.", "translationRu": "Смит был очень удивлён. Затем пришёл инспектор Мортон."},
+        {"id": "sent-028", "text": "El inspector detuvo a Smith por el asesinato de Victor Savage.", "translationRu": "Инспектор арестовал Смита за убийство Виктора Сэвиджа."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-029", "text": "Holmes explicó todo: no estaba realmente enfermo.", "translationRu": "Холмс всё объяснил: он на самом деле не был болен."},
+        {"id": "sent-030", "text": "Usó maquillaje para parecer enfermo. No comió durante tres días.", "translationRu": "Он использовал грим, чтобы выглядеть больным. Три дня не ел."},
+        {"id": "sent-031", "text": "No dijo la verdad a Watson porque Watson no sabía actuar.", "translationRu": "Он не сказал правды Ватсону, потому что Ватсон не умел притворяться."},
+        {"id": "sent-032", "text": "Después, los dos amigos fueron al restaurante a comer.", "translationRu": "После этого два друга пошли в ресторан поесть."}
+      ]
+    }
+  ]
+}
