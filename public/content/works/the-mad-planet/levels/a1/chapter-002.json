@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-mad-planet",
+  "level": "a1",
+  "chapter": {
+    "id": "chapter-002",
+    "number": 2,
+    "title": "Capítulo 2"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Burl camina cerca del río.",
+          "translationRu": "Бёрл идёт вдоль реки."
+        },
+        {
+          "id": "sent-002",
+          "text": "Él tiene una lanza hecha de un cuerno de escarabajo.",
+          "translationRu": "У него есть копьё, сделанное из рога жука."
+        },
+        {
+          "id": "sent-003",
+          "text": "Quiere atrapar un pez para Saya.",
+          "translationRu": "Он хочет поймать рыбу для Сайи."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Saya es una chica de su grupo.",
+          "translationRu": "Сайя — девушка из его племени."
+        },
+        {
+          "id": "sent-005",
+          "text": "Burl la ve y siente algo especial.",
+          "translationRu": "Бёрл видит её и чувствует что-то особенное."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "Burl se pone sobre los hongos de la roca.",
+          "translationRu": "Бёрл ложится на грибы, растущие на скале."
+        },
+        {
+          "id": "sent-007",
+          "text": "Ve un pez grande en el agua.",
+          "translationRu": "Он видит большую рыбу в воде."
+        },
+        {
+          "id": "sent-008",
+          "text": "Burl lanza la lanza al pez.",
+          "translationRu": "Бёрл бросает копьё в рыбу."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "El pez lucha, y Burl cae al agua.",
+          "translationRu": "Рыба бьётся, и Бёрл падает в воду."
+        },
+        {
+          "id": "sent-010",
+          "text": "Burl no sabe nadar.",
+          "translationRu": "Бёрл не умеет плавать."
+        },
+        {
+          "id": "sent-011",
+          "text": "Un cangrejo enorme viene hacia él.",
+          "translationRu": "К нему приближается огромный рак."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-012",
+          "text": "Burl agarra un trozo de hongo y flota.",
+          "translationRu": "Бёрл хватает кусок гриба и держится на воде."
+        },
+        {
+          "id": "sent-013",
+          "text": "El cangrejo no puede atraparlo.",
+          "translationRu": "Рак не может его поймать."
+        },
+        {
+          "id": "sent-014",
+          "text": "El río lleva a Burl lejos.",
+          "translationRu": "Река уносит Бёрла далеко."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "Burl come el pez en el agua.",
+          "translationRu": "Бёрл ест рыбу прямо на воде."
+        },
+        {
+          "id": "sent-016",
+          "text": "Por la mañana el hongo toca la orilla.",
+          "translationRu": "Утром гриб-плот пристаёт к берегу."
+        },
+        {
+          "id": "sent-017",
+          "text": "Burl sale del agua y está en una tierra nueva.",
+          "translationRu": "Бёрл выходит из воды и оказывается в незнакомом краю."
+        }
+      ]
+    }
+  ]
+}

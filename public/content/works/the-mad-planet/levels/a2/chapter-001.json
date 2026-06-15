@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El planeta loco"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,28 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Burl era un hombre joven.",
-          "translationRu": "Бёрл был молодым человеком."
+          "text": "Burl era un joven de unos veinte años.",
+          "translationRu": "Бёрл был молодым человеком лет двадцати."
         },
         {
           "id": "sent-002",
-          "text": "Vivió en un mundo muy extraño.",
-          "translationRu": "Он жил в очень странном мире."
+          "text": "Caminaba con cuidado sobre el suelo cubierto de hongos marrones.",
+          "translationRu": "Он осторожно шагал по земле, покрытой коричневыми грибами."
         },
         {
           "id": "sent-003",
-          "text": "No había árboles ni plantas verdes.",
-          "translationRu": "Не было ни деревьев, ни зелёных растений."
+          "text": "Grandes setas se elevaban sobre su cabeza, más altas que tres hombres.",
+          "translationRu": "Огромные поганки возвышались над его головой — высотой с трёх человек."
         },
         {
           "id": "sent-004",
-          "text": "Solo había hongos y setas gigantes.",
-          "translationRu": "Были только грибы и гигантские поганки."
-        },
-        {
-          "id": "sent-005",
-          "text": "Los insectos eran muy grandes, más grandes que Burl.",
-          "translationRu": "Насекомые были очень большими — крупнее Бёрла."
+          "text": "Burl tenía la piel rosada y los ojos grandes y azules.",
+          "translationRu": "Кожа Бёрла была розовой, а глаза — большими и голубыми."
         }
       ]
     },
@@ -42,29 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-005",
+          "text": "Nunca vio el sol directamente porque el cielo estaba siempre cubierto de nubes.",
+          "translationRu": "Он никогда не видел солнца напрямую, потому что небо всегда было покрыто облаками."
+        },
+        {
           "id": "sent-006",
-          "text": "Burl caminó con cuidado entre las setas.",
-          "translationRu": "Бёрл осторожно шёл между поганками."
+          "text": "Llevaba un trozo de tela hecho del ala de una gran polilla.",
+          "translationRu": "Он носил кусок ткани, сделанный из крыла большой моли."
         },
         {
           "id": "sent-007",
-          "text": "Buscó agua y comida.",
-          "translationRu": "Он искал воду и еду."
+          "text": "Hace treinta mil años, la Tierra era diferente y los hombres vivían bien.",
+          "translationRu": "Тридцать тысяч лет назад Земля была другой, и люди жили хорошо."
         },
         {
           "id": "sent-008",
-          "text": "Encontró el cuerno de un escarabajo muerto.",
-          "translationRu": "Он нашёл рог мёртвого жука."
-        },
-        {
-          "id": "sent-009",
-          "text": "El cuerno era largo y muy afilado.",
-          "translationRu": "Рог был длинным и очень острым."
-        },
-        {
-          "id": "sent-010",
-          "text": "Burl pensó: esto puede ser una lanza.",
-          "translationRu": "Бёрл подумал: это может стать копьём."
+          "text": "Pero el planeta empezó a soltar mucho gas dióxido de carbono.",
+          "translationRu": "Но планета начала выпускать много углекислого газа."
         }
       ]
     },
@@ -72,29 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-009",
+          "text": "El aire se hizo más pesado y el clima más caliente y húmedo.",
+          "translationRu": "Воздух стал тяжелее, а климат — жарче и влажнее."
+        },
+        {
+          "id": "sent-010",
+          "text": "Los árboles desaparecieron poco a poco y los hongos cubrieron toda la tierra.",
+          "translationRu": "Деревья постепенно исчезли, и грибы покрыли всю землю."
+        },
+        {
           "id": "sent-011",
-          "text": "Burl fue al río con su lanza.",
-          "translationRu": "Бёрл отправился к реке с копьём."
+          "text": "Los insectos crecieron mucho y se hicieron enormes.",
+          "translationRu": "Насекомые сильно выросли и стали огромными."
         },
         {
           "id": "sent-012",
-          "text": "Vio un pez grande en el agua.",
-          "translationRu": "Он увидел большую рыбу в воде."
-        },
-        {
-          "id": "sent-013",
-          "text": "Intentó golpear el pez con la lanza.",
-          "translationRu": "Он попытался ударить рыбу копьём."
-        },
-        {
-          "id": "sent-014",
-          "text": "Al fin lo consiguió, pero cayó al agua.",
-          "translationRu": "В конце концов он попал, но упал в воду."
-        },
-        {
-          "id": "sent-015",
-          "text": "Un cangrejo enorme lo persiguió.",
-          "translationRu": "Огромный рак погнался за ним."
+          "text": "Las mariposas tenían alas de muchos metros y las avispas eran tan largas como un hombre.",
+          "translationRu": "Бабочки имели крылья шириной в несколько метров, а осы были с человека ростом."
         }
       ]
     },
@@ -102,29 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-013",
+          "text": "Las arañas eran los enemigos más peligrosos para Burl y su tribu.",
+          "translationRu": "Пауки были самыми опасными врагами для Бёрла и его племени."
+        },
+        {
+          "id": "sent-014",
+          "text": "El abuelo de Burl murió cuando una tarántula enorme lo atrapó.",
+          "translationRu": "Дед Бёрла погиб, когда огромная тарантула схватила его."
+        },
+        {
+          "id": "sent-015",
+          "text": "La tribu de Burl era pequeña, de unas veinte personas sin armas.",
+          "translationRu": "Племя Бёрла было небольшим — около двадцати человек без оружия."
+        },
+        {
           "id": "sent-016",
-          "text": "Burl no sabía nadar, pero se agarró a un hongo flotante.",
-          "translationRu": "Бёрл не умел плавать, но схватился за плавучий гриб."
-        },
-        {
-          "id": "sent-017",
-          "text": "El hongo lo llevó río abajo.",
-          "translationRu": "Гриб унёс его вниз по реке."
-        },
-        {
-          "id": "sent-018",
-          "text": "Burl comió el pez y pensó en Saya.",
-          "translationRu": "Бёрл съел рыбу и думал о Сайе."
-        },
-        {
-          "id": "sent-019",
-          "text": "Saya era una chica de su tribu.",
-          "translationRu": "Сайа была девушкой из его племени."
-        },
-        {
-          "id": "sent-020",
-          "text": "Burl quería volver con ella.",
-          "translationRu": "Бёрл хотел вернуться к ней."
+          "text": "Burl era más inteligente que los otros y pensaba más.",
+          "translationRu": "Бёрл был умнее остальных и думал больше."
         }
       ]
     },
@@ -132,24 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Burl salió del agua y caminó hacia su tribu.",
-          "translationRu": "Бёрл вышел из воды и пошёл к своему племени."
+          "id": "sent-017",
+          "text": "Un día, Burl vio una pelea entre dos escarabajos enormes.",
+          "translationRu": "Однажды Бёрл увидел схватку двух огромных жуков."
         },
         {
-          "id": "sent-022",
-          "text": "Una araña grande lo atacó.",
-          "translationRu": "Большой паук напал на него."
+          "id": "sent-018",
+          "text": "El ganador comió al perdedor.",
+          "translationRu": "Победитель съел побеждённого."
         },
         {
-          "id": "sent-023",
-          "text": "Burl gritó y puso la lanza delante.",
-          "translationRu": "Бёрл закричал и выставил копьё вперёд."
+          "id": "sent-019",
+          "text": "Burl tomó el cuerno afilado del escarabajo muerto.",
+          "translationRu": "Бёрл взял острый рог мёртвого жука."
         },
         {
-          "id": "sent-024",
-          "text": "La araña cayó sobre la lanza y murió.",
-          "translationRu": "Паук упал на копьё и погиб."
+          "id": "sent-020",
+          "text": "Pensó que podía usar ese cuerno como una lanza para pescar.",
+          "translationRu": "Он подумал, что сможет использовать этот рог как копьё для рыбалки."
         }
       ]
     },
@@ -157,24 +137,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-025",
-          "text": "Los dos cayeron a una red de araña enorme.",
-          "translationRu": "Они оба упали в огромную паутину."
+          "id": "sent-021",
+          "text": "Burl fue al río y se tumbó sobre un saliente de hongos sobre el agua.",
+          "translationRu": "Бёрл пошёл к реке и лёг на выступ из грибов над водой."
         },
         {
-          "id": "sent-026",
-          "text": "Burl estaba atrapado en la red.",
-          "translationRu": "Бёрл застрял в паутине."
+          "id": "sent-022",
+          "text": "Intentó golpear un pez muchas veces, pero el agua cambió la dirección de la lanza.",
+          "translationRu": "Он много раз пытался пронзить рыбу, но вода меняла направление копья."
         },
         {
-          "id": "sent-027",
-          "text": "Usó el aceite del pez para liberarse.",
-          "translationRu": "Он использовал рыбий жир, чтобы освободиться."
+          "id": "sent-023",
+          "text": "Al fin empujó la lanza hacia abajo con toda su fuerza y atrapó el pez.",
+          "translationRu": "Наконец он со всей силы вонзил копьё прямо вниз и поймал рыбу."
         },
         {
-          "id": "sent-028",
-          "text": "Huyó de las hormigas gigantes que venían.",
-          "translationRu": "Он убежал от надвигавшихся гигантских муравьёв."
+          "id": "sent-024",
+          "text": "El pez luchó y Burl cayó al agua.",
+          "translationRu": "Рыба забилась, и Бёрл упал в воду."
         }
       ]
     },
@@ -182,19 +162,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-029",
-          "text": "Las colinas de hongos empezaron a arder.",
-          "translationRu": "Холмы из грибов начали гореть."
+          "id": "sent-025",
+          "text": "Bajo el agua vio las garras enormes de un cangrejo gigante.",
+          "translationRu": "Под водой он увидел огромные клешни гигантского рака."
         },
         {
-          "id": "sent-030",
-          "text": "El fuego mató a los millones de hormigas.",
-          "translationRu": "Огонь убил миллионы муравьёв."
+          "id": "sent-026",
+          "text": "Burl no sabía nadar y abrió la boca para gritar.",
+          "translationRu": "Бёрл не умел плавать и открыл рот, чтобы закричать."
         },
         {
-          "id": "sent-031",
-          "text": "Burl vio el fuego por primera vez.",
-          "translationRu": "Бёрл впервые увидел огонь."
+          "id": "sent-027",
+          "text": "Sus manos tocaron un trozo de hongo flotante y lo agarró.",
+          "translationRu": "Его руки коснулись куска плавучего гриба, и он схватился за него."
+        },
+        {
+          "id": "sent-028",
+          "text": "El hongo lo llevó a la superficie y así escapó del cangrejo.",
+          "translationRu": "Гриб вынес его на поверхность, и он спасся от рака."
         }
       ]
     },
@@ -202,39 +187,24 @@
       "id": "para-008",
       "sentences": [
         {
+          "id": "sent-029",
+          "text": "Burl flotó en el hongo río abajo, solo y lejos de su tribu.",
+          "translationRu": "Бёрл поплыл на грибе вниз по реке — один и далеко от племени."
+        },
+        {
+          "id": "sent-030",
+          "text": "Pensó en Saya, una chica de su tribu que le gustaba mucho.",
+          "translationRu": "Он думал о Сайе — девушке из племени, которая ему очень нравилась."
+        },
+        {
+          "id": "sent-031",
+          "text": "Quería traerle el pez como regalo.",
+          "translationRu": "Он хотел принести ей рыбу в подарок."
+        },
+        {
           "id": "sent-032",
-          "text": "Burl encontró una polilla muerta y tomó su ropa.",
-          "translationRu": "Бёрл нашёл мёртвую бабочку и взял её покрывало."
-        },
-        {
-          "id": "sent-033",
-          "text": "Mató también a una araña gris.",
-          "translationRu": "Он также убил серого паука."
-        },
-        {
-          "id": "sent-034",
-          "text": "Ahora Burl era valiente y llevaba una lanza.",
-          "translationRu": "Теперь Бёрл был смелым и нёс копьё."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-035",
-          "text": "Burl volvió a su tribu con Saya.",
-          "translationRu": "Бёрл вернулся к своему племени вместе с Сайей."
-        },
-        {
-          "id": "sent-036",
-          "text": "Llevó el cuerpo muerto de la araña.",
-          "translationRu": "Он нёс мёртвое тело паука."
-        },
-        {
-          "id": "sent-037",
-          "text": "Todos vieron que Burl era un hombre fuerte y diferente.",
-          "translationRu": "Все увидели, что Бёрл — сильный и особенный человек."
+          "text": "Por la noche, el hongo tocó el suelo y Burl salió al día siguiente a tierra firme.",
+          "translationRu": "Ночью гриб сел на мель, и на следующий день Бёрл выбрался на берег."
         }
       ]
     }
