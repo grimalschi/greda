@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-steel-door",
+  "title": "La puerta de acero",
+  "titleRu": "Стальная дверь",
+  "originalTitle": "The Steel Door",
+  "author": {
+    "id": "arthur-b-reeve",
+    "name": "Arthur B. Reeve"
+  },
+  "genres": [
+    "Детектив",
+    "Крейг Кеннеди"
+  ],
+  "synopsisRu": "Профессор Крейг Кеннеди помогает новому инспектору полиции разоблачить элитный игорный клуб: с помощью кислородно-ацетиленовой горелки он вскрывает неприступную стальную дверь, а внутри обнаруживает электрически управляемую рулетку, жертвой которой стал молодой наследник ДеЛонг.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

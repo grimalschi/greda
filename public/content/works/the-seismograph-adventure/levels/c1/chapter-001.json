@@ -1,0 +1,217 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-seismograph-adventure",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura del sismógrafo"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "El doctor Hanson, médico oficial del forense, se presentó en el apartamento de Craig Kennedy con la expresión de un hombre que había agotado sus recursos y buscaba auxilio en una inteligencia superior.",
+          "translationRu": "Доктор Хэнсон, официальный врач коронера, появился в квартире Крейга Кеннеди с видом человека, исчерпавшего все свои ресурсы и ищущего помощи у более высокого интеллекта."
+        },
+        {
+          "id": "sent-002",
+          "text": "El caso que lo traía era conocido en toda la ciudad como «el asunto Vandam»: la muerte súbita de Mary Vandam, esposa de un acaudalado banquero retirado, hallada inconsciente en la biblioteca de su mansión y fallecida a la mañana siguiente sin haber recuperado jamás el conocimiento.",
+          "translationRu": "Дело, которое его привело, было известно по всему городу как «история Вандамов»: внезапная смерть Мэри Вандам, жены богатого отставного банкира, найденной без сознания в библиотеке особняка и скончавшейся на следующее утро, так и не придя в себя."
+        },
+        {
+          "id": "sent-003",
+          "text": "Junto a la difunta se encontró un estuche con cápsulas prescritas con morfina y quinina; sin embargo, las pupilas de la señora Vandam no presentaban la contracción simétrica que desde Christison se considera el signo infalible del envenenamiento narcótico.",
+          "translationRu": "Рядом с погибшей нашли коробочку с капсулами, выписанными с морфином и хинином; однако зрачки миссис Вандам не демонстрировали симметричного сужения, которое со времён Кристисона считается безошибочным признаком наркотического отравления."
+        },
+        {
+          "id": "sent-004",
+          "text": "Las pupilas eran completamente normales, lo que confundía a los peritos y dejaba abierta la duda entre el accidente, el suicidio y el asesinato.",
+          "translationRu": "Зрачки были совершенно нормальными, что сбивало с толку экспертов и оставляло открытым вопрос: несчастный случай, самоубийство или убийство."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "El marido, Enrique Vandam, era un anciano de casi setenta años cuya credulidad lo había puesto en manos de una médium de moda, la señora May Popper, y de su hábil manager, Howard Farrington.",
+          "translationRu": "Муж, Генри Вандам, был стариком почти семидесяти лет, чья доверчивость отдала его в руки модного медиума — миссис Мэй Поппер — и её ловкого менеджера Говарда Фаррингтона."
+        },
+        {
+          "id": "sent-006",
+          "text": "Fanático de los fenómenos mediúmnicos, llevaba un cuaderno en el que anotaba escrupulosamente cada materialización y cada golpe que creía escuchar.",
+          "translationRu": "Фанатик медиумических явлений, он вёл тетрадь, в которую скрупулёзно записывал каждую материализацию и каждый стук, который считал услышанным."
+        },
+        {
+          "id": "sent-007",
+          "text": "La noche de la muerte de su esposa había sido despertado por una serie de golpes en su sala de sesiones; su «control» espiritual —una entidad que se hacía llamar «John»— le había avisado de que Mary estaba en peligro, instantes antes de que la doncella descubriera a la moribunda.",
+          "translationRu": "В ночь смерти жены его разбудила серия стуков в зале для сеансов; его духовный «контроль» — сущность, именовавшая себя «Джоном», — предупредил его об опасности, грозящей Мэри, за мгновения до того, как горничная обнаружила умирающую."
+        },
+        {
+          "id": "sent-008",
+          "text": "En las noches siguientes, «John» volvió a la misma hora exacta y, entre otras cosas, exhortó al viudo a renovar la prescripción de las cápsulas.",
+          "translationRu": "В последующие ночи «Джон» возвращался в точно то же время и, помимо прочего, убеждал вдовца возобновить рецепт на капсулы."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Craig Kennedy, cuya mente científica no concebía el sobrenatural sin una explicación material, acudió al laboratorio y rescató de un armario de cristal un sismógrafo de precisión construido según el modelo del príncipe Galitzin, de la Academia Imperial de San Petersburgo.",
+          "translationRu": "Крейг Кеннеди, чей научный ум не допускал сверхъестественного без материального объяснения, отправился в лабораторию и извлёк из стеклянного шкафа точный сейсмограф, построенный по образцу прибора князя Галицина из Императорской академии Санкт-Петербурга."
+        },
+        {
+          "id": "sent-010",
+          "text": "El ingenio disponía de dos péndulos horizontales suspendidos por finos alambres, dos grandes imanes para amortiguar instantáneamente las vibraciones y dos tambores movidos por mecanismo de relojería, en cuyos papeles las agujas trazaban la historia de cada temblor del suelo.",
+          "translationRu": "Прибор располагал двумя горизонтальными маятниками, подвешенными на тонких проволоках, двумя большими магнитами для мгновенного гашения колебаний и двумя барабанами с часовым механизмом, на бумаге которых иголки чертили историю каждого сотрясения почвы."
+        },
+        {
+          "id": "sent-011",
+          "text": "Aprovechando la visita a la mansión Vandam, Kennedy depositó el aparato en el rincón más oscuro del armario mientras el anciano buscaba unos álbumes de fotografías espirituales.",
+          "translationRu": "Воспользовавшись визитом в особняк Вандамов, Кеннеди установил прибор в самом тёмном углу кабинета, пока старик искал альбомы со спиритическими фотографиями."
+        },
+        {
+          "id": "sent-012",
+          "text": "A las doce y media resonaron los golpes con su acostumbrada cadencia, y «John» transmitió su mensaje al desdichado viudo.",
+          "translationRu": "В половине первого стуки зазвучали с привычным ритмом, и «Джон» передал своё послание несчастному вдовцу."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "De regreso en su apartamento, Kennedy desenrolló las tiras de papel de los tambores con la parsimonia de quien ya intuye lo que va a encontrar.",
+          "translationRu": "Вернувшись домой, Кеннеди развернул бумажные ленты с барабанов с неспешностью человека, который уже догадывается, что обнаружит."
+        },
+        {
+          "id": "sent-014",
+          "text": "Las líneas dentadas trazadas por las agujas narraban con precisión matemática el recorrido de una persona que había trotado sigilosamente por el pasillo contiguo al armario, se había detenido frente a la pared medianera y había golpeado.",
+          "translationRu": "Зубчатые линии, прочерченные иглами, с математической точностью описывали путь человека, бесшумно пробравшегося по коридору рядом с кабинетом, остановившегося у общей стены и постучавшего."
+        },
+        {
+          "id": "sent-015",
+          "text": "El fantasma tenía peso, pisada y dirección: era de carne y hueso.",
+          "translationRu": "У призрака был вес, походка и направление движения: он был из плоти и крови."
+        },
+        {
+          "id": "sent-016",
+          "text": "Kennedy telefoneó al inspector O'Connor para que interceptara las nuevas cápsulas antes de que llegaran a labios de Vandam, consciente de que el «fantasma» habría tenido tiempo de sustituir también esas.",
+          "translationRu": "Кеннеди позвонил инспектору О'Коннору с просьбой перехватить новые капсулы прежде, чем они достигнут уст Вандама, — он понимал, что «призрак» мог успеть подменить и их."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Los análisis del laboratorio disiparon la confusión inicial sobre los síntomas: alguien había vaciado una cápsula de su contenido inofensivo y la había rellenado con una mezcla de morfina y atropina, alcaloide este último derivado de la belladona.",
+          "translationRu": "Лабораторный анализ рассеял первоначальную путаницу с симптомами: кто-то опустошил капсулу, убрал безвредное содержимое и наполнил её смесью морфина и атропина — последний является алкалоидом белладонны."
+        },
+        {
+          "id": "sent-018",
+          "text": "La atropina, al dilatar artificialmente las pupilas, neutralizaba el efecto miótico del opiáceo y burlaba así el examen más elemental del toxicólogo forense.",
+          "translationRu": "Атропин, искусственно расширяя зрачки, нейтрализовал миотический эффект опиата и тем самым обманывал самое элементарное исследование судебного токсиколога."
+        },
+        {
+          "id": "sent-019",
+          "text": "Era un crimen concebido por una inteligencia que conocía tanto la farmacología como las debilidades humanas.",
+          "translationRu": "Это было преступление, задуманное умом, который в равной мере знал фармакологию и человеческие слабости."
+        },
+        {
+          "id": "sent-020",
+          "text": "El análisis comparativo de las tintas reveló que la receta original, firmada con las iniciales «Dr. C. W. H.» como señuelo, había sido escrita con la misma composición química que la tinta habitual de la señora Popper.",
+          "translationRu": "Сравнительный анализ чернил показал, что оригинальный рецепт, подписанный инициалами «Dr. C. W. H.» для отвода глаз, был написан с тем же химическим составом, что и обычные чернила миссис Поппер."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "Para tender la trampa definitiva, Kennedy transformó su laboratorio en una réplica casi perfecta de la sala de sesiones de la señora Popper, encargando el mobiliario y la utilería al propio proveedor de la médium, Signor Marina.",
+          "translationRu": "Чтобы расставить окончательную ловушку, Кеннеди превратил свою лабораторию в почти точную копию зала для сеансов миссис Поппер, заказав мебель и реквизит у собственного поставщика медиума, Синьора Марина."
+        },
+        {
+          "id": "sent-022",
+          "text": "Invitó a los sospechosos a un «círculo» privado de investigación psíquica al que también asistirían el señor Vandam, el doctor Hanson y el inspector O'Connor.",
+          "translationRu": "Он пригласил подозреваемых на частный «круг» психического исследования, на котором также должны были присутствовать господин Вандам, доктор Хэнсон и инспектор О'Коннор."
+        },
+        {
+          "id": "sent-023",
+          "text": "Durante la sesión, la señora Popper desplegó su repertorio habitual: mesas que levitaban, manos espectrales y mensajes del más allá.",
+          "translationRu": "Во время сеанса миссис Поппер развернула свой обычный репертуар: парящие столы, призрачные руки и послания с того света."
+        },
+        {
+          "id": "sent-024",
+          "text": "Cuando Kennedy insistió en que «John» se manifestara, la médium liberó el pie del zapato y empezó a golpear la pared del armario con el dedo del pie en un movimiento que ninguno de los presentes habría adivinado.",
+          "translationRu": "Когда Кеннеди настоял на том, чтобы «Джон» явился, медиум освободила ногу из туфли и начала стучать пальцем ноги в стену кабинета движением, которое никто из присутствующих не смог бы угадать."
+        },
+        {
+          "id": "sent-025",
+          "text": "Pero el inspector O'Connor, tumbado sobre el suelo negro de la sala, se deslizó bajo la cortina y la apresó por el talón; el grito desgarrador de la señora Popper puso fin a la farsa.",
+          "translationRu": "Но инспектор О'Коннор, лёжа на чёрном полу зала, прополз под занавеску и схватил её за пятку; отчаянный крик миссис Поппер положил конец фарсу."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "Kennedy expuso entonces su cadena de indicios con la frialdad de quien ha convertido la razón en arma.",
+          "translationRu": "Кеннеди изложил свою цепочку улик с хладнокровием человека, превратившего разум в оружие."
+        },
+        {
+          "id": "sent-027",
+          "text": "Para rematar la demostración, pidió a cada uno de los presentes que caminara por el pasillo contiguo al armario del laboratorio mientras el sismógrafo registraba sus pisadas.",
+          "translationRu": "Чтобы завершить демонстрацию, он попросил каждого из присутствующих пройтись по коридору рядом с кабинетом лаборатории, пока сейсмограф фиксировал их шаги."
+        },
+        {
+          "id": "sent-028",
+          "text": "Cuando, con estudiada astucia, Kennedy insinuó que el rastro del fantasma concordaba con la pisada de Farrington, la señora Popper se arrojó sobre la mesa para destruir los papeles comprometedores.",
+          "translationRu": "Когда с намеренной хитростью Кеннеди намекнул, что след призрака совпадает с шагами Фаррингтона, миссис Поппер бросилась к столу, чтобы уничтожить компрометирующие бумаги."
+        },
+        {
+          "id": "sent-029",
+          "text": "Con ese movimiento irreflexivo, la asesina se denunció a sí misma: el fantasma era ella, no su cómplice.",
+          "translationRu": "Этим необдуманным движением убийца выдала себя: призраком была она, а не её сообщник."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "Kennedy leyó la sentencia con la implacabilidad de un fiscal que no necesita elevar la voz: la señora Popper había redactado la receta falsa, había penetrado en la mansión Vandam con la llave que le entregó el propio banquero y había sustituido una cápsula por otra cargada con la mezcla letal.",
+          "translationRu": "Кеннеди зачитал приговор с невозмутимостью прокурора, которому не нужно повышать голос: миссис Поппер составила поддельный рецепт, проникла в особняк Вандамов с ключом, который сам банкир ей и вручил, и подменила одну капсулу другой — с летальной смесью."
+        },
+        {
+          "id": "sent-031",
+          "text": "Había vigilado noche a noche desde el pasillo hasta cerciorarse de que la víctima había ingerido la cápsula mortal y, acto seguido, había consolidado su control sobre el anciano a través de los golpes espirituales, con la vista puesta en un testamento que lo haría acreedor de millones.",
+          "translationRu": "Она ночь за ночью наблюдала из коридора, убеждаясь, что жертва проглотила смертоносную капсулу, а затем укрепляла свою власть над стариком через спиритические стуки, нацелившись на завещание, которое принесло бы ей миллионы."
+        },
+        {
+          "id": "sent-032",
+          "text": "Sin la intervención del sismógrafo —ese guardián mudo que registra la verdad en líneas sobre papel—, Enrique Vandam habría muerto envenenado la siguiente noche.",
+          "translationRu": "Без вмешательства сейсмографа — этого немого стража, записывающего истину линиями на бумаге, — Генри Вандам умер бы отравленным следующей ночью."
+        },
+        {
+          "id": "sent-033",
+          "text": "El inspector O'Connor detuvo a la señora Popper por el asesinato de Mary Vandam y el intento de asesinato de su marido, cerrando así uno de los casos más refinadamente perversos que Kennedy y yo habíamos tenido ocasión de resolver.",
+          "translationRu": "Инспектор О'Коннор арестовал миссис Поппер за убийство Мэри Вандам и покушение на убийство её мужа, тем самым закрыв одно из самых изощрённо-злодейских дел, которые мне с Кеннеди довелось распутать."
+        }
+      ]
+    }
+  ]
+}
