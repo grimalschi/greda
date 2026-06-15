@@ -14,28 +14,28 @@
   "synopsisRu": "В 1918 году американская подводная лодка X-111 случайно проникает в Атлантиду — утопическую цивилизацию под стеклянным куполом на дне Атлантики, три тысячи лет назад намеренно ушедшую под воду, чтобы спастись от машинерии и войн. Когда купол даёт трещину, единственный шанс на спасение — выбраться в мир наверху, но поиски помощи занимают слишком много времени.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 9
     },
     "a2": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "b1": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "b2": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "c1": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 9
     }
   }
 }

@@ -2,210 +2,59 @@
   "schemaVersion": "1.0",
   "workId": "the-sunken-world",
   "level": "b2",
-  "chapter": {
-    "id": "chapter-001",
-    "number": 1,
-    "title": "El mundo hundido"
-  },
+  "chapter": {"id": "chapter-001", "number": 1, "title": "Capítulo 1"},
   "paragraphs": [
     {
       "id": "para-001",
       "sentences": [
-        {
-          "id": "sent-001",
-          "text": "En la primavera de 1918, el submarino experimental X-111 navegaba en misión secreta por el Atlántico cuando, tras un enfrentamiento con torpederos alemanes, sufrió daños irreparables y comenzó a hundirse a gran velocidad.",
-          "translationRu": "Весной 1918 года экспериментальная подводная лодка X-111 выполняла секретное задание в Атлантике, когда после столкновения с немецкими торпедоносцами получила непоправимые повреждения и начала стремительно тонуть."
-        },
-        {
-          "id": "sent-002",
-          "text": "El alférez Harkness y sus treinta y ocho compañeros vivieron horas de pánico mientras el barco caía miles de metros hacia las insondables profundidades del océano.",
-          "translationRu": "Мичман Харкнесс и тридцать восемь его товарищей провели часы в панике, пока корабль опускался на тысячи метров в непостижимые глубины океана."
-        },
-        {
-          "id": "sent-003",
-          "text": "El aire se volvía irrespirable y el acero del casco empezaba a ceder bajo la presión, cuando una corriente submarina arrastró el X-111 a través de una gigantesca válvula y lo depositó en un río subterráneo.",
-          "translationRu": "Воздух становился непригодным для дыхания, а стальной корпус начинал поддаваться давлению, когда подводное течение затащило X-111 через гигантский клапан и вынесло в подземную реку."
-        }
+        {"id": "sent-001", "text": "Era el otoño de 1918, y el submarino experimental X-111 patrullaba las aguas del Atlántico Norte en los últimos meses de la Gran Guerra.", "translationRu": "Была осень 1918 года, и экспериментальная подводная лодка X-111 патрулировала воды Северной Атлантики в последние месяцы Великой войны."},
+        {"id": "sent-002", "text": "A bordo viajaba el alférez Harkness junto con el capitán Gavison y una tripulación de treinta y ocho hombres.", "translationRu": "На борту находился мичман Харкнесс вместе с капитаном Гэвисоном и командой из тридцати восьми человек."},
+        {"id": "sent-003", "text": "Desde hacía horas, el submarino sufría problemas mecánicos graves: el timón de profundidad respondía de forma errática y los motores perdían potencia de manera inquietante.", "translationRu": "На протяжении нескольких часов подводная лодка испытывала серьёзные механические неполадки: горизонтальный руль отвечал хаотично, а двигатели тревожно теряли мощность."},
+        {"id": "sent-004", "text": "De repente, una explosión sacudió el casco con fuerza brutal: un torpedo alemán había encontrado su blanco.", "translationRu": "Внезапно взрыв сотряс корпус с чудовищной силой: немецкая торпеда нашла свою цель."}
       ]
     },
     {
       "id": "para-002",
       "sentences": [
-        {
-          "id": "sent-004",
-          "text": "Para asombro de todos, el submarino emergió a la superficie de ese río interior, y los marineros se encontraron en un mundo que desafiaba toda comprensión.",
-          "translationRu": "К изумлению всех, подводная лодка всплыла на поверхность этой внутренней реки, и моряки оказались в мире, бросавшем вызов любому пониманию."
-        },
-        {
-          "id": "sent-005",
-          "text": "Sobre sus cabezas se extendía una bóveda de vidrio verde de la que pendían enormes orbes dorados que funcionaban como soles artificiales, bañando en una luz extraña y dorada una llanura sembrada de columnas monumentales y flores de aspecto submarino.",
-          "translationRu": "Над ними простирался зелёный стеклянный свод, с которого свисали огромные золотые шары, служившие искусственными солнцами и заливавшие мягким золотистым светом равнину, усеянную монументальными колоннами и подводными цветами."
-        }
+        {"id": "sent-005", "text": "El X-111 comenzó a descender sin control, hundiéndose a una velocidad alarmante hacia las profundidades del Atlántico.", "translationRu": "X-111 начал неуправляемо погружаться, стремительно уходя на пугающую глубину Атлантики."},
+        {"id": "sent-006", "text": "Los instrumentos marcaban ya más de tres mil metros cuando, para asombro de todos, el casco no cedió bajo la presión monstruosa.", "translationRu": "Приборы показывали уже более трёх тысяч метров, когда, к изумлению всех, корпус не поддался под чудовищным давлением."},
+        {"id": "sent-007", "text": "A través de los ojos de buey, Harkness contempló un espectáculo que jamás habría imaginado: criaturas luminosas de formas fantásticas se deslizaban en la oscuridad abismal.", "translationRu": "Через иллюминаторы Харкнесс наблюдал зрелище, которое никогда не смог бы вообразить: светящиеся существа фантастических форм скользили в бездонной тьме."},
+        {"id": "sent-008", "text": "Medusas gigantes pulsaban como faroles de seda, y peces con órganos bioluminiscentes trazaban arcos de luz en la negrura total.", "translationRu": "Гигантские медузы пульсировали, словно шёлковые фонари, а рыбы с биолюминесцентными органами чертили дуги света в кромешной тьме."}
       ]
     },
     {
       "id": "para-003",
       "sentences": [
-        {
-          "id": "sent-006",
-          "text": "Harkness y el joven Rawson se adentraron en aquellos territorios desconocidos hasta hallar una ciudad de mármol blanco y negro cuya arquitectura mezclaba el estilo griego clásico con formas que no pertenecían a ninguna tradición conocida.",
-          "translationRu": "Харкнесс и молодой Роусон углубились в эти неизведанные территории и нашли город из белого и чёрного мрамора, архитектура которого смешивала классический греческий стиль с формами, не принадлежавшими ни к одной известной традиции."
-        },
-        {
-          "id": "sent-007",
-          "text": "Las avenidas eran anchas y orladas de estatuas tan perfectas, con tintes de carne viva, que Harkness tropezó varias veces al confundirlas con personas reales.",
-          "translationRu": "Широкие проспекты были обрамлены статуями такого совершенства с телесной окраской, что Харкнесс несколько раз споткнулся, принимая их за живых людей."
-        },
-        {
-          "id": "sent-008",
-          "text": "Los habitantes, con sus túnicas en colores pastel y el cabello dorado suelto, se movían con una gracia que los hacía parecer más flores que personas.",
-          "translationRu": "Жители в пастельных туниках с распущенными золотыми волосами двигались с такой грацией, что напоминали скорее цветы, чем людей."
-        }
+        {"id": "sent-009", "text": "Pero lo más perturbador no eran las criaturas del abismo, sino algo que Harkness distinguió muy por debajo: un débil resplandor dorado que parecía emanar del fondo del océano.", "translationRu": "Но самым тревожным были не создания бездны, а то, что Харкнесс разглядел далеко внизу: слабое золотистое сияние, словно исходящее со дна океана."},
+        {"id": "sent-010", "text": "¿Podría ser una ciudad perdida en las profundidades?", "translationRu": "Неужели это затерянный город в глубинах?"},
+        {"id": "sent-011", "text": "Antes de que Harkness pudiera reflexionar más sobre aquello, un torbellino poderoso atrapó el submarino y comenzó a arrastrarlo hacia ese misterioso resplandor con una fuerza irresistible.", "translationRu": "Прежде чем Харкнесс успел поразмыслить об этом, мощный водоворот захватил подводную лодку и начал неудержимо тянуть её к этому таинственному свечению."}
       ]
     },
     {
       "id": "para-004",
       "sentences": [
-        {
-          "id": "sent-009",
-          "text": "Sin mediar violencia alguna, los dos exploradores fueron conducidos al palacio de zafiro y ámbar, donde una asamblea de ciudadanos deliberó en voz baja acerca de su destino.",
-          "translationRu": "Без малейшего насилия двух исследователей провели во дворец из сапфира и янтаря, где собрание граждан тихо совещалось об их судьбе."
-        },
-        {
-          "id": "sent-010",
-          "text": "Entre los asistentes, Harkness descubrió a una mujer de una belleza que le pareció sobrenatural: grandes ojos azules, facciones clásicas y una expresión de serenidad que recordaba las Madonnas de los pintores renacentistas.",
-          "translationRu": "Среди присутствующих Харкнесс заметил женщину с красотой, показавшейся ему сверхъестественной: большие синие глаза, классические черты и выражение безмятежности, напоминавшее мадонн художников эпохи Возрождения."
-        }
+        {"id": "sent-012", "text": "El capitán Gavison ordenó poner los motores a máxima potencia, pero fue inútil: la corriente era demasiado poderosa para resistirla.", "translationRu": "Капитан Гэвисон приказал дать полный ход двигателям, но это было бесполезно: течение было слишком мощным, чтобы ему противостоять."},
+        {"id": "sent-013", "text": "El X-111 giraba vertiginosamente mientras descendía, y los hombres se aferraban a cuanto podían para no caer.", "translationRu": "X-111 стремительно вращался, уходя всё глубже, а люди хватались за что придётся, лишь бы не упасть."},
+        {"id": "sent-014", "text": "La presión del descenso aumentaba sin parar, y uno por uno los miembros de la tripulación fueron perdiendo el conocimiento.", "translationRu": "Давление при погружении неуклонно нарастало, и один за другим члены экипажа теряли сознание."},
+        {"id": "sent-015", "text": "Harkness fue el último en ceder: su última visión consciente fue aquel resplandor dorado que se acercaba, cada vez más brillante, hasta que todo se volvió oscuridad.", "translationRu": "Харкнесс потерял сознание последним: его последним осознанным видением было то золотистое свечение, которое приближалось, становясь всё ярче, пока всё не погрузилось во тьму."}
       ]
     },
     {
       "id": "para-005",
       "sentences": [
-        {
-          "id": "sent-011",
-          "text": "Los atlantes asignaron tutores a los náufragos para enseñarles su lengua, que resultó ser un pariente arcaico del griego antiguo; gracias a sus estudios universitarios de filología clásica, Harkness aprendió a comunicarse mucho antes que sus compañeros.",
-          "translationRu": "Атланты приставили к потерпевшим крушение наставников, чтобы обучить их языку, оказавшемуся архаичным родственником древнегреческого; благодаря университетским занятиям классической филологией Харкнесс научился общаться значительно раньше товарищей."
-        },
-        {
-          "id": "sent-012",
-          "text": "Un día, al encontrarse a solas con la misteriosa mujer en la columnata, se presentó y ella le dijo que se llamaba Aelios.",
-          "translationRu": "Однажды, оказавшись наедине с загадочной женщиной в колоннаде, он представился, и она ответила, что её зовут Аэлиос."
-        },
-        {
-          "id": "sent-013",
-          "text": "Cuando Harkness le preguntó dónde estaba, Aelios respondió con perfecta naturalidad: \"Pues en Atlántida, por supuesto\".",
-          "translationRu": "Когда Харкнесс спросил, где он находится, Аэлиос ответила с полной естественностью: «Ну конечно же, в Атлантиде»."
-        }
+        {"id": "sent-016", "text": "Cuando despertó, Harkness tardó unos momentos en recordar qué había ocurrido.", "translationRu": "Когда Харкнесс очнулся, ему понадобилось несколько мгновений, чтобы вспомнить, что произошло."},
+        {"id": "sent-017", "text": "El submarino ya no se movía: había quedado apoyado suavemente sobre algo sólido.", "translationRu": "Подводная лодка больше не двигалась: она мягко легла на что-то твёрдое."},
+        {"id": "sent-018", "text": "Los instrumentos indicaban tan solo cuarenta y dos metros de profundidad, y lo más extraño era que el exterior estaba bañado por una luz dorada y cálida que nada tenía que ver con la bioluminiscencia de las criaturas marinas.", "translationRu": "Приборы показывали всего сорок два метра глубины, и самым странным было то, что снаружи подводную лодку освещал тёплый золотистый свет, совершенно непохожий на биолюминесценцию морских существ."},
+        {"id": "sent-019", "text": "Algo inconcebible había ocurrido: el X-111 ya no estaba en el océano.", "translationRu": "Произошло нечто невообразимое: X-111 был уже не в океане."}
       ]
     },
     {
       "id": "para-006",
       "sentences": [
-        {
-          "id": "sent-014",
-          "text": "Aelios le explicó que hacía tres mil años el filósofo y estadista Agripides había advertido que la ciencia sin límites llevaría a Atlantis a la esclavitud y a la guerra total.",
-          "translationRu": "Аэлиос объяснила, что три тысячи лет назад философ и государственный деятель Агрипид предупреждал: наука без границ приведёт Атлантиду к рабству и тотальной войне."
-        },
-        {
-          "id": "sent-015",
-          "text": "Para demostrarlo, Agripides inauguró una exhibición pública que mostraba el futuro posible de Atlantis: ciudades industriales ahogadas en humo, hombres encadenados a máquinas y, finalmente, flotas de aeronaves que arrasaban todo con armas de destrucción masiva.",
-          "translationRu": "Чтобы доказать это, Агрипид открыл публичную выставку с изображением возможного будущего Атлантиды: промышленные города, задыхавшиеся в дыму, люди, прикованные к машинам, и наконец флоты летательных аппаратов, сметавших всё оружием массового уничтожения."
-        },
-        {
-          "id": "sent-016",
-          "text": "El pueblo votó a favor de la Sumersión por una mayoría de tres a uno, y durante décadas se preparó la operación más audaz de la historia: hundir toda la isla bajo el mar.",
-          "translationRu": "Народ проголосовал за Погружение большинством три к одному, и на протяжении десятилетий готовилась самая смелая операция в истории: опустить весь остров под море."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
-          "id": "sent-017",
-          "text": "Mediante una explosión de energía intraatómica, el suelo marino se hundió controladamente y arrastró consigo la isla; una inmensa cúpula de cristal reforzado cubrió la parte más bella de Atlantis, que siguió iluminada por soles artificiales y provista de aire y alimentos producidos científicamente.",
-          "translationRu": "С помощью взрыва внутриатомной энергии морское дно контролируемо опустилось и увлекло за собой остров; огромный купол из усиленного стекла накрыл красивейшую часть Атлантиды, которая продолжала освещаться искусственными солнцами и снабжаться воздухом и пищей научного производства."
-        },
-        {
-          "id": "sent-018",
-          "text": "Durante tres mil años vivieron en paz, sin guerras ni máquinas destructivas, cultivando el arte, la filosofía y la arquitectura.",
-          "translationRu": "На протяжении трёх тысяч лет они жили в мире — без войн и разрушительных машин, — развивая искусство, философию и архитектуру."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-019",
-          "text": "La asamblea atlante sentenció que los marineros podían vivir en la ciudad, aprender su lengua y contribuir a la comunidad, pero que jamás se les permitiría regresar al mundo de arriba, para preservar el secreto de la Atlántida.",
-          "translationRu": "Атлантское собрание постановило, что моряки могут жить в городе, изучать язык и вносить вклад в общество, но им никогда не позволят вернуться в мир наверху — для сохранения тайны Атлантиды."
-        },
-        {
-          "id": "sent-020",
-          "text": "Harkness aceptó su destino con creciente serenidad: aprendió a amar aquella civilización tranquila, se convirtió en el portavoz de los marineros ante la asamblea y se enamoró de Aelios.",
-          "translationRu": "Харкнесс принял свою судьбу со всё большим спокойствием: он полюбил эту мирную цивилизацию, стал представителем моряков перед собранием и влюбился в Аэлиос."
-        },
-        {
-          "id": "sent-021",
-          "text": "También halló en la biblioteca oculta de su apartamento una obra inédita de Homero, el \"Telegonus\", confirmando que los emigrantes de la antigua Atlántida habían sido los fundadores de la civilización griega.",
-          "translationRu": "В скрытой библиотеке своих апартаментов он также обнаружил неизданное произведение Гомера — «Телегон», подтвердившее, что эмигранты из древней Атлантиды были основателями греческой цивилизации."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-022",
-          "text": "El equilibrio se rompió cuando unos ingenieros descubrieron una grieta en el muro de cristal: el océano empezó a filtrarse y las calles de Archeon comenzaron a llenarse de agua salada.",
-          "translationRu": "Равновесие нарушилось, когда инженеры обнаружили трещину в стеклянной стене: океан начал просачиваться, и улицы Археона стали наполняться солёной водой."
-        },
-        {
-          "id": "sent-023",
-          "text": "El Alto Consejero, que había dedicado su vida a proteger el secreto de la Atlántida, tomó la decisión más dolorosa de su cargo: enviar a Harkness al mundo de arriba para pedir ayuda técnica.",
-          "translationRu": "Главный советник, посвятивший жизнь охране тайны Атлантиды, принял самое мучительное решение своей должности: отправить Харкнесса в мир наверху просить техническую помощь."
-        }
-      ]
-    },
-    {
-      "id": "para-010",
-      "sentences": [
-        {
-          "id": "sent-024",
-          "text": "Harkness y Aelios partieron en un submarino atlante en medio de las despedidas silenciosas de sus compañeros, con el agua ya desbordando las avenidas del palacio y los soles artificiales parpadeando amenazadoramente.",
-          "translationRu": "Харкнесс и Аэлиос отплыли на атлантидской подводной лодке под молчаливые прощания товарищей, когда вода уже затопляла дворцовые проспекты, а искусственные солнца угрожающе мерцали."
-        },
-        {
-          "id": "sent-025",
-          "text": "En Washington nadie creyó a Harkness; tuvo que demostrar su identidad mediante huellas dactilares y testigos, y esperar meses hasta que una pequeña expedición de ingenieros estuvo lista para partir.",
-          "translationRu": "В Вашингтоне никто не верил Харкнессу; ему пришлось доказывать свою личность через отпечатки пальцев и свидетелей и ждать месяцами, пока небольшая экспедиция инженеров была готова отправиться."
-        },
-        {
-          "id": "sent-026",
-          "text": "Cuando al fin el grupo regresó al lugar donde debía estar la Atlántida, encontraron la bóveda de vidrio oscura e inerte.",
-          "translationRu": "Когда группа наконец вернулась на место, где должна была находиться Атлантида, они обнаружили стеклянный купол тёмным и неживым."
-        },
-        {
-          "id": "sent-027",
-          "text": "Al enfocar los focos submarinos hacia abajo, vieron las cúpulas y los templos de Archeon sumergidos en una negrura total.",
-          "translationRu": "Направив прожекторы вниз, они увидели купола и храмы Археона, погружённые в полную тьму."
-        },
-        {
-          "id": "sent-028",
-          "text": "Solo criaturas luminiscentes del abismo vagaban entre las columnas donde antes danzaban las mujeres de Atlantis.",
-          "translationRu": "Лишь светящиеся создания бездны блуждали среди колонн, где прежде танцевали женщины Атлантиды."
-        },
-        {
-          "id": "sent-029",
-          "text": "Aelios se deshizo en sollozos al ver su mundo natal convertido en una tumba.",
-          "translationRu": "Аэлиос разрыдалась, увидев свой родной мир, превратившийся в гробницу."
-        },
-        {
-          "id": "sent-030",
-          "text": "El mundo hundido había cumplido su destino: desaparecer dos veces, primero bajo el mar y luego bajo el olvido.",
-          "translationRu": "Затонувший мир исполнил свою судьбу: исчезнуть дважды — сначала под морем, а затем под забвением."
-        }
+        {"id": "sent-020", "text": "A través de los ojos de buey, Harkness pudo distinguir que el submarino flotaba en un río de aguas tranquilas, encerrado bajo una enorme cúpula de cristal.", "translationRu": "Через иллюминаторы Харкнесс разглядел, что подводная лодка плывёт по тихой реке под огромным стеклянным куполом."},
+        {"id": "sent-021", "text": "Por encima de ellos, como soles artificiales, brillaban orbes dorados suspendidos a gran altura, bañando con su luz un paisaje interior de una belleza imposible.", "translationRu": "Над ними, словно искусственные солнца, сияли золотистые шары, подвешенные на большой высоте и заливавшие своим светом невероятно красивый внутренний пейзаж."},
+        {"id": "sent-022", "text": "Harkness se frotó los ojos, convencido de que seguía inconsciente y todo era un sueño, pero la solidez del metal bajo sus manos le dijo que aquello era muy real.", "translationRu": "Харкнесс протёр глаза, убеждённый, что всё ещё без сознания и видит сон, но твёрдость металла под руками говорила ему, что всё это абсолютно реально."},
+        {"id": "sent-023", "text": "A su lado, el joven marinero Rawson murmuró con voz entrecortada: \"¿Dónde diablos estamos?\"", "translationRu": "Рядом молодой матрос Роусон прошептал прерывающимся голосом: «Где, чёрт возьми, мы находимся?»"}
       ]
     }
   ]

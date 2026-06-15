@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-sunken-world",
+  "level": "a1",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "Capítulo 1", "sentenceCount": 15},
+    {"id": "chapter-002", "number": 2, "title": "Capítulo 2", "sentenceCount": 16},
+    {"id": "chapter-003", "number": 3, "title": "Capítulo 3", "sentenceCount": 15},
+    {"id": "chapter-004", "number": 4, "title": "Capítulo 4", "sentenceCount": 15},
+    {"id": "chapter-005", "number": 5, "title": "Capítulo 5", "sentenceCount": 16},
+    {"id": "chapter-006", "number": 6, "title": "Capítulo 6", "sentenceCount": 15},
+    {"id": "chapter-007", "number": 7, "title": "Capítulo 7", "sentenceCount": 15},
+    {"id": "chapter-008", "number": 8, "title": "Capítulo 8", "sentenceCount": 16},
+    {"id": "chapter-009", "number": 9, "title": "Capítulo 9", "sentenceCount": 17}
+  ]
+}
