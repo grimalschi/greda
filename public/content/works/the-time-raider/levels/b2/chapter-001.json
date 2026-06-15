@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El Invasor del Tiempo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Todo comenzó con la desaparición inexplicable del arqueólogo Ferdinand Cannell en las ruinas de Angkor, en el corazón de la jungla cambodiana.",
-          "translationRu": "Всё началось с необъяснимого исчезновения археолога Фердинанда Кэннелла в руинах Ангкора, в сердце камбоджийских джунглей."
+          "text": "Este relato comienza con un misterio que sacudió el mundo científico: la desaparición del profesor Ferdinand Cannell en las ruinas de Angkor, en la jungla de Camboya.",
+          "translationRu": "Этот рассказ начинается с тайны, потрясшей научный мир: исчезновением профессора Фердинанда Кэннелла в руинах Ангкора, в камбоджийских джунглях."
         },
         {
           "id": "sent-002",
-          "text": "Tres años más tarde, regresó tan repentinamente como había desaparecido, pero transformado: su rostro reflejaba un miedo que parecía grabado hasta los huesos.",
-          "translationRu": "Три года спустя он вернулся так же внезапно, как и исчез, но изменившимся — его лицо отражало страх, словно выжженный до костей."
+          "text": "Cannell era entonces uno de los más brillantes arqueólogos del mundo, famoso por sus investigaciones sobre los restos dravidios en India y las ruinas de Zimbabwe en África.",
+          "translationRu": "Кэннелл был в то время одним из самых блестящих археологов мира, прославившимся исследованиями дравидийских памятников в Индии и руин Зимбабве в Африке."
         },
         {
           "id": "sent-003",
-          "text": "Aquella misma noche, en el apartamento del doctor Lantin, le confesó a él y a Wheeler lo que había vivido.",
-          "translationRu": "В ту же ночь, в квартире доктора Лантина, он признался ему и Уилеру в том, что ему пришлось пережить."
+          "text": "Alto, rubio y de ojos azules chispeantes, hablaba con una rapidez vertiginosa y contrastaba enormemente con su íntimo amigo, el doctor Lantin, que era oscuro, tranquilo y de mirada gris y penetrante.",
+          "translationRu": "Высокий, светловолосый, с искрящимися синими глазами, он говорил с головокружительной быстротой и разительно контрастировал со своим близким другом доктором Лантином — тёмным, спокойным, с серым и проницательным взглядом."
+        },
+        {
+          "id": "sent-004",
+          "text": "Lantin y yo, su asistente de laboratorio, lo despedimos en el muelle cuando su barco partió hacia Angkor, la ciudad colosal de piedra gris que dormía en la jungla desde hacía mil años.",
+          "translationRu": "Лантин и я, его лаборантский ассистент, проводили его на причале, когда корабль отплыл к Ангкору — колоссальному городу из серого камня, дремавшему в джунглях вот уже тысячу лет."
         }
       ]
     },
@@ -32,24 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "En Angkor, una noche iluminada por la luna, había aparecido sobre él una masa de niebla gris que cambiaba de forma constantemente, con tres orbes de luz en su centro.",
-          "translationRu": "В Ангкоре лунной ночью над ним появилась постоянно меняющая форму масса серого тумана с тремя шарами света в центре."
-        },
-        {
           "id": "sent-005",
-          "text": "La criatura era un ser vivo e inteligente, capaz de transformarse entre su forma gaseosa —con la que viajaba por el tiempo— y una forma sólida e inchoate.",
-          "translationRu": "Существо было живым и разумным, способным переходить между газообразной формой — в которой оно путешествовало во времени — и твёрдой бесформенной оболочкой."
+          "text": "Recibimos un telegrama desde Saigón confirmando su llegada y luego, una semana después de alcanzar Angkor, el silencio.",
+          "translationRu": "Мы получили телеграмму из Сайгона, подтверждавшую его прибытие, а затем — через неделю после того, как он добрался до Ангкора, — тишина."
         },
         {
           "id": "sent-006",
-          "text": "Cuando Cannell lo llamó «el Invasor», no exageraba: la cosa lo capturó con un tentáculo helado y se lanzó al futuro a velocidad de vértigo.",
-          "translationRu": "Когда Кэннелл назвал его «Захватчиком», он не преувеличивал: существо схватило его ледяным щупальцем и ринулось в будущее с головокружительной скоростью."
+          "text": "Los nativos que lo acompañaban regresaron solos a una aldea río arriba, aterrorizados, afirmando que los demonios de las ruinas se habían llevado al hombre blanco durante la tercera noche.",
+          "translationRu": "Местные носильщики вернулись одни в деревню вверх по реке, перепуганные, и утверждали, что демоны руин унесли белого человека на третью ночь."
         },
         {
           "id": "sent-007",
-          "text": "Cannell contempló cómo el sol y la luna cruzaban el cielo a la velocidad de un cometa, hasta que los días y las noches se fundieron en un crepúsculo verdoso.",
-          "translationRu": "Кэннелл наблюдал, как солнце и луна несутся по небу со скоростью кометы, пока дни и ночи не слились в зеленоватые сумерки."
+          "text": "Los colonos franceses que organizaron una búsqueda encontraron intactos la tienda y el equipo de Cannell, pero ningún rastro de su dueño.",
+          "translationRu": "Французские колонисты, организовавшие поиски, нашли нетронутыми палатку и снаряжение Кэннелла, но никаких следов их хозяина."
+        },
+        {
+          "id": "sent-008",
+          "text": "Las autoridades concluyeron que probablemente un tigre se lo había llevado, y tras las primeras especulaciones en la prensa y la expresión de condolencias en las revistas científicas, Cannell fue olvidado.",
+          "translationRu": "Власти пришли к выводу, что его, вероятно, унёс тигр, и после первых газетных домыслов и слов соболезнования в научных журналах Кэннелл был забыт."
         }
       ]
     },
@@ -57,19 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "Con un esfuerzo desesperado, Cannell consiguió sacar su pistola y disparar a los orbes luminosos del centro del Invasor.",
-          "translationRu": "С отчаянным усилием Кэннелл достал пистолет и выстрелил в светящиеся шары в центре Захватчика."
-        },
-        {
           "id": "sent-009",
-          "text": "El disparo lo liberó, aunque le costó caer al océano Pacífico desde gran altura, a cientos de millas al este de Manila.",
-          "translationRu": "Выстрел освободил его, хотя и ценой падения в Тихий океан с большой высоты — в сотнях миль к востоку от Манилы."
+          "text": "Tres años más tarde, una noche de junio, Lantin y yo trabajábamos hasta tarde en nuestro laboratorio de la Fundación Downe cuando sonó el teléfono.",
+          "translationRu": "Три года спустя, июньской ночью, мы с Лантином допоздна работали в нашей лаборатории Фонда Дауна, когда зазвонил телефон."
         },
         {
           "id": "sent-010",
-          "text": "Un barco petrolero lo rescató, y fue entonces cuando descubrió que habían pasado tres años en su ausencia, aunque para él solo habían transcurrido minutos.",
-          "translationRu": "Нефтяной танкер спас его, и тогда он обнаружил, что в его отсутствие прошло три года, хотя для него прошли лишь минуты."
+          "text": "Lantin atendió la llamada y después de un instante de silencio atónito pronunció una sola palabra que me sacudió hasta los huesos: «¡Cannell!»",
+          "translationRu": "Лантин снял трубку и после мгновения оцепенелого молчания произнёс одно слово, потрясшее меня до глубины души: «Кэннелл!»"
+        },
+        {
+          "id": "sent-011",
+          "text": "Diez minutos después llegábamos en taxi al apartamento de Lantin, donde encontramos a nuestro amigo desaparecido.",
+          "translationRu": "Десять минут спустя мы приехали на такси в квартиру Лантина, где нашли нашего пропавшего друга."
+        },
+        {
+          "id": "sent-012",
+          "text": "Cannell estaba profundamente cambiado: su rostro demacrado reflejaba un terror sobrenatural, su cuerpo adoptaba una postura tensa y acuclillada como la de un animal acorralado, y sus ojos ardían con la oscuridad de quien ha contemplado lo imposible.",
+          "translationRu": "Кэннелл разительно изменился: его изнурённое лицо отражало сверхъестественный ужас, тело приняло напряжённую, скрюченную позу загнанного в угол зверя, а в его глазах горела тьма человека, видевшего невозможное."
         }
       ]
     },
@@ -77,24 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-011",
-          "text": "Mientras narraba su historia en el apartamento de Lantin, el Invasor regresó y se lo llevó de nuevo ante los ojos atónitos de los dos oyentes.",
-          "translationRu": "Пока он рассказывал свою историю в квартире Лантина, Захватчик вернулся и унёс его снова на глазах изумлённых слушателей."
-        },
-        {
-          "id": "sent-012",
-          "text": "Antes de desvanecerse en el tiempo, Cannell alcanzó a gritar: «¡Sígueme, Lantin!».",
-          "translationRu": "Прежде чем исчезнуть во времени, Кэннелл успел крикнуть: «Следуй за мной, Лантин!»"
-        },
-        {
           "id": "sent-013",
-          "text": "Lantin y Wheeler, convencidos de que el Invasor venía del futuro lejano, se pusieron a trabajar en secreto para construir su propio vehículo temporal.",
-          "translationRu": "Лантин и Уилер, убеждённые в том, что Захватчик прибывает из далёкого будущего, тайно принялись строить собственный временной аппарат."
+          "text": "Cannell nos relató que su tercera noche en Angkor Wat, cuando salía del templo bajo la luz de la luna, escuchó de pronto un silbido agudo y sobrenatural proveniente del aire.",
+          "translationRu": "Кэннелл рассказал нам, что в его третью ночь в Ангкор-Вате, когда он выходил из храма при лунном свете, он вдруг услышал пронзительный, сверхъестественный свист, доносившийся из воздуха."
         },
         {
           "id": "sent-014",
-          "text": "Tras semanas de experimentos con ondas electromagnéticas, descubrieron la manera de acelerar o revertir el movimiento electrónico de la materia, lo cual permitía viajar por el tiempo.",
-          "translationRu": "После недель экспериментов с электромагнитными волнами они нашли способ ускорять или обращать электронное движение материи, что позволяло путешествовать во времени."
+          "text": "El silbido creció hasta convertirse en un rugido tempestuoso de vientos, y en el aire apareció una masa de vapor gris en constante movimiento, con tres pequeños orbes de luz verde en su centro, uno sobre los otros dos.",
+          "translationRu": "Свист перерос в бурный вой ветров, и в воздухе появилась постоянно движущаяся масса серого пара с тремя маленькими световыми шарами зелёного цвета в центре, один над двумя другими."
+        },
+        {
+          "id": "sent-015",
+          "text": "La criatura descendió junto a Cannell, extendió un largo tentáculo retorcido y lo atrapó; su tacto era tan frío que paralizó todos los sentidos del arqueólogo.",
+          "translationRu": "Существо опустилось рядом с Кэннеллом, вытянуло длинное извивающееся щупальце и схватило его; прикосновение было таким ледяным, что парализовало все чувства археолога."
+        },
+        {
+          "id": "sent-016",
+          "text": "Mientras era arrastrado en el abrazo de la criatura hacia el cielo, Cannell contempló cómo la luna cruzaba el firmamento a velocidad de cometa, cómo el sol la seguía y los días y las noches se sucedían tan rápido que se fundían en un crepúsculo verdoso.",
+          "translationRu": "Пока его тащило в объятиях существа в небо, Кэннелл наблюдал, как луна несётся по небосводу со скоростью кометы, как солнце следует за ней, и дни с ночами сменяются так быстро, что сливаются в зеленоватые сумерки."
         }
       ]
     },
@@ -102,19 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Dos meses después, partieron en su coche temporal hacia el futuro y localizaron el hogar del Invasor: una ciudad de enormes cilindros blancos, situada en una zona cálida rodeada de glaciares, quince mil años en el porvenir.",
-          "translationRu": "Два месяца спустя они отправились на своей машине времени в будущее и нашли логово Захватчика — город огромных белых цилиндров в тёплой зоне среди ледников, пятнадцать тысяч лет вперёд."
-        },
-        {
-          "id": "sent-016",
-          "text": "Los guardias de la ciudad, llamada «ciudad de los cilindros», los capturaron nada más poner pie en tierra.",
-          "translationRu": "Стражники «города цилиндров» захватили их сразу же, как только они ступили на землю."
-        },
-        {
           "id": "sent-017",
-          "text": "Separaron a los dos viajeros: a Wheeler lo encerraron con otros prisioneros, mientras que a Lantin lo llevaron al edificio central, que era el templo del Invasor.",
-          "translationRu": "Двух путешественников разлучили: Уилера заперли с другими заключёнными, а Лантина отвели в центральное здание — храм Захватчика."
+          "text": "Comprendió entonces que la criatura lo arrastraba hacia el futuro a una velocidad vertiginosa.",
+          "translationRu": "Тут он понял, что существо тащит его в будущее с головокружительной скоростью."
+        },
+        {
+          "id": "sent-018",
+          "text": "Reuniendo un último impulso de valentía, Cannell logró sacar su pistola automática con un esfuerzo inmenso y apuntó al triángulo de orbes brillantes que brillaban en el centro de la criatura.",
+          "translationRu": "Собрав последнее мужество, Кэннелл с огромным усилием вытащил автоматический пистолет и прицелился в треугольник из светящихся шаров в центре существа."
+        },
+        {
+          "id": "sent-019",
+          "text": "El disparo hizo que la criatura lo soltara de inmediato, y Cannell cayó al océano Pacífico desde cien pies de altura, a varios centenares de millas al este de Manila.",
+          "translationRu": "Выстрел заставил существо немедленно выпустить его, и Кэннелл упал в Тихий океан с высоты ста футов, в нескольких сотнях миль к востоку от Манилы."
+        },
+        {
+          "id": "sent-020",
+          "text": "Un barco petrolero lo rescató horas después, y fue entonces cuando descubrió la verdad aterradora: habían pasado tres años desde la noche en que desapareció, aunque para él apenas habían transcurrido unos minutos.",
+          "translationRu": "Нефтяной танкер спас его несколько часов спустя, и тогда он узнал ужасающую правду: прошло три года с той ночи, когда он исчез, хотя для него прошло лишь несколько минут."
         }
       ]
     },
@@ -122,19 +137,19 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "Wheeler comprendió enseguida que bajo el templo se abría el llamado «pozo», una caverna ciclópea habitada por decenas de miles de guerreros procedentes de todas las épocas de la historia.",
-          "translationRu": "Уилер быстро понял, что под храмом открывалась так называемая «яма» — циклопическая пещера, населённая десятками тысяч воинов из всех эпох истории."
+          "id": "sent-021",
+          "text": "Pero el horror no había terminado para él: durante el viaje de regreso a Nueva York en el barco petrolero, el Saqueador —como Cannell llamaba a la criatura— atacó la nave y se llevó a dos marineros que estaban de guardia en cubierta.",
+          "translationRu": "Но ужас для него не закончился: во время обратного пути в Нью-Йорк на нефтяном танкере Похититель — как Кэннелл называл существо — атаковал судно и унёс двух матросов, стоявших на вахте на палубе."
         },
         {
-          "id": "sent-019",
-          "text": "El Invasor los había secuestrado a lo largo de los siglos para utilizarlos como ejército mercenario con el que arrasar Kom, la ciudad rival de los Kanlar.",
-          "translationRu": "Захватчик похищал их на протяжении веков, чтобы использовать как наёмную армию для разрушения Кома — города-соперника кансаров."
+          "id": "sent-022",
+          "text": "Cannell estaba convencido de que la criatura había venido a buscarlo a él, y al no encontrarlo, se llevó a los dos hombres que estaban en cubierta.",
+          "translationRu": "Кэннелл был убеждён, что существо пришло за ним, и не найдя его, унесло двух людей, находившихся на палубе."
         },
         {
-          "id": "sent-020",
-          "text": "Fue allí donde Wheeler trabó amistad con cuatro hombres extraordinarios: el oficial inglés Denham, el centurión romano Fabrius, el capitán francés D'Alord y el cacique azteca Ixtil.",
-          "translationRu": "Именно там Уилер подружился с четырьмя замечательными людьми: английским офицером Дэнхемом, римским центурионом Фабрием, французским капитаном Д'Алором и вождём ацтеков Икстилем."
+          "id": "sent-023",
+          "text": "Cuando llegamos al apartamento de Lantin aquella noche, Cannell llevaba en el bolsillo unas notas que había garabateado durante la travesía, esbozando una teoría sobre cómo viajaba la criatura a través del tiempo.",
+          "translationRu": "Когда мы прибыли в квартиру Лантина той ночью, у Кэннелла в кармане были заметки, нацарапанные им во время плавания, — набросок теории о том, как существо путешествует во времени."
         }
       ]
     },
@@ -142,99 +157,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Juntos trazaron un plan audaz: los cuatro amigos provocarían un motín en la puerta de la escalera para distraer a los guardias, mientras Lantin y Wheeler escalarían hasta la escalera con un garfio y una cuerda.",
-          "translationRu": "Вместе они разработали дерзкий план: четверо друзей поднимут бунт у ворот лестницы, чтобы отвлечь стражников, пока Лантин и Уилер поднимутся на лестницу с крюком и верёвкой."
-        },
-        {
-          "id": "sent-022",
-          "text": "La noche elegida, el clamor del motín resonó por todo el pozo, y los dos viajeros consiguieron trepar hasta la escalera antes de que los guardias se dieran cuenta.",
-          "translationRu": "В выбранную ночь рёв бунта разнёсся по всей яме, и двум путешественникам удалось взобраться на лестницу прежде, чем стражники это заметили."
-        },
-        {
-          "id": "sent-023",
-          "text": "En la oscuridad del pozo, tuvieron que colgarse sobre el abismo para evitar a los guardias que bajaban, y Wheeler mató a otro que los había descubierto.",
-          "translationRu": "В темноте ямы им пришлось повиснуть над бездной, чтобы избежать встречи со спускавшимися стражниками, а Уилер убил другого, который их обнаружил."
-        },
-        {
           "id": "sent-024",
-          "text": "Disfrazados con las ropas blancas de dos esclavos inconscientes, cruzaron la ciudad y escaparon al campo abierto, perseguidos de cerca por los guardias.",
-          "translationRu": "Переодевшись в белые одежды двух оглушённых рабов, они пересекли город и бежали в открытое поле, по пятам преследуемые стражниками."
+          "text": "Antes de que Cannell pudiera explicarnos esa teoría, un silbido agudo y escalofriante penetró por las ventanas abiertas y los vientos comenzaron a aullar ferozmente.",
+          "translationRu": "Прежде чем Кэннелл успел объяснить нам эту теорию, пронизывающий свист проник через открытые окна, и ветры завыли с яростной силой."
         },
         {
           "id": "sent-025",
-          "text": "Wheeler, cargando con el exhausto Lantin, llegó al coche del tiempo en el último segundo y logró activarlo justo cuando las lanzas de los perseguidores surcaban el aire.",
-          "translationRu": "Уилер, неся обессиленного Лантина, добрался до машины времени в последнюю секунду и успел запустить её как раз тогда, когда копья преследователей уже летели в воздухе."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
+          "text": "Cannell se puso de pie de un salto, sus ojos llenos de terror, y como un títere manejado por hilos invisibles se dirigió rígidamente hacia la terraza.",
+          "translationRu": "Кэннелл вскочил на ноги, глаза его наполнились ужасом, и словно марионетка, управляемая невидимыми нитями, он деревянно направился на террасу."
+        },
         {
           "id": "sent-026",
-          "text": "Cruzaron los interminables campos de hielo y llegaron a Kom, la ciudad rival de los Kanlar, cubierta por un escudo de fuerza invisible que la mantenía tropical.",
-          "translationRu": "Они пересекли бескрайние ледяные поля и прибыли в Ком — город-соперник кансаров, укрытый невидимым силовым щитом, поддерживавшим там тропический климат."
+          "text": "Desde el aire superior descendió la silueta cambiante del Saqueador, con sus tres orbes de luz púrpura ardiendo en el centro; atrapó a Cannell con un brazo retorcido y se elevó con él hacia el cielo oscuro.",
+          "translationRu": "Из воздуха сверху опустился изменчивый силуэт Похитителя с тремя пурпурными световыми шарами, пылавшими в центре; он схватил Кэннелла извивающимся щупальцем и взмыл с ним в тёмное небо."
         },
         {
           "id": "sent-027",
-          "text": "El líder Kethra, gracias a un lector cerebral que extrajo los recuerdos de los dos viajeros mientras estaban inconscientes, ya sabía toda la historia.",
-          "translationRu": "Вождь Кетра с помощью считывателя мозга, извлёкшего воспоминания двух путешественников, пока те были без сознания, уже знал всю историю."
-        },
-        {
-          "id": "sent-028",
-          "text": "Kethra reveló que el Invasor era una criatura artificial creada por los Kanlar, quienes habían sido desterrados de Kom generaciones atrás por haberse negado a destruirla.",
-          "translationRu": "Кетра раскрыл, что Захватчик был искусственным существом, созданным кансарами, которых изгнали из Кома поколения назад за отказ его уничтожить."
-        },
-        {
-          "id": "sent-029",
-          "text": "En pocos días, quinientos barcos voladores de Kom, equipados con la tecnología de onda temporal de Lantin, partieron hacia el norte para destruir la ciudad de los cilindros.",
-          "translationRu": "За несколько дней пятьсот летающих кораблей Кома, оснащённых технологией временной волны Лантина, двинулись на север, чтобы уничтожить город цилиндров."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "En la batalla aérea sobre los campos de hielo, los Kanlar estuvieron a punto de vencer usando un rayo que iluminaba los barcos de Kom mientras los suyos permanecían ocultos en la oscuridad.",
-          "translationRu": "В воздушном сражении над ледяными полями кансары едва не победили, применив луч, освещавший корабли Кома, пока их собственные оставались скрыты во тьме."
-        },
-        {
-          "id": "sent-031",
-          "text": "Wheeler usó el coche temporal como ariete y destruyó los barcos que proyectaban esa luz mortal, inclinando la batalla a favor de Kom.",
-          "translationRu": "Уилер использовал машину времени как таран и уничтожил корабли, проецировавшие этот смертоносный свет, склонив чашу весов в пользу Кома."
-        },
-        {
-          "id": "sent-032",
-          "text": "Sin embargo, el Invasor escapó hacia el tiempo con los últimos Kanlar, y Kethra tuvo que perseguirlo, dejando la ciudad sin defensa.",
-          "translationRu": "Однако Захватчик бежал во времени с последними кансарами, и Кетра был вынужден преследовать его, оставив город без защиты."
-        },
-        {
-          "id": "sent-033",
-          "text": "Las hordas del pozo aprovecharon la ausencia de guardianes para romper la puerta de la escalera y avanzar hacia los planeadores del techo, con los que pensaban arrasar Kom.",
-          "translationRu": "Орды из ямы воспользовались отсутствием охраны, чтобы сломать ворота лестницы и двинуться к планёрам на крыше, с помощью которых собирались разрушить Ком."
-        },
-        {
-          "id": "sent-034",
-          "text": "Los cinco amigos —Wheeler, Lantin, Denham, D'Alord, Fabrius e Ixtil— se lanzaron escalera abajo y mantuvieron a raya a miles de guerreros durante horas, hasta que Cannell apareció entre las hordas.",
-          "translationRu": "Пятеро друзей — Уилер, Лантин, Дэнхем, Д'Алор, Фабрий и Икстиль — ринулись вниз по лестнице и часами сдерживали тысячи воинов, пока среди орд не появился Кэннелл."
-        },
-        {
-          "id": "sent-035",
-          "text": "Cannell reconoció a Lantin en el último instante y se sacrificó para salvarlo, arrojándose al vacío junto al malayo que estaba a punto de matarlo.",
-          "translationRu": "В последний момент Кэннелл узнал Лантина и пожертвовал собой ради его спасения, бросившись в пропасть вместе с малайцем, готовым его убить."
-        },
-        {
-          "id": "sent-036",
-          "text": "Kethra regresó en el momento crucial, envolvió al Invasor con una red de fuerza negra y lo destruyó; luego hundió la ciudad entera con rayos de sonido.",
-          "translationRu": "Кетра вернулся в решающий момент, опутал Захватчика сетью чёрной силы и уничтожил его, а затем обрушил весь город звуковыми лучами."
-        },
-        {
-          "id": "sent-037",
-          "text": "Lantin y Wheeler devolvieron a sus amigos a sus épocas respectivas y regresaron a su propio tiempo: en el reloj de la chimenea eran las diez y ocho minutos, apenas ocho minutos después de haber partido.",
-          "translationRu": "Лантин и Уилер вернули друзей в их эпохи и вернулись в собственное время: на каминных часах было десять часов восемь минут — всего восемь минут после их отправления."
+          "text": "Un instante después la criatura se transformó en un torbellino de vapor gris y desapareció como una imagen de cine apagada de golpe, y del vacío llegó la voz lejana y desvaneciente de Cannell: «¡Lantin! ¡Sígueme... el Saqueador!»",
+          "translationRu": "Мгновение спустя существо превратилось в вихрь серого пара и исчезло, словно кинокадр, внезапно выключенный, а из пустоты донёсся далёкий, угасающий голос Кэннелла: «Лантин! Следуй за мной... Похититель!»"
         }
       ]
     }

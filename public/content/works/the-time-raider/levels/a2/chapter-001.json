@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El Invasor del Tiempo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,18 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El profesor Cannell desapareció en las ruinas de Angkor.",
-          "translationRu": "Профессор Кэннелл исчез в руинах Ангкора."
+          "text": "Yo me llamo Wheeler y trabajo con el doctor Lantin en un laboratorio en Nueva York.",
+          "translationRu": "Меня зовут Уилер, и я работаю с доктором Лантином в лаборатории в Нью-Йорке."
         },
         {
           "id": "sent-002",
-          "text": "Tres años después, llegó a la ciudad de Nueva York.",
-          "translationRu": "Три года спустя он появился в Нью-Йорке."
+          "text": "Nuestra historia comenzó con la desaparición del profesor Cannell.",
+          "translationRu": "Наша история началась с исчезновения профессора Кэннела."
         },
         {
           "id": "sent-003",
-          "text": "Tenía miedo y su cara era muy pálida.",
-          "translationRu": "Он был напуган, и его лицо было очень бледным."
-        },
-        {
-          "id": "sent-004",
-          "text": "Le contó su historia al doctor Lantin y a Wheeler.",
-          "translationRu": "Он рассказал свою историю доктору Лантину и Уилеру."
+          "text": "Cannell era un arqueólogo famoso y muy inteligente.",
+          "translationRu": "Кэннел был известным и очень умным археологом."
         }
       ]
     },
@@ -37,24 +32,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-004",
+          "text": "Cannell decidió estudiar las ruinas de Angkor, una ciudad antigua en la selva de Camboya.",
+          "translationRu": "Кэннел решил исследовать руины Ангкора — древнего города в джунглях Камбоджи."
+        },
+        {
           "id": "sent-005",
-          "text": "Una noche en Angkor, una cosa gris apareció en el aire.",
-          "translationRu": "Однажды ночью в Ангкоре в воздухе появилось серое существо."
+          "text": "Angkor es una ciudad enorme de piedra gris.",
+          "translationRu": "Ангкор — это огромный город из серого камня."
         },
         {
           "id": "sent-006",
-          "text": "Era una nube de niebla con tres luces verdes.",
-          "translationRu": "Это было облако тумана с тремя зелёными огнями."
+          "text": "Nadie vive allí, solo serpientes, murciélagos y tigres.",
+          "translationRu": "Никто там не живёт — только змеи, летучие мыши и тигры."
         },
         {
           "id": "sent-007",
-          "text": "La cosa cogió a Cannell con un brazo largo.",
-          "translationRu": "Существо схватило Кэннелла длинным щупальцем."
-        },
-        {
-          "id": "sent-008",
-          "text": "Voló con él muy rápido hacia el futuro.",
-          "translationRu": "Оно понесло его с огромной скоростью в будущее."
+          "text": "Lantin y yo fuimos al puerto para decirle adiós a Cannell.",
+          "translationRu": "Мы с Лантином пришли в порт попрощаться с Кэннелом."
         }
       ]
     },
@@ -62,24 +57,19 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-008",
+          "text": "Cannell llegó a Angkor con un grupo de nativos en canoas.",
+          "translationRu": "Кэннел прибыл в Ангкор с группой туземцев на лодках."
+        },
+        {
           "id": "sent-009",
-          "text": "Cannell disparó su pistola a las luces.",
-          "translationRu": "Кэннелл выстрелил из пистолета в огни."
+          "text": "En la tercera noche, los nativos oyeron un grito terrible y corrieron con miedo.",
+          "translationRu": "На третью ночь туземцы услышали страшный крик и убежали в страхе."
         },
         {
           "id": "sent-010",
-          "text": "La cosa lo soltó y él cayó al mar.",
-          "translationRu": "Существо выпустило его, и он упал в море."
-        },
-        {
-          "id": "sent-011",
-          "text": "Un barco lo salvó, pero estaba tres años en el futuro.",
-          "translationRu": "Корабль спас его, но он оказался на три года вперёд во времени."
-        },
-        {
-          "id": "sent-012",
-          "text": "Cannell llamó «el Invasor» a esa cosa terrible.",
-          "translationRu": "Кэннелл назвал это ужасное существо «Захватчиком»."
+          "text": "Cuando regresaron, no encontraron al profesor.",
+          "translationRu": "Когда они вернулись, профессора не было."
         }
       ]
     },
@@ -87,24 +77,19 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-011",
+          "text": "La gente buscó a Cannell pero no lo encontró.",
+          "translationRu": "Люди искали Кэннела, но так и не нашли."
+        },
+        {
+          "id": "sent-012",
+          "text": "Pensaron que un tigre lo mató.",
+          "translationRu": "Решили, что его убил тигр."
+        },
+        {
           "id": "sent-013",
-          "text": "El Invasor volvió y se llevó a Cannell otra vez.",
-          "translationRu": "Захватчик вернулся и снова унёс Кэннелла."
-        },
-        {
-          "id": "sent-014",
-          "text": "Lantin y Wheeler decidieron buscar a su amigo.",
-          "translationRu": "Лантин и Уилер решили найти своего друга."
-        },
-        {
-          "id": "sent-015",
-          "text": "Construyeron un coche del tiempo con una máquina especial.",
-          "translationRu": "Они построили машину времени с особым механизмом."
-        },
-        {
-          "id": "sent-016",
-          "text": "Viajaron quince mil años al futuro.",
-          "translationRu": "Они отправились на пятнадцать тысяч лет в будущее."
+          "text": "Pasaron tres años y el mundo olvidó a Cannell.",
+          "translationRu": "Прошло три года, и мир забыл о Кэннеле."
         }
       ]
     },
@@ -112,24 +97,19 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-017",
-          "text": "Encontraron una ciudad de edificios cilíndricos blancos.",
-          "translationRu": "Они нашли город с белыми цилиндрическими зданиями."
+          "id": "sent-014",
+          "text": "Una noche, el teléfono sonó en nuestro laboratorio.",
+          "translationRu": "Однажды вечером в нашей лаборатории зазвонил телефон."
         },
         {
-          "id": "sent-018",
-          "text": "Los soldados los capturaron y los llevaron a la ciudad.",
-          "translationRu": "Солдаты захватили их и привели в город."
+          "id": "sent-015",
+          "text": "Lantin respondió y gritó una sola palabra: «¡Cannell!»",
+          "translationRu": "Лантин ответил и крикнул одно слово: «Кэннел!»"
         },
         {
-          "id": "sent-019",
-          "text": "En la ciudad había una prisión enorme bajo la tierra.",
-          "translationRu": "В городе была огромная тюрьма под землёй."
-        },
-        {
-          "id": "sent-020",
-          "text": "Allí vivían miles de guerreros de muchos tiempos diferentes.",
-          "translationRu": "Там жили тысячи воинов из многих разных эпох."
+          "id": "sent-016",
+          "text": "Los dos corrimos a su apartamento.",
+          "translationRu": "Мы оба побежали к нему в квартиру."
         }
       ]
     },
@@ -137,19 +117,19 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Wheeler conoció a Charles Denham, un soldado inglés del siglo dieciocho.",
-          "translationRu": "Уилер познакомился с Чарльзом Дэнхемом — английским солдатом восемнадцатого века."
+          "id": "sent-017",
+          "text": "Cannell estaba allí, pero su cara mostraba un miedo muy grande.",
+          "translationRu": "Кэннел был там, но на его лице был виден огромный страх."
         },
         {
-          "id": "sent-022",
-          "text": "También hizo amigos con un romano, un azteca y un francés.",
-          "translationRu": "Он также подружился с римлянином, ацтеком и французом."
+          "id": "sent-018",
+          "text": "Él dijo: «Para mí no pasaron tres años, solo unos minutos.»",
+          "translationRu": "Он сказал: «Для меня прошло не три года, а всего несколько минут»."
         },
         {
-          "id": "sent-023",
-          "text": "Estos cinco amigos planearon escapar de la prisión.",
-          "translationRu": "Эти пятеро друзей задумали побег из тюрьмы."
+          "id": "sent-019",
+          "text": "Nosotros nos miramos y pensamos: «¿Está loco?»",
+          "translationRu": "Мы переглянулись и подумали: «Он сошёл с ума?»"
         }
       ]
     },
@@ -157,19 +137,19 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-024",
-          "text": "Una noche oscura, Lantin y Wheeler subieron la escalera.",
-          "translationRu": "Тёмной ночью Лантин и Уилер поднялись по лестнице."
+          "id": "sent-020",
+          "text": "Cannell nos explicó que una cosa gris con tres luces verdes bajó del cielo.",
+          "translationRu": "Кэннел объяснил, что серая масса с тремя зелёными огнями спустилась с неба."
         },
         {
-          "id": "sent-025",
-          "text": "Los otros amigos crearon un problema para los guardias.",
-          "translationRu": "Остальные друзья устроили беспорядок для стражников."
+          "id": "sent-021",
+          "text": "La cosa lo agarró con un brazo largo y fría.",
+          "translationRu": "Существо схватило его длинным холодным щупальцем."
         },
         {
-          "id": "sent-026",
-          "text": "Llegaron al coche del tiempo y huyeron hacia el sur.",
-          "translationRu": "Они добрались до машины времени и бежали на юг."
+          "id": "sent-022",
+          "text": "Voló con él muy rápido y el sol y la luna pasaban por el cielo como flechas.",
+          "translationRu": "Оно понесло его с огромной скоростью, и солнце с луной мелькали по небу как стрелы."
         }
       ]
     },
@@ -177,19 +157,19 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-027",
-          "text": "Encontraron la ciudad de Kom y hablaron con su líder, Kethra.",
-          "translationRu": "Они нашли город Ком и поговорили с его вождём Кетрой."
+          "id": "sent-023",
+          "text": "Cannell sacó su pistola y disparó a las luces en el centro de la cosa.",
+          "translationRu": "Кэннел вытащил пистолет и выстрелил в огни в центре существа."
         },
         {
-          "id": "sent-028",
-          "text": "Kethra explicó que el Invasor era una criatura artificial.",
-          "translationRu": "Кетра объяснил, что Захватчик был искусственным существом."
+          "id": "sent-024",
+          "text": "La cosa lo soltó y él cayó al mar.",
+          "translationRu": "Существо выпустило его, и он упал в море."
         },
         {
-          "id": "sent-029",
-          "text": "La gente de Kom construyó muchos barcos voladores y fue a destruir al Invasor.",
-          "translationRu": "Народ Кома построил много летающих кораблей и отправился уничтожить Захватчика."
+          "id": "sent-025",
+          "text": "Un barco lo salvó, pero el año era tres años después de su desaparición.",
+          "translationRu": "Корабль спас его, но прошло три года с момента его исчезновения."
         }
       ]
     },
@@ -197,19 +177,19 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-030",
-          "text": "En la gran batalla, los cinco amigos lucharon solos en la escalera.",
-          "translationRu": "В великой битве пятеро друзей сражались в одиночку на лестнице."
+          "id": "sent-026",
+          "text": "Cannell llamó «el Invasor» a esa cosa terrible.",
+          "translationRu": "Кэннел назвал это страшное существо «Налётчиком»."
         },
         {
-          "id": "sent-031",
-          "text": "Cannell apareció entre los guerreros y murió para salvar a Lantin.",
-          "translationRu": "Кэннелл появился среди воинов и погиб, спасая Лантина."
+          "id": "sent-027",
+          "text": "Dijo que el Invasor viaja por el tiempo y roba personas.",
+          "translationRu": "Он сказал, что Налётчик путешествует во времени и похищает людей."
         },
         {
-          "id": "sent-032",
-          "text": "Kethra llegó a tiempo y destruyó al Invasor para siempre.",
-          "translationRu": "Кетра прибыл вовремя и навсегда уничтожил Захватчика."
+          "id": "sent-028",
+          "text": "«¡Va a volver a buscarme!», dijo Cannell con miedo.",
+          "translationRu": "«Он вернётся за мной!» — сказал Кэннел с ужасом."
         }
       ]
     }
