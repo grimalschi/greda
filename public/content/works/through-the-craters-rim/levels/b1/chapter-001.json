@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Al borde del cráter"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El teniente Hazen volvió de un vuelo de reconocimiento sobre las selvas de Darién y contó que había visto una ciudad de más de mil casas en la cima de una montaña aislada.",
-          "translationRu": "Лейтенант Хейзен вернулся из разведывательного полёта над джунглями Дарьена и рассказал, что видел город более чем с тысячью домов на вершине изолированной горы."
+          "text": "El teniente Hazen declaró con firmeza que había visto una gran ciudad sobre una montaña plana en las junglas inexploradas del Darién.",
+          "translationRu": "Лейтенант Хэйзен уверенно заявил, что видел большой город на плоской вершине горы в неисследованных джунглях Дарьена."
         },
         {
           "id": "sent-002",
-          "text": "Nadie conocía ese lugar y no había ningún camino que llevara hasta allí.",
-          "translationRu": "Никто не знал об этом месте, и не было ни одной дороги, ведущей туда."
+          "text": "Mientras hacía un vuelo de reconocimiento a cinco mil pies de altura, observó más de mil edificios de piedra y vio personas correr por las calles.",
+          "translationRu": "Выполняя разведывательный полёт на высоте пяти тысяч футов, он наблюдал более тысячи каменных зданий и видел людей, бегавших по улицам."
         },
         {
           "id": "sent-003",
-          "text": "El narrador creyó que era la legendaria ciudad perdida de Darién y decidió buscarla.",
-          "translationRu": "Рассказчик решил, что это легендарный потерянный город Дарьена, и решил его найти."
+          "text": "Fenton, el escéptico del grupo, se burló de la historia y dijo que todo era pura fantasía.",
+          "translationRu": "Фентон, скептик в их компании, посмеялся над рассказом и назвал всё это чистой фантазией."
         },
         {
           "id": "sent-004",
-          "text": "Hazen prometió volar sobre el lugar diez días más tarde para buscarlo desde el aire.",
-          "translationRu": "Хейзен пообещал пролететь над этим местом десять дней спустя, чтобы искать его с воздуха."
+          "text": "Pero yo creía al aviador: estaba convencido de que había encontrado la legendaria Ciudad Perdida del Darién, de la que hablaban las leyendas indígenas.",
+          "translationRu": "Но я верил лётчику: я был убеждён, что он обнаружил легендарный Затерянный Город Дарьена, о котором говорили туземные предания."
         }
       ]
     },
@@ -38,18 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Con dos guías, el narrador remontó el río Cañazas y entró en el territorio prohibido de los indios Kuna.",
-          "translationRu": "С двумя проводниками рассказчик поднялся вверх по реке Каньяс и вошёл на запретную территорию индейцев куна."
+          "text": "Según los indios, esa ciudad existía en lo alto de una montaña desde mucho antes que los primeros indios y estaba protegida por espíritus malignos.",
+          "translationRu": "По словам индейцев, этот город существовал на вершине горы ещё до появления первых индейцев и охранялся злыми духами."
         },
         {
           "id": "sent-006",
-          "text": "A los pocos días, los indios atacaron sin avisar: una flecha mató a José y Carlos huyó despavorido.",
-          "translationRu": "Через несколько дней индейцы атаковали без предупреждения: стрела убила Хосе, а Карлос бежал в панике."
+          "text": "Decidí organizar una expedición para buscarla y le pedí a Hazen que me mostrara el área aproximada en el mapa.",
+          "translationRu": "Я решил организовать экспедицию на её поиски и попросил Хэйзена показать мне приблизительный район на карте."
         },
         {
           "id": "sent-007",
-          "text": "El narrador corrió junto a Carlos, pero los guerreros Kuna les persiguieron entre los árboles.",
-          "translationRu": "Рассказчик бежал вместе с Карлосом, но воины куна преследовали их среди деревьев."
+          "text": "Hazen propuso un plan ingenioso: volaría sobre la zona en su avión cada cierto tiempo para vigilarme desde el aire.",
+          "translationRu": "Хэйзен предложил остроумный план: он будет время от времени летать над этим районом, чтобы следить за мной с воздуха."
+        },
+        {
+          "id": "sent-008",
+          "text": "Quedamos en que su primer vuelo de búsqueda sería diez días después de mi partida, y que yo le haría señales con un trapo blanco si encontraba la ciudad.",
+          "translationRu": "Мы договорились, что его первый поисковый полёт состоится через десять дней после моего отправления, и что я подам ему сигнал белой тряпкой, если найду город."
         }
       ]
     },
@@ -57,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "De repente los guerreros se detuvieron y huyeron aterrorizados al interior de la selva.",
-          "translationRu": "Внезапно воины остановились и в ужасе бежали в глубь джунглей."
-        },
-        {
           "id": "sent-009",
-          "text": "El narrador entendió enseguida por qué: en esa zona crecían árboles carnívoros con enormes tentáculos que se movían como lianas.",
-          "translationRu": "Рассказчик сразу понял почему: в этой зоне росли деревья-хищники с огромными щупальцами, движущимися как лианы."
+          "text": "Pocos días después ya remontaba el río Cañazas en una canoa, dejando atrás los últimos puestos de la civilización.",
+          "translationRu": "Несколько дней спустя я уже поднимался вверх по реке Каньяс на каноэ, оставив позади последние форпосты цивилизации."
         },
         {
           "id": "sent-010",
-          "text": "Uno de esos tentáculos atrapó a Carlos y lo arrastró hacia arriba entre las ramas.",
-          "translationRu": "Одно из таких щупалец схватило Карлоса и утащило его вверх в ветви."
+          "text": "Solo dos hombres, José y Carlos, habían aceptado acompañarme, ya que los demás temían demasiado entrar en el territorio de los indios kunas.",
+          "translationRu": "Только двое — Хосе и Карлос — согласились сопровождать меня, так как все остальные слишком боялись входить на территорию индейцев куна."
         },
         {
           "id": "sent-011",
-          "text": "El narrador escapó a duras penas cortando los tentáculos con el machete hasta llegar a una pared de roca roja.",
-          "translationRu": "Рассказчик с трудом спасся, рубя щупальца мачете, пока не добрался до стены красной скалы."
+          "text": "Llevábamos dos días en el territorio prohibido sin haber visto ni un solo indio, pero yo sabía perfectamente que nos observaban desde la jungla.",
+          "translationRu": "Мы провели два дня на запретной территории, не встретив ни одного индейца, но я прекрасно знал, что за нами наблюдают из джунглей."
+        },
+        {
+          "id": "sent-012",
+          "text": "Ojos agudos nos seguían entre los árboles y arcos con flechas envenenadas estaban listos para disparar en cualquier momento.",
+          "translationRu": "Острые глаза следили за нами из-за деревьев, а луки с отравленными стрелами были готовы выстрелить в любой момент."
         }
       ]
     },
@@ -82,19 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Junto a la pared encontró un cañón estrecho que conducía a un túnel natural dentro de la montaña.",
-          "translationRu": "У стены он нашёл узкий каньон, ведущий в природный тоннель внутри горы."
-        },
-        {
           "id": "sent-013",
-          "text": "Siguió el túnel oscuro y ascendente hasta que vio luz al fondo.",
-          "translationRu": "Он шёл по тёмному, постепенно поднимающемуся тоннелю, пока не увидел свет в конце."
+          "text": "Cuando calculé que nos acercábamos a la montaña vista por Hazen, escondimos la canoa y nos internamos en la selva a pie.",
+          "translationRu": "Когда я рассчитал, что мы приближаемся к горе, замеченной Хэйзеном, мы спрятали каноэ и углубились в лес пешком."
         },
         {
           "id": "sent-014",
-          "text": "Al salir, chocó con un hombre extraño que al caer se levantó y echó a correr sobre las manos con los pies en el aire.",
-          "translationRu": "Выйдя наружу, он столкнулся со странным человеком, который, упав, поднялся и побежал на руках с ногами в воздухе."
+          "text": "Al amanecer del segundo día en la selva, José lanzó un grito de terror y cayó al suelo con una flecha larga temblando en su espalda.",
+          "translationRu": "На рассвете второго дня в лесу Хосе издал вопль ужаса и упал на землю с длинной стрелой, дрожащей в его спине."
+        },
+        {
+          "id": "sent-015",
+          "text": "Los kunas nos atacaban sin dejarse ver: Carlos arrojó su carga y huyó a la carrera, y yo corrí detrás de él.",
+          "translationRu": "Куна атаковали нас, оставаясь невидимыми: Карлос бросил свою ношу и пустился наутёк, и я побежал следом."
+        },
+        {
+          "id": "sent-016",
+          "text": "Corríamos sin rumbo entre los árboles gigantes, tropezando con raíces y saltando sobre troncos caídos, mientras los gritos de los guerreros sonaban cada vez más cerca.",
+          "translationRu": "Мы мчались без разбора между огромными деревьями, спотыкаясь о корни и перепрыгивая через упавшие стволы, пока крики воинов звучали всё ближе."
         }
       ]
     },
@@ -102,19 +112,29 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "El narrador siguió al extraño y llegó a una llanura circular donde se extendía una ciudad de cientos de edificios de piedra.",
-          "translationRu": "Рассказчик последовал за незнакомцем и оказался на круглой равнине, где раскинулся город из сотен каменных зданий."
-        },
-        {
-          "id": "sent-016",
-          "text": "Todos sus habitantes, hombres, mujeres y niños, caminaban sobre las manos y llevaban objetos con los pies.",
-          "translationRu": "Все его жители — мужчины, женщины и дети — ходили на руках и носили предметы ногами."
-        },
-        {
           "id": "sent-017",
-          "text": "Cuando el narrador encendió su pipa, la gente cayó de rodillas aterrorizada y lo tomó por un dios que escupía fuego.",
-          "translationRu": "Когда рассказчик закурил трубку, люди пали ниц в ужасе и приняли его за бога, изрыгающего огонь."
+          "text": "De repente, la selva se aclaró y llegamos a un espacio abierto cubierto de enormes árboles con lianas grises y retorcidas.",
+          "translationRu": "Внезапно лес поредел, и мы выбежали на открытое пространство, заросшее огромными деревьями с серыми, скрученными лианами."
+        },
+        {
+          "id": "sent-018",
+          "text": "Miré hacia atrás y vi a cinco kunas pintados de manera feroz salir de la jungla; pero se detuvieron en el límite del claro y retrocedieron con gritos de miedo.",
+          "translationRu": "Я оглянулся и увидел пятерых свирепо раскрашенных куна, выскочивших из джунглей; но они остановились у края прогалины и отступили с криками страха."
+        },
+        {
+          "id": "sent-019",
+          "text": "Un grito de Carlos llamó mi atención: lo vi luchando desesperadamente con algo gris y retorcido que yo tomé por una serpiente enorme.",
+          "translationRu": "Крик Карлоса привлёк моё внимание: я увидел, как он отчаянно борется с чем-то серым и извивающимся, что я принял за огромную змею."
+        },
+        {
+          "id": "sent-020",
+          "text": "Pero cuando me acerqué, sentí que la razón me abandonaba: lo que aplastaba a Carlos no era una serpiente, sino una liana enorme que colgaba de las ramas de un árbol.",
+          "translationRu": "Но когда я подошёл ближе, я почувствовал, как рассудок покидает меня: то, что давило Карлоса, была не змея, а огромная лиана, свисавшая с ветвей дерева."
+        },
+        {
+          "id": "sent-021",
+          "text": "Ante mis ojos, la liana apretó su último espiral alrededor del moribundo Carlos y arrastró su cuerpo entre las ramas de arriba.",
+          "translationRu": "На моих глазах лиана сделала последний виток вокруг умирающего Карлоса и утащила его тело в ветви наверху."
         }
       ]
     },
@@ -122,109 +142,29 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "El rey lo recibió en audiencia, y el narrador le regaló un espejo pequeño que causó gran asombro.",
-          "translationRu": "Король принял его на аудиенции, и рассказчик подарил ему маленькое зеркало, вызвавшее большое изумление."
-        },
-        {
-          "id": "sent-019",
-          "text": "El narrador exploró la ciudad durante dos días y descubrió talleres de piedra, tapires domésticos usados como animales de carga, y una pirámide sacrificial.",
-          "translationRu": "Рассказчик исследовал город два дня и обнаружил каменные мастерские, домашних тапиров, использовавшихся как вьючные животные, и жертвенную пирамиду."
-        },
-        {
-          "id": "sent-020",
-          "text": "Descubrió también que la llanura era el cráter de un volcán extinto rodeado de paredes verticales.",
-          "translationRu": "Он также обнаружил, что равнина представляла собой кратер потухшего вулкана, окружённый вертикальными стенами."
-        },
-        {
-          "id": "sent-021",
-          "text": "En la cima del cráter había un lago que abastecía de agua a la ciudad por medio de un acueducto.",
-          "translationRu": "На вершине кратера было озеро, снабжавшее город водой через акведук."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
           "id": "sent-022",
-          "text": "Al tercer día, mientras el narrador dormía, el sacerdote le robó el abrigo donde guardaba los fósforos y el tabaco.",
-          "translationRu": "На третий день, пока рассказчик спал, жрец украл его пальто, в котором хранились спички и табак."
+          "text": "Entonces algo tocó mi pierna: otra liana se retorcía hacia mí por el suelo.",
+          "translationRu": "Тут что-то коснулось моей ноги: ещё одна лиана извивалась по земле ко мне."
         },
         {
           "id": "sent-023",
-          "text": "Cuando el narrador fue a buscar su abrigo, encontró al sacerdote fumando su pipa ante el rey.",
-          "translationRu": "Когда рассказчик пошёл искать пальто, он обнаружил жреца, курящего его трубку перед королём."
+          "text": "Golpeé la cosa con el machete y de la herida manó un líquido espeso, amarillo y pestilente.",
+          "translationRu": "Я ударил по ней мачете, и из пореза потёк густой, жёлтый, вонючий сок."
         },
         {
           "id": "sent-024",
-          "text": "El sacerdote demostró que el narrador no era un dios porque había llegado por el túnel, no del cielo.",
-          "translationRu": "Жрец доказал, что рассказчик не бог, потому что он пришёл через тоннель, а не с небес."
+          "text": "Corrí enloquecido entre los árboles, esquivando por centímetros los tentáculos que se agitaban desde todos los troncos.",
+          "translationRu": "Я мчался обезумевший между деревьями, уклоняясь на считанные сантиметры от щупалец, дёргавшихся со всех стволов."
         },
         {
           "id": "sent-025",
-          "text": "Los guardias capturaron al narrador y lo encerraron en una celda oscura.",
-          "translationRu": "Стражники схватили рассказчика и заперли его в тёмной камере."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
+          "text": "Por fin salí a un claro con hierba y ante mí se levantaba un enorme acantilado de roca roja como una pared vertical.",
+          "translationRu": "Наконец я выбежал на травянистую прогалину, и передо мной вздымался огромный утёс из красного камня — вертикальная стена."
+        },
         {
           "id": "sent-026",
-          "text": "A la mañana siguiente lo llevaron a la cima de la pirámide y lo ataron a la piedra sacrificial.",
-          "translationRu": "Следующим утром его отвели на вершину пирамиды и привязали к жертвенному камню."
-        },
-        {
-          "id": "sent-027",
-          "text": "El sacerdote esperaba que el primer rayo de sol tocara el pecho del narrador para clavarle el cuchillo de obsidiana.",
-          "translationRu": "Жрец ждал, когда первый солнечный луч коснётся груди рассказчика, чтобы вонзить в неё обсидиановый нож."
-        },
-        {
-          "id": "sent-028",
-          "text": "En ese momento crítico, el rugido de un motor de avión se escuchó en el cielo.",
-          "translationRu": "В этот критический момент в небе послышался рёв авиационного двигателя."
-        },
-        {
-          "id": "sent-029",
-          "text": "Era Hazen, que llegó un día antes de lo previsto.",
-          "translationRu": "Это был Хейзен, прилетевший на день раньше срока."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "Hazen lanzó el avión en picado sobre el altar, arrojó al sacerdote de la pirámide y liberó al narrador.",
-          "translationRu": "Хейзен спикировал на алтарь, сбросил жреца с пирамиды и освободил рассказчика."
-        },
-        {
-          "id": "sent-031",
-          "text": "Corrieron al avión y despegaron mientras los habitantes lanzaban piedras y flechas.",
-          "translationRu": "Они побежали к самолёту и взлетели, пока жители бросали камни и стрелы."
-        },
-        {
-          "id": "sent-032",
-          "text": "Para ganar altura y saltar el borde del cráter, el narrador tiró todo lo que pudo del avión, incluyendo un objeto cilíndrico que no reconoció.",
-          "translationRu": "Чтобы набрать высоту и перелететь через край кратера, рассказчик выбросил из самолёта всё, что мог, включая цилиндрический предмет, который не узнал."
-        },
-        {
-          "id": "sent-033",
-          "text": "Era una bomba: la explosión destruyó el acueducto y abrió las compuertas del lago.",
-          "translationRu": "Это была бомба: взрыв разрушил акведук и открыл затворы озера."
-        },
-        {
-          "id": "sent-034",
-          "text": "Desde el avión vieron cómo el agua inundó toda la ciudad y cubrió hasta los tejados.",
-          "translationRu": "С самолёта они видели, как вода затопила весь город и покрыла даже крыши."
-        },
-        {
-          "id": "sent-035",
-          "text": "La ciudad perdida de Darién desapareció para siempre bajo las aguas.",
-          "translationRu": "Потерянный город Дарьена исчез навсегда под водой."
+          "text": "Atrapado entre el acantilado y los árboles carnívoros que se acercaban lentamente, estaba completamente rodeado de peligro mortal.",
+          "translationRu": "Зажатый между утёсом и деревьями-хищниками, медленно ползущими ко мне, я был полностью окружён смертельной опасностью."
         }
       ]
     }
