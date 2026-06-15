@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-creeping-man",
+  "title": "La aventura del hombre que se arrastraba",
+  "titleRu": "Приключение ползущего человека",
+  "originalTitle": "The Adventure of the Creeping Man",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Профессор Прэсбери, известный учёный, тайно принимает сыворотку из крови гималайской обезьяны, чтобы казаться моложе и завоевать любовь молодой женщины. Шерлок Холмс раскрывает жуткую правду, когда верный волкодав профессора начинает нападать на своего хозяина, а ночью того видят ползущим по стенам на четвереньках.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

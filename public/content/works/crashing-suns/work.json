@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "crashing-suns",
+  "title": "Los soles que chocan",
+  "titleRu": "Сталкивающиеся солнца",
+  "originalTitle": "Crashing Suns",
+  "author": {
+    "id": "edmond-hamilton",
+    "name": "Edmond Hamilton"
+  },
+  "genres": [
+    "Фантастика",
+    "Межзвёздный патруль"
+  ],
+  "synopsisRu": "Когда умирающая звезда Альто внезапно меняет курс и мчится прямо к нашему солнцу, капитан Ян Тор получает приказ лететь туда и выяснить причину. Ему предстоит раскрыть зловещий замысел чужеродной цивилизации и вместе с флотом Восьми Миров предотвратить уничтожение солнечной системы — ценой невосполнимой личной утраты.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

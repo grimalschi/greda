@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-shoscombe-old-place",
+  "title": "La aventura de Shoscombe Old Place",
+  "titleRu": "Приключение в Шоскомб-Олд-Плейс",
+  "originalTitle": "The Adventure of Shoscombe Old Place",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Холмс и Уотсон расследуют странное поведение разорившегося баронета сэра Роберта Норбертона, который скрывает смерть сестры, чтобы успеть выиграть Дерби и расплатиться с долгами. Детектив разоблачает обман через собаку, узнавшую самозванца в экипаже, и находит тело леди Беатрис в семейном склепе.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

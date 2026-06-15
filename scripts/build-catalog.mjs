@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Детерминированно пересобирает public/content/catalog.json из всех work.json.
-// Запуск: npm run build:catalog  (после добавления/изменения произведений).
+// Пересобирает public/content/catalog.json из всех work.json И нормализует каждый
+// work.json строго под схему (срезает лишние поля). Запуск: npm run build:catalog.
 
 import { readFileSync, writeFileSync, readdirSync, existsSync, statSync } from 'node:fs'
 import { resolve, dirname } from 'node:path'
@@ -11,6 +11,8 @@ const WORKS = resolve(ROOT, 'public', 'content', 'works')
 const LEVELS = ['a2', 'b1', 'b2', 'c1']
 
 const works = []
+let normalized = 0
+
 for (const id of readdirSync(WORKS)) {
   const dir = resolve(WORKS, id)
   if (!statSync(dir).isDirectory()) continue
@@ -19,27 +21,54 @@ for (const id of readdirSync(WORKS)) {
     console.warn('пропуск (нет work.json):', id)
     continue
   }
-  const w = JSON.parse(readFileSync(wp, 'utf8'))
-  works.push({
+  const raw = readFileSync(wp, 'utf8')
+  const w = JSON.parse(raw)
+
+  // Нормализация строго под schemas/work.schema.json (срезаем лишние поля агентов).
+  const levels = {}
+  for (const l of LEVELS) {
+    const li = w.levels?.[l] || {}
+    const available = !!li.available
+    levels[l] = {
+      available,
+      chapterCount: Number.isInteger(li.chapterCount) ? li.chapterCount : available ? 1 : 0,
+    }
+  }
+  const norm = {
+    schemaVersion: w.schemaVersion || '1.0',
     id: w.id,
     title: w.title,
     titleRu: w.titleRu,
     originalTitle: w.originalTitle,
-    authorId: w.author.id,
-    authorName: w.author.name,
+    author: { id: w.author.id, name: w.author.name },
     genres: w.genres,
-    levels: LEVELS.filter((l) => w.levels?.[l]),
-    availableLevels: LEVELS.filter((l) => w.levels?.[l]?.available),
+    synopsisRu: w.synopsisRu,
+    levels,
+  }
+  const normStr = JSON.stringify(norm, null, 2) + '\n'
+  if (normStr !== raw) {
+    writeFileSync(wp, normStr)
+    normalized++
+  }
+
+  works.push({
+    id: norm.id,
+    title: norm.title,
+    titleRu: norm.titleRu,
+    originalTitle: norm.originalTitle,
+    authorId: norm.author.id,
+    authorName: norm.author.name,
+    genres: norm.genres,
+    levels: LEVELS.filter((l) => norm.levels[l]),
+    availableLevels: LEVELS.filter((l) => norm.levels[l].available),
   })
 }
 
-// Стабильный порядок: автор → название.
 works.sort(
   (a, b) =>
     (a.authorName < b.authorName ? -1 : a.authorName > b.authorName ? 1 : 0) ||
     (a.title < b.title ? -1 : a.title > b.title ? 1 : 0),
 )
 
-const catalog = { schemaVersion: '1.0', works }
-writeFileSync(resolve(WORKS, '..', 'catalog.json'), JSON.stringify(catalog, null, 2) + '\n')
-console.log(`✓ catalog.json пересобран: ${works.length} произведений`)
+writeFileSync(resolve(WORKS, '..', 'catalog.json'), JSON.stringify({ schemaVersion: '1.0', works }, null, 2) + '\n')
+console.log(`✓ catalog.json: ${works.length} произведений (нормализовано work.json: ${normalized})`)

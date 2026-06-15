@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-sunken-world",
+  "title": "El mundo hundido",
+  "titleRu": "Затонувший мир",
+  "originalTitle": "The Sunken World",
+  "author": {
+    "id": "stanton-a-coblentz",
+    "name": "Stanton A. Coblentz"
+  },
+  "genres": [
+    "Фантастика"
+  ],
+  "synopsisRu": "В 1918 году американская подводная лодка X-111 случайно проникает в Атлантиду — утопическую цивилизацию под стеклянным куполом на дне Атлантики, три тысячи лет назад намеренно ушедшую под воду, чтобы спастись от машинерии и войн. Когда купол даёт трещину, единственный шанс на спасение — выбраться в мир наверху, но поиски помощи занимают слишком много времени.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

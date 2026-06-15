@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-blanched-soldier",
+  "title": "La aventura del soldado pálido",
+  "titleRu": "Приключение бледного солдата",
+  "originalTitle": "The Adventure of the Blanched Soldier",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс расследует загадочное исчезновение Годфри Эмсворта — ветерана Бурской войны, которого отец прячет в тайном павильоне. За внешностью призрака с обесцвеченным лицом скрывается не проказа, а редкая кожная болезнь, поставив которую, знаменитый дерматолог освобождает молодого человека из вынужденного заточения.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

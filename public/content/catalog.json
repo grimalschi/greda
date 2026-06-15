@@ -25,6 +25,78 @@
       ]
     },
     {
+      "id": "the-adventure-of-shoscombe-old-place",
+      "title": "La aventura de Shoscombe Old Place",
+      "titleRu": "Приключение в Шоскомб-Олд-Плейс",
+      "originalTitle": "The Adventure of Shoscombe Old Place",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-adventure-of-the-creeping-man",
+      "title": "La aventura del hombre que se arrastraba",
+      "titleRu": "Приключение ползущего человека",
+      "originalTitle": "The Adventure of the Creeping Man",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-adventure-of-the-blanched-soldier",
+      "title": "La aventura del soldado pálido",
+      "titleRu": "Приключение бледного солдата",
+      "originalTitle": "The Adventure of the Blanched Soldier",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Детектив",
+        "Шерлок Холмс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "the-artificial-man",
       "title": "El hombre artificial",
       "titleRu": "Искусственный человек",
@@ -33,6 +105,30 @@
       "authorName": "Clare Winger Harris",
       "genres": [
         "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-skylark-of-space",
+      "title": "El Pájaro del Espacio",
+      "titleRu": "Жаворонок космоса",
+      "originalTitle": "The Skylark of Space",
+      "authorId": "e-e-smith",
+      "authorName": "E. E. Smith",
+      "genres": [
+        "Фантастика",
+        "Skylark"
       ],
       "levels": [
         "a2",
@@ -263,6 +359,30 @@
       "title": "Los ladrones de estrellas",
       "titleRu": "Похитители звёзд",
       "originalTitle": "The Star-Stealers",
+      "authorId": "edmond-hamilton",
+      "authorName": "Edmond Hamilton",
+      "genres": [
+        "Фантастика",
+        "Межзвёздный патруль"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "crashing-suns",
+      "title": "Los soles que chocan",
+      "titleRu": "Сталкивающиеся солнца",
+      "originalTitle": "Crashing Suns",
       "authorId": "edmond-hamilton",
       "authorName": "Edmond Hamilton",
       "genres": [
@@ -566,12 +686,129 @@
       ]
     },
     {
+      "id": "armageddon-2419-ad",
+      "title": "Armagedón 2419 d. C.",
+      "titleRu": "Армагеддон — 2419 г. н. э.",
+      "originalTitle": "Armageddon—2419 A.D.",
+      "authorId": "philip-francis-nowlan",
+      "authorName": "Philip Francis Nowlan",
+      "genres": [
+        "Фантастика",
+        "Бак Роджерс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-airlords-of-han",
+      "title": "Los señores del aire de Han",
+      "titleRu": "Воздушные владыки Ханов",
+      "originalTitle": "The Airlords of Han",
+      "authorId": "philip-francis-nowlan",
+      "authorName": "Philip Francis Nowlan",
+      "genres": [
+        "Фантастика",
+        "Бак Роджерс"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-man-who-mastered-time",
+      "title": "El hombre que dominó el tiempo",
+      "titleRu": "Человек, покоривший время",
+      "originalTitle": "The Man Who Mastered Time",
+      "authorId": "ray-cummings",
+      "authorName": "Ray Cummings",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-sea-girl",
+      "title": "La chica del mar",
+      "titleRu": "Девушка из моря",
+      "originalTitle": "The Sea Girl",
+      "authorId": "ray-cummings",
+      "authorName": "Ray Cummings",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "tarrano-the-conqueror",
       "title": "Tarrano el Conquistador",
       "titleRu": "Тарано-завоеватель",
       "originalTitle": "Tarrano the Conqueror",
       "authorId": "ray-cummings",
       "authorName": "Ray Cummings",
+      "genres": [
+        "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-sunken-world",
+      "title": "El mundo hundido",
+      "titleRu": "Затонувший мир",
+      "originalTitle": "The Sunken World",
+      "authorId": "stanton-a-coblentz",
+      "authorName": "Stanton A. Coblentz",
       "genres": [
         "Фантастика"
       ],
