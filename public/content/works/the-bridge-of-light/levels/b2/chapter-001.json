@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El Puente de Luz"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Todo comenzó de la manera más casual en un anticuario de Vigo, donde entre los libros polvorientos de un vendedor dormilón encontré un papel plegado con figuras de color rojo, azul y verde.",
-          "translationRu": "Всё началось самым случайным образом в антикварной лавке Виго, где среди пыльных книг дремлющего торговца я обнаружил сложенный листок с рисунками красного, синего и зелёного цвета."
+          "text": "Hay una cicatriz extraña en mi antebrazo izquierdo, una marca que Itza toca a veces con los dedos mientras estamos sentados en la veranda, escuchando el rumor de la lluvia tropical.",
+          "translationRu": "На моём левом предплечье есть странный шрам — метка, которую Итца порой касается пальцами, когда мы сидим на веранде, слушая шум тропического дождя."
         },
         {
           "id": "sent-002",
-          "text": "Resultó ser un códice maya de más de dos mil años de antigüedad, tan excepcional que los mejores arqueólogos de Europa y América no pudieron descifrar su contenido.",
-          "translationRu": "Оказалось, что это майянский кодекс возрастом более двух тысяч лет — настолько исключительный, что лучшие археологи Европы и Америки не смогли расшифровать его содержание."
+          "text": "Cuando le pregunto qué piensa, sonríe y dice que es la señal del hijo de Kukulcán, el dios emplumado que guía a los elegidos.",
+          "translationRu": "Когда я спрашиваю, о чём она думает, она улыбается и говорит, что это знак сына Кукулькана — пернатого бога, ведущего избранных."
         },
         {
           "id": "sent-003",
-          "text": "Fue el anciano sacerdote maya Katchilcan quien finalmente me reveló que se trataba del Libro de Kukulcán, que contenía la profecía de una ciudad oculta llamada Mictolan.",
-          "translationRu": "Лишь старый майянский жрец Качильчан в конце концов открыл мне, что это Книга Кукулькана, содержащая пророчество о скрытом городе по имени Миктолан."
+          "text": "Yo sonrío también, aunque sé que la cicatriz la dejó una espuela de caballo en la hacienda de mi tío en Venezuela, hace ya muchos años.",
+          "translationRu": "Я тоже улыбаюсь, хотя знаю, что шрам оставила конская шпора на ранчо дяди в Венесуэле — много лет тому назад."
+        },
+        {
+          "id": "sent-004",
+          "text": "Pero si esa coincidencia me abrió las puertas de Mictolán, quizás el destino sí existió en todo esto.",
+          "translationRu": "Но если именно это совпадение открыло мне врата Миктолана, быть может, судьба и вправду сыграла свою роль."
         }
       ]
     },
@@ -32,14 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Según la profecía, el portador honesto del libro podía llegar a Mictolan atravesando una serie de obstáculos: el Valle de la Muerte, el Túnel de las Serpientes, el Pozo de los Caimanes, ocho desiertos y los dos volcanes.",
-          "translationRu": "Согласно пророчеству, честный носитель книги мог достичь Миктолана, преодолев череду препятствий: Долину Смерти, Туннель Змей, Яму Крокодилов, восемь пустынь и два вулкана."
+          "id": "sent-005",
+          "text": "Todo comenzó en Vigo, en el verano de 1924, cuando entré en la tienda de libros usados de un tal Salceda, buscando mapas de la costa gallega para mi velero.",
+          "translationRu": "Всё началось в Виго летом 1924 года, когда я зашёл в букинистическую лавку некоего Сальседы в поисках карт галисийского побережья для своей яхты."
         },
         {
-          "id": "sent-005",
-          "text": "Aunque parecía una búsqueda descabellada, sentí que el destino me empujaba hacia esas montañas del noroeste de Guatemala.",
-          "translationRu": "Хотя поиски казались безумными, я чувствовал, что судьба влечёт меня к тем горам на северо-западе Гватемалы."
+          "id": "sent-006",
+          "text": "El local olía a papel viejo y madera húmeda; montones de libros cubrían el suelo hasta la altura de las rodillas, y el propio dueño dormitaba detrás de un mostrador repleto de láminas.",
+          "translationRu": "В лавке пахло старой бумагой и сырым деревом; горы книг громоздились по колено, а сам хозяин дремал за прилавком, заваленным гравюрами."
+        },
+        {
+          "id": "sent-007",
+          "text": "Compré tres mapas y un diccionario portugués, y cuando Salceda envolvía el paquete, noté entre los libros un papel doblado de color crema, cubierto de dibujos y símbolos que no parecían europeos.",
+          "translationRu": "Я купил три карты и португальский словарь, и пока Сальседа заворачивал покупку, я заметил среди книг сложенный кремовый лист, покрытый рисунками и символами явно не европейского происхождения."
+        },
+        {
+          "id": "sent-008",
+          "text": "Pregunté el precio; el hombre lo tomó sin interés y me lo vendió por unas pocas pesetas, comentando que lo había encontrado entre los papeles de un marinero difunto.",
+          "translationRu": "Я спросил цену; хозяин взял его без интереса и продал за несколько песет, заметив, что нашёл его среди бумаг умершего моряка."
         }
       ]
     },
@@ -47,19 +62,19 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-006",
-          "text": "El Valle de la Muerte resultó ser un cañón real en cuyo fondo una inundación repentina acabó con casi todos mis guías indios, mientras yo y el jefe Maliche sobrevivimos porque él sostuvo el códice sobre las aguas.",
-          "translationRu": "Долина Смерти оказалась настоящим каньоном, в глубине которого внезапный паводок унёс жизни почти всех моих проводников, тогда как мы с вождём Маличе выжили, потому что он держал кодекс над водой."
+          "id": "sent-009",
+          "text": "A bordo de mi goleta, extendí el papel sobre la mesa del camarote y lo examiné con lupa: se trataba de una hoja de amatl, la corteza procesada que usaban los mayas, cubierta de glifos en tinta roja y negra.",
+          "translationRu": "На борту моей шхуны я разложил лист на столе каюты и изaminé его с лупой: это был лист амате — обработанной коры, которую использовали майя, покрытый глифами красными и чёрными чернилами."
         },
         {
-          "id": "sent-007",
-          "text": "En el Túnel de las Serpientes, un nido de cascabeles bloqueaba nuestra única salida hasta que un pécari salvaje irrumpió milagrosamente y mató a las serpientes, permitiéndonos escapar.",
-          "translationRu": "В Туннеле Змей гнездо гремучих змей преграждало наш единственный выход — пока дикий пекари не ворвался туда словно чудом и не перебил змей, дав нам возможность бежать."
+          "id": "sent-010",
+          "text": "Los dibujos representaban serpientes emplumadas, figuras de guerreros con elaborados tocados y secuencias de puntos y barras que recordaban la numeración maya.",
+          "translationRu": "Рисунки изображали пернатых змей, воинов в пышных головных уборах и последовательности точек и черт, напоминавшие майянскую нумерацию."
         },
         {
-          "id": "sent-008",
-          "text": "Maliche y yo cruzamos la laguna de los caimanes en equilibrio sobre un tronco resbaladizo mientras las mandíbulas de los reptiles chasqueaban bajo nuestros pies.",
-          "translationRu": "Мы с Маличе перебрались через лагуну крокодилов, балансируя на скользком стволе дерева, пока пасти рептилий щёлкали прямо под нашими ногами."
+          "id": "sent-011",
+          "text": "Era evidente que tenía entre las manos algo de considerable valor histórico, aunque era incapaz de leer ni una sola línea de aquel manuscrito.",
+          "translationRu": "Было очевидно, что у меня в руках нечто значительной исторической ценности, хотя я не мог прочитать ни единой строки этой рукописи."
         }
       ]
     },
@@ -67,19 +82,19 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-009",
-          "text": "Los ocho desiertos de lava y ceniza volcánica nos dejaron casi muertos de sed y de hambre, comiendo lagartos e insectos para sobrevivir.",
-          "translationRu": "Восемь пустынь из лавы и вулканического пепла оставили нас почти мёртвыми от жажды и голода — мы ели ящериц и насекомых, чтобы выжить."
+          "id": "sent-012",
+          "text": "Cuando llegué a Inglaterra, consulté a tres expertos en arqueología mesoamericana del Museo Británico; ninguno pudo descifrar el códice, aunque todos coincidieron en que era auténtico y anterior a la conquista española.",
+          "translationRu": "Прибыв в Англию, я обратился к троим специалистам по мезоамериканской археологии из Британского музея; никто не смог расшифровать кодекс, хотя все сошлись на том, что он подлинный и доиспанский."
         },
         {
-          "id": "sent-010",
-          "text": "Cerca de los volcanes maté de noche a un pterodáctilo gigante con mi revólver, aunque al día siguiente me di cuenta de lo que había matado: una criatura extinta desde hacía cientos de miles de años.",
-          "translationRu": "Вблизи вулканов я ночью застрелил из револьвера гигантского птеродактиля, а на следующий день понял, что убил существо, вымершее сотни тысяч лет назад."
+          "id": "sent-013",
+          "text": "Crucé el Atlántico y visité a académicos en Harvard y en el Instituto Smithsoniano; obtuve el mismo resultado: admiración y perplejidad.",
+          "translationRu": "Я пересёк Атлантику и побывал у учёных в Гарварде и Смитсоновском институте — с тем же результатом: восхищение и растерянность."
         },
         {
-          "id": "sent-011",
-          "text": "Un dinosaurio aún más monstruoso, el 'demonio Neztpehua' de la profecía, devoró a Maliche en el bosque; yo sobreviví porque la bestia se hundió en la ceniza volcánica al perseguirme cuesta abajo.",
-          "translationRu": "Ещё более чудовищный динозавр — «демон Нецтпеуа» из пророчества — пожрал Маличе в лесу; я выжил лишь потому, что зверь провалился в вулканический пепел, преследуя меня по склону."
+          "id": "sent-014",
+          "text": "Uno de ellos me sugirió que quizás no se tratara de un dialecto maya conocido, sino de una variante cifrada o de una lengua ritual arcaica que los especialistas modernos no habían logrado identificar.",
+          "translationRu": "Один из них предположил, что это, возможно, не известный диалект майя, а зашифрованный вариант или архаический ритуальный язык, который современные специалисты не смогли опознать."
         }
       ]
     },
@@ -87,19 +102,29 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Solo y sin provisiones, entré en la Cueva de los Murciélagos, donde perdí la orientación en la oscuridad total hasta que seguí la corriente de aire con la llama de mi antorcha.",
-          "translationRu": "Один и без припасов, я вошёл в Пещеру Летучих Мышей, где потерял ориентацию во мраке, пока не начал следовать за током воздуха по пламени факела."
+          "id": "sent-015",
+          "text": "Fue el cónsul español en Nueva York, don Ramón Cervantes, quien me dio la clave: mencionó a Fray José de la Montaña, un franciscano que llevaba treinta años entre los indios de Guatemala y que conocía dialectos extintos.",
+          "translationRu": "Именно испанский консул в Нью-Йорке, дон Рамон Серванес, дал мне ключ: он упомянул фрая Хосе де ла Монтанья — францисканца, прожившего тридцать лет среди индейцев Гватемалы и знавшего вымершие диалекты."
         },
         {
-          "id": "sent-013",
-          "text": "Al final del túnel me detuve en seco: ante mí se abría un abismo colosal, y desde las profundidades subía un rayo de luz iridiscente que cruzaba el vacío de extremo a extremo.",
-          "translationRu": "В конце туннеля я резко остановился: передо мной разверзлась колоссальная пропасть, а из её глубины поднимался переливающийся луч света, пересекающий пустоту из края в край."
+          "id": "sent-016",
+          "text": "Tomé el próximo vapor a Guatemala y, tras semanas de viaje por caminos polvorientos, llegué a la misión del padre en la sierra occidental.",
+          "translationRu": "Я сел на ближайший пароход до Гватемалы и после нескольких недель пути по пыльным дорогам добрался до миссии падре в западной сьерре."
         },
         {
-          "id": "sent-014",
-          "text": "Desde la abertura opuesta, una joven de belleza extraordinaria cruzó caminando sobre ese rayo luminoso como si fuera una calzada de mármol.",
-          "translationRu": "Из противоположного проёма молодая женщина поразительной красоты прошла по этому световому лучу, словно по мраморному тротуару."
+          "id": "sent-017",
+          "text": "Fray José era un anciano de ojos vivos y manos callosas que examinó el códice durante horas, murmurando en latín y en distintas lenguas indígenas antes de alzar la vista y declarar que estaba en cifra.",
+          "translationRu": "Фрай Хосе был стариком с живыми глазами и мозолистыми руками; он изучал кодекс несколько часов, бормоча по-латыни и на разных индейских языках, прежде чем поднять взгляд и объявить, что текст зашифрован."
+        },
+        {
+          "id": "sent-018",
+          "text": "Sin embargo, reconoció ciertos glifos como pertenecientes al dialecto zutugil, y me dijo que solo un hombre podría descifrar la escritura: el anciano Katchilcán, que vivía en las montañas, a varios días de marcha.",
+          "translationRu": "Однако он распознал некоторые глифы как принадлежащие диалекту цутухиль и сказал, что расшифровать письмо сможет лишь один человек — старик Качильчан, живущий в горах, в нескольких днях пути."
+        },
+        {
+          "id": "sent-019",
+          "text": "Para comunicarme con Katchilcán tendría que aprender el zutugil, y Fray José me presentó a Pedro, un joven indio con quien estudié la lengua durante seis semanas en la aldea de Totil.",
+          "translationRu": "Чтобы общаться с Качильчаном, мне нужно было выучить цутухиль, и фрай Хосе познакомил меня с Педро — молодым индейцем, с которым я шесть недель изучал язык в деревне Тотиль."
         }
       ]
     },
@@ -107,19 +132,19 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Era Itza, guardiana del Puente de Luz, que había esperado durante generaciones la llegada del portador del símbolo de Kukulcán.",
-          "translationRu": "Это была Итца, хранительница Моста Света, на протяжении поколений ожидавшая прихода носителя символа Кукулькана."
+          "id": "sent-020",
+          "text": "Tras once días de marcha por senderos escarpados, cruzando ríos de montaña y durmiendo bajo ceibas centenarias, llegué a la aldea de Katchilcán.",
+          "translationRu": "Одиннадцать дней пути по крутым тропам, с переходами через горные реки и ночлегами под столетними сейбами — и я добрался до деревни Качильчана."
         },
         {
-          "id": "sent-016",
-          "text": "Yo también la amé en ese mismo instante y, venciendo el terror al abismo, salté sobre el Puente de Luz que resultó tan sólido bajo mis pies como una roca.",
-          "translationRu": "Я тоже полюбил её в тот же миг и, преодолев ужас перед пропастью, шагнул на Мост Света, оказавшийся под моими ногами таким же твёрдым, как камень."
+          "id": "sent-021",
+          "text": "El poblado me sorprendió: los habitantes vestían como guerreros mayas de las estelas clásicas, con taparrabos bordados, plumas en el cabello y copiosas joyas de jade.",
+          "translationRu": "Деревня меня поразила: жители были одеты как майянские воины с классических стел — в вышитые набедренные повязки, с перьями в волосах и обилием нефритовых украшений."
         },
         {
-          "id": "sent-017",
-          "text": "Al otro lado, el valle de Mictolan se desplegaba ante nosotros con sus templos dorados y sus campos de maíz de quince metros de altura.",
-          "translationRu": "По ту сторону перед нами раскинулась долина Миктолана с золотыми храмами и кукурузными полями высотой пятнадцать метров."
+          "id": "sent-022",
+          "text": "En el centro del poblado se alzaba una pirámide de piedra de unos quince metros, cubierta de musgo pero con los glifos de la fachada todavía legibles.",
+          "translationRu": "В центре деревни возвышалась каменная пирамида метров пятнадцати высотой — покрытая мхом, но с глифами на фасаде, ещё вполне читаемыми."
         }
       ]
     },
@@ -127,19 +152,29 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "El secreto de ese crecimiento prodigioso y de la luz perpetua de Mictolan era un mineral radioactivo nuevo que el sabio brujo Nohul Voh había aprendido a utilizar: la nohulita.",
-          "translationRu": "Секрет этого удивительного роста и вечного света Миктолана заключался в новом радиоактивном минерале, которым научился пользоваться мудрый колдун Нохул Вох — ноулите."
+          "id": "sent-023",
+          "text": "Katchilcán era un hombre de más de ochenta años, delgado como un junco, con los ojos de un color ámbar insólito y una voz que parecía brotar de las profundidades de la tierra.",
+          "translationRu": "Качильчан был мужчиной далеко за восемьдесят — тощий, как тростник, с необычными янтарными глазами и голосом, будто исходящим из глубины земли."
         },
         {
-          "id": "sent-019",
-          "text": "La nohulita también explicaba la misteriosa esfera verde de Nohul Voh que flotaba y giraba sin parar, como un modelo del sistema solar: era, en la práctica, movimiento perpetuo.",
-          "translationRu": "Ноулит также объяснял загадочную зелёную сферу Нохул Воха, которая плавала и вращалась без остановки, подобно модели Солнечной системы — по сути, это было вечное движение."
+          "id": "sent-024",
+          "text": "Cuando le mostré el códice, sus manos temblorosas lo cogieron con una reverencia que me desconcertó; lo contempló durante largo rato sin pronunciar palabra.",
+          "translationRu": "Когда я показал ему кодекс, его дрожащие руки взяли его с благоговением, которое меня озадачило; он долго смотрел на него, не произнося ни слова."
         },
         {
-          "id": "sent-020",
-          "text": "El Puente de Luz, según los científicos que luego estudiaron mi relato, era un chorro de gas cargado con partículas metálicas activadas por la nohulita, tan denso que podía sostener el peso de una persona.",
-          "translationRu": "Мост Света, по заключению учёных, впоследствии изучавших мой рассказ, представлял собой струю газа, насыщенного металлическими частицами, активированными ноулитом, — настолько плотную, что она выдерживала вес человека."
+          "id": "sent-025",
+          "text": "Por fin habló en un zutugil arcaico que yo apenas comprendía, pero que Pedro, a mi lado, tradujo con voz tensa: este era el Libro de Kukulcán, el texto sagrado perdido que contenía la profecía de Mictolán.",
+          "translationRu": "Наконец он заговорил на архаическом цутухиле, который я едва понимал, но который Педро рядом со мной перевёл напряжённым голосом: это была Книга Кукулькана — утраченный священный текст, содержащий пророчество о Миктолане."
+        },
+        {
+          "id": "sent-026",
+          "text": "Según la profecía, un hombre venido del mar, marcado en el brazo izquierdo con la señal del dios, llegaría con el Libro y encontraría el camino a la ciudad perdida donde el puente de luz brillaría eternamente.",
+          "translationRu": "Согласно пророчеству, человек, пришедший с моря, отмеченный на левом плечеe знаком бога, явится с Книгой и найдёт путь к затерянному городу, где мост из света будет сиять вечно."
+        },
+        {
+          "id": "sent-027",
+          "text": "Katchilcán señaló mi antebrazo izquierdo y la cicatriz de la espuela, y los ancianos del poblado se postraron en silencio.",
+          "translationRu": "Качильчан указал на мой левый предплечь и шрам от шпоры, и старейшины деревни пали ниц в молчании."
         }
       ]
     },
@@ -147,59 +182,19 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "El hunchback sacerdote Kinchi Haman, cruel y sanguinario, se opuso a mi presencia en la ciudad y planeó sacrificar a Itza al dios del Sol, a quien debía 'desposar' mediante el ahogamiento en un pozo sagrado.",
-          "translationRu": "Горбатый жрец Кинчи Хаман — жестокий и кровожадный — противился моему присутствию в городе и задумал принести Итцу в жертву богу Солнца: её должны были «обвенчать» с ним, утопив в священном колодце."
-        },
-        {
-          "id": "sent-022",
-          "text": "Con la complicidad del destituido príncipe Azcopil y los consejos del adivino Nohul Voh, quien tatué en mi pecho la marca secreta del clan Tutul Xius, me enfrenté al sacerdote ante todo el pueblo.",
-          "translationRu": "В сговоре со свергнутым принцем Ацопилем и при советах прорицателя Нохул Воха, который вытатуировал у меня на груди тайный знак клана Тутуль Шиус, я противостал жрецу перед всем народом."
-        },
-        {
-          "id": "sent-023",
-          "text": "Salvé a Itza en el último momento y Kinchi Haman cayó en el pozo sagrado de los sacrificios, víctima de su propia trampa.",
-          "translationRu": "Я спас Итцу в последний момент, а Кинчи Хаман сам упал в священный жертвенный колодец — жертва собственной западни."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-024",
-          "text": "Coronado rey el príncipe Azcopil, Itza y yo emprendimos la huida siguiendo el Camino de los Símbolos que Nohul Voh me había mostrado en su 'espejo de humo'.",
-          "translationRu": "После коронации принца Ацопиля королём мы с Итцей пустились в бегство по Пути Символов, который Нохул Вох показал мне в своём «дымовом зеркале»."
-        },
-        {
-          "id": "sent-025",
-          "text": "Un tubo de bambú con nohulita revelaba las flechas verdes grabadas en la roca de la cueva, guiándonos a través de su laberinto hasta la salida.",
-          "translationRu": "Бамбуковая трубка с ноулитом обнаруживала зелёные стрелки, высеченные в скале пещеры, и направляла нас через её лабиринт к выходу."
-        },
-        {
-          "id": "sent-026",
-          "text": "Construimos una balsa y bajamos el río, pasando por una gruta subterránea, hasta llegar a un lago donde nos recibieron indios semicivilizados.",
-          "translationRu": "Мы построили плот и сплыли вниз по реке, проходя через подземную пещеру, пока не достигли озера, где нас встретили полуцивилизованные индейцы."
-        },
-        {
-          "id": "sent-027",
-          "text": "Para mi asombro, el Camino de los Símbolos nos había llevado casi hasta la puerta del Padre José, el mismo cura que me había ayudado al principio de mi viaje.",
-          "translationRu": "К моему изумлению, Путь Символов вывел нас почти к дверям Падре Хосе — того самого священника, который помогал мне в самом начале путешествия."
-        },
-        {
           "id": "sent-028",
-          "text": "Fray José, estupefacto y lloroso de alegría, nos casó en su pequeña capilla, convirtiendo ese hallazgo casual de Vigo en el origen de la más feliz de las aventuras.",
-          "translationRu": "Брат Хосе, изумлённый и плачущий от радости, обвенчал нас в своей маленькой часовне, превратив ту случайную находку в Виго в начало счастливейшего из приключений."
+          "text": "Esa noche, sentado junto al fuego mientras Katchilcán me traducía pasaje por pasaje, comprendí que el códice describía una ciudad maya que sobrevivía aislada en algún lugar de los bosques de Guatemala, preservando una civilización intacta desde antes de la conquista.",
+          "translationRu": "В ту ночь, сидя у огня пока Качильчан переводил мне отрывок за отрывком, я понял, что кодекс описывает майянский город, в изоляции сохранившийся где-то в лесах Гватемалы, с нетронутой цивилизацией со времён до конкисты."
         },
         {
           "id": "sent-029",
-          "text": "Un año después, un avión del gobierno guatemalteco sobrevolaba la región y reportó un inmenso lago donde antes estaba el valle de Mictolan: un terremoto había enterrado la ciudad oculta bajo las aguas para siempre.",
-          "translationRu": "Год спустя гватемальский военный самолёт пролетел над этим краем и сообщил об огромном озере там, где прежде была долина Миктолана: землетрясение навечно погрузило скрытый город под воду."
+          "text": "Tomé la decisión que cambiaría mi vida: buscaría Mictolán.",
+          "translationRu": "Я принял решение, которое изменит мою жизнь: я найду Миктолан."
         },
         {
           "id": "sent-030",
-          "text": "Hoy, mientras escribo estas líneas, Itza está sentada en la hamaca del porche, y su piel dorada brilla al sol como la profecía de Kukulcán que al fin se cumplió.",
-          "translationRu": "Сегодня, пока я пишу эти строки, Итца сидит в гамаке на веранде, и её золотистая кожа сверкает на солнце, как пророчество Кукулькана, что наконец исполнилось."
+          "text": "Copié a mano cada página del códice con tinta india, guardé el original en manos de Katchilcán como le correspondía, y al tercer día partí rumbo al interior desconocido, con una brújula, un rifle y la bendición del anciano.",
+          "translationRu": "Я от руки скопировал каждую страницу кодекса тушью, оставил оригинал на хранение Качильчану — как тому и подобало — и на третий день отправился вглубь неизведанных земель с компасом, винтовкой и благословением старика."
         }
       ]
     }

@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El Puente de Luz"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,18 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Un día compré un libro viejo en España.",
-          "translationRu": "Однажды я купил старую книгу в Испании."
+          "text": "Soy etnólogo y viajé mucho por América.",
+          "translationRu": "Я этнолог и много путешествовал по Америке."
         },
         {
           "id": "sent-002",
-          "text": "Dentro del libro encontré un papel antiguo con figuras de colores.",
-          "translationRu": "Внутри книги я нашёл старинный листок с цветными рисунками."
+          "text": "Un día, mi barco paró en el puerto de Vigo, en España.",
+          "translationRu": "Однажды моё судно остановилось в порту Виго, в Испании."
         },
         {
           "id": "sent-003",
-          "text": "Era un códice maya, un documento muy, muy antiguo.",
-          "translationRu": "Это был майянский кодекс — очень, очень древний документ."
+          "text": "Decidí caminar por la ciudad y buscar libros antiguos.",
+          "translationRu": "Я решил прогуляться по городу и поискать старые книги."
         }
       ]
     },
@@ -33,23 +33,18 @@
       "sentences": [
         {
           "id": "sent-004",
-          "text": "Viajé a México y Guatemala para saber qué decía el papel.",
-          "translationRu": "Я отправился в Мексику и Гватемалу, чтобы узнать, что написано на листке."
+          "text": "Entré en una tienda pequeña en una plaza antigua.",
+          "translationRu": "Я зашёл в маленький магазинчик на старинной площади."
         },
         {
           "id": "sent-005",
-          "text": "Un sacerdote viejo llamado Katchilcan leyó el códice.",
-          "translationRu": "Старый жрец по имени Качильчан прочитал кодекс."
+          "text": "El dueño se llamaba Miguel Salceda y dormía al sol.",
+          "translationRu": "Хозяина звали Мигель Сальседа, и он дремал на солнышке."
         },
         {
           "id": "sent-006",
-          "text": "El códice hablaba de una ciudad secreta llamada Mictolan.",
-          "translationRu": "В кодексе говорилось о тайном городе, который назывался Миктолан."
-        },
-        {
-          "id": "sent-007",
-          "text": "Solo el portador del libro podía llegar a esa ciudad.",
-          "translationRu": "Только тот, кто нёс эту книгу, мог добраться до этого города."
+          "text": "Me saludó con alegría y me ofreció vino.",
+          "translationRu": "Он поприветствовал меня с радостью и предложил вино."
         }
       ]
     },
@@ -57,24 +52,24 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-007",
+          "text": "Compré dos libros viejos por diez pesetas.",
+          "translationRu": "Я купил две старые книги за десять песет."
+        },
+        {
           "id": "sent-008",
-          "text": "Empecé el viaje hacia las montañas con mis guías indios.",
-          "translationRu": "Я отправился в путь к горам вместе со своими проводниками-индейцами."
+          "text": "Cuando pagué, un papel cayó de uno de los libros.",
+          "translationRu": "Когда я платил, из одной из книг выпала бумага."
         },
         {
           "id": "sent-009",
-          "text": "El camino era muy difícil y peligroso.",
-          "translationRu": "Дорога была очень трудной и опасной."
+          "text": "El papel tenía figuras rojas, azules y verdes.",
+          "translationRu": "На бумаге были красные, синие и зелёные рисунки."
         },
         {
           "id": "sent-010",
-          "text": "Pasé por un cañón terrible con agua y muerte.",
-          "translationRu": "Я прошёл через страшное ущелье, полное воды и смерти."
-        },
-        {
-          "id": "sent-011",
-          "text": "Mis guías murieron, pero yo sobreviví con el códice.",
-          "translationRu": "Мои проводники погибли, но я выжил вместе с кодексом."
+          "text": "Pagué dos pesos más y guardé el papel.",
+          "translationRu": "Я заплатил ещё два песо и спрятал бумагу."
         }
       ]
     },
@@ -82,24 +77,19 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-011",
+          "text": "En el barco, abrí el libro y encontré el papel otra vez.",
+          "translationRu": "На корабле я открыл книгу и снова нашёл бумагу."
+        },
+        {
           "id": "sent-012",
-          "text": "Con un indio valiente llamado Maliche continuamos el camino.",
-          "translationRu": "Вместе с храбрым индейцем по имени Маличе мы продолжили путь."
+          "text": "Era un códice maya, un documento muy antiguo y raro.",
+          "translationRu": "Это был майянский кодекс — очень старый и редкий документ."
         },
         {
           "id": "sent-013",
-          "text": "Pasamos por un túnel lleno de serpientes de cascabel.",
-          "translationRu": "Мы прошли через туннель, полный гремучих змей."
-        },
-        {
-          "id": "sent-014",
-          "text": "Un pécari salvó nuestra vida al atacar a las serpientes.",
-          "translationRu": "Пекари спас нашу жизнь, напав на змей."
-        },
-        {
-          "id": "sent-015",
-          "text": "Luego cruzamos desiertos muy calientes y un lago con caimanes.",
-          "translationRu": "Затем мы пересекли раскалённые пустыни и озеро с крокодилами."
+          "text": "Sólo existen unos pocos códices mayas en el mundo.",
+          "translationRu": "В мире существует лишь несколько майянских кодексов."
         }
       ]
     },
@@ -107,19 +97,19 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-014",
+          "text": "Fui a muchos museos y hablé con muchos expertos.",
+          "translationRu": "Я посетил много музеев и поговорил со многими экспертами."
+        },
+        {
+          "id": "sent-015",
+          "text": "Todos decían que el códice era real y muy valioso.",
+          "translationRu": "Все говорили, что кодекс настоящий и очень ценный."
+        },
+        {
           "id": "sent-016",
-          "text": "Cerca de los volcanes, un monstruo prehistórico mató a Maliche.",
-          "translationRu": "Вблизи вулканов доисторический монстр убил Маличе."
-        },
-        {
-          "id": "sent-017",
-          "text": "Yo corrí y el monstruo cayó en un cráter de ceniza caliente.",
-          "translationRu": "Я побежал, и монстр упал в кратер с раскалённым пеплом."
-        },
-        {
-          "id": "sent-018",
-          "text": "Solo, entré en una cueva de murciélagos muy grande.",
-          "translationRu": "Один, я вошёл в огромную пещеру летучих мышей."
+          "text": "Pero nadie pudo leer el texto.",
+          "translationRu": "Но никто не смог прочитать текст."
         }
       ]
     },
@@ -127,24 +117,19 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-017",
+          "text": "En México, el Profesor Cervantes me habló de un sacerdote especial.",
+          "translationRu": "В Мексике профессор Серванtes рассказал мне об особом священнике."
+        },
+        {
+          "id": "sent-018",
+          "text": "El Padre José vivía en Guatemala y conocía los glifos mayas.",
+          "translationRu": "Падре Хосе жил в Гватемале и знал майянские глифы."
+        },
+        {
           "id": "sent-019",
-          "text": "Al final de la cueva vi una luz de muchos colores sobre un abismo.",
-          "translationRu": "В конце пещеры я увидел разноцветный свет над пропастью."
-        },
-        {
-          "id": "sent-020",
-          "text": "Una mujer muy bella cruzó el abismo caminando sobre la luz.",
-          "translationRu": "Прекрасная женщина перешла пропасть, идя прямо по свету."
-        },
-        {
-          "id": "sent-021",
-          "text": "Ella se llamaba Itza y era de la ciudad secreta.",
-          "translationRu": "Её звали Итца, и она была из тайного города."
-        },
-        {
-          "id": "sent-022",
-          "text": "Yo también crucé el puente de luz y llegué a Mictolan.",
-          "translationRu": "Я тоже перешёл по световому мосту и попал в Миктолан."
+          "text": "Viajé hasta el pequeño pueblo de Xibaltango para encontrarlo.",
+          "translationRu": "Я отправился в маленький посёлок Хибальтанго, чтобы его найти."
         }
       ]
     },
@@ -152,19 +137,19 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "Mictolan era un valle verde y hermoso con una ciudad grande.",
-          "translationRu": "Миктолан был зелёной прекрасной долиной с большим городом."
+          "id": "sent-020",
+          "text": "El Padre José era gordo, alegre y muy inteligente.",
+          "translationRu": "Падре Хосе был толстым, весёлым и очень умным."
         },
         {
-          "id": "sent-024",
-          "text": "Los mayas allí tenían una luz especial de un mineral raro.",
-          "translationRu": "Живущие там майя использовали особый свет от редкого минерала."
+          "id": "sent-021",
+          "text": "Cuando vio el códice, dijo que era un texto sagrado sobre Kukulcán.",
+          "translationRu": "Увидев кодекс, он сказал, что это священный текст о Кукулькане."
         },
         {
-          "id": "sent-025",
-          "text": "El sacerdote malo Kinchi Haman quería todo el poder.",
-          "translationRu": "Злой жрец Кинчи Хаман хотел обладать всей властью."
+          "id": "sent-022",
+          "text": "Kukulcán es el dios serpiente con plumas de los mayas.",
+          "translationRu": "Кукулькан — это майянский бог-пернатый змей."
         }
       ]
     },
@@ -172,29 +157,29 @@
       "id": "para-008",
       "sentences": [
         {
+          "id": "sent-023",
+          "text": "El Padre me dijo que sólo un sacerdote maya antiguo podía leer el códice.",
+          "translationRu": "Падре сказал мне, что прочитать кодекс может лишь древний майянский жрец."
+        },
+        {
+          "id": "sent-024",
+          "text": "Había un sacerdote muy viejo llamado Katchilcan en las montañas de Guatemala.",
+          "translationRu": "В горах Гватемалы жил очень старый жрец по имени Катчилькан."
+        },
+        {
+          "id": "sent-025",
+          "text": "Primero tuve que aprender el idioma zutugil.",
+          "translationRu": "Сначала мне пришлось выучить язык зутухиль."
+        },
+        {
           "id": "sent-026",
-          "text": "Con la ayuda del príncipe Azcopil derroté al sacerdote malo.",
-          "translationRu": "С помощью принца Ацопиля я победил злого жреца."
+          "text": "Pasé seis semanas aprendiendo el idioma con un indio llamado Pedro.",
+          "translationRu": "Я провёл шесть недель, изучая язык с индейцем по имени Педро."
         },
         {
           "id": "sent-027",
-          "text": "Salvé a Itza de ser sacrificada.",
-          "translationRu": "Я спас Итцу от жертвоприношения."
-        },
-        {
-          "id": "sent-028",
-          "text": "Seguimos el camino de los símbolos mayas por río hasta la civilización.",
-          "translationRu": "Мы следовали по пути майянских символов вниз по реке к цивилизации."
-        },
-        {
-          "id": "sent-029",
-          "text": "El Padre José nos casó en su pequeña iglesia.",
-          "translationRu": "Падре Хосе обвенчал нас в своей маленькой церкви."
-        },
-        {
-          "id": "sent-030",
-          "text": "Itza y yo vivimos felices, y la ciudad de Mictolan desapareció para siempre.",
-          "translationRu": "Мы с Итцей жили счастливо, а город Миктолан исчез навсегда."
+          "text": "Luego empecé el largo viaje hacia las montañas para encontrar a Katchilcan.",
+          "translationRu": "Затем я начал долгий путь в горы, чтобы найти Катчилькана."
         }
       ]
     }
