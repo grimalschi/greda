@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La Gente del Fuego"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "En noviembre de 1940, un meteorito luminoso cayó en un campo cerca de Boston.",
-          "translationRu": "В ноябре 1940 года на поле под Бостоном упал светящийся метеорит."
+          "text": "El primer meteorito extraño cayó a la Tierra en noviembre de 1940, cerca de Brookline, Massachusetts.",
+          "translationRu": "Первый странный метеорит упал на Землю в ноябре 1940 года, вблизи Бруклина, штат Массачусетс."
         },
         {
           "id": "sent-002",
-          "text": "El periodista Bob Trevor fue a investigar la extraña luz roja y verde que salía de la tierra.",
-          "translationRu": "Журналист Боб Тревор отправился расследовать странный красно-зелёный свет, исходивший из земли."
+          "text": "Un granjero lo descubrió al amanecer del día 11 y vio una extraña luz que surgía de la tierra.",
+          "translationRu": "Фермер обнаружил его на рассвете 11-го числа и увидел странный свет, исходящий из земли."
         },
         {
           "id": "sent-003",
-          "text": "La luz no quemaba normalmente, pero destruía todo lo que tocaba.",
-          "translationRu": "Свет не горел обычным образом, но уничтожал всё, до чего касался."
+          "text": "El observatorio de Harvard registró la aparición de una nueva estrella que brilló durante pocas horas y luego desapareció.",
+          "translationRu": "Обсерватория Гарварда зафиксировала появление новой звезды, которая светила несколько часов, а затем исчезла."
         },
         {
           "id": "sent-004",
-          "text": "El profesor Newland explicó que esta luz era un arma de los habitantes de Mercurio.",
-          "translationRu": "Профессор Ньюланд объяснил, что этот свет является оружием жителей Меркурия."
+          "text": "Todos los observadores coincidieron en que era un cuerpo celeste de un tipo completamente nuevo.",
+          "translationRu": "Все наблюдатели сошлись во мнении, что это было небесное тело совершенно нового типа."
         }
       ]
     },
@@ -38,18 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Según Newland, Mercurio siempre muestra la misma cara al sol, por eso tiene zonas de luz, penumbra y oscuridad.",
-          "translationRu": "По словам Ньюланда, Меркурий всегда обращён к Солнцу одной стороной, поэтому там есть зоны света, сумерек и тьмы."
+          "text": "Lo que el granjero vio era un fuego circular de unos treinta pies de diámetro que ardía en el centro de su campo.",
+          "translationRu": "То, что фермер увидел, было круговым огнём диаметром около тридцати футов, горевшим в центре его поля."
         },
         {
           "id": "sent-006",
-          "text": "En el País de la Luz vivía una raza civilizada con mujeres aladas.",
-          "translationRu": "В Стране Света жила цивилизованная раса с крылатыми женщинами."
+          "text": "La luz se extendía en rayos paralelos desde el suelo hacia arriba, como un enorme reflector enterrado que proyectara su haz al cielo.",
+          "translationRu": "Свет распространялся параллельными лучами от земли вверх, как огромный прожектор, зарытый в землю и направляющий луч в небо."
         },
         {
           "id": "sent-007",
-          "text": "El profesor advirtió que los mercurianos iban a atacar la Tierra en primavera.",
-          "translationRu": "Профессор предупредил, что меркурианцы весной нападут на Землю."
+          "text": "En la base el fuego era de un verde intenso, que se transformaba en rojo a unos cincuenta pies de altura.",
+          "translationRu": "У основания огонь был насыщенно-зелёным, переходящим в красный на высоте около пятидесяти футов."
+        },
+        {
+          "id": "sent-008",
+          "text": "La luz no bailaba como las llamas normales, sino que brillaba de manera constante, sin producir humo.",
+          "translationRu": "Свет не плясал, как обычное пламя, а светился ровно, не производя дыма."
         }
       ]
     },
@@ -57,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "En marzo de 1941, una nave mercuriana aterrizó en el desierto de Wyoming y destruyó varios pueblos.",
-          "translationRu": "В марте 1941 года меркурианский корабль сел в пустыне Вайоминга и уничтожил несколько городков."
-        },
-        {
           "id": "sent-009",
-          "text": "Bob Trevor viajó a la zona de peligro, pero su avión cayó y los mercurianos lo capturaron.",
-          "translationRu": "Боб Тревор прилетел в опасную зону, но его самолёт разбился, и меркурианцы взяли его в плен."
+          "text": "Yo era periodista del Boston Observer y llegué a Brookline al mediodía; casi mil personas observaban la extraña luz.",
+          "translationRu": "Я был журналистом «Бостон Обсервер» и прибыл в Бруклин в полдень — почти тысяча человек наблюдала странный свет."
         },
         {
           "id": "sent-010",
-          "text": "El líder de los invasores, Tao, era más alto que los demás y tenía pelo negro.",
-          "translationRu": "Вождь захватчиков по имени Тао был выше остальных и имел чёрные волосы."
+          "text": "Me acerqué al borde del hoyo y pude ver en el fondo la parte superior de una enorme esfera gris, quemada y marcada: el meteorito.",
+          "translationRu": "Я приблизился к краю ямы и увидел на дне верхнюю часть огромной серой сферы, обожжённой и изрытой: это был метеорит."
         },
         {
           "id": "sent-011",
-          "text": "Bob observó que los mercurianos eran muy débiles porque la gravedad terrestre era demasiado fuerte para ellos.",
-          "translationRu": "Боб заметил, что меркурианцы очень слабы, ведь земная гравитация была для них слишком сильной."
+          "text": "Alguien lanzó una bola de papel al interior y esta se carbonizó lentamente sin llegar a arder en llamas.",
+          "translationRu": "Кто-то бросил бумажный шарик внутрь, и тот медленно обуглился, так и не вспыхнув пламенем."
+        },
+        {
+          "id": "sent-012",
+          "text": "Un hombre trató de apagar el fuego con un cubo de agua, pero el agua solo produjo un rugido de vapor sin ningún efecto.",
+          "translationRu": "Мужчина попытался залить огонь ведром воды, но вода лишь произвела рёв пара, не оказав никакого эффекта."
         }
       ]
     },
@@ -82,19 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Una noche Bob escapó del campamento mercuriano cuando una bomba creó confusión.",
-          "translationRu": "Однажды ночью, когда взрыв бомбы вызвал суматоху, Боб сбежал из лагеря меркурианцев."
-        },
-        {
           "id": "sent-013",
-          "text": "Él contó todo al general Price, que decidió esperar hasta que los invasores tuvieran hambre.",
-          "translationRu": "Он рассказал всё генералу Прайсу, который решил ждать, пока захватчики не проголодаются."
+          "text": "Poco después ocurrió la primera tragedia: un avión que sobrevolaba el campo pasó directamente sobre la luz.",
+          "translationRu": "Вскоре произошла первая трагедия: самолёт, летевший над полем, прошёл прямо над светом."
         },
         {
           "id": "sent-014",
-          "text": "Mientras tanto, en Florida, Alan Newland encontró a una chica mercuriana llamada Miela.",
-          "translationRu": "Тем временем во Флориде Алан Ньюланд нашёл меркурианскую девушку по имени Миэла."
+          "text": "El piloto perdió el control, el avión se incendió y cayó en una larga espiral de humo.",
+          "translationRu": "Пилот потерял управление, самолёт вспыхнул и упал в длинной спирали дыма."
+        },
+        {
+          "id": "sent-015",
+          "text": "Esa noche el segundo meteorito cayó en Alaska, con los mismos fenómenos de luz roja y verde.",
+          "translationRu": "В ту же ночь второй метеорит упал на Аляске, с теми же явлениями красно-зелёного света."
+        },
+        {
+          "id": "sent-016",
+          "text": "Una ola de frío intenso en noviembre apagó finalmente la luz de Brookline.",
+          "translationRu": "Волна сильных морозов в ноябре наконец погасила свет в Бруклине."
         }
       ]
     },
@@ -102,24 +112,19 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Miela tenía unas alas rojas enormes y era muy frágil porque la gravedad de la Tierra la pesaba mucho.",
-          "translationRu": "У Миэлы были огромные красные крылья, и она была очень хрупкой, потому что земная гравитация давила на неё."
-        },
-        {
-          "id": "sent-016",
-          "text": "Ella aprendió inglés en pocas semanas con una memoria extraordinaria.",
-          "translationRu": "За несколько недель она выучила английский — у неё была необыкновенная память."
-        },
-        {
           "id": "sent-017",
-          "text": "Miela contó que Tao era un hombre ambicioso al que ella había rechazado como esposo.",
-          "translationRu": "Миэла рассказала, что Тао — честолюбивый человек, которому она отказала в замужестве."
+          "text": "En febrero de 1941, el profesor Newland publicó su famosa teoría sobre la «Luz Mercuriana».",
+          "translationRu": "В феврале 1941 года профессор Ньюленд опубликовал свою знаменитую теорию о «Меркурианском свете»."
         },
         {
           "id": "sent-018",
-          "text": "Tao fue desterrado al País del Crepúsculo, donde preparó una invasión de la Tierra con cien naves.",
-          "translationRu": "Тао был сослан в Страну Сумерек, где готовил вторжение на Землю с сотней кораблей."
+          "text": "El profesor era el astrónomo más importante de América y su familia incluía a su hijo Alan y su hija Beth.",
+          "translationRu": "Профессор был самым известным астрономом Америки; в его семью входили сын Алан и дочь Бет."
+        },
+        {
+          "id": "sent-019",
+          "text": "Newland afirmó que los meteoros y los fenómenos astronómicos de noviembre demostraban la existencia de vida inteligente en Mercurio.",
+          "translationRu": "Ньюленд утверждал, что метеориты и астрономические явления ноября доказывают существование разумной жизни на Меркурии."
         }
       ]
     },
@@ -127,19 +132,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-019",
-          "text": "Alan y Miela se casaron, y ella volvió a Mercurio con sus alas libres, porque Alan prometió que nunca se las cortaría.",
-          "translationRu": "Алан и Миэла поженились, и она вернулась на Меркурий со свободными крыльями, ведь Алан пообещал никогда их не обрезать."
-        },
-        {
           "id": "sent-020",
-          "text": "En Mercurio Alan era muy poderoso, porque la gravedad era mucho menor que en la Tierra.",
-          "translationRu": "На Меркурии Алан был очень силён, ведь притяжение там намного слабее, чем на Земле."
+          "text": "Mercurio siempre presenta la misma cara al sol, así que tiene un lado de día perpetuo y otro de noche eterna.",
+          "translationRu": "Меркурий всегда обращён к Солнцу одной стороной, поэтому одна его сторона в вечном дне, другая — в вечной ночи."
         },
         {
           "id": "sent-021",
-          "text": "Él y su amigo Ollie Mercer, un joven irlandés que Tao había traído desde Wyoming, organizaron una resistencia.",
-          "translationRu": "Он вместе с другом Олли Мёрсером — молодым ирландцем, которого Тао привёз из Вайоминга, — организовали сопротивление."
+          "text": "El profesor creía que la atmósfera del planeta lo hacía habitable en su lado oscuro.",
+          "translationRu": "Профессор считал, что атмосфера планеты делает её тёмную сторону пригодной для жизни."
+        },
+        {
+          "id": "sent-022",
+          "text": "Según él, esos «meteoros» eran misiles lanzados por seres inteligentes de Mercurio.",
+          "translationRu": "По его словам, эти «метеориты» были снарядами, выпущенными разумными существами с Меркурия."
+        },
+        {
+          "id": "sent-023",
+          "text": "Advirtió que Mercurio se acercaría de nuevo a la Tierra en marzo de 1941 y que podíamos sufrir un ataque mucho más grave.",
+          "translationRu": "Он предупредил, что Меркурий снова приблизится к Земле в марте 1941 года и что нас может ждать гораздо более серьёзная атака."
         }
       ]
     },
@@ -147,89 +157,19 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-022",
-          "text": "Las mujeres del País de la Luz tenían alas, pero la ley obligaba a cortarlas cuando se casaban.",
-          "translationRu": "У женщин Страны Света были крылья, но закон обязывал обрезать их при замужестве."
-        },
-        {
-          "id": "sent-023",
-          "text": "Miela reunió a las mujeres en secreto en las montañas y las convenció de luchar juntas.",
-          "translationRu": "Миэла тайно собрала женщин в горах и убедила их бороться вместе."
-        },
-        {
           "id": "sent-024",
-          "text": "Alan organizó a las chicas en un ejército volador armado con cilindros de rayos de luz.",
-          "translationRu": "Алан организовал из девушек летающую армию, вооружённую световыми цилиндрами."
+          "text": "El profesor también dijo que los mercurianos probablemente tendrían un aspecto bastante parecido a los seres humanos.",
+          "translationRu": "Профессор также сказал, что меркурианцы, вероятно, будут весьма похожи на людей."
         },
         {
           "id": "sent-025",
-          "text": "Cuando los conspiradores de Tao mataron al rey, Alan tomó el mando del País de la Luz.",
-          "translationRu": "Когда заговорщики Тао убили короля, Алан взял управление Страной Света в свои руки."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
+          "text": "Creía que la vida inteligente en distintos planetas del sistema solar no difería mucho de la nuestra.",
+          "translationRu": "Он считал, что разумная жизнь на разных планетах солнечной системы не слишком отличается от нашей."
+        },
         {
           "id": "sent-026",
-          "text": "Tao atacó por mar con treinta barcos armados, pero las chicas voladoras los derrotaron en el Mar Estrecho.",
-          "translationRu": "Тао напал по морю на тридцати вооружённых кораблях, но летящие девушки разгромили их в Узком море."
-        },
-        {
-          "id": "sent-027",
-          "text": "La batalla fue terrible y murieron casi ciento cincuenta chicas, pero la victoria fue de Alan.",
-          "translationRu": "Битва была ужасной, погибло почти сто пятьдесят девушек, но победа досталась Алану."
-        },
-        {
-          "id": "sent-028",
-          "text": "Tao escapó a la Ciudad Oscura, donde tenía más armas y hombres.",
-          "translationRu": "Тао бежал в Тёмный город, где у него было больше оружия и людей."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-029",
-          "text": "Ollie Mercer descubrió un gran depósito de azufre cerca de la Ciudad Oscura.",
-          "translationRu": "Олли Мёрсер обнаружил большое залежи серы вблизи Тёмного города."
-        },
-        {
-          "id": "sent-030",
-          "text": "Con el viento soplando hacia la ciudad, encendieron el azufre y sus gases mortales invadieron las calles.",
-          "translationRu": "Когда ветер дул в сторону города, они подожгли серу, и её смертоносные газы заполнили улицы."
-        },
-        {
-          "id": "sent-031",
-          "text": "Tao intentó huir en su nave espacial, pero Alan lo derribó con el rayo de luz.",
-          "translationRu": "Тао попытался улететь на своём космическом корабле, но Алан сбил его световым лучом."
-        },
-        {
-          "id": "sent-032",
-          "text": "Con Tao muerto, la amenaza sobre la Tierra desapareció para siempre.",
-          "translationRu": "С гибелью Тао угроза для Земли исчезла навсегда."
-        }
-      ]
-    },
-    {
-      "id": "para-010",
-      "sentences": [
-        {
-          "id": "sent-033",
-          "text": "Alan cambió la ley que obligaba a cortar las alas de las mujeres al casarse.",
-          "translationRu": "Алан отменил закон, обязывавший обрезать крылья женщин при замужестве."
-        },
-        {
-          "id": "sent-034",
-          "text": "Después Alan, Miela, Ollie y Anina viajaron de vuelta a la Tierra.",
-          "translationRu": "Затем Алан, Миэла, Олли и Анина отправились обратно на Землю."
-        },
-        {
-          "id": "sent-035",
-          "text": "En la playa de Argentina, bajo las estrellas, Ollie y Anina se declararon su amor.",
-          "translationRu": "На аргентинском пляже под звёздами Олли и Анина признались друг другу в любви."
+          "text": "La prensa en su mayoría trató el asunto con humor, y el público no tomó la advertencia en serio.",
+          "translationRu": "Пресса в основном отнеслась к этому с юмором, и общественность не приняла предупреждение всерьёз."
         }
       ]
     }

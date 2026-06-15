@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La Gente del Fuego"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,28 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "En noviembre de 1940, cayó una estrella del cielo cerca de Boston.",
-          "translationRu": "В ноябре 1940 года рядом с Бостоном упала звезда с неба."
+          "text": "En noviembre de 1940, un granjero encontró algo muy extraño en su campo cerca de Boston.",
+          "translationRu": "В ноябре 1940 года фермер обнаружил нечто очень странное на своём поле недалеко от Бостона."
         },
         {
           "id": "sent-002",
-          "text": "Era una luz roja y verde, muy brillante.",
-          "translationRu": "Это был красно-зелёный свет, очень яркий."
+          "text": "Había un gran fuego circular en el suelo, de unos diez metros de diámetro.",
+          "translationRu": "На земле был большой круглый огонь диаметром около десяти метров."
         },
         {
           "id": "sent-003",
-          "text": "El periodista Bob Trevor fue al campo a verla.",
-          "translationRu": "Журналист Боб Тревор пришёл на поле, чтобы её посмотреть."
+          "text": "La luz subía del suelo directamente hacia el cielo, sin fin visible.",
+          "translationRu": "Свет поднимался от земли прямо в небо, без видимого конца."
         },
         {
           "id": "sent-004",
-          "text": "La luz salía de un gran agujero en la tierra.",
-          "translationRu": "Свет исходил из большой ямы в земле."
-        },
-        {
-          "id": "sent-005",
-          "text": "Era muy extraña y no daba calor normal.",
-          "translationRu": "Она была очень странной и не давала обычного тепла."
+          "text": "El color era verde en la base y rojo arriba, y no había humo.",
+          "translationRu": "Цвет был зелёным у основания и красным вверху, и дыма не было."
         }
       ]
     },
@@ -42,19 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-005",
+          "text": "Yo era el periodista Bob Trevor y fui al campo al mediodía para escribir la historia.",
+          "translationRu": "Я был журналистом Бобом Тревором и пришёл на поле в полдень, чтобы написать репортаж."
+        },
+        {
           "id": "sent-006",
-          "text": "El profesor Newland dijo que la luz venía del planeta Mercurio.",
-          "translationRu": "Профессор Ньюланд сказал, что свет прилетел с планеты Меркурий."
+          "text": "Casi mil personas miraban la extraña luz verde y roja.",
+          "translationRu": "Почти тысяча человек наблюдала за странным зелёно-красным светом."
         },
         {
           "id": "sent-007",
-          "text": "Él creyó que los habitantes de Mercurio querían atacar la Tierra.",
-          "translationRu": "Он считал, что жители Меркурия хотят напасть на Землю."
+          "text": "En el fondo del agujero, vi una gran esfera gris enterrada en la tierra.",
+          "translationRu": "На дне ямы я увидел большую серую сферу, зарытую в землю."
         },
         {
           "id": "sent-008",
-          "text": "Mucha gente pensó que era una broma.",
-          "translationRu": "Многие люди думали, что это шутка."
+          "text": "Era el meteorito que cayó del espacio.",
+          "translationRu": "Это был метеорит, упавший из космоса."
         }
       ]
     },
@@ -63,23 +63,18 @@
       "sentences": [
         {
           "id": "sent-009",
-          "text": "En marzo de 1941, una nave espacial llegó a Wyoming.",
-          "translationRu": "В марте 1941 года в Вайоминг прилетел космический корабль."
+          "text": "Un hombre tiró un trozo de madera al agujero y se volvió negro, pero no ardió.",
+          "translationRu": "Один человек бросил деревяшку в яму — она почернела, но не загорелась."
         },
         {
           "id": "sent-010",
-          "text": "Los mercurianos destruyeron varios pueblos con su rayo de luz.",
-          "translationRu": "Меркурианцы уничтожили несколько деревень своим световым лучом."
+          "text": "Otro hombre tiró un cubo de agua, pero la luz no cambió nada.",
+          "translationRu": "Другой человек вылил ведро воды, но свет совсем не изменился."
         },
         {
           "id": "sent-011",
-          "text": "Bob Trevor fue allí para escribir sobre lo que pasaba.",
-          "translationRu": "Боб Тревор поехал туда, чтобы написать о происходящем."
-        },
-        {
-          "id": "sent-012",
-          "text": "Su avión cayó y los mercurianos lo capturaron.",
-          "translationRu": "Его самолёт упал, и меркурианцы взяли его в плен."
+          "text": "Un avión pasó por encima del fuego y cayó en llamas: todos miraron con miedo.",
+          "translationRu": "Самолёт пролетел над огнём и упал в пламени — все смотрели со страхом."
         }
       ]
     },
@@ -87,29 +82,19 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-012",
+          "text": "Aquella noche, otro meteorito cayó cerca de Alaska con la misma luz.",
+          "translationRu": "В ту же ночь другой метеорит упал близ Аляски с таким же светом."
+        },
+        {
           "id": "sent-013",
-          "text": "El líder de los mercurianos se llamaba Tao.",
-          "translationRu": "Вождя меркурианцев звали Тао."
+          "text": "Una semana después, con mucho frío, la luz de Brookline se apagó sola.",
+          "translationRu": "Неделю спустя, в сильный холод, свет в Бруклайне погас сам по себе."
         },
         {
           "id": "sent-014",
-          "text": "Era alto y poderoso, con pelo negro.",
-          "translationRu": "Он был высоким и сильным, с чёрными волосами."
-        },
-        {
-          "id": "sent-015",
-          "text": "Bob vio que los mercurianos eran muy débiles en la Tierra.",
-          "translationRu": "Боб увидел, что меркурианцы на Земле очень слабы."
-        },
-        {
-          "id": "sent-016",
-          "text": "La gravedad de la Tierra era demasiado grande para ellos.",
-          "translationRu": "Земная гравитация была для них слишком велика."
-        },
-        {
-          "id": "sent-017",
-          "text": "Bob escapó del campamento mercuriano por la noche.",
-          "translationRu": "Ночью Боб сбежал из лагеря меркурианцев."
+          "text": "El mundo olvidó los meteoritos rápidamente.",
+          "translationRu": "Мир быстро забыл о метеоритах."
         }
       ]
     },
@@ -117,24 +102,24 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-015",
+          "text": "En febrero de 1941, el profesor Newland publicó su famosa teoría.",
+          "translationRu": "В феврале 1941 года профессор Ньюленд опубликовал свою знаменитую теорию."
+        },
+        {
+          "id": "sent-016",
+          "text": "Él dijo que los meteoritos venían del planeta Mercurio.",
+          "translationRu": "Он заявил, что метеориты прилетели с планеты Меркурий."
+        },
+        {
+          "id": "sent-017",
+          "text": "El profesor creía que había seres inteligentes en Mercurio.",
+          "translationRu": "Профессор считал, что на Меркурии существуют разумные существа."
+        },
+        {
           "id": "sent-018",
-          "text": "Alan Newland, hijo del profesor, encontró una chica de Mercurio en Florida.",
-          "translationRu": "Алан Ньюланд, сын профессора, нашёл девушку с Меркурия во Флориде."
-        },
-        {
-          "id": "sent-019",
-          "text": "Ella se llamaba Miela y tenía alas rojas grandes.",
-          "translationRu": "Её звали Миэла, и у неё были большие красные крылья."
-        },
-        {
-          "id": "sent-020",
-          "text": "Miela aprendió inglés muy rápido.",
-          "translationRu": "Миэла очень быстро выучила английский."
-        },
-        {
-          "id": "sent-021",
-          "text": "Ella contó que Tao quería conquistar la Tierra con cien naves.",
-          "translationRu": "Она рассказала, что Тао хочет завоевать Землю сотней кораблей."
+          "text": "Él avisó al mundo: Mercurio iba a acercarse a la Tierra otra vez pronto, y podría ser peligroso.",
+          "translationRu": "Он предупредил мир: Меркурий снова скоро приблизится к Земле, и это может быть опасно."
         }
       ]
     },
@@ -142,84 +127,24 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-019",
+          "text": "Fui a visitar al profesor Newland con su hijo Alan y su hija Beth.",
+          "translationRu": "Я отправился навестить профессора Ньюленда вместе с его сыном Аланом и дочерью Бет."
+        },
+        {
+          "id": "sent-020",
+          "text": "Alan era alto, rubio y muy fuerte.",
+          "translationRu": "Алан был высоким, светловолосым и очень сильным."
+        },
+        {
+          "id": "sent-021",
+          "text": "Beth era pequeña y delicada, con pelo dorado y una sonrisa bonita.",
+          "translationRu": "Бет была маленькой и хрупкой, с золотыми волосами и красивой улыбкой."
+        },
+        {
           "id": "sent-022",
-          "text": "Alan y Miela se casaron y viajaron juntos a Mercurio.",
-          "translationRu": "Алан и Миэла поженились и вместе полетели на Меркурий."
-        },
-        {
-          "id": "sent-023",
-          "text": "Allí Alan fue al País de la Luz, la ciudad de Miela.",
-          "translationRu": "Там Алан добрался до Страны Света — города Миэлы."
-        },
-        {
-          "id": "sent-024",
-          "text": "Alan era muy fuerte en Mercurio porque la gravedad era pequeña.",
-          "translationRu": "На Меркурии Алан был очень сильным, потому что гравитация там мала."
-        },
-        {
-          "id": "sent-025",
-          "text": "Él y su amigo Ollie Mercer ayudaron a las mujeres del país.",
-          "translationRu": "Он вместе с другом Олли Мёрсером помог женщинам этой страны."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
-          "id": "sent-026",
-          "text": "Las mujeres de Mercurio tenían alas, pero los hombres las cortaban al casarse.",
-          "translationRu": "У женщин Меркурия были крылья, но мужчины обрезали их при замужестве."
-        },
-        {
-          "id": "sent-027",
-          "text": "Alan y Miela lucharon contra Tao y sus hombres.",
-          "translationRu": "Алан и Миэла сражались против Тао и его людей."
-        },
-        {
-          "id": "sent-028",
-          "text": "Las chicas con alas fueron el ejército volador de Alan.",
-          "translationRu": "Девушки с крыльями стали летающей армией Алана."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-029",
-          "text": "Ganaron la batalla en el Mar Estrecho y Tao escapó a la Ciudad Oscura.",
-          "translationRu": "Они выиграли битву на Узком море, и Тао бежал в Тёмный город."
-        },
-        {
-          "id": "sent-030",
-          "text": "Alan usó fuego de azufre para vencer a Tao en la oscuridad.",
-          "translationRu": "Алан использовал серный огонь, чтобы победить Тао во тьме."
-        },
-        {
-          "id": "sent-031",
-          "text": "Tao trató de escapar en su nave, pero murió.",
-          "translationRu": "Тао попытался сбежать на своём корабле, но погиб."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-032",
-          "text": "Alan cambió la ley mala sobre las alas de las mujeres.",
-          "translationRu": "Алан отменил жестокий закон об обрезании женских крыльев."
-        },
-        {
-          "id": "sent-033",
-          "text": "Después, Alan, Miela, Ollie y Anina volvieron a la Tierra.",
-          "translationRu": "Затем Алан, Миэла, Олли и Анина вернулись на Землю."
-        },
-        {
-          "id": "sent-034",
-          "text": "Ollie y Anina se enamoraron bajo las estrellas en Argentina.",
-          "translationRu": "Олли и Анина влюбились друг в друга под звёздами в Аргентине."
+          "text": "El profesor nos explicó que la luz mercuriana era un arma peligrosa.",
+          "translationRu": "Профессор объяснил нам, что меркурианский свет является опасным оружием."
         }
       ]
     }
