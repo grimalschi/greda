@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-lions-mane",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de la melena del león"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Resulta singular, incluso para quien lleva toda una vida enfrentándose a lo insólito, que el caso más abstruso de mi dilatada carrera me sobreviniese precisamente durante el retiro que tanto había anhelado.",
+          "translationRu": "Примечательно даже для человека, всю жизнь сталкивавшегося с необычным, что самое запутанное дело за мою долгую карьеру настигло меня именно во время покоя, которого я так долго жаждал."
+        },
+        {
+          "id": "sent-002",
+          "text": "Mi villa en los acantilados de Sussex, con sus abejas y su vista al Canal, parecía el escenario menos propicio para un crimen; y, sin embargo, fue allí donde la naturaleza misma se reveló más feroz que cualquier criminal con quien hubiera yo lidiado en Baker Street.",
+          "translationRu": "Мой дом на утёсах Сассекса, с пчёлами и видом на Ла-Манш, казался наименее подходящим местом для преступления; и всё же именно там сама природа явила себя более жестокой, чем любой злодей, с которым мне доводилось иметь дело на Бейкер-стрит."
+        },
+        {
+          "id": "sent-003",
+          "text": "Mi único compañero de confianza era Harold Stackhurst, director del internado The Gables, cuya franqueza y vigor intelectual hacían de él un interlocutor infrecuente pero siempre bienvenido.",
+          "translationRu": "Единственным надёжным собеседником был Гарольд Стакхёрст, директор пансиона «Гейблс», чья прямолинейность и интеллектуальная живость делали его редким, но всегда желанным гостем."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "La mañana del suceso era de una limpidez insólita, recién lavada por el vendaval del Canal que había azotado la costa durante la noche.",
+          "translationRu": "Утро того дня отличалось необычной прозрачностью, умытое ночным шквалом с Ла-Манша, бушевавшим вarias часов."
+        },
+        {
+          "id": "sent-005",
+          "text": "Stackhurst me alcanzó en el sendero: iba a bañarse y esperaba encontrar en la laguna a Fitzroy McPherson, el joven y brillante profesor de ciencias, cuyo corazón debilitado no había podido, sin embargo, apagar su pasión por el deporte.",
+          "translationRu": "Стакхёрст догнал меня на тропе: он шёл купаться и надеялся найти в лагуне Фитцроя Макферсона — молодого блестящего учителя естественных наук, чьё ослабленное сердце всё же не смогло погасить его страсти к спорту."
+        },
+        {
+          "id": "sent-006",
+          "text": "Apenas habíamos cruzado unas palabras cuando McPherson emergió en lo alto del acantilado: se tambaleaba como un hombre que hubiera recibido un disparo, lanzó un alarido desgarrador y se desplomó sobre la hierba.",
+          "translationRu": "Мы едва перекинулись несколькими словами, когда Макферсон появился на вершине утёса: он шатался, словно человек, получивший пулю, издал душераздирающий вопль и рухнул на траву."
+        },
+        {
+          "id": "sent-007",
+          "text": "Corrimos hacia él; lo hallamos agonizante, con los ojos vítreos y hundidos, el rostro de un lívido que delataba una agonía extrema.",
+          "translationRu": "Мы бросились к нему; мы застали его при смерти — со стеклянными, ввалившимися глазами и лицом мертвенной бледности, выдававшей жестокие страдания."
+        },
+        {
+          "id": "sent-008",
+          "text": "Con la última chispa que le quedaba de vida, pronunció, casi en un grito, dos palabras: «la melena del león»; luego cayó y no se movió más.",
+          "translationRu": "Последней искрой жизни, оставшейся в нём, он произнёс почти криком два слова: «грива льва»; затем упал и больше не шевелился."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Al apartar su Burberry, contemplamos un espectáculo que hizo enmudecer incluso a Stackhurst: la espalda entera del muerto estaba surcada de líneas rojizas y rebordes inflamados, dispuestos en una trama reticulada como la que dejaría un látigo de nudos apretados o, más inquietante aún, una red de alambres al rojo.",
+          "translationRu": "Откинув его плащ, мы увидели зрелище, заставившее онеметь даже Стакхёрста: вся спина мертвеца была испещрена красноватыми бороздами и воспалёнными рубцами, расположенными в сетчатом узоре, какой оставила бы плеть с тугими узлами или — что было ещё тревожнее — раскалённая проволочная сеть."
+        },
+        {
+          "id": "sent-010",
+          "text": "Ian Murdoch, el matemático de The Gables, apareció al poco rato: hombre alto, moreno, de ojos negros como el carbón y un temperamento que oscilaba entre la abstracción más hermética y la cólera más desbocada.",
+          "translationRu": "Ян Мёрдок, математик из «Гейблса», появился вскоре: высокий, смуглый человек с угольно-чёрными глазами и темпераментом, колебавшимся между самой непроницаемой замкнутостью и самой необузданной яростью."
+        },
+        {
+          "id": "sent-011",
+          "text": "Dijo hallarse ajeno a todo y se ofreció a avisar a la policía; Holmes lo dejó ir, pero su llegada tan oportuna no pasó inadvertida.",
+          "translationRu": "Он заявил, что был вдали от всего, и предложил сообщить в полицию; Холмс позволил ему уйти, однако столь своевременное появление не осталось незамеченным."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-012",
+          "text": "Descendí a la playa con el método que me es habitual: primero los hechos, luego las inferencias.",
+          "translationRu": "Я спустился на пляж с присущей мне методичностью: сначала факты, потом выводы."
+        },
+        {
+          "id": "sent-013",
+          "text": "La toalla de McPherson, doblada y perfectamente seca sobre la roca, era el dato más revelador: el hombre había hecho los preparativos para bañarse pero nunca entró en el agua.",
+          "translationRu": "Полотенце Макферсона — сложенное и совершенно сухое на камне — было наиболее красноречивой уликой: мужчина приготовился к купанию, но так и не вошёл в воду."
+        },
+        {
+          "id": "sent-014",
+          "text": "En su bolsillo, una nota con letra femenina —«Allí estaré, puedes estar seguro.—Maudie»— abría la posibilidad de una cita clandestina, aunque no aclaraba dónde ni cuándo debía celebrarse.",
+          "translationRu": "В его кармане записка женской рукой — «Я буду там, можешь не сомневаться. — Моди» — открывала возможность тайного свидания, хотя не уточняла, где и когда оно должно было состояться."
+        },
+        {
+          "id": "sent-015",
+          "text": "Las marcas de rodillas en el camino de arcilla revelaban la lucha sobrehumana del hombre por alcanzar la cima mientras la vida se le escapaba.",
+          "translationRu": "Следы колен на глинистой тропе свидетельствовали о нечеловеческой борьбе умирающего, пытавшегося добраться до вершины."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-016",
+          "text": "La investigación nos llevó a Fulworth, donde los Bellamy recibieron a Holmes y Stackhurst con abierta hostilidad.",
+          "translationRu": "Расследование привело нас в Фулворт, где Беллами встретили Холмса и Стакхёрста с открытой враждебностью."
+        },
+        {
+          "id": "sent-017",
+          "text": "Sin embargo, la aparición de Maud Bellamy lo cambió todo: una mujer de singular hermosura y de una firmeza que contrastaba vivamente con el resentimiento torpe de su padre y su hermano.",
+          "translationRu": "Однако появление Мод Беллами всё изменило: женщина исключительной красоты и с твёрдостью, живо контrastировавшей с тупой обидчивостью отца и брата."
+        },
+        {
+          "id": "sent-018",
+          "text": "Reveló que ella y McPherson eran prometidos en secreto; que Murdoch, de quien ella había creído recibir atenciones en el pasado, no era sino el mensajero leal de su amor.",
+          "translationRu": "Она открыла, что с Макферсоном они были тайно помолвлены; что Мёрдок, чьи знаки внимания она некогда принимала иначе, был не чем иным, как преданным посыльным их любви."
+        },
+        {
+          "id": "sent-019",
+          "text": "Holmes notó que ella usó el plural al hablar del culpable —«quiénes lo hicieron»—, como si intuyera que ningún hombre solo hubiera podido infligir semejante tormento.",
+          "translationRu": "Холмс заметил, что, говоря о виновном, она употребила множественное число — «кто это сделал», — словно интуитивно чувствовала, что ни один человек в одиночку не мог причинить подобной пытки."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-020",
+          "text": "Durante una semana la investigación giró en falso: registros discretos, interrogatorios velados, fotografías ampliadas de las heridas con mi lente de mayor aumento, todo sin resultado concluyente.",
+          "translationRu": "В течение недели расследование вращалось вхолостую: скрытые обыски, завуалированные допросы, увеличенные фотографии ран через мою сильнейшую лупу — всё безрезультатно."
+        },
+        {
+          "id": "sent-021",
+          "text": "Entonces, por ese canal misterioso con que el campo transmite sus noticias, me llegó la noticia: el perro terrier de McPherson había muerto en el mismo lugar exacto de la playa.",
+          "translationRu": "Тогда по тому таинственному каналу, каким деревня передаёт свои новости, до меня дошло сообщение: терьер Макферсона погиб на том же самом месте пляжа."
+        },
+        {
+          "id": "sent-022",
+          "text": "Esa coincidencia me iluminó de golpe: si el lugar era fatal tanto para el hombre como para el animal, el agente destructor no podía ser de naturaleza humana.",
+          "translationRu": "Это совпадение озарило меня внезапно: если место оказалось роковым и для человека, и для животного, разрушительный фактор не мог быть человеческой природы."
+        },
+        {
+          "id": "sent-023",
+          "text": "Subí al desván, forcejé entre volúmenes polvorientos, y al cabo de una hora encontré el libro que necesitaba.",
+          "translationRu": "Я поднялся на чердак, перебирал пыльные тома, и спустя час нашёл нужную книгу."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-024",
+          "text": "A la mañana siguiente, antes de que pudiera regresar a la laguna, Ian Murdoch irrumpió en mi casa en un estado que me heló la sangre: pálido como un muerto, con el torso desnudo cubierto de la misma trama reticulada de líneas rojas que yo había visto en la espalda de McPherson.",
+          "translationRu": "На следующее утро, прежде чем я успел вернуться к лагуне, Ян Мёрдок ввалился в мой дом в состоянии, от которого у меня кровь застыла в жилах: бледный как мертвец, с обнажённым торсом, покрытым той же сетчатой паутиной красных полос, что я видел на спине Макферсона."
+        },
+        {
+          "id": "sent-025",
+          "text": "Su corazón robusto le había permitido sobrevivir donde el corazón debilitado de su amigo había cedido; pero los algodones con aceite de oliva y el brandy fueron necesarios para estabilizarlo.",
+          "translationRu": "Его крепкое сердце позволило ему выжить там, где ослабленное сердце друга сдалось; но ватные тампоны с оливковым маслом и бренди потребовались, чтобы стабилизировать его состояние."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "Conduje al inspector Bardie y a Stackhurst hasta la laguna: rodeé despacio el borde, inclinándome sobre la roca, hasta que mis ojos encontraron lo que buscaban en el rincón más hondo y sombrío.",
+          "translationRu": "Я повёл инспектора Барди и Стакхёрста к лагуне: медленно обходил берег, наклоняясь над камнями, пока мои глаза не нашли то, что искали, в самом глубоком и тёмном углу."
+        },
+        {
+          "id": "sent-027",
+          "text": "Allí, sobre un saliente a casi un metro bajo el agua, ondeaba una masa de membranas tawny y filamentos plateados que pulsaba con una contracción solemne y ajena a todo el dolor que había causado.",
+          "translationRu": "Там, на уступе почти в метре под водой, колыхалась масса желтоватых перепонок и серебристых нитей, пульсировавшая торжественным сокращением, безразличным ко всей причинённой ею боли."
+        },
+        {
+          "id": "sent-028",
+          "text": "«¡Cyanea!», grité. «¡Contemplad la Melena del León!»",
+          "translationRu": "«Цианея!» — воскликнул я. «Вот она — Грива Льва!»"
+        },
+        {
+          "id": "sent-029",
+          "text": "Stackhurst y yo hicimos rodar una roca enorme sobre el saliente; cuando la espuma se calmó, un ribete de membrana amarilla asomaba bajo la piedra, y un aceite espeso y oscuro se extendía en el agua.",
+          "translationRu": "Мы со Стакхёрстом скатили огромный валун на уступ; когда пена улеглась, край жёлтой перепонки виднелся из-под камня, а густое тёмное масло расходилось по воде."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "De regreso en mi estudio, leí en voz alta el pasaje de J. G. Wood sobre la Cyanea Capillata: esa medusa de crin tawny y filamentos invisibles que se irradian hasta quince metros, capaz de provocar líneas escarlata en la piel que se resuelven en pústulas como agujas al rojo, con pulsaciones que detienen el corazón y pangs que derriban a un hombre como un disparo.",
+          "translationRu": "Вернувшись в кабинет, я зачитал вслух отрывок Дж. Г. Вуда о Cyanea Capillata: той медузе с золотистой гривой и невидимыми нитями, расходящимися на пятнадцать метров, способной вызывать алые полосы на коже, превращающиеся в пустулы как раскалённые иглы, с толчками, останавливающими сердце и ударами, сбивающими человека с ног, словно пуля."
+        },
+        {
+          "id": "sent-031",
+          "text": "McPherson, al ver la criatura flotando en la laguna, había comprendido en un instante de lucidez terrible lo que le estaba haciendo; y sus últimas palabras no fueron una acusación sino una descripción, la única que su agonía le permitió articular.",
+          "translationRu": "Макферсон, увидев существо, плывущее в лагуне, в миг страшного прозрения понял, что оно с ним делает; и его последние слова были не обвинением, а описанием — единственным, что позволила ему выговорить агония."
+        },
+        {
+          "id": "sent-032",
+          "text": "Murdoch, que se había acercado a la misma laguna aquella mañana sin saber el peligro que la acechaba, quedó exonerado de toda sospecha; su gesto de ir enseguida a comunicar la muerte a Maud reveló que había actuado siempre como amigo leal y mensajero discreto, no como rival vengativo.",
+          "translationRu": "Мёрдок, той утром подошедший к той же лагуне, не подозревая о грозившей там опасности, был полностью снят со всех подозрений; его поступок — немедленно сообщить Мод о смерти — показал, что он всегда действовал как верный друг и скромный посредник, а не мстительный соперник."
+        },
+        {
+          "id": "sent-033",
+          "text": "Reconocí ante el inspector que había sido lento: la toalla seca me había hecho creer que McPherson jamás entró en el agua, y así tardé en concebir la posibilidad de una criatura marina.",
+          "translationRu": "Я признал перед инспектором, что был медлителен: сухое полотенце заставило меня думать, что Макферсон никогда не входил в воду, и потому я долго не мог допустить мысли о морском существе."
+        },
+        {
+          "id": "sent-034",
+          "text": "Pero añadí, con la media sonrisa que el caso merecía, que la Cyanea Capillata había estado muy cerca de vengar a Scotland Yard.",
+          "translationRu": "Но добавил, с полуулыбкой, которой заслуживало это дело, что Cyanea Capillata была весьма близка к тому, чтобы отомстить за Скотленд-Ярд."
+        }
+      ]
+    }
+  ]
+}

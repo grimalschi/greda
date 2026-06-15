@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-three-garridebs",
+  "title": "La aventura de los tres Garrideb",
+  "titleRu": "Приключение трёх Гэрридебов",
+  "originalTitle": "The Adventure of the Three Garridebs",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс раскрывает изощрённую аферу: американец под именем Гэрридеб выдумал фантастическое завещание, чтобы выманить лондонского коллекционера из квартиры и добраться до спрятанного там оборудования фальшивомонетчика. Развязка заканчивается выстрелами, и Ватсон впервые видит за холодной маской Холмса подлинную глубину его чувств.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

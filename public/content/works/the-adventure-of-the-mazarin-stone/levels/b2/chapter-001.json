@@ -1,0 +1,202 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-mazarin-stone",
+  "level": "b2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de la piedra Mazarin"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Era una tarde apacible de verano cuando el doctor Watson volvió al desordenado salón del primer piso de Baker Street, punto de partida de tantas aventuras.",
+          "translationRu": "Был тихий летний вечер, когда доктор Ватсон вернулся в беспорядочную гостиную первого этажа на Бейкер-стрит — отправной точке стольких приключений."
+        },
+        {
+          "id": "sent-002",
+          "text": "Billy, el inteligente paje, le informó de que Holmes llevaba días sin comer, disfrazándose sucesivamente de viejo obrero y de anciana para seguir los pasos del conde Sylvius.",
+          "translationRu": "Умный паж Билли сообщил, что Холмс несколько дней не ест и переодевается поочерёдно то старым рабочим, то старухой, чтобы следить за графом Сильвиусом."
+        },
+        {
+          "id": "sent-003",
+          "text": "«Tenemos algo curioso detrás de esa cortina», añadió Billy, y descorrió la tela para revelar una figura de cera que imitaba a Holmes con una fidelidad asombrosa.",
+          "translationRu": "«За той занавеской у нас кое-что любопытное», — добавил Билли и отдёрнул ткань, обнажив восковую фигуру, поразительно точно изображавшую Холмса."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Cuando Holmes apareció en la puerta del dormitorio, pálido y enjuto pero de paso ágil, explicó a Watson que esperaba ser asesinado esa misma noche.",
+          "translationRu": "Когда Холмс появился в дверях спальни — бледный и худощавый, но с живым шагом, — он объяснил Ватсону, что ожидает покушения этой же ночью."
+        },
+        {
+          "id": "sent-005",
+          "text": "El responsable era el conde Negretto Sylvius, un cazador de fieras reconvertido en criminal que había sustraído el diamante Mazarin, valorado en cien mil libras, de las vitrinas de Whitehall.",
+          "translationRu": "Виновником был граф Негретто Сильвиус — охотник на крупного зверя, ставший преступником, который похитил бриллиант Мазарин стоимостью сто тысяч фунтов из витрин Уайтхолла."
+        },
+        {
+          "id": "sent-006",
+          "text": "Su cómplice era el boxeador Sam Merton, un hombre torpe pero leal, que montaba guardia en la calle mientras Holmes planeaba su jugada.",
+          "translationRu": "Его сообщником был боксёр Сэм Мёртон — неповоротливый, но преданный человек, стоявший на страже на улице, пока Холмс обдумывал свой ход."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "Holmes envió a Watson a Scotland Yard con una nota para el inspector Youghal, pidiéndole que regresara con refuerzos.",
+          "translationRu": "Холмс отправил Ватсона в Скотланд-Ярд с запиской для инспектора Йоэла, прося его вернуться с подкреплением."
+        },
+        {
+          "id": "sent-008",
+          "text": "Nada más salir Watson, Billy anunció que el propio conde había llegado, lo que Holmes calificó de «audacia considerable».",
+          "translationRu": "Едва Ватсон ушёл, Билли доложил, что сам граф явился — то, что Холмс охарактеризовал как «немалую дерзость»."
+        },
+        {
+          "id": "sent-009",
+          "text": "Al ver la figura de cera en el sillón, el conde se acercó sigilosamente con el bastón en alto, dispuesto a golpear.",
+          "translationRu": "Увидев восковую фигуру в кресле, граф осторожно приблизился с поднятой тростью, готовясь нанести удар."
+        },
+        {
+          "id": "sent-010",
+          "text": "Una voz sardónica desde la puerta del dormitorio lo detuvo en seco: «¡No la rompa, conde!».",
+          "translationRu": "Саркастический голос из двери спальни остановил его как вкопанного: «Не ломайте, граф!»"
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "En la conversación que siguió, Holmes desplegó su cuaderno negro, repleto de los crímenes del conde: la herencia de la señora Harold obtenida de manera fraudulenta, la estafa a la señorita Warrender, el robo en el tren de lujo a la Riviera.",
+          "translationRu": "В последовавшей беседе Холмс раскрыл свой чёрный блокнот, полный преступлений графа: мошеннически полученное наследство миссис Гарольд, обман мисс Уорендер, ограбление в поезде люкс на Ривьеру."
+        },
+        {
+          "id": "sent-012",
+          "text": "Además, tenía al cabman que trasladó al conde a Whitehall, al comisionado que lo vio junto a la vitrina y a Ikey Sanders, el tasador que se negó a trocear la piedra y había confesado.",
+          "translationRu": "Кроме того, у него был извозчик, отвезший графа в Уайтхолл, комиссионер, видевший его у витрины, и Айки Сандерс — оценщик, отказавшийся распиливать камень и давший показания."
+        },
+        {
+          "id": "sent-013",
+          "text": "«Cuando el rival tiene todos los triunfos, lo más inteligente es bajar las cartas», le dijo Holmes con calma.",
+          "translationRu": "«Когда противник на руках все козыри, умнее всего сбросить карты», — спокойно сказал ему Холмс."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-014",
+          "text": "Holmes ofreció un trato: si el conde entregaba la piedra, ambos ladrones quedarían libres; de lo contrario, les aguardaban veinte años de cárcel.",
+          "translationRu": "Холмс предложил сделку: если граф отдаст камень, оба вора останутся на свободе; иначе их ждут двадцать лет тюрьмы."
+        },
+        {
+          "id": "sent-015",
+          "text": "Para que los dos criminales pudieran deliberar, Holmes llamó también a Sam Merton y luego anunció que iba al dormitorio a interpretar la Barcarola de Hoffmann al violín.",
+          "translationRu": "Чтобы оба преступника могли посовещаться, Холмс вызвал и Сэма Мёртона, а затем объявил, что уходит в спальню сыграть Баркаролу Гофмана на скрипке."
+        },
+        {
+          "id": "sent-016",
+          "text": "«En cinco minutos regresaré para escuchar vuestra respuesta definitiva», dijo, y salió.",
+          "translationRu": "«Через пять минут вернусь за вашим окончательным ответом», — сказал он и вышел."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Creyendo que el detective los escuchaba desde lejos, el conde y Sam hablaron con libertad.",
+          "translationRu": "Считая, что сыщик слушает их издалека, граф и Сэм заговорили свободно."
+        },
+        {
+          "id": "sent-018",
+          "text": "El conde reveló que llevaba el diamante consigo en un bolsillo secreto y que esa misma noche lo enviaría a Amsterdam para cortarlo.",
+          "translationRu": "Граф признался, что носит бриллиант при себе в тайном кармане и этой же ночью отправит его в Амстердам для огранки."
+        },
+        {
+          "id": "sent-019",
+          "text": "Planeaba engañar a Holmes dándole una pista falsa —que la piedra estaba en Liverpool— para ganar tiempo.",
+          "translationRu": "Он планировал обмануть Холмса, дав ему ложный след — будто камень в Ливерпуле — чтобы выиграть время."
+        },
+        {
+          "id": "sent-020",
+          "text": "Para convencer a su cómplice de la belleza de la joya, el conde la sacó y la acercó a la ventana para que Sam la viera bien.",
+          "translationRu": "Чтобы убедить сообщника в красоте драгоценности, граф вытащил её и поднёс к окну, чтобы Сэм хорошенько рассмотрел."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "Fue exactamente en ese instante cuando Holmes salió de un salto de detrás de la cortina del dormitorio, por donde había entrado en silencio a través de una segunda puerta.",
+          "translationRu": "Именно в этот момент Холмс одним прыжком выскочил из-за занавески спальни, куда он бесшумно прошёл через вторую дверь."
+        },
+        {
+          "id": "sent-022",
+          "text": "Arrebató el diamante con una mano y apuntó el revólver al conde con la otra, antes de que los dos criminales pudieran reaccionar.",
+          "translationRu": "Он выхватил бриллиант одной рукой и навёл револьвер на графа другой, прежде чем оба преступника успели опомниться."
+        },
+        {
+          "id": "sent-023",
+          "text": "La música que seguían oyendo provenía de un gramófono moderno que el detective había puesto en marcha como señuelo.",
+          "translationRu": "Музыка, которую они продолжали слышать, исходила от современного граммофона, запущенного сыщиком в качестве приманки."
+        },
+        {
+          "id": "sent-024",
+          "text": "Al pulsar el timbre, Holmes hizo entrar a la policía y los dos delincuentes fueron esposados y conducidos al coche policial.",
+          "translationRu": "Нажав звонок, Холмс впустил полицию, и оба преступника были закованы в наручники и доставлены в полицейский экипаж."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "Mientras Watson felicitaba a Holmes, Billy anunció la llegada de lord Cantlemere, el austero par que siempre había dudado de las capacidades del detective y que había intentado bloquear su contratación.",
+          "translationRu": "Пока Ватсон поздравлял Холмса, Билли доложил о приходе лорда Кантлемира — сурового пэра, всегда сомневавшегося в способностях сыщика и пытавшегося помешать его найму."
+        },
+        {
+          "id": "sent-026",
+          "text": "Holmes lo recibió con afabilidad estudiada y, al ayudarlo con el abrigo, deslizó el diamante en el bolsillo derecho del lord sin que este se diera cuenta.",
+          "translationRu": "Холмс принял его с нарочитой любезностью и, помогая снять пальто, незаметно переложил бриллиант в правый карман лорда."
+        },
+        {
+          "id": "sent-027",
+          "text": "Fingiendo dificultades, Holmes llevó la conversación hasta que lord Cantlemere declaró que la posesión de la piedra sería la prueba definitiva contra el receptor de la joya robada.",
+          "translationRu": "Притворяясь, что испытывает затруднения, Холмс направил разговор так, чтобы лорд Кантлемир сам заявил, что владение камнем станет решающей уликой против скупщика краденого."
+        },
+        {
+          "id": "sent-028",
+          "text": "«En ese caso, me veo en la penosa necesidad de aconsejar su arresto, milord», dijo Holmes con fingida tristeza.",
+          "translationRu": "«В таком случае я вынужден с прискорбием рекомендовать ваш арест, милорд», — произнёс Холмс с притворной печалью."
+        },
+        {
+          "id": "sent-029",
+          "text": "Lord Cantlemere, indignado, metió la mano en el bolsillo y encontró allí el gran diamante amarillo, brillando sobre su palma temblorosa.",
+          "translationRu": "Возмущённый лорд Кантлемир опустил руку в карман и обнаружил там большой жёлтый бриллиант, сверкавший на его дрожащей ладони."
+        },
+        {
+          "id": "sent-030",
+          "text": "Aturdido, el noble reconoció por fin el genio de Sherlock Holmes y le expresó la gratitud de la Corona, antes de retirarse con la piedra Mazarin recuperada.",
+          "translationRu": "Ошеломлённый вельможа наконец признал гений Шерлока Холмса и выразил ему благодарность Короны, прежде чем удалиться с возвращённым камнем Мазарин."
+        }
+      ]
+    }
+  ]
+}

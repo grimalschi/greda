@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-illustrious-client",
+  "title": "La aventura del ilustre cliente",
+  "titleRu": "Приключение знатного клиента",
+  "originalTitle": "The Adventure of the Illustrious Client",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс получает задание разлучить молодую аристократку Виолет де Мервиль с опасным австрийским бароном-убийцей. Чтобы добыть компрометирующую книгу и спасти девушку, детективу и Ватсону предстоит пойти на смертельный риск.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

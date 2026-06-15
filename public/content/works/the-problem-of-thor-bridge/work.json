@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-problem-of-thor-bridge",
+  "title": "El problema del puente de Thor",
+  "titleRu": "Загадка моста Тора",
+  "originalTitle": "The Problem of Thor Bridge",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс расследует смерть американской миллионерши, найденной застреленной на мосту в её поместье, — все улики указывают на невиновную гувернантку. Разгадка кроется в необычной отметине на камне и дьявольски хитроумном механизме суицида, задуманного как инсценировка убийства.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

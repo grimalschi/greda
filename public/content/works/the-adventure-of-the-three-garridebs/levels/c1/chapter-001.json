@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-three-garridebs",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de los tres Garrideb"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "El asunto puede haber sido una comedia o una tragedia; costó la razón a un hombre, me valió un derramamiento de sangre y precipitó a otro hacia los brazos de la justicia, aunque no faltó en él cierta vena cómica.",
+          "translationRu": "Это дело могло быть комедией или трагедией; оно лишило одного человека рассудка, стоило мне кровопролития и бросило другого в объятия правосудия, хотя комическая нотка в нём всё же присутствовала."
+        },
+        {
+          "id": "sent-002",
+          "text": "Recuerdo la fecha con precisión: era a finales de junio de 1902, el mismo mes en que Holmes declinó un título de caballero por servicios que quizás algún día sean descritos.",
+          "translationRu": "Дата мне запомнилась точно: это был конец июня 1902 года, тот самый месяц, когда Холмс отказался от рыцарского звания за услуги, которые, возможно, будут описаны когда-нибудь позже."
+        },
+        {
+          "id": "sent-003",
+          "text": "Holmes salió de varios días de reclusión voluntaria sosteniendo un largo documento en la mano y con ese destello de entretenida amusement que iluminaba sus auseros ojos grises en los momentos de curiosidad genuina.",
+          "translationRu": "Холмс вышел из нескольких дней добровольного уединения с длинным документом в руке и с тем блеском весёлого любопытства, который освещал его строгие серые глаза в моменты подлинного интереса."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Me anunció que había dinero para quien pudiera localizar a un tal Garrideb, y al consultar el directorio telefónico encontré el nombre de inmediato: N. Garrideb, en la calle Little Ryder; aunque Holmes aclaró, con una leve sonrisa, que ese era el hombre que ya había solicitado sus servicios y que necesitábamos encontrar a un segundo.",
+          "translationRu": "Он сообщил, что деньги ждут того, кто найдёт некоего Гэрридеба, и, просмотрев телефонный справочник, я немедленно обнаружил имя: Н. Гэрридеб, Литтл-Райдер-стрит, однако Холмс с лёгкой улыбкой пояснил, что это тот самый человек, который уже обратился за его помощью, и нам нужно найти второго."
+        },
+        {
+          "id": "sent-005",
+          "text": "Momentos después apareció el supuesto John Garrideb, abogado americano radicado en Kansas: un hombre bajo y corpulento, de rostro redondeado y afeitado, con esa apariencia juvenilmente rechoncha que Holmes asociaba a ciertos hombres de negocios norteamericanos, pero cuyos ojos penetrantes y alertas revelaban, para quien supiera leerlos, una intensa y calculada vida interior.",
+          "translationRu": "Вскоре появился предполагаемый Джон Гэрридеб, американский адвокат из Канзаса: невысокий плотный мужчина с округлым бритым лицом, с той моложавой пухлостью, которую Холмс связывал с определёнными американскими деловыми людьми, однако его проницательные, настороженные глаза открывали для умеющих их читать напряжённую и расчётливую внутреннюю жизнь."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "Refirió que Alexander Hamilton Garrideb, excéntrico millonario de Kansas, había muerto dejando un testamento caprichoso: su fortuna, estimada en cinco millones de dólares para cada beneficiario, se repartiría entre tres hombres adultos que compartieran su singular apellido, a condición de que los tres se presentaran juntos ante notario.",
+          "translationRu": "Он рассказал, что Александр Гамильтон Гэрридеб, эксцентричный миллионер из Канзаса, скончался, оставив причудливое завещание: его состояние в размере пяти миллионов долларов каждому из наследников следовало разделить между тремя совершеннолетними мужчинами с его редкой фамилией при условии, что все трое вместе явятся к нотариусу."
+        },
+        {
+          "id": "sent-007",
+          "text": "Ya había localizado a Nathan en Londres, pero precisaba de un tercero para completar el trío exigido por el testamento, razón por la cual acudía a la pericia de Holmes.",
+          "translationRu": "Он уже нашёл Натана в Лондоне, однако для завершения трио, требуемого завещанием, нужен был третий, — вот почему он обратился к мастерству Холмса."
+        },
+        {
+          "id": "sent-008",
+          "text": "Holmes escuchó con aparente interés, prometió echar un vistazo al caso y despidió a nuestro visitante con cortés ambigüedad.",
+          "translationRu": "Холмс слушал с видимым интересом, пообещал взглянуть на дело и проводил посетителя вежливой двусмысленностью."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Apenas cerró la puerta, Holmes expuso sus sospechas con la nitidez que le era característica: el corte del abrigo, la punta de los zapatos, el acento demasiado suavizado por años de roce con el inglés londoniense delataban a un hombre que llevaba mucho tiempo en Inglaterra, no al americano recién llegado que pretendía ser.",
+          "translationRu": "Едва захлопнулась дверь, Холмс с присущей ему чёткостью изложил свои подозрения: покрой пальто, носки ботинок, акцент, слишком сглаженный годами общения с лондонским английским, выдавали человека, давно живущего в Англии, а не недавно прибывшего американца, каким он себя представлял."
+        },
+        {
+          "id": "sent-010",
+          "text": "Por añadidura, Holmes no había visto el menor rastro de los anuncios mencionados en las columnas de agonía, su guarida favorita para levantar perdices, y jamás habría pasado por alto un faisán tan vistoso.",
+          "translationRu": "Вдобавок Холмс не нашёл ни малейшего следа упомянутых объявлений в рубрике частных извещений, своём излюбленном месте для выслеживания дичи, и никогда не пропустил бы такого яркого фазана."
+        },
+        {
+          "id": "sent-011",
+          "text": "Decidió, con su habitual frialdad táctica, dejar que el impostor se creyera triunfador mientras él trazaba en silencio su estrategia.",
+          "translationRu": "Он решил, со свойственной ему тактической невозмутимостью, позволить самозванцу считать себя победителем, пока сам в тишине разрабатывал стратегию."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-012",
+          "text": "Aquella tarde visitamos a Nathan Garrideb en su apartamento de la calle Little Ryder, una casa georgiana de ladrillo con dos grandes ventanales, cuya placa de bronce descolorida confirmó a Holmes que el apellido era genuino.",
+          "translationRu": "В тот же вечер мы навестили Натана Гэрридеба в его квартире на Литтл-Райдер-стрит — в кирпичном грузинском доме с двумя большими эркерами, потемневшая бронзовая табличка которого убедила Холмса, что фамилия подлинная."
+        },
+        {
+          "id": "sent-013",
+          "text": "Nathan era un hombre alto y desgarbado de unos sesenta años, de tez cadavérica, grandes gafas redondas y una pequeña barba de chivo que, combinada con su postura encorvada, le daban un aire de curiosidad escudriñadora.",
+          "translationRu": "Натан был высоким нескладным мужчиной лет шестидесяти с болезненным цветом лица, большими круглыми очками и маленькой козлиной бородкой, которая вкупе со сгорбленной осанкой придавала ему вид пытливого исследователя."
+        },
+        {
+          "id": "sent-014",
+          "text": "Su habitación era un prodigio de acumulación erudita: vitrinas de especímenes geológicos y anatómicos, colecciones de mariposas, monedas siracusanas y cráneos de yeso con inscripciones como «Neanderthal» o «Cro-Magnon» poblaban cada superficie disponible.",
+          "translationRu": "Его комната была настоящим чудом учёного накопительства: витрины с геологическими и анатомическими образцами, коллекции бабочек, сиракузских монет и гипсовых черепов с надписями «Неандерталец» или «Кроманьонец» заполняли каждую свободную поверхность."
+        },
+        {
+          "id": "sent-015",
+          "text": "Confesó que rara vez salía de aquella madriguera del saber, y que los cinco millones no le tentaban tanto por la riqueza en sí como por las docenas de piezas que podría incorporar a su colección y que le faltaban por escasez de fondos.",
+          "translationRu": "Он признался, что редко выбирается из этой норы знаний, и что пять миллионов привлекали его не столько богатством как таковым, сколько десятками экспонатов, которые он мог бы пополнить в свою коллекцию, но которых не хватало из-за нехватки средств."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-016",
+          "text": "La visita fue interrumpida por John Garrideb, que irrumpió agitando un recorte de periódico de Birmingham en el que aparecía un tal Howard Garrideb, constructor de maquinaria agrícola, como tercer candidato.",
+          "translationRu": "Визит был прерван Джоном Гэрридебом, который ворвался, размахивая вырезкой из бирмингемской газеты, где фигурировал некий Говард Гэрридеб, производитель сельскохозяйственной техники, как третий кандидат."
+        },
+        {
+          "id": "sent-017",
+          "text": "Con argumento persuasivo, insistió en que Nathan se desplazara a Birmingham al día siguiente para obtener su declaración jurada: un respetable londinense inspiraría mayor confianza que un americano ambulante.",
+          "translationRu": "С убедительным доводом он настаивал, чтобы Натан на следующий день отправился в Бирмингем за нотариально заверенным показанием: уважаемый лондонец внушит больше доверия, нежели странствующий американец."
+        },
+        {
+          "id": "sent-018",
+          "text": "Nathan cedió al fin, arrastrado por la marea de sus sueños, y Holmes añadió su beneplácito con una serenidad que yo ya sabía interpretar.",
+          "translationRu": "Натан в конце концов уступил, захваченный волной своих мечтаний, а Холмс выразил согласие с невозмутимостью, которую я уже научился правильно истолковывать."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "A la mañana siguiente, Holmes regresó de Scotland Yard con el rostro grave: el americano era James Winter, alias Morecroft, alias Killer Evans, nativo de Chicago, con tres muertes conocidas en Estados Unidos y una cuarta en un club nocturno del Waterloo Road, esta última la del propio Rodger Prescott, célebre falsificador y acuñador.",
+          "translationRu": "На следующее утро Холмс вернулся из Скотленд-Ярда с мрачным видом: американец оказался Джеймсом Уинтером, он же Морекрофт, он же Убийца Эванс, уроженец Чикаго, на счету которого было три известных убийства в Соединённых Штатах и четвёртое в ночном клубе на Уотерлоо-роуд, последнее — самого Роджера Прескотта, известного фальшивомонетчика."
+        },
+        {
+          "id": "sent-020",
+          "text": "Los registros del agente inmobiliario revelaron que el inquilino anterior al inocente Nathan había sido un tal Waldron, cuya descripción coincidía con la de Prescott, lo que llevó a Holmes a concluir que en aquel mismo suelo dormía escondida la imprenta clandestina del falsificador.",
+          "translationRu": "Записи агента по недвижимости показали, что предыдущим жильцом до невинного Натана был некий Уолдрон, чьё описание совпадало с описанием Прескотта, что привело Холмса к выводу: в самом полу той комнаты был спрятан подпольный печатный станок фальшивомонетчика."
+        },
+        {
+          "id": "sent-021",
+          "text": "Me entregó un revólver con la lacónica advertencia de que Evans era un hombre que nunca salía sin armas, y nos apostamos detrás de un armario en el rincón de la habitación.",
+          "translationRu": "Он вручил мне револьвер с кратким предупреждением, что Эванс никогда не выходит без оружия, и мы заняли позицию за шкафом в углу комнаты."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Con Nathan camino de Birmingham, Evans penetró en el apartamento con la seguridad y precisión de quien conoce cada centímetro del terreno: barrió la habitación con una ojeada, descartó su abrigo, empujó la mesa central, enrolló la alfombra con un ademán rutinario y, extrayendo una palanqueta, levantó una trampilla oculta en el entarimado.",
+          "translationRu": "С Натаном на пути в Бирмингем Эванс проник в квартиру с уверенностью и точностью человека, знающего каждый сантиметр местности: окинул комнату взглядом, скинул пальто, сдвинул центральный стол, свернул ковёр привычным движением и, извлекая фомку, поднял скрытый люк в паркете."
+        },
+        {
+          "id": "sent-023",
+          "text": "Encendió un cabo de vela y desapareció bajo el suelo; Holmes me tocó la muñeca en señal de avance y nos deslizamos juntos hacia la abertura.",
+          "translationRu": "Он зажёг огарок свечи и скрылся под полом; Холмс коснулся моего запястья в знак движения вперёд, и мы вместе скользнули к отверстию."
+        },
+        {
+          "id": "sent-024",
+          "text": "Evans asomó la cabeza, vio las dos pistolas y esbozó una sonrisa de derrota confesa, reconociendo que Holmes le había ganado la partida; pero en el siguiente instante, con la velocidad de quien ha sobrevivido en situaciones extremas, sacó su propio revólver y disparó dos veces.",
+          "translationRu": "Эванс высунул голову, увидел два пистолета и растянул губы в улыбке признанного поражения, признавая, что Холмс его переиграл; однако в следующий миг, с быстротой человека, выжившего в экстремальных условиях, он выхватил собственный револьвер и дважды выстрелил."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "Sentí una quemazón intensa en el muslo, como si un hierro al rojo me hubiera tocado la carne; Holmes descargó su pistola sobre la cabeza del hombre con un golpe que lo tendió en el suelo, y luego se volvió hacia mí con una solicitud que yo nunca antes le había visto.",
+          "translationRu": "Я ощутил жгучую боль в бедре, словно раскалённое железо прикоснулось к плоти; Холмс обрушил пистолет на голову мужчины ударом, который бросил того на пол, а затем повернулся ко мне с заботливостью, которой я никогда прежде в нём не видел."
+        },
+        {
+          "id": "sent-026",
+          "text": "«¿No estás herido, Watson? Por Dios, dime que no estás herido.» Valió una herida —valió muchas heridas— ver la profundidad de lealtad y amor que se ocultaba tras esa máscara fría; sus ojos despejados y duros estaban velados por un instante, sus labios firmes temblaban.",
+          "translationRu": "«Ты не ранен, Ватсон? Ради Бога, скажи, что не ранен.» Ради одной раны — ради многих ран — стоило увидеть глубину преданности и любви, скрытых за этой холодной маской; его ясные, жёсткие глаза на мгновение затуманились, твёрдые губы дрожали."
+        },
+        {
+          "id": "sent-027",
+          "text": "Fue la única vez, en todos nuestros años de compañerismo, en que atisbé detrás del gran cerebro un gran corazón.",
+          "translationRu": "Это был единственный раз за все годы нашего товарищества, когда я разглядел за великим умом великое сердце."
+        },
+        {
+          "id": "sent-028",
+          "text": "La herida era superficial: un rasguño que Holmes confirmó rasgando con su navaja la tela del pantalón.",
+          "translationRu": "Рана оказалась поверхностной: царапина, которую Холмс подтвердил, разорвав перочинным ножом ткань брюк."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-029",
+          "text": "En el sótano iluminado por la vela de Evans encontramos la prensa del falsificador, grandes rollos de papel, botellas de tintas y, ordenados sobre una mesa, unos dos mil billetes de cien libras fabricados por Prescott, tan perfectos que habrían circulado sin levantar sospechas en cualquier banco de Europa.",
+          "translationRu": "В подвале, освещённом свечой Эванса, мы обнаружили станок фальшивомонетчика, большие рулоны бумаги, бутылки чернил и, аккуратно разложенные на столе, около двух тысяч банкнот по сто фунтов, изготовленных Прескоттом, настолько совершенных, что они прошли бы без подозрений в любом банке Европы."
+        },
+        {
+          "id": "sent-030",
+          "text": "Evans explicó, con amarga franqueza, que había matado a Prescott porque era el único hombre vivo que conocía el escondite, y que toda la ingeniosa fábula de los tres Garridebs no había tenido otro propósito que arrancar al inofensivo coleccionista de su apartamento el tiempo suficiente para recuperar el equipo.",
+          "translationRu": "Эванс объяснил с горькой откровенностью, что убил Прескотта, поскольку был единственным живым человеком, знавшим тайник, и что вся изощрённая выдумка о трёх Гэрридебах преследовала лишь одну цель: вынудить безобидного коллекционера на достаточно долго покинуть квартиру, чтобы вернуть оборудование."
+        },
+        {
+          "id": "sent-031",
+          "text": "Holmes llamó a Scotland Yard, y Evans fue detenido para afrontar, entre otros cargos, el de intento de asesinato.",
+          "translationRu": "Холмс позвонил в Скотленд-Ярд, и Эванса арестовали, чтобы он ответил, в числе прочих обвинений, за покушение на убийство."
+        },
+        {
+          "id": "sent-032",
+          "text": "El pobre Nathan nunca se repuso del derrumbe de sus castillos en el aire; la última noticia que tuvimos de él lo situaba en una clínica de Brixton, donde su razón languideció junto con sus sueños de grandeza.",
+          "translationRu": "Бедный Натан так и не оправился от крушения своих воздушных замков; последнее, что мы о нём слышали, — он находился в клинике в Брикстоне, где его рассудок угасал вместе с мечтами о величии."
+        }
+      ]
+    }
+  ]
+}
