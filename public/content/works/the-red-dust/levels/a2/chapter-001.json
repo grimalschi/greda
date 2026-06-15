@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El polvo rojo"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Burl era el jefe de una pequeña tribu.",
-          "translationRu": "Бёрл был вождём небольшого племени."
+          "text": "El cielo se volvió gris y luego casi blanco.",
+          "translationRu": "Небо стало серым, а потом почти белым."
         },
         {
           "id": "sent-002",
-          "text": "Vivían en un mundo extraño, lleno de insectos gigantes.",
-          "translationRu": "Они жили в странном мире, полном гигантских насекомых."
+          "text": "Era un mundo muy extraño con insectos enormes y hongos gigantes.",
+          "translationRu": "Это был очень странный мир с огромными насекомыми и гигантскими грибами."
         },
         {
           "id": "sent-003",
-          "text": "Las arañas eran grandes como casas y los escarabajos eran más grandes que los hombres.",
-          "translationRu": "Пауки были величиной с дом, а жуки — крупнее людей."
+          "text": "Una gran colina de hormigas se levantaba cien metros en el aire.",
+          "translationRu": "Большой муравейник поднимался на сто метров в воздух."
+        },
+        {
+          "id": "sent-004",
+          "text": "Una hormiga guerrera salió y miró a todos lados.",
+          "translationRu": "Муравей-воин вышел и посмотрел по сторонам."
         }
       ]
     },
@@ -32,29 +37,19 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Un día, Burl mató a una araña muy peligrosa.",
-          "translationRu": "Однажды Бёрл убил очень опасного паука."
-        },
-        {
           "id": "sent-005",
-          "text": "Ató piedras pesadas a los cables de seda del nido.",
-          "translationRu": "Он привязал тяжёлые камни к шёлковым тросам гнезда."
+          "text": "Pronto muchos trabajadores salieron de la colina para buscar comida.",
+          "translationRu": "Вскоре много рабочих вышли из холма искать еду."
         },
         {
           "id": "sent-006",
-          "text": "Las piedras cayeron y arrastraron el nido al suelo.",
-          "translationRu": "Камни упали и потащили гнездо вниз."
+          "text": "En el centro de la colina vivía la reina, doce veces más grande que sus servidores.",
+          "translationRu": "В центре холма жила королева — в двенадцать раз крупнее своих слуг."
         },
         {
           "id": "sent-007",
-          "text": "La araña salió y subió por el último cable.",
-          "translationRu": "Паук выбрался и полез по последнему тросу."
-        },
-        {
-          "id": "sent-008",
-          "text": "Burl empujó una piedra grande y la araña cayó muerta.",
-          "translationRu": "Бёрл столкнул большой камень, и паук упал замертво."
+          "text": "Había también arañas, avispas y mariposas enormes por toda la tierra.",
+          "translationRu": "По всей земле были огромные пауки, осы и бабочки."
         }
       ]
     },
@@ -62,24 +57,19 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-008",
+          "text": "Burl era el líder de una pequeña tribu de personas.",
+          "translationRu": "Бёрл был вождём небольшого племени людей."
+        },
+        {
           "id": "sent-009",
-          "text": "Un nuevo peligro llegó a la tribu.",
-          "translationRu": "К племени пришла новая опасность."
+          "text": "Llevaba plumas doradas en la cabeza y una lanza en la mano.",
+          "translationRu": "Он носил золотые перья на голове и копьё в руке."
         },
         {
           "id": "sent-010",
-          "text": "Unos hongos rojos crecieron por todas partes.",
-          "translationRu": "Повсюду выросли красные грибы."
-        },
-        {
-          "id": "sent-011",
-          "text": "Cuando un hongo rojo explotaba, soltaba un polvo mortal.",
-          "translationRu": "Когда красный гриб взрывался, он выпускал смертельную пыль."
-        },
-        {
-          "id": "sent-012",
-          "text": "La gente que respiraba ese polvo moría.",
-          "translationRu": "Люди, вдыхавшие эту пыль, погибали."
+          "text": "La tribu lo respetaba porque ya había matado dos arañas grandes.",
+          "translationRu": "Племя уважало его, потому что он уже убил двух больших пауков."
         }
       ]
     },
@@ -87,19 +77,24 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-011",
+          "text": "Ahora Burl quería matar una araña clotho que vivía en un nido bajo las rocas.",
+          "translationRu": "Теперь Бёрл хотел убить паука-клото, который жил в гнезде под скалами."
+        },
+        {
+          "id": "sent-012",
+          "text": "El nido colgaba a doce metros del suelo y tenía trofeos de víctimas muertas.",
+          "translationRu": "Гнездо висело в двенадцати метрах от земли и было украшено трофеями убитых жертв."
+        },
+        {
           "id": "sent-013",
-          "text": "Burl decidió llevar a su tribu a un lugar seguro.",
-          "translationRu": "Бёрл решил отвести племя в безопасное место."
+          "text": "Burl tuvo una idea: ató piedras pesadas a los cables de seda del nido.",
+          "translationRu": "У Бёрла появилась идея: он привязал тяжёлые камни к шёлковым тросам гнезда."
         },
         {
           "id": "sent-014",
-          "text": "La tribu salió del escondite y empezó a caminar.",
-          "translationRu": "Племя покинуло укрытие и отправилось в путь."
-        },
-        {
-          "id": "sent-015",
-          "text": "Pasaron junto a una gran batalla de hormigas y siguieron adelante.",
-          "translationRu": "Они миновали огромную битву муравьёв и продолжили путь."
+          "text": "Dio una señal y todos soltaron las piedras al mismo tiempo.",
+          "translationRu": "Он подал сигнал, и все одновременно отпустили камни."
         }
       ]
     },
@@ -107,24 +102,24 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-015",
+          "text": "El nido cayó, pero un cable quedó unido a la roca.",
+          "translationRu": "Гнездо упало, но один трос остался прикреплённым к скале."
+        },
+        {
           "id": "sent-016",
-          "text": "Una noche, Burl atacó a un gran escarabajo.",
-          "translationRu": "Однажды ночью Бёрл напал на огромного жука."
+          "text": "La araña salió enfurecida y subió rápido por el cable hacia Burl.",
+          "translationRu": "Разъярённый паук выбрался и быстро пополз по тросу к Бёрлу."
         },
         {
           "id": "sent-017",
-          "text": "El escarabajo voló y Burl se perdió en la oscuridad.",
-          "translationRu": "Жук улетел, и Бёрл потерялся в темноте."
+          "text": "Los hombres huyeron con gritos de miedo, pero Burl no huyó.",
+          "translationRu": "Люди убежали с криками страха, но Бёрл не убежал."
         },
         {
           "id": "sent-018",
-          "text": "Por la mañana, encontró a Saya enterrada viva por unos escarabajos.",
-          "translationRu": "Утром он нашёл Сайю, которую живой закапывали жуки."
-        },
-        {
-          "id": "sent-019",
-          "text": "Burl salvó a Saya del peligro.",
-          "translationRu": "Бёрл спас Сайю от опасности."
+          "text": "Empujó una piedra grande sobre la araña y la mató.",
+          "translationRu": "Он столкнул большой камень на паука и убил его."
         }
       ]
     },
@@ -132,19 +127,19 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-019",
+          "text": "Burl bajó de la roca muy orgulloso y llevó a la tribu para ver la araña muerta.",
+          "translationRu": "Бёрл спустился со скалы очень гордым и повёл племя смотреть на мёртвого паука."
+        },
+        {
           "id": "sent-020",
-          "text": "La tribu cruzó un gran bosque de hongos rojos por la noche.",
-          "translationRu": "Ночью племя прошло через огромный лес красных грибов."
+          "text": "Saya, la joven que amaba a Burl, lo miró con mucha admiración.",
+          "translationRu": "Сайя, девушка, которую любил Бёрл, посмотрела на него с большим восхищением."
         },
         {
           "id": "sent-021",
-          "text": "Los hongos no explotan de noche, así que estaban más seguros.",
-          "translationRu": "Ночью грибы не взрываются, так что это было чуть безопаснее."
-        },
-        {
-          "id": "sent-022",
-          "text": "Al amanecer, oyeron agua y llegaron a un río.",
-          "translationRu": "На рассвете они услышали воду и добрались до реки."
+          "text": "Burl se sentó en un hongo y disfrutó de la admiración de todos.",
+          "translationRu": "Бёрл сел на гриб и наслаждался восхищением всех."
         }
       ]
     },
@@ -152,24 +147,19 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-022",
+          "text": "Pero mientras Burl celebraba, un peligro nuevo se acercaba.",
+          "translationRu": "Но пока Бёрл праздновал, приближалась новая опасность."
+        },
+        {
           "id": "sent-023",
-          "text": "Burl hizo balsas con hongos grandes.",
-          "translationRu": "Бёрл смастерил плоты из больших грибов."
+          "text": "Por toda la tierra había hongos rojos que crecían lentamente.",
+          "translationRu": "По всей земле росли красные грибы, которые медленно разрастались."
         },
         {
           "id": "sent-024",
-          "text": "La tribu navegó por el río todo el día.",
-          "translationRu": "Племя плыло по реке весь день."
-        },
-        {
-          "id": "sent-025",
-          "text": "El río los llevó a un pequeño valle entre las montañas.",
-          "translationRu": "Река привела их в небольшую долину среди гор."
-        },
-        {
-          "id": "sent-026",
-          "text": "Allí no había hongos rojos.",
-          "translationRu": "Там не было красных грибов."
+          "text": "La tribu no los comió porque sabían que las cosas extrañas son peligrosas.",
+          "translationRu": "Племя не ело их, потому что знало: странные вещи опасны."
         }
       ]
     },
@@ -177,24 +167,24 @@
       "id": "para-008",
       "sentences": [
         {
+          "id": "sent-025",
+          "text": "Ese día, un hongo rojo explotó en una colina lejana.",
+          "translationRu": "В тот день красный гриб взорвался на далёком холме."
+        },
+        {
+          "id": "sent-026",
+          "text": "Lanzó una nube de polvo rojo al aire.",
+          "translationRu": "Он выбросил облако красной пыли в воздух."
+        },
+        {
           "id": "sent-027",
-          "text": "La tribu encontró cuevas antiguas para vivir.",
-          "translationRu": "Племя нашло старые пещеры для жилья."
+          "text": "Una abeja entró en la nube y cayó al suelo muerta.",
+          "translationRu": "Пчела влетела в облако и упала на землю мёртвой."
         },
         {
           "id": "sent-028",
-          "text": "Había mucha comida en el nuevo lugar.",
-          "translationRu": "На новом месте было много еды."
-        },
-        {
-          "id": "sent-029",
-          "text": "Burl anunció que Saya era su compañera.",
-          "translationRu": "Бёрл объявил, что Сайя — его подруга."
-        },
-        {
-          "id": "sent-030",
-          "text": "La tribu tenía un nuevo hogar, lejos del polvo rojo.",
-          "translationRu": "У племени появился новый дом вдали от красной пыли."
+          "text": "Por toda la tierra los hongos rojos explotaban uno a uno y mataban a los animales cercanos.",
+          "translationRu": "По всей земле красные грибы взрывались один за другим и убивали ближайших животных."
         }
       ]
     }
