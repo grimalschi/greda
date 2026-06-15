@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "id": "maza-of-the-moon",
+  "title": "Maza de la Luna",
+  "titleRu": "Маза с Луны",
+  "originalTitle": "Maza of the Moon",
+  "author": {
+    "id": "otis-adelbert-kline",
+    "name": "Otis Adelbert Kline"
+  },
+  "genres": ["Фантастика"],
+  "synopsisRu": "Молодой изобретатель Тед Дастин случайно развязывает войну между Землёй и Луной, уничтожив лунный город своим снарядом. Чтобы остановить бомбардировки, он летит на Луну в одиночку, сражается с тираном Пан-ку и спасает лунную принцессу Мазу.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-green-girl",
+  "title": "La chica verde",
+  "titleRu": "Зелёная девушка",
+  "originalTitle": "The Green Girl",
+  "author": {
+    "id": "jack-williamson",
+    "name": "Jack Williamson"
+  },
+  "genres": ["Фантастика"],
+  "synopsisRu": "В 1999 году загадочная сила начинает гасить солнце, угрожая заморозить Землю; учёный Сэм Уолден и его воспитанник Мелвин Дейн погружаются в тайный мир на дне Тихого океана, где Мелвин наконец встречает Ксенору — девушку с зелёной кожей, которая являлась ему в снах всю жизнь, и вместе они уничтожают металлический разум, порабощавший оба мира.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

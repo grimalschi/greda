@@ -15,3 +15,7 @@ yarn-error.log*
 .env
 .env.*
 *.token
+
+# Рабочий план генерации (не коммитим)
+.gen-plan.json
+.plan/
