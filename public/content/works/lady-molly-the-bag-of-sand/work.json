@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "lady-molly-the-bag-of-sand",
+  "title": "La bolsa de arena",
+  "titleRu": "Мешок с песком",
+  "originalTitle": "The Bag of Sand",
+  "author": {
+    "id": "baroness-orczy",
+    "name": "Baroness Orczy"
+  },
+  "genres": [
+    "Детектив",
+    "Леди Молли"
+  ],
+  "synopsisRu": "Леди Молли расследует убийство богатой миссис Данстан, задушенной газом в собственной спальне. Ключом к разгадке оказывается мешок с песком и скромная экономка, которую никто не подозревал.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
