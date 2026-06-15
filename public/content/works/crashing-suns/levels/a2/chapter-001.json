@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los soles que chocan"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Jan Tor es capitán de una nave patrullera.",
-          "translationRu": "Ян Тор — капитан патрульного корабля."
+          "text": "Jan Tor era capitán de una nave de la Patrulla Interplanetaria.",
+          "translationRu": "Ян Тор был капитаном корабля Межпланетного патруля."
         },
         {
           "id": "sent-002",
-          "text": "Un día recibe una orden del Consejo Supremo.",
-          "translationRu": "Однажды он получает приказ от Верховного Совета."
+          "text": "Él pilotaba la nave entre los planetas del sistema solar.",
+          "translationRu": "Он вёл корабль между планетами солнечной системы."
         },
         {
           "id": "sent-003",
-          "text": "Tiene que ir a la Tierra inmediatamente.",
-          "translationRu": "Ему нужно немедленно отправиться на Землю."
+          "text": "Un día, un meteorito pasó muy cerca y sacudió la nave con fuerza.",
+          "translationRu": "Однажды метеорит пролетел совсем рядом и сильно тряхнул корабль."
+        },
+        {
+          "id": "sent-004",
+          "text": "Hal Kur, el ingeniero, subió a la cabina con los ojos muy abiertos.",
+          "translationRu": "Хал Кур, инженер, поднялся в рубку с широко раскрытыми глазами."
         }
       ]
     },
@@ -32,29 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "En la sala del Consejo hay ochocientos miembros.",
-          "translationRu": "В зале Совета находятся восемьсот членов."
-        },
-        {
           "id": "sent-005",
-          "text": "El presidente Mur Dak habla con voz seria.",
-          "translationRu": "Председатель Мур Дак говорит серьёзным голосом."
+          "text": "Los dos hombres miraron por la ventana de la nave.",
+          "translationRu": "Оба мужчины посмотрели в иллюминатор корабля."
         },
         {
           "id": "sent-006",
-          "text": "Una estrella llamada Alto cambia su camino.",
-          "translationRu": "Звезда под названием Альто меняет свой путь."
+          "text": "Delante de ellos brillaba la Tierra, una pequeña esfera de luz verde.",
+          "translationRu": "Перед ними сияла Земля — маленький шар зелёного света."
         },
         {
           "id": "sent-007",
-          "text": "Ahora va directamente hacia nuestro sol.",
-          "translationRu": "Теперь она летит прямо к нашему солнцу."
+          "text": "Jan Tor vivió mucho tiempo en los planetas grandes como Júpiter y Saturno.",
+          "translationRu": "Ян Тор долго жил на больших планетах, таких как Юпитер и Сатурн."
         },
         {
           "id": "sent-008",
-          "text": "Los dos soles van a chocar en menos de un año.",
-          "translationRu": "Два солнца столкнутся меньше чем через год."
+          "text": "La humanidad habitaba los ocho mundos del sistema solar desde hacía cien mil años.",
+          "translationRu": "Человечество населяло восемь миров солнечной системы уже сто тысяч лет."
         }
       ]
     },
@@ -63,23 +63,23 @@
       "sentences": [
         {
           "id": "sent-009",
-          "text": "Mur Dak tiene un plan.",
-          "translationRu": "У Мур Дака есть план."
+          "text": "De repente, el telestereo de la nave sonó con una llamada urgente.",
+          "translationRu": "Вдруг телестерео корабля зазвучало с срочным вызовом."
         },
         {
           "id": "sent-010",
-          "text": "El científico Sarto Sen construyó una nave muy rápida.",
-          "translationRu": "Учёный Сарто Сен построил очень быстрый корабль."
+          "text": "En la pantalla apareció la imagen de un hombre del Consejo Supremo.",
+          "translationRu": "На экране появился образ человека из Верховного Совета."
         },
         {
           "id": "sent-011",
-          "text": "La nave puede volar a la velocidad de la luz.",
-          "translationRu": "Корабль может лететь со скоростью света."
+          "text": "Le ordenó a Jan Tor ir a la Tierra lo más rápido posible.",
+          "translationRu": "Он приказал Яну Тору лететь на Землю как можно скорее."
         },
         {
           "id": "sent-012",
-          "text": "El Consejo elige a Jan Tor como capitán de la expedición.",
-          "translationRu": "Совет выбирает Яна Тора капитаном экспедиции."
+          "text": "Jan Tor no sabía el motivo, pero obedeció la orden.",
+          "translationRu": "Ян Тор не знал причины, но подчинился приказу."
         }
       ]
     },
@@ -88,23 +88,18 @@
       "sentences": [
         {
           "id": "sent-013",
-          "text": "La nave parte hacia la estrella Alto.",
-          "translationRu": "Корабль отправляется к звезде Альто."
+          "text": "La nave llegó a la Tierra en una hora.",
+          "translationRu": "Корабль прилетел на Землю через час."
         },
         {
           "id": "sent-014",
-          "text": "En el camino entran en un área oscura.",
-          "translationRu": "По дороге они попадают в тёмную область."
+          "text": "El espacio cerca de la Tierra estaba lleno de naves: cargueros, barcos de pasajeros y yates.",
+          "translationRu": "Космос вблизи Земли был заполнен кораблями: грузовыми, пассажирскими и яхтами."
         },
         {
           "id": "sent-015",
-          "text": "Es un agujero en el éter y la nave casi se para.",
-          "translationRu": "Это дыра в эфире, и корабль чуть не останавливается."
-        },
-        {
-          "id": "sent-016",
-          "text": "Después de cuarenta días llegan a la estrella Alto.",
-          "translationRu": "Через сорок дней они достигают звезды Альто."
+          "text": "Jan Tor aterrizó junto al Gran Salón de los Planetas, el centro del gobierno de los Ocho Mundos.",
+          "translationRu": "Ян Тор приземлился у Большого Зала Планет — центра правления Восьми Миров."
         }
       ]
     },
@@ -112,24 +107,19 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-016",
+          "text": "Su amigo Sarto Sen, un científico joven con gafas, lo esperaba en el patio.",
+          "translationRu": "Его друг Сарто Сен, молодой учёный в очках, ждал его во дворе."
+        },
+        {
           "id": "sent-017",
-          "text": "Ven un planeta rojo cerca de la estrella.",
-          "translationRu": "Они видят красную планету рядом со звездой."
+          "text": "Sarto Sen lo llevó rápido al gran salón donde estaban ochocientos miembros del Consejo.",
+          "translationRu": "Сарто Сен быстро отвёл его в большой зал, где находились восемьсот членов Совета."
         },
         {
           "id": "sent-018",
-          "text": "En el planeta hay una torre enorme y una ciudad negra.",
-          "translationRu": "На планете стоит огромная башня и чёрный город."
-        },
-        {
-          "id": "sent-019",
-          "text": "Un rayo atrapa la nave y cae en la plataforma de la torre.",
-          "translationRu": "Луч захватывает корабль, и он падает на платформу башни."
-        },
-        {
-          "id": "sent-020",
-          "text": "Los habitantes son criaturas de forma esférica.",
-          "translationRu": "Обитатели планеты — шарообразные существа."
+          "text": "Mur Dak, el presidente del Consejo, empezó a hablar con una cara pálida y seria.",
+          "translationRu": "Мур Дак, председатель Совета, начал говорить с бледным и серьёзным лицом."
         }
       ]
     },
@@ -137,24 +127,29 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-019",
+          "text": "Mur Dak explicó que una estrella moribunda llamada Alto se acercaba al sistema solar.",
+          "translationRu": "Мур Дак объяснил, что умирающая звезда по имени Альто приближается к солнечной системе."
+        },
+        {
+          "id": "sent-020",
+          "text": "Antes, los científicos pensaban que Alto pasaría lejos de nuestro sol.",
+          "translationRu": "Раньше учёные думали, что Альто пройдёт далеко от нашего Солнца."
+        },
+        {
           "id": "sent-021",
-          "text": "Sarto Sen habla con el jefe de los seres esféricos.",
-          "translationRu": "Сарто Сен разговаривает с вождём шарообразных существ."
+          "text": "Pero ocho semanas atrás, la estrella cambió su camino y empezó a acercarse más.",
+          "translationRu": "Но восемь недель назад звезда изменила курс и начала приближаться сильнее."
         },
         {
           "id": "sent-022",
-          "text": "Aprende la verdad: ellos cambiaron el camino de su sol para salvar su raza.",
-          "translationRu": "Он узнаёт правду: они изменили путь своего солнца, чтобы спасти свой народ."
+          "text": "Ahora Alto iba directamente hacia nuestro sol, y los dos soles chocaban en menos de un año.",
+          "translationRu": "Теперь Альто летело прямо к нашему Солнцу, и оба Солнца столкнутся менее чем через год."
         },
         {
           "id": "sent-023",
-          "text": "Usaron un rayo especial para girar su sol más rápido.",
-          "translationRu": "Они использовали особый луч, чтобы заставить своё солнце вращаться быстрее."
-        },
-        {
-          "id": "sent-024",
-          "text": "El sol cambió de camino y ahora va a destruir los Ocho Mundos.",
-          "translationRu": "Солнце изменило курс и теперь уничтожит Восемь Миров."
+          "text": "Si los dos soles chocaban, todos los planetas del sistema solar morirían en el fuego.",
+          "translationRu": "Если два солнца столкнутся, все планеты солнечной системы сгорят в огне."
         }
       ]
     },
@@ -162,19 +157,24 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-024",
+          "text": "Después del discurso hubo un silencio terrible en el salón.",
+          "translationRu": "После речи в зале наступила страшная тишина."
+        },
+        {
           "id": "sent-025",
-          "text": "Jan Tor y sus amigos escapan de la celda por la noche.",
-          "translationRu": "Ян Тор и его друзья ночью бегут из камеры."
+          "text": "Luego todos gritaron y aplaudieron: ¡los hombres querían luchar!",
+          "translationRu": "Потом все закричали и зааплодировали: люди хотели бороться!"
         },
         {
           "id": "sent-026",
-          "text": "Luchan con los guardias y toman su nave.",
-          "translationRu": "Они сражаются с охраной и захватывают свой корабль."
+          "text": "Mur Dak presentó el plan: enviar la nueva nave de Sarto Sen hasta la estrella Alto.",
+          "translationRu": "Мур Дак представил план: послать новый корабль Сарто Сена к звезде Альто."
         },
         {
           "id": "sent-027",
-          "text": "Vuelven a la Tierra con las noticias.",
-          "translationRu": "Они возвращаются на Землю с новостями."
+          "text": "La nave podía volar a la velocidad de la luz usando vibraciones especiales.",
+          "translationRu": "Корабль мог лететь со скоростью света, используя особые вибрации."
         }
       ]
     },
@@ -183,23 +183,18 @@
       "sentences": [
         {
           "id": "sent-028",
-          "text": "Los Ocho Mundos construyen una flota de más de mil naves.",
-          "translationRu": "Восемь Миров строят флот из более чем тысячи кораблей."
+          "text": "Mur Dak eligió a Jan Tor como capitán de la expedición peligrosa.",
+          "translationRu": "Мур Дак выбрал Яна Тора командиром опасной экспедиции."
         },
         {
           "id": "sent-029",
-          "text": "La flota viaja a Alto y lucha contra los seres esféricos.",
-          "translationRu": "Флот летит к Альто и сражается с шарообразными существами."
+          "text": "Jan Tor no esperaba esto, pero el Consejo lo aplaudió con gran entusiasmo.",
+          "translationRu": "Ян Тор не ожидал этого, но Совет встретил его с большим воодушевлением."
         },
         {
           "id": "sent-030",
-          "text": "Los humanos ganan la batalla, pero destruyen el proyector de rayos.",
-          "translationRu": "Люди побеждают в битве, но проектор лучей уничтожен."
-        },
-        {
-          "id": "sent-031",
-          "text": "Parece que todo está perdido.",
-          "translationRu": "Кажется, всё потеряно."
+          "text": "Mur Dak le dijo: la suerte de los Ocho Mundos está en tus manos.",
+          "translationRu": "Мур Дак сказал ему: судьба Восьми Миров в твоих руках."
         }
       ]
     },
@@ -207,29 +202,24 @@
       "id": "para-009",
       "sentences": [
         {
+          "id": "sent-031",
+          "text": "Cinco minutos después, Jan Tor, Sarto Sen y Hal Kur subieron a la nueva nave.",
+          "translationRu": "Пять минут спустя Ян Тор, Сарто Сен и Хал Кур поднялись на борт нового корабля."
+        },
+        {
           "id": "sent-032",
-          "text": "Pero Sarto Sen llega solo con la nave original.",
-          "translationRu": "Но Сарто Сен прилетает один на исходном корабле."
+          "text": "La nave despegó muy rápido y la Tierra desapareció detrás de ellos en segundos.",
+          "translationRu": "Корабль взлетел очень быстро, и Земля исчезла позади них за считаные секунды."
         },
         {
           "id": "sent-033",
-          "text": "Construyó su propio rayo y lo usa sobre el sol Alto.",
-          "translationRu": "Он построил собственный луч и направляет его на солнце Альто."
+          "text": "Pasaron Marte, Júpiter y Neptuno, y salieron del sistema solar.",
+          "translationRu": "Они миновали Марс, Юпитер и Нептун и покинули солнечную систему."
         },
         {
           "id": "sent-034",
-          "text": "El sol gira demasiado rápido y se divide en dos partes.",
-          "translationRu": "Солнце вращается слишком быстро и раскалывается на две части."
-        },
-        {
-          "id": "sent-035",
-          "text": "Las dos partes se separan y los Ocho Mundos están salvados.",
-          "translationRu": "Две части расходятся, и Восемь Миров спасены."
-        },
-        {
-          "id": "sent-036",
-          "text": "Sarto Sen muere como un héroe, pero el universo vive.",
-          "translationRu": "Сарто Сен погибает как герой, но вселенная продолжает жить."
+          "text": "La misión para salvar el universo había comenzado.",
+          "translationRu": "Миссия по спасению вселенной началась."
         }
       ]
     }

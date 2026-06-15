@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Los soles que chocan"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,18 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Jan Tor, capitán del crucero patrullero 79388, acababa de esquivar un meteorito cuando la pantalla del telestereo se encendió y apareció ante él la imagen de un mensajero del Consejo Supremo.",
-          "translationRu": "Ян Тор, капитан патрульного крейсера 79388, только что уклонился от метеорита, когда на экране телестерео появился образ посланца Верховного Совета."
+          "text": "Cuando accioné las palancas de control, nuestra nave se lanzó a través del espacio con la rapidez del pensamiento, y un instante después un choque violento la hizo girar como una peonza.",
+          "translationRu": "Когда я нажал рычаги управления, наш корабль устремился сквозь пространство со скоростью мысли, и мгновение спустя резкий удар заставил его завертеться, как волчок."
         },
         {
           "id": "sent-002",
-          "text": "La orden era directa: presentarse de inmediato en la Sala de los Planetas, en la Tierra.",
-          "translationRu": "Приказ был прямым: немедленно явиться в Зал Планет на Земле."
+          "text": "Todo en la cabina de mando —las ventanas, los cuadrantes y los controles— parecía girar a mi alrededor a velocidad vertiginosa, mientras yo me aferraba desesperadamente a las palancas.",
+          "translationRu": "Всё в рубке управления — иллюминаторы, приборы и рычаги — казалось, кружилось вокруг меня с головокружительной скоростью, пока я судорожно держался за ручки."
         },
         {
           "id": "sent-003",
-          "text": "Acompañado por su fiel ingeniero Hal Kur, Jan Tor aceleró hacia la Terra sin comprender aún lo que le esperaba.",
-          "translationRu": "В сопровождении верного инженера Хала Кура Ян Тор направился на Землю, ещё не понимая, что его ждёт."
+          "text": "En un momento logré devolver los controles a su posición y la nave se estabilizó de inmediato, deslizándose suavemente por el éter.",
+          "translationRu": "Через мгновение мне удалось вернуть рычаги в положение, и корабль тут же выровнялся, плавно скользя сквозь эфир."
         }
       ]
     },
@@ -33,23 +33,23 @@
       "sentences": [
         {
           "id": "sent-004",
-          "text": "En la enorme sala circular, ante los ochocientos miembros del Consejo reunidos en sesión solemne, el presidente Mur Dak anunció la noticia con una calma que hacía aún más aterradoras sus palabras.",
-          "translationRu": "В огромном круглом зале, перед восемьюстами членами Совета, собравшимися на торжественное заседание, председатель Мур Дак объявил новость с хладнокровием, которое делало его слова ещё страшнее."
+          "text": "La trampilla del suelo se abrió de golpe y apareció el rostro sorprendido del enorme Hal Kur, mi ingeniero jefe, con los ojos muy abiertos.",
+          "translationRu": "Люк в полу распахнулся, и появилось удивлённое лицо огромного Хала Кура, моего главного инженера, с широко открытыми глазами."
         },
         {
           "id": "sent-005",
-          "text": "La estrella moribunda conocida como Alto, que había seguido su curso durante siglos sin desviarse, había cambiado de trayectoria ocho semanas antes.",
-          "translationRu": "Умирающая звезда, известная как Альто, которая столетиями следовала своим курсом, восемь недель назад изменила траекторию."
+          "text": "«¡Por el Poder, Jan Tor!», exclamó. «¡Ese último meteorito casi nos roza! ¡Un centímetro más y habría acabado con la nave!»",
+          "translationRu": "«Клянусь Силой, Ян Тор!» — воскликнул он. «Тот метеорит едва нас не задел! Ещё сантиметр, и конец кораблю!»"
         },
         {
           "id": "sent-006",
-          "text": "En lugar de pasar a miles de millones de kilómetros de nuestro sol, como habían calculado los astrónomos, ahora se dirigía directamente hacia él.",
-          "translationRu": "Вместо того чтобы пройти на миллиарды километров от нашего солнца, как подсчитали астрономы, она теперь мчалась прямо к нему."
+          "text": "Le dije riendo que estábamos a menos de cuatrocientas mil millas de la Tierra, señalando hacia la ventana donde brillaba el pequeño orbe nublado de nuestro planeta natal.",
+          "translationRu": "Я сказал ему со смехом, что мы в менее чем четырёхстах тысячах миль от Земли, указав на окно, где светился маленький туманный шар нашей родной планеты."
         },
         {
           "id": "sent-007",
-          "text": "El resultado sería una colisión catastrófica que aniquilaría todos los planetas del sistema solar en menos de un año.",
-          "translationRu": "Результатом станет катастрофическое столкновение, которое уничтожит все планеты солнечной системы менее чем за год."
+          "text": "A mí, que había pasado gran parte de mi vida en los cuatro gigantes exteriores —Júpiter, Saturno, Urano y Neptuno—, la pequeña Tierra con su única luna insignificante me parecía casi irrelevante, aunque de ella había brotado la civilización humana que ahora dominaba los ocho mundos del sistema solar.",
+          "translationRu": "Мне, проведшему большую часть жизни на четырёх внешних гигантах — Юпитере, Сатурне, Уране и Нептуне, — маленькая Земля с единственной крошечной луной казалась почти незначительной, хотя именно она породила человеческую цивилизацию, ныне господствующую над восемью мирами Солнечной системы."
         }
       ]
     },
@@ -58,23 +58,18 @@
       "sentences": [
         {
           "id": "sent-008",
-          "text": "Sin embargo, el Consejo no se resignaba a esperar el fin pasivamente.",
-          "translationRu": "Однако Совет не собирался пассивно ожидать конца."
+          "text": "De repente sonó el telestereo —el dispositivo de comunicación holográfica que funcionaba mediante vibraciones etéricas— y sobre el disco de cristal apareció la imagen de un mensajero del Consejo Supremo, vestido con la túnica azul y blanca oficial.",
+          "translationRu": "Внезапно зазвонил телестерео — голографический коммуникатор на эфирных вибрациях, — и на хрустальном диске появилось изображение посланца Верховного Совета в официальном бело-голубом одеянии."
         },
         {
           "id": "sent-009",
-          "text": "Mur Dak presentó al joven científico Sarto Sen, quien durante tres años había trabajado en un sistema de propulsión basado en vibraciones etéricas.",
-          "translationRu": "Мур Дак представил молодого учёного Сарто Сена, который три года работал над системой движения на основе эфирных вибраций."
+          "text": "«Jan Tor, Capitán del Crucero de Patrulla Interplanetaria 79388», dijo con voz oficial. «El Consejo Supremo de la Liga de Planetas le ordena que se persone de inmediato en el Salón de los Planetas en la Tierra. ¿Ha escuchado la orden?»",
+          "translationRu": "«Ян Тор, капитан Межпланетного патрульного крейсера 79388», — произнёс он официальным тоном. «Верховный Совет Лиги Планет приказывает вам немедленно явиться в Зал Планет на Земле. Приказ принят?»"
         },
         {
           "id": "sent-010",
-          "text": "Su pequeño crucero de diez plazas podía alcanzar la velocidad de la luz y, en pocas semanas, lo que antes habría tardado siglos.",
-          "translationRu": "Его небольшой десятиместный крейсер мог достигать скорости света и покрывать за несколько недель то, что раньше занимало века."
-        },
-        {
-          "id": "sent-011",
-          "text": "El Consejo nombró a Jan Tor comandante de la expedición, cuya misión era viajar a Alto, descubrir la causa de su desvío y evaluar cualquier posibilidad de invertirlo.",
-          "translationRu": "Совет назначил Яна Тора командиром экспедиции, чья миссия состояла в том, чтобы долететь до Альто, выяснить причину отклонения и оценить любую возможность его обращения вспять."
+          "text": "Respondí con la fórmula reglamentaria, di las órdenes para acelerar al máximo hacia la Tierra y me pregunté qué podría querer el Consejo Supremo de un simple capitán de patrulla.",
+          "translationRu": "Я ответил уставной формулой, отдал приказы о максимальном ускорении к Земле и задумался, чего мог захотеть Верховный Совет от простого капитана патруля."
         }
       ]
     },
@@ -82,24 +77,19 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-011",
+          "text": "La nave se posó sin sacudidas en el patio de aterrizaje situado tras la enorme cúpula del Salón de los Planetas, que se alzaba más de dos mil pies sobre la superficie terrestre.",
+          "translationRu": "Корабль без толчка приземлился во дворе позади огромного купола Зала Планет, возвышавшегося более чем на две тысячи футов над поверхностью Земли."
+        },
+        {
           "id": "sent-012",
-          "text": "El crucero partió y en cuestión de horas la Tierra no era más que un punto de luz tras ellos.",
-          "translationRu": "Крейсер отправился в путь, и через несколько часов Земля превратилась в светящуюся точку позади."
+          "text": "Al pie de la escalerilla me esperaba un joven delgado con gafas vestido con la túnica roja de los Científicos: era mi amigo Sarto Sen, a quien creía trabajando en los Laboratorios de Venus.",
+          "translationRu": "У подножия трапа меня ожидал худощавый молодой человек в очках в красной мантии учёных: это был мой друг Сарто Сен, которого я считал работающим в лабораториях на Венере."
         },
         {
           "id": "sent-013",
-          "text": "Durante el viaje sufrieron el sobresalto de cruzar una cavidad en el éter, una zona donde la luz y las propias vibraciones del motor cesaban por completo, dejándolos a la deriva en una oscuridad absoluta.",
-          "translationRu": "В пути их потряс случай с пустотой в эфире — зоной, где полностью прекращались свет и сами вибрации двигателя, оставляя их дрейфовать в абсолютной тьме."
-        },
-        {
-          "id": "sent-014",
-          "text": "Solo la enorme inercia de la nave los salvó, y lograron atravesarla antes de que la gravedad de las estrellas lejanas los detuviera para siempre.",
-          "translationRu": "Лишь огромная инерция корабля их спасла — они успели пересечь её прежде, чем притяжение далёких звёзд остановило бы их навсегда."
-        },
-        {
-          "id": "sent-015",
-          "text": "En el día cuarenta de vuelo redujeron velocidad y se situaron a veinte millones de millas por encima de la estrella Alto.",
-          "translationRu": "На сороковой день полёта они снизили скорость и зависли в двадцати миллионах миль над звездой Альто."
+          "text": "«El Consejo se está reuniendo ahora mismo», me explicó mientras me conducía deprisa por los corredores blancos del edificio. «He pedido al presidente Mur Dak que retrase la sesión hasta tu llegada.»",
+          "translationRu": "«Совет собирается прямо сейчас», — объяснил он, быстро ведя меня по белым коридорам здания. «Я попросил председателя Мур Дака отложить заседание до твоего прибытия.»"
         }
       ]
     },
@@ -107,29 +97,29 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-014",
+          "text": "En la inmensa sala circular, con su cúpula colosal, los ochocientos miembros del Consejo Supremo —representantes de cada uno de los Ocho Mundos— estaban sentados en solemne sesión cuando Mur Dak tomó la palabra desde el estrado central.",
+          "translationRu": "В огромном круглом зале с колоссальным куполом восемьсот членов Верховного Совета — представители каждого из Восьми Миров — сидели на торжественном заседании, когда Мур Дак взял слово с центральной трибуны."
+        },
+        {
+          "id": "sent-015",
+          "text": "«Hombres de los Ocho Mundos», comenzó con voz grave, «he convocado esta sesión por la razón más grave que puede existir: se ha descubierto un peligro que amenaza la civilización y la propia existencia de toda nuestra raza, un peligro mortal que avanza hacia nosotros a velocidad inconcebible y que amenaza con aniquilar nuestro universo entero.»",
+          "translationRu": "«Люди Восьми Миров», — начал он торжественным голосом, — «я созвал это заседание по самой серьёзной из возможных причин: обнаружена опасность, угрожающая цивилизации и самому существованию всей нашей расы, смертельная опасность, надвигающаяся на нас с немыслимой скоростью и грозящая уничтожить всю нашу вселенную.»"
+        },
+        {
           "id": "sent-016",
-          "text": "Desde allí divisaron trece mundos que orbitaban la estrella moribunda, y se aproximaron al más cercano, un planeta de vegetación roja bañado por la luz carmesí de su sol.",
-          "translationRu": "Оттуда они разглядели тринадцать миров, вращавшихся вокруг умирающей звезды, и приблизились к ближайшему — планете с красной растительностью, залитой алым светом её солнца."
+          "text": "Nuestro sol, junto con sus ocho planetas, se mueve a través del espacio a unos doce kilómetros por segundo, y entre las incontables estrellas en movimiento existe una llamada Alto: una estrella roja y moribunda que durante siglos se ha ido acercando a nosotros y que ahora es la más próxima de todas.",
+          "translationRu": "Наше солнце вместе с восемью планетами движется сквозь пространство со скоростью около двенадцати миль в секунду, и среди бесчисленных движущихся звёзд есть одна под названием Альто: красная умирающая звезда, которая веками неуклонно приближалась к нам и теперь является ближайшей из всех."
         },
         {
           "id": "sent-017",
-          "text": "En su superficie se alzaba una ciudad de edificios negros y calles estrechas, dominada por una torre de cuatro columnas que se elevaba diez mil pies hasta una plataforma circular.",
-          "translationRu": "На её поверхности стоял город из чёрных зданий и узких улиц, над которым господствовала башня из четырёх колонн, поднимавшихся на десять тысяч футов до круглой платформы."
+          "text": "Los astrónomos habían calculado que Alto pasaría junto a nuestro sol a una distancia de miles de millones de millas, sin suponer ningún peligro, pero ocho semanas antes el Observatorio Sur de Marte había detectado que la estrella había desviado su trayectoria y se aproximaba directamente hacia nuestro sol.",
+          "translationRu": "Астрономы подсчитали, что Альто пройдёт мимо нашего солнца на расстоянии миллиардов миль, не представляя никакой опасности, но восемь недель назад Южная обсерватория Марса обнаружила, что звезда отклонилась от курса и движется прямо к нашему солнцу."
         },
         {
           "id": "sent-018",
-          "text": "Cuando la nave se acercó a la plataforma, un rayo atractivo de intensa luz blanca los atrapó y los hizo aterrizar bruscamente en ella.",
-          "translationRu": "Когда корабль приблизился к платформе, притягивающий луч ослепительно-белого света захватил их и резко принудил к посадке."
-        },
-        {
-          "id": "sent-019",
-          "text": "Cinco de los ingenieros salieron antes de que pudieran impedirlo y fueron incinerados al instante por los discos de fuego de los habitantes.",
-          "translationRu": "Пятеро инженеров вышли раньше, чем их успели остановить, и были немедленно испепелены огневыми дисками обитателей."
-        },
-        {
-          "id": "sent-020",
-          "text": "Los habitantes resultaron ser criaturas esféricas de carne rosácea, sostenidas por seis patas de insecto y dotadas de dos ojos negros y redondos en su cuerpo globular.",
-          "translationRu": "Обитателями оказались шарообразные существа из розоватой плоти, поддерживаемые шестью насекомоподобными ногами с двумя круглыми чёрными глазами на глобусообразном теле."
+          "text": "«En menos de un año», anunció Mur Dak con voz que resonó sobre el silencio sepulcral de la sala, «nuestro sol y esta estrella moribunda chocarán de frente en una gigantesca colisión. Los planetas de nuestro sistema perecerán como flores en un horno en ese titánico holocausto de soles que se destrozan.»",
+          "translationRu": "«Менее чем через год», — объявил Мур Дак голосом, прозвучавшим над гробовой тишиной зала, — «наше солнце и эта умирающая звезда столкнутся лоб в лоб в гигантском столкновении. Планеты нашей системы погибнут, как цветы в печи, в этом титаническом холокосте сталкивающихся солнц.»"
         }
       ]
     },
@@ -137,39 +127,24 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-019",
+          "text": "El silencio que siguió duró apenas un instante; luego un miembro del Consejo se puso en pie y proclamó que las razas humanas no se habían cruzado de brazos ante ningún peligro en cien mil años de historia, y que no lo harían ahora.",
+          "translationRu": "Тишина, последовавшая за этим, длилась лишь мгновение; затем один из членов Совета поднялся и заявил, что человеческие расы не складывали руки ни перед одной опасностью за сто тысяч лет истории — и не сделают этого сейчас."
+        },
+        {
+          "id": "sent-020",
+          "text": "Todos nos pusimos en pie y la sala estalló en un tumulto de aplausos, hasta que Mur Dak volvió a tomar la palabra para revelar un plan que dependía de un invento extraordinario.",
+          "translationRu": "Все встали, и зал взорвался аплодисментами, пока Мур Дак снова не взял слово, чтобы раскрыть план, зависевший от чрезвычайного изобретения."
+        },
+        {
           "id": "sent-021",
-          "text": "Jan Tor, Hal Kur y el único ingeniero superviviente fueron encerrados en una celda, mientras que Sarto Sen fue retenido para ser interrogado.",
-          "translationRu": "Яна Тора, Хала Кура и единственного выжившего инженера заперли в камере, тогда как Сарто Сена удержали для допроса."
+          "text": "El joven científico Sarto Sen había construido durante tres años un pequeño crucero impulsado por vibraciones etéricas que podía alcanzar la velocidad de la luz —suficiente para llegar a la estrella Alto en pocas semanas en lugar de siglos— y el aparato ya aguardaba listo en uno de los patios del edificio.",
+          "translationRu": "Молодой учёный Сарто Сен три года строил небольшой крейсер на эфирных вибрациях, способный достигать скорости света — достаточной, чтобы добраться до звезды Альто за несколько недель вместо столетий, — и аппарат уже ожидал готовый на одном из дворов здания."
         },
         {
           "id": "sent-022",
-          "text": "Sarto Sen había atraído la atención del jefe con un dibujo de dos soles en colisión, demostrando que sabía lo que ocurría.",
-          "translationRu": "Сарто Сен привлёк внимание вождя рисунком двух столкнувшихся солнц, дав понять, что знает, что происходит."
-        },
-        {
-          "id": "sent-023",
-          "text": "Durante los diez días de cautiverio desarrolló con el jefe un sistema de comunicación por dibujos y gestos.",
-          "translationRu": "За десять дней заключения он разработал с вождём систему общения с помощью рисунков и жестов."
-        },
-        {
-          "id": "sent-024",
-          "text": "Cuando por fin pudo visitar a sus amigos, les reveló la terrible verdad.",
-          "translationRu": "Когда он наконец смог навестить друзей, то раскрыл им страшную правду."
-        },
-        {
-          "id": "sent-025",
-          "text": "Los hombres-esféricos habían desviado deliberadamente su sol hacia el nuestro porque el suyo se estaba apagando irremediablemente.",
-          "translationRu": "Шарообразные люди намеренно отклонили своё солнце к нашему, потому что их солнце неотвратимо угасало."
-        },
-        {
-          "id": "sent-026",
-          "text": "La fusión de ambos astros crearía un nuevo sol más poderoso, en torno al cual sobrevivirían sus planetas exteriores, aunque eso significara la destrucción de los Ocho Mundos.",
-          "translationRu": "Слияние двух светил создаст новое, более мощное солнце, вокруг которого выживут их внешние планеты — пусть даже ценой уничтожения Восьми Миров."
-        },
-        {
-          "id": "sent-027",
-          "text": "Para lograrlo, habían construido la torre con un proyector de rayos que aumentó la velocidad de rotación de Alto lo suficiente para cambiar su trayectoria.",
-          "translationRu": "Для этого они построили башню с проектором лучей, который увеличил скорость вращения Альто достаточно, чтобы изменить его траекторию."
+          "text": "La propuesta era enviar este crucero a Alto para descubrir la causa del desvío de la estrella y evaluar si era posible repetir o invertir ese fenómeno para apartarla de su rumbo actual y salvar el sistema solar.",
+          "translationRu": "Предложение состояло в том, чтобы отправить этот крейсер к Альто, выяснить причину отклонения звезды и оценить, возможно ли воспроизвести или обратить это явление, чтобы отклонить её от нынешнего курса и спасти Солнечную систему."
         }
       ]
     },
@@ -177,109 +152,19 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-028",
-          "text": "Esa misma noche los cuatro prisioneros ejecutaron su plan de fuga: Sarto Sen atrajo al guardia fingiendo quejidos de dolor, y Jan Tor se abalanzó sobre él en la oscuridad.",
-          "translationRu": "В ту же ночь четверо заключённых осуществили план побега: Сарто Сен приманил охранника, притворившись, что стонет от боли, а Ян Тор бросился на него в темноте."
+          "id": "sent-023",
+          "text": "Para liderar la expedición, Mur Dak mirándome directamente anunció su elección: «Un hombre joven que ha servido casi toda su vida en la Patrulla Interplanetaria y que se distinguió en la gran batalla espacial contra los piratas cerca de Japetus: ¡Jan Tor!»",
+          "translationRu": "Для руководства экспедицией Мур Дак, глядя прямо на меня, объявил свой выбор: «Молодой человек, почти всю жизнь прослуживший в Межпланетном патруле и отличившийся в великом космическом сражении с пиратами у Япета: Ян Тор!»"
         },
         {
-          "id": "sent-029",
-          "text": "El guardia resultó ser una criatura de sustancia gelatinosa que se desintegró en el combate, dejando un rastro que le revolvió el estómago a Jan Tor.",
-          "translationRu": "Охранник оказался существом из желеобразной массы, которое распалось в схватке, оставив след, вызвавший у Яна Тора тошноту."
+          "id": "sent-024",
+          "text": "Aturdido por lo inesperado de aquello, caminé torpemente hasta el estrado mientras una tormenta de aplausos me rodeaba, y Mur Dak me dijo con solemnidad: «Jan Tor, de ti y de esta expedición depende el destino del sistema solar. ¿Ha escuchado la orden?»",
+          "translationRu": "Ошеломлённый неожиданностью, я неловко прошёл к трибуне под бурю аплодисментов, и Мур Дак торжественно сказал мне: «Ян Тор, от тебя и этой экспедиции зависит судьба Солнечной системы. Приказ принят?»"
         },
         {
-          "id": "sent-030",
-          "text": "Con el disco de fuego recuperado, Jan Tor eliminó al grupo de guardianes del corredor de un único disparo.",
-          "translationRu": "С отобранным огневым диском Ян Тор одним выстрелом уничтожил группу охранников в коридоре."
-        },
-        {
-          "id": "sent-031",
-          "text": "Subieron por el ascensor de la columna hasta la plataforma, abordaron la nave y escaparon al espacio en el último momento antes de que los alcanzara el aluvión de fuego enemigo.",
-          "translationRu": "Они поднялись на лифте в колонне до платформы, взошли на корабль и вырвались в космос в самый последний момент до того, как их накрыл шквал вражеского огня."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-032",
-          "text": "De vuelta en la Tierra, el Consejo optó sin dudar por la batalla: los Ocho Mundos construyeron en tiempo récord más de mil cruceros propulsados por vibraciones, equipados con un rayo azul desintegrador capaz de deshacer la materia en sus átomos.",
-          "translationRu": "Вернувшись на Землю, Совет без колебаний выбрал битву: Восемь Миров в рекордные сроки построили более тысячи крейсеров на вибрационной тяге, оснащённых синим дезинтегрирующим лучом, способным разложить материю на атомы."
-        },
-        {
-          "id": "sent-033",
-          "text": "Sarto Sen declinó el mando conjunto y partió en silencio con la nave original hacia sus laboratorios de Venus; más tarde Jan Tor sabría el motivo.",
-          "translationRu": "Сарто Сен отказался от совместного командования и тихо отбыл на исходном корабле в свои лаборатории на Венере; позднее Ян Тор узнает причину."
-        },
-        {
-          "id": "sent-034",
-          "text": "La flota partió en formación triangular y tras treinta días de vuelo se enfrentó a la flota de cruceros de los hombres-esféricos, que habían estudiado y copiado el diseño del crucero de vibración durante el cautiverio.",
-          "translationRu": "Флот отправился треугольным строем, и после тридцати дней полёта столкнулся с флотом крейсеров шарообразных людей, которые изучили и скопировали конструкцию вибрационного крейсера в период заключения."
-        },
-        {
-          "id": "sent-035",
-          "text": "Tras una batalla feroz entre las estrellas, en la que los rayos azules y las bolas de fuego rosa cruzaban el vacío, la flota humana prevaleció.",
-          "translationRu": "После яростной битвы между звёздами, где синие лучи и розовые огненные шары пересекали пустоту, человеческий флот победил."
-        },
-        {
-          "id": "sent-036",
-          "text": "Sin embargo, los globo-hombres, en retirada, atrajeron a la flota humana sobre la propia superficie del sol y activaron un rayo de anulación que desactivó los generadores, precipitando cientos de naves hacia las llamas.",
-          "translationRu": "Однако шарообразные люди при отступлении заманили человеческий флот прямо над поверхностью солнца и включили луч нейтрализации, отключивший генераторы и бросивший сотни кораблей в пламя."
-        },
-        {
-          "id": "sent-037",
-          "text": "Algunos cruceros humanos sacrificaron sus propias vidas en colisiones suicidas contra los barcos emisores de ese rayo, liberando al resto de la flota.",
-          "translationRu": "Несколько человеческих крейсеров пожертвовали собой, пойдя на таранные удары по кораблям, испускавшим этот луч, и освободив остаток флота."
-        },
-        {
-          "id": "sent-038",
-          "text": "Con los generadores restaurados, los supervivientes cayeron sobre el planeta y en el último combate destruyeron los cruceros restantes del enemigo.",
-          "translationRu": "С восстановленными генераторами уцелевшие ринулись на планету и в последнем бою уничтожили оставшиеся крейсеры врага."
-        },
-        {
-          "id": "sent-039",
-          "text": "Pero entonces un último crucero enemigo destruyó la torre del proyector con bolas de fuego antes de ser pulverizado, y el marcador de tiempo confirmó que ya era demasiado tarde.",
-          "translationRu": "Но тут последний вражеский крейсер уничтожил башню проектора огненными шарами, прежде чем был сам уничтожен, — а таймер подтвердил, что уже слишком поздно."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-040",
-          "text": "En ese momento de desesperación, Hal Kur señaló hacia el sol: junto a su borde brillaba un pequeño punto oscuro que emitía un rayo de luz sobre su superficie.",
-          "translationRu": "В этот момент отчаяния Хал Кур указал на солнце: у самого его края светилась маленькая тёмная точка, испускавшая луч света на его поверхность."
-        },
-        {
-          "id": "sent-041",
-          "text": "Era la nave original de la expedición, y en su interior estaba Sarto Sen.",
-          "translationRu": "Это был исходный корабль экспедиции, и внутри находился Сарто Сен."
-        },
-        {
-          "id": "sent-042",
-          "text": "El científico había construido en secreto en sus laboratorios un duplicado del proyector de rayos de los globo-hombres, sabiendo que si fracasaba el ataque oficial, él sería el último recurso.",
-          "translationRu": "Учёный тайно создал в своих лабораториях копию проектора лучей шарообразных людей, зная, что если официальная атака провалится, он будет последним средством."
-        },
-        {
-          "id": "sent-043",
-          "text": "Había rechazado el cargo de segundo al mando y había guardado silencio sobre su plan porque sabía que Jan Tor habría insistido en acompañarle a una muerte segura.",
-          "translationRu": "Он отказался от поста заместителя командира и хранил молчание о своём плане, зная, что Ян Тор настоял бы на том, чтобы сопровождать его на верную смерть."
-        },
-        {
-          "id": "sent-044",
-          "text": "El rayo de Sarto Sen aceleró la rotación de Alto hasta tal punto que el sol se escindió en dos masas de fuego que se alejaron en direcciones opuestas.",
-          "translationRu": "Луч Сарто Сена ускорил вращение Альто настолько, что солнце раскололось на две огненные массы, разлетевшиеся в противоположных направлениях."
-        },
-        {
-          "id": "sent-045",
-          "text": "El peligro había desaparecido, pero Sarto Sen y su pequeña tripulación perecieron con el sol dividido.",
-          "translationRu": "Опасность миновала, но Сарто Сен и его маленький экипаж погибли вместе с расколотым солнцем."
-        },
-        {
-          "id": "sent-046",
-          "text": "Jan Tor regresó a la Tierra entre el júbilo de los Ocho Mundos, pero en el silencio del patio de aterrizaje contempló las estrellas pensando en su amigo, cuyo sacrificio había salvado el universo.",
-          "translationRu": "Ян Тор вернулся на Землю под ликование Восьми Миров, но в тишине посадочного двора смотрел на звёзды, думая о друге, чья жертва спасла вселенную."
+          "id": "sent-025",
+          "text": "Cinco minutos después, Sarto Sen, Hal Kur y yo entramos en el patio donde reposaba el nuevo crucero, su casco alargado y reluciente brillando al sol, y en cuestión de segundos la nave se elevó hacia el espacio interestelar a la velocidad de la luz.",
+          "translationRu": "Пять минут спустя Сарто Сен, Хал Кур и я вошли во двор, где покоился новый крейсер с сияющим на солнце удлинённым корпусом, и через несколько секунд корабль устремился в межзвёздное пространство со скоростью света."
         }
       ]
     }
