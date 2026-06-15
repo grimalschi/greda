@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El Pájaro del Espacio"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,33 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El descubrimiento que cambiaría la historia de la humanidad no fue el fruto de ninguna búsqueda metódica, sino el resultado de un accidente fortuito en el laboratorio del joven químico Richard Seaton.",
-          "translationRu": "Открытие, которому предстояло изменить историю человечества, не было плодом методичных поисков — оно стало следствием счастливой случайности в лаборатории молодого химика Ричарда Сиэтона."
+          "text": "En el silencio del laboratorio del Bureau of Chemistry, Richard Seaton contemplaba el baño electrolítico con el escepticismo resignado de quien repite por enésima vez un experimento rutinario.",
+          "translationRu": "В тишине лаборатории Бюро химии Ричард Сиэтон созерцал электролитическую ванну с усталым скептицизмом человека, повторяющего рутинный опыт в который раз."
         },
         {
           "id": "sent-002",
-          "text": "Al electrolizar una solución residual que contenía trazas de un metal desconocido, una bañera de cobre salió disparada de la mesa de trabajo con una velocidad escalofriante y desapareció a través de la ventana abierta.",
-          "translationRu": "Электролизируя остаточный раствор, содержавший следы неизвестного металла, медная ванна сорвалась со стола с пугающей скоростью и исчезла в открытом окне."
+          "text": "El recipiente de cobre descansaba sobre el banco de trabajo, sumergido en la solución de «X» mientras la corriente circulaba por los electrodos con el zumbido discreto y uniforme que Seaton ya no oía conscientemente.",
+          "translationRu": "Медный сосуд лежал на рабочем столе, погружённый в раствор «Икс», пока ток проходил через электроды с тихим и ровным гудением, которое Сиэтон уже не воспринимал сознательно."
         },
         {
           "id": "sent-003",
-          "text": "Tras horas de reflexión profunda, Seaton llegó a la única conclusión posible: había liberado la energía intraatómica del cobre mediante un catalizador al que bautizó con la letra «X», una fuerza capaz de vaporizar continentes enteros si se descontrolaba.",
-          "translationRu": "После долгих часов глубокого размышления Сиэтон пришёл к единственному возможному выводу: он высвободил внутриатомную энергию меди с помощью катализатора, которому дал имя «X» — силы, способной испарить целые континенты, выйди она из-под контроля."
+          "text": "Lo que ocurrió a continuación sucedió en una fracción de segundo: un destello cegador, un estruendo que sacudió los cristales del edificio entero y el recipiente desaparecido a través de la ventana abierta, dejando un orificio perfecto en el marco de madera.",
+          "translationRu": "То, что произошло дальше, случилось за долю секунды: ослепительная вспышка, грохот, от которого задрожали стёкла всего здания, — и сосуд исчез в открытом окне, оставив идеальное отверстие в деревянной раме."
         },
         {
           "id": "sent-004",
-          "text": "El alcance de semejante descubrimiento era tan vertiginoso que le resultaba imposible compartirlo con sus colegas sin parecer un lunático.",
-          "translationRu": "Масштаб подобного открытия был настолько головокружительным, что поделиться им с коллегами, не прослыв безумцем, казалось невозможным."
+          "text": "Seaton se quedó inmóvil, con la bata de laboratorio agitada aún por el soplo de aire que había dejado el objeto al pasar, incapaz de procesar lo que sus ojos le estaban transmitiendo.",
+          "translationRu": "Сиэтон застыл: лабораторный халат ещё колыхался от воздушного потока, оставленного пролетевшим предметом, — он не мог осмыслить то, что видели его глаза."
+        },
+        {
+          "id": "sent-005",
+          "text": "Pasaron varios segundos antes de que su mente científica retomara el control y comenzara a reformular la observación en términos que pudiera analizar: el objeto había acelerado de cero a una velocidad inconcebible en el interior del baño, usando como propulsor la reacción electrolítica de la solución X sobre el cobre.",
+          "translationRu": "Прошло несколько секунд, прежде чем его научный ум взял контроль и начал переформулировать наблюдение в понятных для анализа терминах: объект разогнался с нуля до немыслимой скорости внутри ванны, используя в качестве движителя электролитическую реакцию раствора Икс на медь."
+        },
+        {
+          "id": "sent-006",
+          "text": "Había liberado, sin proponérselo, la energía intraatómica del cobre mediante un catalizador al que bautizó provisoriamente «X»; una fuerza cuya magnitud, si sus cálculos preliminares eran correctos, superaba en varios órdenes de magnitud cualquier fuente de energía conocida.",
+          "translationRu": "Он высвободил, сам того не желая, внутриатомную энергию меди с помощью катализатора, которому предварительно дал имя «Икс»; сила, чей масштаб, если его предварительные расчёты были верны, превышал на несколько порядков любой известный источник энергии."
         }
       ]
     },
@@ -37,19 +47,29 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-005",
-          "text": "Renunciando a su puesto en el Bureau of Chemistry, Seaton se asoció con Martin Crane, ingeniero de genio y hombre de fortuna incalculable, quien comprendió de inmediato la magnitud del hallazgo.",
-          "translationRu": "Уволившись с должности в Бюро химии, Сиэтон объединился с Мартином Крейном — инженером-гением и человеком несметного состояния, который немедленно оценил значимость открытия."
-        },
-        {
-          "id": "sent-006",
-          "text": "Mientras perfeccionaban el diseño de la nave en la finca de Crane bajo estricta reserva, la poderosa World Steel Corporation, alertada por el renegado doctor Marc DuQuesne, intentó robar por todos los medios —desde el soborno hasta el asesinato— el secreto del metal X.",
-          "translationRu": "Пока они в строжайшей тайне совершенствовали конструкцию корабля в поместье Крейна, могущественная Корпорация «Мировая Сталь», предупреждённая отступником доктором Марком Дюкеном, всеми средствами — от подкупа до убийства — пыталась завладеть секретом металла X."
-        },
-        {
           "id": "sent-007",
-          "text": "La nave, que la novia de Seaton, Dorothy Vaneman —violinista de exquisita sensibilidad— bautizó con el nombre de «El Pájaro del Espacio», completó con éxito su primer vuelo de prueba alrededor de la Luna.",
-          "translationRu": "Корабль, которому невеста Сиэтона, Дороти Ванемен — скрипачка с изысканной чувствительностью, — дала имя «Жаворонок», успешно завершил первый пробный полёт вокруг Луны."
+          "text": "Las noticias del incidente —amplificadas por los testimonios de tres empleados del Bureau que habían oído la detonación— llegaron a oídos del doctor Marc DuQuesne antes de que acabara la tarde.",
+          "translationRu": "Новости об инциденте — преувеличенные показаниями трёх сотрудников Бюро, слышавших взрыв, — дошли до доктора Марка ДюКена ещё до конца рабочего дня."
+        },
+        {
+          "id": "sent-008",
+          "text": "DuQuesne era un físico de talento excepcional y de moral igualmente excepcional, aunque en sentido inverso: su inteligencia era prodigiosa, su capacidad de trabajo ilimitada, y su disposición a cruzar cualquier línea ética, perfectamente calibrada.",
+          "translationRu": "ДюКен был физиком исключительного таланта и столь же исключительной морали — только в обратном направлении: его интеллект был огромен, работоспособность безгранична, а готовность переступить любую этическую черту — идеально откалибрована."
+        },
+        {
+          "id": "sent-009",
+          "text": "Mantenía desde hacía años una relación no declarada con la World Steel Corporation, a la que suministraba información científica a cambio de financiación para una investigación que los organismos públicos nunca habrían aprobado.",
+          "translationRu": "Он давно поддерживал незадекларированные отношения с Мировой стальной корпорацией, снабжая её научной информацией в обмен на финансирование исследований, которые государственные органы никогда бы не одобрили."
+        },
+        {
+          "id": "sent-010",
+          "text": "Concertó de inmediato una reunión con Brookings, el hombre que gestionaba los asuntos confidenciales de la corporación con la misma frialdad con que se gestionan los balances contables.",
+          "translationRu": "Он незамедлительно договорился о встрече с Брукингсом — человеком, руководившим конфиденциальными делами корпорации с той же холодностью, с какой управляют бухгалтерскими балансами."
+        },
+        {
+          "id": "sent-011",
+          "text": "«Quien controle esa fórmula», le explicó DuQuesne con calculada parsimonia, «tendrá en sus manos los mercados energéticos del planeta durante generaciones; no hay cifra que justifique no actuar»; Brookings escuchó sin interrumpir y luego asintió con una sonrisa que no llegaba a los ojos.",
+          "translationRu": "«Тот, кто овладеет этой формулой», — объяснил ДюКен с рассчитанной неторопливостью, — «будет держать в руках энергетические рынки планеты на поколения вперёд; нет такой суммы, которая оправдала бы бездействие»; Брукингс слушал не перебивая, затем кивнул улыбкой, не достигавшей глаз."
         }
       ]
     },
@@ -57,24 +77,29 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "DuQuesne, incapaz de obtener el secreto por medios legales y dispuesto a cualquier vileza, construyó su propia nave con los planos robados y secuestró a Dorothy en plena tarde, ante los ojos de los vecinos.",
-          "translationRu": "Дюкен, не сумев получить секрет законными средствами и готовый на любую подлость, построил собственный корабль по украденным чертежам и похитил Дороти средь бела дня на глазах у соседей."
+          "id": "sent-012",
+          "text": "Seaton, ajeno a aquella conversación, presentó su renuncia al Bureau aquella misma tarde, convencido de que la burocracia gubernamental jamás le permitiría desarrollar con libertad un descubrimiento de semejante magnitud.",
+          "translationRu": "Сиэтон, не подозревая об этом разговоре, подал заявление об уходе из Бюро в тот же день, убеждённый, что государственная бюрократия никогда не позволит ему свободно развивать открытие такого масштаба."
         },
         {
-          "id": "sent-009",
-          "text": "Un accidente durante el rapto —el cómplice Perkins golpeó el acelerador con el talón de la bota de Dorothy— lanzó la nave hacia el espacio interestelar a una velocidad que pronto superó la de la luz.",
-          "translationRu": "Несчастный случай во время похищения — сообщник Перкинс ударил каблуком сапога Дороти по рычагу ускорения — бросил корабль в межзвёздное пространство со скоростью, вскоре превысившей световую."
+          "id": "sent-013",
+          "text": "Buscó a Martin Crane, su amigo más antiguo: millonario, astrónomo aficionado de talento sobresaliente y el único hombre en quien Seaton confiaba plenamente sin necesidad de razonar por qué.",
+          "translationRu": "Он разыскал Мартина Крейна — своего старейшего друга: миллионера, выдающегося астронома-любителя и единственного человека, которому Сиэтон полностью доверял, не нуждаясь в объяснении причин."
         },
         {
-          "id": "sent-010",
-          "text": "DuQuesne, en un alarde de fortaleza sobrehumana, logró cortar la corriente antes de que los cinco pasajeros sucumbieran del todo, aunque tanto él como todos los demás quedaron inconscientes durante horas.",
-          "translationRu": "Дюкен, проявив сверхчеловеческую силу воли, успел отключить ток прежде, чем все пятеро пассажиров окончательно потеряли сознание, хотя и сам вместе со всеми пробыл без чувств несколько часов."
+          "id": "sent-014",
+          "text": "Crane escuchó el relato con la serenidad que tantas veces había desconcertado a Seaton; cuando este terminó, se tomó tres segundos de silencio —los justos, ni uno más— y dijo: «Formaremos la Seaton-Crane Company y construiremos tu nave».",
+          "translationRu": "Крейн выслушал рассказ со спокойствием, столько раз сбивавшим Сиэтона с толку; когда тот закончил, Крейн выдержал ровно три секунды тишины — ни больше — и сказал: «Мы создадим компанию Сиэтон-Крейн и построим твой корабль»."
         },
         {
-          "id": "sent-011",
-          "text": "Entre los pasajeros estaba también Margaret Spencer, exsecretaria de la corporación que había intentado recopilar pruebas de sus crímenes y había pagado por ello con su libertad.",
-          "translationRu": "В числе пассажиров оказалась и Маргарет Спенсер — бывший секретарь корпорации, пытавшийся собрать улики её преступлений и поплатившийся за это свободой."
+          "id": "sent-015",
+          "text": "El acuerdo quedó formalizado en dos días: Crane aportaría el capital y el laboratorio privado equipado en su finca de Virginia; Seaton, la fórmula que podría cambiar la historia del transporte y la exploración humanas.",
+          "translationRu": "Соглашение оформили за два дня: Крейн вносил капитал и оснащённую частную лабораторию в своём поместье в Вирджинии; Сиэтон — формулу, способную изменить историю транспорта и человеческих исследований."
+        },
+        {
+          "id": "sent-016",
+          "text": "Shiro, el sirviente japonés de Crane —eficiente, discreto y dotado de una capacidad de anticipar necesidades que rayaba en lo sobrenatural— preparó los cuartos de invitados sin que nadie se lo pidiera, como si hubiera sabido desde el principio que el acuerdo llegaría.",
+          "translationRu": "Широ — японский слуга Крейна, эффективный, сдержанный и наделённый способностью предугадывать нужды, граничившей со сверхъестественным, — приготовил гостевые комнаты, не дожидаясь просьбы, словно с самого начала знал, что соглашение будет достигнуто."
         }
       ]
     },
@@ -82,24 +107,29 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Seaton y Crane lanzaron El Pájaro del Espacio en una persecución desesperada, guiados por una brújula-objeto que apuntaba infaliblemente hacia DuQuesne, y calcularon que la nave enemiga se hallaba ya a más de trescientos cincuenta millones de millas y seguía alejándose.",
-          "translationRu": "Сиэтон и Крейн бросились в отчаянную погоню на «Жаворонке», ведомые объектным компасом, безошибочно указывавшим на Дюкена: они подсчитали, что вражеский корабль уже находится на расстоянии более трёхсот пятидесяти миллионов миль и продолжает удаляться."
+          "id": "sent-017",
+          "text": "Una tarde, Crane llevó a Seaton a cenar a casa de los Vaneman, una familia de Washington que él conocía desde hacía años; Seaton llegó con el nudo de la corbata torcido y la cabeza todavía llena de ecuaciones, y su anfitrión lo recibió con la afabilidad de quien está acostumbrado a eso en los científicos.",
+          "translationRu": "Однажды вечером Крейн повёл Сиэтона ужинать к Ванеманам — вашингтонской семье, которую он знал много лет; Сиэтон явился с кривым галстуком и головой, всё ещё полной уравнений, и хозяин встретил его с добродушием человека, привыкшего к подобному у учёных."
         },
         {
-          "id": "sent-013",
-          "text": "Tras varios días de vuelo supralumínico, encontraron la nave enemiga en caída libre hacia un mundo de masa inconcebible, tan grande que torcía el rumbo de su propio instrumento.",
-          "translationRu": "После нескольких дней сверхсветового полёта они обнаружили вражеский корабль в свободном падении к миру немыслимой массы — настолько огромному, что он отклонял показания их собственных приборов."
+          "id": "sent-018",
+          "text": "Dorothy Vaneman, la hija de la casa, tocó el violín después de la cena: era una intérprete de una sensibilidad excepcional, capaz de transformar una sala de estar en algo que se parecía más a una catedral que a un salón.",
+          "translationRu": "Дороти Ванеман, дочь хозяев, сыграла на скрипке после ужина: она была исполнительницей исключительной чувствительности, способной превратить гостиную в нечто более похожее на собор, чем на зал."
         },
         {
-          "id": "sent-014",
-          "text": "Sabiendo que quizá ninguno de ellos sobreviviera, Seaton y Crane se estrecharon la mano y entraron en la batalla por el honor de rescatar a las mujeres.",
-          "translationRu": "Понимая, что, возможно, никто из них не выживет, Сиэтон и Крейн пожали друг другу руки и вступили в схватку ради чести спасти женщин."
+          "id": "sent-019",
+          "text": "Seaton, que llevaba semanas sin dormir bien por la intensidad de sus cálculos, se sentó en el rincón más cómodo de la sala, y las primeras notas lo envolvieron con una suavidad que sus nervios llevaban meses necesitando.",
+          "translationRu": "Сиэтон, не спавший нормально уже несколько недель из-за напряжённых расчётов, сел в самое удобное кресло в углу гостиной, и первые ноты окутали его нежностью, в которой его нервы нуждались уже месяцами."
         },
         {
-          "id": "sent-015",
-          "text": "Con los motores al doble de su potencia normal y los pulmones llenos de oxígeno puro a presión, los cinco consiguieron escapar, aunque todos perdieron el conocimiento antes de que la nave alcanzara la velocidad de liberación.",
-          "translationRu": "С двигателями, работавшими в удвоенную мощность, и лёгкими, наполненными чистым кислородом под давлением, пятеро спаслись — хотя все потеряли сознание прежде, чем корабль достиг второй космической скорости."
+          "id": "sent-020",
+          "text": "A los cuatro compases, con la barbilla hundida en el pecho y la respiración acompasada al ritmo del adagio, el científico dormía profundamente, ajeno a ecuaciones, a la World Steel y al propio descubrimiento que le había quitado el sueño.",
+          "translationRu": "На четвёртом такте — с опущенным на грудь подбородком и дыханием, вторящим ритму адажио, — учёный крепко спал, позабыв об уравнениях, Мировой стали и самом открытии, лишившем его сна."
+        },
+        {
+          "id": "sent-021",
+          "text": "El padre de Dorothy rio en voz baja y dijo a Crane: «Este muchacho vale mucho; no lo suelten, Mr. Crane»; Crane asintió sin desviar los ojos del durmiente, sabiendo que el consejo era más sensato de lo que el señor Vaneman podía imaginar.",
+          "translationRu": "Отец Дороти тихо засмеялся и сказал Крейну: «Этот парень многого стоит; не отпускайте его, мистер Крейн»; Крейн кивнул, не отводя взгляда от спящего, понимая, что совет был мудрее, чем мог представить сам господин Ванеман."
         }
       ]
     },
@@ -107,69 +137,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "Al despertar, a miles de años luz de la Tierra, se encontraron solos en un universo de estrellas desconocidas, con escasas reservas de cobre para el motor.",
-          "translationRu": "Придя в себя в тысячах световых лет от Земли, они оказались одни во вселенной незнакомых звёзд с ничтожными запасами меди для двигателя."
-        },
-        {
-          "id": "sent-017",
-          "text": "En su búsqueda de ese metal, llegaron a Osnome, un planeta extraordinario bañado por la luz de diecisiete soles, habitado por una raza de humanoides verdes divididos en dos naciones enfrentadas desde tiempos inmemoriales: el honorable Kondal y el despiadado Mardonale.",
-          "translationRu": "В поисках этого металла они прибыли на Осном — удивительную планету, омываемую светом семнадцати солнц, населённую расой зелёных гуманоидов, разделённых на два народа, воюющих с незапамятных времён: благородный Кондал и безжалостный Мардонале."
-        },
-        {
-          "id": "sent-018",
-          "text": "Al destruir un ser monstruoso que atacaba la flota real, Seaton salvó la vida del Kofedix Dunark, príncipe heredero de Kondal, y se ganó en segundos la gratitud de toda la nación.",
-          "translationRu": "Уничтожив чудовище, атаковавшее королевский флот, Сиэтон спас жизнь Кофедикса Данарка — наследного принца Кондала — и за секунды завоевал благодарность всего народа."
-        },
-        {
-          "id": "sent-019",
-          "text": "Dunark, valiéndose de un «educador mecánico» de su propia invención, transfirió a Seaton toda la sabiduría acumulada durante siglos por la civilización de Osnome, fundiendo para siempre en ambos hombres dos mundos de conocimiento.",
-          "translationRu": "Данарк с помощью изобретённого им самим «механического обучающего устройства» передал Сиэтону всю мудрость, накопленную цивилизацией Осном за столетия, навсегда слив в обоих мужчинах два мира знаний."
-        }
-      ]
-    },
-    {
-      "id": "para-006",
-      "sentences": [
-        {
-          "id": "sent-020",
-          "text": "En Kondalek, la capital de Kondal, los mecánicos desmontaron El Pájaro del Espacio y lo reconstruyeron con arenak —un metal más duro que el diamante, cuya síntesis requería sal como catalizador y que resultó ser el regalo más valioso que podían ofrecer a sus anfitriones.",
-          "translationRu": "В Кондалеке, столице Кондала, механики разобрали «Жаворонок» и перестроили его из аренака — металла твёрче алмаза, для синтеза которого требовалась соль как катализатор; оказалось, что соль и была самым ценным даром, который они могли предложить своим хозяевам."
-        },
-        {
-          "id": "sent-021",
-          "text": "Ante la corte del Karfedix Roban, Seaton contrajo matrimonio eterno con Dorothy y Crane con Margaret, en una ceremonia solemne presidida por el Karbix —a la vez sumo sacerdote y comandante en jefe del ejército— que unió a las dos parejas con los faidones, piedras eternas que ninguna fuerza conocida podía alterar.",
-          "translationRu": "Перед двором Карфедикса Робана Сиэтон заключил вечный брак с Дороти, а Крейн — с Маргарет в торжественной церемонии под председательством Карбикса — одновременно верховного жреца и главнокомандующего армии, — связавшего обе пары файдонами: вечными камнями, не поддававшимися никакой известной силе."
-        },
-        {
           "id": "sent-022",
-          "text": "Como gesto de reciprocidad, Seaton regaló a los kondalinos cincuenta libras de sal —un tesoro incalculable en aquel mundo— y una muestra del elemento X para que pudieran construir su propio Pájaro del Espacio.",
-          "translationRu": "В знак взаимности Сиэтон подарил кондалинцам пятьдесят фунтов соли — бесценное сокровище в том мире — и образец элемента X, чтобы они могли построить собственного «Жаворонка»."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
+          "text": "Dorothy terminó de tocar sin variar el tempo ni un instante, como si interrumpir hubiera sido una descortesía mayor que dejar dormir al invitado; cuando bajó el arco, miró a Seaton con una expresión en la que la diversión y algo más parecido a la ternura estaban mezclados en proporciones que ella misma no habría podido definir.",
+          "translationRu": "Дороти доиграла, не изменив темпа ни на мгновение — словно прервать было бы большей бестактностью, чем оставить гостя спать; опустив смычок, она посмотрела на Сиэтона с выражением, в котором веселье и нечто похожее на нежность смешивались в пропорциях, которые она сама не смогла бы определить."
+        },
         {
           "id": "sent-023",
-          "text": "Justo en el momento de la partida, la flota imperial de Mardonale lanzó una invasión fulminante con armas de ondas electromagnéticas —rayos ultravioleta, infrasonido, electricidad de alta tensión y calor— que paralizaron a toda la guarnición de Kondal, cuyos instrumentos eran de iridio.",
-          "translationRu": "Именно в момент отправления имперский флот Мардонале нанёс молниеносный удар с применением электромагнитного оружия — ультрафиолета, инфразвука, высоковольтного электричества и тепловых лучей, — парализовавших весь гарнизон Кондала, чьи инструменты были из иридия."
+          "text": "Crane presentó formalmente a Seaton y Dorothy a la mañana siguiente, cuando todos estaban despiertos y en condiciones de recordar el encuentro; fue una conversación de veinte minutos durante el desayuno que, sin que ninguno de los dos lo supiera todavía, cambiaría el rumbo de sus vidas.",
+          "translationRu": "Крейн официально представил Сиэтона и Дороти на следующее утро — когда все были на ногах и способны запомнить знакомство; это был двадцатиминутный разговор за завтраком, который, сами того не зная, изменил бы их жизни."
         },
         {
           "id": "sent-024",
-          "text": "Seaton pilotó El Pájaro del Espacio como un proyectil vivo, perforando navío tras navío de la armada enemiga hasta aniquilarla por completo, mientras Crane y DuQuesne disparaban sin pausa desde las torres de artillería.",
-          "translationRu": "Сиэтон вёл «Жаворонок» как живой снаряд, пробивая корабль за кораблём вражеской армады до её полного уничтожения, пока Крейн и Дюкен не прерываясь стреляли из артиллерийских башен."
+          "text": "Aquella misma noche, mientras Seaton dormía en la finca de Crane ajeno a todo, DuQuesne redactaba el primer borrador de un plan que implicaría infiltración, robo y, si llegaba a ser necesario, algo considerablemente peor.",
+          "translationRu": "В ту же ночь, пока Сиэтон крепко спал в поместье Крейна, ни о чём не подозревая, ДюКен набрасывал первый черновик плана, предполагавшего внедрение, кражу и, если понадобится, кое-что значительно худшее."
         },
         {
           "id": "sent-025",
-          "text": "En el viaje de vuelta, DuQuesne aprovechó una breve parada sobre el istmo de Panamá para saltar con un paracaídas que había confeccionado en secreto, llevándose consigo las piedras preciosas y el radio que el rey de Kondal le había regalado, prometiéndose a sí mismo que algún día volvería a medir sus fuerzas con Seaton.",
-          "translationRu": "На обратном пути Дюкен воспользовался кратким остановкой над Панамским перешейком, чтобы прыгнуть с парашютом, который он тайно сшил, унося с собой драгоценные камни и радий, подаренные королём Кондала, и клянясь себе, что когда-нибудь снова померяется силами с Сиэтоном."
-        },
-        {
-          "id": "sent-026",
-          "text": "Nueve semanas después de haber abandonado la Tierra, El Pájaro del Espacio descendió suavemente sobre el campo de Crane, donde Shiro, el fiel sirviente japonés, los esperaba con las luces del campo de aterrizaje encendidas, fiel a su señor como solo puede serlo quien ha esperado sin perder la fe.",
-          "translationRu": "Спустя девять недель после того, как они покинули Землю, «Жаворонок» мягко опустился на поле Крейна, где Широ — верный японский слуга — ждал их с включёнными огнями посадочной площадки, преданный своему господину так, как может быть предан лишь тот, кто ждал, не теряя веры."
+          "text": "El descubrimiento de la energía intraatómica había puesto en marcha dos fuerzas cuya colisión era tan inevitable como la de dos astros en órbitas convergentes: el idealismo de un científico que soñaba con las estrellas y la ambición despiadada de quienes solo veían en ese sueño un monopolio.",
+          "translationRu": "Открытие внутриатомной энергии запустило две силы, столкновение которых было столь же неизбежным, как столкновение двух тел на пересекающихся орбитах: идеализм учёного, мечтавшего о звёздах, и беспощадное честолюбие тех, кто видел в этой мечте лишь монополию."
         }
       ]
     }

@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Skylark Tres"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,33 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El doctor Marc DuQuesne, científico despiadado al servicio de la corporación Steel, abandonó la Tierra en secreto a medianoche, convencido de que ninguna fuerza ordinaria podría vencer a su rival Richard Seaton.",
-          "translationRu": "Доктор Марк ДюКен, беспощадный учёный на службе корпорации «Стил», тайно покинул Землю в полночь, убеждённый, что никакая обычная сила не способна одолеть его соперника Ричарда Сиэтона."
+          "text": "En la oficina privada de Steel, DuQuesne y Brookings se miraban fijamente a través del escritorio macizo.",
+          "translationRu": "В тайном кабинете корпорации «Стил» ДюКейн и Брукинс мрачно смотрели друг на друга через массивный стол."
         },
         {
           "id": "sent-002",
-          "text": "Llevaba consigo a un sicario llamado Loring y se dirigía hacia un sistema solar remoto en busca de un arma secreta que le permitiría establecer el monopolio del elemento «X».",
-          "translationRu": "Он взял с собой наёмника по имени Лоринг и направился к далёкой звёздной системе в поисках тайного оружия, которое позволило бы ему установить монополию на элемент «X»."
+          "text": "DuQuesne habló con voz fría: «A las doce de esta noche parto. Mi consejo es que no hagas nada contra Richard Seaton; absolutamente nada, hasta que yo regrese».",
+          "translationRu": "ДюКейн произнёс холодным голосом: «Сегодня в полночь я отправляюсь. Мой совет — не предпринимай ничего против Ричарда Ситона; вообще ничего, пока я не вернусь»."
         },
         {
           "id": "sent-003",
-          "text": "Sin embargo, al llegar al territorio de los Fenachrone, los dos terrícolas fueron capturados y ejecutados sin piedad por la patrulla de aquella raza.",
-          "translationRu": "Однако, добравшись до владений фенахронов, оба землянина были схвачены и безжалостно уничтожены патрулём этой расы."
+          "text": "Brookings se mostró sorprendido: «Doctor, es usted el último hombre que esperaba acobardarse tras un solo enfrentamiento».",
+          "translationRu": "Брукинс выразил удивление: «Доктор, вы последний человек, от которого я ожидал трусости после одной-единственной схватки»."
+        },
+        {
+          "id": "sent-004",
+          "text": "DuQuesne respondió con desprecio: «No seas más tonto de lo que tienes que ser. Hay una gran diferencia entre tener miedo y saber cuándo uno está perdiendo el tiempo».",
+          "translationRu": "ДюКейн ответил с презрением: «Не будь большим глупцом, чем приходится. Большая разница — бояться или понимать, что попросту теряешь время»."
+        },
+        {
+          "id": "sent-005",
+          "text": "Explicó que había intentado raptar a la señora Seaton desde una nave espacial, pero que Seaton lo había localizado con un detector osnomiano y lo había calentado al rojo vivo a más de doscientas millas de altitud.",
+          "translationRu": "Он объяснил, что пытался похитить миссис Ситон с борта космического корабля, но Ситон обнаружил его с помощью осномианского детектора и раскалил его до красного каления на высоте более двухсот миль."
+        },
+        {
+          "id": "sent-006",
+          "text": "«Eso me demostró que tienen algo que nosotros no tenemos. Nada de lo que tú has enviado después ha funcionado: aviones, bombas, pistoleros. Ninguna de esas cosas sirve contra ellos».",
+          "translationRu": "«Это доказало мне, что у них есть нечто, чего нет у нас. Ничто из того, что ты присылал потом, не сработало: самолёты, бомбы, наёмники. Ничего из этого не годится против них»."
         }
       ]
     },
@@ -32,19 +47,34 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Mientras DuQuesne partía, Seaton y Crane trabajaban febrilmente en su laboratorio para perfeccionar la zona de fuerza, una barrera energética que podía cortar cualquier materia a lo largo de una superficie geométrica perfecta.",
-          "translationRu": "Пока ДюКен улетал, Сиэтон и Крейн лихорадочно работали в лаборатории, совершенствуя силовой барьер — энергетическую стену, способную разрезать любую материю по идеальной геометрической поверхности."
+          "id": "sent-007",
+          "text": "Brookings preguntó cuánto tiempo estaría fuera; DuQuesne respondió que podría ser cinco años o quizás diez, y que llevaba provisiones para una década.",
+          "translationRu": "Брукинс спросил, как долго он будет отсутствовать; ДюКейн ответил, что возможно пять лет, а может и десять, и что запасов у него на целое десятилетие."
         },
         {
-          "id": "sent-005",
-          "text": "El problema era que la zona bloqueaba también la gravedad y los propios impulsores, dejando la nave ciega e impotente si no se manejaba con extrema precisión.",
-          "translationRu": "Проблема состояла в том, что барьер блокировал и гравитацию, и сами двигатели, оставляя корабль слепым и беспомощным без ювелирно точного управления."
+          "id": "sent-008",
+          "text": "Brookings insistía en que sus hombres podrían resolver el asunto en pocas semanas, pero DuQuesne lo rebatió con frialdad: «Seaton os derrotará con tanta seguridad como un gatito ciego».",
+          "translationRu": "Брукинс настаивал, что его люди смогут уладить дело за несколько недель, но ДюКейн холодно возразил: «Ситон вас разобьёт так же верно, как слепого котёнка»."
         },
         {
-          "id": "sent-006",
-          "text": "La llegada de sus aliados Osnomianos, Dunark y Sitar, fue la señal para que el equipo de la Skylark emprendiera el vuelo hacia el espacio profundo.",
-          "translationRu": "Прибытие союзников-осномийцев, Данарка и Ситар, послужило сигналом для команды «Жаворонка» отправиться в дальний космос."
+          "id": "sent-009",
+          "text": "DuQuesne reveló que poseía un secreto decisivo que había aprendido en Osnome, algo que solo cuatro personas más habían conocido, y todas habían muerto con sus cerebros destruidos.",
+          "translationRu": "ДюКейн раскрыл, что владеет решающим секретом, который узнал на Осноме, — тем, что знали лишь четыре других человека, и все они погибли с уничтоженным мозгом."
+        },
+        {
+          "id": "sent-010",
+          "text": "«Ese secreto es mi carta de triunfo. Voy a buscarlo. Cuando lo tenga, estaré listo para atacar a Seaton desde una posición de poder absoluto».",
+          "translationRu": "«Этот секрет — мой козырь. Я отправляюсь за ним. Когда у меня он будет, я буду готов атаковать Ситона с позиции абсолютной силы»."
+        },
+        {
+          "id": "sent-011",
+          "text": "La advertencia final de DuQuesne fue clara: si Brookings actuaba contra Seaton, debía asegurarse de matarlo primero antes de tocar a Dorothy, porque de lo contrario la reacción de Seaton destruiría todo el edificio.",
+          "translationRu": "Последнее предупреждение ДюКейна было чётким: если Брукинс выступит против Ситона, он должен сначала убить его перед тем, как тронуть Дороти, иначе реакция Ситона уничтожит всё здание."
+        },
+        {
+          "id": "sent-012",
+          "text": "Sin más palabras, DuQuesne se marchó en la oscuridad de medianoche, antes de que Seaton pudiera detectar su partida con la brújula osnomiana.",
+          "translationRu": "Без лишних слов ДюКейн ушёл в полночную тьму, прежде чем Ситон мог обнаружить его отбытие с помощью осномианского компаса."
         }
       ]
     },
@@ -52,19 +82,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-007",
-          "text": "En el espacio abierto, una nave alienígena desconocida atacó a la Skylark con rayos de una potencia nunca vista, destruyendo también el navío de los Osnomianos.",
-          "translationRu": "В открытом космосе неизвестный чужой корабль атаковал «Жаворонок» лучами небывалой мощи, попутно уничтожив судно осномийцев."
+          "id": "sent-013",
+          "text": "Mientras tanto, en el campo de investigación de Crane, Richard Seaton caminaba de un lado a otro con una pipa apagada en la boca y un fajo de papeles de cálculo en la mano.",
+          "translationRu": "Тем временем на исследовательском поле Крейна Ричард Ситон ходил взад и вперёд с незажжённой трубкой в зубах и пачкой расчётных листов в руке."
         },
         {
-          "id": "sent-008",
-          "text": "Con una velocidad de reacción sobrehumana, Seaton activó la zona de fuerza en el momento exacto y la barrera rebanó el barco enemigo como si fuera papel.",
-          "translationRu": "С нечеловеческой быстротой реакции Сиэтон включил силовой барьер в нужный миг, и стена разрезала вражеский корабль словно бумагу."
+          "id": "sent-014",
+          "text": "Le preocupaba profundamente la zona de fuerza osnomiana: una barrera de energía pura, geométricamente perfecta, capaz de detener incluso los rayos Millikan.",
+          "translationRu": "Его глубоко беспокоила осномианская зона силы: барьер из чистой энергии, геометрически совершенный, способный остановить даже лучи Милликена."
         },
         {
-          "id": "sent-009",
-          "text": "A continuación, leyó la mente del único oficial capturado y descubrió que los atacantes eran los Fenachrone, una raza que había conquistado su galaxia y planeaba exterminar toda vida inteligente del universo.",
-          "translationRu": "Затем он прочитал мысли захваченного офицера и обнаружил, что нападавшие — фенахроны: раса, уже покорившая свою галактику и планирующая уничтожить всех разумных существ вселенной."
+          "id": "sent-015",
+          "text": "El problema era que, aunque esa barrera podría protegerlos de los ataques enemigos, también los dejaría completamente ciegos e impotentes en su interior, sin poder usar sus propias armas.",
+          "translationRu": "Проблема состояла в том, что хотя этот барьер мог защитить их от вражеских атак, он также оставлял бы их совершенно слепыми и беспомощными внутри, не способными применить собственное оружие."
+        },
+        {
+          "id": "sent-016",
+          "text": "Crane señaló que incluso la gravedad podría no funcionar a través de ese campo, lo que significaría que quedarían a la deriva en el espacio sin poder usar los repulsores.",
+          "translationRu": "Крейн указал, что даже гравитация может не действовать сквозь это поле, а значит, они дрейфовали бы в пространстве, не имея возможности использовать отталкиватели."
         }
       ]
     },
@@ -72,19 +107,29 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-010",
-          "text": "Armado con los planos tecnológicos extraídos de la mente del prisionero, Seaton mejoró las armas de la nave, copiando el sistema de rayos portadores de los Fenachrone.",
-          "translationRu": "Вооружившись технологическими чертежами, извлечёнными из сознания пленника, Сиэтон усовершенствовал оружие корабля, скопировав систему несущих лучей фенахронов."
+          "id": "sent-017",
+          "text": "Para probarlo, Seaton calculó rápidamente con su regla: si la gravedad quedaba anulada, se alejaría de la Tierra a más de cien doce millas en la primera hora.",
+          "translationRu": "Чтобы доказать это, Ситон быстро подсчитал на линейке: если гравитация будет аннулирована, он удалится от Земли более чем на сто двенадцать миль в первый час."
         },
         {
-          "id": "sent-011",
-          "text": "La Skylark puso rumbo al sistema solar verde donde hallaron a los Dasorios, seres de apariencia porpaciana pero de una inteligencia refinada y de actitud abiertamente amistosa.",
-          "translationRu": "«Жаворонок» взял курс на зелёную звёздную систему, где они встретили дасорцев — существ с внешностью дельфинов, но утончённого ума и открыто дружелюбных."
+          "id": "sent-018",
+          "text": "Crane aceptó que Seaton hiciera la prueba con un traje de vacío y el equipo necesario para sobrevivir hasta Júpiter si fuera necesario.",
+          "translationRu": "Крейн согласился, что Ситон проведёт опыт в скафандре с необходимым снаряжением для выживания вплоть до Юпитера при необходимости."
         },
         {
-          "id": "sent-012",
-          "text": "Los Dasorios proporcionaron valiosa información sobre el universo y sobre el planeta Norlamin, hogar de la raza más científicamente avanzada de la galaxia.",
-          "translationRu": "Дасорцы предоставили ценные сведения о вселенной и о планете Норламин — доме самой научно развитой расы галактики."
+          "id": "sent-019",
+          "text": "Las mujeres salieron al campo: Dorothy con su cabello rojizo y sus ojos violetas, y Margaret de cabello negro, ambas curiosas ante el extraño experimento.",
+          "translationRu": "Женщины вышли на поле: рыжеволосая Дороти с фиолетовыми глазами и черноволосая Маргарет, обе заинтересованные необычным экспериментом."
+        },
+        {
+          "id": "sent-020",
+          "text": "Seaton realizó el experimento dentro de la zona de fuerza y confirmó que reinaban allí la oscuridad y el silencio absolutos, sin ninguna señal del mundo exterior.",
+          "translationRu": "Ситон провёл эксперимент внутри зоны силы и подтвердил, что там царили абсолютная тьма и абсолютная тишина — никаких сигналов из внешнего мира."
+        },
+        {
+          "id": "sent-021",
+          "text": "«No os podéis imaginar una oscuridad así. Me dejó paralizado de verdad», admitió Seaton al quitarse el arnés, sacudiendo la cabeza.",
+          "translationRu": "«Вы не можете представить себе такую темноту. Она меня по-настоящему парализовала», — признался Ситон, снимая упряжь и покачивая головой."
         }
       ]
     },
@@ -92,19 +137,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-013",
-          "text": "En Norlamin, el anciano físico Rovol tomó a Seaton como aprendiz y le transmitió directamente, mediante el educador mecánico, décadas de conocimiento sobre los rayos de quinto orden.",
-          "translationRu": "На Норламине пожилой физик Ровол взял Сиэтона в ученики и передал ему напрямую через механический обучатель десятилетия знаний о лучах пятого порядка."
+          "id": "sent-022",
+          "text": "Justo entonces, el detector osnomiano de naves espaciales emitió una alarma estridente. Seaton corrió inmediatamente al telescopio de rayos y apuntó su generador hacia el punto de alarma, listo para disparar.",
+          "translationRu": "Именно тогда осномианский детектор космических кораблей издал резкий сигнал тревоги. Ситон немедленно бросился к телескопу лучевого генератора и навёл его на точку тревоги, готовый открыть огонь."
         },
         {
-          "id": "sent-014",
-          "text": "Estos rayos, al propagarse a velocidades inmensamente superiores a la de la luz, permitían explorar y atacar cualquier punto de la galaxia de forma casi instantánea.",
-          "translationRu": "Эти лучи, распространяясь с несравнимо превышающей свет скоростью, позволяли исследовать и атаковать любую точку галактики почти мгновенно."
+          "id": "sent-023",
+          "text": "Sin embargo, Crane reconoció a través del telescopio mayor que el barco estaba construido de arenak transparente, el mismo material que el Kondal del príncipe Dunark de Osnome.",
+          "translationRu": "Однако Крейн разглядел в большой телескоп, что корабль построен из прозрачного аренака — того же материала, что и «Кондал» принца Дунарка с Осномы."
         },
         {
-          "id": "sent-015",
-          "text": "Mientras Seaton aprendía física del más alto nivel, Dorothy y Margaret disfrutaban de la hospitalidad norlamiana en el País de la Juventud.",
-          "translationRu": "Пока Сиэтон постигал физику высшего уровня, Дороти и Маргарет наслаждались норламинийским гостеприимством в Стране Юности."
+          "id": "sent-024",
+          "text": "El Kondal aterrizó y Dunark bajó a tierra, tambaleándose visiblemente bajo la gravedad terrestre, mientras Sitar, su joven reina, se desplomaba en el suelo helado.",
+          "translationRu": "«Кондал» приземлился, и Дунарк спустился на землю, заметно шатаясь под земной гравитацией, тогда как его молодая королева Ситар рухнула на промёрзлую землю."
+        },
+        {
+          "id": "sent-025",
+          "text": "Seaton recogió a Sitar en brazos y ordenó a Crane que pilotara la nave osnomiana hasta una altitud donde la gravedad fuera tolerable para los visitantes.",
+          "translationRu": "Ситон подхватил Ситар на руки и приказал Крейну поднять осномианский корабль на высоту, где гравитация была бы терпимой для гостей."
         }
       ]
     },
@@ -112,19 +162,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "Con la colaboración de todos los sabios de Norlamin, construyeron la Skylark Tres, impulsada por el tremendo poder de cuatrocientas toneladas de uranio en desintegración.",
-          "translationRu": "При содействии всех мудрецов Норламина они построили «Жаворонок Три», приводимый в движение колоссальной мощью четырёхсот тонн распадающегося урания."
+          "id": "sent-026",
+          "text": "Una vez a bordo y en altitud suficiente, Dunark explicó la catástrofe: Osnome estaba siendo invadida por los habitantes del tercer planeta de su decimocuarto sol, que habían destruido la flota entera osnomiana en dos días.",
+          "translationRu": "Оказавшись на борту на достаточной высоте, Дунарк объяснил катастрофу: Осному захватывают жители третьей планеты их четырнадцатого солнца, которые за два дня уничтожили весь осномианский флот."
         },
         {
-          "id": "sent-017",
-          "text": "Desde el proyector gigantesco instalado en Norlamin, Seaton dirigió el ataque contra la flota Fenachrone con torpedos dotados de rayos trazadores de quinto orden, destruyendo cientos de naves.",
-          "translationRu": "Из гигантского проектора, установленного на Норламине, Сиэтон направил удар по флоту фенахронов торпедами с трассерами пятого порядка, уничтожив сотни кораблей."
+          "id": "sent-027",
+          "text": "Los invasores habían exterminado a todos los mardonianos —los viejos enemigos de Osnome— y ahora amenazaban a los kondalenses, que resistían gracias al Kondal y unos pocos barcos similares.",
+          "translationRu": "Захватчики истребили всех мардонийцев — старых врагов Осномы — и теперь угрожали кондалийцам, которые держались благодаря «Кондалу» и нескольким подобным кораблям."
         },
         {
-          "id": "sent-018",
-          "text": "Solo una nave de la flota Fenachrone logró escapar, abandonando la galaxia a una velocidad descomunal.",
-          "translationRu": "Лишь один корабль фенахронского флота сумел спастись, покинув галактику с колоссальной скоростью."
+          "id": "sent-028",
+          "text": "«Sus armas convencionales son inútiles contra los invasores. Necesito algo que cambie el equilibrio de fuerzas de manera radical», admitió Dunark con desesperación.",
+          "translationRu": "«Обычное оружие бессильно против захватчиков. Мне нужно нечто, способное в корне изменить баланс сил», — с отчаянием признался Дунарк."
+        },
+        {
+          "id": "sent-029",
+          "text": "Dunark reveló su audaz plan: usar enormes cantidades de sal y metal «X» para desviar el sexto planeta de su órbita y hacerlo colisionar con el mundo enemigo antes de la próxima conjunción, destruyéndolo por completo.",
+          "translationRu": "Дунарк раскрыл свой дерзкий план: используя огромные количества соли и металла «Икс», сдвинуть шестую планету с орбиты и столкнуть её с миром врага до следующего сближения, уничтожив его полностью."
         }
       ]
     },
@@ -132,19 +187,19 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-019",
-          "text": "La Skylark Tres partió en persecución, adentrándose en el vacío intergaláctico donde no existía ninguna estrella y la oscuridad era tan absoluta que resultaba físicamente opresiva.",
-          "translationRu": "«Жаворонок Три» пустился в погоню, углубляясь в межгалактическую пустоту, где не было ни одной звезды, а темнота была столь абсолютной, что давила физически."
+          "id": "sent-030",
+          "text": "Dorothy y Margaret se horrorizaron ante la idea de destruir un mundo entero con todos sus habitantes, pero Seaton intervino con firmeza: «Solo hay una pregunta: ¿qué nación queréis que sobreviva?».",
+          "translationRu": "Дороти и Маргарет пришли в ужас от идеи уничтожить целый мир со всеми его обитателями, но Ситон твёрдо вмешался: «Есть только один вопрос: какую нацию вы хотите спасти?»"
         },
         {
-          "id": "sent-020",
-          "text": "Seaton confesó a Dorothy que incluso él sentía pánico ante aquella nada infinita, pero la presencia de ella a su lado le devolvía la serenidad.",
-          "translationRu": "Сиэтон признался Дороти, что даже он испытывает страх перед этой бесконечной пустотой, но её присутствие рядом возвращало ему спокойствие."
+          "id": "sent-031",
+          "text": "«Si bloqueáis a Dunark, los kondalenses morirán todos, hasta el último. Ninguna de vosotras puede salvar a ambas razas; no existe esa opción».",
+          "translationRu": "«Если вы заблокируете Дунарка, все кондалийцы погибнут до последнего. Ни одна из вас не может спасти обе расы — такого варианта не существует»."
         },
         {
-          "id": "sent-021",
-          "text": "Durante semanas, Seaton lanzó detectores cada ocho horas sin hallar rastro del enemigo, hasta que un día el microamperímetro registró la señal más débil.",
-          "translationRu": "Недели подряд Сиэтон каждые восемь часов запускал детекторы без следа врага, пока однажды микроамперметр не зафиксировал слабейший сигнал."
+          "id": "sent-032",
+          "text": "Tras una votación rápida, los cuatro terrestres decidieron apoyar a Dunark; Seaton prometió llevarlo al planeta «X» para cargar todo el metal que necesitara.",
+          "translationRu": "После быстрого голосования четверо землян решили поддержать Дунарка; Ситон пообещал доставить его на планету «Икс», чтобы загрузить весь необходимый металл."
         }
       ]
     },
@@ -152,24 +207,24 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-022",
-          "text": "A medida que se acercaban, los Fenachrone demostraron haber aprendido a manejar los rayos de quinto orden durante la persecución, y lanzaron un ataque que perforó cuatro capas de inoson de la Skylark.",
-          "translationRu": "По мере сближения фенахроны показали, что за время погони освоили лучи пятого порядка, и нанесли удар, пробивший четыре оболочки из инозона корабля."
+          "id": "sent-033",
+          "text": "Dunark había traído instrumentos osnomianos mejorados para el Skylark: brújulas objeto en carcasas de arenak al vacío, con rodamientos de joyería casi sin fricción, cien veces más sensibles que los modelos originales.",
+          "translationRu": "Дунарк привёз усовершенствованные осномианские приборы для «Скайларка»: объект-компасы в аренаковых корпусах с вакуумом, с почти безфрикционными ювелирными подшипниками, в сто раз чувствительнее оригинальных моделей."
         },
         {
-          "id": "sent-023",
-          "text": "Seaton, sin perder la calma, reparó los daños mientras construía más generadores y elaboraba defensas más complejas para su slit de frecuencias cambiantes.",
-          "translationRu": "Сиэтон, не теряя хладнокровия, чинил повреждения, одновременно строя новые генераторы и разрабатывая более сложную защиту своей переменночастотной щели."
+          "id": "sent-034",
+          "text": "También había traído visiplatos perfectos sin aberraciones, cañones teledirigidos y un sistema automático de control del piloto, todo lo cual transformaría la capacidad combativa del Skylark.",
+          "translationRu": "Он также привёз идеальные визипластины без аберраций, дистанционно управляемые орудия и систему автоматического управления пилотом — всё это преобразило бы боевые возможности «Скайларка»."
         },
         {
-          "id": "sent-024",
-          "text": "También investigó la existencia de los rayos de sexto orden y diseñó un sistema de alarma automático para el caso de que el enemigo los usara.",
-          "translationRu": "Он также исследовал существование лучей шестого порядка и разработал автоматическую систему оповещения на случай их применения врагом."
+          "id": "sent-035",
+          "text": "«Esto nos adelanta tanto respecto a mi primer modelo como el Skylark al primer planeador de los hermanos Wright», exclamó Seaton con entusiasmo.",
+          "translationRu": "«Это обгоняет мою первую модель настолько же, насколько «Скайларк» обгоняет первый планер братьев Райт», — с воодушевлением воскликнул Ситон."
         },
         {
-          "id": "sent-025",
-          "text": "En el clímax del combate, Seaton concentró toda la energía de sus baterías de uranio en una esfera de fuerza que aplastó progresivamente las defensas Fenachrone hasta aniquilar la nave por completo.",
-          "translationRu": "В кульминации боя Сиэтон сосредоточил всю энергию урановых батарей в сферу силы, которая методично давила оборону фенахронов, пока их корабль не был полностью уничтожен."
+          "id": "sent-036",
+          "text": "Acordaron también instalar un aparato de zona de fuerza en el Skylark como escudo de emergencia, aunque aún no hubieran resuelto cómo usarlo como arma ofensiva.",
+          "translationRu": "Они также договорились установить на «Скайларке» устройство зоны силы в качестве аварийного щита, хотя и не решили ещё, как использовать его в качестве наступательного оружия."
         }
       ]
     },
@@ -177,19 +232,24 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-026",
-          "text": "La explosión final fue tan descomunal que pareció que el espacio mismo iba a ser consumido por aquella energía liberada.",
-          "translationRu": "Последний взрыв был столь колоссальным, что, казалось, само пространство поглощается высвободившейся энергией."
+          "id": "sent-037",
+          "text": "En la reunión final con los directores de la empresa Seaton-Crane, los informes económicos fueron excelentes: las centrales de energía intraatómica vendían electricidad a un sexto del precio normal y aún así generaban enormes beneficios.",
+          "translationRu": "На итоговом совещании с директорами компании «Ситон-Крейн» экономические отчёты были превосходными: внутриатомные электростанции продавали электричество по шестой части обычной цены и всё равно приносили огромную прибыль."
         },
         {
-          "id": "sent-027",
-          "text": "Los Fenachrone dejaron de existir, y con ellos desapareció la mayor amenaza que había conocido el universo.",
-          "translationRu": "Фенахроны перестали существовать, и вместе с ними исчезла величайшая угроза, которую когда-либо знала вселенная."
+          "id": "sent-038",
+          "text": "Seaton confió a su suegro, el señor Vaneman, que el peligro de que los sicarios de Steel raptaran a Dorothy era mayor que cualquier amenaza del espacio exterior.",
+          "translationRu": "Ситон признался своему тестю, мистеру Ванеману, что угроза похищения Дороти людьми корпорации «Стил» была серьёзнее любой опасности открытого космоса."
         },
         {
-          "id": "sent-028",
-          "text": "Siglos después, el Día de la Civilización se celebraba en toda la galaxia, y un descendiente directo de Richard Seaton encabezaba el Consejo Galáctico como símbolo vivo del legado de aquellos héroes.",
-          "translationRu": "Века спустя День Цивилизации праздновался по всей галактике, а прямой потомок Ричарда Сиэтона возглавлял Галактический Совет как живое воплощение наследия тех героев."
+          "id": "sent-039",
+          "text": "«Con el Skylark tal como está ahora, Dot estará más segura allí que tú en tu propia cama», prometió Seaton.",
+          "translationRu": "«При нынешнем состоянии «Скайларка» Дот будет там в большей безопасности, чем вы в собственной постели», — пообещал Ситон."
+        },
+        {
+          "id": "sent-040",
+          "text": "El Skylark II despegó finalmente, y Seaton sintió por primera vez en semanas que se liberaba de la constante amenaza de los asesinos de Steel, rumbo al planeta «X» y a las estrellas.",
+          "translationRu": "«Скайларк II» наконец взлетел, и Ситон впервые за недели почувствовал, что освобождается от постоянной угрозы со стороны убийц «Стил», держа курс на планету «Икс» и звёзды."
         }
       ]
     }

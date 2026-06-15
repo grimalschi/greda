@@ -2,180 +2,52 @@
   "schemaVersion": "1.0",
   "workId": "the-skylark-of-space",
   "level": "a2",
-  "chapter": {
-    "id": "chapter-001",
-    "number": 1,
-    "title": "El Pájaro del Espacio"
-  },
+  "chapter": {"id": "chapter-001", "number": 1, "title": "Capítulo 1"},
   "paragraphs": [
     {
       "id": "para-001",
       "sentences": [
-        {
-          "id": "sent-001",
-          "text": "Richard Seaton era un químico en Washington.",
-          "translationRu": "Ричард Сиэтон был химиком в Вашингтоне."
-        },
-        {
-          "id": "sent-002",
-          "text": "Un día, una bañera de cobre salió volando por la ventana de su laboratorio.",
-          "translationRu": "Однажды медная ванна вылетела из окна его лаборатории."
-        },
-        {
-          "id": "sent-003",
-          "text": "Seaton no podía creerlo.",
-          "translationRu": "Сиэтон не мог в это поверить."
-        },
-        {
-          "id": "sent-004",
-          "text": "Entendió que había liberado la energía del cobre con una solución especial llamada «X».",
-          "translationRu": "Он понял, что освободил энергию меди с помощью особого раствора под названием «X»."
-        }
+        {"id": "sent-001", "text": "Richard Seaton era un joven científico que trabajaba en un laboratorio del gobierno en Washington.", "translationRu": "Ричард Сэтон был молодым учёным, работавшим в правительственной лаборатории в Вашингтоне."},
+        {"id": "sent-002", "text": "Un día, limpió una vasija de cobre con un trapo húmedo que tenía un líquido extraño.", "translationRu": "Однажды он протёр медный сосуд влажной тряпкой, на которой было странное вещество."},
+        {"id": "sent-003", "text": "De repente, la vasija saltó de la mesa con una fuerza enorme.", "translationRu": "Внезапно сосуд вылетел со стола с огромной силой."},
+        {"id": "sent-004", "text": "Salió volando por la ventana y desapareció en el cielo azul.", "translationRu": "Он вылетел в окно и исчез в синем небе."},
+        {"id": "sent-005", "text": "Seaton se quedó solo en el laboratorio, con la boca abierta de sorpresa.", "translationRu": "Сэтон остался один в лаборатории с открытым от удивления ртом."}
       ]
     },
     {
       "id": "para-002",
       "sentences": [
-        {
-          "id": "sent-005",
-          "text": "Seaton dejó su trabajo en el gobierno.",
-          "translationRu": "Сиэтон уволился с государственной службы."
-        },
-        {
-          "id": "sent-006",
-          "text": "Su amigo Martin Crane era muy rico y quería ayudarle.",
-          "translationRu": "Его друг Мартин Крейн был очень богат и хотел ему помочь."
-        },
-        {
-          "id": "sent-007",
-          "text": "Los dos hombres construyeron una nave espacial y la llamaron «El Pájaro del Espacio».",
-          "translationRu": "Двое мужчин построили космический корабль и назвали его «Жаворонком»."
-        },
-        {
-          "id": "sent-008",
-          "text": "Dorothy Vaneman, la novia de Seaton, puso ese nombre.",
-          "translationRu": "Это имя придумала Дороти Ванемен, невеста Сиэтона."
-        }
+        {"id": "sent-006", "text": "Seaton pensó mucho en ese fenómeno durante varios días.", "translationRu": "Сэтон несколько дней напряжённо думал об этом явлении."},
+        {"id": "sent-007", "text": "Entendió que el líquido especial liberó la energía del interior del átomo de cobre.", "translationRu": "Он понял, что особая жидкость высвободила энергию из глубины атома меди."},
+        {"id": "sent-008", "text": "Era una energía enorme que nadie conocía antes.", "translationRu": "Это была огромная энергия, о которой прежде никто не знал."},
+        {"id": "sent-009", "text": "Con esa energía, era posible volar muy lejos, incluso fuera del sistema solar.", "translationRu": "С этой энергией можно было летать очень далеко — даже за пределы Солнечной системы."}
       ]
     },
     {
       "id": "para-003",
       "sentences": [
-        {
-          "id": "sent-009",
-          "text": "El doctor DuQuesne era un hombre malo.",
-          "translationRu": "Доктор Дюкен был злым человеком."
-        },
-        {
-          "id": "sent-010",
-          "text": "Él trabajaba para una empresa poderosa llamada World Steel.",
-          "translationRu": "Он работал на могущественную компанию под названием «Мировая Сталь»."
-        },
-        {
-          "id": "sent-011",
-          "text": "DuQuesne construyó su propia nave y secuestró a Dorothy.",
-          "translationRu": "Дюкен построил собственный корабль и похитил Дороти."
-        },
-        {
-          "id": "sent-012",
-          "text": "La nave salió volando muy rápido hacia el espacio.",
-          "translationRu": "Корабль стремительно улетел в космос."
-        }
+        {"id": "sent-010", "text": "Seaton contó su descubrimiento a su mejor amigo, Martin Crane.", "translationRu": "Сэтон рассказал о своём открытии лучшему другу — Мартину Крейну."},
+        {"id": "sent-011", "text": "Crane era un hombre muy rico e inteligente, y creyó en Seaton desde el principio.", "translationRu": "Крейн был очень богатым и умным человеком и поверил Сэтону с самого начала."},
+        {"id": "sent-012", "text": "Los dos decidieron construir juntos una nave espacial.", "translationRu": "Вдвоём они решили построить космический корабль."},
+        {"id": "sent-013", "text": "Renunciaron a sus trabajos y empezaron a preparar los planes.", "translationRu": "Они бросили работу и начали составлять чертежи."}
       ]
     },
     {
       "id": "para-004",
       "sentences": [
-        {
-          "id": "sent-013",
-          "text": "Seaton y Crane siguieron a DuQuesne en El Pájaro del Espacio.",
-          "translationRu": "Сиэтон и Крейн бросились за Дюкеном на «Жаворонке»."
-        },
-        {
-          "id": "sent-014",
-          "text": "Viajaron muy lejos, mucho más lejos que la Luna o el Sol.",
-          "translationRu": "Они летели очень далеко — гораздо дальше, чем Луна или Солнце."
-        },
-        {
-          "id": "sent-015",
-          "text": "Encontraron la nave de DuQuesne cerca de un planeta enorme.",
-          "translationRu": "Они нашли корабль Дюкена вблизи огромной планеты."
-        },
-        {
-          "id": "sent-016",
-          "text": "Rescataron a Dorothy y a otra mujer llamada Margaret Spencer.",
-          "translationRu": "Они спасли Дороти и другую женщину по имени Маргарет Спенсер."
-        }
+        {"id": "sent-014", "text": "Pero en el mismo laboratorio del gobierno trabajaba Marc DuQuesne, un científico peligroso.", "translationRu": "Однако в той же правительственной лаборатории работал Марк ДюКен — опасный учёный."},
+        {"id": "sent-015", "text": "DuQuesne también descubrió el secreto de la energía atómica.", "translationRu": "ДюКен тоже обнаружил секрет атомной энергии."},
+        {"id": "sent-016", "text": "Fue a visitar a Brookings, el jefe de la Corporación Mundial del Acero.", "translationRu": "Он отправился к Брукингсу, директору Всемирной стальной корпорации."},
+        {"id": "sent-017", "text": "Le ofreció vender el secreto a cambio de mucho dinero y una posición de poder.", "translationRu": "Он предложил продать секрет в обмен на большие деньги и влиятельное положение."}
       ]
     },
     {
       "id": "para-005",
       "sentences": [
-        {
-          "id": "sent-017",
-          "text": "Los cinco viajaron juntos en El Pájaro del Espacio.",
-          "translationRu": "Все пятеро продолжили путь вместе на «Жаворонке»."
-        },
-        {
-          "id": "sent-018",
-          "text": "Llegaron a un planeta lejano llamado Osnome.",
-          "translationRu": "Они прилетели на далёкую планету Осном."
-        },
-        {
-          "id": "sent-019",
-          "text": "Los habitantes de Osnome tenían piel verde.",
-          "translationRu": "Жители Осном имели зелёную кожу."
-        },
-        {
-          "id": "sent-020",
-          "text": "Seaton y Crane ayudaron al príncipe Dunark a escapar de sus enemigos.",
-          "translationRu": "Сиэтон и Крейн помогли принцу Данарку бежать от врагов."
-        }
-      ]
-    },
-    {
-      "id": "para-006",
-      "sentences": [
-        {
-          "id": "sent-021",
-          "text": "En Osnome, Seaton se casó con Dorothy y Crane se casó con Margaret.",
-          "translationRu": "На Осноме Сиэтон женился на Дороти, а Крейн — на Маргарет."
-        },
-        {
-          "id": "sent-022",
-          "text": "Los amigos de Osnome repararon El Pájaro del Espacio con un metal especial.",
-          "translationRu": "Друзья с Осном отремонтировали «Жаворонок» с помощью особого металла."
-        },
-        {
-          "id": "sent-023",
-          "text": "Los enemigos atacaron la ciudad, pero El Pájaro del Espacio los venció.",
-          "translationRu": "Враги атаковали город, но «Жаворонок» разгромил их."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
-          "id": "sent-024",
-          "text": "DuQuesne salió de la nave en secreto y escapó con un paracaídas.",
-          "translationRu": "Дюкен тайно покинул корабль и бежал с парашютом."
-        },
-        {
-          "id": "sent-025",
-          "text": "Seaton y Crane volvieron a la Tierra con sus esposas.",
-          "translationRu": "Сиэтон и Крейн вернулись на Землю вместе с жёнами."
-        },
-        {
-          "id": "sent-026",
-          "text": "El Pájaro del Espacio aterrizó en casa de Crane, nueve semanas después.",
-          "translationRu": "«Жаворонок» приземлился у дома Крейна — спустя девять недель."
-        },
-        {
-          "id": "sent-027",
-          "text": "Shiro, el fiel sirviente, les esperaba con la luz encendida.",
-          "translationRu": "Широ, верный слуга, ждал их с включённым светом."
-        }
+        {"id": "sent-018", "text": "Brookings escuchó a DuQuesne con interés y aceptó el trato.", "translationRu": "Брукингс выслушал ДюКена с интересом и принял сделку."},
+        {"id": "sent-019", "text": "Le dio dinero para desarrollar su propia tecnología de energía atómica.", "translationRu": "Он дал ДюКену деньги на разработку собственной технологии атомной энергии."},
+        {"id": "sent-020", "text": "DuQuesne quería robar los planes de Seaton y destruir su trabajo.", "translationRu": "ДюКен хотел похитить чертежи Сэтона и уничтожить его работу."},
+        {"id": "sent-021", "text": "La carrera entre los dos grupos empezó en silencio.", "translationRu": "Соревнование между двумя группами началось втайне."}
       ]
     }
   ]

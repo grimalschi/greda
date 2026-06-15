@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Skylark Tres"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El doctor DuQuesne era un científico peligroso que trabajaba para la empresa Steel.",
-          "translationRu": "Доктор ДюКен был опасным учёным, работавшим на компанию «Стил»."
+          "text": "El doctor Marc DuQuesne habló con su jefe Brookings en una sala oscura de la empresa Steel.",
+          "translationRu": "Доктор Марк ДюКен разговаривал со своим шефом Брукингсом в тёмном кабинете компании «Стил»."
         },
         {
           "id": "sent-002",
-          "text": "Decidió salir de la Tierra a medianoche porque sabía que Richard Seaton lo buscaba.",
-          "translationRu": "Он решил покинуть Землю в полночь, зная, что Ричард Сиэтон его ищет."
+          "text": "Los dos hombres sabían que Richard Seaton y su amigo Crane habían descubierto un metal increíble llamado X.",
+          "translationRu": "Оба знали, что Ричард Сиэтон и его друг Крейн открыли невероятный металл под названием X."
         },
         {
           "id": "sent-003",
-          "text": "Viajó con un compañero llamado Loring hacia un sistema solar desconocido.",
-          "translationRu": "Он полетел с напарником по имени Лоринг к неизвестной звёздной системе."
+          "text": "Con el metal X, cualquier nave podía volar más rápido que la luz y cruzar galaxias enteras.",
+          "translationRu": "С металлом X любой корабль мог лететь быстрее света и пересекать целые галактики."
         },
         {
           "id": "sent-004",
-          "text": "Su objetivo era encontrar un arma secreta que le diera poder sobre todo el mundo.",
-          "translationRu": "Его целью было найти секретное оружие, которое дало бы ему власть над всем миром."
+          "text": "Brookings quería ese poder para la empresa, pero DuQuesne tenía sus propios planes secretos.",
+          "translationRu": "Брукингс хотел этой мощи для компании, но у ДюКена были собственные тайные планы."
         }
       ]
     },
@@ -38,18 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Mientras tanto, Seaton y Crane estaban en su laboratorio y trabajaban en la zona de fuerza.",
-          "translationRu": "Тем временем Сиэтон и Крейн работали в своей лаборатории над силовым барьером."
+          "text": "A medianoche, DuQuesne abandonó la Tierra sin decir nada a nadie.",
+          "translationRu": "В полночь ДюКен покинул Землю, не сказав никому ни слова."
         },
         {
           "id": "sent-006",
-          "text": "La zona de fuerza era una barrera invisible que podía cortar cualquier cosa.",
-          "translationRu": "Силовой барьер был невидимой стеной, способной разрезать что угодно."
+          "text": "Eligió como compañera a una mujer joven y ambiciosa que se llamaba Baby Doll Loring.",
+          "translationRu": "Напарницей он выбрал молодую и честолюбивую женщину по имени Бэби Долл Лоринг."
         },
         {
           "id": "sent-007",
-          "text": "Cuando sus amigos Dunark y Sitar llegaron del planeta Osnome, Seaton decidió partir.",
-          "translationRu": "Когда друзья Данарк и Ситар прилетели с планеты Осном, Сиэтон решил отправиться в путь."
+          "text": "Los dos subieron a su nave y se alejaron de la Tierra a gran velocidad.",
+          "translationRu": "Они вдвоём поднялись на борт и на большой скорости удалились от Земли."
+        },
+        {
+          "id": "sent-008",
+          "text": "DuQuesne buscaba la fuente del metal X en el espacio y quería llegar antes que Seaton.",
+          "translationRu": "ДюКен искал источник металла X в космосе и хотел добраться туда прежде Сиэтона."
         }
       ]
     },
@@ -57,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "En el espacio, un extraño barco enemigo los atacó con rayos muy poderosos.",
-          "translationRu": "В космосе неизвестный вражеский корабль атаковал их очень мощными лучами."
-        },
-        {
           "id": "sent-009",
-          "text": "Seaton reaccionó en menos de un segundo y activó la zona de fuerza.",
-          "translationRu": "Сиэтон среагировал менее чем за секунду и включил силовой барьер."
+          "text": "Mientras DuQuesne huía, Seaton y Crane trabajaban en su laboratorio en Washington.",
+          "translationRu": "Пока ДюКен бежал, Сиэтон и Крейн работали в своей лаборатории в Вашингтоне."
         },
         {
           "id": "sent-010",
-          "text": "La zona cortó el barco enemigo en pedazos y la batalla terminó rápidamente.",
-          "translationRu": "Барьер разрезал вражеский корабль на куски, и битва быстро закончилась."
+          "text": "Los dos científicos construían una zona de fuerza, una barrera invisible de energía pura.",
+          "translationRu": "Два учёных строили силовой барьер — невидимую стену из чистой энергии."
         },
         {
           "id": "sent-011",
-          "text": "Seaton capturó a un oficial enemigo para leer su mente con el educador mecánico.",
-          "translationRu": "Сиэтон захватил вражеского офицера, чтобы прочитать его мысли с помощью механического обучателя."
+          "text": "Seaton encendió el aparato y la zona apareció alrededor de la nave como una cápsula transparente.",
+          "translationRu": "Сиэтон включил прибор, и барьер возник вокруг корабля, словно прозрачная капсула."
+        },
+        {
+          "id": "sent-012",
+          "text": "Nada podía atravesarla desde afuera: ni los rayos más poderosos ni las explosiones más terribles.",
+          "translationRu": "Ничто не могло пробить её снаружи: ни самые мощные лучи, ни самые страшные взрывы."
         }
       ]
     },
@@ -82,19 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "El prisionero era un Fenachrone, una raza brutal que quería destruir toda vida inteligente.",
-          "translationRu": "Пленник был фенахроном — существом жестокой расы, стремившейся уничтожить все разумные формы жизни."
-        },
-        {
           "id": "sent-013",
-          "text": "Su planeta estaba en otro sistema muy lejano, y su armada era enorme.",
-          "translationRu": "Их планета находилась в далёкой системе, а их флот был огромен."
+          "text": "Un día llegó una nave extraña que aterrizó cerca del laboratorio.",
+          "translationRu": "Однажды прилетел странный корабль и приземлился недалеко от лаборатории."
         },
         {
           "id": "sent-014",
-          "text": "Seaton aprendió su idioma y construyó armas mejores copiando la tecnología Fenachrone.",
-          "translationRu": "Сиэтон выучил их язык и создал оружие получше, скопировав технологию фенахронов."
+          "text": "Era el príncipe Dunark y su esposa Sitar, amigos de Seaton del planeta Osnome.",
+          "translationRu": "Это был принц Данарк с женой Ситар — друзья Сиэтона с планеты Осном."
+        },
+        {
+          "id": "sent-015",
+          "text": "Dunark y Sitar eran osnomos, seres de piel verde que vivían bajo una gravedad mayor que la de la Tierra.",
+          "translationRu": "Данарк и Ситар были осномами — существами с зелёной кожей, привыкшими к большей силе тяжести, чем на Земле."
+        },
+        {
+          "id": "sent-016",
+          "text": "En la Tierra les costaba trabajo moverse porque la gravedad era demasiado débil para ellos.",
+          "translationRu": "На Земле им было трудно двигаться, потому что сила тяжести была для них слишком слабой."
         }
       ]
     },
@@ -102,19 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "La nave viajó al sistema verde donde encontraron a los Dasorios, seres pacíficos parecidos a delfines.",
-          "translationRu": "Корабль полетел в зелёную систему, где они встретили мирных дасорцев, похожих на дельфинов."
-        },
-        {
-          "id": "sent-016",
-          "text": "Después, Seaton y sus compañeros llegaron al planeta Norlamin, el mundo más avanzado de la galaxia.",
-          "translationRu": "Затем Сиэтон и его товарищи добрались до планеты Норламин — самого передового мира галактики."
-        },
-        {
           "id": "sent-017",
-          "text": "El sabio Rovol enseñó a Seaton los secretos de los rayos de quinto orden.",
-          "translationRu": "Мудрец Ровол открыл Сиэтону секреты лучей пятого порядка."
+          "text": "Dunark tenía una noticia terrible: el sistema verde estaba bajo el ataque de invasores del Tercer Planeta del Sol 14.",
+          "translationRu": "У Данарка была страшная новость: зелёная система подверглась нападению захватчиков с Третьей планеты 14-го Солнца."
+        },
+        {
+          "id": "sent-018",
+          "text": "Los invasores tenían naves enormes y armas muy poderosas que los osnomianos no podían resistir.",
+          "translationRu": "У захватчиков были огромные корабли и очень мощное оружие, которому осномиане не могли противостоять."
+        },
+        {
+          "id": "sent-019",
+          "text": "Dunark necesitaba sal y metal X en grandes cantidades para fabricar una solución al problema.",
+          "translationRu": "Данарку нужны были соль и металл X в больших количествах, чтобы решить проблему."
+        },
+        {
+          "id": "sent-020",
+          "text": "Con esos materiales era posible desviar un planeta vacío y usarlo como proyectil contra los invasores.",
+          "translationRu": "С этими материалами можно было отклонить пустую планету и использовать её как снаряд против захватчиков."
         }
       ]
     },
@@ -122,89 +137,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "Con la ayuda de los Norlaminianos, construyeron la Skylark Tres, una nave gigantesca con energía de uranio.",
-          "translationRu": "С помощью норламинийцев они построили «Жаворонок Три» — гигантский корабль на урановой энергии."
-        },
-        {
-          "id": "sent-019",
-          "text": "Usaron el proyector de quinto orden para atacar la flota Fenachrone desde Norlamin.",
-          "translationRu": "Они использовали проектор пятого порядка для удара по флоту фенахронов с Норламина."
-        },
-        {
-          "id": "sent-020",
-          "text": "Casi todos los barcos Fenachrone fueron destruidos con torpedos especiales.",
-          "translationRu": "Почти все корабли фенахронов были уничтожены специальными торпедами."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
           "id": "sent-021",
-          "text": "Solo un barco Fenachrone escapó y huyó fuera de la galaxia.",
-          "translationRu": "Только один корабль фенахронов вырвался и бежал за пределы галактики."
+          "text": "Seaton escuchó la historia de Dunark con atención y decidió ayudarle de inmediato.",
+          "translationRu": "Сиэтон внимательно выслушал Данарка и тут же решил ему помочь."
         },
         {
           "id": "sent-022",
-          "text": "La Skylark Tres siguió al enemigo a través del espacio vacío y sin estrellas.",
-          "translationRu": "«Жаворонок Три» последовал за врагом через пустое, лишённое звёзд пространство."
+          "text": "También vio una oportunidad: si iban al sistema verde, podían encontrar más metal X para sus experimentos.",
+          "translationRu": "Он также увидел возможность: если они полетят в зелёную систему, то смогут найти больше металла X."
         },
         {
           "id": "sent-023",
-          "text": "Seaton y Dorothy sintieron miedo en aquella oscuridad total e interminable.",
-          "translationRu": "Сиэтон и Дороти почувствовали страх в той полной бесконечной тьме."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
+          "text": "Dorothy, la esposa de Seaton, y Margaret, la de Crane, escucharon todo y quisieron viajar también.",
+          "translationRu": "Дороти, жена Сиэтона, и Маргарет, жена Крейна, выслушали всё и тоже захотели лететь."
+        },
         {
           "id": "sent-024",
-          "text": "Finalmente, el detector encontró al barco enemigo a una distancia enorme.",
-          "translationRu": "Наконец, детектор обнаружил вражеский корабль на огромном расстоянии."
-        },
-        {
-          "id": "sent-025",
-          "text": "Los Fenachrone habían aprendido a usar los rayos de quinto orden y los atacaron.",
-          "translationRu": "Фенахроны научились использовать лучи пятого порядка и нанесли удар."
-        },
-        {
-          "id": "sent-026",
-          "text": "El rayo enemigo perforó cuatro capas de la Skylark Tres, pero no mató a nadie.",
-          "translationRu": "Вражеский луч пробил четыре оболочки «Жаворонка Три», но никого не убил."
-        },
-        {
-          "id": "sent-027",
-          "text": "Seaton construyó más generadores y atacó al enemigo con toda su fuerza.",
-          "translationRu": "Сиэтон построил ещё генераторы и атаковал врага с полной мощью."
-        },
-        {
-          "id": "sent-028",
-          "text": "El barco Fenachrone explotó y desapareció para siempre.",
-          "translationRu": "Корабль фенахронов взорвался и исчез навсегда."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-029",
-          "text": "La raza Fenachrone quedó extinguida y el universo estaba en paz.",
-          "translationRu": "Раса фенахронов была уничтожена, и во вселенной воцарился мир."
-        },
-        {
-          "id": "sent-030",
-          "text": "Los planetas de la galaxia formaron la Liga de Civilización para vivir en armonía.",
-          "translationRu": "Планеты галактики объединились в Лигу Цивилизации, чтобы жить в согласии."
-        },
-        {
-          "id": "sent-031",
-          "text": "Muchos siglos después, un descendiente de Seaton fue el jefe del Consejo Galáctico.",
-          "translationRu": "Много веков спустя потомок Сиэтона стал главой Галактического Совета."
+          "text": "Seaton sonrió: la aventura comenzaba otra vez, y esta vez sería mucho más grande que todas las anteriores.",
+          "translationRu": "Сиэтон улыбнулся: приключение начиналось снова, и на этот раз оно будет куда грандиознее всех предыдущих."
         }
       ]
     }

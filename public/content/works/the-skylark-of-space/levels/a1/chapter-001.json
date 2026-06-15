@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-skylark-of-space",
+  "level": "a1",
+  "chapter": {"id": "chapter-001", "number": 1, "title": "Capítulo 1"},
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Richard Seaton trabaja en un laboratorio.", "translationRu": "Ричард Ситон работает в лаборатории."},
+        {"id": "sent-002", "text": "Él es químico del gobierno.", "translationRu": "Он химик правительства."},
+        {"id": "sent-003", "text": "Un día trabaja con una solución nueva.", "translationRu": "Однажды он работает с новым раствором."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "Hay un recipiente de cobre en la mesa.", "translationRu": "На столе стоит медный сосуд."},
+        {"id": "sent-005", "text": "De repente, el recipiente se mueve solo.", "translationRu": "Вдруг сосуд сам по себе двигается."},
+        {"id": "sent-006", "text": "Vuela muy rápido por la ventana.", "translationRu": "Он очень быстро вылетает в окно."},
+        {"id": "sent-007", "text": "Seaton mira y no puede creer lo que ve.", "translationRu": "Ситон смотрит и не может поверить тому, что видит."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-008", "text": "Seaton piensa mucho sobre esto.", "translationRu": "Ситон много думает об этом."},
+        {"id": "sent-009", "text": "La solución libera energía del cobre.", "translationRu": "Раствор высвобождает энергию меди."},
+        {"id": "sent-010", "text": "Es una energía muy grande.", "translationRu": "Это очень большая энергия."},
+        {"id": "sent-011", "text": "Seaton llama a su amigo Martin Crane.", "translationRu": "Ситон звонит своему другу Мартину Крэйну."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-012", "text": "Crane es un hombre rico e inteligente.", "translationRu": "Крэйн — богатый и умный человек."},
+        {"id": "sent-013", "text": "Él escucha a Seaton con mucho interés.", "translationRu": "Он с большим интересом слушает Ситона."},
+        {"id": "sent-014", "text": "Juntos quieren trabajar en este descubrimiento.", "translationRu": "Вместе они хотят работать над этим открытием."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-015", "text": "Pero otro hombre también sabe la noticia.", "translationRu": "Но ещё один человек тоже знает эту новость."},
+        {"id": "sent-016", "text": "Su nombre es DuQuesne.", "translationRu": "Его имя — ДюКень."},
+        {"id": "sent-017", "text": "DuQuesne trabaja para la compañía de acero.", "translationRu": "ДюКень работает на сталелитейную компанию."},
+        {"id": "sent-018", "text": "Él quiere este poder para su empresa.", "translationRu": "Он хочет эту силу для своей компании."}
+      ]
+    }
+  ]
+}

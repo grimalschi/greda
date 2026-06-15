@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El Pájaro del Espacio"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Richard Seaton era un joven químico que trabajaba en Washington para el gobierno.",
-          "translationRu": "Ричард Сиэтон был молодым химиком, работавшим в Вашингтоне на правительство."
+          "text": "Richard Seaton era un joven químico que trabajaba en el Buró de Química del gobierno en Washington.",
+          "translationRu": "Ричард Сиэтон был молодым химиком, работавшим в правительственном Бюро химии в Вашингтоне."
         },
         {
           "id": "sent-002",
-          "text": "Un día, mientras hacía un experimento, una bañera de cobre salió volando por la ventana a gran velocidad.",
-          "translationRu": "Однажды во время эксперимента медная ванна вылетела из окна с огромной скоростью."
+          "text": "Un día estaba haciendo un experimento con una solución de un metal desconocido que él llamaba «X».",
+          "translationRu": "Однажды он проводил эксперимент с раствором неизвестного металла, который он называл «X»."
         },
         {
           "id": "sent-003",
-          "text": "Seaton comprendió que había liberado la energía que existe dentro de los átomos de cobre, gracias a una solución misteriosa llamada «X».",
-          "translationRu": "Сиэтон понял, что высвободил энергию внутри атомов меди с помощью таинственного раствора «X»."
+          "text": "De repente, la bañera de cobre sobre la que trabajaba saltó de su mano y salió volando por la ventana a una velocidad terrible.",
+          "translationRu": "Вдруг медная ванна, над которой он работал, выпрыгнула из его рук и вылетела в окно с ужасной скоростью."
         },
         {
           "id": "sent-004",
-          "text": "Era un descubrimiento enorme, capaz de hacer volar una nave espacial.",
-          "translationRu": "Это было огромное открытие, способное двигать космический корабль."
+          "text": "Seaton la siguió con sus binoculares y vio que no caía al suelo sino que continuaba en línea recta hasta desaparecer en el horizonte.",
+          "translationRu": "Сиэтон проследил за ней в бинокль и увидел, что она не упала на землю, а продолжила прямолинейный полёт и скрылась за горизонтом."
         }
       ]
     },
@@ -38,18 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Seaton renunció a su trabajo y se asoció con su amigo Martin Crane, un hombre muy rico y brillante.",
-          "translationRu": "Сиэтон уволился с работы и объединился со своим другом Мартином Крейном — очень богатым и умным человеком."
+          "text": "El otro químico del laboratorio, Scott, pensó que Seaton había enloquecido y le aconsejó que se tomara unos días de descanso.",
+          "translationRu": "Другой лаборант, Скотт, решил, что Сиэтон сошёл с ума, и посоветовал ему взять несколько выходных."
         },
         {
           "id": "sent-006",
-          "text": "Juntos construyeron una nave espacial y la llamaron «El Pájaro del Espacio», nombre que propuso la novia de Seaton, Dorothy Vaneman.",
-          "translationRu": "Вместе они построили космический корабль и назвали его «Жаворонком» — имя предложила невеста Сиэтона, Дороти Ванемен."
+          "text": "Pero Seaton no le hizo caso y se quedó sentado horas y horas, pensando en lo que había pasado.",
+          "translationRu": "Но Сиэтон не обратил на него внимания и сидел часами, размышляя о произошедшем."
         },
         {
           "id": "sent-007",
-          "text": "Mientras ellos trabajaban, una empresa poderosa llamada World Steel intentó robarles el secreto.",
-          "translationRu": "Пока они работали, могущественная компания «Мировая Сталь» пыталась украсть их секрет."
+          "text": "Al final, dio un golpe en la mesa y exclamó: «¡He liberado la energía intraatómica del cobre!»",
+          "translationRu": "Наконец он ударил по столу и воскликнул: «Я освободил внутриатомную энергию меди!»"
+        },
+        {
+          "id": "sent-008",
+          "text": "Seaton comprendió que la solución «X», el cobre y una corriente eléctrica producían una fuerza enorme, capaz de mover una nave hasta la Luna.",
+          "translationRu": "Сиэтон понял, что раствор «X», медь и электрический ток производят огромную силу, способную доставить корабль до Луны."
         }
       ]
     },
@@ -57,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "El doctor Marc DuQuesne trabajaba para World Steel y era muy peligroso.",
-          "translationRu": "Доктор Марк Дюкен работал на «Мировую Сталь» и был очень опасен."
-        },
-        {
           "id": "sent-009",
-          "text": "Con la ayuda de criminales, DuQuesne construyó su propia nave y secuestró a Dorothy para obligar a Seaton a rendirse.",
-          "translationRu": "С помощью преступников Дюкен построил собственный корабль и похитил Дороти, чтобы вынудить Сиэтона сдаться."
+          "text": "Al día siguiente, Seaton renunció al Buró y compró la solución por diez centavos en una subasta, junto con su amigo millonario Martin Crane.",
+          "translationRu": "На следующий день Сиэтон уволился из Бюро и купил раствор за десять центов на аукционе вместе со своим богатым другом Мартином Крейном."
         },
         {
           "id": "sent-010",
-          "text": "La nave salió disparada hacia el espacio porque alguien golpeó accidentalmente los controles.",
-          "translationRu": "Корабль случайно рванул в космос, потому что кто-то нечаянно задел рычаги управления."
+          "text": "El doctor Marc DuQuesne, otro químico del Buró, se enteró de esto y fue a ver a Brookings, el director de la poderosa compañía World Steel.",
+          "translationRu": "Доктор Марк Дюкен, другой химик Бюро, узнал об этом и отправился к Брукингсу — директору могущественной компании «Мировая Сталь»."
         },
         {
           "id": "sent-011",
-          "text": "En la nave también iba Margaret Spencer, otra prisionera de World Steel.",
-          "translationRu": "На борту также находилась Маргарет Спенсер — ещё одна пленница «Мировой Стали»."
+          "text": "DuQuesne le explicó que el descubrimiento de Seaton podía proporcionar energía ilimitada a toda la humanidad.",
+          "translationRu": "Дюкен объяснил ему, что открытие Сиэтона способно дать безграничную энергию всему человечеству."
+        },
+        {
+          "id": "sent-012",
+          "text": "Era un descubrimiento tan valioso que quien lo controlara podría dominar el mercado mundial de energía.",
+          "translationRu": "Это было настолько ценное открытие, что тот, кто им завладеет, сможет контролировать мировой рынок энергии."
         }
       ]
     },
@@ -82,24 +87,24 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Seaton y Crane salieron a perseguirlos en El Pájaro del Espacio, guiados por una brújula especial que siempre apuntaba hacia DuQuesne.",
-          "translationRu": "Сиэтон и Крейн бросились в погоню на «Жаворонке», ведомые особым компасом, всегда указывавшим на Дюкена."
-        },
-        {
           "id": "sent-013",
-          "text": "Los dos barcos volaron durante días a una velocidad increíble, mucho más rápida que la luz.",
-          "translationRu": "Оба корабля мчались несколько дней с невероятной скоростью — куда быстрее света."
+          "text": "DuQuesne le advirtió a Brookings que si World Steel intentaba trabajar sola con la solución, el experimento explotaría y mataría a todos.",
+          "translationRu": "Дюкен предупредил Брукингса: если «Мировая Сталь» попытается работать с раствором в одиночку, эксперимент взорвётся и убьёт всех."
         },
         {
           "id": "sent-014",
-          "text": "Cuando encontraron la otra nave, estaban cerca de un planeta gigante que los atraía con su gravedad.",
-          "translationRu": "Когда они нашли другой корабль, тот находился вблизи гигантской планеты, притягивавшей их своей гравитацией."
+          "text": "Por eso, DuQuesne pedía una suma enorme de dinero para dirigir él mismo la investigación.",
+          "translationRu": "Поэтому Дюкен требовал огромную сумму денег за то, чтобы самому руководить исследованием."
         },
         {
           "id": "sent-015",
-          "text": "Seaton transfirió a Dorothy, Margaret y DuQuesne al Pájaro del Espacio y escaparon con toda la potencia de los motores.",
-          "translationRu": "Сиэтон перевёл Дороти, Маргарет и Дюкена на «Жаворонок», и они вырвались на полной мощности двигателей."
+          "text": "Brookings fingió rechazar el trato, pero en cuanto DuQuesne se fue, llamó a su agente secreto, un hombre llamado Perkins.",
+          "translationRu": "Брукингс сделал вид, что отказывается, но как только Дюкен ушёл, позвонил своему тайному агенту — человеку по имени Перкинс."
+        },
+        {
+          "id": "sent-016",
+          "text": "Le ordenó que fuera a la casa de Crane y robara la botella de la solución «X» sin que nadie lo notara.",
+          "translationRu": "Он приказал ему отправиться в дом Крейна и похитить бутылку с раствором «X» так, чтобы никто ничего не заметил."
         }
       ]
     },
@@ -107,24 +112,19 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "Porque necesitaban cobre para el motor, buscaron un planeta donde encontrarlo.",
-          "translationRu": "Поскольку им была нужна медь для двигателя, они искали планету, где её можно найти."
-        },
-        {
           "id": "sent-017",
-          "text": "Llegaron a Osnome, un mundo lejano con muchos soles y habitantes de piel verde.",
-          "translationRu": "Они добрались до Осном — далёкого мира со множеством солнц и жителями с зелёной кожей."
+          "text": "Perkins era un criminal experto que se movía sin hacer ningún ruido.",
+          "translationRu": "Перкинс был опытным преступником, передвигавшимся совершенно бесшумно."
         },
         {
           "id": "sent-018",
-          "text": "Allí rescataron a Dunark, el príncipe de una nación llamada Kondal, que fue capturado por el emperador Nalboon.",
-          "translationRu": "Там они спасли Данарка — принца страны под названием Кондал, захваченного в плен императором Налбуном."
+          "text": "A la mañana siguiente fue a la oficina de Brookings con un pequeño frasco lleno de líquido verde-amarillo: era la solución de Seaton.",
+          "translationRu": "На следующее утро он явился в офис Брукингса с маленьким флаконом, наполненным желтовато-зелёной жидкостью: это был раствор Сиэтона."
         },
         {
           "id": "sent-019",
-          "text": "Dunark les advirtió que Nalboon planeaba matarlos para robar su nave.",
-          "translationRu": "Данарк предупредил их, что Налбун планирует убить их и захватить корабль."
+          "text": "Perkins había vaciado la mitad de la solución y llenado el frasco con agua para que Seaton no notara la diferencia.",
+          "translationRu": "Перкинс вылил половину раствора и долил в флакон воды, чтобы Сиэтон не заметил разницы."
         }
       ]
     },
@@ -133,18 +133,18 @@
       "sentences": [
         {
           "id": "sent-020",
-          "text": "Seaton y sus amigos escaparon del palacio con los prisioneros de Kondal y volaron a la capital de Kondal, Kondalek.",
-          "translationRu": "Сиэтон и его друзья бежали из дворца вместе с пленниками Кондала и полетели в столицу Кондала — Кондалек."
+          "text": "Brookings entregó la solución robada a su jefe de laboratorio, el doctor Chambers, y le pidió que descubriera el proceso para liberar la energía.",
+          "translationRu": "Брукингс передал похищенный раствор своему главному лаборанту, доктору Чэмберсу, и попросил его разгадать процесс высвобождения энергии."
         },
         {
           "id": "sent-021",
-          "text": "Los mecánicos de Kondal repararon El Pájaro del Espacio y lo recubrieron con un metal increíblemente resistente llamado arenak.",
-          "translationRu": "Механики Кондала отремонтировали «Жаворонок» и покрыли его невероятно прочным металлом — аренаком."
+          "text": "Chambers encargó el trabajo a su ayudante Van Schravendyck y le mandó instalar un laboratorio en el bosque, lejos de cualquier ciudad.",
+          "translationRu": "Чэмберс поручил работу своему помощнику Ван Схравендейку и велел ему устроить лабораторию в лесу, подальше от любого города."
         },
         {
           "id": "sent-022",
-          "text": "En Kondalek, Seaton se casó con Dorothy y Crane con Margaret, en una ceremonia solemne ante el rey de Kondal.",
-          "translationRu": "В Кондалеке Сиэтон женился на Дороти, а Крейн — на Маргарет в торжественной церемонии перед королём Кондала."
+          "text": "Le advirtió que tuviera mucho cuidado con la cantidad de cobre que usaba, porque una pequeña cantidad podía ser extremadamente peligrosa.",
+          "translationRu": "Он предупредил его быть очень осторожным с количеством используемой меди, так как небольшое её количество могло оказаться крайне опасным."
         }
       ]
     },
@@ -153,28 +153,43 @@
       "sentences": [
         {
           "id": "sent-023",
-          "text": "El ejército enemigo de Mardonale atacó la ciudad con cientos de naves de guerra.",
-          "translationRu": "Армия врага из Мардонале атаковала город сотнями военных кораблей."
+          "text": "Mientras tanto, Seaton se instaló en la casa de Crane y empezó a trabajar sin descanso en su laboratorio privado.",
+          "translationRu": "Тем временем Сиэтон обосновался в доме Крейна и начал без устали работать в частной лаборатории."
         },
         {
           "id": "sent-024",
-          "text": "Seaton pilotó El Pájaro del Espacio contra toda la flota enemiga y la destruyó completamente.",
-          "translationRu": "Сиэтон повёл «Жаворонок» против всего вражеского флота и уничтожил его полностью."
+          "text": "Su novia Dorothy Vaneman estaba preocupada porque no la llamaba ni la visitaba, así que Crane fue a verla para explicarle la situación.",
+          "translationRu": "Его невеста Дороти Ванемен беспокоилась, что он не звонит и не навещает её, и тогда Крейн пошёл к ней объяснить ситуацию."
         },
         {
           "id": "sent-025",
-          "text": "DuQuesne escapó en secreto con un paracaídas cuando la nave estaba sobre Panamá.",
-          "translationRu": "Дюкен тайно сбежал на парашюте, когда корабль находился над Панамой."
+          "text": "Crane le contó que Seaton había descubierto algo increíble y que planeaba construir una nave espacial para explorar otros planetas.",
+          "translationRu": "Крейн рассказал ей, что Сиэтон сделал невероятное открытие и планирует построить космический корабль, чтобы исследовать другие планеты."
         },
         {
           "id": "sent-026",
-          "text": "Seaton y Crane volvieron a la Tierra con sus esposas nueve semanas después de salir.",
-          "translationRu": "Сиэтон и Крейн вернулись на Землю со своими жёнами через девять недель после отправления."
-        },
+          "text": "Le pidió que ayudara a Seaton a descansar, porque el joven no dormía ni comía bien y podría enfermarse.",
+          "translationRu": "Он попросил её помочь Сиэтону отдохнуть, потому что молодой человек не спал и плохо ел, и мог заболеть."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
         {
           "id": "sent-027",
-          "text": "El fiel Shiro les esperaba en el campo de aterrizaje con las luces encendidas.",
-          "translationRu": "Верный Широ ждал их на посадочной площадке с включёнными огнями."
+          "text": "Esa noche Seaton fue a cenar a casa de Dorothy y el padre de ella, un abogado muy inteligente, lo distrajo con conversaciones sobre deportes.",
+          "translationRu": "В тот вечер Сиэтон пришёл на ужин к Дороти, и её отец, умный адвокат, отвлёк его беседами о спорте."
+        },
+        {
+          "id": "sent-028",
+          "text": "Después de cenar, Dorothy tocó el violín para él y fue cambiando la música poco a poco hasta que Seaton se quedó profundamente dormido en el sillón.",
+          "translationRu": "После ужина Дороти заиграла для него на скрипке и постепенно меняла музыку, пока Сиэтон не заснул крепким сном в кресле."
+        },
+        {
+          "id": "sent-029",
+          "text": "El padre la ayudó a acostarlo en el sofá, y por primera vez en días Seaton durmió diecisiete horas seguidas.",
+          "translationRu": "Отец помог ей уложить его на диван, и впервые за много дней Сиэтон проспал семнадцать часов подряд."
         }
       ]
     }

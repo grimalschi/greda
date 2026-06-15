@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "skylark-three",
+  "level": "a1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Capítulo 1"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "DuQuesne habla con Brookings en una oficina grande.",
+          "translationRu": "Дюкен разговаривает с Брукингсом в большом кабинете."
+        },
+        {
+          "id": "sent-002",
+          "text": "DuQuesne dice: «Me voy esta noche a las doce».",
+          "translationRu": "Дюкен говорит: «Я уезжаю сегодня ночью в двенадцать»."
+        },
+        {
+          "id": "sent-003",
+          "text": "Él dice que Brookings no puede matar a Seaton.",
+          "translationRu": "Он говорит, что Брукингс не может убить Сиэтона."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Seaton tiene armas muy poderosas.",
+          "translationRu": "У Сиэтона есть очень мощное оружие."
+        },
+        {
+          "id": "sent-005",
+          "text": "Brookings manda aviones y bombas, pero no funcionan.",
+          "translationRu": "Брукингс посылает самолёты и бомбы, но они не работают."
+        },
+        {
+          "id": "sent-006",
+          "text": "La bomba desaparece en un destello de luz.",
+          "translationRu": "Бомба исчезает во вспышке света."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "DuQuesne lleva comida para diez años en su nave.",
+          "translationRu": "Дюкен берёт еду на десять лет на свой корабль."
+        },
+        {
+          "id": "sent-008",
+          "text": "Él tiene un plan secreto.",
+          "translationRu": "У него есть секретный план."
+        },
+        {
+          "id": "sent-009",
+          "text": "Solo él sabe adónde va.",
+          "translationRu": "Только он знает, куда летит."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "DuQuesne dice: «No toques a la esposa de Seaton».",
+          "translationRu": "Дюкен говорит: «Не трогай жену Сиэтона»."
+        },
+        {
+          "id": "sent-011",
+          "text": "Si Seaton pierde a su esposa, destruye todo.",
+          "translationRu": "Если Сиэтон потеряет жену, он уничтожит всё."
+        },
+        {
+          "id": "sent-012",
+          "text": "DuQuesne dice adiós y sale de la oficina.",
+          "translationRu": "Дюкен говорит до свидания и уходит из кабинета."
+        }
+      ]
+    }
+  ]
+}

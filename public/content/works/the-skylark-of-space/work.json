@@ -15,28 +15,28 @@
   "synopsisRu": "Молодой химик Ричард Сиэтон случайно открывает способ высвобождать внутриатомную энергию меди. Вместе с другом-миллионером Мартином Крейном он строит первый в мире межзвёздный корабль — «Жаворонок». Злодей Марк Дюкен похищает невесту Сиэтона Дороти и уносится в космос; погоня приводит всех пятерых на планету Осном с семнадцатью солнцами и зеленокожими жителями. После сражений, дипломатии и двойной свадьбы наши герои возвращаются на Землю победителями.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 9
     },
     "a2": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "b1": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "b2": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "c1": {
       "available": true,
-      "chapterCount": 1
+      "chapterCount": 9
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 9
     }
   }
 }
