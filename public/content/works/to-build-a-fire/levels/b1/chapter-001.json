@@ -2,48 +2,59 @@
   "schemaVersion": "1.0",
   "workId": "to-build-a-fire",
   "level": "b1",
-  "chapter": { "id": "chapter-001", "number": 1, "title": "El gran frío del Yukón" },
+  "chapter": { "id": "chapter-001", "number": 1, "title": "Encender una hoguera" },
   "paragraphs": [
-    {
-      "id": "para-001",
-      "sentences": [
-        { "id": "sent-001", "text": "El día había amanecido frío y gris cuando el hombre dejó el camino principal del Yukón.", "translationRu": "День занялся холодным и серым, когда человек свернул с главной дороги Юкона." },
-        { "id": "sent-002", "text": "Subió por una orilla alta y siguió un sendero apenas visible entre los abetos.", "translationRu": "Он поднялся по высокому берегу и пошёл по едва заметной тропе среди елей." },
-        { "id": "sent-003", "text": "No había sol en el cielo, aunque tampoco había ni una sola nube.", "translationRu": "На небе не было солнца, хотя не было и ни единого облака." }
-      ]
-    },
-    {
-      "id": "para-002",
-      "sentences": [
-        { "id": "sent-004", "text": "Hacía muchísimo frío, más de cincuenta grados bajo cero.", "translationRu": "Было очень холодно, больше пятидесяти градусов ниже нуля." },
-        { "id": "sent-005", "text": "Pero el hombre no pensaba en eso.", "translationRu": "Но человек об этом не думал." },
-        { "id": "sent-006", "text": "Era nuevo en aquella tierra y no comprendía lo que significaba semejante frío.", "translationRu": "Он был новичком в этом краю и не понимал, что значит такой холод." }
-      ]
-    },
-    {
-      "id": "para-003",
-      "sentences": [
-        { "id": "sent-007", "text": "El hombre se detuvo y escupió en el aire.", "translationRu": "Человек остановился и плюнул в воздух." },
-        { "id": "sent-008", "text": "La saliva crujió con un chasquido seco antes de llegar al suelo.", "translationRu": "Слюна треснула с сухим щелчком, не долетев до земли." },
-        { "id": "sent-009", "text": "Sabía que a esa temperatura la saliva se congelaba en el aire, pero no le dio importancia.", "translationRu": "Он знал, что при такой температуре слюна замерзает в воздухе, но не придал этому значения." }
-      ]
-    },
-    {
-      "id": "para-004",
-      "sentences": [
-        { "id": "sent-010", "text": "Tras él caminaba un gran perro de trineo, lobo gris por fuera y por dentro.", "translationRu": "За ним шла большая ездовая собака — серый волк снаружи и внутри." },
-        { "id": "sent-011", "text": "El animal estaba abatido por el frío terrible.", "translationRu": "Зверь был подавлен страшным холодом." },
-        { "id": "sent-012", "text": "Su instinto le decía la verdad mejor que el juicio al hombre.", "translationRu": "Инстинкт говорил ему правду лучше, чем рассудок — человеку." }
-      ]
-    },
-    {
-      "id": "para-005",
-      "sentences": [
-        { "id": "sent-013", "text": "El hombre quería llegar al campamento antes de la noche.", "translationRu": "Человек хотел добраться до лагеря до наступления ночи." },
-        { "id": "sent-014", "text": "Allí lo esperaban sus compañeros junto a un buen fuego.", "translationRu": "Там его ждали товарищи у хорошего костра." },
-        { "id": "sent-015", "text": "Un viejo del lugar le había advertido que no viajara solo con tanto frío.", "translationRu": "Старик из тех мест предупреждал его не путешествовать в одиночку в такой холод." },
-        { "id": "sent-016", "text": "El hombre se había reído de aquel consejo.", "translationRu": "Человек посмеялся над этим советом." }
-      ]
-    }
+    { "id": "para-001", "sentences": [
+      { "id": "sent-001", "text": "Era una mañana gris y muy fría cuando el hombre dejó el camino principal del Yukón.", "translationRu": "Было серое и очень холодное утро, когда человек сошёл с главной тропы Юкона." },
+      { "id": "sent-002", "text": "Caminaba solo hacia el campamento donde lo esperaban sus amigos, en Henderson Creek.", "translationRu": "Он шёл один к лагерю на Хендерсон-Крик, где его ждали друзья." },
+      { "id": "sent-003", "text": "Hacía un frío terrible, casi sesenta grados bajo cero, pero él no parecía preocupado.", "translationRu": "Стоял страшный мороз, почти шестьдесят градусов ниже нуля, но он, казалось, не тревожился." },
+      { "id": "sent-004", "text": "Con él iba un gran perro lobo, que sentía el peligro mucho mejor que su dueño.", "translationRu": "С ним шёл большой пёс-лайка, который чувствовал опасность гораздо лучше, чем его хозяин." }
+    ] },
+    { "id": "para-002", "sentences": [
+      { "id": "sent-005", "text": "El hombre era nuevo en aquella tierra y no comprendía lo que significaba ese frío.", "translationRu": "Человек был новичком в этом краю и не понимал, что значит такой мороз." },
+      { "id": "sent-006", "text": "No tenía imaginación, y por eso no sentía el verdadero peligro que lo rodeaba.", "translationRu": "У него не было воображения, и потому он не чувствовал настоящей опасности, которая его окружала." },
+      { "id": "sent-007", "text": "Cuando escupió en el aire, la saliva crujió y se heló antes de llegar al suelo.", "translationRu": "Когда он плюнул в воздух, слюна затрещала и замёрзла, не долетев до земли." },
+      { "id": "sent-008", "text": "Aquello le pareció curioso, pero no le dio importancia.", "translationRu": "Это показалось ему любопытным, но он не придал этому значения." }
+    ] },
+    { "id": "para-003", "sentences": [
+      { "id": "sent-009", "text": "Un viejo del arroyo del Azufre le había advertido antes del viaje.", "translationRu": "Старик с Серного ручья предостерегал его перед дорогой." },
+      { "id": "sent-010", "text": "El viejo decía que nadie debía caminar solo cuando hacía más de cuarenta y cinco grados bajo cero.", "translationRu": "Старик говорил, что нельзя идти одному, когда холоднее сорока пяти градусов ниже нуля." },
+      { "id": "sent-011", "text": "Pero el hombre se había reído del consejo, porque se creía fuerte y seguro.", "translationRu": "Но человек посмеялся над советом, потому что считал себя сильным и уверенным." }
+    ] },
+    { "id": "para-004", "sentences": [
+      { "id": "sent-012", "text": "Él sabía que bajo la nieve había manantiales donde el agua no se helaba.", "translationRu": "Он знал, что под снегом есть ключи, где вода не замерзает." },
+      { "id": "sent-013", "text": "Por eso caminaba con cuidado y evitaba los lugares peligrosos.", "translationRu": "Поэтому он шёл осторожно и обходил опасные места." },
+      { "id": "sent-014", "text": "Sin embargo, en un momento el hielo se rompió bajo sus pies.", "translationRu": "Однако в какой-то момент лёд проломился под его ногами." },
+      { "id": "sent-015", "text": "Se mojó las piernas hasta las rodillas, y eso podía matarlo con aquel frío.", "translationRu": "Он промочил ноги до колен, а это могло убить его в такой мороз." }
+    ] },
+    { "id": "para-005", "sentences": [
+      { "id": "sent-016", "text": "El hombre se apuró para encender una hoguera bajo un abeto.", "translationRu": "Человек поспешил развести костёр под елью." },
+      { "id": "sent-017", "text": "Necesitaba secar sus pies y sus botas antes de que fuera demasiado tarde.", "translationRu": "Ему нужно было высушить ноги и обувь, пока не стало слишком поздно." },
+      { "id": "sent-018", "text": "El fuego empezó a crecer, y de nuevo sintió esperanza.", "translationRu": "Огонь начал разгораться, и к нему вернулась надежда." }
+    ] },
+    { "id": "para-006", "sentences": [
+      { "id": "sent-019", "text": "Pero había encendido el fuego debajo de unas ramas cargadas de nieve.", "translationRu": "Но он развёл огонь под ветвями, отягощёнными снегом." },
+      { "id": "sent-020", "text": "Cuando el calor subió, toda la nieve cayó de golpe sobre las llamas.", "translationRu": "Когда жар поднялся вверх, весь снег разом обрушился на пламя." },
+      { "id": "sent-021", "text": "En un instante la hoguera se apagó y el hombre se quedó solo en la oscuridad del frío.", "translationRu": "В одно мгновение костёр погас, и человек остался один в холодной тьме." }
+    ] },
+    { "id": "para-007", "sentences": [
+      { "id": "sent-022", "text": "Sus manos estaban tan heladas que ya no sentía los dedos.", "translationRu": "Его руки настолько окоченели, что он уже не чувствовал пальцев." },
+      { "id": "sent-023", "text": "Intentó encender las cerillas, pero no podía sujetarlas.", "translationRu": "Он пытался зажечь спички, но не мог их удержать." },
+      { "id": "sent-024", "text": "Desesperado, encendió todas a la vez y se quemó la piel.", "translationRu": "В отчаянии он зажёг все сразу и обжёг кожу." },
+      { "id": "sent-025", "text": "Logró hacer un fuego diminuto, pero también se apagó.", "translationRu": "Ему удалось развести крошечный огонёк, но и тот погас." }
+    ] },
+    { "id": "para-008", "sentences": [
+      { "id": "sent-026", "text": "Entonces tuvo una idea terrible: matar al perro para calentar las manos dentro de su cuerpo.", "translationRu": "Тогда ему пришла страшная мысль: убить собаку, чтобы согреть руки внутри её тела." },
+      { "id": "sent-027", "text": "Llamó al animal, pero sus manos rígidas no podían sostener el cuchillo ni apretar el cuello.", "translationRu": "Он подозвал животное, но окоченевшие руки не могли держать нож и сжать горло." },
+      { "id": "sent-028", "text": "El perro sintió que algo iba mal y huyó hacia la nieve.", "translationRu": "Собака почувствовала, что что-то не так, и убежала в снег." }
+    ] },
+    { "id": "para-009", "sentences": [
+      { "id": "sent-029", "text": "Lleno de pánico, el hombre echó a correr por el camino para entrar en calor.", "translationRu": "В панике человек побежал по тропе, чтобы согреться." },
+      { "id": "sent-030", "text": "Corría, pero las fuerzas se le acababan y caía una y otra vez en la nieve.", "translationRu": "Он бежал, но силы покидали его, и он снова и снова падал в снег." },
+      { "id": "sent-031", "text": "Al fin comprendió que no podía escapar de la muerte.", "translationRu": "Наконец он понял, что не может убежать от смерти." },
+      { "id": "sent-032", "text": "Se sentó en la nieve, se calmó y aceptó su destino con tranquilidad.", "translationRu": "Он сел в снег, успокоился и спокойно принял свою судьбу." },
+      { "id": "sent-033", "text": "Mientras se dormía, imaginó cómo sus amigos encontrarían su cuerpo al día siguiente.", "translationRu": "Засыпая, он представил, как друзья найдут его тело на следующий день." },
+      { "id": "sent-034", "text": "El perro esperó un rato, olió el olor de la muerte y después se marchó por el camino hacia el campamento, donde había hombres y fuego.", "translationRu": "Собака немного подождала, почуяла запах смерти, а потом ушла по тропе к лагерю, где были люди и огонь." }
+    ] }
   ]
 }

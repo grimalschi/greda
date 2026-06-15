@@ -8,9 +8,23 @@
       "originalTitle": "The Masque of the Red Death",
       "authorId": "edgar-allan-poe",
       "authorName": "Edgar Allan Poe",
-      "genres": ["Готика", "Ужас", "Притча"],
-      "levels": ["a2", "b1", "b2", "c1"],
-      "availableLevels": ["a2", "b1", "b2", "c1"]
+      "genres": [
+        "Готика",
+        "Ужас",
+        "Притча"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
     },
     {
       "id": "to-build-a-fire",
@@ -19,9 +33,23 @@
       "originalTitle": "To Build a Fire",
       "authorId": "jack-london",
       "authorName": "Jack London",
-      "genres": ["Приключения", "Выживание", "Север"],
-      "levels": ["a2", "b1", "b2", "c1"],
-      "availableLevels": ["b1"]
+      "genres": [
+        "Приключения",
+        "Выживание",
+        "Север"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
     },
     {
       "id": "the-law-of-life",
@@ -30,9 +58,22 @@
       "originalTitle": "The Law of Life",
       "authorId": "jack-london",
       "authorName": "Jack London",
-      "genres": ["Север", "Драма"],
-      "levels": ["a2", "b1", "b2", "c1"],
-      "availableLevels": []
+      "genres": [
+        "Север",
+        "Драма"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
     },
     {
       "id": "love-of-life",
@@ -41,9 +82,23 @@
       "originalTitle": "Love of Life",
       "authorId": "jack-london",
       "authorName": "Jack London",
-      "genres": ["Приключения", "Выживание", "Север"],
-      "levels": ["a2", "b1", "b2", "c1"],
-      "availableLevels": []
+      "genres": [
+        "Приключения",
+        "Выживание",
+        "Север"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
     },
     {
       "id": "the-white-silence",
@@ -52,9 +107,22 @@
       "originalTitle": "The White Silence",
       "authorId": "jack-london",
       "authorName": "Jack London",
-      "genres": ["Север", "Драма"],
-      "levels": ["a2", "b1", "b2", "c1"],
-      "availableLevels": []
+      "genres": [
+        "Север",
+        "Драма"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
     }
   ]
 }

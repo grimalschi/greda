@@ -2,62 +2,97 @@
   "schemaVersion": "1.0",
   "workId": "the-masque-of-the-red-death",
   "level": "a2",
-  "chapter": { "id": "chapter-001", "number": 1, "title": "El encierro del príncipe Próspero" },
+  "chapter": { "id": "chapter-001", "number": 1, "title": "La máscara de la Muerte Roja" },
   "paragraphs": [
     {
       "id": "para-001",
       "sentences": [
         { "id": "sent-001", "text": "La Muerte Roja vivía en el país desde hacía mucho tiempo.", "translationRu": "Красная смерть жила в стране уже долгое время." },
         { "id": "sent-002", "text": "Era una enfermedad terrible.", "translationRu": "Это была ужасная болезнь." },
-        { "id": "sent-003", "text": "Ninguna otra peste había matado a tanta gente.", "translationRu": "Ни одна другая чума не убивала столько людей." }
+        { "id": "sent-003", "text": "Empezaba con un dolor muy fuerte y un mareo.", "translationRu": "Она начиналась с очень сильной боли и головокружения." },
+        { "id": "sent-004", "text": "Después la persona sangraba por todo el cuerpo.", "translationRu": "Потом человек начинал кровоточить всем телом." },
+        { "id": "sent-005", "text": "Aparecían manchas rojas en la cara.", "translationRu": "На лице появлялись красные пятна." },
+        { "id": "sent-006", "text": "Todo terminaba en media hora.", "translationRu": "Всё заканчивалось за полчаса." },
+        { "id": "sent-007", "text": "Nadie quería ayudar a los enfermos.", "translationRu": "Никто не хотел помогать больным." }
       ]
     },
     {
       "id": "para-002",
       "sentences": [
-        { "id": "sent-004", "text": "La enfermedad empezaba con un dolor muy fuerte.", "translationRu": "Болезнь начиналась с очень сильной боли." },
-        { "id": "sent-005", "text": "Después la persona sangraba y caía al suelo.", "translationRu": "Потом человек начинал кровоточить и падал на землю." },
-        { "id": "sent-006", "text": "Aparecían manchas rojas en la cara.", "translationRu": "На лице появлялись красные пятна." },
-        { "id": "sent-007", "text": "Todo terminaba en media hora.", "translationRu": "Всё заканчивалось за полчаса." },
-        { "id": "sent-008", "text": "Por eso la gente la llamaba la Muerte Roja.", "translationRu": "Поэтому люди называли её Красной смертью." }
+        { "id": "sent-008", "text": "El príncipe Próspero no tenía miedo.", "translationRu": "Принц Просперо не боялся." },
+        { "id": "sent-009", "text": "Era feliz y muy listo.", "translationRu": "Он был счастливым и очень умным." },
+        { "id": "sent-010", "text": "La mitad de su país ya estaba muerta.", "translationRu": "Половина его страны была уже мертва." },
+        { "id": "sent-011", "text": "Entonces llamó a mil amigos sanos y alegres.", "translationRu": "Тогда он позвал тысячу здоровых и весёлых друзей." },
+        { "id": "sent-012", "text": "Con ellos se fue a vivir a una gran abadía.", "translationRu": "С ними он уехал жить в большое аббатство." }
       ]
     },
     {
       "id": "para-003",
       "sentences": [
-        { "id": "sent-009", "text": "El príncipe Próspero no tenía miedo.", "translationRu": "Принц Просперо не боялся." },
-        { "id": "sent-010", "text": "Era feliz y muy listo.", "translationRu": "Он был счастливым и очень умным." },
-        { "id": "sent-011", "text": "La mitad de su país ya estaba muerta.", "translationRu": "Половина его страны была уже мертва." },
-        { "id": "sent-012", "text": "Entonces llamó a mil amigos.", "translationRu": "Тогда он позвал тысячу друзей." },
-        { "id": "sent-013", "text": "Eran caballeros y damas de su corte.", "translationRu": "Это были рыцари и дамы его двора." },
-        { "id": "sent-014", "text": "Con ellos se fue a vivir a una gran abadía.", "translationRu": "С ними он уехал жить в большое аббатство." }
+        { "id": "sent-013", "text": "Un muro alto rodeaba la abadía.", "translationRu": "Высокая стена окружала аббатство." },
+        { "id": "sent-014", "text": "El muro tenía puertas de hierro.", "translationRu": "В стене были железные ворота." },
+        { "id": "sent-015", "text": "Los hombres cerraron las puertas con fuego.", "translationRu": "Люди закрыли ворота огнём." },
+        { "id": "sent-016", "text": "Nadie podía entrar y nadie podía salir.", "translationRu": "Никто не мог войти и никто не мог выйти." },
+        { "id": "sent-017", "text": "Dentro había comida, música, baile y vino.", "translationRu": "Внутри были еда, музыка, танцы и вино." },
+        { "id": "sent-018", "text": "Fuera, la Muerte Roja seguía matando.", "translationRu": "Снаружи Красная смерть продолжала убивать." }
       ]
     },
     {
       "id": "para-004",
       "sentences": [
-        { "id": "sent-015", "text": "Un muro alto rodeaba la abadía.", "translationRu": "Высокая стена окружала аббатство." },
-        { "id": "sent-016", "text": "El muro tenía puertas de hierro.", "translationRu": "В стене были железные ворота." },
-        { "id": "sent-017", "text": "Los hombres cerraron las puertas con fuego y martillos.", "translationRu": "Люди закрыли ворота огнём и молотами." },
-        { "id": "sent-018", "text": "Nadie podía entrar y nadie podía salir.", "translationRu": "Никто не мог войти и никто не мог выйти." }
+        { "id": "sent-019", "text": "Pasaron cinco o seis meses.", "translationRu": "Прошло пять или шесть месяцев." },
+        { "id": "sent-020", "text": "Una noche, el príncipe hizo una gran fiesta.", "translationRu": "Однажды ночью принц устроил большой праздник." },
+        { "id": "sent-021", "text": "Era un baile de máscaras.", "translationRu": "Это был бал-маскарад." },
+        { "id": "sent-022", "text": "La fiesta era en siete salas.", "translationRu": "Праздник был в семи залах." },
+        { "id": "sent-023", "text": "Cada sala tenía un color diferente.", "translationRu": "У каждого зала был свой цвет." },
+        { "id": "sent-024", "text": "Había salas azul, púrpura, verde, naranja, blanca y violeta.", "translationRu": "Были залы голубой, пурпурный, зелёный, оранжевый, белый и фиолетовый." }
       ]
     },
     {
       "id": "para-005",
       "sentences": [
-        { "id": "sent-019", "text": "Dentro había mucha comida.", "translationRu": "Внутри было много еды." },
-        { "id": "sent-020", "text": "También había música, baile y vino.", "translationRu": "Ещё были музыка, танцы и вино." },
-        { "id": "sent-021", "text": "Los amigos del príncipe se sentían seguros.", "translationRu": "Друзья принца чувствовали себя в безопасности." },
-        { "id": "sent-022", "text": "Fuera, la Muerte Roja seguía matando.", "translationRu": "Снаружи Красная смерть продолжала убивать." }
+        { "id": "sent-025", "text": "La séptima sala era negra.", "translationRu": "Седьмой зал был чёрным." },
+        { "id": "sent-026", "text": "Sus ventanas eran de color rojo como la sangre.", "translationRu": "Его окна были красными, как кровь." },
+        { "id": "sent-027", "text": "Casi nadie quería entrar en esa sala.", "translationRu": "Почти никто не хотел входить в этот зал." },
+        { "id": "sent-028", "text": "En la sala negra había un reloj muy grande.", "translationRu": "В чёрном зале стояли очень большие часы." },
+        { "id": "sent-029", "text": "Cada hora el reloj sonaba muy fuerte.", "translationRu": "Каждый час часы били очень громко." },
+        { "id": "sent-030", "text": "Entonces la música paraba y todos tenían miedo.", "translationRu": "Тогда музыка смолкала, и всем становилось страшно." },
+        { "id": "sent-031", "text": "Después la fiesta volvía a empezar.", "translationRu": "Потом праздник начинался снова." }
       ]
     },
     {
       "id": "para-006",
       "sentences": [
-        { "id": "sent-023", "text": "Pasaron cinco o seis meses.", "translationRu": "Прошло пять или шесть месяцев." },
-        { "id": "sent-024", "text": "Una noche, el príncipe hizo una gran fiesta.", "translationRu": "Однажды ночью принц устроил большой праздник." },
-        { "id": "sent-025", "text": "Era un baile de máscaras.", "translationRu": "Это был бал-маскарад." },
-        { "id": "sent-026", "text": "Todos llevaban trajes muy hermosos.", "translationRu": "Все были в очень красивых костюмах." }
+        { "id": "sent-032", "text": "A medianoche el reloj sonó otra vez.", "translationRu": "В полночь часы пробили снова." },
+        { "id": "sent-033", "text": "De repente, todos vieron a un invitado extraño.", "translationRu": "Вдруг все увидели странного гостя." },
+        { "id": "sent-034", "text": "Llevaba ropa de muerto y mucha sangre.", "translationRu": "На нём была одежда мертвеца и много крови." },
+        { "id": "sent-035", "text": "Su máscara parecía la cara de la Muerte Roja.", "translationRu": "Его маска была похожа на лицо Красной смерти." },
+        { "id": "sent-036", "text": "El príncipe se puso muy furioso.", "translationRu": "Принц очень разгневался." },
+        { "id": "sent-037", "text": "Quiso quitarle la máscara al hombre.", "translationRu": "Он захотел сорвать маску с этого человека." }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        { "id": "sent-038", "text": "Pero los invitados tenían demasiado miedo.", "translationRu": "Но гостям было слишком страшно." },
+        { "id": "sent-039", "text": "Nadie tocó al extraño.", "translationRu": "Никто не тронул незнакомца." },
+        { "id": "sent-040", "text": "Entonces el príncipe tomó un cuchillo.", "translationRu": "Тогда принц схватил нож." },
+        { "id": "sent-041", "text": "Corrió detrás de la figura por todas las salas.", "translationRu": "Он побежал за фигурой через все залы." },
+        { "id": "sent-042", "text": "La figura entró en la sala negra.", "translationRu": "Фигура вошла в чёрный зал." },
+        { "id": "sent-043", "text": "Allí se dio la vuelta.", "translationRu": "Там она обернулась." },
+        { "id": "sent-044", "text": "El príncipe gritó y cayó muerto al suelo.", "translationRu": "Принц вскрикнул и упал мёртвым на пол." }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        { "id": "sent-045", "text": "Los invitados, muy enojados, agarraron a la figura.", "translationRu": "Гости, очень разозлённые, схватили фигуру." },
+        { "id": "sent-046", "text": "Pero debajo de la ropa y la máscara no había nadie.", "translationRu": "Но под одеждой и маской никого не было." },
+        { "id": "sent-047", "text": "Entonces todos comprendieron la verdad.", "translationRu": "Тогда все поняли правду." },
+        { "id": "sent-048", "text": "Era la misma Muerte Roja.", "translationRu": "Это была сама Красная смерть." },
+        { "id": "sent-049", "text": "Uno por uno, los invitados cayeron y murieron.", "translationRu": "Один за другим гости падали и умирали." },
+        { "id": "sent-050", "text": "El fuego se apagó y el reloj negro se paró.", "translationRu": "Огонь погас, и чёрные часы остановились." },
+        { "id": "sent-051", "text": "La Muerte Roja reinó sobre todo.", "translationRu": "Красная смерть воцарилась надо всем." }
       ]
     }
   ]

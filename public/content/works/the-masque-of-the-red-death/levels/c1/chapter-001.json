@@ -2,25 +2,20 @@
   "schemaVersion": "1.0",
   "workId": "the-masque-of-the-red-death",
   "level": "c1",
-  "chapter": { "id": "chapter-001", "number": 1, "title": "El encierro del príncipe Próspero" },
+  "chapter": { "id": "chapter-001", "number": 1, "title": "La máscara de la Muerte Roja" },
   "paragraphs": [
     {
       "id": "para-001",
       "sentences": [
         { "id": "sent-001", "text": "Largo tiempo había devastado el país la Muerte Roja, y ninguna pestilencia fue jamás tan voraz ni tan espantosa.", "translationRu": "Долго опустошала страну Красная смерть, и ни одна зараза никогда не была столь ненасытной и столь чудовищной." },
-        { "id": "sent-002", "text": "La sangre era su avatar y su sello: el carmesí y el horror de la sangre.", "translationRu": "Кровь была её аватаром и печатью — багрец и ужас крови." }
-      ]
-    },
-    {
-      "id": "para-002",
-      "sentences": [
+        { "id": "sent-002", "text": "La sangre era su avatar y su sello: el carmesí y el horror de la sangre.", "translationRu": "Кровь была её аватаром и печатью — багрец и ужас крови." },
         { "id": "sent-003", "text": "Sobrevenían dolores agudos, un vértigo repentino y luego una copiosa hemorragia por los poros, y con ella la disolución.", "translationRu": "Накатывали острые боли, внезапное головокружение, а затем обильное кровотечение из пор — и вместе с ним конец." },
-        { "id": "sent-004", "text": "Las manchas escarlata en el cuerpo, y sobre todo en el rostro de la víctima, eran el anatema que la privaba del auxilio y la simpatía de sus semejantes.", "translationRu": "Алые пятна на теле, и особенно на лице жертвы, были анафемой, лишавшей её помощи и сочувствия ближних." },
+        { "id": "sent-004", "text": "Las manchas escarlata sobre el cuerpo, y en especial sobre el rostro de la víctima, eran el anatema que la privaba del auxilio y la simpatía de sus semejantes.", "translationRu": "Алые пятна на теле, и особенно на лице жертвы, были анафемой, лишавшей её помощи и сочувствия ближних." },
         { "id": "sent-005", "text": "Y todo el ataque, su progreso y su desenlace, se consumaban en el espacio de media hora.", "translationRu": "И весь приступ — его течение и развязка — совершался в какие-нибудь полчаса." }
       ]
     },
     {
-      "id": "para-003",
+      "id": "para-002",
       "sentences": [
         { "id": "sent-006", "text": "Mas el príncipe Próspero era dichoso, intrépido y sagaz.", "translationRu": "Но принц Просперо был счастлив, бесстрашен и проницателен." },
         { "id": "sent-007", "text": "Cuando sus dominios quedaron medio despoblados, convocó a un millar de amigos robustos y de corazón alegre, y con ellos se recluyó en el hondo aislamiento de una de sus abadías amuralladas.", "translationRu": "Когда владения его наполовину обезлюдели, он созвал тысячу крепких и беспечных сердцем друзей и с ними затворился в глубоком уединении одного из своих обнесённых стенами аббатств." },
@@ -28,27 +23,66 @@
       ]
     },
     {
-      "id": "para-004",
+      "id": "para-003",
       "sentences": [
         { "id": "sent-009", "text": "Un muro recio y elevado la circundaba, y ese muro tenía puertas de hierro.", "translationRu": "Крепкая и высокая стена окружала аббатство, и в той стене были железные ворота." },
         { "id": "sent-010", "text": "Una vez dentro, los cortesanos trajeron fraguas y macizos martillos, y soldaron los cerrojos, resueltos a no dejar resquicio alguno a las acometidas súbitas de la desesperación o del frenesí.", "translationRu": "Оказавшись внутри, придворные принесли горны и тяжёлые молоты и заварили засовы, решившись не оставить ни единой щели внезапным порывам отчаяния или исступления." },
-        { "id": "sent-011", "text": "Ni entrada ni salida quedarían para quien, desde dentro, cediera al pánico.", "translationRu": "Ни входа, ни выхода не осталось бы для того, кто изнутри поддался бы панике." }
+        { "id": "sent-011", "text": "La abadía estaba copiosamente abastecida, y con tales precauciones la corte podía desafiar al contagio: que el mundo de fuera se las compusiese por sí solo.", "translationRu": "Аббатство было обильно снабжено припасами, и с такими предосторожностями двор мог бросить вызов заразе — пусть внешний мир сам о себе позаботится." },
+        { "id": "sent-012", "text": "Entretanto, era insensatez afligirse o meditar en la desdicha.", "translationRu": "А пока было безрассудством горевать или размышлять о несчастье." },
+        { "id": "sent-013", "text": "El príncipe había provisto cuanto sirve al deleite: había bufones e improvisadores, bailarinas y músicos, estaba la hermosura y estaba el vino.", "translationRu": "Принц предусмотрел всё, что служит наслаждению: были шуты и импровизаторы, танцовщицы и музыканты, была красота и было вино." },
+        { "id": "sent-014", "text": "Todo eso, y la seguridad, moraba dentro de los muros; fuera moraba la Muerte Roja.", "translationRu": "Всё это, и безопасность, обитало внутри стен, а снаружи обитала Красная смерть." }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        { "id": "sent-015", "text": "Hacia el final del quinto o sexto mes de su reclusión, mientras la peste hacía afuera los más terribles estragos, el príncipe Próspero agasajó a sus mil amigos con un baile de máscaras de insólita magnificencia.", "translationRu": "Ближе к концу пятого или шестого месяца затворничества, когда чума снаружи свирепствовала всего ужаснее, принц Просперо устроил для тысячи друзей бал-маскарад небывалой пышности." },
+        { "id": "sent-016", "text": "Aquella mascarada se desplegaba en siete cámaras dispuestas en majestuosa enfilada.", "translationRu": "Тот маскарад разворачивался в семи покоях, расположенных величавой анфиладой." },
+        { "id": "sent-017", "text": "Cada una estaba ornada de un solo color, que reinaba en sus tapices y en la luz que la teñía: azul, púrpura, verde, naranja, blanco y violeta.", "translationRu": "Каждый был убран в один цвет, царивший в его коврах и в свете, окрашивавшем его: голубой, пурпурный, зелёный, оранжевый, белый и фиолетовый." },
+        { "id": "sent-018", "text": "La séptima, empero, aparecía amortajada de terciopelo negro, en tanto que sus vidrieras ardían en un escarlata profundo, en el color espeso de la sangre.", "translationRu": "Седьмой же был словно укутан в саван чёрного бархата, тогда как его витражи пылали глубоким багрянцем — густым цветом крови." },
+        { "id": "sent-019", "text": "Tan lúgubre era el aspecto de aquella estancia que apenas se hallaba quien osara aventurarse en su recinto.", "translationRu": "Столь мрачен был вид того покоя, что едва находился тот, кто отважился бы ступить в его пределы." }
       ]
     },
     {
       "id": "para-005",
       "sentences": [
-        { "id": "sent-012", "text": "La abadía estaba copiosamente abastecida, y con tales precauciones la corte podía desafiar al contagio: que el mundo de fuera se las compusiese por sí solo.", "translationRu": "Аббатство было обильно снабжено припасами, и с такими предосторожностями двор мог бросить вызов заразе — пусть внешний мир сам о себе позаботится." },
-        { "id": "sent-013", "text": "Entretanto, era insensatez afligirse o meditar en la desdicha.", "translationRu": "А пока было безрассудством горевать или размышлять о несчастье." },
-        { "id": "sent-014", "text": "El príncipe había provisto cuanto sirve al deleite: había bufones e improvisadores, bailarinas y músicos, estaba la hermosura y estaba el vino.", "translationRu": "Принц предусмотрел всё, что служит наслаждению: были шуты и импровизаторы, танцовщицы и музыканты, была красота и было вино." },
-        { "id": "sent-015", "text": "Todo eso, y la seguridad, moraba dentro de los muros; fuera moraba la Muerte Roja.", "translationRu": "Всё это, и безопасность, обитало внутри стен, а снаружи обитала Красная смерть." }
+        { "id": "sent-020", "text": "Contra el muro de poniente se erguía un gigantesco reloj de ébano.", "translationRu": "У западной стены возвышались гигантские эбеновые часы." },
+        { "id": "sent-021", "text": "Cuando llegaba la hora, su péndulo daba campanadas de timbre tan grave, tan profundo y tan singular, que los músicos hubieron de interrumpir su melodía para escucharlas.", "translationRu": "Когда приходил час, их маятник бил с таким низким, таким гулким и таким необычайным звоном, что музыкантам приходилось обрывать мелодию, чтобы внимать ему." },
+        { "id": "sent-022", "text": "Y mientras las campanadas se sucedían, hasta los más alocados palidecían, y los más ancianos se pasaban la mano por la frente, como sumidos en confusa meditación.", "translationRu": "И пока удары следовали один за другим, даже самые легкомысленные бледнели, а самые старшие проводили рукой по лбу, словно погружённые в смутное раздумье." },
+        { "id": "sent-023", "text": "Pero, apenas se desvanecían los ecos, una risa nerviosa recorría la concurrencia, y la fiesta se reanudaba con frenesí redoblado.", "translationRu": "Но едва угасало эхо, нервный смех пробегал по толпе, и праздник возобновлялся с удвоенным неистовством." }
       ]
     },
     {
       "id": "para-006",
       "sentences": [
-        { "id": "sent-016", "text": "Hacia el final del quinto o sexto mes de su reclusión, mientras la peste hacía afuera los más terribles estragos, el príncipe Próspero agasajó a sus mil amigos con un baile de máscaras de insólita magnificencia.", "translationRu": "Ближе к концу пятого или шестого месяца затворничества, когда чума снаружи свирепствовала всего ужаснее, принц Просперо устроил для тысячи друзей бал-маскарад небывалой пышности." },
-        { "id": "sent-017", "text": "Fue aquella una escena de voluptuosa pompa, digna del extraño ingenio de su anfitrión.", "translationRu": "То было зрелище сладострастного великолепия, достойное причудливого ума хозяина." }
+        { "id": "sent-024", "text": "Mas he aquí que, cuando el reloj dio las doce de la medianoche, la danza se detuvo y un escalofrío recorrió a los presentes.", "translationRu": "Но вот, когда часы пробили полночь, пляска замерла, и трепет пробежал по собравшимся." },
+        { "id": "sent-025", "text": "Sólo entonces advirtieron la presencia de una figura enmascarada que hasta aquel instante había escapado a toda mirada.", "translationRu": "Лишь тогда заметили они присутствие фигуры в маске, до того мгновения ускользавшей от всякого взора." },
+        { "id": "sent-026", "text": "El desconocido se había revestido con el atavío de la propia Muerte Roja: lo envolvía un sudario funerario salpicado de sangre.", "translationRu": "Незнакомец облёкся в убранство самой Красной смерти: его окутывал погребальный саван, забрызганный кровью." },
+        { "id": "sent-027", "text": "Su careta remedaba con tan abominable fidelidad el semblante yerto de un cadáver, que el escrutinio más atento no habría descubierto el engaño.", "translationRu": "Его личина с такой отвратительной точностью передавала окоченелый облик трупа, что и самое пристальное вглядывание не открыло бы обмана." },
+        { "id": "sent-028", "text": "Semejante mojiganga, que rozaba la blasfemia, resultó intolerable aun para los corazones más temerarios de la sala.", "translationRu": "Подобное кощунственное ряженье оказалось невыносимым даже для самых дерзких сердец в зале." }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        { "id": "sent-029", "text": "Trémulo de cólera, el príncipe Próspero ordenó que se prendiese al intruso y se le arrancara la máscara, para colgarlo al amanecer de las almenas.", "translationRu": "Дрожа от ярости, принц Просперо приказал схватить наглеца и сорвать с него маску, чтобы на рассвете вздёрнуть его на зубцах стены." },
+        { "id": "sent-030", "text": "Mas nadie alzó la mano para obedecer, pues un terror sobrenatural había petrificado a cuantos lo rodeaban.", "translationRu": "Но никто не поднял руки, чтобы повиноваться, ибо сверхъестественный ужас обратил в камень всех, кто его окружал." },
+        { "id": "sent-031", "text": "Entonces el príncipe, empuñando un puñal desnudo, se precipitó tras la aparición a través de la enfilada de las cámaras.", "translationRu": "Тогда принц, сжимая обнажённый кинжал, ринулся за призраком через анфиладу покоев." },
+        { "id": "sent-032", "text": "El espectro se alejaba con paso mesurado y solemne, sin dignarse jamás volver el rostro hacia su perseguidor.", "translationRu": "Призрак удалялся размеренным и торжественным шагом, ни разу не удостоив обернуть лицо к своему преследователю." },
+        { "id": "sent-033", "text": "Al alcanzar el fondo de la estancia negra, la figura se revolvió de súbito y le hizo frente.", "translationRu": "Достигнув глубины чёрного покоя, фигура внезапно обернулась и встала перед ним." },
+        { "id": "sent-034", "text": "Brotó entonces un grito agudo, y el puñal cayó relumbrando sobre la alfombra fúnebre, sobre la cual, un instante después, se desplomó muerto el príncipe Próspero.", "translationRu": "Тогда вырвался пронзительный крик, и кинжал, блеснув, упал на траурный ковёр, на который мгновение спустя рухнул мёртвым принц Просперо." }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        { "id": "sent-035", "text": "Invocando el coraje de la desesperación, una turba de cortesanos se arrojó al punto sobre el aposento negro.", "translationRu": "Призвав мужество отчаяния, толпа придворных тотчас бросилась в чёрный покой." },
+        { "id": "sent-036", "text": "Pero, al asir al fúnebre embozado, cuya alta figura permanecía erguida e inmóvil a la sombra del reloj de ébano, exhalaron un grito de horror sin nombre.", "translationRu": "Но, схватив погребального незнакомца, чья высокая фигура стояла прямо и неподвижно в тени эбеновых часов, они испустили крик безымянного ужаса." },
+        { "id": "sent-037", "text": "Hallaron que el sudario y la máscara cadavérica, asidos con tan brutal violencia, no contenían forma tangible alguna.", "translationRu": "Они обнаружили, что саван и трупная маска, схваченные с такой грубой силой, не заключали в себе никакой осязаемой плоти." },
+        { "id": "sent-038", "text": "Y reconocieron al fin la presencia de la Muerte Roja, que había venido como un ladrón en la noche.", "translationRu": "И узнали они наконец присутствие Красной смерти, явившейся, как вор в ночи." },
+        { "id": "sent-039", "text": "Uno tras otro fueron cayendo los convidados en las salas ensangrentadas de su orgía, y cada cual murió en la desesperada postura de su caída.", "translationRu": "Один за другим падали гости в окровавленных залах своей оргии, и каждый умирал в отчаянной позе своего падения." },
+        { "id": "sent-040", "text": "La vida del reloj de ébano se extinguió con la del último de aquellos alegres convidados; las llamas de los trípodes expiraron.", "translationRu": "Жизнь эбеновых часов угасла вместе с жизнью последнего из тех весёлых гостей, и пламя треножников померкло." },
+        { "id": "sent-041", "text": "Y las tinieblas, y la ruina, y la Muerte Roja extendieron sobre todo aquello su dominio infinito.", "translationRu": "И тьма, и тлен, и Красная смерть простёрли надо всем этим своё безграничное владычество." }
       ]
     }
   ]

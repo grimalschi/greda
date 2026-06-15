@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-law-of-life",
+  "level": "a2",
+  "chapter": { "id": "chapter-001", "number": 1, "title": "La ley de la vida" },
+  "paragraphs": [
+    { "id": "para-001", "sentences": [
+      { "id": "sent-001", "text": "Koskush es viejo y ciego.", "translationRu": "Коскуш стар и слеп." },
+      { "id": "sent-002", "text": "Antes era el jefe de la tribu.", "translationRu": "Раньше он был вождём племени." },
+      { "id": "sent-003", "text": "Ahora está sentado junto a un fuego pequeño.", "translationRu": "Теперь он сидит у маленького костра." },
+      { "id": "sent-004", "text": "La tribu tiene hambre y se va.", "translationRu": "Племя голодает и уходит." },
+      { "id": "sent-005", "text": "Ya no pueden llevar al viejo.", "translationRu": "Они больше не могут нести старика." }
+    ] },
+    { "id": "para-002", "sentences": [
+      { "id": "sent-006", "text": "Koskush escucha los ruidos del campamento.", "translationRu": "Коскуш слушает звуки стойбища." },
+      { "id": "sent-007", "text": "Los perros ladran.", "translationRu": "Лают собаки." },
+      { "id": "sent-008", "text": "Los trineos crujen sobre la nieve.", "translationRu": "Скрипят нарты по снегу." },
+      { "id": "sent-009", "text": "La gente habla y llama.", "translationRu": "Люди переговариваются и перекликаются." },
+      { "id": "sent-010", "text": "Su hijo es ahora el jefe.", "translationRu": "Его сын теперь вождь." },
+      { "id": "sent-011", "text": "El hijo dice a todos que caminen rápido.", "translationRu": "Сын велит всем идти быстрее." }
+    ] },
+    { "id": "para-003", "sentences": [
+      { "id": "sent-012", "text": "El hijo deja un poco de leña al padre.", "translationRu": "Сын оставляет отцу немного хвороста." },
+      { "id": "sent-013", "text": "Es la última leña.", "translationRu": "Это последний хворост." },
+      { "id": "sent-014", "text": "Cuando el fuego se apague, el viejo tendrá frío.", "translationRu": "Когда костёр погаснет, старику станет холодно." },
+      { "id": "sent-015", "text": "Después va a morir.", "translationRu": "Потом он умрёт." },
+      { "id": "sent-016", "text": "Todos se van.", "translationRu": "Все уходят." },
+      { "id": "sent-017", "text": "Koskush se queda solo en la nieve.", "translationRu": "Коскуш остаётся один в снегу." }
+    ] },
+    { "id": "para-004", "sentences": [
+      { "id": "sent-018", "text": "El viejo acepta su destino.", "translationRu": "Старик принимает свою судьбу." },
+      { "id": "sent-019", "text": "Así es la ley.", "translationRu": "Таков закон." },
+      { "id": "sent-020", "text": "A la naturaleza no le importa una sola vida.", "translationRu": "Природе нет дела до одной жизни." },
+      { "id": "sent-021", "text": "Solo importa la tribu.", "translationRu": "Важно только племя." },
+      { "id": "sent-022", "text": "Cada vida debe dar hijos y luego dejar su lugar.", "translationRu": "Каждая жизнь должна дать детей, а потом уступить место." }
+    ] },
+    { "id": "para-005", "sentences": [
+      { "id": "sent-023", "text": "Koskush recuerda muchas cosas.", "translationRu": "Коскуш вспоминает многое." },
+      { "id": "sent-024", "text": "Recuerda años de hambre y años de mucha comida.", "translationRu": "Он вспоминает годы голода и годы изобилия." },
+      { "id": "sent-025", "text": "Recuerda su juventud y su fuerza.", "translationRu": "Он вспоминает свою молодость и силу." },
+      { "id": "sent-026", "text": "Era un gran cazador.", "translationRu": "Он был великим охотником." },
+      { "id": "sent-027", "text": "Tuvo esposas e hijos.", "translationRu": "У него были жёны и дети." },
+      { "id": "sent-028", "text": "También su padre viejo murió solo, igual que él.", "translationRu": "Его старый отец тоже умер один, как и он." }
+    ] },
+    { "id": "para-006", "sentences": [
+      { "id": "sent-029", "text": "Koskush recuerda un día de su juventud.", "translationRu": "Коскуш вспоминает один день из своей молодости." },
+      { "id": "sent-030", "text": "Seguía las huellas de un animal.", "translationRu": "Он шёл по следу зверя." },
+      { "id": "sent-031", "text": "Encontró un alce viejo.", "translationRu": "Он нашёл старого лося." },
+      { "id": "sent-032", "text": "Una manada de lobos rodeaba al alce.", "translationRu": "Стая волков окружала лося." },
+      { "id": "sent-033", "text": "El alce luchaba, pero no podía escapar.", "translationRu": "Лось отбивался, но не мог уйти." },
+      { "id": "sent-034", "text": "La nieve con sangre contaba toda la historia.", "translationRu": "Окровавленный снег рассказывал всю историю." },
+      { "id": "sent-035", "text": "Ahora él es como aquel alce.", "translationRu": "Теперь он сам как тот лось." }
+    ] },
+    { "id": "para-007", "sentences": [
+      { "id": "sent-036", "text": "El fuego se hace pequeño.", "translationRu": "Костёр становится маленьким." },
+      { "id": "sent-037", "text": "El frío llega más cerca.", "translationRu": "Холод подбирается ближе." },
+      { "id": "sent-038", "text": "Los lobos salen de la oscuridad.", "translationRu": "Волки выходят из темноты." },
+      { "id": "sent-039", "text": "Hacen un círculo alrededor del viejo.", "translationRu": "Они смыкают кольцо вокруг старика." },
+      { "id": "sent-040", "text": "Tocan al viejo con sus narices frías.", "translationRu": "Они тычутся в старика холодными мордами." }
+    ] },
+    { "id": "para-008", "sentences": [
+      { "id": "sent-041", "text": "Por un momento Koskush siente miedo.", "translationRu": "На миг Коскуш чувствует страх." },
+      { "id": "sent-042", "text": "Toma una rama con fuego y aparta a los lobos.", "translationRu": "Он берёт горящую ветку и отгоняет волков." },
+      { "id": "sent-043", "text": "Pero su mano está débil.", "translationRu": "Но его рука слаба." },
+      { "id": "sent-044", "text": "La rama cae al suelo.", "translationRu": "Ветка падает на землю." },
+      { "id": "sent-045", "text": "El viejo piensa: \"¿Para qué luchar? Es la ley de la vida.\"", "translationRu": "Старик думает: «Зачем бороться? Это закон жизни»." },
+      { "id": "sent-046", "text": "Baja la cabeza sobre las rodillas y los lobos se acercan.", "translationRu": "Он опускает голову на колени, и волки смыкаются над ним." }
+    ] }
+  ]
+}
