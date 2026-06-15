@@ -39,6 +39,7 @@
             "type": "array",
             "items": { "enum": ["a2", "b1", "b2", "c1"] }
           },
+          "chapters": { "type": "integer", "minimum": 0 },
           "words": {
             "type": "object",
             "additionalProperties": false,

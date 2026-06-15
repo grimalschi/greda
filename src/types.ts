@@ -29,6 +29,8 @@ export interface CatalogWork {
   availableLevels: Level[]
   /** Количество слов (по испанскому тексту) на каждом доступном уровне. */
   words?: Partial<Record<Level, number>>
+  /** Количество глав в произведении. */
+  chapters?: number
 }
 
 export interface Catalog {

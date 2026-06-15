@@ -73,6 +73,9 @@ for (const id of readdirSync(WORKS)) {
   const availableLevels = LEVELS.filter((l) => norm.levels[l].available)
   const words = {}
   for (const l of availableLevels) words[l] = levelWordCount(norm.id, l)
+  const chapters = availableLevels.length
+    ? Math.max(...availableLevels.map((l) => norm.levels[l].chapterCount))
+    : 0
 
   works.push({
     id: norm.id,
@@ -84,6 +87,7 @@ for (const id of readdirSync(WORKS)) {
     genres: norm.genres,
     levels: LEVELS.filter((l) => norm.levels[l]),
     availableLevels,
+    chapters,
     words,
   })
 }
