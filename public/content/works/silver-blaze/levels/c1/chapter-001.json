@@ -1,0 +1,217 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "silver-blaze",
+  "level": "c1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Silver Blaze"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Durante días enteros, Sherlock Holmes había deambulado por nuestra sala de Baker Street sin pronunciar palabra, con la barbilla hundida en el pecho y la pipa cargada de tabaco negro, rumiando en silencio el problema que mantenía en vilo a toda Inglaterra.",
+          "translationRu": "На протяжении нескольких дней Шерлок Холмс молча бродил по нашей гостиной на Бейкер-стрит, опустив подбородок на грудь и не выпуская изо рта трубки с крепким табаком, обдумывая про себя загадку, которая не давала покоя всей Англии."
+        },
+        {
+          "id": "sent-002",
+          "text": "Silver Blaze, el magnífico purasangre que iba a ser el gran favorito de la Copa Wessex, había desaparecido de las cuadras de King's Pyland en las primeras horas del martes, y John Straker, su entrenador de confianza, había aparecido muerto poco después en un barranco del páramo de Dartmoor.",
+          "translationRu": "Сильвер Блейз, великолепный чистокровный конь, которому предстояло стать главным фаворитом Кубка Уэссекса, бесследно исчез из конюшен Кингс-Пайленд в первые часы вторника, а Джон Стрейкер, его доверенный тренер, вскоре был найден мёртвым в лощине на болотах Дартмура."
+        },
+        {
+          "id": "sent-003",
+          "text": "Cuando llegaron los telegramas del coronel Ross y del inspector Gregory solicitando su concurso, Holmes anunció que partíamos de inmediato hacia Devonshire.",
+          "translationRu": "Когда пришли телеграммы от полковника Росса и инспектора Грегори с просьбой о помощи, Холмс объявил, что мы немедленно едем в Девоншир."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "En el compartimento del expreso hacia Exeter, Holmes me fue desgranando los hechos con su característica precisión.",
+          "translationRu": "В купе экспресса до Экзетера Холмс с присущей ему точностью изложил мне все известные факты."
+        },
+        {
+          "id": "sent-005",
+          "text": "La víspera del crimen, un individuo de apariencia distinguida aunque de semblante pálido y nervioso, que resultaría ser Fitzroy Simpson, un gentlemen arruinado en las apuestas, se había aproximado a la criada que llevaba la cena al mozo de cuadra Ned Hunter y había tratado de sobornarla para que le hiciera llegar una nota.",
+          "translationRu": "Накануне преступления некий господин — с виду респектабельный, но с бледным, взволнованным лицом, оказавшийся Фицроем Симпсоном, разорившимся на ставках джентльменом, — подошёл к горничной, несшей ужин конюху Неду Хантеру, и попытался подкупить её, чтобы та передала конюху записку."
+        },
+        {
+          "id": "sent-006",
+          "text": "Hunter lo rechazó, pero aquella noche alguien mezcló opio en el curry de cordero que constituía su cena, dejándolo completamente inconsciente.",
+          "translationRu": "Хантер прогнал его, однако той же ночью кто-то подмешал опий в баранье карри, составлявшее его ужин, и конюх потерял сознание."
+        },
+        {
+          "id": "sent-007",
+          "text": "A la mañana siguiente, Straker yacía muerto con la cabeza destrozada, en su mano derecha un bisturí manchado de sangre y en la izquierda la corbata roja y negra de Simpson; el caballo había desaparecido.",
+          "translationRu": "Наутро Стрейкер лежал мёртвым с разбитой головой; в правой руке его был зажат окровавленный скальпель, в левой — красно-чёрный галстук Симпсона; лошадь исчезла."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "La policía había arrestado de inmediato a Simpson, que tenía cinco mil libras apostadas contra el favorito, y el inspector Gregory estaba convencido de haber resuelto el caso.",
+          "translationRu": "Полиция немедленно арестовала Симпсона, поставившего пять тысяч фунтов против фаворита, и инспектор Грегори был убеждён, что дело раскрыто."
+        },
+        {
+          "id": "sent-009",
+          "text": "Holmes, sin embargo, reparó en un detalle que lo invalidaba todo: el opio se había mezclado con el curry, y Simpson no habría podido prever que aquella noche se serviría ese plato concreto en las cuadras, el único capaz de enmascarar el amargo sabor del narcótico.",
+          "translationRu": "Однако Холмс заметил деталь, опровергавшую всё: опий был подмешан в карри, а Симпсон никак не мог предвидеть, что именно это блюдо подадут в конюшнях той ночью — единственное, способное замаскировать горький вкус наркотика."
+        },
+        {
+          "id": "sent-010",
+          "text": "El responsable debía de ser alguien de la casa, alguien que manejara la cocina: Straker o su esposa.",
+          "translationRu": "Виновником должен был оказаться кто-то из домашних, кто имел доступ к кухне: Стрейкер или его жена."
+        },
+        {
+          "id": "sent-011",
+          "text": "A ello se añadía el silencio del perro guardián aquella noche, que no ladró ante el visitante: señal inequívoca de que se trataba de alguien a quien el animal conocía bien.",
+          "translationRu": "К этому добавлялось молчание сторожевого пса той ночью: он не залаял на пришельца — верный знак того, что животное хорошо его знало."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-012",
+          "text": "En casa de los Straker, Holmes examinó con lupa los efectos personales del difunto.",
+          "translationRu": "В доме Стрейкеров Холмс с лупой в руках изучил личные вещи покойного."
+        },
+        {
+          "id": "sent-013",
+          "text": "El cuchillo hallado en su mano resultó ser un bisturí de catarata, un instrumento de hoja finísima diseñado para las operaciones quirúrgicas más delicadas, no para un enfrentamiento violento en el páramo.",
+          "translationRu": "Нож, найденный в его руке, оказался скальпелем для катаракты — инструментом с тончайшим лезвием, предназначенным для самых тонких хирургических операций, а отнюдь не для жестокой схватки на болотах."
+        },
+        {
+          "id": "sent-014",
+          "text": "Entre sus papeles había una factura de treinta y siete libras de la modista Madame Lesurier de Bond Street, extendida a nombre de «William Derbyshire».",
+          "translationRu": "Среди его бумаг обнаружился счёт на тридцать семь фунтов от портнихи мадам Лесюрье с Бонд-стрит, выписанный на «Уильяма Дербишира»."
+        },
+        {
+          "id": "sent-015",
+          "text": "Holmes preguntó a la señora Straker, con calculada inocencia, por un vestido de seda gris paloma con adornos de plumas de avestruz; ella lo negó con naturalidad, sin sospechar la trampa.",
+          "translationRu": "Холмс с тщательно рассчитанной наивностью спросил у миссис Стрейкер о платье из голубино-серого шёлка с отделкой из страусиных перьев; та спокойно отрицала его наличие, не подозревая о ловушке."
+        },
+        {
+          "id": "sent-016",
+          "text": "Para Holmes, aquello confirmaba que Straker llevaba una doble vida, mantenía a una amante de gustos dispendiosos con el alias de Derbyshire y necesitaba dinero con urgencia.",
+          "translationRu": "Для Холмса это подтверждало: Стрейкер вёл двойную жизнь, под псевдонимом Дербишир содержал любовницу с расточительными вкусами и остро нуждался в деньгах."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "En el lugar donde hallaron el cadáver, Holmes se tendió boca abajo sobre el barro frío y descubrió una cerilla a medio quemar que el inspector había pasado por alto.",
+          "translationRu": "На месте обнаружения трупа Холмс лёг ничком на холодную грязь и нашёл наполовину сгоревшую спичку, которую инспектор проглядел."
+        },
+        {
+          "id": "sent-018",
+          "text": "Después, con la intuición característica de su método, razonó que un animal gregario como Silver Blaze jamás habría vadeado solo el páramo oscuro: habría ido bien al establo conocido de King's Pyland, bien al otro establecimiento cercano, Mapleton.",
+          "translationRu": "Затем, с характерной для его метода интуицией, он рассудил: стадное животное, подобное Сильвер Блейзу, никогда не пошло бы одно через тёмное болото — оно направилось бы либо в знакомую конюшню Кингс-Пайленд, либо к другому ближайшему заведению — Мэплтону."
+        },
+        {
+          "id": "sent-019",
+          "text": "Como en King's Pyland no estaba, Holmes siguió metódicamente las huellas de la herradura por el terreno húmedo hasta los establos de Mapleton.",
+          "translationRu": "Поскольку в Кингс-Пайленде лошади не было, Холмс методично проследил следы подковы по сырой почве до конюшен Мэплтона."
+        },
+        {
+          "id": "sent-020",
+          "text": "Las huellas mostraban que el caballo había llegado solo y que alguien lo había conducido de regreso hasta los establos: las pisadas de un hombre aparecían a su lado.",
+          "translationRu": "Следы показывали, что лошадь пришла одна, а кто-то затем отвёл её обратно к конюшням — рядом появились отпечатки мужских ботинок."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "Holmes se enfrentó a Silas Brown, el hosco y arrogante entrenador de Mapleton, describiéndole con tal exactitud cada uno de sus actos de aquella mañana que el hombre se desmoronó en cuestión de minutos.",
+          "translationRu": "Холмс предстал перед угрюмым и высокомерным тренером Мэплтона Сайласом Брауном и описал каждый его шаг тем утром с такой точностью, что тот сломался в считанные минуты."
+        },
+        {
+          "id": "sent-022",
+          "text": "Brown había encontrado al caballo errante en el páramo y, al reconocer en él al único rival capaz de derrotar al suyo, había cedido a la tentación de ocultarlo hasta después de la carrera.",
+          "translationRu": "Браун наткнулся на бродившего по болоту коня и, узнав в нём единственного соперника, способного обойти его лошадь, поддался искушению спрятать его до окончания скачек."
+        },
+        {
+          "id": "sent-023",
+          "text": "Holmes lo sometió a su voluntad con una palabra al oído y partió dejando al hombre tembloroso y obediente, con la promesa de que el caballo estaría disponible cuando fuera necesario.",
+          "translationRu": "Холмс несколькими словами на ухо подчинил его своей воле и ушёл, оставив того дрожащим и покорным, с обещанием, что лошадь будет в наличии, когда понадобится."
+        },
+        {
+          "id": "sent-024",
+          "text": "También le llamó la atención que tres ovejas de los establos cojearan: inferencia que Straker había usado a esos animales para practicar la delicada técnica de la incisión subcutánea antes de intentarlo con Silver Blaze.",
+          "translationRu": "Его также насторожило, что три овцы у конюшни хромали — отсюда вывод: Стрейкер использовал этих животных для отработки тонкой техники подкожного надреза, прежде чем решиться на то же с Сильвер Блейзом."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "Cuatro días después, en las gradas de Winchester, el coronel Ross asistió con indignación al paso de un caballo castaño sin ninguna marca blanca, engalanado con sus propios colores.",
+          "translationRu": "Четыре дня спустя на трибунах в Уинчестере полковник Росс с возмущением наблюдал, как мимо прошёл гнедой конь без единой белой отметины в его собственных цветах."
+        },
+        {
+          "id": "sent-026",
+          "text": "Pero el animal ganó la carrera con seis largos de ventaja, dejando en ridículo a todos sus rivales.",
+          "translationRu": "Однако конь выиграл скачки с шестью корпусами преимущества, посрамив всех соперников."
+        },
+        {
+          "id": "sent-027",
+          "text": "Holmes le reveló entonces que bastaba frotar la frente y la pata del animal con alcohol para descubrir al auténtico Silver Blaze bajo el disfraz de pintura.",
+          "translationRu": "Тогда Холмс открыл ему: достаточно протереть лоб и ногу животного спиртом, чтобы под слоем краски обнаружился настоящий Сильвер Блейз."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "En el compartimento del Pullman que nos llevaba de regreso a Londres, Holmes expuso su reconstrucción definitiva.",
+          "translationRu": "В купе пульмановского вагона, мчавшего нас обратно в Лондон, Холмс изложил свою окончательную реконструкцию событий."
+        },
+        {
+          "id": "sent-029",
+          "text": "Straker, acuciado por las deudas que le había acarreado su doble vida, había planeado practicar una pequeña incisión subcutánea en el tendón de la pata de Silver Blaze, causándole una cojera que el mundo atribuiría a una lesión accidental mientras que él recuperaría su dinero apostando contra el caballo.",
+          "translationRu": "Стрейкер, угнетаемый долгами, порождёнными его двойной жизнью, задумал сделать небольшой подкожный надрез на сухожилии ноги Сильвер Блейза, вызвав хромоту, которую все сочли бы случайной травмой, а сам он возместил бы убытки, поставив против лошади."
+        },
+        {
+          "id": "sent-030",
+          "text": "Para no despertar al animal en el interior del establo, lo condujo al páramo bajo la lluvia, empleando el pañuelo de Simpson, que había recogido del suelo, para sujetarle la pata.",
+          "translationRu": "Чтобы не встревожить животное внутри конюшни, он вывел его на болото под дождём, намереваясь использовать галстук Симпсона, подобранный с земли, чтобы зафиксировать ему ногу."
+        },
+        {
+          "id": "sent-031",
+          "text": "Pero cuando encendió la cerilla para iluminar su delicada tarea, el caballo, asustado por el súbito destello y con el instinto animal de quien presiente un daño inminente, se encabritó y le descargó una coz en plena frente.",
+          "translationRu": "Но когда он зажёг спичку, чтобы осветить себе тонкую работу, лошадь, испуганная внезапной вспышкой и движимая звериным инстинктом предчувствия беды, встала на дыбы и ударила его копытом прямо в лоб."
+        },
+        {
+          "id": "sent-032",
+          "text": "Al caer, la hoja del bisturí le abrió el muslo; Silver Blaze huyó hacia Mapleton, y el hombre que había traicionado la confianza de su patrón murió allí donde lo habían llevado su ambición y su deshonestidad.",
+          "translationRu": "Падая, он распорол себе бедро лезвием скальпеля; Сильвер Блейз умчался в сторону Мэплтона, а человек, предавший доверие своего хозяина, погиб там, куда привели его алчность и бесчестие."
+        },
+        {
+          "id": "sent-033",
+          "text": "El verdadero asesino de John Straker era Silver Blaze, que había actuado en defensa propia; Fitzroy Simpson quedaba absuelto del crimen, aunque no de sus turbias intenciones.",
+          "translationRu": "Настоящим убийцей Джона Стрейкера оказался Сильвер Блейз, действовавший в целях самозащиты; Фицрой Симпсон был полностью оправдан по обвинению в убийстве — хотя не в своих тёмных намерениях."
+        }
+      ]
+    }
+  ]
+}

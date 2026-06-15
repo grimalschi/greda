@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "silver-blaze",
+  "title": "Silver Blaze",
+  "titleRu": "Серебряный",
+  "originalTitle": "Silver Blaze",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс расследует исчезновение знаменитого скакуна Сильвер Блейза и гибель его тренера на болотах Дартмура. Разгадка оказывается неожиданной: виновен сам тренер, а убийцей стала лошадь.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

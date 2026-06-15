@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-final-problem",
+  "title": "El problema final",
+  "titleRu": "Последнее дело Холмса",
+  "originalTitle": "The Final Problem",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Детектив",
+    "Шерлок Холмс"
+  ],
+  "synopsisRu": "Шерлок Холмс раскрывает доктору Ватсону существование профессора Мориарти — гениального организатора преступного мира — и бежит с ним на континент, спасаясь от мести. Их противостояние достигает трагической развязки у Рейхенбахского водопада в Швейцарии.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-cardboard-box",
+  "level": "b2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "La aventura de la caja de cartón"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Era un bochornoso día de agosto cuando Holmes, recostado en el sofá, interrumpió mis pensamientos con una observación que demostraba que había leído mis reflexiones sin que yo pronunciara una sola palabra.",
+          "translationRu": "Стоял знойный августовский день, когда Холмс, лёжа на диване, прервал мои мысли замечанием, которое доказывало, что он прочёл мои размышления, — и я не произнёс ни слова."
+        },
+        {
+          "id": "sent-002",
+          "text": "Era una de sus habituales demostraciones del método deductivo, con la que solía sorprender a quienes le rodeaban.",
+          "translationRu": "Это была одна из его обычных демонстраций дедуктивного метода, которыми он неизменно поражал окружающих."
+        },
+        {
+          "id": "sent-003",
+          "text": "Pero tenía algo más interesante entre manos: una carta de Lestrade sobre un misterioso paquete llegado a Croydon.",
+          "translationRu": "Однако у него было кое-что поинтереснее: письмо от Лестрейда о таинственной посылке, доставленной в Кройдон."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Miss Susan Cushing, solterona de cincuenta años que llevaba una vida retirada en Cross Street, había recibido una caja de cartón con dos orejas humanas conservadas en sal gruesa.",
+          "translationRu": "Мисс Сьюзен Кашинг, пятидесятилетняя незамужняя женщина, ведшая уединённую жизнь на Кросс-стрит, получила картонную коробку с двумя человеческими ушами, засыпанными крупной солью."
+        },
+        {
+          "id": "sent-005",
+          "text": "El paquete había sido enviado desde Belfast, y la policía sostenía que se trataba de una broma macabra de antiguos inquilinos, unos estudiantes de medicina.",
+          "translationRu": "Посылка была отправлена из Белфаста, и полиция настаивала на том, что это жуткая шутка бывших жильцов — студентов-медиков."
+        },
+        {
+          "id": "sent-006",
+          "text": "Holmes, sin embargo, tenía sus dudas y propuso que le acompañara a Croydon.",
+          "translationRu": "Однако Холмс сомневался в этой версии и предложил мне составить ему компанию в Кройдоне."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "En el cobertizo, Holmes examinó meticulosamente la cuerda alquitranada —típica de los marineros—, el papel marrón con olor a café y la dirección escrita con torpeza por una mano poco instruida.",
+          "translationRu": "В сарае Холмс педантично осмотрел просмолённую верёвку — типичную для моряков, — коричневую бумагу с запахом кофе и адрес, криво написанный малограмотной рукой."
+        },
+        {
+          "id": "sent-008",
+          "text": "Luego examinó las dos orejas con la precisión de un experto en anatomía: la femenina, pequeña y perforada para pendiente, y la masculina, curtida por el sol y también perforada, como es habitual entre la gente de mar.",
+          "translationRu": "Затем он осмотрел оба уха с точностью знатока анатомии: женское — маленькое, проколотое для серьги, и мужское — загорелое, тоже проколотое, как принято у морского люда."
+        },
+        {
+          "id": "sent-009",
+          "text": "Las orejas estaban frescas y no presentaban rastros del líquido conservante que usan los estudiantes de medicina, lo que descartó la hipótesis de la broma y confirmó que se trataba de un doble asesinato.",
+          "translationRu": "Уши были свежими и не имели следов консервирующей жидкости, которой пользуются студенты-медики, что опровергло версию о розыгрыше и подтвердило: речь идёт о двойном убийстве."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "Al hablar con Miss Cushing, Holmes tuvo una revelación fulminante: al observar su perfil, reconoció en él los mismos rasgos anatómicos de la oreja femenina de la caja.",
+          "translationRu": "В разговоре с мисс Кашинг Холмс сделал молниеносное открытие: разглядев её профиль, он обнаружил в нём те же анатомические черты, что и у женского уха из коробки."
+        },
+        {
+          "id": "sent-011",
+          "text": "La coincidencia era demasiado exacta para ser casual: la víctima debía de ser una pariente muy cercana de la señora.",
+          "translationRu": "Совпадение было слишком точным, чтобы быть случайным: жертва должна была оказаться близкой родственницей этой женщины."
+        },
+        {
+          "id": "sent-012",
+          "text": "Además, Holmes había observado que el paquete iba dirigido a «Miss S. Cushing», inicial que podía corresponder a otra hermana.",
+          "translationRu": "Кроме того, Холмс заметил, что посылка была адресована «мисс С. Кашинг» — инициал, который мог принадлежать другой сестре."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Miss Cushing nos reveló que tenía dos hermanas menores: Sarah, de carácter difícil, y Mary, la más dulce de las tres.",
+          "translationRu": "Мисс Кашинг поведала нам, что у неё две младшие сестры: Сара, со сложным характером, и Мэри — самая мягкая из трёх."
+        },
+        {
+          "id": "sent-014",
+          "text": "Mary estaba casada con Jim Browner, un marinero impulsivo dado a la bebida que trabajaba en los vapores entre Liverpool y Londres.",
+          "translationRu": "Мэри была замужем за Джимом Браунером — вспыльчивым пьяницей, работавшим на пароходах между Ливерпулем и Лондоном."
+        },
+        {
+          "id": "sent-015",
+          "text": "Sarah había vivido una temporada en Liverpool cerca de los Browner, pero después de una violenta riña con Jim se mudó de vuelta a Croydon.",
+          "translationRu": "Сара какое-то время жила в Ливерпуле по соседству с Браунерами, но после жестокой ссоры с Джимом вернулась в Кройдон."
+        },
+        {
+          "id": "sent-016",
+          "text": "Holmes dedujo que el paquete iba destinado a Sarah, quien antes compartía la misma dirección que su hermana mayor, lo que explicaba el error en el envío.",
+          "translationRu": "Холмс заключил, что посылка предназначалась Саре, которая прежде жила по тому же адресу, что и старшая сестра, — это объясняло ошибку в доставке."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Holmes envió un telegrama urgente a su contacto en la policía de Liverpool para que comprobara si Mrs. Browner estaba en casa y si Browner había zarpado en el May Day.",
+          "translationRu": "Холмс срочно телеграфировал своему знакомому в ливерпульской полиции с просьбой проверить, дома ли миссис Браунер и отплыл ли Браунер на «Мэй Дэй»."
+        },
+        {
+          "id": "sent-018",
+          "text": "Mientras esperábamos la respuesta, visitamos a Sarah Cushing en Wallington, pero su médico nos informó de que había caído gravemente enferma con fiebre cerebral desde que tuvo noticia del extraño paquete.",
+          "translationRu": "Пока мы ждали ответа, мы навестили Сару Кашинг в Уоллингтоне, но её врач сообщил нам, что она тяжело заболела мозговой горячкой с тех пор, как узнала о странной посылке."
+        },
+        {
+          "id": "sent-019",
+          "text": "Eso confirmaba que Sarah sabía exactamente el significado de lo que había recibido, aunque no pudiera hablar.",
+          "translationRu": "Это подтверждало, что Сара прекрасно понимала значение полученного, хотя и не могла говорить."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-020",
+          "text": "La respuesta del telegrama llegó a la comisaría: la casa de los Browner llevaba tres días cerrada y Jim había embarcado en el May Day.",
+          "translationRu": "Ответ на телеграмму пришёл в участок: дом Браунеров был закрыт уже три дня, а Джим отплыл на «Мэй Дэй»."
+        },
+        {
+          "id": "sent-021",
+          "text": "El barco llegaría al Támesis a la noche siguiente, y Lestrade estaría allí para arrestar a Browner.",
+          "translationRu": "Судно должно было прибыть на Темзу следующей ночью, и Лестрейд должен был быть там, чтобы арестовать Браунера."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Días después, Holmes recibió una carta de Lestrade con la declaración de Browner, quien confesó todo sin oponer resistencia.",
+          "translationRu": "Несколько дней спустя Холмс получил письмо от Лестрейда с показаниями Браунера, который во всём признался без какого-либо сопротивления."
+        },
+        {
+          "id": "sent-023",
+          "text": "Browner explicó que Sarah había estado enamorada de él en secreto y que, al ver rechazado su amor, había decidido destruirle la vida envenando poco a poco la mente de Mary contra él.",
+          "translationRu": "Браунер объяснил, что Сара была тайно влюблена в него, и, получив отказ, решила разрушить его жизнь, постепенно отравляя разум Мэри подозрениями к нему."
+        },
+        {
+          "id": "sent-024",
+          "text": "Sarah introdujo en la casa a Alec Fairbairn, un marinero atractivo y de buenos modales, y con el tiempo Mary cayó enamorada de él.",
+          "translationRu": "Сара привела в дом Алека Фэрберна — привлекательного и обходительного моряка, и со временем Мэри влюбилась в него."
+        },
+        {
+          "id": "sent-025",
+          "text": "Browner, que había vuelto a beber, descuidó su matrimonio mientras la distancia entre él y Mary se hacía cada vez más profunda.",
+          "translationRu": "Браунер, снова взявшийся за бутылку, запустил свой брак, пока пропасть между ним и Мэри становилась всё шире."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "El día del crimen, su barco regresó inesperadamente al puerto y Browner vio a Mary y Fairbairn en un coche, charlando y riendo.",
+          "translationRu": "В день преступления его корабль неожиданно вернулся в порт, и Браунер увидел Мэри и Фэрберна в экипаже — они разговаривали и смеялись."
+        },
+        {
+          "id": "sent-027",
+          "text": "Cegado por los celos y el alcohol, los siguió hasta New Brighton, donde alquilaron un bote para remar.",
+          "translationRu": "Ослеплённый ревностью и алкоголем, он последовал за ними в Нью-Брайтон, где они взяли лодку покататься."
+        },
+        {
+          "id": "sent-028",
+          "text": "En medio de la bruma que cubría el mar, Browner los alcanzó en otra barca, mató a Fairbairn de un golpe y, en su delirio, también a Mary cuando ella abrazó al herido.",
+          "translationRu": "В тумане, укрывавшем море, Браунер догнал их на другой лодке, одним ударом убил Фэрберна и в бреду — Мэри, когда та обняла раненого."
+        },
+        {
+          "id": "sent-029",
+          "text": "Les cortó las orejas como prueba de su venganza y envió el siniestro paquete a Sarah desde Belfast, primer puerto donde el May Day hizo escala.",
+          "translationRu": "Он отрезал им уши как доказательство своей мести и отправил зловещую посылку Саре из Белфаста — первого порта, где «Мэй Дэй» сделал остановку."
+        },
+        {
+          "id": "sent-030",
+          "text": "Browner cerró la declaración con palabras desgarradoras: no había dormido desde el crimen, porque los rostros de sus víctimas le perseguían sin descanso.",
+          "translationRu": "Браунер завершил показания душераздирающими словами: он не спал с момента преступления, потому что лица жертв не давали ему покоя."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-031",
+          "text": "Holmes dejó la declaración sobre la mesa y permaneció pensativo un instante.",
+          "translationRu": "Холмс положил показания на стол и на мгновение задумался."
+        },
+        {
+          "id": "sent-032",
+          "text": "«¿Qué sentido tiene todo esto, Watson?», dijo en voz baja. «¿Para qué sirve este círculo de miseria, violencia y miedo?»",
+          "translationRu": "«Какой смысл во всём этом, Уотсон?» — тихо произнёс он. — «Для чего нужен этот круговорот горя, насилия и страха?»"
+        },
+        {
+          "id": "sent-033",
+          "text": "Era una pregunta para la que ni la lógica deductiva ni la ciencia tenían respuesta.",
+          "translationRu": "Это был вопрос, на который не могли дать ответа ни дедуктивная логика, ни наука."
+        }
+      ]
+    }
+  ]
+}

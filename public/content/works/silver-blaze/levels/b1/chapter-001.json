@@ -1,0 +1,207 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "silver-blaze",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Silver Blaze"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Sherlock Holmes y el doctor Watson leyeron los periódicos con atención.",
+          "translationRu": "Шерлок Холмс и доктор Ватсон внимательно читали газеты."
+        },
+        {
+          "id": "sent-002",
+          "text": "En toda Inglaterra había un solo tema: Silver Blaze, el caballo favorito para la Copa Wessex, había desaparecido.",
+          "translationRu": "По всей Англии обсуждали лишь одно: Сильвер Блейз, главный фаворит Кубка Уэссекса, исчез."
+        },
+        {
+          "id": "sent-003",
+          "text": "Su entrenador, John Straker, apareció muerto en el páramo.",
+          "translationRu": "Его тренер Джон Стрейкер был найден мёртвым на болотах."
+        },
+        {
+          "id": "sent-004",
+          "text": "Holmes decidió ir a Dartmoor y Watson lo acompañó.",
+          "translationRu": "Холмс решил ехать в Дартмур, и Ватсон отправился с ним."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "En el tren hacia Exeter, Holmes explicó los hechos del caso.",
+          "translationRu": "В поезде до Экзетера Холмс изложил факты дела."
+        },
+        {
+          "id": "sent-006",
+          "text": "La noche del lunes, un desconocido llamado Fitzroy Simpson llegó al establo de King's Pyland.",
+          "translationRu": "В понедельник вечером некий незнакомец по имени Фицрой Симпсон явился к конюшне Кингс-Пайленд."
+        },
+        {
+          "id": "sent-007",
+          "text": "Intentó sobornar al mozo de cuadra Ned Hunter para obtener información sobre Silver Blaze.",
+          "translationRu": "Он попытался подкупить конюха Неда Хантера, чтобы получить сведения о Сильвер Блейзе."
+        },
+        {
+          "id": "sent-008",
+          "text": "Hunter lo rechazó, pero esa noche su cena de cordero al curry estaba envenenada con opio y se quedó dormido.",
+          "translationRu": "Хантер прогнал его, но той ночью его ужин из карри с бараниной был отравлен опием, и он заснул."
+        },
+        {
+          "id": "sent-009",
+          "text": "Al amanecer, el caballo había desaparecido y Straker estaba muerto en el páramo con la cabeza destrozada.",
+          "translationRu": "На рассвете лошадь исчезла, а Стрейкер лежал мёртвым на болоте с разбитой головой."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "La policía arrestó a Simpson porque tenía deudas de apuestas contra el caballo y su corbata estaba en la mano del muerto.",
+          "translationRu": "Полиция арестовала Симпсона, поскольку у него были долги по ставкам против лошади, а его галстук оказался в руке мертвеца."
+        },
+        {
+          "id": "sent-011",
+          "text": "Holmes no estaba convencido de que Simpson fuera culpable.",
+          "translationRu": "Холмс не был убеждён в виновности Симпсона."
+        },
+        {
+          "id": "sent-012",
+          "text": "Se preguntó: si Simpson drogó al mozo, ¿cómo obtuvo la llave del establo?",
+          "translationRu": "Он задался вопросом: если Симпсон отравил конюха, как он раздобыл ключ от конюшни?"
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "En la casa de los Straker, Holmes examinó los objetos del muerto.",
+          "translationRu": "В доме Стрейкера Холмс осмотрел вещи погибшего."
+        },
+        {
+          "id": "sent-014",
+          "text": "Encontró un cuchillo de cirujano muy delicado, poco útil como arma.",
+          "translationRu": "Он нашёл очень тонкий хирургический нож — бесполезный в качестве оружия."
+        },
+        {
+          "id": "sent-015",
+          "text": "También halló una factura de treinta y siete libras de una modista de Bond Street, a nombre de «William Derbyshire».",
+          "translationRu": "Также обнаружил счёт на тридцать семь фунтов от портнихи с Бонд-стрит на имя «Уильям Дербишир»."
+        },
+        {
+          "id": "sent-016",
+          "text": "Holmes preguntó a la señora Straker si tenía un vestido de seda gris paloma y ella dijo que no.",
+          "translationRu": "Холмс спросил миссис Стрейкер, есть ли у неё платье из голубино-серого шёлка, и та ответила отрицательно."
+        },
+        {
+          "id": "sent-017",
+          "text": "Holmes supo entonces que Straker llevaba una doble vida y tenía una amante con gustos caros.",
+          "translationRu": "Холмс понял, что Стрейкер вёл двойную жизнь и содержал любовницу с дорогими вкусами."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-018",
+          "text": "En el páramo, Holmes se tendió en el barro y encontró una cerilla quemada que nadie más había visto.",
+          "translationRu": "На болоте Холмс лёг в грязь и нашёл обгоревшую спичку, которую никто не заметил."
+        },
+        {
+          "id": "sent-019",
+          "text": "Luego razonó que el caballo no podía estar perdido en el páramo: debía estar en King's Pyland o en Mapleton.",
+          "translationRu": "Затем он рассудил, что лошадь не могла потеряться на болотах: она должна быть в Кингс-Пайленде или в Мэплтоне."
+        },
+        {
+          "id": "sent-020",
+          "text": "Como no estaba en King's Pyland, fue a Mapleton y siguió las huellas de la herradura hasta allí.",
+          "translationRu": "Поскольку её не было в Кингс-Пайленде, он направился в Мэплтон и проследил следы подковы туда."
+        },
+        {
+          "id": "sent-021",
+          "text": "Holmes confrontó a Silas Brown, el entrenador de Mapleton, con todos los detalles de sus acciones aquella mañana.",
+          "translationRu": "Холмс предъявил Сайласу Брауну, тренеру Мэплтона, все подробности его действий тем утром."
+        },
+        {
+          "id": "sent-022",
+          "text": "Brown se puso pálido y confesó que tenía al caballo escondido, prometiendo devolverlo.",
+          "translationRu": "Браун побледнел и признался, что лошадь спрятана у него, пообещав вернуть её."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "También mencionó que tres ovejas del establo cojeaban: para Holmes, eso era una pista importante.",
+          "translationRu": "Также выяснилось, что три овцы у конюшни хромали — для Холмса это была важная улика."
+        },
+        {
+          "id": "sent-024",
+          "text": "Cuatro días después, en la carrera de Winchester, un caballo marrón sin mancha blanca corrió con los colores de Ross.",
+          "translationRu": "Четыре дня спустя на скачках в Уинчестере гнедая лошадь без белого пятна вышла на старт в цветах Росса."
+        },
+        {
+          "id": "sent-025",
+          "text": "El coronel Ross exclamó que ese no era su animal, pero el caballo ganó la carrera con facilidad.",
+          "translationRu": "Полковник Росс воскликнул, что это не его лошадь, но конь с лёгкостью выиграл скачки."
+        },
+        {
+          "id": "sent-026",
+          "text": "Holmes le explicó que bastaba con lavarle la cara con alcohol para descubrir que era Silver Blaze.",
+          "translationRu": "Холмс объяснил, что стоит лишь умыть ему морду спиртом, как обнаружится, что это и есть Сильвер Блейз."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "En el tren de regreso a Londres, Holmes explicó la solución.",
+          "translationRu": "В поезде на пути в Лондон Холмс раскрыл разгадку."
+        },
+        {
+          "id": "sent-028",
+          "text": "Straker tenía deudas y planeaba cortar levemente el tendón del caballo para que perdiera la carrera.",
+          "translationRu": "Стрейкер был в долгах и планировал слегка подрезать сухожилие лошади, чтобы та проиграла."
+        },
+        {
+          "id": "sent-029",
+          "text": "Para eso necesitaba operar al aire libre porque Silver Blaze era demasiado nervioso.",
+          "translationRu": "Для этого нужно было оперировать на открытом воздухе, поскольку Сильвер Блейз был слишком нервным."
+        },
+        {
+          "id": "sent-030",
+          "text": "Pero cuando Straker encendió una cerilla, el caballo se asustó y le golpeó en la cabeza con una coz.",
+          "translationRu": "Но когда Стрейкер зажёг спичку, лошадь испугалась и ударила его копытом в голову."
+        },
+        {
+          "id": "sent-031",
+          "text": "El perro del establo no ladró esa noche porque conocía bien a Straker: esa fue la pista del «perro que no ladró».",
+          "translationRu": "Сторожевой пёс той ночью не лаял, потому что хорошо знал Стрейкера: это была улика «собаки, которая не залаяла»."
+        },
+        {
+          "id": "sent-032",
+          "text": "La culpa era de Straker, no de Simpson: el verdadero «asesino» era el propio caballo, que actuó en defensa propia.",
+          "translationRu": "Виновен был Стрейкер, а не Симпсон: настоящим «убийцей» оказалась сама лошадь, действовавшая в целях самозащиты."
+        }
+      ]
+    }
+  ]
+}
