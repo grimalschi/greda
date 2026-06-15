@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-unofficial-spy",
+  "title": "El espía no oficial",
+  "titleRu": "Неофициальный шпион",
+  "originalTitle": "The Unofficial Spy",
+  "author": {
+    "id": "arthur-b-reeve",
+    "name": "Arthur B. Reeve"
+  },
+  "genres": [
+    "Детектив",
+    "Крейг Кеннеди"
+  ],
+  "synopsisRu": "Детектив Крейг Кеннеди расследует загадочную гибель французской дамы в нью-йоркском отеле и обнаруживает за ней двойную интригу: убийство ради наследства и шпионаж, угрожающий планам обороны Панамского канала.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

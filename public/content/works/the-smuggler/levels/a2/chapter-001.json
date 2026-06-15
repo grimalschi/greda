@@ -1,0 +1,212 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-smuggler",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El contrabandista"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Era una tarde de verano en Nueva York.",
+          "translationRu": "Был летний вечер в Нью-Йорке."
+        },
+        {
+          "id": "sent-002",
+          "text": "Craig Kennedy y su amigo Walter estaban en la Quinta Avenida.",
+          "translationRu": "Крейг Кеннеди и его друг Уолтер были на Пятой авеню."
+        },
+        {
+          "id": "sent-003",
+          "text": "Un hombre llamado Jack Herndon los saludó desde el autobús.",
+          "translationRu": "Человек по имени Джек Херндон помахал им из автобуса."
+        },
+        {
+          "id": "sent-004",
+          "text": "Jack era amigo de la universidad y trabajaba en la aduana de Nueva York.",
+          "translationRu": "Джек был однокурсником и работал в таможне Нью-Йорка."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Jack tenía un problema importante.",
+          "translationRu": "У Джека была важная проблема."
+        },
+        {
+          "id": "sent-006",
+          "text": "Alguien traía ropa y joyas de París sin pagar impuestos.",
+          "translationRu": "Кто-то привозил одежду и ювелирные украшения из Парижа без уплаты пошлин."
+        },
+        {
+          "id": "sent-007",
+          "text": "Esto se llama contrabando.",
+          "translationRu": "Это называется контрабандой."
+        },
+        {
+          "id": "sent-008",
+          "text": "Jack recibió cartas anónimas sobre el contrabando.",
+          "translationRu": "Джек получал анонимные письма о контрабанде."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Había una modista francesa llamada Mademoiselle Violette.",
+          "translationRu": "Была французская портниха по имени Мадемуазель Виолет."
+        },
+        {
+          "id": "sent-010",
+          "text": "Violette vendía vestidos muy baratos de París.",
+          "translationRu": "Виолет продавала очень дешёвые платья из Парижа."
+        },
+        {
+          "id": "sent-011",
+          "text": "La gente decía que ella compraba ropa sin pagar impuestos.",
+          "translationRu": "Люди говорили, что она покупала одежду без уплаты пошлин."
+        },
+        {
+          "id": "sent-012",
+          "text": "Pero esa mañana encontraron a Violette muerta en su tienda.",
+          "translationRu": "Но в то утро Виолет нашли мёртвой в её магазине."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Kennedy, Walter y Jack fueron a ver el cuerpo.",
+          "translationRu": "Кеннеди, Уолтер и Джек пошли осмотреть тело."
+        },
+        {
+          "id": "sent-014",
+          "text": "El médico mostró un puñal especial: un arma de París.",
+          "translationRu": "Врач показал особый кинжал — оружие из Парижа."
+        },
+        {
+          "id": "sent-015",
+          "text": "Violette se mató con ese puñal.",
+          "translationRu": "Виолет убила себя этим кинжалом."
+        },
+        {
+          "id": "sent-016",
+          "text": "Su novio era Jean Pierre, un joyero famoso.",
+          "translationRu": "Её женихом был Жан Пьер — известный ювелир."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Pierre llegaba en el barco La Montaigne con joyas muy caras.",
+          "translationRu": "Пьер прибывал на корабле «Ла Монтань» с очень дорогими ювелирными украшениями."
+        },
+        {
+          "id": "sent-018",
+          "text": "Al día siguiente Kennedy y Jack fueron al puerto.",
+          "translationRu": "На следующий день Кеннеди и Джек отправились в порт."
+        },
+        {
+          "id": "sent-019",
+          "text": "Los inspectores buscaron joyas en el equipaje de Pierre.",
+          "translationRu": "Инспекторы искали украшения в багаже Пьера."
+        },
+        {
+          "id": "sent-020",
+          "text": "No encontraron nada.",
+          "translationRu": "Они ничего не нашли."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "Por la noche Kennedy preparó un aparato especial.",
+          "translationRu": "Ночью Кеннеди подготовил особый прибор."
+        },
+        {
+          "id": "sent-022",
+          "text": "Era un teléfono de luz: enviaba mensajes con rayos de luz.",
+          "translationRu": "Это был световой телефон: он передавал сообщения световыми лучами."
+        },
+        {
+          "id": "sent-023",
+          "text": "Kennedy y Walter subieron al barco para buscar las joyas.",
+          "translationRu": "Кеннеди и Уолтер поднялись на корабль, чтобы найти украшения."
+        },
+        {
+          "id": "sent-024",
+          "text": "Los contrabandistas los encerraron en un cuarto pequeño.",
+          "translationRu": "Контрабандисты заперли их в маленькой каморке."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "Kennedy habló con Herndon por el teléfono de luz.",
+          "translationRu": "Кеннеди поговорил с Херндоном через световой телефон."
+        },
+        {
+          "id": "sent-026",
+          "text": "Los contrabandistas bajaron las cajas al agua en un bote.",
+          "translationRu": "Контрабандисты спустили ящики в воду в лодке."
+        },
+        {
+          "id": "sent-027",
+          "text": "Herndon llamó al barco guardacostas Mohicano.",
+          "translationRu": "Херндон вызвал сторожевой корабль «Могикан»."
+        },
+        {
+          "id": "sent-028",
+          "text": "El Mohicano capturó el bote con las joyas.",
+          "translationRu": "«Могикан» захватил лодку с украшениями."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-029",
+          "text": "Herndon liberó a Kennedy y a Walter.",
+          "translationRu": "Херндон освободил Кеннеди и Уолтера."
+        },
+        {
+          "id": "sent-030",
+          "text": "En el bote había diamantes y perlas muy valiosos.",
+          "translationRu": "В лодке были очень ценные бриллианты и жемчуг."
+        },
+        {
+          "id": "sent-031",
+          "text": "Pierre intentó atacar a Kennedy con un puñal.",
+          "translationRu": "Пьер попытался напасть на Кеннеди с кинжалом."
+        },
+        {
+          "id": "sent-032",
+          "text": "Kennedy lo detuvo y la policía arrestó a Pierre y Lang.",
+          "translationRu": "Кеннеди остановил его, и полиция арестовала Пьера и Ланга."
+        }
+      ]
+    }
+  ]
+}

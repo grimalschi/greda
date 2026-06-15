@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-smuggler",
+  "title": "El contrabandista",
+  "titleRu": "Контрабандист",
+  "originalTitle": "The Smuggler",
+  "author": {
+    "id": "arthur-b-reeve",
+    "name": "Arthur B. Reeve"
+  },
+  "genres": [
+    "Детектив",
+    "Крейг Кеннеди"
+  ],
+  "synopsisRu": "Таможенный инспектор Херндон просит Крейга Кеннеди помочь разоблачить контрабандную сеть, ввозящую парижские ювелирные украшения без уплаты пошлин. Кеннеди применяет световой телефон-фонотелефон, чтобы из заточения на корабле направить береговую охрану на перехват контрабандистов.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
