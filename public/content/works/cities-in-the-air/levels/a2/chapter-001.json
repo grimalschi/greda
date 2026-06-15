@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Ciudades en el aire"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El capitán Brant pilotaba su crucero por el aire.",
-          "translationRu": "Капитан Брант управлял своим крейсером в воздухе."
+          "text": "Soy el capitán Martin Brant, comandante del crucero aéreo número 3885 de la Federación Americana.",
+          "translationRu": "Я капитан Мартин Брант, командир воздушного крейсера номер 3885 Американской Федерации."
         },
         {
           "id": "sent-002",
-          "text": "Un día recibió una orden urgente: ¡la guerra había comenzado!",
-          "translationRu": "Однажды он получил срочный приказ: война началась!"
+          "text": "Un día recibí un mensaje urgente del Primer Jefe Aéreo.",
+          "translationRu": "Однажды я получил срочное сообщение от Первого Воздушного Главнокомандующего."
         },
         {
           "id": "sent-003",
-          "text": "La Federación Europea y la Federación Asiática atacaban juntas a América.",
-          "translationRu": "Европейская и Азиатская федерации вместе нападали на Америку."
+          "text": "El mensaje decía que la Federación Europea y la Federación Asiática habían formado una alianza y ahora atacaban juntas a la Federación Americana.",
+          "translationRu": "В сообщении говорилось, что Европейская Федерация и Азиатская Федерация объединились и теперь вместе нападают на Американскую Федерацию."
         },
         {
           "id": "sent-004",
-          "text": "Brant fue a gran velocidad hacia Nueva York.",
-          "translationRu": "Брант помчался на большой скорости к Нью-Йорку."
+          "text": "Cinco mil cruceros europeos volaban sobre el Atlántico hacia Nueva York, y otros cinco mil cruceros asiáticos cruzaban el Pacífico hacia nuestras ciudades del oeste.",
+          "translationRu": "Пять тысяч европейских крейсеров летели над Атлантикой к Нью-Йорку, а ещё пять тысяч азиатских крейсеров пересекали Тихий океан к нашим западным городам."
         }
       ]
     },
@@ -38,28 +38,23 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Nueva York no era una ciudad normal.",
-          "translationRu": "Нью-Йорк был не обычным городом."
+          "text": "Di la orden a mi primer oficial Macklin: «¡Rumbo al este, a máxima velocidad!».",
+          "translationRu": "Я отдал приказ моему первому помощнику Маклину: «Курс на восток, максимальная скорость!»"
         },
         {
           "id": "sent-006",
-          "text": "Era una ciudad enorme que volaba en el aire, a cinco millas de altura.",
-          "translationRu": "Это был огромный город, парящий в воздухе на высоте пяти миль."
+          "text": "Macklin giró el timón y nuestro crucero voló hacia el este a más de mil millas por hora.",
+          "translationRu": "Маклин повернул штурвал, и наш крейсер полетел на восток со скоростью более тысячи миль в час."
         },
         {
           "id": "sent-007",
-          "text": "Tenía torres, calles y millones de personas dentro.",
-          "translationRu": "В нём были башни, улицы и миллионы людей."
+          "text": "Los grandes motores eléctricos de la nave usaban la electricidad del aire y podían funcionar sin parar.",
+          "translationRu": "Большие электрические двигатели корабля использовали электричество воздуха и могли работать без остановки."
         },
         {
           "id": "sent-008",
-          "text": "El Primer Jefe del Aire habló a los capitanes en la plaza central.",
-          "translationRu": "Первый воздушный командующий говорил с капитанами на центральной площади."
-        },
-        {
-          "id": "sent-009",
-          "text": "Dijo: ¡Esta batalla no puede perderse!",
-          "translationRu": "Он сказал: это сражение нельзя проиграть!"
+          "text": "Por abajo vimos pasar rápidamente las llanuras verdes, las montañas y los ríos.",
+          "translationRu": "Внизу быстро проносились зелёные равнины, горы и реки."
         }
       ]
     },
@@ -67,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-009",
+          "text": "En el año 2069, solo tres grandes naciones compartían el mundo entre ellas.",
+          "translationRu": "В 2069 году только три великие нации делили мир между собой."
+        },
+        {
           "id": "sent-010",
-          "text": "La flota americana salió a luchar sobre el Océano Atlántico.",
-          "translationRu": "Американский флот вышел сражаться над Атлантическим океаном."
+          "text": "La Federación Americana tenía su capital en Nueva York y controlaba toda América del Norte y del Sur.",
+          "translationRu": "Американская Федерация имела столицу в Нью-Йорке и контролировала всю Северную и Южную Америку."
         },
         {
           "id": "sent-011",
-          "text": "Los cruceros europeos eran el doble en número.",
-          "translationRu": "Европейских крейсеров было вдвое больше."
+          "text": "La Federación Europea dominaba Europa y África, con Berlín como capital.",
+          "translationRu": "Европейская Федерация господствовала над Европой и Африкой, со столицей в Берлине."
         },
         {
           "id": "sent-012",
-          "text": "La batalla fue muy violenta.",
-          "translationRu": "Сражение было очень жестоким."
-        },
-        {
-          "id": "sent-013",
-          "text": "Los americanos tuvieron que huir, pero el Jefe tenía un plan secreto.",
-          "translationRu": "Американцам пришлось отступить, но у командующего был тайный план."
+          "text": "La Federación Asiática controlaba Asia con Pekín como capital.",
+          "translationRu": "Азиатская Федерация контролировала Азию со столицей в Пекине."
         }
       ]
     },
@@ -92,24 +87,19 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-013",
+          "text": "Pronto vi delante de nosotros los fuertes aéreos que defendían Nueva York.",
+          "translationRu": "Вскоре я увидел перед нами воздушные форты, защищавшие Нью-Йорк."
+        },
+        {
           "id": "sent-014",
-          "text": "El Jefe llevó a la flota enemiga a una gran nube artificial.",
-          "translationRu": "Командующий завёл вражеский флот в огромное искусственное облако."
+          "text": "Eran grandes cubos de metal con muchos cañones, y flotaban a cinco millas de altura gracias al poder de los rayos cósmicos.",
+          "translationRu": "Это были огромные металлические кубы со множеством орудий, и они парили на высоте пяти миль благодаря силе космических лучей."
         },
         {
           "id": "sent-015",
-          "text": "Los fuertes del aire estaban escondidos dentro de esa nube.",
-          "translationRu": "Воздушные крепости прятались внутри этого облака."
-        },
-        {
-          "id": "sent-016",
-          "text": "Cuando la nube desapareció, los europeos vieron los fuertes y tuvieron miedo.",
-          "translationRu": "Когда облако рассеялось, европейцы увидели крепости и испугались."
-        },
-        {
-          "id": "sent-017",
-          "text": "Los americanos ganaron la primera batalla.",
-          "translationRu": "Американцы выиграли первое сражение."
+          "text": "Los fuertes formaban una gran cadena curva y defendían la ciudad.",
+          "translationRu": "Форты образовывали большую изогнутую цепь и защищали город."
         }
       ]
     },
@@ -117,24 +107,24 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-016",
+          "text": "Entonces vi Nueva York por primera vez ese día y quedé sin palabras.",
+          "translationRu": "Тогда я впервые в тот день увидел Нью-Йорк и лишился слов."
+        },
+        {
+          "id": "sent-017",
+          "text": "Nueva York no estaba en el suelo: era una ciudad que flotaba en el aire a cinco millas de altura.",
+          "translationRu": "Нью-Йорк находился не на земле: это был город, парящий в воздухе на высоте пяти миль."
+        },
+        {
           "id": "sent-018",
-          "text": "Brant recibió una nueva misión: atacar Berlín de noche.",
-          "translationRu": "Брант получил новое задание: атаковать Берлин ночью."
+          "text": "Tenía una base circular de metal de cinco millas de diámetro, y encima había enormes torres y rascacielos.",
+          "translationRu": "У него было круглое металлическое основание диаметром пять миль, а сверху стояли огромные башни и небоскрёбы."
         },
         {
           "id": "sent-019",
-          "text": "Voló sobre el Atlántico con doscientos cincuenta cruceros.",
-          "translationRu": "Он полетел над Атлантикой с двумястами пятьюдесятью крейсерами."
-        },
-        {
-          "id": "sent-020",
-          "text": "Pasaron en secreto por los fuertes enemigos y llegaron a Berlín.",
-          "translationRu": "Они тайно миновали вражеские крепости и добрались до Берлина."
-        },
-        {
-          "id": "sent-021",
-          "text": "Lanzaron bombas sobre los arsenales de la ciudad y los destruyeron.",
-          "translationRu": "Они сбросили бомбы на арсеналы города и уничтожили их."
+          "text": "Grandes motores en la base de la ciudad usaban la electricidad del cielo para mantenerse en el aire.",
+          "translationRu": "Мощные двигатели в основании города использовали электричество неба, чтобы удерживаться в воздухе."
         }
       ]
     },
@@ -142,24 +132,19 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-020",
+          "text": "En el mundo de ese tiempo, todas las ciudades grandes flotaban en el aire: Chicago, San Francisco, Berlín y Tokio.",
+          "translationRu": "В мире того времени все большие города парили в воздухе: Чикаго, Сан-Франциско, Берлин и Токио."
+        },
+        {
+          "id": "sent-021",
+          "text": "La gente vivía en estas ciudades aéreas y la tierra abajo se usaba solo para minas y materias primas.",
+          "translationRu": "Люди жили в этих воздушных городах, а земля внизу использовалась только для шахт и сырья."
+        },
+        {
           "id": "sent-022",
-          "text": "Dos cruceros enemigos chocaron con el barco de Brant.",
-          "translationRu": "Два вражеских крейсера столкнулись с кораблём Бранта."
-        },
-        {
-          "id": "sent-023",
-          "text": "El crucero cayó en las calles de Berlín.",
-          "translationRu": "Крейсер упал на улицы Берлина."
-        },
-        {
-          "id": "sent-024",
-          "text": "Brant, Macklin e Hilliard fueron capturados.",
-          "translationRu": "Брант, Маклин и Хиллиард попали в плен."
-        },
-        {
-          "id": "sent-025",
-          "text": "En la prisión encontraron a Connell, un espía americano.",
-          "translationRu": "В тюрьме они нашли Коннела — американского разведчика."
+          "text": "La Federación Americana tenía cien ciudades aéreas con cinco millones de habitantes cada una.",
+          "translationRu": "Американская Федерация имела сто воздушных городов с пятью миллионами жителей каждый."
         }
       ]
     },
@@ -167,79 +152,24 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-023",
+          "text": "Aterricé en la plaza central de Nueva York y fui a hablar con el Primer Jefe Aéreo Yarnall.",
+          "translationRu": "Я приземлился на центральной площади Нью-Йорка и пошёл говорить с Первым Воздушным Главнокомандующим Ярналлом."
+        },
+        {
+          "id": "sent-024",
+          "text": "Yarnall habló a todos los comandantes con voz seria y clara.",
+          "translationRu": "Ярналл обратился ко всем командирам серьёзным и чётким голосом."
+        },
+        {
+          "id": "sent-025",
+          "text": "Dijo que la flota europea tenía el doble de cruceros que la nuestra, pero que debíamos salir a luchar en menos de una hora.",
+          "translationRu": "Он сказал, что у европейского флота вдвое больше крейсеров, чем у нас, но мы должны выйти сражаться менее чем через час."
+        },
+        {
           "id": "sent-026",
-          "text": "Connell sabía el gran secreto del enemigo.",
-          "translationRu": "Коннел знал великую тайну врага."
-        },
-        {
-          "id": "sent-027",
-          "text": "Los europeos tenían nuevos motores para mover sus ciudades muy rápido.",
-          "translationRu": "У европейцев были новые двигатели, чтобы перемещать свои города с огромной скоростью."
-        },
-        {
-          "id": "sent-028",
-          "text": "Con esos motores, las ciudades enemigas podían atacar a las ciudades americanas.",
-          "translationRu": "С этими двигателями вражеские города могли атаковать американские города."
-        },
-        {
-          "id": "sent-029",
-          "text": "Era necesario escapar y llevar ese secreto a América.",
-          "translationRu": "Нужно было бежать и доставить этот секрет в Америку."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "Hilliard tuvo una idea: cambiaron de ropa con los guardias.",
-          "translationRu": "У Хиллиарда возникла идея: они поменялись одеждой с охранниками."
-        },
-        {
-          "id": "sent-031",
-          "text": "Connell y Macklin escaparon de la prisión y tomaron un crucero.",
-          "translationRu": "Коннел и Маклин сбежали из тюрьмы и захватили крейсер."
-        },
-        {
-          "id": "sent-032",
-          "text": "Los enemigos dispararon y el crucero pareció caer, pero fue un truco.",
-          "translationRu": "Враги выстрелили, крейсер словно упал, но это была уловка."
-        },
-        {
-          "id": "sent-033",
-          "text": "Connell llegó a América con el secreto.",
-          "translationRu": "Коннел добрался до Америки с тайной."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-034",
-          "text": "Brant e Hilliard escaparon bajando por la torre con correas de cuero.",
-          "translationRu": "Брант и Хиллиард сбежали, спускаясь по башне на кожаных ремнях."
-        },
-        {
-          "id": "sent-035",
-          "text": "Volaron a América y llegaron a tiempo para la batalla final.",
-          "translationRu": "Они улетели в Америку и успели к финальной битве."
-        },
-        {
-          "id": "sent-036",
-          "text": "Las cien ciudades americanas lucharon contra las doscientas ciudades enemigas.",
-          "translationRu": "Сто американских городов сражались против двухсот вражеских."
-        },
-        {
-          "id": "sent-037",
-          "text": "Brant capturó Berlín y usó la ciudad como arma para destruir a los enemigos.",
-          "translationRu": "Брант захватил Берлин и использовал город как оружие для уничтожения врагов."
-        },
-        {
-          "id": "sent-038",
-          "text": "América ganó la guerra y el sol salió sobre un mundo en paz.",
-          "translationRu": "Америка выиграла войну, и солнце взошло над миром в мире."
+          "text": "Sus palabras fueron simples: «¡Esta batalla no puede perderse!».",
+          "translationRu": "Его слова были просты: «Это сражение нельзя проиграть!»"
         }
       ]
     }

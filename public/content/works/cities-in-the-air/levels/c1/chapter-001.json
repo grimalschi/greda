@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Ciudades en el aire"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El capitán Martin Brant pilotaba su crucero a más de mil millas por hora sobre las llanuras verdes cuando, a través del teléfono de distancia, llegó la orden que llevaba décadas temiendo.",
-          "translationRu": "Капитан Мартин Брант вёл свой крейсер со скоростью более тысячи миль в час над зелёными равнинами, когда по дистанционному телефону пришёл приказ, которого он боялся десятилетиями."
+          "text": "El mensaje llegó a través del teléfono de distancia con la claridad penetrante de una voz que no admite réplica: la Federación Europea y la Asiática habían sellado una alianza y lanzaban en ese mismo instante dos flotas de cinco mil cruceros cada una, una desde el Atlántico y otra desde el Pacífico, en un ataque coordinado que amenazaba con barrer del cielo a la Federación Americana.",
+          "translationRu": "Сообщение пришло по дальнефону с пронзительной чёткостью голоса, не допускающего возражений: Европейская и Азиатская федерации заключили союз и в тот же момент бросали два флота по пять тысяч крейсеров каждый — один со стороны Атлантики, другой со стороны Тихого океана — в скоординированной атаке, грозившей сметать с неба Американскую федерацию."
         },
         {
           "id": "sent-002",
-          "text": "La Federación Europea y la Asiática habían forjado una alianza para atacar simultáneamente la Federación Americana desde el este y el oeste con flotas de cinco mil cruceros cada una.",
-          "translationRu": "Европейская и Азиатская федерации заключили союз, чтобы одновременно атаковать Американскую федерацию с востока и запада флотами по пять тысяч крейсеров каждый."
+          "text": "Ordené a Macklin, mi primer oficial, que virara nuestro crucero hacia el este a máxima velocidad; el largo casco metálico torció su rumbo en el aire con la elegancia que desmentía su masa, y los potentes motores electrostáticos —que extraían energía ilimitada de la electricidad estática atmosférica— nos dispararon sobre las llanuras verdes a más de mil millas por hora.",
+          "translationRu": "Я приказал Маклину, моему старшему офицеру, развернуть наш крейсер на восток на максимальной скорости; длинный металлический корпус изменил курс в воздухе с изяществом, опровергавшим его массу, и мощные электростатические двигатели — черпавшие безграничную энергию из атмосферного статического электричества — метнули нас над зелёными равнинами со скоростью более тысячи миль в час."
         },
         {
           "id": "sent-003",
-          "text": "Era la guerra que el equilibrio del terror entre las tres grandes potencias había aplazado durante treinta años; ahora, de manera inevitable, había llegado.",
-          "translationRu": "Это была война, которую равновесие страха между тремя великими державами откладывало на протяжении тридцати лет; теперь она неизбежно наступила."
+          "text": "Era la guerra que habíamos esperado con aprensión durante tres décadas, el equilibrio frágil mantenido por el mutuo temor a que cualquier agresión bilateral invitara al ataque del tercero; ahora ese equilibrio se rompía de una sola vez.",
+          "translationRu": "Это была война, которую мы с тревогой ожидали три десятилетия, — хрупкое равновесие, поддерживаемое взаимным страхом перед тем, что любая двусторонняя агрессия спровоцирует удар третьего; теперь это равновесие рухнуло одним разом."
+        },
+        {
+          "id": "sent-004",
+          "text": "El mundo, en el año 2069, se dividía en tres colosos: la Federación Americana gobernaba todo el continente americano desde Nueva York; la Europea, Europa y África desde Berlín; y la Asiática, Asia y Australasia desde Pekín.",
+          "translationRu": "Мир в 2069 году делился на три колосса: Американская федерация управляла всем американским континентом из Нью-Йорка; Европейская — Европой и Африкой из Берлина; Азиатская — Азией и Австралазией из Пекина."
         }
       ]
     },
@@ -32,24 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Nueva York no era una ciudad terrestre sino una inmensa plataforma metálica circular de cinco millas de diámetro, suspendida a cinco millas de altura por la acción combinada de motores electrostáticos y la fuerza antigravitacional de los rayos cósmicos.",
-          "translationRu": "Нью-Йорк был не наземным городом, а огромной круглой металлической платформой пятимильного диаметра, подвешенной на высоте пяти миль совместным действием электростатических двигателей и антигравитационной силы космических лучей."
-        },
-        {
           "id": "sent-005",
-          "text": "Sus torres, calles y plazas bullían de vida; la pinnácula central, que recogía la electricidad estática atmosférica para alimentar los enormes motores de la base, se alzaba sobre todo como un faro en la oscuridad.",
-          "translationRu": "Его башни, улицы и площади кипели жизнью; центральный шпиль, собиравший атмосферное статическое электричество для питания огромных двигателей в основании, возвышался над всем, как маяк во тьме."
+          "text": "Al acercarnos a la costa este, Macklin señaló la primera maravilla del mundo moderno que divisábamos: los fortines aéreos que custodiaban Nueva York, cubos colosales de metal mate de quinientos pies de anchura suspendidos en el cielo por la energía repelente de los rayos cósmicos concentrados, sus cañones térmicos erizados en todas las direcciones como espinas metálicas.",
+          "translationRu": "Подлетая к восточному побережью, Маклин указал на первое чудо современного мира, которое мы увидели: воздушные форты, охранявшие Нью-Йорк, — исполинские кубы из матового металла шириной пятьсот футов, подвешенные в небе отталкивающей энергией сконцентрированных космических лучей, с тепловыми пушками, торчавшими во всех направлениях как металлические шипы."
         },
         {
           "id": "sent-006",
-          "text": "En la plaza central, el Primer Jefe del Aire Yarnall reunió a los comandantes de escuadrón y les habló con gravedad de lo que dependía de aquella primera batalla.",
-          "translationRu": "На центральной площади Первый воздушный командующий Ярналл собрал командиров эскадрилий и серьёзно говорил с ними о том, что зависело от этого первого сражения."
+          "text": "Más allá de ellos, Nueva York surgió ante nuestra mirada en toda su sobrecogedora magnificencia: una ciudad no de la tierra sino del aire, un enorme disco de metal de cinco millas de diámetro y más de mil pies de espesor en la base, del que se alzaban torres, pirámides y agujas otros cinco mil pies hacia el cielo, todo ello flotando a cinco millas de altura sobre la tierra verde y desierta que en otros tiempos había llevado ese mismo nombre.",
+          "translationRu": "За ними Нью-Йорк предстал перед нашим взором во всём своём захватывающем великолепии: город не земли, а воздуха — огромный металлический диск пяти миль в диаметре и более тысячи футов толщиной в основании, из которого вздымались башни, пирамиды и шпили ещё на пять тысяч футов в небо, всё это парило на высоте пяти миль над зелёной и безлюдной землёй, некогда носившей это же имя."
         },
         {
           "id": "sent-007",
-          "text": "Los enemigos doblaban en número a los americanos, pero Yarnall había preparado una trampa magistral: los fuertes del aire, capaces de proyectar nubes de vapor artificiales, aguardaban ocultos sobre el Atlántico.",
-          "translationRu": "Враги численно вдвое превосходили американцев, но Ярналл подготовил мастерскую ловушку: воздушные крепости, способные создавать искусственные облака из водяного пара, поджидали скрытые над Атлантикой."
+          "text": "Los motores electrostáticos de su base extraían una energía inagotable de la electricidad atmosférica a través de los esbeltos pináculos que coronaban la plaza central; esa misma corriente, junto con la fuerza repulsora de los rayos cósmicos, la mantenía suspendida entre la tierra y las nubes.",
+          "translationRu": "Электростатические двигатели в его основании черпали неиссякаемую энергию из атмосферного электричества через изящные шпили, венчавшие центральную площадь; тот же ток вместе с отталкивающей силой космических лучей удерживал его подвешенным между землёй и облаками."
+        },
+        {
+          "id": "sent-008",
+          "text": "Así vivía la humanidad entera: cien ciudades aéreas americanas, cada una habitada por un promedio de cinco millones de personas, navegaban en permanencia a miles de pies de altitud mientras la superficie terrestre servía únicamente para la minería y la producción de alimentos sintéticos.",
+          "translationRu": "Так жило всё человечество: сто американских воздушных городов, каждый с населением в среднем пять миллионов человек, постоянно плавали на высоте тысяч футов, пока поверхность земли служила лишь для добычи полезных ископаемых и производства синтетической пищи."
         }
       ]
     },
@@ -57,24 +62,19 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "La batalla sobre el Atlántico fue una carnicería sin precedentes: proyectiles termales que contenían vibraciones de calor radiante concentrado fundían el metal de los cruceros en colosales llamaradas cegadoras.",
-          "translationRu": "Сражение над Атлантикой было беспрецедентной бойней: тепловые снаряды с концентрированными вибрациями лучистого тепла расплавляли металл крейсеров в колоссальных ослепительных вспышках."
-        },
-        {
           "id": "sent-009",
-          "text": "La lucha se prolongó incluso bajo las aguas del océano, donde ambas flotas, perfectamente herméticas, combatieron en la penumbra verde del fondo marino.",
-          "translationRu": "Бой продолжился даже под водами океана, где оба флота, совершенно герметичные, сражались в зелёном полумраке морского дна."
+          "text": "Posamos en la plaza central de Nueva York, donde el Primer Jefe Aéreo Yarnall nos aguardaba junto a los comandantes de escuadra; a su alrededor, millares de ciudadanos observaban en silencio tenso desde las avenidas y desde las terrazas de los rascacielos.",
+          "translationRu": "Мы приземлились на центральной площади Нью-Йорка, где Первый воздушный командующий Ярнал ждал нас вместе с командирами эскадр; вокруг него тысячи горожан наблюдали в напряжённой тишине с проспектов и с террас небоскрёбов."
         },
         {
           "id": "sent-010",
-          "text": "Superados en número, los americanos fingieron huir hacia la costa y atrajeron a la flota europea triunfante hacia la nube artificial que ocultaba la línea doble de los fuertes.",
-          "translationRu": "Превзойдённые численно, американцы притворились, что бегут к побережью, и завлекли торжествующий европейский флот в искусственное облако, скрывавшее двойную линию крепостей."
+          "text": "Yarnall nos habló con la sobriedad de quien carga con el destino de cien ciudades: la flota europea doblaba en número a la nuestra, rumores de un arma secreta aterradora circulaban desde hacía meses, y la ciudad de Nueva York partiría inmediatamente hacia el interior para alejarse del campo de batalla mientras nosotros salíamos a interceptar al enemigo.",
+          "translationRu": "Ярнал говорил с краткостью человека, несущего судьбу ста городов: европейский флот вдвое превышал численностью наш, слухи о каком-то ужасающем секретном оружии ходили уже месяцами, и сам Нью-Йорк немедленно двинется вглубь страны, чтобы удалиться от поля боя, пока мы выходим навстречу врагу."
         },
         {
           "id": "sent-011",
-          "text": "Cuando los americanos cayeron en picado por debajo de la nube y los fuertes dispersaron el vapor mediante chorros de aire, la flota europea apareció confusa y diezmada entre dos líneas de cañones que la barrieron sin piedad.",
-          "translationRu": "Когда американцы нырнули вниз под облако, а крепости рассеяли пар воздушными струями, европейский флот оказался растерянным и выкошенным между двумя линиями орудий, беспощадно сметавших его."
+          "text": "«Esta batalla no debe perderse», repitió con una gravedad que hacía innecesario cualquier adorno retórico, y su voz resonó sobre el silencio expectante de la plaza como el sonido de una puerta que se cierra.",
+          "translationRu": "«Это сражение нельзя проиграть», — повторил он с такой серьёзностью, что любые риторические украшения были излишни, и его голос прогремел над напряжённой тишиной площади, как звук захлопывающейся двери."
         }
       ]
     },
@@ -83,18 +83,23 @@
       "sentences": [
         {
           "id": "sent-012",
-          "text": "La victoria era sólo una tregua; Yarnall lo sabía y ordenó a Brant un audaz golpe de mano: atacar Berlín de noche con doscientos cincuenta cruceros.",
-          "translationRu": "Победа была лишь передышкой; Ярналл это понимал и приказал Бранту дерзкий рейд: атаковать Берлин ночью с двумястами пятьюдесятью крейсерами."
+          "text": "Los exploradores europeos aparecieron primero como puntos oscuros en el horizonte atlántico, que fueron agrandándose hasta convertirse en siluetas inconfundibles de cruceros torpedos que avanzaban en formación hacia nosotros; detrás de ellos, el grueso de la armada enemiga —cinco mil naves en formación circular— llenaba el cielo como una muralla viviente.",
+          "translationRu": "Европейские разведчики появились сначала как тёмные точки на атлантическом горизонте, постепенно увеличиваясь до узнаваемых силуэтов крейсеров-торпедоносцев, надвигавшихся на нас строем; за ними основные силы вражеской армады — пять тысяч кораблей в кольцевом строю — заполняли небо, как живая стена."
         },
         {
           "id": "sent-013",
-          "text": "El escuadrón cruzó el Atlántico a diez millas de altura para eludir las patrullas, y se coló entre los fuertes europeos deslizándose sigilosamente a través de la capa de niebla sembrada de minas flotantes.",
-          "translationRu": "Эскадрилья пересекла Атлантику на высоте десяти миль, чтобы обойти патрули, и просочилась между европейскими крепостями, осторожно скользя сквозь слой тумана, усеянного плавающими минами."
+          "text": "En el instante en que las dos líneas de exploradores se tocaron, el aire se llenó de naves que giraban y chocaban, de destellos cegadores de proyectiles térmicos que estallaban contra cascos de metal fundiéndolos en torrentes de luz blanca, y de cruceros que caían hacia las grises aguas del océano como meteoros incandescentes.",
+          "translationRu": "В тот миг, когда две линии разведчиков столкнулись, воздух наполнился кружащимися и сталкивающимися кораблями, ослепительными вспышками тепловых снарядов, взрывавшихся о металлические корпуса и плавивших их потоками белого света, и крейсерами, падавшими в серые воды океана как раскалённые метеоры."
         },
         {
           "id": "sent-014",
-          "text": "Sobre Berlín lanzaron dos oleadas devastadoras de bombas termales que convirtieron ambos extremos de la monumental ciudad flotante en cráteres de metal al rojo blanco.",
-          "translationRu": "Над Берлином они сбросили две разрушительные волны тепловых бомб, превративших оба конца монументального летающего города в кратеры раскалённого добела металла."
+          "text": "Macklin maniobró el crucero con manos firmes sobre el timón, esquivando naves enemigas que se precipitaban hacia nosotros, mientras Hilliard coordinaba el fuego de las baterías de quilla que hacía estragos entre los barcos bajo nosotros; la batalla tenía la geometría caótica y la velocidad sobrehumana de una pesadilla.",
+          "translationRu": "Маклин маневрировал крейсером твёрдыми руками на штурвале, уклоняясь от вражеских кораблей, несшихся на нас, пока Хиллиард координировал огонь килевых батарей, сеявших разрушения среди кораблей под нами; сражение обладало хаотичной геометрией и сверхчеловеческой скоростью кошмара."
+        },
+        {
+          "id": "sent-015",
+          "text": "Las naves europeas caían más rápidamente que las nuestras en aquellos primeros minutos, pero su número era abrumador, y cuando el Primer Jefe Aéreo ordenó una retirada que no era tal sino el primer acto de una trampa magistral, seguimos su nave insignia hacia el oeste con una mezcla de ira y de fe ciega.",
+          "translationRu": "Европейские корабли падали быстрее наших в те первые минуты, но их численность была подавляющей, и когда Первый воздушный командующий приказал отступление, которое было не отступлением, а первым актом искусной ловушки, мы последовали за его флагманом на запад со смесью ярости и слепой веры."
         }
       ]
     },
@@ -102,19 +107,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Durante la retirada, dos cruceros suicidas enemigos se lanzaron en picado sobre el barco de Brant y lo precipitaron sobre las calles de Berlín.",
-          "translationRu": "Во время отхода два вражеских крейсера-камикадзе пикировали на корабль Бранта и обрушили его на улицы Берлина."
-        },
-        {
           "id": "sent-016",
-          "text": "Brant, Macklin e Hilliard sobrevivieron milagrosamente al estar en la sala de control, pero el Primer Jefe del Aire europeo los tomó prisioneros en la torre central.",
-          "translationRu": "Брант, Маклин и Хиллиард чудом выжили, находясь в рубке управления, но европейский Первый воздушный командующий взял их в плен в центральной башне."
+          "text": "Delante de nosotros, una gran masa de nubes blancas flotaba serena sobre el Atlántico; los fortines aéreos, dotados de un nuevo dispositivo que les permitía rodearse de niebla artificial proyectando enormes cantidades de vapor de agua, aguardaban ocultos en su interior como cazadores en un escondrijo.",
+          "translationRu": "Перед нами огромная масса белых облаков мирно парила над Атлантикой; воздушные форты, оснащённые новым устройством, позволявшим им окружать себя искусственным туманом, выпуская огромные количества водяного пара, поджидали скрытые внутри, как охотники в засаде."
         },
         {
           "id": "sent-017",
-          "text": "El comandante europeo, astuto y amenazador, les concedió una quincena para revelar los secretos americanos, más allá de la cual les esperaba una muerte que llamó discretamente «procedimientos desagradables».",
-          "translationRu": "Европейский командующий, хитрый и угрожающий, дал им две недели, чтобы раскрыть американские секреты, по истечении которых их ждала смерть, которую он деликатно назвал «неприятными процедурами»."
+          "text": "La flota europea, ebria de persecución y sin sospechar el engaño, se precipitó tras nosotros dentro de aquella gran nube, donde ambas flotas quedaron ciegas e inmóviles durante unos segundos cruciales.",
+          "translationRu": "Европейский флот, опьянённый преследованием и не подозревая об обмане, ринулся за нами в то огромное облако, где оба флота ослепли и замерли на несколько решающих секунд."
+        },
+        {
+          "id": "sent-018",
+          "text": "Entonces Yarnall gritó la orden que lo cambiaba todo, «¡Todos los barcos americanos, abajo!», y nuestros cruceros se desplomaron en caída libre a través de la nube hasta el aire despejado de abajo, justo cuando los fortines disolvían la niebla artificial con chorros de aire de potencia titánica.",
+          "translationRu": "Тогда Ярнал крикнул приказ, изменивший всё: «Всем американским кораблям — вниз!», и наши крейсеры камнем упали сквозь облако в чистый воздух снизу, как раз когда форты растворяли искусственный туман струями воздуха титанической мощи."
+        },
+        {
+          "id": "sent-019",
+          "text": "La flota europea apareció de improviso entre dos líneas paralelas de fortines que abrieron fuego simultáneamente por ambos flancos; atrapada sin formación y sin visibilidad, fue diezmada en cuestión de minutos y los supervivientes huyeron en desbandada hacia el este.",
+          "translationRu": "Европейский флот внезапно оказался между двумя параллельными линиями фортов, открывших огонь одновременно с обоих флангов; попавший в ловушку без строя и видимости, он был разгромлен в считанные минуты, и выжившие бежали врассыпную на восток."
         }
       ]
     },
@@ -122,114 +132,19 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "En la celda del piso cien encontraron a Connell, un espía americano enviado un año antes para descubrir el arma secreta que tanto temía el Primer Jefe del Aire.",
-          "translationRu": "В камере на сотом этаже они нашли Коннела — американского шпиона, отправленного год назад, чтобы разузнать секретное оружие, которого так боялся Первый воздушный командующий."
-        },
-        {
-          "id": "sent-019",
-          "text": "Connell había descubierto que los europeos y asiáticos habían desarrollado propulsores tubulares de nueva generación que permitían a sus ciudades moverse a centenares de millas por hora, transformándolas en armas blindadas capaces de rodear y destruir las lentas ciudades americanas.",
-          "translationRu": "Коннел выяснил, что европейцы и азиаты разработали трубчатые движители нового поколения, позволявшие их городам перемещаться со скоростью сотни миль в час, превращая их в бронированное оружие, способное окружить и уничтожить медленные американские города."
-        },
-        {
           "id": "sent-020",
-          "text": "Había sido capturado en el último instante cuando intentaba escapar con ese secreto que podría salvar a la Federación Americana, y ahora esperaba la muerte junto a ellos.",
-          "translationRu": "Его схватили в последний момент, когда он пытался бежать с этой тайной, которая могла спасти Американскую федерацию, и теперь он ждал смерти вместе с ними."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
+          "text": "Al regresar a Nueva York aquella noche, entre los vítores de millones que salían a las plazas y las terrazas de la ciudad a aclamar a la flota victoriosa, el Primer Jefe Aéreo nos informó de que la flota occidental había logrado una victoria idéntica contra la armada asiática mediante la misma estratagema.",
+          "translationRu": "Вернувшись в Нью-Йорк той ночью под ликование миллионов, высыпавших на площади и террасы города приветствовать победивший флот, Первый воздушный командующий сообщил нам, что западный флот добился аналогичной победы над азиатской армадой с помощью той же тактики."
+        },
         {
           "id": "sent-021",
-          "text": "Hilliard, el más joven del grupo y el único que resistió la parálisis del desespero, concibió un ingenioso plan que dependía de un segundo de confusión y de la tendencia humana a identificar a las personas por el uniforme antes que por la cara.",
-          "translationRu": "Хиллиард, самый молодой из группы и единственный, кто противостоял параличу отчаяния, придумал хитрый план, зависевший от секунды замешательства и от человеческой склонности опознавать людей по форме, а не по лицу."
+          "text": "Pero en el mismo discurso en que celebraba aquella doble victoria, Yarnall nos advirtió de que lo peor estaba por llegar: el enemigo seguía superándonos en número, podía construir nuevos cruceros más deprisa que nosotros, y los rumores apuntaban a que estaba preparando un arma o un plan de una naturaleza radicalmente distinta, capaz de aniquilar todas nuestras ciudades de una sola vez.",
+          "translationRu": "Но в той же речи, где он праздновал двойную победу, Ярнал предупредил нас, что худшее ещё впереди: враг по-прежнему превосходил нас численно, мог строить новые крейсеры быстрее, чем мы, и слухи указывали на то, что он готовит оружие или план принципиально иного рода, способный уничтожить все наши города одним ударом."
         },
         {
           "id": "sent-022",
-          "text": "El intercambio de uniformes con los guardias y la pelea fingida atrajeron a la veintena de soldados del pasillo hacia la celda, mientras Connell y Macklin se escabullían hasta los ascensores sin ser reconocidos.",
-          "translationRu": "Обмен формой с охранниками и притворная драка привлекли двадцать солдат из коридора к камере, пока Коннел и Маклин незамеченными проскользнули к лифтам."
-        },
-        {
-          "id": "sent-023",
-          "text": "Se apoderaron de un crucero en la plaza, simularon ser derribados por el fuego de las baterías berlinesas y escaparon, llevando consigo el secreto que aún podía cambiar el curso de la guerra.",
-          "translationRu": "Они захватили крейсер на площади, притворились сбитыми огнём берлинских батарей и ускользнули, унося с собой тайну, которая ещё могла изменить ход войны."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-024",
-          "text": "Brant e Hilliard, convencidos de la muerte de sus amigos, soportaron días de desesperación mientras veían desde su ventana cómo las ciudades europeas completaban sus nuevos propulsores y se congregaban en el cielo para el ataque definitivo.",
-          "translationRu": "Брант и Хиллиард, убеждённые в гибели своих друзей, пережили дни отчаяния, глядя из окна, как европейские города завершали установку новых движителей и собирались в небе для окончательного удара."
-        },
-        {
-          "id": "sent-025",
-          "text": "Cuando Berlín rugió y se lanzó a través del aire a velocidad inimaginable en su prueba, Brant comprendió que no podían seguir esperando la muerte pasivamente.",
-          "translationRu": "Когда Берлин взревел и на испытаниях помчался сквозь воздух с немыслимой скоростью, Брант понял, что они не могут продолжать пассивно ждать смерти."
-        },
-        {
-          "id": "sent-026",
-          "text": "Arrancaron las barras de los catres, las curvaron en ganchos en forma de L, fabricaron cuerdas con los cinturones de cuero de sus uniformes y descendieron por el exterior de la torre, de ventana en ventana, mil pies más abajo hasta la plaza.",
-          "translationRu": "Они вырвали стержни из кроватей, изогнули их в крюки Г-образной формы, сплели верёвки из кожаных ремней своей формы и спустились по внешней стороне башни, от окна к окну, тысячу футов вниз до площади."
-        },
-        {
-          "id": "sent-027",
-          "text": "Tomaron el primer crucero que encontraron y emprendieron el vuelo hacia el oeste justo cuando toda la armada enemiga iniciaba su marcha imparable sobre América.",
-          "translationRu": "Они захватили первый попавшийся крейсер и взяли курс на запад как раз в тот момент, когда вся вражеская армада начинала свой неудержимый марш на Америку."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-028",
-          "text": "Las cien ciudades americanas, equipadas a toda prisa con los nuevos propulsores gracias al secreto rescatado por Connell, esperaban mancomunadas sobre las llanuras del centro del continente.",
-          "translationRu": "Сто американских городов, в спешке оснащённых новыми движителями благодаря тайне, спасённой Коннелом, ожидали сплочённо над равнинами центра континента."
-        },
-        {
-          "id": "sent-029",
-          "text": "La batalla fue el Armagedón que los libros pronosticaban desde hacía siglos: doscientas ciudades enemigas contra cien americanas, todas disparando con baterías de calor gigantescas y chocando en el aire como planetas en colisión.",
-          "translationRu": "Сражение стало Армагеддоном, который книги предрекали веками: двести вражеских городов против ста американских, все стреляющие из гигантских тепловых батарей и сталкивающиеся в воздухе, как планеты при столкновении."
-        },
-        {
-          "id": "sent-030",
-          "text": "Los enemigos consiguieron rodear las ciudades americanas en un círculo que las aniquilaba metódicamente; sólo quedaba la mitad cuando Brant tomó la decisión que los demás consideraban una locura.",
-          "translationRu": "Враги сумели замкнуть американские города в кольцо, методично их уничтожавшее; оставалась лишь половина, когда Брант принял решение, которое остальные считали безумием."
-        }
-      ]
-    },
-    {
-      "id": "para-010",
-      "sentences": [
-        {
-          "id": "sent-031",
-          "text": "Con cien cruceros, Brant se lanzó sobre la torre central de Berlín, saltó por las ventanas del quinto piso en medio de la batalla y barrió a los guardias en un asalto que nadie esperaba.",
-          "translationRu": "Со ста крейсерами Брант бросился на центральную башню Берлина, прыгнул через окна пятого этажа в разгар сражения и смёл охрану в атаке, которую никто не ожидал."
-        },
-        {
-          "id": "sent-032",
-          "text": "Instalado en los controles de la mayor ciudad del mundo, Brant la lanzó a toda velocidad contra las otras ciudades enemigas del círculo, segando sus torres electrostáticas con la base de la ciudad como una guadaña colosal.",
-          "translationRu": "Заняв место за пультом управления крупнейшего города мира, Брант направил его на полной скорости против других вражеских городов в кольце, срезая их электростатические башни основанием города, как колоссальная коса."
-        },
-        {
-          "id": "sent-033",
-          "text": "Privadas de sus torres de energía, las ciudades perdían su sustentación y se precipitaban al suelo en torbellinos de luz; Geneva, Estocolmo, El Cairo, Pekín cayeron una tras otra.",
-          "translationRu": "Лишённые своих энергетических башен, города теряли опору и устремлялись к земле в вихрях света; Женева, Стокгольм, Каир, Пекин падали один за другим."
-        },
-        {
-          "id": "sent-034",
-          "text": "Cuando las multitudes de Berlín, frenéticas al ver su propia ciudad convertida en un arma de destrucción contra sus aliados, irrumpieron en la sala de controles, Brant envió la ciudad en picado y saltó a un crucero en el último instante.",
-          "translationRu": "Когда толпы Берлина, обезумевшие, видя, как их собственный город превратился в оружие уничтожения против их союзников, ворвались в зал управления, Брант направил город в пике и в последний момент прыгнул на крейсер."
-        },
-        {
-          "id": "sent-035",
-          "text": "Al amanecer siguiente, las cincuenta ciudades americanas supervivientes flotaban en silencio sobre la tierra sembrada de titánicos restos metálicos, y sus habitantes salieron a contemplar el sol que por primera vez en décadas nacía sobre un mundo en paz.",
-          "translationRu": "На следующий рассвет пятьдесят выживших американских городов тихо парили над землёй, усеянной титаническими металлическими обломками, а их жители вышли смотреть на солнце, впервые за десятилетия восходящее над миром в мире."
+          "text": "Agotados hasta la médula, nos dejamos caer en nuestros catres con el sonido de los hurras todavía resonando en la ciudad, pero los pensamientos que me acompañaron hasta el sueño no eran de triunfo sino de la oscuridad incierta que se cernía sobre el mañana.",
+          "translationRu": "Истощённые до мозга костей, мы повалились на койки под всё ещё звучавшие в городе возгласы ликования, но мысли, проводившие меня до сна, были не о триумфе, а о неопределённой тьме, нависшей над завтрашним днём."
         }
       ]
     }
