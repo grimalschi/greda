@@ -33,21 +33,23 @@
           "genres": { "type": "array", "items": { "type": "string" } },
           "levels": {
             "type": "array",
-            "items": { "enum": ["a2", "b1", "b2", "c1"] }
+            "items": { "enum": ["a1", "a2", "b1", "b2", "c1", "c2"] }
           },
           "availableLevels": {
             "type": "array",
-            "items": { "enum": ["a2", "b1", "b2", "c1"] }
+            "items": { "enum": ["a1", "a2", "b1", "b2", "c1", "c2"] }
           },
           "chapters": { "type": "integer", "minimum": 0 },
           "words": {
             "type": "object",
             "additionalProperties": false,
             "properties": {
+              "a1": { "type": "integer", "minimum": 0 },
               "a2": { "type": "integer", "minimum": 0 },
               "b1": { "type": "integer", "minimum": 0 },
               "b2": { "type": "integer", "minimum": 0 },
-              "c1": { "type": "integer", "minimum": 0 }
+              "c1": { "type": "integer", "minimum": 0 },
+              "c2": { "type": "integer", "minimum": 0 }
             }
           }
         }

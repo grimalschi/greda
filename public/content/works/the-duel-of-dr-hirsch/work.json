@@ -14,6 +14,10 @@
   ],
   "synopsisRu": "Парижский учёный доктор Гирш обвинён в государственной измене: полковник Дюбоск разоблачает его перед толпой. Отец Браун разгадывает невероятную истину: оба персонажа — одно и то же лицо.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -29,6 +33,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

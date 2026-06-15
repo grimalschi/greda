@@ -14,6 +14,10 @@
   ],
   "synopsisRu": "Горный проводник Нуньес падает в изолированную долину, где живут слепые — и убеждается, что в их мире зрячий отнюдь не король. Ему предстоит выбор между любовью и светом.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -29,6 +33,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

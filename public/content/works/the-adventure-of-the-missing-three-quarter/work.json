@@ -14,6 +14,10 @@
   ],
   "synopsisRu": "Холмс расследует загадочное исчезновение лучшего регбиста Кембриджа накануне важного матча. За тайной оказывается не преступление, а история о тайном браке, смертельной болезни и безграничном горе.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -29,6 +33,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

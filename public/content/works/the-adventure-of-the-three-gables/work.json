@@ -14,6 +14,10 @@
   ],
   "synopsisRu": "Шерлок Холмс расследует странную попытку купить дом вдовы Мэберли вместе со всем содержимым, за которой скрывается тайна рукописи погибшего сына и интриги светской красавицы Изадоры Кляйн.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -29,6 +33,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

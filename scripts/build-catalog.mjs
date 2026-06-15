@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url'
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const WORKS = resolve(ROOT, 'public', 'content', 'works')
-const LEVELS = ['a2', 'b1', 'b2', 'c1']
+const LEVELS = ['a1', 'a2', 'b1', 'b2', 'c1', 'c2']
 
 // Считает слова (по испанскому тексту `text`) во всех главах уровня.
 function levelWordCount(workId, level) {

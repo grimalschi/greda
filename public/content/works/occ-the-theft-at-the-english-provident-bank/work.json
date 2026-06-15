@@ -14,6 +14,10 @@
   ],
   "synopsisRu": "Из сейфа лондонского банка English Provident похищено пять тысяч фунтов, а директор найден без сознания. Подозрение падает на него самого, но Старик в углу раскрывает Полли Бёртон куда более неожиданную правду.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -29,6 +33,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

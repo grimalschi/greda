@@ -14,6 +14,10 @@
   ],
   "synopsisRu": "Детектив об убийстве изобретателя Смайта, совершённом незаметным для всех свидетелей человеком. Отец Браун разгадывает тайну невидимки, объяснив, что люди попросту не замечают почтальонов.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -29,6 +33,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

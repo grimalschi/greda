@@ -14,6 +14,10 @@
   ],
   "synopsisRu": "Уэллс рассказывает о тихом гении Филмере, который изобрёл первый в мире летательный аппарат, но так и не решился подняться на нём в воздух, — и о том, как страх перед собственным триумфом его уничтожил.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -29,6 +33,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

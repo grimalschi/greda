@@ -35,12 +35,14 @@
     "levels": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["a2", "b1", "b2", "c1"],
+      "required": ["a1", "a2", "b1", "b2", "c1", "c2"],
       "properties": {
+        "a1": { "$ref": "#/definitions/levelInfo" },
         "a2": { "$ref": "#/definitions/levelInfo" },
         "b1": { "$ref": "#/definitions/levelInfo" },
         "b2": { "$ref": "#/definitions/levelInfo" },
-        "c1": { "$ref": "#/definitions/levelInfo" }
+        "c1": { "$ref": "#/definitions/levelInfo" },
+        "c2": { "$ref": "#/definitions/levelInfo" }
       }
     }
   },

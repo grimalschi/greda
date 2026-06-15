@@ -15,6 +15,10 @@
   ],
   "synopsisRu": "Новичок в одиночку идёт через замёрзший Юкон в страшный мороз, не слушая совета бывалого человека. История Джека Лондона о столкновении самоуверенности с равнодушной природой.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -30,6 +34,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }

@@ -15,6 +15,10 @@
   ],
   "synopsisRu": "Принц Просперо прячется с тысячей придворных за стенами аббатства, надеясь спастись от чумы — Красной смерти. Притча Эдгара По о тщетности бегства от неизбежного.",
   "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
     "a2": {
       "available": true,
       "chapterCount": 1
@@ -30,6 +34,10 @@
     "c1": {
       "available": true,
       "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
     }
   }
 }
