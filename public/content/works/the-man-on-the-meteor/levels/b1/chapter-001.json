@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El hombre en el meteoro"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Me llamo Nemo porque yo mismo me puse ese nombre. No recuerdo nada de mi vida anterior.",
-          "translationRu": "Я называю себя Немо, потому что сам придумал это имя. Я не помню ничего из своей прежней жизни."
+          "text": "No sé dónde nací ni de qué mundo vengo. Mi primer recuerdo es cuando me desperté como un joven adulto, solo, tendido en el suelo oscuro de un mundo extraño.",
+          "translationRu": "Я не знаю, где родился и с какой планеты происхожу. Первое моё воспоминание — пробуждение молодым взрослым человеком, одним, лежащим на тёмной почве странного мира."
         },
         {
           "id": "sent-002",
-          "text": "El primer recuerdo que tengo es cuando me desperté en un pequeño meteoro que giraba alrededor de Saturno.",
-          "translationRu": "Первое моё воспоминание — это пробуждение на маленьком метеорите, вращавшемся вокруг Сатурна."
+          "text": "El cielo estaba lleno de estrellas y luces extrañas que se movían rápidamente. Me levanté con dificultad, magullado por todas partes.",
+          "translationRu": "Небо было полно звёзд и странных огней, которые быстро двигались. Я с трудом поднялся, весь в синяках."
         },
         {
           "id": "sent-003",
-          "text": "La gravedad era muy débil, así que pesaba casi nada y podía volar por el aire con un solo salto.",
-          "translationRu": "Гравитация была очень слабой, поэтому я почти ничего не весил и мог взлетать в воздух одним прыжком."
+          "text": "Llevaba un traje de goma y un casco transparente en la cabeza. Me quité el casco y respiré el aire de la noche, que era puro y fresco.",
+          "translationRu": "На мне был резиновый костюм и прозрачный шлем на голове. Я снял шлем и вдохнул ночной воздух — чистый и свежий."
+        },
+        {
+          "id": "sent-004",
+          "text": "Me puse el nombre de Nemo porque no recordaba mi nombre verdadero.",
+          "translationRu": "Я назвал себя Немо, потому что не помнил своего настоящего имени."
         }
       ]
     },
@@ -32,19 +37,19 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "El paisaje era desolado: rocas negras, árboles pequeños y un cielo lleno de meteoros que brillaban como plata.",
-          "translationRu": "Пейзаж был унылым: чёрные камни, низкие деревья и небо, полное серебристых метеоритов."
-        },
-        {
           "id": "sent-005",
-          "text": "Tenía hambre y sed, pero no encontraba nada para comer ni beber.",
-          "translationRu": "Я был голоден и хотел пить, но не мог найти ничего съестного."
+          "text": "Cuando intenté levantarme, descubrí que casi no pesaba nada. Un solo movimiento del brazo me lanzaba al aire como una pluma.",
+          "translationRu": "Когда я попытался встать, обнаружил, что почти ничего не вешу. Одно движение руки подбрасывало меня в воздух, как перышко."
         },
         {
           "id": "sent-006",
-          "text": "Cuando intenté caminar, me elevé en el aire y caí de cara al suelo.",
-          "translationRu": "Когда я попытался идти, я взлетел в воздух и упал лицом вниз."
+          "text": "Estaba sobre un pequeño meteoro que giraba alrededor de Saturno, formando parte de sus famosos anillos de millones de pequeñas rocas.",
+          "translationRu": "Я находился на маленьком метеорите, вращающемся вокруг Сатурна, — часть его знаменитых колец из миллионов мелких камней."
+        },
+        {
+          "id": "sent-007",
+          "text": "El horizonte estaba muy cerca de mí porque el suelo era muy curvo. Podía ver el planeta Saturno en el cielo como una enorme esfera plateada con bandas oscuras.",
+          "translationRu": "Горизонт был очень близко, потому что почва сильно изгибалась. На небе я видел планету Сатурн — огромный серебристый шар с тёмными полосами."
         }
       ]
     },
@@ -52,24 +57,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-007",
-          "text": "De repente vi a una chica de pelo dorado que salió de una cueva y nadó por el aire con gracia.",
-          "translationRu": "Вдруг я увидел золотоволосую девушку, которая вышла из пещеры и грациозно поплыла по воздуху."
-        },
-        {
           "id": "sent-008",
-          "text": "Entré en su cueva, donde encontré agua ligera y comida. Bebí y comí con alivio.",
-          "translationRu": "Я вошёл в её пещеру, где нашёл лёгкую воду и еду. Я с облегчением попил и поел."
+          "text": "Intenté caminar, pero cada paso me hacía salir volando cien metros hacia arriba. Las rocas que cogía eran tan ligeras como el aire y las lanzaba al espacio sin querer.",
+          "translationRu": "Я попытался идти, но каждый шаг подбрасывал меня на сто метров вверх. Камни, которые я поднимал, были лёгкими как воздух, и я невольно забрасывал их в космос."
         },
         {
           "id": "sent-009",
-          "text": "Cuando la chica volvió, al principio me tuvo miedo, pero después se acercó con curiosidad.",
-          "translationRu": "Когда девушка вернулась, сначала она испугалась меня, но потом приблизилась с любопытством."
+          "text": "Tenía hambre y sed, pero no veía agua ni comida en aquel paisaje árido de rocas metálicas negras y vegetación azulada.",
+          "translationRu": "Я хотел есть и пить, но не видел ни воды, ни еды в этом суровом пейзаже из чёрных металлических камней и голубоватой растительности."
         },
         {
           "id": "sent-010",
-          "text": "La llamé Nona y nos hicimos compañeros. Aprendimos a hablar juntos, inventando palabras poco a poco.",
-          "translationRu": "Я назвал её Нона, и мы стали товарищами. Мы учились разговаривать вместе, постепенно изобретая слова."
+          "text": "De repente, junto a un árbol, vi la boca de una cueva. Una figura salió de allí: era una chica con una hermosa cara oval enmarcada por largas trenzas doradas y ojos azules llenos de miedo.",
+          "translationRu": "Вдруг рядом с деревом я увидел вход в пещеру. Оттуда вышла фигура — девушка с красивым овальным лицом, обрамлённым длинными золотыми косами, и голубыми глазами, полными страха."
+        },
+        {
+          "id": "sent-011",
+          "text": "Sin avisar, la chica extendió los brazos y empezó a nadar por el aire como una sirena en el mar, alejándose de mí con gracia perfecta.",
+          "translationRu": "Без предупреждения девушка вытянула руки и начала плыть по воздуху, как русалка в море, грациозно удаляясь от меня."
         }
       ]
     },
@@ -77,19 +82,19 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-011",
-          "text": "Nona me enseñó a nadar en el aire como si fuera agua. Pronto pude moverme con más habilidad.",
-          "translationRu": "Нона научила меня плавать в воздухе, словно в воде. Вскоре я смог двигаться более ловко."
-        },
-        {
           "id": "sent-012",
-          "text": "Un día olvidamos apagar el fuego, y las rocas empezaron a arder. El fuego se extendió por toda la cueva.",
-          "translationRu": "Однажды мы забыли погасить огонь, и камни начали гореть. Огонь распространился по всей пещере."
+          "text": "Entré en su cueva siguiendo el instinto de buscar alimento. Un pasillo oscuro bajaba hacia el interior del meteoro, iluminado por la fosforescencia de las rocas.",
+          "translationRu": "Я вошёл в её пещеру, следуя инстинкту поиска пищи. Тёмный коридор уходил вниз во внутренности метеорита, освещённый фосфоресценцией камней."
         },
         {
           "id": "sent-013",
-          "text": "Los gases del fuego contaminaron el aire del meteoro. No podíamos respirar sin toser.",
-          "translationRu": "Дымовые газы отравили воздух метеорита. Мы не могли дышать без кашля."
+          "text": "Al fondo había una cámara subterránea enorme con un pequeño río de agua blanca como la leche. Me tiré al agua y bebí con alegría: sabía a agua pura y fría.",
+          "translationRu": "В глубине находилась огромная подземная камера с небольшой рекой молочно-белой воды. Я бросился к воде и пил с радостью: она была на вкус как чистая холодная вода."
+        },
+        {
+          "id": "sent-014",
+          "text": "También encontré hongos comestibles y restos de una hoguera. Comí y me tumbé en las suaves telas azules que servían de cama a la chica.",
+          "translationRu": "Я также нашёл съедобные грибы и остатки костра. Поел и лёг на мягкие голубые ткани, служившие девушке постелью."
         }
       ]
     },
@@ -97,19 +102,19 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "Nona me tomó de la mano y me llevó al río. Juntos nos sumergimos en el agua.",
-          "translationRu": "Нона взяла меня за руку и повела к реке. Вместе мы погрузились в воду."
-        },
-        {
           "id": "sent-015",
-          "text": "El agua era tan ligera y aireada que podíamos respirar dentro de ella como si fuera aire.",
-          "translationRu": "Вода была настолько лёгкой и насыщенной воздухом, что мы могли дышать в ней, как в воздухе."
+          "text": "La chica volvió y me observó desde la distancia. Cuando la llamé con algún sonido, ella respondió con una voz suave y amistosa.",
+          "translationRu": "Девушка вернулась и наблюдала за мной издали. Когда я позвал её каким-то звуком, она ответила мягким и дружелюбным голосом."
         },
         {
           "id": "sent-016",
-          "text": "La corriente nos arrastró al fondo del meteoro, donde encontramos un mar subterráneo enorme.",
-          "translationRu": "Течение унесло нас на дно метеорита, где мы обнаружили огромное подземное море."
+          "text": "La perseguí por la cueva durante media hora pero no podía atraparla: volaba de un lado a otro con agilidad perfecta mientras yo me golpeaba contra las paredes.",
+          "translationRu": "Я гонялся за ней по пещере полчаса, но не мог поймать: она летала с одной стороны в другую с идеальной ловкостью, пока я ударялся о стены."
+        },
+        {
+          "id": "sent-017",
+          "text": "Al final, agotado y malhumorado, me quedé dormido en su cama. Cuando me desperté, ella estaba sentada a mi lado acariciándome el pelo con suavidad.",
+          "translationRu": "В конце концов, измотанный и раздосадованный, я заснул на её постели. Когда проснулся, она сидела рядом и нежно гладила мои волосы."
         }
       ]
     },
@@ -117,19 +122,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-017",
-          "text": "En ese mar vivían los Marinoides, seres humanoides con cuatro brazos tentaculares y membranas entre las piernas.",
-          "translationRu": "В этом море жили Маринойды — человекообразные существа с четырьмя руками-щупальцами и перепонками между ног."
-        },
-        {
           "id": "sent-018",
-          "text": "Los Marinoides nos capturaron y nos llevaron a su ciudad llamada Rax, construida con vegetación marina.",
-          "translationRu": "Маринойды поймали нас и отвели в свой город под названием Ракс, построенный из морских растений."
+          "text": "Poco a poco nos hicimos amigos. Le di el nombre de Nona y le expliqué que yo era Nemo. A ella le gustó su nombre y lo repitió varias veces aplaudiendo.",
+          "translationRu": "Постепенно мы подружились. Я дал ей имя Нона и объяснил, что я — Немо. Ей понравилось своё имя, и она несколько раз повторила его, хлопая в ладоши."
         },
         {
           "id": "sent-019",
-          "text": "En Rax aprendimos su idioma y nos integramos en su civilización. Nona tuvo un hijo al que llamamos Boy.",
-          "translationRu": "В Раксе мы выучили их язык и вошли в их общество. У Ноны родился сын, которого мы назвали Малыш."
+          "text": "Nona me enseñó a nadar por el aire con elegancia. Pronto pude moverme con soltura, aunque nunca tan ágilmente como ella.",
+          "translationRu": "Нона научила меня изящно плавать в воздухе. Вскоре я мог свободно двигаться, хотя никогда не так ловко, как она."
+        },
+        {
+          "id": "sent-020",
+          "text": "También me mostró cómo saltar hacia el cielo y explorar el meteoro. Juntos volamos muy alto, casi hasta el límite de la atmósfera del pequeño mundo.",
+          "translationRu": "Она также показала мне, как прыгать в небо и исследовать метеорит. Вместе мы поднимались очень высоко, почти до границы атмосферы маленького мира."
+        },
+        {
+          "id": "sent-021",
+          "text": "Demostré mi fuerza a Nona levantando enormes rocas que en ese meteoro pesaban poco, lanzándolas al espacio una tras otra.",
+          "translationRu": "Я показал Ноне свою силу, поднимая огромные камни, которые на метеорите почти ничего не весили, и забрасывая их в космос один за другим."
         }
       ]
     },
@@ -137,19 +147,19 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Un mestizo llamado Og empezó a robar mujeres Marinoides para llevarlas al oscuro Agua de las Bestias.",
-          "translationRu": "Полукровка по имени Ог начал похищать женщин-Маринойдов и уводить их в тёмные Воды Диких Тварей."
-        },
-        {
-          "id": "sent-021",
-          "text": "Una noche, mientras yo estaba fuera, Og se llevó a mi Nona. Encontré solo a Boy llorando en su cuna.",
-          "translationRu": "Однажды ночью, пока меня не было, Ог забрал мою Нону. Я нашёл лишь плачущего Малыша в его колыбели."
-        },
-        {
           "id": "sent-022",
-          "text": "Junto con el Príncipe Atar y Caan, entré al Agua de las Bestias para rescatar a Nona.",
-          "translationRu": "Вместе с Принцем Атаром и Кааном я вошёл в Воды Диких Тварей, чтобы спасти Нону."
+          "text": "Nona me enseñó a cazar: una lagartija con ojos blancos brillantes vivía en las rocas de la cueva. Con una velocidad impresionante, Nona la atrapó en pleno vuelo.",
+          "translationRu": "Нона научила меня охотиться: в камнях пещеры жила ящерица с ярко-белыми глазами. С впечатляющей скоростью Нона поймала её прямо в полёте."
+        },
+        {
+          "id": "sent-023",
+          "text": "También descubrimos moluscos en el río subterráneo. Al intentar cogerlos, Nona me llevó bajo el agua para enseñarme algo increíble.",
+          "translationRu": "Мы также обнаружили моллюсков в подземной реке. Пытаясь их поймать, Нона увела меня под воду, чтобы показать нечто невероятное."
+        },
+        {
+          "id": "sent-024",
+          "text": "El agua del meteoro era tan ligera y tan rica en aire disuelto que Nona podía respirarla como si fuera aire normal. Con mucho esfuerzo y miedo, yo también aprendí a respirar bajo el agua.",
+          "translationRu": "Вода метеорита была настолько лёгкой и насыщенной растворённым воздухом, что Нона могла дышать ею как обычным воздухом. С большим трудом и страхом я тоже научился дышать под водой."
         }
       ]
     },
@@ -157,34 +167,24 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "Encontramos a Nona prisionera en la caverna de los Maagogs, con las manos atadas, mientras Og la quería hacer reina.",
-          "translationRu": "Мы нашли Нону в плену у Маагогов со связанными руками: Ог хотел сделать её своей королевой."
-        },
-        {
-          "id": "sent-024",
-          "text": "Nona escapó con nosotros, pero Og y sus peces negros nos persiguieron hasta que el Rey Marinoide llegó en su trineo y nos salvó.",
-          "translationRu": "Нона бежала с нами, но Ог со своими чёрными рыбами преследовал нас, пока Король Маринойдов не приехал на санях и не спас нас."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
           "id": "sent-025",
-          "text": "De vuelta en Rax, los mestizos se rebelaron y los Maagogs atacaron con su ejército. Yo asumí el mando de los Marinoides.",
-          "translationRu": "Вернувшись в Ракс, полукровки подняли бунт, а Маагоги напали с армией. Я взял на себя командование Маринойдами."
+          "text": "Un día olvidamos apagar la hoguera de la cena. Las rocas del meteoro eran inflamables, y el fuego empezó a comerse el suelo de la cueva hacia abajo.",
+          "translationRu": "Однажды мы забыли погасить костёр после ужина. Камни метеорита были легковоспламеняющимися, и огонь начал прожигать пол пещеры вниз."
         },
         {
           "id": "sent-026",
-          "text": "Nona y yo usamos los delfines para ir a la ciudad enemiga de Gahna. Cortamos los tallos de la ciudad y la ciudad se hundió en la corriente.",
-          "translationRu": "Мы с Ноной верхом на дельфинах добрались до вражеского города Ганна. Мы срубили стволы города, и он унесло течением."
+          "text": "Nos despertamos asfixiados por el humo y escapamos a la superficie. Tuvimos que abandonar nuestra cueva para siempre.",
+          "translationRu": "Мы проснулись, задыхаясь от дыма, и выбрались на поверхность. Нам пришлось навсегда покинуть нашу пещеру."
         },
         {
           "id": "sent-027",
-          "text": "Con el ejército Marinoide derrotamos a los Maagogs. Maté a Og en combate y la paz volvió al mundo submarino.",
-          "translationRu": "С армией Маринойдов мы разгромили Маагогов. Я убил Ога в поединке, и мир вернулся в подводный мир."
+          "text": "El fuego contaminó la pequeña atmósfera del meteoro con gases venenosos. No había dónde escapar en aquel mundito sin aire limpio.",
+          "translationRu": "Огонь отравил небольшую атмосферу метеорита ядовитыми газами. На этом крошечном мире не было места, куда можно было убежать от нечистого воздуха."
+        },
+        {
+          "id": "sent-028",
+          "text": "Entonces recordé lo que Nona me había enseñado: la corriente del río llevaría el aire puro al interior del meteoro. La cogí en brazos y nos tiramos juntos al agua.",
+          "translationRu": "Тогда я вспомнил, чему меня научила Нона: течение реки несло чистый воздух внутрь метеорита. Я взял её на руки, и мы вместе прыгнули в воду."
         }
       ]
     }

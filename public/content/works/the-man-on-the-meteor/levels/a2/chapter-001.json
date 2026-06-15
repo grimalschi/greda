@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El hombre en el meteoro"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Me llamo Nemo. No sé de dónde vengo.",
-          "translationRu": "Меня зовут Немо. Я не знаю, откуда я родом."
+          "text": "No sé dónde nací. No recuerdo mi nombre ni de qué país vengo.",
+          "translationRu": "Я не знаю, где родился. Я не помню ни своего имени, ни откуда я."
         },
         {
           "id": "sent-002",
-          "text": "Un día me desperté en un lugar extraño. Estaba en un pequeño meteoro cerca del planeta Saturno.",
-          "translationRu": "Однажды я проснулся в странном месте. Я находился на маленьком метеорите вблизи планеты Сатурн."
+          "text": "Mi primer recuerdo es el de un joven fuerte, de unos veinte años, con pelo oscuro.",
+          "translationRu": "Моё первое воспоминание — молодой сильный человек лет двадцати с тёмными волосами."
         },
         {
           "id": "sent-003",
-          "text": "El cielo estaba lleno de estrellas y luces brillantes. Vi el gran planeta Saturno muy cerca.",
-          "translationRu": "Небо было полно звёзд и ярких огней. Я видел огромный Сатурн совсем рядом."
+          "text": "Me desperté en el suelo. Era de noche y el cielo estaba lleno de estrellas y luces extrañas.",
+          "translationRu": "Я проснулся на земле. Была ночь, и небо было полно звёзд и странных огней."
+        },
+        {
+          "id": "sent-004",
+          "text": "Llevaba un traje de goma y un casco transparente en la cabeza. Me quité el casco rápidamente y respiré el aire de la noche.",
+          "translationRu": "На мне был резиновый костюм и прозрачный шлем на голове. Я быстро снял шлем и вдохнул ночной воздух."
         }
       ]
     },
@@ -32,19 +37,19 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "En el meteoro había muy poca gravedad. Yo pesaba casi nada.",
-          "translationRu": "На метеорите была очень слабая гравитация. Я почти ничего не весил."
-        },
-        {
           "id": "sent-005",
-          "text": "Cuando caminé, salté muy alto en el aire. Era muy difícil moverse.",
-          "translationRu": "Когда я шёл, я высоко взлетал в воздух. Двигаться было очень трудно."
+          "text": "Intenté levantarme, pero mi cuerpo era ligero como una pluma. Moví el codo y mi cuerpo flotó en el aire.",
+          "translationRu": "Я попытался подняться, но моё тело было лёгким как пёрышко. Я пошевелил локтем — и моё тело взлетело в воздух."
         },
         {
           "id": "sent-006",
-          "text": "Había árboles pequeños y rocas negras. No había agua ni comida.",
-          "translationRu": "Там были небольшие деревья и чёрные камни. Не было ни воды, ни еды."
+          "text": "Era casi imposible mantener el equilibrio. Me llamé a mí mismo Nemo, porque no tenía ningún otro nombre.",
+          "translationRu": "Было почти невозможно сохранить равновесие. Я назвал себя Немо, потому что не знал никакого другого имени."
+        },
+        {
+          "id": "sent-007",
+          "text": "El horizonte estaba muy cerca y el suelo era muy curvo. Estaba en lo alto de un pequeño mundo.",
+          "translationRu": "Горизонт был очень близко, и земля была сильно изогнутой. Я стоял на вершине маленького мира."
         }
       ]
     },
@@ -52,24 +57,19 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-007",
-          "text": "Vi a una chica con pelo dorado. Salió de una cueva y voló por el aire.",
-          "translationRu": "Я увидел девушку с золотыми волосами. Она вышла из пещеры и полетела по воздуху."
-        },
-        {
           "id": "sent-008",
-          "text": "Entré en su cueva y encontré agua y comida. Bebí mucho agua.",
-          "translationRu": "Я вошёл в её пещеру и нашёл воду и еду. Я много выпил воды."
+          "text": "Estaba en un pequeño meteorito que gira alrededor del planeta Saturno.",
+          "translationRu": "Я был на маленьком метеорите, который вращается вокруг планеты Сатурн."
         },
         {
           "id": "sent-009",
-          "text": "La chica volvió. Al principio tuvo miedo de mí. Después nos hicimos amigos.",
-          "translationRu": "Девушка вернулась. Сначала она меня боялась. Потом мы подружились."
+          "text": "Saturno apareció en el cielo. Era una enorme esfera plateada y brillante, tan grande que casi llenaba todo el cielo.",
+          "translationRu": "Сатурн появился в небе. Это был огромный серебристый сверкающий шар, такой большой, что почти заполнял всё небо."
         },
         {
           "id": "sent-010",
-          "text": "Le puse el nombre Nona. A ella le gustó mucho ese nombre.",
-          "translationRu": "Я дал ей имя Нона. Ей очень понравилось это имя."
+          "text": "En torno a Saturno había miles de millones de meteoritos pequeños. Mi meteorito era uno de ellos.",
+          "translationRu": "Вокруг Сатурна были миллиарды маленьких метеоритов. Мой метеорит был одним из них."
         }
       ]
     },
@@ -78,18 +78,18 @@
       "sentences": [
         {
           "id": "sent-011",
-          "text": "Nona me enseñó a nadar en el aire. Era como volar.",
-          "translationRu": "Нона научила меня плавать в воздухе. Это было похоже на полёт."
+          "text": "Me quité el traje de goma. Me quedé con solo una camisa y pantalones cortos blancos.",
+          "translationRu": "Я снял резиновый костюм. На мне остались лишь белая майка и короткие штаны."
         },
         {
           "id": "sent-012",
-          "text": "Vivimos juntos en la cueva. Aprendimos a hablar juntos poco a poco.",
-          "translationRu": "Мы жили вместе в пещере. Постепенно мы научились разговаривать."
+          "text": "Di un paso hacia adelante. Mi cuerpo subió muy alto en el aire y caí de cara cerca de unos árboles.",
+          "translationRu": "Я сделал шаг вперёд. Моё тело взлетело очень высоко, и я упал лицом вниз рядом с деревьями."
         },
         {
           "id": "sent-013",
-          "text": "Un día, el fuego de la cueva se escapó y quemó todo. Tuvimos que salir.",
-          "translationRu": "Однажды огонь в пещере вышел из-под контроля и сжёг всё. Нам пришлось уйти."
+          "text": "Era peligroso saltar con mucha fuerza. Podía salir del meteorito para siempre y perderme en el espacio vacío.",
+          "translationRu": "Было опасно прыгать слишком сильно. Я мог навсегда покинуть метеорит и затеряться в пустом космосе."
         }
       ]
     },
@@ -98,18 +98,18 @@
       "sentences": [
         {
           "id": "sent-014",
-          "text": "El fuego contaminó el aire del meteoro. No podíamos respirar bien.",
-          "translationRu": "Огонь отравил воздух метеорита. Нам было трудно дышать."
+          "text": "Tenía mucha hambre y mucha sed. El paisaje era seco: solo había rocas negras y árboles pequeños.",
+          "translationRu": "Я был очень голоден и очень хотел пить. Пейзаж был сухим: только чёрные камни и маленькие деревья."
         },
         {
           "id": "sent-015",
-          "text": "Nona saltó al río y me llamó. Yo la seguí al agua.",
-          "translationRu": "Нона прыгнула в реку и позвала меня. Я последовал за ней в воду."
+          "text": "Intenté coger unas rocas grandes para pesarme más y andar mejor, pero las rocas también eran muy ligeras.",
+          "translationRu": "Я попытался взять большие камни, чтобы стать тяжелее и лучше ходить, но камни тоже были очень лёгкими."
         },
         {
           "id": "sent-016",
-          "text": "El agua de ese meteoro era muy ligera. Podíamos respirar dentro del agua.",
-          "translationRu": "Вода на том метеорите была очень лёгкой. Мы могли дышать под водой."
+          "text": "Las lancé al aire y volaron fuera del meteorito para siempre.",
+          "translationRu": "Я бросил их в воздух, и они улетели с метеорита навсегда."
         }
       ]
     },
@@ -118,63 +118,23 @@
       "sentences": [
         {
           "id": "sent-017",
-          "text": "La corriente nos llevó al fondo del meteoro. Encontramos un mundo nuevo bajo el agua.",
-          "translationRu": "Течение унесло нас на дно метеорита. Мы нашли новый мир под водой."
+          "text": "Cerca de unos árboles vi la boca de una cueva. De la cueva salió una figura.",
+          "translationRu": "Вблизи деревьев я увидел вход в пещеру. Из пещеры вышла фигура."
         },
         {
           "id": "sent-018",
-          "text": "Allí vivían los Marinoides. Eran seres parecidos a los humanos con cuatro brazos.",
-          "translationRu": "Там жили Маринойды. Это были существа, похожие на людей, но с четырьмя руками."
+          "text": "Era una chica con pelo largo y dorado. Tenía una cara hermosa y ojos azules muy grandes.",
+          "translationRu": "Это была девушка с длинными золотистыми волосами. У неё было красивое лицо и очень большие голубые глаза."
         },
         {
           "id": "sent-019",
-          "text": "Los Marinoides nos capturaron. Nos llevaron a su ciudad llamada Rax.",
-          "translationRu": "Маринойды поймали нас. Они отвели нас в свой город под названием Ракс."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
+          "text": "Al verme, sus ojos se abrieron de miedo. Sin decir nada, extendió los brazos y empezó a nadar en el aire.",
+          "translationRu": "Увидев меня, её глаза раскрылись от страха. Ничего не говоря, она раскинула руки и начала плыть в воздухе."
+        },
         {
           "id": "sent-020",
-          "text": "En Rax aprendimos su idioma. Nona tuvo un hijo. Lo llamamos Boy.",
-          "translationRu": "В Раксе мы выучили их язык. У Ноны родился сын. Мы назвали его Малыш."
-        },
-        {
-          "id": "sent-021",
-          "text": "Un enemigo llamado Og robó a las mujeres Marinoides y se llevó a Nona.",
-          "translationRu": "Враг по имени Ог похищал женщин-Маринойдов и забрал Нону."
-        },
-        {
-          "id": "sent-022",
-          "text": "Fui a buscar a Nona con el Príncipe Atar y mi amigo Caan.",
-          "translationRu": "Я отправился на поиски Ноны вместе с Принцем Атаром и другом Кааном."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-023",
-          "text": "Encontramos a Nona en el mundo de los Maagogs. Salvamos a Nona y volvimos a Rax.",
-          "translationRu": "Мы нашли Нону в мире Маагогов. Мы спасли Нону и вернулись в Ракс."
-        },
-        {
-          "id": "sent-024",
-          "text": "Og atacó Rax con su ejército. Nona y yo tuvimos una idea para ganar la guerra.",
-          "translationRu": "Ог напал на Ракс со своей армией. Нона и я придумали план, чтобы выиграть войну."
-        },
-        {
-          "id": "sent-025",
-          "text": "Nona cortó las raíces de la ciudad enemiga. La ciudad se hundió en la corriente.",
-          "translationRu": "Нона срубила корни вражеского города. Город унесло течением."
-        },
-        {
-          "id": "sent-026",
-          "text": "Los Marinoides ganaron la guerra. Yo maté a Og en combate y la paz volvió a Rax.",
-          "translationRu": "Маринойды выиграли войну. Я убил Ога в бою, и мир вернулся в Ракс."
+          "text": "Nadaba con mucha gracia y rapidez, como una sirena. En un momento desapareció al otro lado del horizonte.",
+          "translationRu": "Она плыла очень грациозно и быстро, как русалка. В один миг она исчезла за горизонтом."
         }
       ]
     }

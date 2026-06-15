@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El hombre en el meteoro"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Me he dado el nombre de Nemo, pues lo ignoraba todo de mí mismo cuando recobré la conciencia en aquel exiguo mundo de roca que surcaba el espacio entre los anillos de Saturno.",
-          "translationRu": "Я дал себе имя Немо, потому что не знал о себе ничего, когда пришёл в себя на той крошечной каменистой планетке, бороздившей пространство в кольцах Сатурна."
+          "text": "No sé dónde nací ni en qué mundo transcurrió mi existencia antes de aquel instante en que me desperté, tendido sobre una superficie oscura, con el cielo lleno de estrellas y destellos extraños sobre mí.",
+          "translationRu": "Я не знаю, где родился и в каком мире прошло моё существование до того мгновения, когда очнулся, лежа на тёмной поверхности под небом, полным звёзд и странных вспышек."
         },
         {
           "id": "sent-002",
-          "text": "La gravedad superficial del meteoro era de 0,00039 veces la terrestre, lo que me otorgaba una fuerza sobrehumana y una ligereza tal que el menor impulso podía lanzarme al espacio sin retorno.",
-          "translationRu": "Поверхностное притяжение метеорита составляло 0,00039 от земного, наделяя меня сверхчеловеческой силой и такой лёгкостью, что малейший толчок мог выбросить меня в безвозвратный космос."
+          "text": "Era un joven en la plenitud de sus fuerzas, enfundado en un traje de goma con una mochila a la espalda y un casco de material transparente; me arranqué el casco y aspiré el aire de la noche, puro y embriagador como un vino potente.",
+          "translationRu": "Я был молодым человеком в расцвете сил, облачённым в резиновый костюм с рюкзаком за спиной и шлемом из прозрачного материала; я сорвал шлем и вдохнул ночной воздух — чистый и хмельной, как крепкое вино."
         },
         {
           "id": "sent-003",
-          "text": "El cielo era un tapiz sublime: Saturno, a no más de treinta y cinco mil millas, ocupaba la bóveda nocturna con sus bandas oscuras visibles a simple vista, mientras las legiones de meteoros hermanos destellaban en incontables órbitas a su alrededor.",
-          "translationRu": "Небо было великолепным полотном: Сатурн, всего в тридцати пяти тысячах миль, занимал ночной небосвод со своими тёмными полосами, различимыми невооружённым глазом, тогда как легионы братьев-метеоритов мерцали на бесчисленных орбитах вокруг него."
+          "text": "Al incorporarme empujé el suelo con el codo y mi cuerpo entero se elevó en el aire: pesaba apenas como una pluma, pues la gravedad superficial de aquel pequeño mundo era apenas 0,00039 veces la de la Tierra.",
+          "translationRu": "Когда я попытался подняться, оттолкнулся локтем от земли — и всё моё тело взлетело: я весил не больше пера, ибо поверхностное притяжение этого маленького мира составляло лишь 0,00039 от земного."
+        },
+        {
+          "id": "sent-004",
+          "text": "El paisaje mostraba un terreno árido con árboles raquíticos y rocas metálicas; el horizonte estaba tan próximo que parecía estar a mis pies, pues la superficie se curvaba con una convexidad enorme, como si estuviese aferrado a lo alto de una pelota girando en el espacio.",
+          "translationRu": "Пейзаж являл собой бесплодную равнину с чахлыми деревьями и металлическими камнями; горизонт был так близко, что казался у самых ног, ибо поверхность изгибалась с огромной выпуклостью, словно я цеплялся за верхушку шара, несущегося в пространстве."
         }
       ]
     },
@@ -32,24 +37,19 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Aun aturdido, divisé a una muchacha de cabellera dorada que surgió de una cueva y se alejó nadando por el aire con la gracia ingrávida de una sirena, antes de que pudiera alcanzarla.",
-          "translationRu": "Ещё ошеломлённый, я заметил золотоволосую девушку, вышедшую из пещеры и уплывшую по воздуху с невесомой грацией русалки прежде, чем я успел до неё добраться."
-        },
-        {
           "id": "sent-005",
-          "text": "Penetré en su cueva movido por la sed y el hambre, bebí el agua translúcida y casi ingrávida que llenaba el arroyo subterráneo, y me sacié con los hongos cocinados sobre piedras candentes.",
-          "translationRu": "Я проник в её пещеру, движимый жаждой и голодом, выпил прозрачную почти невесомую воду из подземного ручья и насытился грибами, приготовленными на раскалённых камнях."
+          "text": "Las estrellas trazaban arcos visibles sobre el cielo, y de pronto millones de mundos diminutos irrumpieron en el firmamento, chispeando plateados, seguidos de una esfera colosal con bandas oscuras que, al ascender, casi llenó el cielo por completo: era Saturno.",
+          "translationRu": "Звёзды описывали видимые дуги по небу, и вдруг миллионы крохотных миров ворвались в небосвод, сверкая серебром, а следом — исполинская сфера с тёмными полосами, которая, поднимаясь, почти целиком заполнила небо: это был Сатурн."
         },
         {
           "id": "sent-006",
-          "text": "La muchacha volvió, y tras una delicada danza de avances y retrocesos en la que ninguno de los dos osaba confiar del todo en el otro, la curiosidad doblegó al miedo y nos hicimos inseparables.",
-          "translationRu": "Девушка вернулась, и после деликатного танца взаимных приближений и отступлений, в котором никто из нас не решался полностью довериться другому, любопытство победило страх, и мы стали неразлучны."
+          "text": "Comprendí entonces, aunque sin saber cómo, que me hallaba sobre uno de los minúsculos meteoros que enjambran en órbita alrededor de Saturno y forman sus anillos; mi mundo tenía apenas cinco millas de diámetro.",
+          "translationRu": "Я понял тогда, сам не зная как, что нахожусь на одном из крошечных метеоров, роящихся по орбите вокруг Сатурна и образующих его кольца; мой мир был всего пять миль в диаметре."
         },
         {
           "id": "sent-007",
-          "text": "La llamé Nona; ella me llamó Nemo; e inventamos juntos un lenguaje que brotó con la espontaneidad con que brota el idioma en los niños que han almacenado durante años las palabras que aún no pronuncian.",
-          "translationRu": "Я назвал её Нона; она называла меня Немо; и мы вместе изобрели язык, который возник так же непринуждённо, как язык у детей, годами копивших слова, которые ещё не произносят."
+          "text": "Intenté caminar y cada paso me lanzaba al aire en un amplio arco de cien pies; agarré unas rocas de cuarzo metálico para lastre, pero resultaron tan ligeras como plumas en mis manos, y al arrojarlas desaparecieron sobre el horizonte para no volver jamás.",
+          "translationRu": "Я попытался идти, и каждый шаг бросал меня в воздух по широкой дуге в сто футов; я схватил камни металлического кварца для балласта, но они оказались лёгкими как перья, и, брошенные, исчезли за горизонтом навсегда."
         }
       ]
     },
@@ -58,18 +58,23 @@
       "sentences": [
         {
           "id": "sent-008",
-          "text": "Nona me enseñó a nadar en el aire, ese arte de brazadas rítmicas que me resultó torpe al principio pero que pronto dominé gracias a la ventaja que me daba la musculatura superior a la suya.",
-          "translationRu": "Нона научила меня плавать в воздухе — тому искусству ритмичных взмахов, которое поначалу давалось мне неловко, но которое я вскоре освоил, пользуясь преимуществом более сильной мускулатуры."
+          "text": "Me aferraba al tronco de un árbol cuando, cerca de mí, distinguí la boca de una cueva de la que emergió una figura humana: era una joven envuelta en largas ondas de cabello dorado, con un rostro oval bello y ojos azules abiertos de miedo.",
+          "translationRu": "Я цеплялся за ствол дерева, когда неподалёку заметил вход в пещеру, из которого появилась человеческая фигура: это была девушка, окутанная длинными золотыми волнами волос, с прекрасным овальным лицом и синими глазами, широко раскрытыми от страха."
         },
         {
           "id": "sent-009",
-          "text": "Vivimos durante meses en armoniosa primitividad hasta que el fuego de nuestra cena prendió en las rocas inflamables del meteoro y fue deshaciendo la cueva desde sus entrañas, como un carbón vivo que se expande sin cesar.",
-          "translationRu": "Мы жили месяцами в гармоничной примитивности, пока огонь нашего ужина не перекинулся на легковоспламеняющиеся камни метеорита и не начал разрушать пещеру изнутри, словно живой уголь, который непрестанно расширяется."
+          "text": "Sin previo aviso, se lanzó al aire y pasó rozándome tendida de lado, moviéndose con los brazos con la gracia sinuosa de una sirena que nada en el agua, y desapareció sobre la curva del mundo.",
+          "translationRu": "Без предупреждения она бросилась в воздух и пронеслась мимо, лёжа на боку, двигая руками с плавной грацией русалки в воде, и скрылась за изгибом мира."
         },
         {
           "id": "sent-010",
-          "text": "Los gases tóxicos de la combustión mal sofocada se difundieron con rapidez por la finísima atmósfera del meteoro, envenenándola por completo hasta que no hubo punto de fuga en ninguna dirección horizontal.",
-          "translationRu": "Ядовитые газы неполного сгорания быстро распространились по тончайшей атмосфере метеорита, полностью отравив её, пока ни в одном горизонтальном направлении не осталось пути к спасению."
+          "text": "Hambriento y sediento, me arrastré hacia la cueva, descendiendo por un túnel de paredes lisas cuyas rocas irradiaban una fosforescencia que se intensificaba a medida que avanzaba.",
+          "translationRu": "Голодный и измученный жаждой, я пробрался в пещеру, спускаясь по тоннелю с гладкими стенами, чьи скалы источали фосфоресценцию, усиливавшуюся по мере продвижения."
+        },
+        {
+          "id": "sent-011",
+          "text": "La cámara subterránea era enorme, iluminada por un resplandor rojo-plateado emanado de las propias rocas; la atravesaba un pequeño río que desembocaba en una laguna de un fluido blanco lechoso, del que bebí con avidez.",
+          "translationRu": "Подземная камера была огромной, освещённой красновато-серебристым сиянием самих скал; её пересекала небольшая река, впадавшая в лагуну из молочно-белой жидкости, которую я жадно выпил."
         }
       ]
     },
@@ -77,19 +82,19 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-011",
-          "text": "Fue Nona quien, en un destello de intuición, me tomó de la mano y me lanzó al río; juntos nos hundimos en aquella agua de gravedad específica apenas superior a 0,18, extraordinariamente aireada.",
-          "translationRu": "Именно Нона в вспышке интуиции взяла меня за руку и бросила в реку; вместе мы погрузились в ту воду с удельным весом чуть выше 0,18, необыкновенно насыщенную воздухом."
-        },
-        {
           "id": "sent-012",
-          "text": "Aprender a respirar el agua fue una agonía de minutos interminables: el pecho ardía, los oídos rugían y el cerebro se nublaba hasta que, de pronto, los pulmones aceptaron el nuevo medio y la respiración se normalizó.",
-          "translationRu": "Учиться дышать водой было мучением бесконечных минут: грудь горела, в ушах ревело, разум туманился, пока внезапно лёгкие не приняли новую среду и дыхание не нормализовалось."
+          "text": "Al rato, la joven apareció al otro lado del arroyo y comenzó a acercarse tímidamente, atraída por una fuerza mayor que su miedo; la perseguí por toda la caverna, pero ella me esquivaba con la facilidad absoluta de una mariposa eludiendo a un niño.",
+          "translationRu": "Вскоре девушка появилась на другом берегу ручья и начала осторожно приближаться, влекомая силой, превосходящей страх; я гнался за ней по всей пещере, но она уклонялась с той же лёгкостью, что бабочка от ребёнка."
         },
         {
           "id": "sent-013",
-          "text": "La corriente nos condujo al fondo y nos arrojó a un mar subterráneo de belleza inquietante, donde espiras de vegetación marina se mecían en una penumbra de fosforescencia difusa.",
-          "translationRu": "Течение увлекло нас на дно и вынесло в подземное море тревожащей красоты, где шпили морской растительности покачивались в полумраке рассеянной фосфоресценции."
+          "text": "Agotado y magullado, me dejé caer en su lecho de ropas azules; y ella se quedó cerca, observándome con una expresión que mezclaba la burla impish y una curiosidad suave que yo percibía sin poder nombrar.",
+          "translationRu": "Измотанный и весь в синяках, я рухнул на её постель из синих одежд; она осталась поблизости, наблюдая за мной с выражением, в котором смешивались лукавая насмешка и мягкое любопытство, которое я ощущал, не умея назвать."
+        },
+        {
+          "id": "sent-014",
+          "text": "Me di el nombre de Nemo y a ella la llamé Nona; la palabra pareció complacerla, pues la repitió varias veces y aplaudió encantada.",
+          "translationRu": "Я дал себе имя Немо, а её назвал Нона; слово, казалось, понравилось ей, и она повторила его несколько раз и захлопала в ладоши от восторга."
         }
       ]
     },
@@ -97,19 +102,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "Allí nos encontraron los Marinoides, seres de piel blanco-rosada, cuatro brazos tentaculares terminados en pinzas, piernas unidas por una membrana natatorial y órganos eléctricos capaces de detener el corazón de un hombre.",
-          "translationRu": "Там нас нашли Маринойды — существа с бело-розовой кожей, четырьмя руками-щупальцами с клешнями на концах, ногами, соединёнными плавательной перепонкой, и электрическими органами, способными остановить сердце человека."
-        },
-        {
           "id": "sent-015",
-          "text": "Nos capturaron con amabilidad profesional y nos condujeron a Rax, su capital submarina: una ciudad cilíndrica de ochocientos pies de altura tejida en tallos de vegetación viva e iluminada con organismos bioluminiscentes encerrados en vainas traslúcidas.",
-          "translationRu": "Они захватили нас с профессиональной вежливостью и проводили в Ракс — их подводную столицу: цилиндрический город высотой восемьсот футов, сотканный из стеблей живой растительности и освещённый биолюминесцентными организмами в прозрачных оболочках."
+          "text": "Nona me enseñó a nadar en el aire, ese arte de brazadas rítmicas que me llegó rápido gracias a mi musculatura superior, aunque jamás alcancé su destreza ni su agilidad instintiva.",
+          "translationRu": "Нона научила меня плавать в воздухе — искусству ритмичных взмахов, которое далось мне быстро благодаря более сильной мускулатуре, хотя я так и не достиг её ловкости и инстинктивной проворности."
         },
         {
           "id": "sent-016",
-          "text": "Asimilamos su lengua con la voracidad de intelectos maduros que nunca habían tenido oportunidad de ejercitarse, y en pocos meses ya éramos miembros plenos de aquella sociedad acuática tridimensional.",
-          "translationRu": "Мы усваивали их язык с жадностью зрелых умов, никогда прежде не имевших возможности упражняться, и через несколько месяцев уже были полноправными членами того трёхмерного водного общества."
+          "text": "Circundamos nuestro pequeño globo en media hora siguiendo al Sol; en el salto vertical, yo me disparé como una flecha a casi dos millas de altitud, sintiendo el aire rarificarse y el frío del espacio, antes de que Nona me torció bruscamente hacia abajo.",
+          "translationRu": "Мы облетели наш маленький шар за полчаса, следуя за Солнцем; в вертикальном прыжке я взмыл как стрела почти на две мили высоты, чувствуя, как воздух разрежается и приходит холод космоса, прежде чем Нона резко повернула меня вниз."
+        },
+        {
+          "id": "sent-017",
+          "text": "Para impresionarla, arranqué peñascos del suelo y los lancé al espacio; alcancé a remover una montaña de roca entera que en la Tierra hubiera pesado trescientas veinte mil libras, y la arrojé al vacío.",
+          "translationRu": "Чтобы произвести впечатление, я вырывал валуны из земли и бросал их в космос; мне удалось сдвинуть целую гору камня, которая на Земле весила бы триста двадцать тысяч фунтов, и швырнуть её в пустоту."
+        },
+        {
+          "id": "sent-018",
+          "text": "Nona me miraba con una mezcla de asombro y admiración que me hizo latir el corazón con fuerza, y aquella noche, bajo el fulgor deslumbrante de Saturno a solo treinta y cinco mil millas de nosotros, me condujo de vuelta a su cueva.",
+          "translationRu": "Нона смотрела на меня со смесью изумления и восхищения, от которой у меня сильно забилось сердце, и той ночью, под ослепительным сиянием Сатурна всего в тридцати пяти тысячах миль от нас, она повела меня обратно в пещеру."
         }
       ]
     },
@@ -117,19 +127,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-017",
-          "text": "El año de paz que siguió al nacimiento de nuestro hijo Boy fue el más dichoso que jamás conocí: trabajo humilde con Caan, cacerías deportivas con el Príncipe Atar y noches en que Nona cantaba para el pequeño.",
-          "translationRu": "Год мира, последовавший за рождением нашего сына Малыша, был самым счастливым, какой я только знал: скромная работа с Кааном, спортивные охоты с Принцем Атаром и ночи, когда Нона пела малышу."
-        },
-        {
-          "id": "sent-018",
-          "text": "Pero en la sombra operaba Og, un mestizo de sangre Marinoidde y Maagog, que sistemáticamente secuestraba mujeres Marinoides para nutrir a su pueblo en decadencia demográfica.",
-          "translationRu": "Но в тени действовал Ог — полукровка с кровью Маринойдов и Маагогов, систематически похищавший женщин-Маринойдов, чтобы пополнить численность своего угасающего народа."
-        },
-        {
           "id": "sent-019",
-          "text": "Una noche, mientras yo ayudaba a frustrar otro rapto en la ciudad, Og penetró en nuestra casa y se llevó a Nona; lo único que encontré al volver fue el llanto desamparado de Boy en su cuna de concha blanca.",
-          "translationRu": "Однажды ночью, пока я помогал пресечь очередное похищение в городе, Ог проник в наш дом и забрал Нону; вернувшись, я нашёл лишь беспомощный плач Малыша в его белой ракушечной колыбели."
+          "text": "Así encontré mi mundo habitable y mi compañera, más allá de lo cual no van las necesidades legítimas del hombre.",
+          "translationRu": "Так я нашёл свой обитаемый мир и подругу — всё, что по праву нужно человеку."
+        },
+        {
+          "id": "sent-020",
+          "text": "El lenguaje brotó entre nosotros con asombrosa rapidez, como si lo lleváramos represado dentro y solo esperara ser liberado; Nona, en su existencia espiritual y mental, era el contrapunto exacto de mí mismo.",
+          "translationRu": "Язык возник между нами с удивительной быстротой, словно мы носили его в себе сдерживаемым и он лишь ждал освобождения; Нона в своём духовном и умственном существе была точным противовесом меня самого."
+        },
+        {
+          "id": "sent-021",
+          "text": "En nuestra cueva, el único peligro que no supimos anticipar era el del fuego: una noche, olvidamos extinguir las brasas y las rocas inflamables del meteoro comenzaron a arder en sus profundidades, como un carbón vivo que se expande sin cesar.",
+          "translationRu": "В нашей пещере единственная опасность, которую мы не предвидели, была огненная: однажды ночью мы забыли затушить угли, и легковоспламеняющиеся камни метеорита начали гореть в глубине, словно живой уголь, непрестанно расширяющийся."
+        },
+        {
+          "id": "sent-022",
+          "text": "El monstruo de fuego devoró nuestra cueva desde adentro y tuvimos que huir a la superficie, donde el cráter rugiente y el humo negro nos obligaron a abandonar para siempre nuestro primer hogar.",
+          "translationRu": "Огненный монстр пожрал нашу пещеру изнутри, и нам пришлось бежать на поверхность, где кипящий кратер и чёрный дым навсегда вынудили нас покинуть первый дом."
         }
       ]
     },
@@ -137,79 +152,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Con el Príncipe Atar y el veterano Caan me internamos en el abismo caliente y pestilente del Agua de las Bestias, sorteando criaturas luminiscentes que flotaban como pesadillas entre las paredes de roca.",
-          "translationRu": "Вместе с Принцем Атаром и бывалым Кааном я углубился в горячую зловонную бездну Вод Диких Тварей, лавируя среди светящихся существ, дрейфовавших как кошмары между каменными стенами."
-        },
-        {
-          "id": "sent-021",
-          "text": "Hallamos a Nona atada en el estrado de la caverna de los Maagogs mientras Og, ante una multitud de seres pálidamente hinchados, la proclamaba su futura reina.",
-          "translationRu": "Мы нашли Нону связанной на помосте в пещере Маагогов, пока Ог перед толпой бледно-опухших существ провозглашал её своей будущей королевой."
-        },
-        {
-          "id": "sent-022",
-          "text": "Me lancé al vacío cuando vi a Maaret, la chica que amaba a Og en secreto, abalanzarse con un puñal contra Nona por celos desesperados.",
-          "translationRu": "Я бросился в пустоту, увидев, как Маарет — девушка, тайно любившая Ога, — бросается на Нону с кинжалом из отчаянной ревности."
-        },
-        {
           "id": "sent-023",
-          "text": "Desarmé a Maaret, Atar cortó las ligaduras de Nona y nos batimos en retirada, pero Og soltó sus peces negros sobre nosotros y la huida se convirtió en una pesadilla de dientes y oscuridad.",
-          "translationRu": "Я обезоружил Маарет, Атар перерезал путы Ноны и мы начали отступать, но Ог спустил на нас своих чёрных рыб, превратив бегство в кошмар из зубов и тьмы."
+          "text": "Los gases tóxicos de la combustión mal sofocada se difundieron por la finísima atmósfera del meteoro hasta envenenarla por completo; huíamos sin escapatoria posible en ninguna dirección horizontal.",
+          "translationRu": "Ядовитые газы неполного сгорания распространились по тончайшей атмосфере метеорита, полностью отравив её; мы бежали без возможного выхода ни в одном горизонтальном направлении."
         },
         {
           "id": "sent-024",
-          "text": "Paradójicamente, fue Maaret quien nos salvó al encerrar a los peces y noquear a Og; luego lo abrazó sollozando, sin importarle nada más que él.",
-          "translationRu": "Как ни парадоксально, именно Маарет спасла нас, заперев рыб и оглушив Ога; после она обняла его, рыдая, не думая ни о чём, кроме него."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
+          "text": "Fue Nona quien, en un destello de intuición, me tomó en sus brazos y me lanzó de cabeza al río; juntos nos hundimos en aquella agua extraordinariamente aireada, con una gravedad específica de apenas 0,18.",
+          "translationRu": "Именно Нона в порыве интуиции обхватила меня руками и бросила головой вперёд в реку; вместе мы погрузились в ту необычайно насыщенную воздухом воду с удельным весом всего 0,18."
+        },
         {
           "id": "sent-025",
-          "text": "De regreso a Rax, la situación era catastrófica: la ciudad hermana de Gahna había caído en manos de los Maagogs merced a una rebelión interna de los mestizos Marinogs, y el ejército enemigo avanzaba hacia nosotros.",
-          "translationRu": "Вернувшись в Ракс, мы обнаружили катастрофическое положение: город-сестра Ганна пал в руки Маагогов благодаря внутреннему восстанию полукровок-Маринои, а вражеская армия двигалась на нас."
+          "text": "Aprender a respirar el agua fue una agonía de instantes interminables: el pecho ardía, los oídos rugían y el cerebro se nublaba hasta que, de pronto, los pulmones aceptaron el nuevo medio y la respiración se normalizó a unas ochenta veces por minuto.",
+          "translationRu": "Учиться дышать водой было мучением бесконечных мгновений: грудь горела, в ушах ревело, разум туманился, пока вдруг лёгкие не приняли новую среду и дыхание не нормализовалось — примерно восемьдесят раз в минуту."
         },
         {
           "id": "sent-026",
-          "text": "Ante la parálisis del Rey, tomé el mando inspirado por las palabras de Nona, y organicé un ejército de dos mil Marinoides en tres cuerpos: jóvenes de poder eléctrico, veteranos con lanzas, y las chicas sobre delfines entrenados comandadas por mi propia Nona.",
-          "translationRu": "Перед лицом растерянности Короля, вдохновлённый словами Ноны, я взял командование и организовал армию в две тысячи Маринойдов в три корпуса: молодых с электрическим оружием, ветеранов с копьями и девушек на обученных дельфинах под командованием моей Ноны."
-        },
-        {
-          "id": "sent-027",
-          "text": "Nona concibió la maniobra decisiva: solos los dos, a lomos de delfines, nos deslizamos en el sótano de Gahna mientras los Maagogs dormían y cortamos los cuatro tallos maestros con nuestras espadas de corto filo.",
-          "translationRu": "Нона придумала решающий манёвр: вдвоём верхом на дельфинах мы проскользнули в подвал Ганна, пока Маагоги спали, и короткими мечами срубили четыре главных ствола."
-        },
-        {
-          "id": "sent-028",
-          "text": "La ciudad se volcó con una lentitud casi ceremoniosa y fue arrastrada por la corriente hacia el abismo, dispersando al ejército invasor antes de que pudiera concentrarse para el ataque definitivo.",
-          "translationRu": "Город перевернулся с почти церемониальной медлительностью и был унесён течением в бездну, рассеяв армию захватчиков прежде, чем та успела сосредоточиться для решающего удара."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-029",
-          "text": "En la batalla final combinamos los trineo de luz cegadora con nubes de tinta oscura para ir extrayendo a los Maagogs del caos y aniquilarlos en grupos menores a medida que salían a ciegas.",
-          "translationRu": "В финальном сражении мы сочетали ослепительные световые сани с тучами чёрных чернил, поочерёдно выманивая Маагогов из хаоса и уничтожая их небольшими группами по мере того, как они выходили вслumbrados."
-        },
-        {
-          "id": "sent-030",
-          "text": "Hacia el final combatí a Og montado en delfín, lanza contra lanza, en un duelo que por un instante me recordó a los caballeros del Rey Arturo; lo habrían matado al primer encontronazo de no haberse interpuesto Maaret.",
-          "translationRu": "Ближе к концу я сражался с Огом верхом на дельфине, копьё против копья, в поединке, который на миг напомнил мне рыцарей короля Артура; он погиб бы с первого удара, если бы не вмешалась Маарет."
-        },
-        {
-          "id": "sent-031",
-          "text": "Maaret murió en brazos de Nona habiendo dado su vida por el hombre que amaba, sin saber que yo acababa de matarlo; y en ese instante comprendí que el amor trasciende toda lógica bélica.",
-          "translationRu": "Маарет умерла на руках Ноны, отдав жизнь за любимого, не зная, что я только что убил его; и в тот миг я понял, что любовь выходит за пределы всякой военной логики."
-        },
-        {
-          "id": "sent-032",
-          "text": "La guerra concluyó; yo caí enfermo y me sumí en una oscuridad que poco a poco fue borrando todo: el mundo submarino, la voz de Nona, la risa de Boy, hasta que desperté anciano y solo en una ciudad de la Tierra, sin más testimonio que esta memoria que se desvanece.",
-          "translationRu": "Война закончилась; я заболел и погрузился во тьму, которая постепенно стёрла всё: подводный мир, голос Ноны, смех Малыша — пока я не очнулся стариком и одиночкой в земном городе, с единственным свидетельством — этой угасающей памятью."
+          "text": "La corriente nos condujo al fondo y nos arrojó a un mar subterráneo de belleza inquietante, donde espiras de vegetación marina se mecían en una penumbra de fosforescencia difusa, y hallamos en el fondo comida y reposo.",
+          "translationRu": "Течение увлекло нас на дно и вынесло в подземное море тревожащей красоты, где шпили морской растительности покачивались в полумраке рассеянной фосфоресценции — и мы нашли на дне еду и отдых."
         }
       ]
     }
