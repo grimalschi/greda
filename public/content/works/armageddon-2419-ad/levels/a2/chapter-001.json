@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "Armagedón 2419 d. C."
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Me llamo Anthony Rogers y dormí casi quinientos años.",
-          "translationRu": "Меня зовут Энтони Роджерс, и я проспал почти пятьсот лет."
+          "text": "Mi nombre es Anthony Rogers y tengo una historia muy extraña.",
+          "translationRu": "Меня зовут Энтони Роджерс, и у меня очень необычная история."
         },
         {
           "id": "sent-002",
-          "text": "Entré en una mina en 1927 y me desperté en el año 2419.",
-          "translationRu": "В 1927 году я вошёл в шахту и проснулся уже в 2419 году."
+          "text": "Viví los primeros veintinueve años de mi vida entre 1898 y 1927.",
+          "translationRu": "Я прожил первые двадцать девять лет своей жизни между 1898 и 1927 годами."
         },
         {
           "id": "sent-003",
-          "text": "Un gas radiactivo me mantuvo dormido todo ese tiempo.",
-          "translationRu": "Радиоактивный газ удерживал меня в состоянии сна всё это время."
+          "text": "Los otros cincuenta y dos años los viví después del año 2419.",
+          "translationRu": "Остальные пятьдесят два года я прожил после 2419 года."
         },
         {
           "id": "sent-004",
-          "text": "Cuando salí de la mina, América era un lugar muy diferente.",
-          "translationRu": "Когда я вышел из шахты, Америка оказалась совершенно другой."
+          "text": "Dormí casi quinientos años en una mina abandonada.",
+          "translationRu": "Я проспал почти пятьсот лет в заброшенной шахте."
         }
       ]
     },
@@ -38,18 +38,28 @@
       "sentences": [
         {
           "id": "sent-005",
-          "text": "Los Hans gobernaban el continente con sus grandes naves aéreas.",
-          "translationRu": "Ханы правили континентом с помощью своих огромных воздушных кораблей."
+          "text": "En 1927 trabajé para una compañía de gases radiactivos.",
+          "translationRu": "В 1927 году я работал в компании по изучению радиоактивных газов."
         },
         {
           "id": "sent-006",
-          "text": "Los americanos vivían escondidos en los bosques.",
-          "translationRu": "Американцы прятались в лесах."
+          "text": "Fui a explorar una mina vieja en Pensilvania con dos asistentes.",
+          "translationRu": "Я отправился исследовать старую шахту в Пенсильвании вместе с двумя помощниками."
         },
         {
           "id": "sent-007",
-          "text": "Se organizaban en grupos llamados «gangs» para sobrevivir.",
-          "translationRu": "Они объединялись в группы, называемые «гэнги», чтобы выжить."
+          "text": "Bajamos a los niveles más profundos de la mina.",
+          "translationRu": "Мы спустились на самые нижние уровни шахты."
+        },
+        {
+          "id": "sent-008",
+          "text": "De repente, los maderos viejos del techo cayeron y mis compañeros murieron.",
+          "translationRu": "Внезапно старые балки потолка обвалились, и мои товарищи погибли."
+        },
+        {
+          "id": "sent-009",
+          "text": "Yo escapé del derrumbe, pero quedé atrapado en la mina sin salida.",
+          "translationRu": "Я спасся от обвала, но оказался заперт в шахте без выхода."
         }
       ]
     },
@@ -57,29 +67,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "Un día vi a una chica en el bosque.",
-          "translationRu": "Однажды я увидел в лесу девушку."
-        },
-        {
-          "id": "sent-009",
-          "text": "Ella saltaba muy alto con un cinturón especial.",
-          "translationRu": "Она прыгала очень высоко с помощью специального пояса."
-        },
-        {
           "id": "sent-010",
-          "text": "Unos enemigos la atacaban con armas de fuego silenciosas.",
-          "translationRu": "Враги нападали на неё с бесшумным оружием."
+          "text": "El aire era difícil de respirar porque había gas radiactivo.",
+          "translationRu": "Дышать было трудно из-за радиоактивного газа."
         },
         {
           "id": "sent-011",
-          "text": "La ayudé y maté a sus atacantes.",
-          "translationRu": "Я помог ей и убил нападавших."
+          "text": "En poco tiempo perdí el conocimiento.",
+          "translationRu": "Вскоре я потерял сознание."
         },
         {
           "id": "sent-012",
-          "text": "Su nombre era Wilma Deering.",
-          "translationRu": "Её звали Вилма Диринг."
+          "text": "Cuando me desperté, el aire era fresco y puro.",
+          "translationRu": "Когда я проснулся, воздух был свежим и чистым."
+        },
+        {
+          "id": "sent-013",
+          "text": "Salí de la mina y vi un bosque enorme donde antes había ciudades.",
+          "translationRu": "Я вышел из шахты и увидел огромный лес там, где раньше стояли города."
         }
       ]
     },
@@ -87,19 +92,19 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-013",
-          "text": "Wilma me llevó con su grupo, los Wyomings.",
-          "translationRu": "Вилма привела меня к своей группе — Вайомингцам."
-        },
-        {
           "id": "sent-014",
-          "text": "El jefe se llamaba Hart y me aceptó en la comunidad.",
-          "translationRu": "Вождь по имени Харт принял меня в общину."
+          "text": "No había casas, ni carreteras, ni ningún signo de la antigua civilización.",
+          "translationRu": "Не было ни домов, ни дорог, ни каких-либо следов прежней цивилизации."
         },
         {
           "id": "sent-015",
-          "text": "Aprendí a usar el cinturón antigravedad y la pistola de cohetes.",
-          "translationRu": "Я научился пользоваться антигравитационным поясом и ракетным пистолетом."
+          "text": "Pasé días muy difíciles en el bosque, confundido y asustado.",
+          "translationRu": "Я провёл несколько очень трудных дней в лесу, растерянный и напуганный."
+        },
+        {
+          "id": "sent-016",
+          "text": "Hice trampas para cazar animales y así conseguí comida.",
+          "translationRu": "Я расставлял ловушки для охоты на зверей и так добывал еду."
         }
       ]
     },
@@ -107,24 +112,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "Un día llegó una nave Han y atacó el valle.",
-          "translationRu": "Однажды прилетел ханский корабль и атаковал долину."
-        },
-        {
           "id": "sent-017",
-          "text": "La nave usó rayos desintegradores para destruir el bosque.",
-          "translationRu": "Корабль использовал лучи-дезинтеграторы, чтобы уничтожить лес."
+          "text": "Un día vi una figura joven moverse entre los árboles.",
+          "translationRu": "Однажды я увидел молодую фигуру, движущуюся между деревьями."
         },
         {
           "id": "sent-018",
-          "text": "Tuve una idea: disparé un cohete al rayo de repulsión de la nave.",
-          "translationRu": "У меня возникла идея: я выстрелил ракетой в луч отталкивания корабля."
+          "text": "La persona llevaba ropa verde y un cinturón grueso alrededor del cuerpo.",
+          "translationRu": "Человек был одет в зелёную одежду и носил широкий пояс вокруг тела."
         },
         {
           "id": "sent-019",
-          "text": "¡La nave cayó y se destruyó!",
-          "translationRu": "Корабль упал и разрушился!"
+          "text": "Unos enemigos la atacaban desde los árboles con explosiones.",
+          "translationRu": "Враги атаковали человека с деревьев с помощью взрывов."
+        },
+        {
+          "id": "sent-020",
+          "text": "De repente, la persona saltó una distancia enorme y aterrizó suavemente.",
+          "translationRu": "Внезапно человек прыгнул на огромное расстояние и мягко приземлился."
         }
       ]
     },
@@ -132,19 +137,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Siete naves Han vinieron para investigar el accidente.",
-          "translationRu": "Семь ханских кораблей прилетели расследовать катастрофу."
-        },
-        {
           "id": "sent-021",
-          "text": "Comandé a cien guerreros y destruimos todas las naves con el mismo método.",
-          "translationRu": "Я командовал сотней воинов, и мы уничтожили все корабли тем же методом."
+          "text": "La persona cayó al suelo y vi sangre en su cabeza.",
+          "translationRu": "Человек упал на землю, и я увидел кровь на его голове."
         },
         {
           "id": "sent-022",
-          "text": "Los Hans no entendían cómo caían sus naves.",
-          "translationRu": "Ханы не понимали, почему падают их корабли."
+          "text": "La arrastré detrás de un árbol grande para protegerla.",
+          "translationRu": "Я оттащил его за большое дерево, чтобы укрыть."
+        },
+        {
+          "id": "sent-023",
+          "text": "Tomé el arma de su mano: era pequeña pero muy poderosa.",
+          "translationRu": "Я взял оружие из его руки — оно было небольшим, но очень мощным."
+        },
+        {
+          "id": "sent-024",
+          "text": "El arma disparaba sin ruido ni fuego y sus proyectiles explotaban.",
+          "translationRu": "Оружие стреляло без шума и огня, а его снаряды взрывались."
         }
       ]
     },
@@ -152,24 +162,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "Descubrimos que un grupo traidor, los Sinsings, ayudaba a los Hans.",
-          "translationRu": "Мы обнаружили, что предательская группа — Синсинги — помогала ханам."
-        },
-        {
-          "id": "sent-024",
-          "text": "Hicimos un raid secreto a la ciudad Han de Nu-yok para obtener las pruebas.",
-          "translationRu": "Мы провели тайный рейд в ханский город Ню-йок, чтобы добыть доказательства."
-        },
-        {
           "id": "sent-025",
-          "text": "Wilma y yo luchamos contra los guardias dentro de la torre.",
-          "translationRu": "Вилма и я сражались с охранниками внутри башни."
+          "text": "Disparé contra los enemigos en los árboles y los maté a todos.",
+          "translationRu": "Я выстрелил по врагам на деревьях и убил их всех."
         },
         {
           "id": "sent-026",
-          "text": "Escapamos con los documentos secretos.",
-          "translationRu": "Мы бежали с секретными документами."
+          "text": "Los demás huyeron del bosque.",
+          "translationRu": "Остальные убежали из леса."
+        },
+        {
+          "id": "sent-027",
+          "text": "Entonces vi que la persona herida no era un chico, sino una chica muy bonita.",
+          "translationRu": "Тогда я увидел, что раненый человек — не мальчик, а очень красивая девушка."
+        },
+        {
+          "id": "sent-028",
+          "text": "Le lavé la herida con agua del río y ella volvió en sí.",
+          "translationRu": "Я промыл её рану водой из реки, и она пришла в сознание."
         }
       ]
     },
@@ -177,39 +187,24 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-027",
-          "text": "Los Wyomings me eligieron como su nuevo jefe.",
-          "translationRu": "Вайомингцы избрали меня своим новым вождём."
-        },
-        {
-          "id": "sent-028",
-          "text": "Organicé un ataque contra los Sinsings con mil guerreros.",
-          "translationRu": "Я организовал нападение на Синсингов с тысячью воинов."
-        },
-        {
           "id": "sent-029",
-          "text": "Usamos barreras de explosiones para rodear y destruir al grupo traidor.",
-          "translationRu": "Мы использовали заградительный огонь, чтобы окружить и уничтожить предательскую группу."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
+          "text": "Su nombre era Wilma y me miró con curiosidad.",
+          "translationRu": "Её звали Уилма, и она смотрела на меня с любопытством."
+        },
         {
           "id": "sent-030",
-          "text": "La victoria sobre los Sinsings mostró que podíamos derrotar a los Hans.",
-          "translationRu": "Победа над Синсингами показала, что мы можем победить ханов."
+          "text": "Me preguntó a qué «gang» pertenecía.",
+          "translationRu": "Она спросила, к какому «гэнгу» я принадлежу."
         },
         {
           "id": "sent-031",
-          "text": "Me casé con Wilma y nos quedamos con los Wyomings.",
-          "translationRu": "Я женился на Вилме, и мы остались с Вайомингцами."
+          "text": "Le conté mi historia: que venía del año 1927 y no sabía cómo.",
+          "translationRu": "Я рассказал ей свою историю: что я из 1927 года и не понимаю, как это случилось."
         },
         {
           "id": "sent-032",
-          "text": "Le dije a Wilma: «Un día América destruirá a los Hans para siempre».",
-          "translationRu": "Я сказал Вилме: «Однажды Америка навсегда уничтожит ханов»."
+          "text": "Wilma escuchó con paciencia y al final dijo que me creía.",
+          "translationRu": "Уилма терпеливо слушала и в конце сказала, что верит мне."
         }
       ]
     }
