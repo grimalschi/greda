@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-vanishing-of-vaudrey",
+  "title": "La desaparición de Vaudrey",
+  "titleRu": "Исчезновение Водри",
+  "originalTitle": "The Vanishing of Vaudrey",
+  "author": {
+    "id": "g-k-chesterton",
+    "name": "G. K. Chesterton"
+  },
+  "genres": [
+    "Детектив",
+    "Отец Браун"
+  ],
+  "synopsisRu": "Богатый помещик сэр Артур Водри бесследно исчезает во время прогулки в крошечный деревенский посёлок. Отец Браун раскрывает не только убийство, но и дьявольский план мести, вынашивавшийся годами.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

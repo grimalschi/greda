@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-man-with-two-beards",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El hombre con dos barbas"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "La familia Bankes vivía en un barrio tranquilo de las afueras de Londres.", "translationRu": "Семья Бэнкс жила в тихом пригороде Лондона."},
+        {"id": "sent-002", "text": "Un día leyeron en el periódico que un famoso ladrón, Michael Moonshine, acababa de salir de la cárcel.", "translationRu": "Однажды они прочитали в газете, что известный вор Майкл Мунshiine только что вышел из тюрьмы."},
+        {"id": "sent-003", "text": "Según el artículo, Moonshine se había instalado en el mismo barrio.", "translationRu": "По сведениям статьи, Мунshine обосновался в том же районе."},
+        {"id": "sent-004", "text": "Todos hablaron de eso en el desayuno con mucha preocupación.", "translationRu": "За завтраком все обсуждали это с большим беспокойством."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "En la mesa también estaba Daniel Devine, un amigo de la familia con barba oscura.", "translationRu": "За столом сидел и Дэниел Дивайн — темнобородый друг семьи."},
+        {"id": "sent-006", "text": "Devine mencionó que conocía a un hombre misterioso llamado Carver que vivía en la granja de Smith.", "translationRu": "Дивайн упомянул, что знает загадочного человека по имени Карвер, живущего на ферме Смита."},
+        {"id": "sent-007", "text": "Carver decía que sólo le interesaban las abejas, pero Devine encontraba eso muy sospechoso.", "translationRu": "Карвер говорил, что его интересуют только пчёлы, но Дивайн находил это подозрительным."},
+        {"id": "sent-008", "text": "Aquella tarde Devine decidió visitar a Carver y fue con el joven John Bankes en su coche.", "translationRu": "В тот же вечер Дивайн решил навестить Карвера и отправился туда вместе с молодым Джоном Бэнксом на машине."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-009", "text": "En la granja encontraron a Carver en el jardín, con un sombrero de paja que le cubría la cara.", "translationRu": "На ферме они застали Карвера в саду — соломенная шляпа закрывала ему лицо."},
+        {"id": "sent-010", "text": "Junto a las colmenas estaban el viejo Smith y el padre Brown, un sacerdote de baja estatura.", "translationRu": "У ульев стояли пожилой Смит и отец Браун — невысокий священник."},
+        {"id": "sent-011", "text": "Carver convenció a Smith para que se fuera en el coche de John a ver a su hermana.", "translationRu": "Карвер убедил Смита уехать на машине Джона навестить сестру."},
+        {"id": "sent-012", "text": "Cuando el coche partió, Devine pensó que Carver quería quedarse solo en casa.", "translationRu": "Когда машина уехала, Дивайн понял, что Карверу нужно было остаться дома одному."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-013", "text": "Aquella noche, Opal Bankes vio una cara horrible en la ventana del salón.", "translationRu": "Той ночью Опал Бэнкс увидела в окне гостиной страшное лицо."},
+        {"id": "sent-014", "text": "La cara tenía una barba roja y unas gafas enormes que la hacían parecer un espectro.", "translationRu": "У лица была рыжая борода и огромные очки, делавшие его похожим на призрак."},
+        {"id": "sent-015", "text": "En ese momento llegó el padre Brown y pidió entrar en la casa.", "translationRu": "В этот момент пришёл отец Браун и попросил войти в дом."},
+        {"id": "sent-016", "text": "Les contó que alguien robó las joyas de Lady Pulman en Beechwood House y que dispararon al secretario.", "translationRu": "Он рассказал, что кто-то ограбил леди Пулман в Бичвуд-Хаус и ранил её секретаря."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-017", "text": "Poco después llegó el señor Carver y reveló que era detective.", "translationRu": "Вскоре появился господин Карвер и признался, что он детектив."},
+        {"id": "sent-018", "text": "Había venido al barrio para vigilar a Michael Moonshine, porque sospechaba que volvería a robar.", "translationRu": "Он приехал в этот район следить за Майклом Муншайном, подозревая, что тот снова примется за старое."},
+        {"id": "sent-019", "text": "En la casa de Smith encontró una barba roja falsa y unas gafas, que eran el disfraz de Moonshine.", "translationRu": "В доме Смита он обнаружил рыжую накладную бороду и очки — маскировку Муншайна."},
+        {"id": "sent-020", "text": "También encontró un papel con los nombres de las joyas más valiosas del barrio, incluyendo el collar de Mrs. Bankes.", "translationRu": "Там же нашёлся список с названиями самых ценных украшений района, включая ожерелье миссис Бэнкс."}
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {"id": "sent-021", "text": "De repente la cara roja apareció otra vez en la ventana redonda del salón.", "translationRu": "Вдруг рыжая рожа снова появилась в круглом окне гостиной."},
+        {"id": "sent-022", "text": "John Bankes salió corriendo al jardín con un revólver.", "translationRu": "Джон Бэнкс выбежал в сад с револьвером."},
+        {"id": "sent-023", "text": "Se oyeron dos disparos, y luego todo quedó en silencio.", "translationRu": "Прогремели два выстрела, и наступила тишина."},
+        {"id": "sent-024", "text": "El padre Brown fue al jardín y encontró al hombre con la barba roja muerto en el suelo.", "translationRu": "Отец Браун вышел в сад и нашёл человека с рыжей бородой мёртвым на земле."}
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {"id": "sent-025", "text": "Cuando Carver dijo que el caso estaba resuelto, el padre Brown respondió que no creía nada de eso.", "translationRu": "Когда Карвер заявил, что дело раскрыто, отец Браун ответил, что не верит ни единому слову."},
+        {"id": "sent-026", "text": "El hombre muerto era su amigo Michael, que ya era un hombre bueno y no quería robar.", "translationRu": "Мёртвый человек был его другом Майклом, который уже стал хорошим человеком и не собирался воровать."},
+        {"id": "sent-027", "text": "Entonces el padre Brown señaló algo importante: el muerto llevaba una barba falsa, pero en casa de Smith había otra diferente.", "translationRu": "Тут отец Браун указал на важную деталь: у мертвеца была накладная борода, а у Смита дома — другая, отличающаяся."},
+        {"id": "sent-028", "text": "Preguntó en voz alta: «¿Por qué tenía dos barbas?»", "translationRu": "Он произнёс вслух: «Зачем ему понадобились две бороды?»"}
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {"id": "sent-029", "text": "Esa noche John Bankes escapó en su coche con el collar de esmeraldas y las demás joyas.", "translationRu": "В ту же ночь Джон Бэнкс сбежал на машине с изумрудным ожерельем и прочими украшениями."},
+        {"id": "sent-030", "text": "Al día siguiente el padre Brown explicó todo a Devine junto a las colmenas.", "translationRu": "На следующий день отец Браун объяснил всё Дивайну у ульев."},
+        {"id": "sent-031", "text": "John mató a Michael durante el paseo en coche y lo trajo de vuelta como si estuviera vivo.", "translationRu": "Джон убил Майкла во время поездки на машине и привёз тело обратно, сделав вид, что тот жив."},
+        {"id": "sent-032", "text": "Luego puso al cadáver una barba y unas gafas nuevas y usó el cuerpo para simular el robo.", "translationRu": "Затем он надел на труп новую бороду и очки и использовал тело, чтобы инсценировать ограбление."}
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {"id": "sent-033", "text": "John movió el cuerpo cerca de las ventanas para que Opal y los criados vieran la cara de Moonshine.", "translationRu": "Джон подносил тело к окнам, чтобы Опал и слуги видели лицо Муншайна."},
+        {"id": "sent-034", "text": "Mientras tanto él mismo robó el collar y disparó dos veces para fingir que había un enfrentamiento.", "translationRu": "Тем временем он сам украл ожерелье и выстрелил дважды, изображая перестрелку."},
+        {"id": "sent-035", "text": "El padre Brown descubrió la verdad porque Michael era un hombre honrado que no necesitaba un disfraz nuevo.", "translationRu": "Отец Браун раскрыл правду, потому что Майкл был честным человеком, которому не нужен был новый маскарад."},
+        {"id": "sent-036", "text": "La segunda barba, encontrada en casa de Smith, fue la clave que reveló el crimen.", "translationRu": "Вторая борода, найденная в доме Смита, стала ключом, открывшим преступление."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-man-with-two-beards",
+  "title": "El hombre con dos barbas",
+  "titleRu": "Человек с двумя бородами",
+  "originalTitle": "The Man with Two Beards",
+  "author": {
+    "id": "g-k-chesterton",
+    "name": "G. K. Chesterton"
+  },
+  "genres": [
+    "Детектив",
+    "Отец Браун"
+  ],
+  "synopsisRu": "Когда знаменитый вор-рецидивист найден мёртвым в саду после ограбления, всё указывает на его вину. Но отец Браун замечает странную деталь: у мертвеца две бороды — и это ставит под сомнение всю картину преступления.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

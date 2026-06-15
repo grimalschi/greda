@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-song-of-the-flying-fish",
+  "title": "La canción de los peces voladores",
+  "titleRu": "Песня о летящих рыбках",
+  "originalTitle": "The Song of the Flying Fish",
+  "author": {
+    "id": "g-k-chesterton",
+    "name": "G. K. Chesterton"
+  },
+  "genres": [
+    "Детектив",
+    "Отец Браун"
+  ],
+  "synopsisRu": "Коллекционер Перегрин Смарт хвалится соседям своими золотыми рыбками в венецианском шаре, пока однажды ночью таинственный «арабский маг» не вызывает их песней — и шар разбивается, а рыбки исчезают. Отец Браун замечает то, чего не видит никто: отсутствие следов на земле и один неверный звук на лестнице — и раскрывает преступника прямо у всех под носом.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
