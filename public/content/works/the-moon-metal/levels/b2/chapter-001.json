@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El metal de la luna"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "El hallazgo de inmensas reservas de oro cerca del polo sur desencadenó una crisis financiera sin precedentes en toda la historia de la humanidad.",
-          "translationRu": "Открытие огромных запасов золота близ Южного полюса спровоцировало беспрецедентный в истории человечества финансовый кризис."
+          "text": "Cuando llegaron las primeras noticias del descubrimiento de oro en el polo sur, nadie sospechaba que comenzaba una nueva era en la historia del mundo.",
+          "translationRu": "Когда пришли первые известия об открытии золота на Южном полюсе, никто не подозревал, что начинается новая эра в истории мира."
         },
         {
           "id": "sent-002",
-          "text": "El metal dejó de ser precioso en cuestión de meses: su precio cayó en picado y los gobiernos se vieron obligados a desmonetizarlo.",
-          "translationRu": "Металл перестал быть драгоценным за считанные месяцы: цена его стремительно рухнула, и правительства были вынуждены отменить золотой стандарт."
+          "text": "Los periódicos publicaban extras sensacionalistas que describían venas de oro tan blandas que podían cortarse con un cuchillo a escasos kilómetros del polo.",
+          "translationRu": "Газеты выпускали сенсационные экстра-выпуски, описывавшие жилы золота, настолько мягкого, что его можно было резать ножом в нескольких километрах от полюса."
         },
         {
           "id": "sent-003",
-          "text": "El comercio internacional colapsó, el crédito quedó desacreditado y el mundo pareció retroceder a la edad oscura del trueque.",
-          "translationRu": "Международная торговля рухнула, кредит утратил доверие, и мир, казалось, откатился к тёмным векам натурального обмена."
+          "text": "Al principio la mayoría de la gente sensata tomó aquellos despachos por un engaño, pero en cuestión de semanas llegaron nuevas confirmaciones desde distintas fuentes.",
+          "translationRu": "Поначалу большинство здравомыслящих людей принимало эти сообщения за мистификацию, однако в течение нескольких недель пришли новые подтверждения из разных источников."
+        },
+        {
+          "id": "sent-004",
+          "text": "Cuando un diario neoyorquino envió un vapor veloz a la Antártida y publicó una crónica detallada de los hallazgos, toda duda se disipó y comenzó la fiebre del oro austral.",
+          "translationRu": "Когда нью-йоркская газета отправила быстроходный пароход в Антарктиду и опубликовала подробный репортаж об открытиях, все сомнения рассеялись и началась золотая лихорадка."
         }
       ]
     },
@@ -32,24 +37,24 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "En medio de aquel caos, los financieros más poderosos del planeta se reunieron en Nueva York para buscar, sin éxito, un sustituto para el oro.",
-          "translationRu": "В разгар этого хаоса самые влиятельные финансисты планеты собрались в Нью-Йорке в поисках замены золоту — и не находили её."
-        },
-        {
           "id": "sent-005",
-          "text": "Fue entonces cuando un extraño de aspecto inquietante, el doctor Max Syx, irrumpió en la sala del congreso.",
-          "translationRu": "Именно тогда в зал конгресса ворвался зловещего вида незнакомец — доктор Макс Сикс."
+          "text": "Durante años el patrón oro había sido universal y el mundo financiero funcionaba con una fluidez sin precedentes: cualquier moneda que valía en Nueva York valía lo mismo en Londres, Berlín o Tokio.",
+          "translationRu": "На протяжении многих лет золотой стандарт был всеобщим, и мировые финансы функционировали с небывалой плавностью: монета, ценившаяся в Нью-Йорке, стоила столько же в Лондоне, Берлине или Токио."
         },
         {
           "id": "sent-006",
-          "text": "Su tarjeta de visita, fabricada con un metal desconocido, desprendía una luminiscencia iridiscente que fascinó a todos los presentes como un sortilegio.",
-          "translationRu": "Его визитная карточка из неизвестного металла источала переливающееся сияние, завораживавшее всех присутствующих, точно колдовское заклятие."
+          "text": "Sobre aquella escena de prosperidad, las noticias del polo sur cayeron como una tormenta imprevista.",
+          "translationRu": "На этот фон процветания новости с Южного полюса обрушились подобно внезапной буре."
         },
         {
           "id": "sent-007",
-          "text": "El doctor era alto, de tez oscura y ojos intensamente negros, y su sonrisa siempre tenía algo de desprecio.",
-          "translationRu": "Доктор был высок, смугл, с пронзительно чёрными глазами, а его улыбка всегда таила в себе нечто пренебрежительное."
+          "text": "Yo me encontraba junto a un célebre presidente de banco cuando las voces de los vendedores de periódicos llenaron las calles con los últimos extras; al leer la hoja, su semblante se ensombreció.",
+          "translationRu": "Я находился рядом со знаменитым президентом банка, когда крики газетчиков заполнили улицы очередными экстра-выпусками; прочтя листок, он помрачнел."
+        },
+        {
+          "id": "sent-008",
+          "text": "«Si el oro llega a ser tan común como el hierro, ¿qué patrón de valor nos quedará?», dijo él, y acto seguido cruzó la calle a toda prisa hacia el despacho de otro banquero.",
+          "translationRu": "«Если золото станет таким же дешёвым, как железо, какой мерой ценности мы будем располагать?» — сказал он и тотчас же быстрым шагом направился в контору другого банкира."
         }
       ]
     },
@@ -57,24 +62,24 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "Syx propuso sustituir el oro por un nuevo metal que llamó artemisio, cuyo único yacimiento conocido se hallaba en su propia mina del Gran Tetón.",
-          "translationRu": "Сикс предложил заменить золото новым металлом, который назвал артемизием, — единственное известное месторождение находилось в его собственной шахте у Гранд-Тетона."
-        },
-        {
           "id": "sent-009",
-          "text": "A cambio de protección militar y de un porcentaje sobre la circulación monetaria, se comprometió a abastecer a todas las naciones del mundo.",
-          "translationRu": "В обмен на военную защиту и процент с денежного оборота он обязался снабжать все нации мира."
+          "text": "Los presagios del banquero resultaron ser más que fundados: los envíos de metal precioso a Europa y América se volvieron tan enormes que el oro dejó de ser precioso.",
+          "translationRu": "Предчувствия банкира оказались более чем обоснованными: поставки драгоценного металла в Европу и Америку стали столь огромными, что золото перестало быть драгоценным."
         },
         {
           "id": "sent-010",
-          "text": "Los financieros visitaron la mina y quedaron convencidos al ver los lingotes apilados en las cámaras subterráneas, brillando como ópales gigantescos.",
-          "translationRu": "Финансисты посетили шахту и убедились, увидев слитки, сложенные в подземных камерах и сверкавшие подобно гигантским опалам."
+          "text": "Su precio cayó en picado y en menos de un año todos los centros monetarios del mundo habían sido arrasados por el pánico; los gobiernos se vieron obligados a desmonetizar el oro.",
+          "translationRu": "Цена его стремительно рухнула, и менее чем за год все денежные центры мира были охвачены паникой; правительствам пришлось отменить золотой стандарт."
         },
         {
           "id": "sent-011",
-          "text": "Syx se convirtió así en el dictador financiero de todo el planeta, aunque bajo la supervisión de las distintas naciones.",
-          "translationRu": "Сикс превратился в финансового диктатора всей планеты, хотя и под контролем различных государств."
+          "text": "Se intentó encontrar otro metal que ocupara su lugar: platino, uranio, galio… pero todos habían perdido también su rareza o carecían de propiedades adecuadas.",
+          "translationRu": "Пытались найти другой металл на замену: платину, уран, галлий… но все они либо утратили редкость, либо не обладали нужными свойствами."
+        },
+        {
+          "id": "sent-012",
+          "text": "El sistema monetario del mundo entero se desmoronó, el comercio exterior cesó prácticamente y la humanidad parecía haber retrocedido a la edad oscura del trueque.",
+          "translationRu": "Мировая денежная система рухнула, внешняя торговля почти прекратилась, и человечество, казалось, откатилось к тёмным векам натурального обмена."
         }
       ]
     },
@@ -82,14 +87,19 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "El artemisio conquistó el favor del público no sólo como moneda, sino también como material artístico: sus propiedades de translucencia y refracción permitían crear joyas de una belleza incomparable.",
-          "translationRu": "Артемизий завоевал народную любовь не только как монета, но и как художественный материал: его свойства прозрачности и преломления позволяли создавать украшения несравненной красоты."
+          "id": "sent-013",
+          "text": "Un gran congreso financiero se reunió en Nueva York con representantes de todas las naciones y los más brillantes economistas de Europa y América.",
+          "translationRu": "В Нью-Йорке собрался великий финансовый конгресс с представителями всех наций и блестящими экономистами Европы и Америки."
         },
         {
-          "id": "sent-013",
-          "text": "Sin embargo, Syx mantenía en secreto el proceso de extracción del metal y nadie conseguía imitarlo, a pesar de miles de intentos.",
-          "translationRu": "Однако Сикс хранил в тайне процесс извлечения металла, и никому не удавалось его воспроизвести, несмотря на тысячи попыток."
+          "id": "sent-014",
+          "text": "Pero, tras meses de arduo trabajo, el congreso no había avanzado nada hacia la solución del problema, y el mundo aguardaba su decisión con el aliento contenido.",
+          "translationRu": "Однако после нескольких месяцев напряжённой работы конгресс нисколько не продвинулся к решению проблемы, и мир ждал его вердикта, затаив дыхание."
+        },
+        {
+          "id": "sent-015",
+          "text": "En ese momento de parálisis total, un suceso del todo inesperado abrió de pronto el camino.",
+          "translationRu": "В этот момент полного паралича совершенно неожиданное событие вдруг открыло выход."
         }
       ]
     },
@@ -97,24 +107,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "El ingeniero Andrew Hall, convencido de que el doctor Syx era un impostor, excavó en secreto un túnel lateral hasta la galería principal del Gran Tetón.",
-          "translationRu": "Инженер Эндрю Холл, убеждённый, что доктор Сикс — самозванец, тайно прорыл боковой тоннель до главной галереи Гранд-Тетона."
-        },
-        {
-          "id": "sent-015",
-          "text": "A través de un pequeño orificio en la roca, Hall escuchó al propio doctor admitir ante su capataz que había arruinado a los mineros rivales a sabiendas.",
-          "translationRu": "Через небольшое отверстие в скале Холл услышал, как сам доктор признавался управляющему, что намеренно разорил конкурирующих горняков."
-        },
-        {
           "id": "sent-016",
-          "text": "Además, descubrió que el mineral que entraba en el horno regresaba intacto por un pasaje secreto: la mina era completamente falsa.",
-          "translationRu": "Кроме того, он обнаружил, что порода, входившая в печь, возвращалась нетронутой по тайному проходу: шахта была совершенной фальшивкой."
+          "text": "Un ujier entró en la sala y entregó al presidente Boon una tarjeta de visita de aspecto insólito: era de metal, y un rayo de sol que la rozó hizo que irrumpiera en exquisitos colores iridiscentes.",
+          "translationRu": "Служитель вошёл в зал и передал президенту Буну визитную карточку необычного вида: она была металлической, и скользнувший по ней солнечный луч вызвал взрыв изысканных переливающихся цветов."
         },
         {
           "id": "sent-017",
-          "text": "Si Syx no extraía el artemisio de la roca, ¿de qué fuente misteriosa lo obtenía?",
-          "translationRu": "Если Сикс не добывал артемизий из породы, из какого же таинственного источника он его получал?"
+          "text": "El efecto sobre los fríos financieros fue sorprendente: el metal desconocido ejerció sobre ellos una especie de influencia mesmérizada, y todos se agolparon en torno al presidente para contemplar la maravilla.",
+          "translationRu": "Эффект на холодных финансистов оказался поразительным: неизвестный металл оказал на них нечто вроде гипнотического воздействия, и все столпились вокруг президента, чтобы полюбоваться чудом."
+        },
+        {
+          "id": "sent-018",
+          "text": "«Debe de ser el metal», murmuró alguien con asombro, y todos repitieron las palabras al mismo tiempo.",
+          "translationRu": "«Должно быть, это тот самый металл», — прошептал кто-то в изумлении, и все повторили эти слова одновременно."
+        },
+        {
+          "id": "sent-019",
+          "text": "El nombre que figuraba en la tarjeta, en letras rojas de sorprendente nitidez, era: «DR. MAX SYX».",
+          "translationRu": "Имя, написанное на карточке алыми буквами поразительной чёткости, гласило: «Д-Р МАКС СИКС»."
         }
       ]
     },
@@ -122,19 +132,24 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "Hall y el narrador coronaron el Gran Tetón valiéndose de un ingenioso globo de hidrógeno y un gancho dorado para superar los precipicios más verticales.",
-          "translationRu": "Холл и рассказчик покорили Гранд-Тетон, воспользовавшись остроумно придуманным водородным шаром и золотым крюком, чтобы преодолеть отвесные скалы."
-        },
-        {
-          "id": "sent-019",
-          "text": "Desde aquella cumbre antes inviolada, Hall observó con su binocular una apertura circular en el techo de la fábrica de Syx y un inmenso espejo parabólico en su interior.",
-          "translationRu": "С этой прежде неприступной вершины Холл в бинокль разглядел круглое отверстие в крыше фабрики Сикса и огромное параболическое зеркало внутри."
-        },
-        {
           "id": "sent-020",
-          "text": "Hall también había notado que el motor sólo funcionaba cuando la luna estaba sobre el horizonte: el astro mismo era la clave.",
-          "translationRu": "Холл также заметил, что двигатель работал только тогда, когда луна находилась над горизонтом: само небесное тело и было ключом к тайне."
+          "text": "El doctor Syx entró en la sala: medía más de dos metros, tenía la tez muy oscura, ojos intensamente negros y su sonrisa era siempre una especie de mueca despectiva.",
+          "translationRu": "Доктор Сикс вошёл в зал: он был ростом более двух метров, очень смуглый, с пронзительно чёрными глазами, и его улыбка всегда была своеобразной презрительной ухмылкой."
+        },
+        {
+          "id": "sent-021",
+          "text": "Sin esperar a que le preguntaran, se dirigió al presidente Boon y anunció: «He venido a resolver su problema.»",
+          "translationRu": "Не дожидаясь вопросов, он обратился к президенту Буну и объявил: «Я пришёл решить вашу проблему»."
+        },
+        {
+          "id": "sent-022",
+          "text": "Syx ofreció al congreso un nuevo metal que había descubierto y que llamó artemisio, disponible en cantidades suficientes para reemplazar al oro como base del sistema monetario mundial.",
+          "translationRu": "Сикс предложил конгрессу новый металл, который он открыл и назвал артемизием, — в количествах, достаточных для замены золота в качестве основы мировой денежной системы."
+        },
+        {
+          "id": "sent-023",
+          "text": "Los financieros, de inmediato cautivados por la tarjeta y por la presencia imponente del doctor, se apoderaron del tono de sus palabras y casi todos creyeron que la propuesta era irresistible.",
+          "translationRu": "Финансисты, мгновенно покорённые карточкой и внушительным присутствием доктора, поддались тону его слов и почти единодушно решили, что предложение неотразимо."
         }
       ]
     },
@@ -142,64 +157,24 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "En su laboratorio de las Sierras de California, Hall reprodujo el método de Syx: transformó la energía de un motor en ondas etéricas que, concentradas por un espejo parabólico, alcanzaron la superficie lunar.",
-          "translationRu": "В своей лаборатории в горах Сьерра Холл воспроизвёл метод Сикса: преобразовал энергию двигателя в эфирные волны, которые, сосредоточенные параболическим зеркалом, достигли лунной поверхности."
-        },
-        {
-          "id": "sent-022",
-          "text": "El metal, arrancado de sus venas en el vacío del espacio, viajó en línea recta hasta la Tierra, condensándose en el receptor del laboratorio.",
-          "translationRu": "Металл, вырванный из своих жил в вакууме космоса, летел по прямой на Землю и конденсировался в лабораторном приёмнике."
-        },
-        {
-          "id": "sent-023",
-          "text": "Las misteriosas franjas blancas de la luna que tantos astrónomos habían contemplado con perplejidad no eran otra cosa que inmensas venas de artemisio.",
-          "translationRu": "Таинственные белые полосы на Луне, которые столь многие астрономы разглядывали в недоумении, были не чем иным, как огромными жилами артемизия."
-        },
-        {
           "id": "sent-024",
-          "text": "El experimento fue un éxito: las gotas de metal cayeron brillantes en el recipiente de arcilla, y Hall confirmó que había desvelado el mayor secreto del mundo.",
-          "translationRu": "Эксперимент увенчался успехом: капли металла блестяще упали в глиняную чашу, и Холл подтвердил, что раскрыл величайшую тайну мира."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
+          "text": "Syx exigía protección militar para su mina y una comisión del uno por ciento sobre el circulante, lo que lo convertiría en el hombre más rico que jamás hubiera existido.",
+          "translationRu": "Сикс требовал военной охраны для своей шахты и один процент с денежного оборота, что превратило бы его в богатейшего человека, когда-либо жившего на земле."
+        },
         {
           "id": "sent-025",
-          "text": "Obligado a compartir su monopolio con Hall, el doctor Syx fue humillado por primera vez en su vida; poco después, su fábrica estalló en una explosión devastadora que arrasó la ladera del Tetón.",
-          "translationRu": "Вынужденный делить монополию с Холлом, доктор Сикс впервые в жизни был унижён; вскоре его фабрика взорвалась опустошительным взрывом, снёсшим склон Тетона."
+          "text": "El presidente Boon expresó su inquietud: ¿qué pasaría si alguien descubría el secreto?",
+          "translationRu": "Президент Бун выразил своё беспокойство: что будет, если кто-то раскроет секрет?"
         },
         {
           "id": "sent-026",
-          "text": "Contra todo pronóstico, Syx sobrevivió y comenzó a viajar por el mundo difundiendo su secreto de ciudad en ciudad, como venganza silenciosa.",
-          "translationRu": "Вопреки всем ожиданиям, Сикс выжил и принялся путешествовать по миру, распространяя свой секрет от города к городу — как молчаливая месть."
+          "text": "Ante esta pregunta, la expresión de Syx se tornó aterradora: «¿Queréis alivio o no?», preguntó con voz seca y dura. «¿Qué podéis hacer? Sólo yo poseo el secreto que puede restaurar el comercio.»",
+          "translationRu": "При этом вопросе выражение лица Сикса стало пугающим: «Хотите вы облегчения или нет?» — спросил он сухим, жёстким голосом. «Что вы можете поделать? Только я владею секретом, способным восстановить торговлю»."
         },
         {
           "id": "sent-027",
-          "text": "Pronto surgieron miles de fábricas de artemisio en todo el planeta, la luna fue saqueada de su metal y el artemisio se depreció exactamente igual que el oro.",
-          "translationRu": "Вскоре по всей планете появились тысячи фабрик артемизия, Луна была разграблена ради своего металла, и артемизий обесценился в точности так же, как некогда золото."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-028",
-          "text": "Años después del cataclismo financiero, Hall relató al narrador su última y sobrecogedora visión del doctor Syx en la cima del Gran Tetón al caer la noche.",
-          "translationRu": "Годы спустя после финансовой катастрофы Холл поведал рассказчику о своём последнем и пугающем видении доктора Сикса на вершине Гранд-Тетона в наступавших сумерках."
-        },
-        {
-          "id": "sent-029",
-          "text": "La figura del doctor, que le había mirado con una sonrisa cruel, fue perdiendo contornos hasta disolverse en el cielo y confundirse con el disco de la luna llena que surgía en el horizonte.",
-          "translationRu": "Фигура доктора, глядевшего на него с жестокой усмешкой, постепенно теряла очертания, растворялась в небе и сливалась с диском полной луны, поднимавшейся над горизонтом."
-        },
-        {
-          "id": "sent-030",
-          "text": "«El metal de la luna» terminó con la imagen del rostro de Syx permanentemente impreso en el astro que él había expoliado, como un símbolo de su ambición y de su extraño triunfo final.",
-          "translationRu": "«Металл Луны» завершился образом лика Сикса, навеки запечатлённого на светиле, которое он ограбил, — символом его честолюбия и странной окончательной победы."
+          "text": "Transcurrida una hora de deliberación, los financieros aceptaron todos sus términos y decidieron enviar una comisión a visitar la mina en el Gran Tetón.",
+          "translationRu": "После часа совещания финансисты приняли все его условия и решили отправить комиссию для осмотра шахты у Гранд-Тетона."
         }
       ]
     }

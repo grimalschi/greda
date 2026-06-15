@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "El metal de la luna"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,18 +13,23 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "En el futuro, los hombres encontraron mucho oro cerca del polo sur.",
-          "translationRu": "В будущем люди нашли много золота близ Южного полюса."
+          "text": "Un día llegaron noticias increíbles: los exploradores encontraron oro cerca del polo sur.",
+          "translationRu": "Однажды пришли невероятные новости: исследователи нашли золото вблизи Южного полюса."
         },
         {
           "id": "sent-002",
-          "text": "El oro se volvió muy barato y el dinero perdió su valor.",
-          "translationRu": "Золото стало очень дешёвым, и деньги потеряли свою ценность."
+          "text": "Al principio, nadie creyó los informes porque parecían demasiado fantásticos.",
+          "translationRu": "Поначалу никто не верил сообщениям, потому что они казались слишком фантастическими."
         },
         {
           "id": "sent-003",
-          "text": "El mundo entró en una gran crisis económica.",
-          "translationRu": "Весь мир погрузился в великий экономический кризис."
+          "text": "Pero después de una semana llegaron más telegramas de lugares diferentes, y todos confirmaron la misma historia.",
+          "translationRu": "Но спустя неделю пришли новые телеграммы из разных мест, и все они подтвердили ту же историю."
+        },
+        {
+          "id": "sent-004",
+          "text": "Un periódico de Nueva York envió un barco rápido al Antártico y publicó un largo artículo sobre el descubrimiento.",
+          "translationRu": "Нью-йоркская газета отправила быстрое судно в Антарктику и опубликовала большую статью об открытии."
         }
       ]
     },
@@ -32,24 +37,19 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Los líderes financieros del mundo se reunieron en Nueva York para buscar una solución.",
-          "translationRu": "Финансовые лидеры мира собрались в Нью-Йорке, чтобы найти выход."
-        },
-        {
           "id": "sent-005",
-          "text": "Un día, un hombre muy alto y misterioso entró en la sala.",
-          "translationRu": "Однажды в зал вошёл очень высокий и загадочный человек."
+          "text": "En esos años, el oro era el único dinero del mundo entero.",
+          "translationRu": "В те годы золото было единственными деньгами во всём мире."
         },
         {
           "id": "sent-006",
-          "text": "Se llamaba el doctor Max Syx y tenía una tarjeta de visita de metal extraño.",
-          "translationRu": "Его звали доктор Макс Сикс, и у него была визитная карточка из странного металла."
+          "text": "Con el mismo dinero podías comprar cosas en Nueva York, en Londres y en Tokio.",
+          "translationRu": "На одни и те же деньги можно было покупать вещи в Нью-Йорке, Лондоне и Токио."
         },
         {
           "id": "sent-007",
-          "text": "El metal brillaba con colores hermosos como el arcoíris.",
-          "translationRu": "Металл переливался красивыми цветами, словно радуга."
+          "text": "El mundo era tranquilo y el comercio funcionaba bien.",
+          "translationRu": "Мир был спокойным, и торговля работала хорошо."
         }
       ]
     },
@@ -58,23 +58,23 @@
       "sentences": [
         {
           "id": "sent-008",
-          "text": "El doctor Syx dijo que tenía un metal nuevo llamado artemisio.",
-          "translationRu": "Доктор Сикс сказал, что у него есть новый металл — артемизий."
+          "text": "Yo estaba con un famoso presidente de banco cuando los periódicos llegaron con las noticias.",
+          "translationRu": "Я был вместе со знаменитым банкиром, когда газеты принесли эти новости."
         },
         {
           "id": "sent-009",
-          "text": "Su mina estaba en las Montañas Rocosas, en el Gran Tetón.",
-          "translationRu": "Его шахта находилась в Скалистых горах, у Гранд-Тетона."
+          "text": "El banquero leyó el periódico y su cara se puso muy seria.",
+          "translationRu": "Банкир прочитал газету, и его лицо стало очень серьёзным."
         },
         {
           "id": "sent-010",
-          "text": "Los financieros fueron a ver la mina y les gustó mucho el metal.",
-          "translationRu": "Финансисты поехали посмотреть шахту, и металл им очень понравился."
+          "text": "\"El oro va a ser tan común como el hierro\", dijo. \"¿Con qué vamos a medir el valor de las cosas?\"",
+          "translationRu": "«Золото станет таким же обычным, как железо», — сказал он. «Чем мы будем измерять ценность вещей?»"
         },
         {
           "id": "sent-011",
-          "text": "El mundo aceptó el artemisio como nuevo dinero.",
-          "translationRu": "Мир принял артемизий в качестве нового денежного металла."
+          "text": "Yo le pregunté si pensaba que las noticias eran malas, y él respondió: \"¡Es el diluvio!\"",
+          "translationRu": "Я спросил его, считает ли он эти новости плохими, и он ответил: «Это потоп!»"
         }
       ]
     },
@@ -83,18 +83,23 @@
       "sentences": [
         {
           "id": "sent-012",
-          "text": "La gente amó el artemisio porque era muy bonito.",
-          "translationRu": "Люди полюбили артемизий, потому что он был очень красив."
+          "text": "Las predicciones del banquero resultaron correctas.",
+          "translationRu": "Предсказания банкира оказались верными."
         },
         {
           "id": "sent-013",
-          "text": "El doctor Syx se hizo el hombre más rico del mundo.",
-          "translationRu": "Доктор Сикс стал богатейшим человеком в мире."
+          "text": "Los barcos trajeron tanto oro del polo sur que el metal ya no era valioso.",
+          "translationRu": "Корабли привезли так много золота с Южного полюса, что металл перестал быть ценным."
         },
         {
           "id": "sent-014",
-          "text": "Pero nadie sabía cómo él sacaba el metal de la roca.",
-          "translationRu": "Но никто не знía, как он извлекает металл из камня."
+          "text": "El precio del oro bajó muy rápido, y todos los países tuvieron una crisis económica terrible.",
+          "translationRu": "Цена золота упала очень быстро, и все страны столкнулись с ужасным экономическим кризисом."
+        },
+        {
+          "id": "sent-015",
+          "text": "Los gobiernos intentaron usar papel moneda, pero nadie lo aceptaba con confianza.",
+          "translationRu": "Правительства попытались использовать бумажные деньги, но никто не принимал их с доверием."
         }
       ]
     },
@@ -102,99 +107,24 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "Un ingeniero joven llamado Andrew Hall pensó que el doctor Syx mentía.",
-          "translationRu": "Молодой инженер по имени Эндрю Холл решил, что доктор Сикс лжёт."
-        },
-        {
           "id": "sent-016",
-          "text": "Hall construyó un túnel secreto hasta la mina de Syx.",
-          "translationRu": "Холл прорыл тайный тоннель к шахте Сикса."
+          "text": "Los mejores economistas del mundo se reunieron en Nueva York para buscar una solución.",
+          "translationRu": "Лучшие экономисты мира собрались в Нью-Йорке, чтобы найти решение."
         },
         {
           "id": "sent-017",
-          "text": "Vio que Syx no sacaba el metal de la roca, sino de otro lugar.",
-          "translationRu": "Он увидел, что Сикс добывает металл вовсе не из породы, а из другого источника."
-        }
-      ]
-    },
-    {
-      "id": "para-006",
-      "sentences": [
+          "text": "Trabajaron durante meses, pero no encontraron ninguna respuesta.",
+          "translationRu": "Они работали месяцами, но не нашли никакого ответа."
+        },
         {
           "id": "sent-018",
-          "text": "Hall subió al Gran Tetón con un globo pequeño y una cuerda.",
-          "translationRu": "Холл поднялся на Гранд-Тетон с маленьким воздушным шаром и верёвкой."
+          "text": "El mundo entero esperaba su decisión, pero la decisión no llegaba.",
+          "translationRu": "Весь мир ждал их решения, но решения не было."
         },
         {
           "id": "sent-019",
-          "text": "Desde arriba vio un agujero en el techo del edificio de Syx.",
-          "translationRu": "Сверху он увидел отверстие в крыше здания Сикса."
-        },
-        {
-          "id": "sent-020",
-          "text": "Después Hall fue a su laboratorio en California para hacer experimentos.",
-          "translationRu": "Затем Холл отправился в свою лабораторию в Калифорнии для экспериментов."
-        }
-      ]
-    },
-    {
-      "id": "para-007",
-      "sentences": [
-        {
-          "id": "sent-021",
-          "text": "Hall descubrió el gran secreto: el doctor Syx sacaba el metal de la luna.",
-          "translationRu": "Холл раскрыл великий секрет: доктор Сикс добывал металл с Луны."
-        },
-        {
-          "id": "sent-022",
-          "text": "Usaba un espejo enorme para enviar energía a la luna y traer el metal a la tierra.",
-          "translationRu": "Он использовал огромное зеркало, чтобы посылать энергию на Луну и притягивать металл на Землю."
-        },
-        {
-          "id": "sent-023",
-          "text": "Hall hizo lo mismo en su laboratorio y produjo artemisio de la luna.",
-          "translationRu": "Холл повторил то же самое в своей лаборатории и тоже получил артемизий с Луны."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-024",
-          "text": "El doctor Syx tuvo que compartir su monopolio con Hall.",
-          "translationRu": "Доктор Сикс был вынужден разделить свою монополию с Холлом."
-        },
-        {
-          "id": "sent-025",
-          "text": "Después, la fábrica de Syx explotó y el doctor desapareció.",
-          "translationRu": "Затем фабрика Сикса взорвалась, и доктор исчез."
-        },
-        {
-          "id": "sent-026",
-          "text": "Mucha gente aprendió el secreto y el artemisio se volvió barato otra vez.",
-          "translationRu": "Многие узнали секрет, и артемизий снова стал дешёвым."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-027",
-          "text": "Años después, Hall vio al doctor Syx en la cima del Gran Tetón.",
-          "translationRu": "Много лет спустя Холл увидел доктора Сикса на вершине Гранд-Тетона."
-        },
-        {
-          "id": "sent-028",
-          "text": "La figura del doctor desapareció en el cielo y se unió a la luna.",
-          "translationRu": "Фигура доктора растворилась в небе и слилась с луной."
-        },
-        {
-          "id": "sent-029",
-          "text": "Desde entonces, el narrador vio la cara del doctor Syx en la luna.",
-          "translationRu": "С тех пор рассказчик видел лицо доктора Сикса на луне."
+          "text": "En ese momento de crisis, ocurrió algo completamente inesperado.",
+          "translationRu": "В этот момент кризиса произошло нечто совершенно неожиданное."
         }
       ]
     }
