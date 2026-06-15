@@ -15,8 +15,8 @@
   "synopsisRu": "Капитан Хьюберт де Мазарен осуждён за убийство адвоката, везшего завещание, способное лишить его наследства. Леди Молли, тайно вышедшая за него замуж накануне ареста, поступает на службу в Скотленд-Ярд, чтобы доказать его невиновность.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }

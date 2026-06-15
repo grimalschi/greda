@@ -15,8 +15,8 @@
   "synopsisRu": "Леди Молли из Скотленд-Ярда расследует убийство индийской служанки в замке Фордуич: за преступлением скрываются поддельные документы о наследстве и смертельная тайна, которую жертва отказалась хранить. Сыщица раскрывает истинного убийцу там, где никто его не искал.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }
