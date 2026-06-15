@@ -15,8 +15,8 @@
   "synopsisRu": "Шантажист Уильям Кершоу исчезает после встречи с сибирским миллионером Сметхёрстом, которого арестовывают за убийство. Однако эксцентричный Старик в углу доказывает, что всё перевёрнуто с ног на голову: убийца — сам Кершоу, а жертва — Сметхёрст.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }

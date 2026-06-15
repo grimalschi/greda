@@ -15,8 +15,8 @@
   "synopsisRu": "Молодая журналистка Полли Бёртон слушает рассказ эксцентричного Старика в углу о загадочной гибели женщины в вагоне лондонского метро. Яд, кольцо с иглой и хладнокровный муж, умело скрывшийся за личиной подозреваемого приятеля — дело, которое полиция так и не раскрыла.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }
