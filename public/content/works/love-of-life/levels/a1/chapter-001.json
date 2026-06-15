@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "love-of-life",
+  "level": "a1",
+  "chapter": { "id": "chapter-001", "number": 1, "title": "Amor a la vida" },
+  "paragraphs": [
+    { "id": "para-001", "sentences": [
+      { "id": "sent-001", "text": "Dos hombres caminan por el norte.", "translationRu": "Два человека идут по северному краю." },
+      { "id": "sent-002", "text": "Están muy cansados y tienen mucha hambre.", "translationRu": "Они очень устали и очень хотят есть." },
+      { "id": "sent-003", "text": "Buscan un lugar con comida.", "translationRu": "Они ищут место с едой." },
+      { "id": "sent-004", "text": "Cruzan un arroyo. El agua es muy fría.", "translationRu": "Они переходят ручей. Вода очень холодная." },
+      { "id": "sent-005", "text": "Un hombre cae. Le duele el pie.", "translationRu": "Один человек падает. У него болит нога." },
+      { "id": "sent-006", "text": "Él llama a su amigo: «¡Bill!».", "translationRu": "Он зовёт своего друга: «Билл!»." },
+      { "id": "sent-007", "text": "Pero Bill no para. Bill se va.", "translationRu": "Но Билл не останавливается. Билл уходит." }
+    ] },
+    { "id": "para-002", "sentences": [
+      { "id": "sent-008", "text": "El hombre está solo ahora.", "translationRu": "Теперь человек один." },
+      { "id": "sent-009", "text": "Tiene muy poca comida.", "translationRu": "У него совсем мало еды." },
+      { "id": "sent-010", "text": "Le duele la pierna, pero camina.", "translationRu": "Нога болит, но он идёт." },
+      { "id": "sent-011", "text": "Come bayas del pantano. Son amargas.", "translationRu": "Он ест болотные ягоды. Они кислые." },
+      { "id": "sent-012", "text": "También come raíces y peces pequeños.", "translationRu": "Он ещё ест корни и маленьких рыбок." }
+    ] },
+    { "id": "para-003", "sentences": [
+      { "id": "sent-013", "text": "Pasan muchos días.", "translationRu": "Проходит много дней." },
+      { "id": "sent-014", "text": "El hombre tiene los pies muy mal.", "translationRu": "У человека очень плохо с ногами." },
+      { "id": "sent-015", "text": "Lleva una bolsa de oro.", "translationRu": "Он несёт мешочек с золотом." },
+      { "id": "sent-016", "text": "El oro es muy pesado.", "translationRu": "Золото очень тяжёлое." },
+      { "id": "sent-017", "text": "Al final tira el oro al suelo.", "translationRu": "В конце концов он бросает золото на землю." },
+      { "id": "sent-018", "text": "El oro no es importante aquí.", "translationRu": "Здесь золото не важно." }
+    ] },
+    { "id": "para-004", "sentences": [
+      { "id": "sent-019", "text": "Un día ve un oso grande.", "translationRu": "Однажды он видит большого медведя." },
+      { "id": "sent-020", "text": "El hombre no puede correr.", "translationRu": "Человек не может бежать." },
+      { "id": "sent-021", "text": "Se queda quieto.", "translationRu": "Он стоит тихо." },
+      { "id": "sent-022", "text": "El oso se va. El hombre vive.", "translationRu": "Медведь уходит. Человек жив." },
+      { "id": "sent-023", "text": "Pero hay lobos cerca. Los lobos esperan.", "translationRu": "Но рядом волки. Волки ждут." }
+    ] },
+    { "id": "para-005", "sentences": [
+      { "id": "sent-024", "text": "El hombre ve unos huesos en el suelo.", "translationRu": "Человек видит кости на земле." },
+      { "id": "sent-025", "text": "Son los huesos de Bill.", "translationRu": "Это кости Билла." },
+      { "id": "sent-026", "text": "Los lobos mataron a Bill.", "translationRu": "Волки убили Билла." },
+      { "id": "sent-027", "text": "Hay una bolsa de oro. El hombre no la toca.", "translationRu": "Рядом мешочек с золотом. Человек его не берёт." },
+      { "id": "sent-028", "text": "Sigue caminando.", "translationRu": "Он идёт дальше." }
+    ] },
+    { "id": "para-006", "sentences": [
+      { "id": "sent-029", "text": "Cerca del mar hay un lobo enfermo.", "translationRu": "У моря есть больной волк." },
+      { "id": "sent-030", "text": "El lobo sigue al hombre.", "translationRu": "Волк идёт за человеком." },
+      { "id": "sent-031", "text": "Los dos están muy débiles.", "translationRu": "Оба очень слабые." },
+      { "id": "sent-032", "text": "Los dos esperan. ¿Quién muere primero?", "translationRu": "Оба ждут. Кто умрёт первым?" }
+    ] },
+    { "id": "para-007", "sentences": [
+      { "id": "sent-033", "text": "El hombre se cae. El lobo se acerca.", "translationRu": "Человек падает. Волк подходит." },
+      { "id": "sent-034", "text": "El hombre usa sus últimas fuerzas.", "translationRu": "Человек использует последние силы." },
+      { "id": "sent-035", "text": "Agarra al lobo y le muerde el cuello.", "translationRu": "Он хватает волка и кусает его за горло." },
+      { "id": "sent-036", "text": "Bebe la sangre del lobo y vive.", "translationRu": "Он пьёт кровь волка и остаётся жить." }
+    ] },
+    { "id": "para-008", "sentences": [
+      { "id": "sent-037", "text": "Un barco está cerca de la costa.", "translationRu": "Рядом с берегом стоит корабль." },
+      { "id": "sent-038", "text": "Los hombres del barco ven algo en la playa.", "translationRu": "Люди с корабля видят что-то на берегу." },
+      { "id": "sent-039", "text": "Es el hombre. Se arrastra como un gusano.", "translationRu": "Это тот самый человек. Он ползёт, как червь." },
+      { "id": "sent-040", "text": "Lo llevan al barco. Está vivo.", "translationRu": "Его берут на корабль. Он жив." },
+      { "id": "sent-041", "text": "Come y descansa. Mejora poco a poco.", "translationRu": "Он ест и отдыхает. Постепенно ему лучше." },
+      { "id": "sent-042", "text": "Pero guarda pan debajo de su cama.", "translationRu": "Но он прячет хлеб под своей кроватью." },
+      { "id": "sent-043", "text": "Tiene miedo al hambre.", "translationRu": "Он боится голода." }
+    ] }
+  ]
+}

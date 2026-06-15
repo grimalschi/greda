@@ -16,8 +16,8 @@
   "synopsisRu": "Раненый и брошенный спутником золотоискатель ползёт через тундру, борясь за жизнь из последних сил. Рассказ Джека Лондона о воле к жизни.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -36,8 +36,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }

@@ -15,8 +15,8 @@
   "synopsisRu": "Леди Молли расследует убийство в лондонском кафе: мужчина отравлен морфием, а единственная свидетельница не может описать подозреваемую — та скрыла лицо под огромной шляпой. Разгадка кроется в одной острой детали, которую заметила только леди Молли.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }

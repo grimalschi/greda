@@ -15,8 +15,8 @@
   "synopsisRu": "Леди Молли из женского отдела Скотленд-Ярда расследует убийство в сонной деревушке Найнскор: тело найдено в пруду поместья, но личность жертвы оказывается совсем не той, что все думали. Раскрыть тайну помогает не сила улик, а блестящая психологическая интуиция.",
   "levels": {
     "a1": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     },
     "a2": {
       "available": true,
@@ -35,8 +35,8 @@
       "chapterCount": 1
     },
     "c2": {
-      "available": false,
-      "chapterCount": 0
+      "available": true,
+      "chapterCount": 1
     }
   }
 }
