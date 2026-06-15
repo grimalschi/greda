@@ -5,7 +5,7 @@
   "chapter": {
     "id": "chapter-001",
     "number": 1,
-    "title": "La chica verde"
+    "title": "Capítulo 1"
   },
   "paragraphs": [
     {
@@ -13,23 +13,18 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Melvin Dane era un joven soñador que vivía con el doctor Samuel Walden en una cabaña junto al mar, en la costa de Florida.",
-          "translationRu": "Мелвин Дейн был молодым мечтателем, который жил с доктором Сэмуэлем Уолденом в домике у моря на берегу Флориды."
+          "text": "El 4 de mayo de 1999, al mediodía, el sol desapareció del cielo de repente.",
+          "translationRu": "4 мая 1999 года в полдень солнце внезапно исчезло с неба."
         },
         {
           "id": "sent-002",
-          "text": "Sam tenía setenta años, pero seguía siendo fuerte y brillante como científico.",
-          "translationRu": "Сэму было семьдесят лет, но он по-прежнему оставался сильным и блестящим учёным."
+          "text": "La mañana había comenzado clara y brillante, pero una niebla extraña cubrió el cielo y en cinco minutos todo se volvió de un rojo profundo y aterrador.",
+          "translationRu": "Утро началось ясным и ярким, но странный туман покрыл небо, и за пять минут всё окрасилось в глубокий пугающий красный цвет."
         },
         {
           "id": "sent-003",
-          "text": "Desde pequeño, Melvin escuchaba una radio antigua y en esas noches tranquilas soñaba con una chica misteriosa.",
-          "translationRu": "С детства Мелвин слушал старое радио, и в эти тихие ночи ему снилась таинственная девушка."
-        },
-        {
-          "id": "sent-004",
-          "text": "Ella tenía piel de un suave tono verde, ojos violetas y labios muy rojos, y Melvin la llamaba la Chica Verde.",
-          "translationRu": "У неё была кожа мягкого зеленоватого оттенка, фиолетовые глаза и очень красные губы, и Мелвин называл её Зелёной девушкой."
+          "text": "Era como si alguien hubiera derramado sangre sobre los cielos: un presagio terrible para la Tierra.",
+          "translationRu": "Казалось, будто кто-то пролил кровь по небосводу — ужасное предзнаменование для Земли."
         }
       ]
     },
@@ -37,24 +32,19 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-004",
+          "text": "Yo me llamaba Melvin Dane y aquella mañana paseaba tranquilamente por la playa de Florida.",
+          "translationRu": "Меня звали Мелвин Дейн, и тем утром я спокойно прогуливался по пляжу Флориды."
+        },
+        {
           "id": "sent-005",
-          "text": "El cuatro de mayo de 1999, el cielo se volvió escarlata a mediodía y después todo quedó en tinieblas.",
-          "translationRu": "Четвёртого мая 1999 года небо в полдень стало алым, а потом всё погрузилось во тьму."
+          "text": "Escuchaba el rumor de las olas, sentía el olor del mar y disfrutaba de la paz de aquel rincón de naturaleza.",
+          "translationRu": "Я слушал шум волн, чувствовал запах моря и наслаждался покоем этого уголка природы."
         },
         {
           "id": "sent-006",
-          "text": "Un frío terrible cayó sobre la Tierra y las comunicaciones pararon.",
-          "translationRu": "Страшный холод обрушился на Землю, и все средства связи прекратили работу."
-        },
-        {
-          "id": "sent-007",
-          "text": "Sam explicó que una fuerza desconocida bloqueaba la radiación solar para congelar el planeta.",
-          "translationRu": "Сэм объяснил, что неизвестная сила блокирует солнечное излучение, чтобы заморозить планету."
-        },
-        {
-          "id": "sent-008",
-          "text": "Trabajó toda la noche con su máquina secreta y cuando salió el sol de nuevo, Melvin lo encontró dormido con una sonrisa en la cara.",
-          "translationRu": "Он работал всю ночь со своей тайной машиной, и когда солнце снова взошло, Мелвин нашёл его спящим с улыбкой на лице."
+          "text": "Tenía menos de treinta años, pero aquella mañana no sentía la energía de la juventud; me sentía en paz con el mundo.",
+          "translationRu": "Мне было меньше тридцати лет, но тем утром я не ощущал юношеской энергии; я был в мире с миром."
         }
       ]
     },
@@ -62,19 +52,19 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-007",
+          "text": "Cuando volví hacia la cabaña, encontré al Doctor Samuel Walden sentado en el pequeño porche, mirando el horizonte con expresión de dolor.",
+          "translationRu": "Когда я вернулся к домику, то нашёл доктора Сэмюэла Уолдена, сидевшего на небольшой веранде и смотревшего на горизонт с выражением боли."
+        },
+        {
+          "id": "sent-008",
+          "text": "Sam era el único amigo verdadero que yo tenía; tenía setenta años, cabello blanco y un rostro delgado lleno de energía y determinación.",
+          "translationRu": "Сэм был единственным настоящим другом, который у меня был; ему было семьдесят лет, белые волосы и худое лицо, полное энергии и решимости."
+        },
+        {
           "id": "sent-009",
-          "text": "Sam averiguó que la amenaza venía de una zona muy profunda del Pacífico llamada la Fosa Mangar, a diez millas bajo el agua.",
-          "translationRu": "Сэм выяснил, что угроза исходила из очень глубокой части Тихого океана, называемой Впадиной Мангар, на глубине десяти миль."
-        },
-        {
-          "id": "sent-010",
-          "text": "Para llegar allí, los dos construyeron el Omnimóvil, una máquina que podía moverse por tierra, agua y aire.",
-          "translationRu": "Чтобы добраться туда, они вдвоём построили Омнимобиль — машину, которая могía двигаться по суше, воде и воздуху."
-        },
-        {
-          "id": "sent-011",
-          "text": "Cuando estaban listos, navegaron hacia el sur por el océano, bucearon en la oscuridad y cayeron en un mundo secreto bajo el Pacífico.",
-          "translationRu": "Когда они были готовы, они поплыли на юг по океану, погрузились во мрак и упали в тайный мир под Тихим океаном."
+          "text": "En su juventud había inventado el motor hidrodino, pero en los últimos veinte años vivía tranquilamente con sus plantas, animales y su pipa.",
+          "translationRu": "В молодости он изобрёл гидродинный двигатель, но последние двадцать лет жил тихо со своими растениями, животными и трубкой."
         }
       ]
     },
@@ -82,24 +72,19 @@
       "id": "para-004",
       "sentences": [
         {
+          "id": "sent-010",
+          "text": "Cuando le pregunté qué significaba aquel cielo rojo, Sam me confesó que sabía desde hacía años que algo así estaba llegando.",
+          "translationRu": "Когда я спросил его, что означает это красное небо, Сэм признался, что уже несколько лет знал, что нечто подобное надвигается."
+        },
+        {
+          "id": "sent-011",
+          "text": "\"No sé exactamente qué es esa fuerza\", dijo en voz baja, \"pero significa el fin de la Tierra si no actuamos.\"",
+          "translationRu": "«Я не знаю точно, что это за сила», — сказал он тихо, — «но это означает конец Земли, если мы не действуем»."
+        },
+        {
           "id": "sent-012",
-          "text": "Ese mundo interior tenía un techo de agua, un cielo rojo de gas radiactivo y tierras con plantas gigantes de color violeta.",
-          "translationRu": "Этот внутренний мир имел свод из воды, красное небо из радиоактивного газа и земли с гигантскими фиолетовыми растениями."
-        },
-        {
-          "id": "sent-013",
-          "text": "Las criaturas más peligrosas eran los Lunaks, plantas voladoras enormes con alas verdes y tentáculos rojos.",
-          "translationRu": "Самыми опасными существами были Лунаки — огромные летающие растения с зелёными крыльями и красными щупальцами."
-        },
-        {
-          "id": "sent-014",
-          "text": "Un día Melvin vio que un Lunak llevaba a una persona entre sus tentáculos y disparó para salvarla.",
-          "translationRu": "Однажды Мелвин увидел, что Лунак несёт человека в своих щупальцах, и выстрелил, чтобы спасти его."
-        },
-        {
-          "id": "sent-015",
-          "text": "Cuando llegaron a la criatura muerta, descubrieron que era una joven de piel verde y ojos violetas.",
-          "translationRu": "Когда они добрались до мёртвого существа, то обнаружили, что это была молодая девушка с зелёной кожей и фиолетовыми глазами."
+          "text": "Me quedé sin palabras: ¿cómo había podido guardar un secreto tan terrible durante tantos años?",
+          "translationRu": "Я лишился дара речи: как он мог хранить такой страшный секрет столько лет?"
         }
       ]
     },
@@ -107,19 +92,24 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-013",
+          "text": "Sam me explicó que durante quince años había trabajado en secreto en su pequeño laboratorio para estudiar aquella fuerza misteriosa.",
+          "translationRu": "Сэм объяснил мне, что пятнадцать лет тайно работал в своей маленькой лаборатории, изучая эту таинственную силу."
+        },
+        {
+          "id": "sent-014",
+          "text": "Algo estaba actuando sobre el éter para bloquear la luz del sol y enfriar la Tierra hasta temperaturas absolutamente letales.",
+          "translationRu": "Что-то воздействовало на эфир, чтобы блокировать солнечный свет и охладить Землю до абсолютно смертоносных температур."
+        },
+        {
+          "id": "sent-015",
+          "text": "Había construido una máquina capaz de interferir con esa fuerza, aunque solo durante unos pocos días.",
+          "translationRu": "Он построил машину, способную создавать помехи этой силе, хотя лишь на несколько дней."
+        },
+        {
           "id": "sent-016",
-          "text": "Era la Chica Verde de sus sueños: la princesa Xenora, última heredera del reino perdido de Lothar.",
-          "translationRu": "Это была Зелёная девушка из его снов: принцесса Ксенора, последняя наследница потерянного королевства Лотар."
-        },
-        {
-          "id": "sent-017",
-          "text": "Cuando Xenora despertó, pronunció el nombre de Melvin porque también lo había visto en sueños desde niña.",
-          "translationRu": "Когда Ксенора проснулась, она произнесла имя Мелвина, потому что тоже видела его во снах с детства."
-        },
-        {
-          "id": "sent-018",
-          "text": "Les contó que su pueblo vivía bajo el terror del Señor de la Llama, una inteligencia de metal que esclavizaba a todos.",
-          "translationRu": "Она рассказала им, что её народ жил в страхе перед Властелином Пламени — металлическим разумом, который порабощал всех."
+          "text": "\"La fuerza que nos ataca es increíblemente poderosa\", admitió, \"pero hay una pequeña posibilidad de salvar la Tierra.\"",
+          "translationRu": "«Сила, которая нас атакует, невероятно мощная», — признал он, — «но есть небольшой шанс спасти Землю»."
         }
       ]
     },
@@ -127,19 +117,24 @@
       "id": "para-006",
       "sentences": [
         {
+          "id": "sent-017",
+          "text": "Mientras hablábamos, Sam también mencionó la Chica Verde, la misteriosa compañera de mis sueños desde la infancia.",
+          "translationRu": "Пока мы разговаривали, Сэм также упомянул Зелёную Девушку — таинственную спутницу моих снов с детства."
+        },
+        {
+          "id": "sent-018",
+          "text": "Desde pequeño yo soñaba con una joven de piel ligeramente verde, ojos violetas profundos y labios muy rojos.",
+          "translationRu": "С детства мне снилась молодая девушка с чуть зеленоватой кожей, глубокими фиолетовыми глазами и очень красными губами."
+        },
+        {
           "id": "sent-019",
-          "text": "Sam demostró que el Señor de la Llama era un enorme cilindro de metal vivo con luz violeta, capaz de controlar las mentes.",
-          "translationRu": "Сэм доказал, что Властелин Пламени был огромным живым металлическим цилиндром с фиолетовым светом, способным управлять умами."
+          "text": "Todo empezó con una radio antigua que Sam instaló para mí: en una noche tranquila de Florida escuché su voz por primera vez en el éter.",
+          "translationRu": "Всё началось со старого радио, которое Сэм установил для меня: в тихую ночь во Флориде я впервые услышал её голос в эфире."
         },
         {
           "id": "sent-020",
-          "text": "Los tres vivieron un tiempo feliz mientras Sam preparaba su plan y estudiaba la inteligencia del metal.",
-          "translationRu": "Все трое провели счастливое время, пока Сэм разрабатывал свой план и изучал металлический разум."
-        },
-        {
-          "id": "sent-021",
-          "text": "Pero un día, cuando Melvin y Xenora paseaban, Sam desapareció en el bosque y no regresó.",
-          "translationRu": "Но однажды, когда Мелвин и Ксенора гуляли, Сэм исчез в лесу и не вернулся."
+          "text": "Con los años aprendí a hablar su idioma extraño y ella se convirtió en mi compañera más constante, aunque viviera solo en sueños.",
+          "translationRu": "Со временем я научился говорить на её странном языке, и она стала моей самой постоянной спутницей, хотя жила лишь в снах."
         }
       ]
     },
@@ -147,74 +142,29 @@
       "id": "para-007",
       "sentences": [
         {
+          "id": "sent-021",
+          "text": "Esa misma tarde el cielo pasó del rojo al negro absoluto: la oscuridad era total y aterradora a plena luz del día.",
+          "translationRu": "В тот же вечер небо перешло от красного к абсолютной черноте: тьма была полной и устрашающей среди бела дня."
+        },
+        {
           "id": "sent-022",
-          "text": "Melvin llevó el Omnimóvil hasta el borde de la fosa de Xath y se lanzó solo al cráter donde vivía el Señor de la Llama.",
-          "translationRu": "Мелвин подвёл Омнимобиль к краю пропасти Ксат и один бросился в кратер, где жил Властелин Пламени."
+          "text": "Sin luz solar el frío llegó rápidamente, empezó a nevar y un viento helado barría la costa.",
+          "translationRu": "Без солнечного света холод наступил быстро, начался снегопад, и ледяной ветер заметал побережье."
         },
         {
           "id": "sent-023",
-          "text": "La máquina cayó en un hoyo y Melvin perdió el casco protector que lo guardaba de la hipnosis.",
-          "translationRu": "Машина упала в яму, и Мелвин потерял защитный шлем, который охранял его от гипноза."
+          "text": "Sam encendió su máquina y trabajó sin descanso durante treinta horas para luchar contra la fuerza desconocida.",
+          "translationRu": "Сэм включил свою машину и работал без отдыха тридцать часов, чтобы противостоять неизвестной силе."
         },
         {
           "id": "sent-024",
-          "text": "El Señor de la Llama tomó control de su cuerpo y lo obligó a caminar hacia el cilindro de metal.",
-          "translationRu": "Властелин Пламени захватил его тело и заставил идти к металлическому цилиндру."
+          "text": "Al final, el cielo estalló en luces de colores asombrosas y el sol volvió a brillar: Sam había ganado la primera batalla.",
+          "translationRu": "В конце концов небо взорвалось удивительными разноцветными огнями, и солнце снова засияло: Сэм выиграл первое сражение."
         },
         {
           "id": "sent-025",
-          "text": "Xenora viajó tres días a pie para llegar al cráter y le devolvió el casco a Melvin, pero entonces el Señor de la Llama la capturó a ella.",
-          "translationRu": "Ксенора шла три дня пешком, чтобы добраться до кратера, и вернула Мелвину шлем, но тогда Властелин Пламени захватил её саму."
-        }
-      ]
-    },
-    {
-      "id": "para-008",
-      "sentences": [
-        {
-          "id": "sent-026",
-          "text": "Solo y desesperado, Melvin fabricó nitro­glicerina durante meses y preparó una mina en la pared de roca que separaba el lago del cráter.",
-          "translationRu": "Один и в отчаянии, Мелвин месяцами производил нитроглицерин и заложил мину в каменной стене, отделявшей озеро от кратера."
-        },
-        {
-          "id": "sent-027",
-          "text": "Cuando estaba a punto de explotar la mina, Sam apareció montado en Alexander, el Lunak que había criado.",
-          "translationRu": "Когда он был готов взорвать мину, появился Сэм верхом на Александре — Лунаке, которого он вырастил."
-        },
-        {
-          "id": "sent-028",
-          "text": "Sam había entrenado a miles de Lunaks y formó un gran ejército volador que atacó los barcos de plata del Señor de la Llama.",
-          "translationRu": "Сэм обучил тысячи Лунаков и создал большую летающую армию, которая атаковала серебряные корабли Властелина Пламени."
-        },
-        {
-          "id": "sent-029",
-          "text": "Alexander arrancó el prisma de metal de la espalda de Xenora y ella quedó libre.",
-          "translationRu": "Александр вырвал металлическую призму со спины Ксеноры, и она освободилась."
-        }
-      ]
-    },
-    {
-      "id": "para-009",
-      "sentences": [
-        {
-          "id": "sent-030",
-          "text": "La mina explotó y el agua del lago inundó el cráter, destruyendo el Señor de la Llama para siempre.",
-          "translationRu": "Мина взорвалась, и вода озера затопила кратер, навсегда уничтожив Властелина Пламени."
-        },
-        {
-          "id": "sent-031",
-          "text": "El Omnimóvil, con Sam, Melvin y Xenora a bordo, usó sus cohetes para subir a través del agua y salir al océano Pacífico.",
-          "translationRu": "Омнимобиль с Сэмом, Мелвином и Ксенорой на борту использовал ракеты, чтобы подняться сквозь воду и выйти в Тихий океан."
-        },
-        {
-          "id": "sent-032",
-          "text": "La amenaza contra la Tierra había terminado y el sol volvió a brillar en paz.",
-          "translationRu": "Угроза Земле миновала, и солнце снова засияло в мире."
-        },
-        {
-          "id": "sent-033",
-          "text": "Melvin llegó a Florida con la Chica Verde a su lado, y comprendió que su sueño de toda la vida se había hecho realidad.",
-          "translationRu": "Мелвин прибыл во Флориду с Зелёной девушкой рядом и понял, что мечта всей его жизни сбылась."
+          "text": "Lo encontré dormido en su silla, con una pequeña sonrisa en el rostro agotado.",
+          "translationRu": "Я нашёл его спящим в кресле, с маленькой улыбкой на усталом лице."
         }
       ]
     }
