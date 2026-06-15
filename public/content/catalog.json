@@ -1535,6 +1535,30 @@
       ]
     },
     {
+      "id": "occ-the-regents-park-murder",
+      "title": "El asesinato del Regent's Park",
+      "titleRu": "Убийство в Риджентс-парке",
+      "originalTitle": "The Regent's Park Murder",
+      "authorId": "baroness-orczy",
+      "authorName": "Baroness Orczy",
+      "genres": [
+        "Детектив",
+        "Старик в углу"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "occ-the-de-genneville-peerage",
       "title": "El caso del título de De Genneville",
       "titleRu": "Дело о пэрстве Де Женневиль",
@@ -1727,6 +1751,30 @@
       ]
     },
     {
+      "id": "occ-the-york-mystery",
+      "title": "El misterio de York",
+      "titleRu": "Йоркская тайна",
+      "originalTitle": "The York Mystery",
+      "authorId": "baroness-orczy",
+      "authorName": "Baroness Orczy",
+      "genres": [
+        "Детектив",
+        "Старик в углу"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
       "id": "lady-molly-the-fordwych-castle-mystery",
       "title": "El misterio del castillo de Fordwych",
       "titleRu": "Тайна замка Фордуич",
@@ -1736,6 +1784,54 @@
       "genres": [
         "Детектив",
         "Леди Молли"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "occ-the-robbery-in-phillimore-terrace",
+      "title": "El robo en Phillimore Terrace",
+      "titleRu": "Ограбление на Филлимор Террас",
+      "originalTitle": "The Robbery in Phillimore Terrace",
+      "authorId": "baroness-orczy",
+      "authorName": "Baroness Orczy",
+      "genres": [
+        "Детектив",
+        "Старик в углу"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "occ-the-theft-at-the-english-provident-bank",
+      "title": "El robo en el Banco English Provident",
+      "titleRu": "Кража в банке English Provident",
+      "originalTitle": "The Theft at the English Provident Bank",
+      "authorId": "baroness-orczy",
+      "authorName": "Baroness Orczy",
+      "genres": [
+        "Детектив",
+        "Старик в углу"
       ],
       "levels": [
         "a2",
@@ -1803,6 +1899,30 @@
       "title": "La misteriosa muerte en Percy Street",
       "titleRu": "Таинственная смерть на Перси-стрит",
       "originalTitle": "The Mysterious Death in Percy Street",
+      "authorId": "baroness-orczy",
+      "authorName": "Baroness Orczy",
+      "genres": [
+        "Детектив",
+        "Старик в углу"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "occ-the-mysterious-death-on-the-underground-railway",
+      "title": "La muerte misteriosa en el metro",
+      "titleRu": "Таинственная смерть в метро",
+      "originalTitle": "The Mysterious Death on the Underground Railway",
       "authorId": "baroness-orczy",
       "authorName": "Baroness Orczy",
       "genres": [
@@ -3550,6 +3670,126 @@
       "authorName": "Jack Williamson",
       "genres": [
         "Фантастика"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-flaming-phantom",
+      "title": "El fantasma en llamas",
+      "titleRu": "Пламенный призрак",
+      "originalTitle": "The Flaming Phantom",
+      "authorId": "jacques-futrelle",
+      "authorName": "Jacques Futrelle",
+      "genres": [
+        "Детектив",
+        "Думающая машина"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-great-auto-mystery",
+      "title": "El gran misterio del automóvil",
+      "titleRu": "Великая автомобильная тайна",
+      "originalTitle": "The Great Auto Mystery",
+      "authorId": "jacques-futrelle",
+      "authorName": "Jacques Futrelle",
+      "genres": [
+        "Детектив",
+        "Думающая машина"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-man-who-was-lost",
+      "title": "El hombre que se perdió a sí mismo",
+      "titleRu": "Человек, который потерял себя",
+      "originalTitle": "The Man Who Was Lost",
+      "authorId": "jacques-futrelle",
+      "authorName": "Jacques Futrelle",
+      "genres": [
+        "Детектив",
+        "Думающая машина"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-mystery-of-a-studio",
+      "title": "El misterio del estudio",
+      "titleRu": "Тайна студии",
+      "originalTitle": "The Mystery of a Studio",
+      "authorId": "jacques-futrelle",
+      "authorName": "Jacques Futrelle",
+      "genres": [
+        "Детектив",
+        "Думающая машина"
+      ],
+      "levels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ]
+    },
+    {
+      "id": "the-problem-of-cell-13",
+      "title": "El problema de la celda 13",
+      "titleRu": "Задача камеры №13",
+      "originalTitle": "The Problem of Cell 13",
+      "authorId": "jacques-futrelle",
+      "authorName": "Jacques Futrelle",
+      "genres": [
+        "Детектив",
+        "Думающая машина"
       ],
       "levels": [
         "a2",

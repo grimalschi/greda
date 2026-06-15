@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-great-auto-mystery",
+  "title": "El gran misterio del automóvil",
+  "titleRu": "Великая автомобильная тайна",
+  "originalTitle": "The Great Auto Mystery",
+  "author": {
+    "id": "jacques-futrelle",
+    "name": "Jacques Futrelle"
+  },
+  "genres": [
+    "Детектив",
+    "Думающая машина"
+  ],
+  "synopsisRu": "Знаменитая актриса Маргерит Мелроуз найдена мёртвой в ночном автомобиле — нож в сердце, лицо скрыто маской. Профессор Ван Дюзен, «Думающая машина», берётся за дело и обнаруживает, что убитая — совсем не та, кем её считают.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
