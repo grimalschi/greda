@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "id": "mesmeric-revelation",
+  "title": "La revelación mesmérista",
+  "titleRu": "Месмерическое откровение",
+  "originalTitle": "Mesmeric Revelation",
+  "author": {
+    "id": "edgar-allan-poe",
+    "name": "Edgar Allan Poe"
+  },
+  "genres": [
+    "Фантастика"
+  ],
+  "synopsisRu": "Умирающий Ванкирк просит загипнотизировать его, чтобы во сне раскрыть тайны Бога, материи и бессмертия души. Его откровения о природе divine материи и загробной жизни обрываются в момент смерти — оставляя рассказчика с вопросом: не говорил ли он уже из мира иного?",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}

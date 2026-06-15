@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-unparalleled-adventure-of-one-hans-pfaall",
+  "title": "La extraordinaria aventura de Hans Pfaall",
+  "titleRu": "Несравненное приключение Ганса Пфааля",
+  "originalTitle": "The Unparalleled Adventure of One Hans Pfaall",
+  "author": {
+    "id": "edgar-allan-poe",
+    "name": "Edgar Allan Poe"
+  },
+  "genres": [
+    "Фантастика"
+  ],
+  "synopsisRu": "Бедный мастер по ремонту мехов из Роттердама строит воздушный шар и совершает девятнадцатидневное путешествие на Луну, преодолевая смертельные опасности и чудовищное давление разреженной атмосферы. Прожив пять лет среди безмолвных лунных жителей, он посылает письмо с просьбой о помиловании — и эта история навсегда остаётся между правдой и мистификацией.",
+  "levels": {
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    }
+  }
+}
