@@ -40,6 +40,7 @@
         "a1": { "$ref": "#/definitions/levelInfo" },
         "a2": { "$ref": "#/definitions/levelInfo" },
         "b1": { "$ref": "#/definitions/levelInfo" },
+        "b1v2": { "$ref": "#/definitions/levelInfo" },
         "b2": { "$ref": "#/definitions/levelInfo" },
         "c1": { "$ref": "#/definitions/levelInfo" },
         "c2": { "$ref": "#/definitions/levelInfo" }

@@ -43,9 +43,12 @@ for (const id of readdirSync(WORKS)) {
   const raw = readFileSync(wp, 'utf8')
   const w = JSON.parse(raw)
 
+  // Базовые уровни + любые доп. уровни, реально присутствующие в work.json (напр. b1v2).
+  const levelKeys = [...LEVELS, ...Object.keys(w.levels || {}).filter((l) => !LEVELS.includes(l))]
+
   // Нормализация строго под schemas/work.schema.json (срезаем лишние поля агентов).
   const levels = {}
-  for (const l of LEVELS) {
+  for (const l of levelKeys) {
     const li = w.levels?.[l] || {}
     const available = !!li.available
     levels[l] = {
@@ -70,7 +73,7 @@ for (const id of readdirSync(WORKS)) {
     normalized++
   }
 
-  const availableLevels = LEVELS.filter((l) => norm.levels[l].available)
+  const availableLevels = levelKeys.filter((l) => norm.levels[l].available)
   const words = {}
   for (const l of availableLevels) words[l] = levelWordCount(norm.id, l)
   const chapters = availableLevels.length
@@ -85,7 +88,7 @@ for (const id of readdirSync(WORKS)) {
     authorId: norm.author.id,
     authorName: norm.author.name,
     genres: norm.genres,
-    levels: LEVELS.filter((l) => norm.levels[l]),
+    levels: levelKeys.filter((l) => norm.levels[l]),
     availableLevels,
     chapters,
     words,

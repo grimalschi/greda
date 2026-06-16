@@ -5,11 +5,11 @@ import { ErrorView, Loading } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
 import { fetchChapter, fetchManifest, fetchWork } from '../lib/content'
 import { useAppState, useThrottledCallback } from '../state/store'
-import { LEVEL_LABELS, LEVELS } from '../types'
+import { LEVEL_LABELS } from '../types'
 import type { Level, LevelManifest } from '../types'
 
 function isLevel(value: string): value is Level {
-  return (LEVELS as string[]).includes(value)
+  return value in LEVEL_LABELS
 }
 
 function scrollMetrics() {

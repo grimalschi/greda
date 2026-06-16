@@ -1,13 +1,18 @@
 // Доменные типы контента. Соответствуют JSON-схемам в /schemas и файлам в /public/content.
 
-export type Level = 'a1' | 'a2' | 'b1' | 'b2' | 'c1' | 'c2'
+export type Level = 'a1' | 'a2' | 'b1' | 'b1v2' | 'b2' | 'c1' | 'c2'
 
+/** Базовые 6 уровней — всегда показываются в выборе уровня. */
 export const LEVELS: Level[] = ['a1', 'a2', 'b1', 'b2', 'c1', 'c2']
+
+/** Полный порядок, включая b1v2 (подробная B1-адаптация: язык проще, но содержание полнее). */
+export const LEVEL_ORDER: Level[] = ['a1', 'a2', 'b1', 'b1v2', 'b2', 'c1', 'c2']
 
 export const LEVEL_LABELS: Record<Level, string> = {
   a1: 'A1',
   a2: 'A2',
   b1: 'B1',
+  b1v2: 'B1 v2',
   b2: 'B2',
   c1: 'C1',
   c2: 'C2',

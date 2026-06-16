@@ -11,7 +11,7 @@ import addFormats from 'ajv-formats'
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const SCHEMAS = resolve(ROOT, 'schemas')
 const CONTENT = resolve(ROOT, 'public', 'content')
-const LEVELS = ['a1', 'a2', 'b1', 'b2', 'c1', 'c2']
+const LEVELS = ['a1', 'a2', 'b1', 'b1v2', 'b2', 'c1', 'c2']
 
 const errors = []
 const error = (where, msg) => errors.push(`${where}: ${msg}`)

@@ -5,7 +5,7 @@ import { ErrorView, Loading } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
 import { fetchManifest, fetchWork } from '../lib/content'
 import { useAppState } from '../state/store'
-import { LEVELS, LEVEL_LABELS } from '../types'
+import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
 import type { Level } from '../types'
 
 function ChapterList({ workId, level }: { workId: string; level: Level }) {
@@ -87,7 +87,7 @@ export function WorkPage() {
             <section className="block">
               <h2 className="section-title">Уровень</h2>
               <div className="filter" role="group" aria-label="Выбор уровня">
-                {LEVELS.map((l) => {
+                {LEVEL_ORDER.filter((l) => LEVELS.includes(l) || work.levels[l]?.available).map((l) => {
                   const available = work.levels[l]?.available
                   return (
                     <button
