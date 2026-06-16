@@ -8474,6 +8474,40 @@
       }
     },
     {
+      "id": "gullivers-travels",
+      "title": "Los viajes de Gulliver",
+      "titleRu": "Путешествия Гулливера",
+      "originalTitle": "Gulliver's Travels",
+      "authorId": "jonathan-swift",
+      "authorName": "Jonathan Swift",
+      "genres": [
+        "Сатира",
+        "Приключения",
+        "Фантастика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 831,
+        "b1": 1200,
+        "b2": 1808,
+        "c1": 2732
+      }
+    },
+    {
       "id": "heart-of-darkness",
       "title": "El corazón de las tinieblas",
       "titleRu": "Сердце тьмы",
@@ -8780,6 +8814,39 @@
       }
     },
     {
+      "id": "the-circular-staircase",
+      "title": "La escalera de caracol",
+      "titleRu": "Винтовая лестница",
+      "originalTitle": "The Circular Staircase",
+      "authorId": "mary-roberts-rinehart",
+      "authorName": "Mary Roberts Rinehart",
+      "genres": [
+        "Детектив",
+        "Загадка"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 547,
+        "b1": 968,
+        "b2": 1760,
+        "c1": 2822
+      }
+    },
+    {
       "id": "frankenstein",
       "title": "Frankenstein",
       "titleRu": "Франкенштейн",
@@ -9048,6 +9115,40 @@
         "b2": 5594,
         "c1": 4963,
         "c2": 6273
+      }
+    },
+    {
+      "id": "the-scarlet-letter",
+      "title": "La letra escarlata",
+      "titleRu": "Алая буква",
+      "originalTitle": "The Scarlet Letter",
+      "authorId": "nathaniel-hawthorne",
+      "authorName": "Nathaniel Hawthorne",
+      "genres": [
+        "Историческое",
+        "Драма",
+        "Мораль"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 935,
+        "b1": 1284,
+        "b2": 2694,
+        "c1": 3053
       }
     },
     {
@@ -10207,6 +10308,40 @@
         "b2": 5478,
         "c1": 8337,
         "c2": 8488
+      }
+    },
+    {
+      "id": "the-woman-in-white",
+      "title": "La dama de blanco",
+      "titleRu": "Женщина в белом",
+      "originalTitle": "The Woman in White",
+      "authorId": "wilkie-collins",
+      "authorName": "Wilkie Collins",
+      "genres": [
+        "Тайна",
+        "Готика",
+        "Интрига"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 11,
+      "words": {
+        "a2": 1316,
+        "b1": 1920,
+        "b2": 2995,
+        "c1": 6254
       }
     },
     {

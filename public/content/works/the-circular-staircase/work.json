@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-circular-staircase",
+  "title": "La escalera de caracol",
+  "titleRu": "Винтовая лестница",
+  "originalTitle": "The Circular Staircase",
+  "author": {
+    "id": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart"
+  },
+  "genres": [
+    "Детектив",
+    "Загадка"
+  ],
+  "synopsisRu": "Немолодая дама снимает на лето загородный дом, где начинают происходить убийства и являются ночные тени. Детектив Мэри Робертс Райнхарт.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

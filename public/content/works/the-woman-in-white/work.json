@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-woman-in-white",
+  "title": "La dama de blanco",
+  "titleRu": "Женщина в белом",
+  "originalTitle": "The Woman in White",
+  "author": {
+    "id": "wilkie-collins",
+    "name": "Wilkie Collins"
+  },
+  "genres": [
+    "Тайна",
+    "Готика",
+    "Интрига"
+  ],
+  "synopsisRu": "Молодой учитель встречает на ночной дороге женщину в белом — и оказывается втянут в зловещую тайну подмены и наследства. Роман Уилки Коллинза.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 11
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 11
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 11
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 11
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

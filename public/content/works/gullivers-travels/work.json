@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "gullivers-travels",
+  "title": "Los viajes de Gulliver",
+  "titleRu": "Путешествия Гулливера",
+  "originalTitle": "Gulliver's Travels",
+  "author": {
+    "id": "jonathan-swift",
+    "name": "Jonathan Swift"
+  },
+  "genres": [
+    "Сатира",
+    "Приключения",
+    "Фантастика"
+  ],
+  "synopsisRu": "Корабельный врач Гулливер попадает то к лилипутам, то к великанам, то в иные диковинные земли. Сатирический роман Джонатана Свифта.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
