@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "treasure-island",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-005",
+    "number": 5,
+    "title": "El regreso al enemigo"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Pasé la noche en la pequeña barca, zarandeado por las olas, hasta que el amanecer me encontró cerca de la isla.",
+          "translationRu": "Я провёл ночь в маленькой лодочке, брошенной волнами, пока рассвет не застал меня у берегов острова."
+        },
+        {
+          "id": "sent-002",
+          "text": "Vi la Hispaniola navegando sola, sin nadie al timón, con las velas agitándose locamente.",
+          "translationRu": "Я увидел «Испаньолу», которая шла сама по себе, без рулевого, с безумно хлопающими парусами."
+        },
+        {
+          "id": "sent-003",
+          "text": "Subí a bordo y encontré a dos marineros: uno estaba muerto y el otro, Israel Hands, estaba gravemente herido.",
+          "translationRu": "Я поднялся на борт и нашёл двух матросов: один был мёртв, а другой — Израэль Хэндс — тяжело ранен."
+        },
+        {
+          "id": "sent-004",
+          "text": "Arrié la bandera pirata, la Jolly Roger, y me declaré nuevo capitán del barco.",
+          "translationRu": "Я спустил пиратский флаг — «Весёлый Роджер» — и объявил себя новым капитаном корабля."
+        },
+        {
+          "id": "sent-005",
+          "text": "Hands accedió a ayudarme a llevar la Hispaniola a la entrada norte de la isla si yo le daba comida y bebida.",
+          "translationRu": "Хэндс согласился помочь мне привести «Испаньолу» к северному входу острова в обмен на еду и питьё."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "Navegamos juntos durante un rato, pero yo no confiaba en Hands y le vigilaba de reojo.",
+          "translationRu": "Мы плыли вместе некоторое время, но я не доверял Хэндсу и наблюдал за ним краем глаза."
+        },
+        {
+          "id": "sent-007",
+          "text": "Cuando bajé a buscar vino, vi cómo él gateaba para recoger un cuchillo que había escondido entre las cuerdas.",
+          "translationRu": "Когда я спустился за вином, увидел, как он на четвереньках ползёт за ножом, спрятанным в снастях."
+        },
+        {
+          "id": "sent-008",
+          "text": "Varé el barco en la playa norte y en ese momento Hands me atacó con el cuchillo.",
+          "translationRu": "Я посадил корабль на мель у северного берега, и в этот момент Хэндс бросился на меня с ножом."
+        },
+        {
+          "id": "sent-009",
+          "text": "Trepé al palo del mástil para escapar y, desde arriba, le disparé con mis dos pistolas.",
+          "translationRu": "Я вскарабкался на мачту и, сверху, выстрелил в него из обоих пистолетов."
+        },
+        {
+          "id": "sent-010",
+          "text": "Hands cayó al mar herido de muerte, y yo quedé libre pero con un cuchillo clavado en el hombro.",
+          "translationRu": "Хэндс упал в море смертельно раненый, а я остался свободен — но с ножом в плече."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Me vendé la herida como pude, dejé la Hispaniola encallada y me dirigí al blocao.",
+          "translationRu": "Я кое-как перевязал рану, оставил «Испаньолу» на мели и направился к блокгаузу."
+        },
+        {
+          "id": "sent-012",
+          "text": "Cuando llegué de noche al blocao y entré en silencio, algo me mordió el pie.",
+          "translationRu": "Добравшись до блокгауза ночью и войдя бесшумно, я почувствовал, как что-то укусило меня за ногу."
+        },
+        {
+          "id": "sent-013",
+          "text": "Era el loro del capitán Flint, el pájaro de Silver, que gritó: «¡Piezas de a ocho! ¡Piezas de a ocho!»",
+          "translationRu": "Это был попугай капитана Флинта — птица Сильвера, — который закричал: «Пиастры! Пиастры!»"
+        },
+        {
+          "id": "sent-014",
+          "text": "Los piratas se despertaron y me capturaron en la oscuridad antes de que pudiera escapar.",
+          "translationRu": "Пираты проснулись и схватили меня в темноте прежде, чем я успел убежать."
+        },
+        {
+          "id": "sent-015",
+          "text": "Vi que los piratas habían tomado el blocao y que mis amigos ya no estaban allí.",
+          "translationRu": "Я увидел, что пираты захватили блокгауз и моих друзей там уже нет."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-016",
+          "text": "Silver me dijo con calma que los caballeros le habían entregado el blocao y las provisiones a cambio de poder marcharse.",
+          "translationRu": "Сильвер спокойно сообщил мне, что джентльмены отдали ему блокгауз и провизию в обмен на право уйти."
+        },
+        {
+          "id": "sent-017",
+          "text": "Les dije a los piratas con valentía que yo había cortado el cable del ancla, matado a Hands y escondido el barco.",
+          "translationRu": "Я смело сказал пиратам, что именно я перерезал якорный канат, убил Хэндса и спрятал корабль."
+        },
+        {
+          "id": "sent-018",
+          "text": "Los piratas querían matarme, pero Silver los detuvo y me protegió, usando mi captura como carta de negociación.",
+          "translationRu": "Пираты хотели убить меня, но Сильвер их остановил и защитил меня, используя моё пленение как козырь."
+        },
+        {
+          "id": "sent-019",
+          "text": "Los piratas le dieron a Silver la mancha negra, acusándole de traición, pero Silver mostró el mapa del tesoro y los calmó.",
+          "translationRu": "Пираты вручили Сильверу чёрную метку, обвинив его в предательстве, но он показал карту клада и успокоил их."
+        },
+        {
+          "id": "sent-020",
+          "text": "Esa noche el doctor Livesey vino a curar a los enfermos y pudo hablar conmigo en privado, aconsejándome que confiara en Silver.",
+          "translationRu": "В ту ночь доктор Ливси пришёл лечить больных и смог поговорить со мной наедине, посоветовав доверять Сильверу."
+        }
+      ]
+    }
+  ]
+}

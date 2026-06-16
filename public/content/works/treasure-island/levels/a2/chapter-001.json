@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "treasure-island",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El viejo capitán"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Mi nombre es Jim Hawkins y vivo en la posada Admiral Benbow con mis padres.",
+          "translationRu": "Меня зовут Джим Хокинс, и я живу в таверне «Адмирал Бенбоу» вместе с родителями."
+        },
+        {
+          "id": "sent-002",
+          "text": "Un día llega un viejo marinero con una cicatriz en la mejilla.",
+          "translationRu": "Однажды приходит старый моряк с рубцом на щеке."
+        },
+        {
+          "id": "sent-003",
+          "text": "Él se llama capitán y quiere quedarse en nuestra posada.",
+          "translationRu": "Он называет себя капитаном и хочет остановиться в нашей таверне."
+        },
+        {
+          "id": "sent-004",
+          "text": "El capitán paga con monedas de oro y pide ron cada día.",
+          "translationRu": "Капитан платит золотыми монетами и каждый день требует ром."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "El capitán es muy silencioso y caminea por la costa con su telescopio.",
+          "translationRu": "Капитан очень молчалив и гуляет по берегу со своей подзорной трубой."
+        },
+        {
+          "id": "sent-006",
+          "text": "Cada día pregunta si hay marineros en el camino.",
+          "translationRu": "Каждый день он спрашивает, не появлялись ли на дороге моряки."
+        },
+        {
+          "id": "sent-007",
+          "text": "Me promete dinero si aviso cuando llegue un marinero con una sola pierna.",
+          "translationRu": "Он обещает мне деньги, если я предупрежу его, когда придёт моряк с одной ногой."
+        },
+        {
+          "id": "sent-008",
+          "text": "Ese marinero misterioso me da mucho miedo en mis sueños.",
+          "translationRu": "Этот таинственный моряк очень пугает меня во сне."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Un día viene el doctor Livesey a visitar a mi padre enfermo.",
+          "translationRu": "Однажды приходит доктор Ливси навестить моего больного отца."
+        },
+        {
+          "id": "sent-010",
+          "text": "El capitán canta y grita, y el doctor le habla con calma y firmeza.",
+          "translationRu": "Капитан поёт и кричит, а доктор говорит с ним спокойно и твёрдо."
+        },
+        {
+          "id": "sent-011",
+          "text": "El capitán saca un cuchillo, pero el doctor no tiene miedo.",
+          "translationRu": "Капитан достаёт нож, но доктор не боится."
+        },
+        {
+          "id": "sent-012",
+          "text": "El doctor dice: «Si bebes más ron, vas a morir».",
+          "translationRu": "Доктор говорит: «Если ты будешь пить больше рома, ты умрёшь»."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Un hombre sin dos dedos viene a buscar al capitán y lo llama Black Dog.",
+          "translationRu": "Человек без двух пальцев приходит искать капитана и называет его Чёрным Псом."
+        },
+        {
+          "id": "sent-014",
+          "text": "Los dos hombres hablan en voz baja y después pelean con sus cuchillos.",
+          "translationRu": "Двое мужчин говорят вполголоса, а потом дерутся на ножах."
+        },
+        {
+          "id": "sent-015",
+          "text": "El capitán cae al suelo y el doctor dice que tiene una apoplejía.",
+          "translationRu": "Капитан падает на пол, и доктор говорит, что у него удар."
+        },
+        {
+          "id": "sent-016",
+          "text": "El capitán me dice que si llegan sus enemigos, debo avisar al doctor Livesey.",
+          "translationRu": "Капитан говорит мне, что если придут его враги, я должен предупредить доктора Ливси."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "a-christmas-carol",
+  "level": "a2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El avaro y la Nochebuena", "sentenceCount": 18},
+    {"id": "chapter-002", "number": 2, "title": "El fantasma del pasado", "sentenceCount": 15},
+    {"id": "chapter-003", "number": 3, "title": "El espíritu de la Navidad presente", "sentenceCount": 15},
+    {"id": "chapter-004", "number": 4, "title": "El último espíritu", "sentenceCount": 16},
+    {"id": "chapter-005", "number": 5, "title": "Un hombre nuevo", "sentenceCount": 17}
+  ]
+}

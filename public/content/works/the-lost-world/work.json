@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-lost-world",
+  "title": "El mundo perdido",
+  "titleRu": "Затерянный мир",
+  "originalTitle": "The Lost World",
+  "author": {
+    "id": "arthur-conan-doyle",
+    "name": "Arthur Conan Doyle"
+  },
+  "genres": [
+    "Фантастика",
+    "Приключения",
+    "Экспедиция"
+  ],
+  "synopsisRu": "Экспедиция профессора Челленджера отправляется в Южную Америку, где, по слухам, сохранились доисторические существа. Научно-фантастический роман Артура Конан Дойла.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "alices-adventures-in-wonderland",
+  "level": "b2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "La caída por la madriguera",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "El lago de lágrimas y la oruga azul",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "La Oruga, el Gato y la merienda de locos",
+      "sentenceCount": 19
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El juicio y el despertar",
+      "sentenceCount": 18
+    }
+  ]
+}

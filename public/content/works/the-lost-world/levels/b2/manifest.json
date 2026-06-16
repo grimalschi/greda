@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-lost-world",
+  "level": "b2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El desafío de Gladys", "sentenceCount": 20},
+    {"id": "chapter-002", "number": 2, "title": "La asamblea y la expedición", "sentenceCount": 18},
+    {"id": "chapter-003", "number": 3, "title": "Al pie de los acantilados", "sentenceCount": 19},
+    {"id": "chapter-004", "number": 4, "title": "Maravillas y horrores del plateau", "sentenceCount": 18},
+    {"id": "chapter-005", "number": 5, "title": "La batalla decisiva", "sentenceCount": 18},
+    {"id": "chapter-006", "number": 6, "title": "El regreso y el triunfo", "sentenceCount": 19}
+  ]
+}

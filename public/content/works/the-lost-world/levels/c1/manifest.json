@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-lost-world",
+  "level": "c1",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El periodista y la heroína", "sentenceCount": 22},
+    {"id": "chapter-002", "number": 2, "title": "La reunión tumultuosa", "sentenceCount": 18},
+    {"id": "chapter-003", "number": 3, "title": "Río adentro, hacia lo desconocido", "sentenceCount": 19},
+    {"id": "chapter-004", "number": 4, "title": "Atrapados en el mundo perdido", "sentenceCount": 19},
+    {"id": "chapter-005", "number": 5, "title": "La guerra de los hombres simios", "sentenceCount": 19},
+    {"id": "chapter-006", "number": 6, "title": "El regreso y el triunfo", "sentenceCount": 20}
+  ]
+}

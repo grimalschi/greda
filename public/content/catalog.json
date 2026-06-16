@@ -1665,6 +1665,40 @@
       }
     },
     {
+      "id": "the-lost-world",
+      "title": "El mundo perdido",
+      "titleRu": "Затерянный мир",
+      "originalTitle": "The Lost World",
+      "authorId": "arthur-conan-doyle",
+      "authorName": "Arthur Conan Doyle",
+      "genres": [
+        "Фантастика",
+        "Приключения",
+        "Экспедиция"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1017,
+        "b1": 1901,
+        "b2": 3165,
+        "c1": 3533
+      }
+    },
+    {
       "id": "the-resident-patient",
       "title": "El paciente residente",
       "titleRu": "Постоянный пациент",
@@ -4230,6 +4264,40 @@
         "b1": 2580,
         "b2": 4464,
         "c1": 4937
+      }
+    },
+    {
+      "id": "a-christmas-carol",
+      "title": "Canción de Navidad",
+      "titleRu": "Рождественская песнь",
+      "originalTitle": "A Christmas Carol",
+      "authorId": "charles-dickens",
+      "authorName": "Charles Dickens",
+      "genres": [
+        "Рождество",
+        "Притча",
+        "Мистика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 939,
+        "b1": 1712,
+        "b2": 2190,
+        "c1": 2894
       }
     },
     {
@@ -7932,6 +8000,40 @@
       }
     },
     {
+      "id": "alices-adventures-in-wonderland",
+      "title": "Las aventuras de Alicia en el País de las Maravillas",
+      "titleRu": "Алиса в Стране чудес",
+      "originalTitle": "Alice's Adventures in Wonderland",
+      "authorId": "lewis-carroll",
+      "authorName": "Lewis Carroll",
+      "genres": [
+        "Сказка",
+        "Фэнтези",
+        "Абсурд"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 829,
+        "b1": 1506,
+        "b2": 1920,
+        "c1": 2131
+      }
+    },
+    {
       "id": "frankenstein",
       "title": "Frankenstein",
       "titleRu": "Франкенштейн",
@@ -9187,6 +9289,40 @@
         "b1": 1349,
         "b2": 1795,
         "c1": 2675
+      }
+    },
+    {
+      "id": "treasure-island",
+      "title": "La isla del tesoro",
+      "titleRu": "Остров сокровищ",
+      "originalTitle": "Treasure Island",
+      "authorId": "robert-louis-stevenson",
+      "authorName": "Robert Louis Stevenson",
+      "genres": [
+        "Приключения",
+        "Пираты",
+        "Море"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1057,
+        "b1": 2083,
+        "b2": 2480,
+        "c1": 3499
       }
     },
     {

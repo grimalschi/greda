@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "treasure-island",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-002",
+    "number": 2,
+    "title": "El mapa del tesoro"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Un ciego horrible viene a la posada y me agarra la mano con fuerza.",
+          "translationRu": "Страшный слепой приходит в таверну и крепко хватает меня за руку."
+        },
+        {
+          "id": "sent-002",
+          "text": "Me obliga a llevarlo ante el capitán y le da un papel negro.",
+          "translationRu": "Он заставляет меня отвести его к капитану и вручает тому чёрную бумагу."
+        },
+        {
+          "id": "sent-003",
+          "text": "El capitán ve el papel, se levanta y cae muerto en el suelo.",
+          "translationRu": "Капитан смотрит на бумагу, встаёт и падает замертво на пол."
+        },
+        {
+          "id": "sent-004",
+          "text": "Mi padre también muere ese día y nuestra familia está sola y en peligro.",
+          "translationRu": "В тот же день умирает и мой отец, и наша семья остаётся одна в опасности."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Mi madre y yo vamos al baúl del capitán para buscar el dinero que nos debe.",
+          "translationRu": "Мы с матерью подходим к сундуку капитана, чтобы найти деньги, которые он нам должен."
+        },
+        {
+          "id": "sent-006",
+          "text": "Encontramos monedas de muchos países y un paquete de papeles envuelto en tela.",
+          "translationRu": "Мы находим монеты из разных стран и пачку бумаг, завёрнутых в ткань."
+        },
+        {
+          "id": "sent-007",
+          "text": "Oímos el ruido del palo del ciego y corremos a escondernos bajo el puente.",
+          "translationRu": "Мы слышим стук трости слепого и убегаем прятаться под мост."
+        },
+        {
+          "id": "sent-008",
+          "text": "Los piratas entran en la posada y buscan los papeles del capitán.",
+          "translationRu": "Пираты врываются в таверну и ищут бумаги капитана."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Los caballos llegan y los piratas huyen; el ciego muere bajo los cascos.",
+          "translationRu": "Прискакали лошади, пираты бегут; слепой гибнет под копытами."
+        },
+        {
+          "id": "sent-010",
+          "text": "El supervisor Dance nos ayuda y vamos a casa del doctor Livesey.",
+          "translationRu": "Надзиратель Дэнс помогает нам, и мы едем в дом доктора Ливси."
+        },
+        {
+          "id": "sent-011",
+          "text": "Allí también está el señor Trelawney, un hombre rico que ama el mar.",
+          "translationRu": "Там находится и сквайр Трелони — богатый человек, влюблённый в море."
+        },
+        {
+          "id": "sent-012",
+          "text": "Abro el paquete y encontramos un mapa de una isla con tres cruces rojas.",
+          "translationRu": "Я открываю пачку, и мы находим карту острова с тремя красными крестами."
+        },
+        {
+          "id": "sent-013",
+          "text": "Las cruces muestran dónde el pirata Flint enterró su gran tesoro.",
+          "translationRu": "Кресты показывают, где пират Флинт зарыл свои несметные сокровища."
+        },
+        {
+          "id": "sent-014",
+          "text": "El señor Trelawney dice: «¡Mañana voy a Bristol a buscar un barco!».",
+          "translationRu": "Сквайр Трелони говорит: «Завтра же еду в Бристоль искать корабль!»"
+        }
+      ]
+    }
+  ]
+}
