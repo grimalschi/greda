@@ -6,11 +6,12 @@ Guidance for working in this repo (**greda**). Read this first.
 Offline-first PWA for studying Spanish by reading public-domain works adapted into
 graded Spanish (levels **A1–C2**; most works A2–C1) with **per-sentence Russian translations**.
 UI is in Russian. No backend and no runtime LLM calls — all content is pre-generated static JSON
-in `public/content/`. The library holds **300+ works**: 5 originals (Poe/London) + ~263
-public-domain detective & sci-fi stories + **44 canonical classics added 2026-06-16**
+in `public/content/`. The library holds **334 works**: 5 originals (Poe/London) + ~263
+public-domain detective & sci-fi stories + **66 canonical classics added 2026-06-16**
 (Frankenstein, Dracula, Verne, Tarzan, Austen, Dickens, Brontës, Twain, Wilde, Collins, Leblanc,
-Leroux, Dumas, Hugo, …). All from Project Gutenberg. Long novels are **multi-chapter** (4–11 ch);
-short stories are single-chapter (complete arc).
+Leroux, Dumas, Hugo, Dostoevsky, Melville, Flaubert, Wharton, Kafka, …). All from Project Gutenberg.
+Long novels are **multi-chapter** (4–11 ch); short stories are single-chapter (complete arc). The 66
+classics are A2–C1 only (no A1/C2 yet). Plan→Gutenberg-ID mapping for the classics: `sources/classics-plans/`.
 
 ## Commands
 - `npm run dev` — dev server at http://localhost:5173/greda/
