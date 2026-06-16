@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "a-tale-of-two-cities",
+  "level": "a2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "Los tiempos turbulentos",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "El viaje de Lorry",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El encuentro en Dover",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El doctor Manette",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "Charles Darnay",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "La revolución",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-007",
+      "number": 7,
+      "title": "El retorno a París",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-008",
+      "number": 8,
+      "title": "El sacrificio final",
+      "sentenceCount": 16
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "wuthering-heights",
+  "level": "c1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El primero en los páramos",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La nieve y la extraña mujer",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El fantasma de Catherine",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "La historia de Nelly Dean",
+      "sentenceCount": 23
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "El poder de Hindley",
+      "sentenceCount": 23
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "El regreso de Heathcliff",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-007",
+      "number": 7,
+      "title": "La redención del dolor",
+      "sentenceCount": 22
+    }
+  ]
+}

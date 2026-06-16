@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "kidnapped",
+  "title": "Secuestrado",
+  "titleRu": "Похищенный",
+  "originalTitle": "Kidnapped",
+  "author": {
+    "id": "robert-louis-stevenson",
+    "name": "Robert Louis Stevenson"
+  },
+  "genres": [
+    "Приключения",
+    "Историческое",
+    "Шотландия"
+  ],
+  "synopsisRu": "Осиротевшего юношу Дэвида Бэлфура коварный дядя продаёт на корабль, и начинаются его скитания по Шотландии. Роман Роберта Льюиса Стивенсона.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

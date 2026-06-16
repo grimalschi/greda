@@ -144,6 +144,40 @@
       }
     },
     {
+      "id": "the-three-musketeers",
+      "title": "Los tres mosqueteros",
+      "titleRu": "Три мушкетёра",
+      "originalTitle": "The Three Musketeers",
+      "authorId": "alexandre-dumas",
+      "authorName": "Alexandre Dumas",
+      "genres": [
+        "Приключения",
+        "Историческое",
+        "Интрига"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 10,
+      "words": {
+        "a2": 1745,
+        "b1": 2024,
+        "b2": 3263,
+        "c1": 6326
+      }
+    },
+    {
       "id": "the-doctor-his-wife-and-the-clock",
       "title": "El doctor, su esposa y el reloj",
       "titleRu": "Доктор, его жена и часы",
@@ -4369,6 +4403,74 @@
       }
     },
     {
+      "id": "a-tale-of-two-cities",
+      "title": "Historia de dos ciudades",
+      "titleRu": "Повесть о двух городах",
+      "originalTitle": "A Tale of Two Cities",
+      "authorId": "charles-dickens",
+      "authorName": "Charles Dickens",
+      "genres": [
+        "Историческое",
+        "Драма",
+        "Революция"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 823,
+        "b1": 2142,
+        "b2": 1775,
+        "c1": 2686
+      }
+    },
+    {
+      "id": "jane-eyre",
+      "title": "Jane Eyre",
+      "titleRu": "Джейн Эйр",
+      "originalTitle": "Jane Eyre",
+      "authorId": "charlotte-bronte",
+      "authorName": "Charlotte Brontë",
+      "genres": [
+        "Роман",
+        "Готика",
+        "Любовь"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 9,
+      "words": {
+        "a2": 1062,
+        "b1": 1895,
+        "b2": 3146,
+        "c1": 3618
+      }
+    },
+    {
       "id": "the-yellow-wallpaper",
       "title": "El papel amarillo",
       "titleRu": "Жёлтые обои",
@@ -5290,6 +5392,40 @@
         "b1": 433,
         "b2": 692,
         "c1": 839
+      }
+    },
+    {
+      "id": "wuthering-heights",
+      "title": "Cumbres borrascosas",
+      "titleRu": "Грозовой перевал",
+      "originalTitle": "Wuthering Heights",
+      "authorId": "emily-bronte",
+      "authorName": "Emily Brontë",
+      "genres": [
+        "Готика",
+        "Драма",
+        "Любовь"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 1106,
+        "b1": 2030,
+        "b2": 2456,
+        "c1": 2910
       }
     },
     {
@@ -8712,6 +8848,40 @@
       }
     },
     {
+      "id": "anne-of-green-gables",
+      "title": "Ana de las Tejas Verdes",
+      "titleRu": "Аня из Зелёных Мезонинов",
+      "originalTitle": "Anne of Green Gables",
+      "authorId": "l-m-montgomery",
+      "authorName": "L. M. Montgomery",
+      "genres": [
+        "Роман",
+        "Детство",
+        "Семья"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 960,
+        "b1": 1730,
+        "b2": 2897,
+        "c1": 3280
+      }
+    },
+    {
       "id": "alices-adventures-in-wonderland",
       "title": "Las aventuras de Alicia en el País de las Maravillas",
       "titleRu": "Алиса в Стране чудес",
@@ -10238,6 +10408,40 @@
         "b1": 2083,
         "b2": 2480,
         "c1": 3499
+      }
+    },
+    {
+      "id": "kidnapped",
+      "title": "Secuestrado",
+      "titleRu": "Похищенный",
+      "originalTitle": "Kidnapped",
+      "authorId": "robert-louis-stevenson",
+      "authorName": "Robert Louis Stevenson",
+      "genres": [
+        "Приключения",
+        "Историческое",
+        "Шотландия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 893,
+        "b1": 1597,
+        "b2": 1423,
+        "c1": 3160
       }
     },
     {

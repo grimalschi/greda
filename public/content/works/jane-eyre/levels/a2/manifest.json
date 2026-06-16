@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "jane-eyre",
+  "level": "a2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "La niña sola",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La escuela de Lowood",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "Thornfield",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El misterio de la casa",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "Los huéspedes",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "La propuesta",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-007",
+      "number": 7,
+      "title": "La esposa secreta",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-008",
+      "number": 8,
+      "title": "En el exilio",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-009",
+      "number": 9,
+      "title": "El regreso",
+      "sentenceCount": 15
+    }
+  ]
+}

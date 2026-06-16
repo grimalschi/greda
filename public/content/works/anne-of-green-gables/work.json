@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "anne-of-green-gables",
+  "title": "Ana de las Tejas Verdes",
+  "titleRu": "Аня из Зелёных Мезонинов",
+  "originalTitle": "Anne of Green Gables",
+  "author": {
+    "id": "l-m-montgomery",
+    "name": "L. M. Montgomery"
+  },
+  "genres": [
+    "Роман",
+    "Детство",
+    "Семья"
+  ],
+  "synopsisRu": "Пожилые брат и сестра по ошибке получают из приюта не мальчика, а рыжую фантазёрку Аню. Роман Люси Мод Монтгомери.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

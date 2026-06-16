@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "jane-eyre",
+  "title": "Jane Eyre",
+  "titleRu": "Джейн Эйр",
+  "originalTitle": "Jane Eyre",
+  "author": {
+    "id": "charlotte-bronte",
+    "name": "Charlotte Brontë"
+  },
+  "genres": [
+    "Роман",
+    "Готика",
+    "Любовь"
+  ],
+  "synopsisRu": "Сирота Джейн становится гувернанткой в мрачном поместье Торнфилд, где у хозяина есть тайна. Роман Шарлотты Бронте.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

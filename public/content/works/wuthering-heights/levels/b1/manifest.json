@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "wuthering-heights",
+  "level": "b1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "La llegada a Wuthering Heights",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La noche de tormenta",
+      "sentenceCount": 17
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El sueño de Catherine",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "La historia de Catherine",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "El regreso de Heathcliff",
+      "sentenceCount": 19
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "La fuga de Isabella",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-007",
+      "number": 7,
+      "title": "La muerte de Catherine",
+      "sentenceCount": 20
+    }
+  ]
+}
