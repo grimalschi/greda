@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "frankenstein",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El explorador del norte"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Robert Walton es un explorador inglés que viaja hacia el Polo Norte en busca de aventura y conocimiento.",
+          "translationRu": "Роберт Уолтон — английский исследователь, направляющийся к Северному полюсу в поисках приключений и знаний."
+        },
+        {
+          "id": "sent-002",
+          "text": "En sus cartas a su hermana Margaret, cuenta cómo ha soñado con este viaje desde la infancia.",
+          "translationRu": "В письмах своей сестре Маргарет он рассказывает, как мечтал об этом путешествии с детства."
+        },
+        {
+          "id": "sent-003",
+          "text": "Desde San Petersburgo escribe que siente el viento frío del norte en las mejillas, y ese viento lo llena de esperanza.",
+          "translationRu": "Из Санкт-Петербурга он пишет, что чувствует холодный северный ветер на щеках, и этот ветер наполняет его надеждой."
+        },
+        {
+          "id": "sent-004",
+          "text": "Walton cree que en el norte hay una tierra llena de maravillas que ningún hombre ha pisado todavía.",
+          "translationRu": "Уолтон верит, что на севере есть земля, полная чудес, на которую ещё не ступала нога человека."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Desde Arcángel escribe una segunda carta: ha contratado un barco y reunido a sus marineros.",
+          "translationRu": "Из Архангельска он пишет второе письмо: он нанял корабль и собрал свою команду."
+        },
+        {
+          "id": "sent-006",
+          "text": "Sin embargo, Walton siente que le falta un amigo de verdad, alguien con quien compartir sus sueños.",
+          "translationRu": "Однако Уолтон чувствует, что ему не хватает настоящего друга — кого-то, с кем можно поделиться своими мечтами."
+        },
+        {
+          "id": "sent-007",
+          "text": "Conoce a su teniente, un hombre valiente, y al capitán del barco, conocido por su bondad con la tripulación.",
+          "translationRu": "Он знакомится со своим лейтенантом, храбрым человеком, и с капитаном корабля, известным своей добротой к команде."
+        },
+        {
+          "id": "sent-008",
+          "text": "A pesar de no tener un amigo íntimo, Walton mantiene su resolución y espera la llegada del buen tiempo para zarpar.",
+          "translationRu": "Несмотря на отсутствие близкого друга, Уолтон сохраняет решимость и ждёт хорошей погоды, чтобы выйти в море."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "En julio el barco ya navega hacia el norte, entre bloques de hielo que flotan en el mar.",
+          "translationRu": "В июле корабль уже плывёт на север, среди плавающих льдин."
+        },
+        {
+          "id": "sent-010",
+          "text": "En agosto el barco queda atrapado entre el hielo y una densa niebla cubre el océano.",
+          "translationRu": "В августе корабль оказывается зажатым льдами, и густой туман накрывает океан."
+        },
+        {
+          "id": "sent-011",
+          "text": "Cuando la niebla se disipa, los marineros ven algo extraño: un hombre enorme que conduce un trineo tirado por perros a través del hielo.",
+          "translationRu": "Когда туман рассеивается, моряки видят нечто странное: огромный человек управляет собачьей упряжкой, мчащейся по льду."
+        },
+        {
+          "id": "sent-012",
+          "text": "Al día siguiente encuentran otro trineo más pequeño, y en él hay un hombre europeo casi muerto de frío y agotamiento.",
+          "translationRu": "На следующий день они находят меньшие сани, а в них — европейца, почти умершего от холода и истощения."
+        },
+        {
+          "id": "sent-013",
+          "text": "Los marineros lo suben a bordo, lo calientan y le dan sopa; poco a poco el extraño recobra las fuerzas.",
+          "translationRu": "Моряки поднимают его на борт, согревают и дают ему суп; мало-помалу незнакомец восстанавливает силы."
+        },
+        {
+          "id": "sent-014",
+          "text": "Walton empieza a sentir afecto por este hombre misterioso, que tiene ojos expresivos y un carácter gentil pero profundamente triste.",
+          "translationRu": "Уолтон начинает испытывать привязанность к этому загадочному человеку с выразительными глазами и добрым, но глубоко печальным характером."
+        },
+        {
+          "id": "sent-015",
+          "text": "El extraño confiesa que perseguía a alguien que huía de él, y que el otro trineo que vieron pertenecía a esa persona.",
+          "translationRu": "Незнакомец признаётся, что преследовал кого-то, кто бежал от него, и что другие сани принадлежали именно этому человеку."
+        },
+        {
+          "id": "sent-016",
+          "text": "Por fin el extraño decide contar su historia: su nombre es Victor Frankenstein, y su relato cambiará para siempre la visión del mundo de Walton.",
+          "translationRu": "Наконец незнакомец решает рассказать свою историю: его зовут Виктор Франкенштейн, и его рассказ навсегда изменит мировоззрение Уолтона."
+        }
+      ]
+    }
+  ]
+}

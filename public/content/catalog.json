@@ -4199,6 +4199,40 @@
       }
     },
     {
+      "id": "dracula",
+      "title": "Drácula",
+      "titleRu": "Дракула",
+      "originalTitle": "Dracula",
+      "authorId": "bram-stoker",
+      "authorName": "Bram Stoker",
+      "genres": [
+        "Готика",
+        "Ужасы",
+        "Вампиры"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 1440,
+        "b1": 2580,
+        "b2": 4464,
+        "c1": 4937
+      }
+    },
+    {
       "id": "the-artificial-man",
       "title": "El hombre artificial",
       "titleRu": "Искусственный человек",
@@ -7497,6 +7531,40 @@
       }
     },
     {
+      "id": "the-call-of-the-wild",
+      "title": "La llamada de lo salvaje",
+      "titleRu": "Зов предков",
+      "originalTitle": "The Call of the Wild",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": [
+        "Приключения",
+        "Природа",
+        "Север"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 612,
+        "b1": 1374,
+        "b2": 1714,
+        "c1": 3156
+      }
+    },
+    {
       "id": "the-cosmic-express",
       "title": "El Expreso Cósmico",
       "titleRu": "Космический Экспресс",
@@ -7861,6 +7929,40 @@
         "b1": 598,
         "b2": 757,
         "c1": 990
+      }
+    },
+    {
+      "id": "frankenstein",
+      "title": "Frankenstein",
+      "titleRu": "Франкенштейн",
+      "originalTitle": "Frankenstein; or, The Modern Prometheus",
+      "authorId": "mary-shelley",
+      "authorName": "Mary Shelley",
+      "genres": [
+        "Фантастика",
+        "Готика",
+        "Ужасы"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 883,
+        "b1": 2048,
+        "b2": 2822,
+        "c1": 3686
       }
     },
     {
@@ -9051,6 +9153,40 @@
         "b2": 5162,
         "c1": 6500,
         "c2": 7824
+      }
+    },
+    {
+      "id": "dr-jekyll-and-mr-hyde",
+      "title": "El extraño caso del Dr. Jekyll y el Sr. Hyde",
+      "titleRu": "Странная история доктора Джекила и мистера Хайда",
+      "originalTitle": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "authorId": "robert-louis-stevenson",
+      "authorName": "Robert Louis Stevenson",
+      "genres": [
+        "Готика",
+        "Триллер",
+        "Фантастика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 717,
+        "b1": 1349,
+        "b2": 1795,
+        "c1": 2675
       }
     },
     {

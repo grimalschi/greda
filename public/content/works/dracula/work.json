@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "dracula",
+  "title": "Drácula",
+  "titleRu": "Дракула",
+  "originalTitle": "Dracula",
+  "author": {
+    "id": "bram-stoker",
+    "name": "Bram Stoker"
+  },
+  "genres": [
+    "Готика",
+    "Ужасы",
+    "Вампиры"
+  ],
+  "synopsisRu": "Молодой юрист едет в замок в Трансильвании к загадочному графу — и оказывается в плену древнего зла. Готический роман Брэма Стокера.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 8
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 8
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 8
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 8
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
