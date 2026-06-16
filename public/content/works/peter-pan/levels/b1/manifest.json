@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "peter-pan",
+  "level": "b1",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "La familia Darling y el misterioso Peter", "sentenceCount": 18},
+    {"id": "chapter-002", "number": 2, "title": "La sombra y el vuelo", "sentenceCount": 19},
+    {"id": "chapter-003", "number": 3, "title": "La isla y la casita de Wendy", "sentenceCount": 17},
+    {"id": "chapter-004", "number": 4, "title": "La laguna de las sirenas y la vida feliz", "sentenceCount": 19},
+    {"id": "chapter-005", "number": 5, "title": "El rescate y el regreso a casa", "sentenceCount": 20}
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "robinson-crusoe",
+  "title": "Robinson Crusoe",
+  "titleRu": "Робинзон Крузо",
+  "originalTitle": "The Life and Adventures of Robinson Crusoe",
+  "author": {
+    "id": "daniel-defoe",
+    "name": "Daniel Defoe"
+  },
+  "genres": [
+    "Приключения",
+    "Выживание",
+    "Море"
+  ],
+  "synopsisRu": "Моряк, выброшенный после кораблекрушения на необитаемый остров, выживает там много лет. Роман Даниэля Дефо.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

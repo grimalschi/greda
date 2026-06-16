@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "peter-pan",
+  "title": "Peter Pan",
+  "titleRu": "Питер Пэн",
+  "originalTitle": "Peter Pan",
+  "author": {
+    "id": "j-m-barrie",
+    "name": "J. M. Barrie"
+  },
+  "genres": [
+    "Сказка",
+    "Фэнтези",
+    "Приключения"
+  ],
+  "synopsisRu": "Мальчик, который не хотел взрослеть, уносит детей Дарлингов в Нетландию. Сказка Джеймса Барри.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

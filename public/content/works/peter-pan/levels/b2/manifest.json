@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "peter-pan",
+  "level": "b2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "La familia Darling y el misterioso Peter",
+      "sentenceCount": 17
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "El vuelo al País de Nunca Jamás",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "La casita y el hogar bajo tierra",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El ataque pirata y el barco del Jolly Roger",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "La victoria y el regreso",
+      "sentenceCount": 17
+    }
+  ]
+}

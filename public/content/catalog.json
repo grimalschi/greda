@@ -4435,6 +4435,40 @@
       }
     },
     {
+      "id": "robinson-crusoe",
+      "title": "Robinson Crusoe",
+      "titleRu": "Робинзон Крузо",
+      "originalTitle": "The Life and Adventures of Robinson Crusoe",
+      "authorId": "daniel-defoe",
+      "authorName": "Daniel Defoe",
+      "genres": [
+        "Приключения",
+        "Выживание",
+        "Море"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 1001,
+        "b1": 1986,
+        "b2": 3683,
+        "c1": 7165
+      }
+    },
+    {
       "id": "the-skylark-of-space",
       "title": "El Pájaro del Espacio",
       "titleRu": "Жаворонок космоса",
@@ -6745,6 +6779,73 @@
       }
     },
     {
+      "id": "the-phantom-of-the-opera",
+      "title": "El fantasma de la Ópera",
+      "titleRu": "Призрак Оперы",
+      "originalTitle": "The Phantom of the Opera",
+      "authorId": "gaston-leroux",
+      "authorName": "Gaston Leroux",
+      "genres": [
+        "Готика",
+        "Тайна",
+        "Романтика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 822,
+        "b1": 2167,
+        "b2": 2686,
+        "c1": 5079
+      }
+    },
+    {
+      "id": "the-mystery-of-the-yellow-room",
+      "title": "El misterio del cuarto amarillo",
+      "titleRu": "Тайна жёлтой комнаты",
+      "originalTitle": "The Mystery of the Yellow Room",
+      "authorId": "gaston-leroux",
+      "authorName": "Gaston Leroux",
+      "genres": [
+        "Детектив",
+        "Загадка запертой комнаты"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 1037,
+        "b1": 1609,
+        "b2": 2217,
+        "c1": 4056
+      }
+    },
+    {
       "id": "under-the-knife",
       "title": "Bajo el bisturí",
       "titleRu": "Под скальпелем",
@@ -7695,6 +7796,40 @@
         "b1": 541,
         "b2": 754,
         "c1": 1142
+      }
+    },
+    {
+      "id": "peter-pan",
+      "title": "Peter Pan",
+      "titleRu": "Питер Пэн",
+      "originalTitle": "Peter Pan",
+      "authorId": "j-m-barrie",
+      "authorName": "J. M. Barrie",
+      "genres": [
+        "Сказка",
+        "Фэнтези",
+        "Приключения"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 803,
+        "b1": 1896,
+        "b2": 2539,
+        "c1": 4447
       }
     },
     {

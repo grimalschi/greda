@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-mystery-of-the-yellow-room",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El crimen del cuarto amarillo"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "El 25 de octubre de 1892, los periódicos de París publicaron una noticia terrible: alguien había intentado asesinar a Mademoiselle Stangerson en el Château du Glandier.",
+          "translationRu": "25 октября 1892 года парижские газеты опубликовали ужасную новость: кто-то попытался убить мадемуазель Стангерсон в замке Гландье."
+        },
+        {
+          "id": "sent-002",
+          "text": "La joven dormía en su habitación, conocida como «el cuarto amarillo», cuando ocurrió el ataque.",
+          "translationRu": "Молодая женщина спала в своей комнате, известной как «жёлтая комната», когда произошло нападение."
+        },
+        {
+          "id": "sent-003",
+          "text": "El cuarto amarillo estaba unido al laboratorio donde el profesor Stangerson, su padre, trabajaba esa noche.",
+          "translationRu": "Жёлтая комната примыкала к лаборатории, где той ночью работал профессор Стангерсон, её отец."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Según el viejo criado Jacques, Mademoiselle entró en su cuarto a medianoche y cerró la puerta con llave y cerrojo por dentro.",
+          "translationRu": "По словам старого слуги Жака, мадемуазель вошла в свою комнату в полночь и закрыла дверь изнутри на ключ и засов."
+        },
+        {
+          "id": "sent-005",
+          "text": "A las doce y media, Jacques y el profesor oyeron gritos desesperados: «¡Asesino! ¡Asesino! ¡Ayuda!»",
+          "translationRu": "В половине первого Жак и профессор услышали отчаянные крики: «Убийца! Убийца! Помогите!»"
+        },
+        {
+          "id": "sent-006",
+          "text": "Después sonaron dos disparos de revólver y el ruido de muebles que caían al suelo.",
+          "translationRu": "Затем раздались два выстрела из револьвера и шум падающей мебели."
+        },
+        {
+          "id": "sent-007",
+          "text": "El profesor y Jacques intentaron abrir la puerta, pero estaba cerrada por dentro y no podían entrar.",
+          "translationRu": "Профессор и Жак пытались открыть дверь, но она была заперта изнутри, и они не могли войти."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-008",
+          "text": "Cuando finalmente lograron romper la puerta, encontraron a Mademoiselle Stangerson en el suelo, cubierta de sangre.",
+          "translationRu": "Когда им наконец удалось выломать дверь, они нашли мадемуазель Стангерсон на полу, залитую кровью."
+        },
+        {
+          "id": "sent-009",
+          "text": "Tenía marcas terribles de dedos en el cuello y una herida grave en la sien derecha.",
+          "translationRu": "На её шее были страшные следы пальцев, а на правом виске — тяжёлая рана."
+        },
+        {
+          "id": "sent-010",
+          "text": "Lo más extraño fue que el asesino había desaparecido: no había nadie en la habitación.",
+          "translationRu": "Самым странным было то, что убийца исчез: в комнате никого не было."
+        },
+        {
+          "id": "sent-011",
+          "text": "La única ventana tenía barrotes intactos y los postigos estaban cerrados por dentro; la puerta había sido abierta a la fuerza.",
+          "translationRu": "На единственном окне были нетронутые решётки, ставни были закрыты изнутри; дверь взломали снаружи."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-012",
+          "text": "Los investigadores encontraron huellas de botas grandes con clavos en el suelo, un pañuelo manchado de sangre y una gorra vasca vieja.",
+          "translationRu": "Следователи обнаружили на полу следы больших сапог с гвоздями, окровавленный носовой платок и старую баскскую кепку."
+        },
+        {
+          "id": "sent-013",
+          "text": "También había una marca de una mano grande ensangrentada en la pared amarilla.",
+          "translationRu": "На жёлтой стене также виднелся отпечаток большой окровавленной руки."
+        },
+        {
+          "id": "sent-014",
+          "text": "El revólver encontrado en el suelo pertenecía al propio Jacques, quien lo guardaba en su desván.",
+          "translationRu": "Найденный на полу револьвер принадлежал самому Жаку, который хранил его на своём чердаке."
+        },
+        {
+          "id": "sent-015",
+          "text": "El juez de instrucción, Monsieur de Marquet, declaró que era el caso más extraño que había conocido en su carrera.",
+          "translationRu": "Следственный судья месье де Марке заявил, что это самое странное дело за всю его карьеру."
+        },
+        {
+          "id": "sent-016",
+          "text": "La pregunta que nadie podía responder era: ¿cómo había escapado el asesino de un cuarto cerrado por dentro?",
+          "translationRu": "Вопрос, на который никто не мог ответить: как убийца сбежал из комнаты, запертой изнутри?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "peter-pan",
+  "level": "c1",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "La familia Darling y la sombra perdida", "sentenceCount": 21},
+    {"id": "chapter-002", "number": 2, "title": "Peter, Wendy y el vuelo al País de Nunca Jamás", "sentenceCount": 22},
+    {"id": "chapter-003", "number": 3, "title": "La vida bajo tierra y la laguna de las sirenas", "sentenceCount": 20},
+    {"id": "chapter-004", "number": 4, "title": "La traición de Garfio y el rescate en el Jolly Roger", "sentenceCount": 20},
+    {"id": "chapter-005", "number": 5, "title": "El regreso y la eternidad de Peter", "sentenceCount": 21}
+  ]
+}
