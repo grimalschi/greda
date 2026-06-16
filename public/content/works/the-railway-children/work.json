@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-railway-children",
+  "title": "Los niños del ferrocarril",
+  "titleRu": "Дети железной дороги",
+  "originalTitle": "The Railway Children",
+  "author": {
+    "id": "e-nesbit",
+    "name": "E. Nesbit"
+  },
+  "genres": [
+    "Роман",
+    "Детство",
+    "Приключения"
+  ],
+  "synopsisRu": "Трое детей после ареста отца переезжают в деревню у железной дороги и заводят новых друзей. Роман Эдит Несбит.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

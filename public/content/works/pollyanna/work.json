@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "pollyanna",
+  "title": "Pollyanna",
+  "titleRu": "Поллианна",
+  "originalTitle": "Pollyanna",
+  "author": {
+    "id": "eleanor-h-porter",
+    "name": "Eleanor H. Porter"
+  },
+  "genres": [
+    "Роман",
+    "Детство",
+    "Оптимизм"
+  ],
+  "synopsisRu": "Сирота Поллианна обезоруживает угрюмый городок своей «игрой в радость». Роман Элинор Портер.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

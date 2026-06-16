@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-prince-and-the-pauper",
+  "title": "El príncipe y el mendigo",
+  "titleRu": "Принц и нищий",
+  "originalTitle": "The Prince and the Pauper",
+  "author": {
+    "id": "mark-twain",
+    "name": "Mark Twain"
+  },
+  "genres": [
+    "Приключения",
+    "Историческое",
+    "Детство"
+  ],
+  "synopsisRu": "Нищий мальчик и принц Уэльский, как две капли воды похожие, меняются местами. Роман Марка Твена.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
