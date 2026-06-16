@@ -4403,6 +4403,40 @@
       }
     },
     {
+      "id": "great-expectations",
+      "title": "Grandes esperanzas",
+      "titleRu": "Большие надежды",
+      "originalTitle": "Great Expectations",
+      "authorId": "charles-dickens",
+      "authorName": "Charles Dickens",
+      "genres": [
+        "Роман",
+        "Воспитание",
+        "Тайна"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 9,
+      "words": {
+        "a2": 1264,
+        "b1": 2507,
+        "b2": 2653,
+        "c1": 3657
+      }
+    },
+    {
       "id": "a-tale-of-two-cities",
       "title": "Historia de dos ciudades",
       "titleRu": "Повесть о двух городах",
@@ -4434,6 +4468,40 @@
         "b1": 2142,
         "b2": 1775,
         "c1": 2686
+      }
+    },
+    {
+      "id": "oliver-twist",
+      "title": "Oliver Twist",
+      "titleRu": "Оливер Твист",
+      "originalTitle": "Oliver Twist",
+      "authorId": "charles-dickens",
+      "authorName": "Charles Dickens",
+      "genres": [
+        "Роман",
+        "Социальная драма",
+        "Лондон"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 1269,
+        "b1": 1376,
+        "b2": 2592,
+        "c1": 3826
       }
     },
     {
@@ -8576,6 +8644,40 @@
       }
     },
     {
+      "id": "emma",
+      "title": "Emma",
+      "titleRu": "Эмма",
+      "originalTitle": "Emma",
+      "authorId": "jane-austen",
+      "authorName": "Jane Austen",
+      "genres": [
+        "Роман",
+        "Любовь",
+        "Нравы"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 1231,
+        "b1": 1719,
+        "b2": 2112,
+        "c1": 4365
+      }
+    },
+    {
       "id": "pride-and-prejudice",
       "title": "Orgullo y prejuicio",
       "titleRu": "Гордость и предубеждение",
@@ -8607,6 +8709,40 @@
         "b1": 2251,
         "b2": 3918,
         "c1": 5241
+      }
+    },
+    {
+      "id": "sense-and-sensibility",
+      "title": "Sentido y sensibilidad",
+      "titleRu": "Чувство и чувствительность",
+      "originalTitle": "Sense and Sensibility",
+      "authorId": "jane-austen",
+      "authorName": "Jane Austen",
+      "genres": [
+        "Роман",
+        "Любовь",
+        "Семья"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 1079,
+        "b1": 1994,
+        "b2": 2375,
+        "c1": 3503
       }
     },
     {

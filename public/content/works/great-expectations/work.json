@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "great-expectations",
+  "title": "Grandes esperanzas",
+  "titleRu": "Большие надежды",
+  "originalTitle": "Great Expectations",
+  "author": {
+    "id": "charles-dickens",
+    "name": "Charles Dickens"
+  },
+  "genres": [
+    "Роман",
+    "Воспитание",
+    "Тайна"
+  ],
+  "synopsisRu": "Деревенский мальчик Пип получает таинственное наследство и едет в Лондон становиться джентльменом. Роман Чарльза Диккенса.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
