@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "moby-dick",
+  "title": "Moby Dick",
+  "titleRu": "Моби Дик",
+  "originalTitle": "Moby Dick; or, The Whale",
+  "author": {
+    "id": "herman-melville",
+    "name": "Herman Melville"
+  },
+  "genres": [
+    "Приключения",
+    "Море",
+    "Классика"
+  ],
+  "synopsisRu": "Капитан Ахав одержим погоней за белым китом, искалечившим его. Роман Германа Мелвилла.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

@@ -5112,6 +5112,38 @@
       }
     },
     {
+      "id": "the-age-of-innocence",
+      "title": "La edad de la inocencia",
+      "titleRu": "Эпоха невинности",
+      "originalTitle": "The Age of Innocence",
+      "authorId": "edith-wharton",
+      "authorName": "Edith Wharton",
+      "genres": [
+        "Роман",
+        "Общество",
+        "Любовь"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 1315,
+        "b1": 1538,
+        "b2": 2644
+      }
+    },
+    {
       "id": "cities-in-the-air",
       "title": "Ciudades en el aire",
       "titleRu": "Города в небе",
@@ -5924,6 +5956,40 @@
         "b1": 415,
         "b2": 655,
         "c1": 964
+      }
+    },
+    {
+      "id": "crime-and-punishment",
+      "title": "Crimen y castigo",
+      "titleRu": "Преступление и наказание",
+      "originalTitle": "Crime and Punishment",
+      "authorId": "fyodor-dostoevsky",
+      "authorName": "Fyodor Dostoevsky",
+      "genres": [
+        "Роман",
+        "Психология",
+        "Преступление"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 10,
+      "words": {
+        "a2": 1458,
+        "b1": 2509,
+        "b2": 2683,
+        "c1": 4886
       }
     },
     {
@@ -7152,6 +7218,40 @@
       }
     },
     {
+      "id": "madame-bovary",
+      "title": "Madame Bovary",
+      "titleRu": "Госпожа Бовари",
+      "originalTitle": "Madame Bovary",
+      "authorId": "gustave-flaubert",
+      "authorName": "Gustave Flaubert",
+      "genres": [
+        "Роман",
+        "Драма",
+        "Реализм"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 1254,
+        "b1": 1656,
+        "b2": 1578,
+        "c1": 3473
+      }
+    },
+    {
       "id": "under-the-knife",
       "title": "Bajo el bisturí",
       "titleRu": "Под скальпелем",
@@ -8136,6 +8236,40 @@
         "b1": 541,
         "b2": 754,
         "c1": 1142
+      }
+    },
+    {
+      "id": "moby-dick",
+      "title": "Moby Dick",
+      "titleRu": "Моби Дик",
+      "originalTitle": "Moby Dick; or, The Whale",
+      "authorId": "herman-melville",
+      "authorName": "Herman Melville",
+      "genres": [
+        "Приключения",
+        "Море",
+        "Классика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 10,
+      "words": {
+        "a2": 1070,
+        "b1": 2456,
+        "b2": 2902,
+        "c1": 3949
       }
     },
     {

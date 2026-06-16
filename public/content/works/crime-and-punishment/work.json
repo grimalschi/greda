@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "crime-and-punishment",
+  "title": "Crimen y castigo",
+  "titleRu": "Преступление и наказание",
+  "originalTitle": "Crime and Punishment",
+  "author": {
+    "id": "fyodor-dostoevsky",
+    "name": "Fyodor Dostoevsky"
+  },
+  "genres": [
+    "Роман",
+    "Психология",
+    "Преступление"
+  ],
+  "synopsisRu": "Бедный студент Раскольников в Петербурге убивает старуху-процентщицу и мучается виной. Роман Фёдора Достоевского.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

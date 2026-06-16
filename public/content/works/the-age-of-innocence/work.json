@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-age-of-innocence",
+  "title": "La edad de la inocencia",
+  "titleRu": "Эпоха невинности",
+  "originalTitle": "The Age of Innocence",
+  "author": {
+    "id": "edith-wharton",
+    "name": "Edith Wharton"
+  },
+  "genres": [
+    "Роман",
+    "Общество",
+    "Любовь"
+  ],
+  "synopsisRu": "В чопорном нью-йоркском обществе Ньюленд Арчер мечется между невестой и её свободомыслящей кузиной. Роман Эдит Уортон.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
