@@ -54,11 +54,30 @@ Schemas in `schemas/`. The validator (`scripts/validate-content.mjs`) enforces t
 2. `npm run build:catalog` (rebuilds `catalog.json`, normalizes `work.json`).
 3. `npm run validate` until clean, then `npm run build`.
 
+## Adaptation methodology (IMPORTANT — current standard)
+Graded reading here means **simplify the language, not the content**. Keep ALL of the original:
+every scene, plot beat, key detail, important dialogue, deduction and emotional turn. Do **not**
+summarize or collapse events into a synopsis. Only the *form* is simplified per CEFR level — short
+sentences (one idea each), high-frequency vocabulary, simple tenses, long periods broken into several
+short ones. The result stays close to the original in coverage (rule of thumb: ~1 simplified sentence
+per ~30–40 source words; a ~6 000-word story → ~150–200 sentences, **not** ~35). Sensitive themes:
+render the meaning faithfully in respectful modern language; never reproduce archaic slurs.
+Spec: `.plan/spec-faithful.md`.
+
+- **Legacy caveat:** most existing content (original 263 + 87 classics) used an earlier *soft-shorten /
+  condense* approach that compressed heavily and dropped detail — it is being migrated to the faithful
+  method. First faithful example kept for comparison: `the-yellow-face` level **`b1v2`** (4 ch /
+  375 sentences vs old `b1` 36 — ×6.3).
+- **`b1v2` (optional extra level, label "B1 v2"):** a faithful re-take that coexists with the base 6
+  levels. Non-base levels are optional per work and wired through `schemas/` (`level` enums +
+  `work.levels.b1v2`), `scripts/build-catalog.mjs` (preserves extra levels), `validate-content.mjs`,
+  `src/types.ts` (`Level`/`LEVEL_ORDER`/`LEVEL_LABELS`), and `WorkPage` (renders extra levels only where present).
+
 ## Content sources & generation (out-of-app, one-time)
 - **All sources are public domain from Project Gutenberg** (gutenberg.org, first published ≤1930 → US public domain).
 - **`content-sources.json`** (repo root) — manifest mapping every generated work → its Gutenberg URL, author, year, container, raw-text file.
 - **`sources/`** (repo root, NOT under `public/`, NOT deployed) — the 67 raw Gutenberg text files, preserved for reproducibility.
-- Generation pipeline used: research subagents compiled & verified the Gutenberg list → orchestrator downloaded sources locally → batches of 10 subagents each read a local source and wrote 4 levels + `work.json` → `build:catalog` → `validate` → commit/push per batch. Per-work generation spec/guidance: `prompts/adaptation.md`. Soft-shorten only — never drop whole plot scenes; a few long novels are condensed into one chapter.
+- Generation pipeline used: research subagents compiled & verified the Gutenberg list → orchestrator downloaded sources locally → batches of 10 subagents each read a local source and wrote 4 levels + `work.json` → `build:catalog` → `validate` → commit/push per batch. Per-work generation spec/guidance: `prompts/adaptation.md` (legacy soft-shorten) and `.plan/spec-faithful.md` (**current** faithful method — see "Adaptation methodology" above). That existing content was soft-shortened (heavy compression); new/regenerated content must use the faithful method.
 - Working files (gitignored): `.gen-plan.json`, `.plan/`.
 
 ## Conventions
