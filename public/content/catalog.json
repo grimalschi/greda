@@ -4739,6 +4739,39 @@
       }
     },
     {
+      "id": "tarzan-of-the-apes",
+      "title": "Tarzán de los monos",
+      "titleRu": "Тарзан, приёмыш обезьян",
+      "originalTitle": "Tarzan of the Apes",
+      "authorId": "edgar-rice-burroughs",
+      "authorName": "Edgar Rice Burroughs",
+      "genres": [
+        "Приключения",
+        "Джунгли"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1285,
+        "b1": 1995,
+        "b2": 3042,
+        "c1": 5289
+      }
+    },
+    {
       "id": "a-princess-of-mars",
       "title": "Una princesa de Marte",
       "titleRu": "Принцесса Марса",
@@ -7215,6 +7248,40 @@
       }
     },
     {
+      "id": "the-war-of-the-worlds",
+      "title": "La guerra de los mundos",
+      "titleRu": "Война миров",
+      "originalTitle": "The War of the Worlds",
+      "authorId": "h-g-wells",
+      "authorName": "H. G. Wells",
+      "genres": [
+        "Фантастика",
+        "Вторжение",
+        "Катастрофа"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 719,
+        "b1": 1316,
+        "b2": 2220,
+        "c1": 2569
+      }
+    },
+    {
       "id": "the-plattner-story",
       "title": "La historia de Plattner",
       "titleRu": "История Платтнера",
@@ -7348,6 +7415,40 @@
         "b2": 784,
         "c1": 1078,
         "c2": 1437
+      }
+    },
+    {
+      "id": "the-island-of-doctor-moreau",
+      "title": "La isla del doctor Moreau",
+      "titleRu": "Остров доктора Моро",
+      "originalTitle": "The Island of Doctor Moreau",
+      "authorId": "h-g-wells",
+      "authorName": "H. G. Wells",
+      "genres": [
+        "Фантастика",
+        "Ужасы",
+        "Эксперимент"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 757,
+        "b1": 1469,
+        "b2": 1851,
+        "c1": 3395
       }
     },
     {
@@ -8235,6 +8336,40 @@
         "b1": 2088,
         "b2": 3709,
         "c1": 6161
+      }
+    },
+    {
+      "id": "journey-to-the-center-of-the-earth",
+      "title": "Viaje al centro de la Tierra",
+      "titleRu": "Путешествие к центру Земли",
+      "originalTitle": "A Journey to the Centre of the Earth",
+      "authorId": "jules-verne",
+      "authorName": "Jules Verne",
+      "genres": [
+        "Фантастика",
+        "Приключения",
+        "Экспедиция"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1010,
+        "b1": 2258,
+        "b2": 2964,
+        "c1": 4389
       }
     },
     {

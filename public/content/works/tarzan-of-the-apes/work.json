@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "id": "tarzan-of-the-apes",
+  "title": "Tarzán de los monos",
+  "titleRu": "Тарзан, приёмыш обезьян",
+  "originalTitle": "Tarzan of the Apes",
+  "author": {
+    "id": "edgar-rice-burroughs",
+    "name": "Edgar Rice Burroughs"
+  },
+  "genres": [
+    "Приключения",
+    "Джунгли"
+  ],
+  "synopsisRu": "Осиротевший младенец из английской семьи растёт среди обезьян в африканских джунглях. Приключенческий роман Эдгара Райса Берроуза.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
