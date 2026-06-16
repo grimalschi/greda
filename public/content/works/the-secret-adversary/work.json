@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-secret-adversary",
+  "title": "El adversario secreto",
+  "titleRu": "Таинственный противник",
+  "originalTitle": "The Secret Adversary",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив",
+    "Шпионский",
+    "Приключения"
+  ],
+  "synopsisRu": "Молодые друзья Томми и Таппенс открывают агентство и берутся за дело о пропавших секретных документах. Детектив Агаты Кристи.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

@@ -110,6 +110,40 @@
       }
     },
     {
+      "id": "the-secret-adversary",
+      "title": "El adversario secreto",
+      "titleRu": "Таинственный противник",
+      "originalTitle": "The Secret Adversary",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив",
+        "Шпионский",
+        "Приключения"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 638,
+        "b1": 1250,
+        "b2": 1995,
+        "c1": 3087
+      }
+    },
+    {
       "id": "the-mysterious-affair-at-styles",
       "title": "El misterioso caso de Styles",
       "titleRu": "Загадочное происшествие в Стайлзе",
@@ -9256,6 +9290,40 @@
       }
     },
     {
+      "id": "a-connecticut-yankee-in-king-arthurs-court",
+      "title": "Un yanqui en la corte del rey Arturo",
+      "titleRu": "Янки при дворе короля Артура",
+      "originalTitle": "A Connecticut Yankee in King Arthur's Court",
+      "authorId": "mark-twain",
+      "authorName": "Mark Twain",
+      "genres": [
+        "Фантастика",
+        "Сатира",
+        "Путешествие во времени"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 877,
+        "b1": 1374,
+        "b2": 2140,
+        "c1": 2801
+      }
+    },
+    {
       "id": "the-circular-staircase",
       "title": "La escalera de caracol",
       "titleRu": "Винтовая лестница",
@@ -10784,6 +10852,74 @@
         "b2": 5478,
         "c1": 8337,
         "c2": 8488
+      }
+    },
+    {
+      "id": "tess-of-the-durbervilles",
+      "title": "Tess, la de los d'Urberville",
+      "titleRu": "Тэсс из рода д’Эрбервиллей",
+      "originalTitle": "Tess of the d'Urbervilles",
+      "authorId": "thomas-hardy",
+      "authorName": "Thomas Hardy",
+      "genres": [
+        "Роман",
+        "Драма",
+        "Трагедия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 1281,
+        "b1": 1629,
+        "b2": 2599,
+        "c1": 3043
+      }
+    },
+    {
+      "id": "the-hunchback-of-notre-dame",
+      "title": "Nuestra Señora de París",
+      "titleRu": "Собор Парижской Богоматери",
+      "originalTitle": "The Hunchback of Notre Dame",
+      "authorId": "victor-hugo",
+      "authorName": "Victor Hugo",
+      "genres": [
+        "Готика",
+        "Историческое",
+        "Драма"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 9,
+      "words": {
+        "a2": 1502,
+        "b1": 2449,
+        "b2": 2408,
+        "c1": 4652
       }
     },
     {

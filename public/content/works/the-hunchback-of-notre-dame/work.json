@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-hunchback-of-notre-dame",
+  "title": "Nuestra Señora de París",
+  "titleRu": "Собор Парижской Богоматери",
+  "originalTitle": "The Hunchback of Notre Dame",
+  "author": {
+    "id": "victor-hugo",
+    "name": "Victor Hugo"
+  },
+  "genres": [
+    "Готика",
+    "Историческое",
+    "Драма"
+  ],
+  "synopsisRu": "Глухой звонарь Квазимодо и красавица-цыганка Эсмеральда в средневековом Париже у стен собора. Роман Виктора Гюго.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 9
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
