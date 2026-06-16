@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "black-beauty",
+  "level": "b1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "Mi primer hogar",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La caza",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El adiestramiento",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "Parque Birtwick",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "Un buen comienzo",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "Historia de Ginger",
+      "sentenceCount": 16
+    }
+  ]
+}

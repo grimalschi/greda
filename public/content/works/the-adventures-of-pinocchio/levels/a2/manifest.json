@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventures-of-pinocchio",
+  "level": "a2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El carpintero encuentra la madera mágica",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "Geppetto recibe la madera",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "Pinocho huye y conoce al Grillo",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "Pinocho tiene hambre y encuentra un huevo",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "La noche oscura y los pies quemados",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "Geppetto vuelve a casa",
+      "sentenceCount": 18
+    }
+  ]
+}

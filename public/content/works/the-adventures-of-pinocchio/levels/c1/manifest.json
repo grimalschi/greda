@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventures-of-pinocchio",
+  "level": "c1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El trozo de madera hablador",
+      "sentenceCount": 24
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La marioneta desobediente",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El Grillo Parlante y las tentaciones",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El teatro de marionetas y el Comedor de Fuego",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "Robado, encarcelado y el ciclo del castigo",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "La redención final y el milagro",
+      "sentenceCount": 22
+    }
+  ]
+}

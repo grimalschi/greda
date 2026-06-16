@@ -479,6 +479,40 @@
       }
     },
     {
+      "id": "black-beauty",
+      "title": "Azabache",
+      "titleRu": "Чёрный Красавчик",
+      "originalTitle": "Black Beauty",
+      "authorId": "anna-sewell",
+      "authorName": "Anna Sewell",
+      "genres": [
+        "Животные",
+        "Драма",
+        "Викторианство"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1023,
+        "b1": 1054,
+        "b2": 1825,
+        "c1": 3640
+      }
+    },
+    {
       "id": "the-prisoner-of-zenda",
       "title": "El prisionero de Zenda",
       "titleRu": "Узник Зенды",
@@ -4366,6 +4400,40 @@
         "b1": 2580,
         "b2": 4464,
         "c1": 4937
+      }
+    },
+    {
+      "id": "the-adventures-of-pinocchio",
+      "title": "Las aventuras de Pinocho",
+      "titleRu": "Приключения Пиноккио",
+      "originalTitle": "The Adventures of Pinocchio",
+      "authorId": "carlo-collodi",
+      "authorName": "Carlo Collodi",
+      "genres": [
+        "Сказка",
+        "Приключения",
+        "Мораль"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 863,
+        "b1": 1567,
+        "b2": 2399,
+        "c1": 2187
       }
     },
     {
@@ -8950,6 +9018,40 @@
       }
     },
     {
+      "id": "the-wind-in-the-willows",
+      "title": "El viento en los sauces",
+      "titleRu": "Ветер в ивах",
+      "originalTitle": "The Wind in the Willows",
+      "authorId": "kenneth-grahame",
+      "authorName": "Kenneth Grahame",
+      "genres": [
+        "Сказка",
+        "Природа",
+        "Друзья"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 1106,
+        "b1": 1245,
+        "b2": 1556,
+        "c1": 2276
+      }
+    },
+    {
       "id": "the-wonderful-wizard-of-oz",
       "title": "El maravilloso mago de Oz",
       "titleRu": "Удивительный волшебник из страны Оз",
@@ -9049,6 +9151,40 @@
         "b1": 1506,
         "b2": 1920,
         "c1": 2131
+      }
+    },
+    {
+      "id": "little-women",
+      "title": "Mujercitas",
+      "titleRu": "Маленькие женщины",
+      "originalTitle": "Little Women",
+      "authorId": "louisa-may-alcott",
+      "authorName": "Louisa May Alcott",
+      "genres": [
+        "Роман",
+        "Семья",
+        "Взросление"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 9,
+      "words": {
+        "a2": 1239,
+        "b1": 1992,
+        "b2": 2017,
+        "c1": 4388
       }
     },
     {

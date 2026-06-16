@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventures-of-pinocchio",
+  "level": "b2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "Un trozo de madera mágica",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "En las manos del Comedor de Fuego",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "La tentación del País de los Juguetes",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El camino hacia la redención",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "El tiburón y la isla de abejas",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "Un verdadero niño al fin",
+      "sentenceCount": 20
+    }
+  ]
+}

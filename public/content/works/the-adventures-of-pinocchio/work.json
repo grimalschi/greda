@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventures-of-pinocchio",
+  "title": "Las aventuras de Pinocho",
+  "titleRu": "Приключения Пиноккио",
+  "originalTitle": "The Adventures of Pinocchio",
+  "author": {
+    "id": "carlo-collodi",
+    "name": "Carlo Collodi"
+  },
+  "genres": [
+    "Сказка",
+    "Приключения",
+    "Мораль"
+  ],
+  "synopsisRu": "Деревянный мальчик Пиноккио мечтает стать настоящим и попадает в переделки. Сказка Карло Коллоди.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

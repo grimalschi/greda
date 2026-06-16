@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-wind-in-the-willows",
+  "level": "c1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El Topo y el Río",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "El Camino Abierto",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El Bosque Salvaje",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "Dulce Hogar",
+      "sentenceCount": 22
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "El Regreso del Sapo",
+      "sentenceCount": 22
+    }
+  ]
+}
