@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-picture-of-dorian-gray",
+  "title": "El retrato de Dorian Gray",
+  "titleRu": "Портрет Дориана Грея",
+  "originalTitle": "The Picture of Dorian Gray",
+  "author": {
+    "id": "oscar-wilde",
+    "name": "Oscar Wilde"
+  },
+  "genres": [
+    "Готика",
+    "Психология",
+    "Мораль"
+  ],
+  "synopsisRu": "Прекрасный юноша остаётся вечно молодым, а стареет и уродуется лишь его портрет. Роман Оскара Уайльда.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

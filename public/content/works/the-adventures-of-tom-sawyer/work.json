@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventures-of-tom-sawyer",
+  "title": "Las aventuras de Tom Sawyer",
+  "titleRu": "Приключения Тома Сойера",
+  "originalTitle": "The Adventures of Tom Sawyer",
+  "author": {
+    "id": "mark-twain",
+    "name": "Mark Twain"
+  },
+  "genres": [
+    "Приключения",
+    "Детство",
+    "Юмор"
+  ],
+  "synopsisRu": "Озорной мальчишка Том Сойер живёт в городке на Миссисипи, ищет клады и попадает в переделки. Роман Марка Твена.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

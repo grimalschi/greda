@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventures-of-huckleberry-finn",
+  "level": "b2",
+  "chapters": [
+    { "id": "chapter-001", "number": 1, "title": "La vida en casa de la viuda", "sentenceCount": 20 },
+    { "id": "chapter-002", "number": 2, "title": "El padre y la huida", "sentenceCount": 21 },
+    { "id": "chapter-003", "number": 3, "title": "En la balsa, río abajo", "sentenceCount": 20 },
+    { "id": "chapter-004", "number": 4, "title": "El rey y el duque", "sentenceCount": 22 },
+    { "id": "chapter-005", "number": 5, "title": "Los impostores y el funeral", "sentenceCount": 20 },
+    { "id": "chapter-006", "number": 6, "title": "La traición y la decisión", "sentenceCount": 21 },
+    { "id": "chapter-007", "number": 7, "title": "La evasión y la libertad", "sentenceCount": 24 }
+  ]
+}

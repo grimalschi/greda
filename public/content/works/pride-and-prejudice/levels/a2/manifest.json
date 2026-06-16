@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "pride-and-prejudice",
+  "level": "a2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "La llegada de Bingley", "sentenceCount": 16},
+    {"id": "chapter-002", "number": 2, "title": "Jane enferma en Netherfield", "sentenceCount": 15},
+    {"id": "chapter-003", "number": 3, "title": "El baile y las propuestas", "sentenceCount": 16},
+    {"id": "chapter-004", "number": 4, "title": "Separaciones y viajes", "sentenceCount": 16},
+    {"id": "chapter-005", "number": 5, "title": "La propuesta de Darcy", "sentenceCount": 15},
+    {"id": "chapter-006", "number": 6, "title": "La visita a Pemberley", "sentenceCount": 16},
+    {"id": "chapter-007", "number": 7, "title": "La fuga de Lydia", "sentenceCount": 16},
+    {"id": "chapter-008", "number": 8, "title": "El compromiso", "sentenceCount": 16}
+  ]
+}

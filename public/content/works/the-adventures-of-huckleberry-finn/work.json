@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventures-of-huckleberry-finn",
+  "title": "Las aventuras de Huckleberry Finn",
+  "titleRu": "Приключения Гекльберри Финна",
+  "originalTitle": "Adventures of Huckleberry Finn",
+  "author": {
+    "id": "mark-twain",
+    "name": "Mark Twain"
+  },
+  "genres": [
+    "Приключения",
+    "Река",
+    "Юмор"
+  ],
+  "synopsisRu": "Гек Финн и беглый раб Джим плывут на плоту вниз по Миссисипи. Роман Марка Твена.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

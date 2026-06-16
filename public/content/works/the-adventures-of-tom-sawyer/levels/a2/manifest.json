@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventures-of-tom-sawyer",
+  "level": "a2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "Tom y la valla blanca", "sentenceCount": 16},
+    {"id": "chapter-002", "number": 2, "title": "Becky y el cementerio", "sentenceCount": 16},
+    {"id": "chapter-003", "number": 3, "title": "Los piratas en la isla", "sentenceCount": 15},
+    {"id": "chapter-004", "number": 4, "title": "El funeral y la verdad", "sentenceCount": 13},
+    {"id": "chapter-005", "number": 5, "title": "El juicio y el tesoro", "sentenceCount": 13},
+    {"id": "chapter-006", "number": 6, "title": "La cueva y el final", "sentenceCount": 13}
+  ]
+}

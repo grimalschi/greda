@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-jungle-book",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El niño lobo"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Una noche calurosa, el Lobo Padre salió de su cueva para cazar.",
+          "translationRu": "Однажды жаркой ночью Папа Волк вышел из своей пещеры на охоту."
+        },
+        {
+          "id": "sent-002",
+          "text": "La Madre Loba descansaba con sus cuatro cachorros pequeños.",
+          "translationRu": "Мама Волчица отдыхала со своими четырьмя маленькими волчатами."
+        },
+        {
+          "id": "sent-003",
+          "text": "De repente, llegó Tabaqui, el chacal, con una noticia.",
+          "translationRu": "Вдруг пришёл Табаки, шакал, с новостью."
+        },
+        {
+          "id": "sent-004",
+          "text": "«Shere Khan, el tigre, viene a cazar en estas colinas», dijo Tabaqui.",
+          "translationRu": "«Шер-Хан, тигр, идёт охотиться на эти холмы», — сказал Табаки."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "El Lobo Padre no le gustó esta noticia, pues Shere Khan asustaba a todos los animales.",
+          "translationRu": "Папе Волку не понравилась эта новость, так как Шер-Хан пугал всех животных."
+        },
+        {
+          "id": "sent-006",
+          "text": "Pronto oyeron un ruido en los arbustos.",
+          "translationRu": "Вскоре они услышали шум в кустах."
+        },
+        {
+          "id": "sent-007",
+          "text": "Un bebé humano pequeño y desnudo entró en la cueva.",
+          "translationRu": "Маленький голый человеческий ребёнок вошёл в пещеру."
+        },
+        {
+          "id": "sent-008",
+          "text": "El niño no tenía miedo. Miró al Lobo Padre y se rió.",
+          "translationRu": "Мальчик не боялся. Он посмотрел на Папу Волка и засмеялся."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Shere Khan llegó a la entrada de la cueva y dijo: «Dame al niño. Él es mío».",
+          "translationRu": "Шер-Хан подошёл ко входу в пещеру и сказал: «Отдайте мне мальчика. Он мой»."
+        },
+        {
+          "id": "sent-010",
+          "text": "La Madre Loba se puso delante del niño. «¡No!», dijo ella con fuerza.",
+          "translationRu": "Мама Волчица встала перед мальчиком. «Нет!» — сказала она твёрдо."
+        },
+        {
+          "id": "sent-011",
+          "text": "«Este niño es nuestro. Se llama Mowgli, y vivirá con nosotros».",
+          "translationRu": "«Этот мальчик наш. Его зовут Маугли, и он будет жить с нами»."
+        },
+        {
+          "id": "sent-012",
+          "text": "Shere Khan era grande, pero la cueva era pequeña. Él no podía entrar.",
+          "translationRu": "Шер-Хан был большим, но пещера была маленькой. Он не мог войти."
+        },
+        {
+          "id": "sent-013",
+          "text": "El tigre se fue gruñendo, pero prometió volver.",
+          "translationRu": "Тигр ушёл, рыча, но пообещал вернуться."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-014",
+          "text": "En la reunión del clan de lobos, Baloo el oso y Bagheera la pantera negra hablaron por Mowgli.",
+          "translationRu": "На собрании волчьей стаи медведь Балу и чёрная пантера Багира заступились за Маугли."
+        },
+        {
+          "id": "sent-015",
+          "text": "Bagheera pagó con un toro para que el clan aceptara al niño.",
+          "translationRu": "Багира заплатила быком, чтобы стая приняла мальчика."
+        },
+        {
+          "id": "sent-016",
+          "text": "Así, Mowgli entró en la manada de lobos y creció en la selva.",
+          "translationRu": "Так Маугли вошёл в волчью стаю и вырос в джунглях."
+        }
+      ]
+    }
+  ]
+}

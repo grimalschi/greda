@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "pride-and-prejudice",
+  "level": "a2",
+  "chapter": {"id": "chapter-005", "number": 5, "title": "La propuesta de Darcy"},
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "Un día, el señor Darcy vino a visitar a Elizabeth.", "translationRu": "Однажды мистер Дарси пришёл навестить Элизабет."},
+        {"id": "sent-002", "text": "Le dijo que la amaba y que quería casarse con ella.", "translationRu": "Он сказал ей, что любит её и хочет жениться на ней."},
+        {"id": "sent-003", "text": "Pero también dijo que su familia no era buena para él.", "translationRu": "Но он также сказал, что её семья не ровня ему."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-004", "text": "Elizabeth estaba muy enojada con estas palabras.", "translationRu": "Элизабет была очень рассержена этими словами."},
+        {"id": "sent-005", "text": "Ella dijo que no quería casarse con él.", "translationRu": "Она сказала, что не хочет выходить за него замуж."},
+        {"id": "sent-006", "text": "Lo acusó de separar a Bingley y a Jane y de tratar mal a Wickham.", "translationRu": "Она обвинила его в том, что он разлучил Бингли и Джейн и плохо обращался с Уикемом."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-007", "text": "Darcy se fue sin decir nada más.", "translationRu": "Дарси ушёл, не сказав больше ни слова."},
+        {"id": "sent-008", "text": "Al día siguiente, le dio a Elizabeth una carta larga.", "translationRu": "На следующий день он отдал Элизабет длинное письмо."},
+        {"id": "sent-009", "text": "En la carta explicó la verdad sobre Wickham.", "translationRu": "В письме он объяснил правду об Уикеме."}
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {"id": "sent-010", "text": "Wickham había intentado casarse con la hermana de Darcy para robarle su dinero.", "translationRu": "Уикем пытался жениться на сестре Дарси, чтобы завладеть её деньгами."},
+        {"id": "sent-011", "text": "Darcy lo había impedido y por eso Wickham lo odiaba.", "translationRu": "Дарси помешал ему, и поэтому Уикем его ненавидел."},
+        {"id": "sent-012", "text": "Elizabeth leyó la carta varias veces.", "translationRu": "Элизабет читала письмо несколько раз."}
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {"id": "sent-013", "text": "Entendió que había juzgado mal a Darcy y bien a Wickham.", "translationRu": "Она поняла, что неверно судила о Дарси и доверяла Уикему."},
+        {"id": "sent-014", "text": "Se sintió avergonzada de sus propios errores.", "translationRu": "Ей стало стыдно за свои собственные ошибки."},
+        {"id": "sent-015", "text": "Poco después, Elizabeth volvió a casa.", "translationRu": "Вскоре Элизабет вернулась домой."}
+      ]
+    }
+  ]
+}

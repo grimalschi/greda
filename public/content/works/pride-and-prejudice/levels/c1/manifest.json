@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "pride-and-prejudice",
+  "level": "c1",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "Un vecino de buena fortuna", "sentenceCount": 20},
+    {"id": "chapter-002", "number": 2, "title": "Enferma en Netherfield", "sentenceCount": 16},
+    {"id": "chapter-003", "number": 3, "title": "El baile de Netherfield", "sentenceCount": 20},
+    {"id": "chapter-004", "number": 4, "title": "Hunsford y la primera propuesta", "sentenceCount": 16},
+    {"id": "chapter-005", "number": 5, "title": "La carta y el despertar", "sentenceCount": 16},
+    {"id": "chapter-006", "number": 6, "title": "Pemberley y la catástrofe", "sentenceCount": 16},
+    {"id": "chapter-007", "number": 7, "title": "La deuda impagable", "sentenceCount": 16},
+    {"id": "chapter-008", "number": 8, "title": "La segunda propuesta y la felicidad", "sentenceCount": 17}
+  ]
+}

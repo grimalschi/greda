@@ -7736,6 +7736,40 @@
       }
     },
     {
+      "id": "white-fang",
+      "title": "Colmillo Blanco",
+      "titleRu": "Белый Клык",
+      "originalTitle": "White Fang",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": [
+        "Приключения",
+        "Природа",
+        "Север"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 869,
+        "b1": 1925,
+        "b2": 2654,
+        "c1": 3661
+      }
+    },
+    {
       "id": "the-white-silence",
       "title": "El silencio blanco",
       "titleRu": "Белое безмолвие",
@@ -8237,6 +8271,40 @@
       }
     },
     {
+      "id": "pride-and-prejudice",
+      "title": "Orgullo y prejuicio",
+      "titleRu": "Гордость и предубеждение",
+      "originalTitle": "Pride and Prejudice",
+      "authorId": "jane-austen",
+      "authorName": "Jane Austen",
+      "genres": [
+        "Роман",
+        "Любовь",
+        "Нравы"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 1213,
+        "b1": 2251,
+        "b2": 3918,
+        "c1": 5241
+      }
+    },
+    {
       "id": "heart-of-darkness",
       "title": "El corazón de las tinieblas",
       "titleRu": "Сердце тьмы",
@@ -8438,6 +8506,74 @@
         "b1": 1506,
         "b2": 1920,
         "c1": 2131
+      }
+    },
+    {
+      "id": "the-adventures-of-huckleberry-finn",
+      "title": "Las aventuras de Huckleberry Finn",
+      "titleRu": "Приключения Гекльберри Финна",
+      "originalTitle": "Adventures of Huckleberry Finn",
+      "authorId": "mark-twain",
+      "authorName": "Mark Twain",
+      "genres": [
+        "Приключения",
+        "Река",
+        "Юмор"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 1260,
+        "b1": 2167,
+        "b2": 3193,
+        "c1": 5071
+      }
+    },
+    {
+      "id": "the-adventures-of-tom-sawyer",
+      "title": "Las aventuras de Tom Sawyer",
+      "titleRu": "Приключения Тома Сойера",
+      "originalTitle": "The Adventures of Tom Sawyer",
+      "authorId": "mark-twain",
+      "authorName": "Mark Twain",
+      "genres": [
+        "Приключения",
+        "Детство",
+        "Юмор"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1013,
+        "b1": 2146,
+        "b2": 2245,
+        "c1": 3706
       }
     },
     {
@@ -8675,6 +8811,40 @@
         "b2": 5594,
         "c1": 4963,
         "c2": 6273
+      }
+    },
+    {
+      "id": "the-picture-of-dorian-gray",
+      "title": "El retrato de Dorian Gray",
+      "titleRu": "Портрет Дориана Грея",
+      "originalTitle": "The Picture of Dorian Gray",
+      "authorId": "oscar-wilde",
+      "authorName": "Oscar Wilde",
+      "genres": [
+        "Готика",
+        "Психология",
+        "Мораль"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1006,
+        "b1": 1599,
+        "b2": 2383,
+        "c1": 3236
       }
     },
     {
@@ -9730,6 +9900,40 @@
         "b1": 2083,
         "b2": 2480,
         "c1": 3499
+      }
+    },
+    {
+      "id": "the-jungle-book",
+      "title": "El libro de la selva",
+      "titleRu": "Книга джунглей",
+      "originalTitle": "The Jungle Book",
+      "authorId": "rudyard-kipling",
+      "authorName": "Rudyard Kipling",
+      "genres": [
+        "Приключения",
+        "Джунгли",
+        "Сказка"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 1030,
+        "b1": 2092,
+        "b2": 2452,
+        "c1": 3614
       }
     },
     {

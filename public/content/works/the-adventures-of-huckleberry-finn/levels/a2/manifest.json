@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventures-of-huckleberry-finn",
+  "level": "a2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "Huck y la viuda", "sentenceCount": 17},
+    {"id": "chapter-002", "number": 2, "title": "La fuga de Huck", "sentenceCount": 16},
+    {"id": "chapter-003", "number": 3, "title": "En la isla y en la balsa", "sentenceCount": 15},
+    {"id": "chapter-004", "number": 4, "title": "La niebla y los Grangerford", "sentenceCount": 17},
+    {"id": "chapter-005", "number": 5, "title": "El rey y el duque", "sentenceCount": 16},
+    {"id": "chapter-006", "number": 6, "title": "El engaño de Wilks", "sentenceCount": 16},
+    {"id": "chapter-007", "number": 7, "title": "La libertad de Jim", "sentenceCount": 17}
+  ]
+}
