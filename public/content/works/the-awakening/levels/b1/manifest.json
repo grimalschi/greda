@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-awakening",
+  "level": "b1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "Un papagayo y un marido",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "Conversación en la tarde",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El despertar de la noche",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "Las mujeres madres",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "La voz del mar",
+      "sentenceCount": 16
+    }
+  ]
+}

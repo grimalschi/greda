@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "candide",
+  "level": "a2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El castillo del Barón",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "Los búlgaros",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "En Ámsterdam",
+      "sentenceCount": 17
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "La tormenta en el mar",
+      "sentenceCount": 18
+    }
+  ]
+}

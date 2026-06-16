@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "a-room-with-a-view",
+  "title": "Una habitación con vistas",
+  "titleRu": "Комната с видом",
+  "originalTitle": "A Room with a View",
+  "author": {
+    "id": "e-m-forster",
+    "name": "E. M. Forster"
+  },
+  "genres": [
+    "Роман",
+    "Любовь",
+    "Путешествия"
+  ],
+  "synopsisRu": "Юная англичанка Люси встречает во Флоренции человека, который пробуждает в ней настоящие чувства. Роман Эдварда Форстера.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

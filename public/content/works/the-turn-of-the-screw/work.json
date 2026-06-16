@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-turn-of-the-screw",
+  "title": "Otra vuelta de tuerca",
+  "titleRu": "Поворот винта",
+  "originalTitle": "The Turn of the Screw",
+  "author": {
+    "id": "henry-james",
+    "name": "Henry James"
+  },
+  "genres": [
+    "Готика",
+    "Мистика",
+    "Психология"
+  ],
+  "synopsisRu": "Молодая гувернантка в уединённом поместье начинает видеть призраков, угрожающих её воспитанникам. Повесть Генри Джеймса.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-metamorphosis",
+  "title": "La metamorfosis",
+  "titleRu": "Превращение",
+  "originalTitle": "The Metamorphosis",
+  "author": {
+    "id": "franz-kafka",
+    "name": "Franz Kafka"
+  },
+  "genres": [
+    "Повесть",
+    "Абсурд",
+    "Драма"
+  ],
+  "synopsisRu": "Грегор Замза однажды утром просыпается превратившимся в огромное насекомое. Повесть Франца Кафки.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 3
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 3
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 3
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 3
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

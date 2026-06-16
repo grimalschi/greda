@@ -4815,6 +4815,40 @@
       }
     },
     {
+      "id": "a-room-with-a-view",
+      "title": "Una habitación con vistas",
+      "titleRu": "Комната с видом",
+      "originalTitle": "A Room with a View",
+      "authorId": "e-m-forster",
+      "authorName": "E. M. Forster",
+      "genres": [
+        "Роман",
+        "Любовь",
+        "Путешествия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 975,
+        "b1": 1742,
+        "b2": 3088,
+        "c1": 3370
+      }
+    },
+    {
       "id": "the-facts-in-the-case-of-m-valdemar",
       "title": "El caso del señor Valdemar",
       "titleRu": "Правда о том, что случилось с господином Валдемаром",
@@ -5112,6 +5146,40 @@
       }
     },
     {
+      "id": "ethan-frome",
+      "title": "Ethan Frome",
+      "titleRu": "Итан Фром",
+      "originalTitle": "Ethan Frome",
+      "authorId": "edith-wharton",
+      "authorName": "Edith Wharton",
+      "genres": [
+        "Повесть",
+        "Драма",
+        "Новая Англия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 633,
+        "b1": 995,
+        "b2": 1153,
+        "c1": 2554
+      }
+    },
+    {
       "id": "the-age-of-innocence",
       "title": "La edad de la inocencia",
       "titleRu": "Эпоха невинности",
@@ -5134,13 +5202,15 @@
       "availableLevels": [
         "a2",
         "b1",
-        "b2"
+        "b2",
+        "c1"
       ],
       "chapters": 7,
       "words": {
         "a2": 1315,
         "b1": 1538,
-        "b2": 2644
+        "b2": 2644,
+        "c1": 4392
       }
     },
     {
@@ -5956,6 +6026,40 @@
         "b1": 415,
         "b2": 655,
         "c1": 964
+      }
+    },
+    {
+      "id": "the-metamorphosis",
+      "title": "La metamorfosis",
+      "titleRu": "Превращение",
+      "originalTitle": "The Metamorphosis",
+      "authorId": "franz-kafka",
+      "authorName": "Franz Kafka",
+      "genres": [
+        "Повесть",
+        "Абсурд",
+        "Драма"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 3,
+      "words": {
+        "a2": 419,
+        "b1": 918,
+        "b2": 1375,
+        "c1": 1347
       }
     },
     {
@@ -8239,6 +8343,40 @@
       }
     },
     {
+      "id": "the-turn-of-the-screw",
+      "title": "Otra vuelta de tuerca",
+      "titleRu": "Поворот винта",
+      "originalTitle": "The Turn of the Screw",
+      "authorId": "henry-james",
+      "authorName": "Henry James",
+      "genres": [
+        "Готика",
+        "Мистика",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 501,
+        "b1": 1026,
+        "b2": 1114,
+        "c1": 1834
+      }
+    },
+    {
       "id": "moby-dick",
       "title": "Moby Dick",
       "titleRu": "Моби Дик",
@@ -9183,6 +9321,40 @@
         "b1": 2258,
         "b2": 2964,
         "c1": 4389
+      }
+    },
+    {
+      "id": "the-awakening",
+      "title": "El despertar",
+      "titleRu": "Пробуждение",
+      "originalTitle": "The Awakening",
+      "authorId": "kate-chopin",
+      "authorName": "Kate Chopin",
+      "genres": [
+        "Роман",
+        "Психология",
+        "Самопознание"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 968,
+        "b1": 1038,
+        "b2": 1629,
+        "c1": 1961
       }
     },
     {
@@ -11054,6 +11226,40 @@
         "b1": 2449,
         "b2": 2408,
         "c1": 4652
+      }
+    },
+    {
+      "id": "candide",
+      "title": "Cándido",
+      "titleRu": "Кандид",
+      "originalTitle": "Candide",
+      "authorId": "voltaire",
+      "authorName": "Voltaire",
+      "genres": [
+        "Сатира",
+        "Философия",
+        "Приключения"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 565,
+        "b1": 830,
+        "b2": 1329,
+        "c1": 2164
       }
     },
     {

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "candide",
+  "level": "b1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El castillo y el exilio",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "Historias de desgracia",
+      "sentenceCount": 17
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "Viajes y desilluciones",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El regreso a casa",
+      "sentenceCount": 18
+    }
+  ]
+}
