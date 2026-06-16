@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-man-who-was-thursday",
+  "title": "El hombre que fue Jueves",
+  "titleRu": "Человек, который был Четвергом",
+  "originalTitle": "The Man Who Was Thursday",
+  "author": {
+    "id": "g-k-chesterton",
+    "name": "G. K. Chesterton"
+  },
+  "genres": [
+    "Триллер",
+    "Детектив",
+    "Философия"
+  ],
+  "synopsisRu": "Поэт-детектив проникает в тайный анархистский совет, где у каждого члена имя дня недели. Метафизический триллер Честертона.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

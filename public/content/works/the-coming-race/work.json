@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-coming-race",
+  "title": "La raza futura",
+  "titleRu": "Грядущая раса",
+  "originalTitle": "The Coming Race",
+  "author": {
+    "id": "edward-bulwer-lytton",
+    "name": "Edward Bulwer-Lytton"
+  },
+  "genres": [
+    "Фантастика",
+    "Утопия",
+    "Подземный мир"
+  ],
+  "synopsisRu": "Путешественник попадает в подземный мир сверхлюдей, владеющих загадочной силой вриль. Ранний фантастический роман Бульвер-Литтона.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

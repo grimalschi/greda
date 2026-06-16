@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "greenmantle",
+  "title": "Greenmantle",
+  "titleRu": "Зелёный плащ",
+  "originalTitle": "Greenmantle",
+  "author": {
+    "id": "john-buchan",
+    "name": "John Buchan"
+  },
+  "genres": [
+    "Шпионский",
+    "Приключения",
+    "Война"
+  ],
+  "synopsisRu": "Ричард Хэнней отправляется с тайной миссией в воюющую Османскую империю. Шпионский роман Джона Бакена.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

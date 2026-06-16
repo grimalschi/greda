@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "looking-backward",
+  "title": "El año 2000",
+  "titleRu": "Через сто лет",
+  "originalTitle": "Looking Backward: 2000-1887",
+  "author": {
+    "id": "edward-bellamy",
+    "name": "Edward Bellamy"
+  },
+  "genres": [
+    "Фантастика",
+    "Утопия",
+    "Будущее"
+  ],
+  "synopsisRu": "Человек засыпает в 1887 году и просыпается в утопическом Бостоне 2000 года. Фантастический роман Эдварда Беллами.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

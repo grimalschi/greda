@@ -4849,6 +4849,40 @@
       }
     },
     {
+      "id": "raffles-the-amateur-cracksman",
+      "title": "Raffles, el ladrón de guante blanco",
+      "titleRu": "Раффлс, взломщик-любитель",
+      "originalTitle": "The Amateur Cracksman",
+      "authorId": "e-w-hornung",
+      "authorName": "E. W. Hornung",
+      "genres": [
+        "Детектив",
+        "Авантюра",
+        "Кражи"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 769,
+        "b1": 1531,
+        "b2": 1398,
+        "c1": 1538
+      }
+    },
+    {
       "id": "the-facts-in-the-case-of-m-valdemar",
       "title": "El caso del señor Valdemar",
       "titleRu": "Правда о том, что случилось с господином Валдемаром",
@@ -5632,6 +5666,74 @@
         "b2": 5864,
         "c1": 7550,
         "c2": 5846
+      }
+    },
+    {
+      "id": "looking-backward",
+      "title": "El año 2000",
+      "titleRu": "Через сто лет",
+      "originalTitle": "Looking Backward: 2000-1887",
+      "authorId": "edward-bellamy",
+      "authorName": "Edward Bellamy",
+      "genres": [
+        "Фантастика",
+        "Утопия",
+        "Будущее"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 918,
+        "b1": 1269,
+        "b2": 1348,
+        "c1": 3438
+      }
+    },
+    {
+      "id": "the-coming-race",
+      "title": "La raza futura",
+      "titleRu": "Грядущая раса",
+      "originalTitle": "The Coming Race",
+      "authorId": "edward-bulwer-lytton",
+      "authorName": "Edward Bulwer-Lytton",
+      "genres": [
+        "Фантастика",
+        "Утопия",
+        "Подземный мир"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 709,
+        "b1": 1350,
+        "b2": 1780,
+        "c1": 3690
       }
     },
     {
@@ -6424,6 +6526,40 @@
         "b1": 627,
         "b2": 882,
         "c1": 1032
+      }
+    },
+    {
+      "id": "the-man-who-was-thursday",
+      "title": "El hombre que fue Jueves",
+      "titleRu": "Человек, который был Четвергом",
+      "originalTitle": "The Man Who Was Thursday",
+      "authorId": "g-k-chesterton",
+      "authorName": "G. K. Chesterton",
+      "genres": [
+        "Триллер",
+        "Детектив",
+        "Философия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 925,
+        "b1": 1497,
+        "b2": 1976,
+        "c1": 4516
       }
     },
     {
@@ -9117,6 +9253,74 @@
         "b1": 1994,
         "b2": 2375,
         "c1": 3503
+      }
+    },
+    {
+      "id": "greenmantle",
+      "title": "Greenmantle",
+      "titleRu": "Зелёный плащ",
+      "originalTitle": "Greenmantle",
+      "authorId": "john-buchan",
+      "authorName": "John Buchan",
+      "genres": [
+        "Шпионский",
+        "Приключения",
+        "Война"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 843,
+        "b1": 1048,
+        "b2": 1528,
+        "c1": 2107
+      }
+    },
+    {
+      "id": "the-thirty-nine-steps",
+      "title": "Los treinta y nueve escalones",
+      "titleRu": "Тридцать девять ступеней",
+      "originalTitle": "The Thirty-Nine Steps",
+      "authorId": "john-buchan",
+      "authorName": "John Buchan",
+      "genres": [
+        "Шпионский",
+        "Триллер",
+        "Погоня"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 668,
+        "b1": 1006,
+        "b2": 1363,
+        "c1": 1957
       }
     },
     {
