@@ -110,6 +110,40 @@
       }
     },
     {
+      "id": "the-mysterious-affair-at-styles",
+      "title": "El misterioso caso de Styles",
+      "titleRu": "Загадочное происшествие в Стайлзе",
+      "originalTitle": "The Mysterious Affair at Styles",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив",
+        "Классический детектив",
+        "Загадка"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 874,
+        "b1": 1550,
+        "b2": 2796,
+        "c1": 3316
+      }
+    },
+    {
       "id": "the-doctor-his-wife-and-the-clock",
       "title": "El doctor, su esposa y el reloj",
       "titleRu": "Доктор, его жена и часы",
@@ -408,6 +442,40 @@
         "b1": 481,
         "b2": 784,
         "c1": 1096
+      }
+    },
+    {
+      "id": "the-prisoner-of-zenda",
+      "title": "El prisionero de Zenda",
+      "titleRu": "Узник Зенды",
+      "originalTitle": "The Prisoner of Zenda",
+      "authorId": "anthony-hope",
+      "authorName": "Anthony Hope",
+      "genres": [
+        "Приключения",
+        "Интрига",
+        "Романтика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 935,
+        "b1": 1697,
+        "b2": 2269,
+        "c1": 4686
       }
     },
     {
@@ -4301,6 +4369,40 @@
       }
     },
     {
+      "id": "the-yellow-wallpaper",
+      "title": "El papel amarillo",
+      "titleRu": "Жёлтые обои",
+      "originalTitle": "The Yellow Wallpaper",
+      "authorId": "charlotte-perkins-gilman",
+      "authorName": "Charlotte Perkins Gilman",
+      "genres": [
+        "Психология",
+        "Готика",
+        "Рассказ"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 1,
+      "words": {
+        "a2": 327,
+        "b1": 611,
+        "b2": 839,
+        "c1": 862
+      }
+    },
+    {
       "id": "the-artificial-man",
       "title": "El hombre artificial",
       "titleRu": "Искусственный человек",
@@ -4634,6 +4736,40 @@
         "b1": 537,
         "b2": 722,
         "c1": 975
+      }
+    },
+    {
+      "id": "a-princess-of-mars",
+      "title": "Una princesa de Marte",
+      "titleRu": "Принцесса Марса",
+      "originalTitle": "A Princess of Mars",
+      "authorId": "edgar-rice-burroughs",
+      "authorName": "Edgar Rice Burroughs",
+      "genres": [
+        "Фантастика",
+        "Приключения",
+        "Марс"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 884,
+        "b1": 1895,
+        "b2": 2290,
+        "c1": 4650
       }
     },
     {
@@ -7997,6 +8133,142 @@
         "b1": 598,
         "b2": 757,
         "c1": 990
+      }
+    },
+    {
+      "id": "heart-of-darkness",
+      "title": "El corazón de las tinieblas",
+      "titleRu": "Сердце тьмы",
+      "originalTitle": "Heart of Darkness",
+      "authorId": "joseph-conrad",
+      "authorName": "Joseph Conrad",
+      "genres": [
+        "Приключения",
+        "Психология",
+        "Колониализм"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 4,
+      "words": {
+        "a2": 701,
+        "b1": 1105,
+        "b2": 2193,
+        "c1": 3142
+      }
+    },
+    {
+      "id": "around-the-world-in-eighty-days",
+      "title": "La vuelta al mundo en ochenta días",
+      "titleRu": "Вокруг света за восемьдесят дней",
+      "originalTitle": "Around the World in Eighty Days",
+      "authorId": "jules-verne",
+      "authorName": "Jules Verne",
+      "genres": [
+        "Приключения",
+        "Путешествия",
+        "Пари"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 912,
+        "b1": 1798,
+        "b2": 2391,
+        "c1": 3577
+      }
+    },
+    {
+      "id": "twenty-thousand-leagues-under-the-sea",
+      "title": "Veinte mil leguas de viaje submarino",
+      "titleRu": "Двадцать тысяч лье под водой",
+      "originalTitle": "Twenty Thousand Leagues Under the Sea",
+      "authorId": "jules-verne",
+      "authorName": "Jules Verne",
+      "genres": [
+        "Фантастика",
+        "Приключения",
+        "Море"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 1226,
+        "b1": 2088,
+        "b2": 3709,
+        "c1": 6161
+      }
+    },
+    {
+      "id": "the-wonderful-wizard-of-oz",
+      "title": "El maravilloso mago de Oz",
+      "titleRu": "Удивительный волшебник из страны Оз",
+      "originalTitle": "The Wonderful Wizard of Oz",
+      "authorId": "l-frank-baum",
+      "authorName": "L. Frank Baum",
+      "genres": [
+        "Сказка",
+        "Фэнтези",
+        "Приключения"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 868,
+        "b1": 1849,
+        "b2": 2693,
+        "c1": 3076
       }
     },
     {

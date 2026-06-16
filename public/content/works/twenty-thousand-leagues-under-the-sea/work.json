@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "twenty-thousand-leagues-under-the-sea",
+  "title": "Veinte mil leguas de viaje submarino",
+  "titleRu": "Двадцать тысяч лье под водой",
+  "originalTitle": "Twenty Thousand Leagues Under the Sea",
+  "author": {
+    "id": "jules-verne",
+    "name": "Jules Verne"
+  },
+  "genres": [
+    "Фантастика",
+    "Приключения",
+    "Море"
+  ],
+  "synopsisRu": "Экспедиция, охотясь за морским чудовищем, оказывается на борту подводного корабля капитана Немо. Научно-фантастический роман Жюля Верна.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 7
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

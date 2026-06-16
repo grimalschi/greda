@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-wonderful-wizard-of-oz",
+  "level": "a2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El ciclón y la tierra de Oz",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "El camino de ladrillo amarillo",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El León Cobarde y la Ciudad Esmeralda",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "La derrota de la Bruja Malvada",
+      "sentenceCount": 16
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "El regreso a casa",
+      "sentenceCount": 16
+    }
+  ]
+}

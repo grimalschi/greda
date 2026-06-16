@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-yellow-wallpaper",
+  "title": "El papel amarillo",
+  "titleRu": "Жёлтые обои",
+  "originalTitle": "The Yellow Wallpaper",
+  "author": {
+    "id": "charlotte-perkins-gilman",
+    "name": "Charlotte Perkins Gilman"
+  },
+  "genres": [
+    "Психология",
+    "Готика",
+    "Рассказ"
+  ],
+  "synopsisRu": "Женщина, которой прописан полный покой, остаётся наедине с комнатой и её жёлтыми обоями. Рассказ Шарлотты Перкинс Гилман.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

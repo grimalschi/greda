@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "twenty-thousand-leagues-under-the-sea",
+  "level": "b2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El monstruo del océano", "sentenceCount": 19},
+    {"id": "chapter-002", "number": 2, "title": "A bordo del Nautilus", "sentenceCount": 17},
+    {"id": "chapter-003", "number": 3, "title": "Los fondos submarinos", "sentenceCount": 18},
+    {"id": "chapter-004", "number": 4, "title": "El capitán Nemo", "sentenceCount": 16},
+    {"id": "chapter-005", "number": 5, "title": "Del Mediterráneo al Atlántico", "sentenceCount": 16},
+    {"id": "chapter-006", "number": 6, "title": "Hacia el polo sur", "sentenceCount": 18},
+    {"id": "chapter-007", "number": 7, "title": "El fin del viaje", "sentenceCount": 16}
+  ]
+}

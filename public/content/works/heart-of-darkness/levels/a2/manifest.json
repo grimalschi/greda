@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "heart-of-darkness",
+  "level": "a2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El río y el mapa",
+      "sentenceCount": 17
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La estación central",
+      "sentenceCount": 15
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El ataque en la niebla",
+      "sentenceCount": 17
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "Las últimas palabras",
+      "sentenceCount": 18
+    }
+  ]
+}

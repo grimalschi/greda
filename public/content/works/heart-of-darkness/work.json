@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "heart-of-darkness",
+  "title": "El corazón de las tinieblas",
+  "titleRu": "Сердце тьмы",
+  "originalTitle": "Heart of Darkness",
+  "author": {
+    "id": "joseph-conrad",
+    "name": "Joseph Conrad"
+  },
+  "genres": [
+    "Приключения",
+    "Психология",
+    "Колониализм"
+  ],
+  "synopsisRu": "Моряк Марлоу поднимается вверх по африканской реке на поиски загадочного агента Куртца. Повесть Джозефа Конрада.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 4
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

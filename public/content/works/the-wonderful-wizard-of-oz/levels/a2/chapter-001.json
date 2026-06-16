@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-wonderful-wizard-of-oz",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El ciclón y la tierra de Oz"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Dorothy vivía en Kansas con su tía Em y su tío Henry.",
+          "translationRu": "Дороти жила в Канзасе со своей тётей Эм и дядей Генри."
+        },
+        {
+          "id": "sent-002",
+          "text": "Su casa era pequeña y todo alrededor era gris.",
+          "translationRu": "Её дом был маленьким, и всё вокруг было серым."
+        },
+        {
+          "id": "sent-003",
+          "text": "Dorothy tenía un perrito negro llamado Toto.",
+          "translationRu": "У Дороти был маленький чёрный пёс по имени Тото."
+        },
+        {
+          "id": "sent-004",
+          "text": "Toto hacía reír a Dorothy cada día.",
+          "translationRu": "Тото каждый день смешил Дороти."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Un día, el viento empezó a soplar muy fuerte.",
+          "translationRu": "Однажды ветер начал дуть очень сильно."
+        },
+        {
+          "id": "sent-006",
+          "text": "El tío Henry dijo: «¡Viene un ciclón!»",
+          "translationRu": "Дядя Генри сказал: «Идёт циклон!»"
+        },
+        {
+          "id": "sent-007",
+          "text": "La tía Em corrió al sótano bajo la trampa del suelo.",
+          "translationRu": "Тётя Эм побежала в подвал под люком в полу."
+        },
+        {
+          "id": "sent-008",
+          "text": "Dorothy quería ir también, pero Toto se escondió bajo la cama.",
+          "translationRu": "Дороти тоже хотела идти, но Тото спрятался под кроватью."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "Dorothy cogió a Toto, pero la casa empezó a moverse.",
+          "translationRu": "Дороти схватила Тото, но дом начал двигаться."
+        },
+        {
+          "id": "sent-010",
+          "text": "El ciclón levantó la casa al aire.",
+          "translationRu": "Циклон поднял дом в воздух."
+        },
+        {
+          "id": "sent-011",
+          "text": "Dorothy se sentó en el suelo y esperó.",
+          "translationRu": "Дороти села на пол и стала ждать."
+        },
+        {
+          "id": "sent-012",
+          "text": "Después de muchas horas, la casa bajó suavemente al suelo.",
+          "translationRu": "Спустя много часов дом мягко опустился на землю."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Dorothy abrió la puerta y vio un país bonito con flores y árboles.",
+          "translationRu": "Дороти открыла дверь и увидела красивую страну с цветами и деревьями."
+        },
+        {
+          "id": "sent-014",
+          "text": "Había personas pequeñas con sombreros redondos — eran los Munchkins.",
+          "translationRu": "Были маленькие люди с круглыми шляпами — это были Манчкины."
+        },
+        {
+          "id": "sent-015",
+          "text": "Una mujer anciana le dijo: «Bienvenida, la casa mató a la Bruja Malvada del Este».",
+          "translationRu": "Пожилая женщина сказала ей: «Добро пожаловать, твой дом убил Злую Ведьму Востока»."
+        },
+        {
+          "id": "sent-016",
+          "text": "La mujer era la Bruja del Norte, una bruja buena.",
+          "translationRu": "Эта женщина была Ведьмой Севера, доброй ведьмой."
+        }
+      ]
+    }
+  ]
+}

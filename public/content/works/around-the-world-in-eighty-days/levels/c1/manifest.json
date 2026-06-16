@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "around-the-world-in-eighty-days",
+  "level": "c1",
+  "chapters": [
+    { "id": "chapter-001", "number": 1, "title": "La apuesta y la partida", "sentenceCount": 20 },
+    { "id": "chapter-002", "number": 2, "title": "De Suez a la India", "sentenceCount": 20 },
+    { "id": "chapter-003", "number": 3, "title": "De la India a Hong Kong", "sentenceCount": 20 },
+    { "id": "chapter-004", "number": 4, "title": "A través del Pacífico y América", "sentenceCount": 20 },
+    { "id": "chapter-005", "number": 5, "title": "El regreso y la victoria", "sentenceCount": 21 }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-mysterious-affair-at-styles",
+  "title": "El misterioso caso de Styles",
+  "titleRu": "Загадочное происшествие в Стайлзе",
+  "originalTitle": "The Mysterious Affair at Styles",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив",
+    "Классический детектив",
+    "Загадка"
+  ],
+  "synopsisRu": "В английском поместье отравлена хозяйка, и за расследование берётся бельгийский детектив Эркюль Пуаро. Дебютный роман Агаты Кристи.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

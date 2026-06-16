@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "a-princess-of-mars",
+  "level": "b2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El soldado de Virginia", "sentenceCount": 21},
+    {"id": "chapter-002", "number": 2, "title": "Entre los hombres verdes", "sentenceCount": 19},
+    {"id": "chapter-003", "number": 3, "title": "La princesa cautiva", "sentenceCount": 20},
+    {"id": "chapter-004", "number": 4, "title": "La fuga y la captura", "sentenceCount": 19},
+    {"id": "chapter-005", "number": 5, "title": "La arena y la fábrica de aire", "sentenceCount": 19},
+    {"id": "chapter-006", "number": 6, "title": "La victoria y el adiós", "sentenceCount": 21}
+  ]
+}
