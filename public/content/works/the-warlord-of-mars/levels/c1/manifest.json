@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-warlord-of-mars",
+  "level": "c1",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "El río del misterio",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La fortaleza oculta",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "El reino del norte",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "La batalla por Kadabra",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "La corte reunida",
+      "sentenceCount": 20
+    }
+  ]
+}

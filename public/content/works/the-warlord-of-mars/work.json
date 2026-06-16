@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-warlord-of-mars",
+  "title": "El señor de la guerra de Marte",
+  "titleRu": "Владыка Марса",
+  "originalTitle": "The Warlord of Mars",
+  "author": {
+    "id": "edgar-rice-burroughs",
+    "name": "Edgar Rice Burroughs"
+  },
+  "genres": [
+    "Фантастика",
+    "Приключения",
+    "Марс"
+  ],
+  "synopsisRu": "Джон Картер преследует похитителей Дежи Торис через полюса Марса. Третий роман марсианского цикла Берроуза.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 5
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-warlord-of-mars",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-002",
+    "number": 2,
+    "title": "Bajo las montañas"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Las aguas del río suben y suben en la caverna grande.",
+          "translationRu": "Воды реки поднимаются всё выше в большой пещере."
+        },
+        {
+          "id": "sent-002",
+          "text": "Hay una cámara vasta, iluminada por piedras brillantes en las paredes.",
+          "translationRu": "Есть огромная камера, освещаемая сияющими камнями в стенах."
+        },
+        {
+          "id": "sent-003",
+          "text": "Pierdo de vista la barca de Thurid en tres canales diferentes.",
+          "translationRu": "Я теряю из виду лодку Терида у трёх разных проходов."
+        },
+        {
+          "id": "sent-004",
+          "text": "¿Por cuál debo ir? Mi corazón late muy rápido.",
+          "translationRu": "По какому идти? Моё сердце бьется очень быстро."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-005",
+          "text": "Sigo el canal del lado derecho.",
+          "translationRu": "Я следую проходом справа."
+        },
+        {
+          "id": "sent-006",
+          "text": "Muy pronto oigo un rugido terrible como el trueno en las rocas.",
+          "translationRu": "Вскоре я слышу ужасный рёв, как гром в скалах."
+        },
+        {
+          "id": "sent-007",
+          "text": "Es una cascada gigante que cae desde arriba.",
+          "translationRu": "Это гигантский водопад, падающий сверху."
+        },
+        {
+          "id": "sent-008",
+          "text": "La cascada bloquea mi camino completamente.",
+          "translationRu": "Водопад полностью блокирует мой путь."
+        },
+        {
+          "id": "sent-009",
+          "text": "Giro la barca y vuelvo al lugar donde comenzó mi error.",
+          "translationRu": "Я разворачиваю лодку и возвращаюсь к месту, где началась моя ошибка."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "De pronto veo algo flotando en el agua: la cáscara de una fruta.",
+          "translationRu": "Вдруг я вижу что-то плывущее в воде: скорлупу какого-то фрукта."
+        },
+        {
+          "id": "sent-011",
+          "text": "¡Espera! Esto significa que Thurid fue por el otro canal.",
+          "translationRu": "Подождите! Это означает, что Терид пошёл по другому проходу."
+        },
+        {
+          "id": "sent-012",
+          "text": "Vuelvo hacia el tercer camino con nueva esperanza.",
+          "translationRu": "Я возвращаюсь к третьему пути с новой надеждой."
+        },
+        {
+          "id": "sent-013",
+          "text": "El río aquí es mejor y me lleva hacia la profundidad de Marte.",
+          "translationRu": "Река здесь лучше и ведёт меня в глубины Марса."
+        },
+        {
+          "id": "sent-014",
+          "text": "Sé que no puedo fallar en esta misión crucial.",
+          "translationRu": "Я знаю, что не могу проиграть в этой критической миссии."
+        }
+      ]
+    }
+  ]
+}

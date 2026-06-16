@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "king-solomons-mines",
+  "title": "Las minas del rey Salomón",
+  "titleRu": "Копи царя Соломона",
+  "originalTitle": "King Solomon's Mines",
+  "author": {
+    "id": "h-rider-haggard",
+    "name": "H. Rider Haggard"
+  },
+  "genres": [
+    "Приключения",
+    "Африка",
+    "Сокровища"
+  ],
+  "synopsisRu": "Охотник Аллан Квотермейн ведёт экспедицию в глубь Африки на поиски легендарных алмазных копей. Приключенческий роман Генри Райдера Хаггарда.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 6
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

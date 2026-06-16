@@ -5113,6 +5113,40 @@
       }
     },
     {
+      "id": "the-warlord-of-mars",
+      "title": "El señor de la guerra de Marte",
+      "titleRu": "Владыка Марса",
+      "originalTitle": "The Warlord of Mars",
+      "authorId": "edgar-rice-burroughs",
+      "authorName": "Edgar Rice Burroughs",
+      "genres": [
+        "Фантастика",
+        "Приключения",
+        "Марс"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 787,
+        "b1": 1026,
+        "b2": 1784,
+        "c1": 1980
+      }
+    },
+    {
       "id": "the-gods-of-mars",
       "title": "Los dioses de Marte",
       "titleRu": "Боги Марса",
@@ -7560,6 +7594,40 @@
       }
     },
     {
+      "id": "silas-marner",
+      "title": "Silas Marner",
+      "titleRu": "Сайлес Марнер",
+      "originalTitle": "Silas Marner",
+      "authorId": "george-eliot",
+      "authorName": "George Eliot",
+      "genres": [
+        "Роман",
+        "Драма",
+        "Деревня"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 742,
+        "b1": 1139,
+        "b2": 2190,
+        "c1": 2965
+      }
+    },
+    {
       "id": "madame-bovary",
       "title": "Madame Bovary",
       "titleRu": "Госпожа Бовари",
@@ -7657,6 +7725,40 @@
         "b1": 476,
         "b2": 619,
         "c1": 915
+      }
+    },
+    {
+      "id": "the-food-of-the-gods",
+      "title": "El alimento de los dioses",
+      "titleRu": "Пища богов",
+      "originalTitle": "The Food of the Gods",
+      "authorId": "h-g-wells",
+      "authorName": "H. G. Wells",
+      "genres": [
+        "Фантастика",
+        "Сатира",
+        "Гиганты"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 783,
+        "b1": 1382,
+        "b2": 1620,
+        "c1": 4190
       }
     },
     {
@@ -8578,6 +8680,74 @@
         "b1": 541,
         "b2": 754,
         "c1": 1142
+      }
+    },
+    {
+      "id": "she",
+      "title": "Ella",
+      "titleRu": "Она",
+      "originalTitle": "She: A History of Adventure",
+      "authorId": "h-rider-haggard",
+      "authorName": "H. Rider Haggard",
+      "genres": [
+        "Приключения",
+        "Фэнтези",
+        "Африка"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 7,
+      "words": {
+        "a2": 1111,
+        "b1": 1850,
+        "b2": 1643,
+        "c1": 3006
+      }
+    },
+    {
+      "id": "king-solomons-mines",
+      "title": "Las minas del rey Salomón",
+      "titleRu": "Копи царя Соломона",
+      "originalTitle": "King Solomon's Mines",
+      "authorId": "h-rider-haggard",
+      "authorName": "H. Rider Haggard",
+      "genres": [
+        "Приключения",
+        "Африка",
+        "Сокровища"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 973,
+        "b1": 1298,
+        "b2": 2362,
+        "c1": 4770
       }
     },
     {
