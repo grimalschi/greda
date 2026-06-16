@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-extraordinary-adventures-of-arsene-lupin",
+  "level": "a2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El ladrón del barco", "sentenceCount": 17},
+    {"id": "chapter-002", "number": 2, "title": "Lupin en la cárcel", "sentenceCount": 16},
+    {"id": "chapter-003", "number": 3, "title": "La fuga de Lupin", "sentenceCount": 18},
+    {"id": "chapter-004", "number": 4, "title": "El viajero misterioso", "sentenceCount": 17},
+    {"id": "chapter-005", "number": 5, "title": "El collar de la reina", "sentenceCount": 16}
+  ]
+}

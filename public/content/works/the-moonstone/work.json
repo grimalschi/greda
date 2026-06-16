@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-moonstone",
+  "title": "La piedra lunar",
+  "titleRu": "Лунный камень",
+  "originalTitle": "The Moonstone",
+  "author": {
+    "id": "wilkie-collins",
+    "name": "Wilkie Collins"
+  },
+  "genres": [
+    "Детектив",
+    "Загадка",
+    "Классический детектив"
+  ],
+  "synopsisRu": "Огромный индийский алмаз, подаренный на день рождения, исчезает той же ночью — и расследование обрастает тайнами. Роман Уилки Коллинза, один из первых детективов.",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "b2": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "c1": {
+      "available": true,
+      "chapterCount": 10
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

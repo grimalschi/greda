@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-moonstone",
+  "level": "a2",
+  "chapter": {"id": "chapter-001", "number": 1, "title": "La piedra maldita"},
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {"id": "sent-001", "text": "En el año 1799, el ejército británico tomó la ciudad de Seringapatam en la India.", "translationRu": "В 1799 году британская армия взяла город Серингапатам в Индии."},
+        {"id": "sent-002", "text": "En ese ataque, un soldado inglés llamado Herncastle encontró un diamante amarillo enorme.", "translationRu": "Во время этого штурма английский солдат по имени Хернкасл нашёл огромный жёлтый алмаз."},
+        {"id": "sent-003", "text": "Este diamante se llamaba la Piedra Lunar y era sagrado para los hindúes.", "translationRu": "Этот алмаз назывался Лунным камнем и был священным для индусов."},
+        {"id": "sent-004", "text": "Tres sacerdotes brahmanías guardaban la piedra en el templo.", "translationRu": "Три брахмана-жреца хранили камень в храме."}
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {"id": "sent-005", "text": "Herncastle mató a los guardias y robó el diamante.", "translationRu": "Хернкасл убил стражников и похитил алмаз."},
+        {"id": "sent-006", "text": "Uno de los sacerdotes moribundos dijo: «La piedra traerá desgracia a quien la posea.»", "translationRu": "Один из умирающих жрецов сказал: «Камень принесёт несчастье тому, кто им владеет»."},
+        {"id": "sent-007", "text": "Los tres sacerdotes juraron recuperar la Piedra Lunar.", "translationRu": "Три жреца поклялись вернуть Лунный камень."},
+        {"id": "sent-008", "text": "Siguieron a Herncastle hasta Inglaterra.", "translationRu": "Они последовали за Хернкаслом в Англию."}
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {"id": "sent-009", "text": "Muchos años después, Herncastle murió sin hijos.", "translationRu": "Много лет спустя Хернкасл умер, не оставив детей."},
+        {"id": "sent-010", "text": "En su testamento dejó la Piedra Lunar a su sobrina, Rachel Verinder.", "translationRu": "В своём завещании он оставил Лунный камень своей племяннице Рейчел Вериндер."},
+        {"id": "sent-011", "text": "Franklin Blake, primo de Rachel, viajó desde Londres para llevar el diamante.", "translationRu": "Франклин Блейк, двоюродный брат Рейчел, отправился из Лондона, чтобы доставить алмаз."},
+        {"id": "sent-012", "text": "Franklin llegó a la casa de Lady Verinder en Yorkshire.", "translationRu": "Франклин прибыл в дом леди Вериндер в Йоркшире."},
+        {"id": "sent-013", "text": "La casa era grande y tranquila, rodeada de jardines verdes.", "translationRu": "Дом был большим и тихим, окружённым зелёными садами."},
+        {"id": "sent-014", "text": "Gabriel Betteredge, el mayordomo, recibió a Franklin con alegría.", "translationRu": "Габриэль Беттередж, дворецкий, встретил Франклина с радостью."}
+      ]
+    }
+  ]
+}

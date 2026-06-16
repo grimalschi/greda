@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-extraordinary-adventures-of-arsene-lupin",
+  "level": "b2",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El ladrón a bordo", "sentenceCount": 20},
+    {"id": "chapter-002", "number": 2, "title": "Lupin en prisión", "sentenceCount": 18},
+    {"id": "chapter-003", "number": 3, "title": "La fuga y el collar de la reina", "sentenceCount": 15},
+    {"id": "chapter-004", "number": 4, "title": "El siete de corazones y la caja fuerte de la señora Imbert", "sentenceCount": 16},
+    {"id": "chapter-005", "number": 5, "title": "La perla negra y Sherlock Holmes llega tarde", "sentenceCount": 18}
+  ]
+}

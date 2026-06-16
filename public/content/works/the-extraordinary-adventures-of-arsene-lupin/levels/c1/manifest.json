@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-extraordinary-adventures-of-arsene-lupin",
+  "level": "c1",
+  "chapters": [
+    {"id": "chapter-001", "number": 1, "title": "El ladrón del trasatlántico", "sentenceCount": 21},
+    {"id": "chapter-002", "number": 2, "title": "El robo del castillo Malaquis", "sentenceCount": 21},
+    {"id": "chapter-003", "number": 3, "title": "La gran evasión", "sentenceCount": 20},
+    {"id": "chapter-004", "number": 4, "title": "El collar de la reina y el siete de corazones", "sentenceCount": 20},
+    {"id": "chapter-005", "number": 5, "title": "La perla negra y el encuentro con Holmes", "sentenceCount": 20}
+  ]
+}

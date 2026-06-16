@@ -7656,6 +7656,40 @@
       }
     },
     {
+      "id": "the-first-men-in-the-moon",
+      "title": "Los primeros hombres en la Luna",
+      "titleRu": "Первые люди на Луне",
+      "originalTitle": "The First Men in the Moon",
+      "authorId": "h-g-wells",
+      "authorName": "H. G. Wells",
+      "genres": [
+        "Фантастика",
+        "Космос",
+        "Приключения"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 897,
+        "b1": 1310,
+        "b2": 1890,
+        "c1": 3424
+      }
+    },
+    {
       "id": "a-story-of-the-stone-age",
       "title": "Un cuento de la Edad de Piedra",
       "titleRu": "Рассказ о каменном веке",
@@ -8474,6 +8508,40 @@
       }
     },
     {
+      "id": "from-the-earth-to-the-moon",
+      "title": "De la Tierra a la Luna",
+      "titleRu": "С Земли на Луну",
+      "originalTitle": "From the Earth to the Moon",
+      "authorId": "jules-verne",
+      "authorName": "Jules Verne",
+      "genres": [
+        "Фантастика",
+        "Космос",
+        "Приключения"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 1026,
+        "b1": 2047,
+        "b2": 2194,
+        "c1": 5140
+      }
+    },
+    {
       "id": "around-the-world-in-eighty-days",
       "title": "La vuelta al mundo en ochenta días",
       "titleRu": "Вокруг света за восемьдесят дней",
@@ -8743,6 +8811,40 @@
         "b1": 2048,
         "b2": 2822,
         "c1": 3686
+      }
+    },
+    {
+      "id": "the-extraordinary-adventures-of-arsene-lupin",
+      "title": "Arsène Lupin, ladrón de guante blanco",
+      "titleRu": "Арсен Люпен, джентльмен-грабитель",
+      "originalTitle": "The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar",
+      "authorId": "maurice-leblanc",
+      "authorName": "Maurice Leblanc",
+      "genres": [
+        "Детектив",
+        "Авантюра",
+        "Кражи"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 939,
+        "b1": 1789,
+        "b2": 2244,
+        "c1": 3302
       }
     },
     {
@@ -10105,6 +10207,40 @@
         "b2": 5478,
         "c1": 8337,
         "c2": 8488
+      }
+    },
+    {
+      "id": "the-moonstone",
+      "title": "La piedra lunar",
+      "titleRu": "Лунный камень",
+      "originalTitle": "The Moonstone",
+      "authorId": "wilkie-collins",
+      "authorName": "Wilkie Collins",
+      "genres": [
+        "Детектив",
+        "Загадка",
+        "Классический детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 10,
+      "words": {
+        "a2": 1538,
+        "b1": 3338,
+        "b2": 6006,
+        "c1": 6303
       }
     }
   ]
