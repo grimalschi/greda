@@ -5113,6 +5113,40 @@
       }
     },
     {
+      "id": "the-gods-of-mars",
+      "title": "Los dioses de Marte",
+      "titleRu": "Боги Марса",
+      "originalTitle": "The Gods of Mars",
+      "authorId": "edgar-rice-burroughs",
+      "authorName": "Edgar Rice Burroughs",
+      "genres": [
+        "Фантастика",
+        "Приключения",
+        "Марс"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 936,
+        "b1": 1699,
+        "b2": 1882,
+        "c1": 3642
+      }
+    },
+    {
       "id": "tarzan-of-the-apes",
       "title": "Tarzán de los monos",
       "titleRu": "Тарзан, приёмыш обезьян",
@@ -5211,6 +5245,40 @@
         "b1": 995,
         "b2": 1153,
         "c1": 2554
+      }
+    },
+    {
+      "id": "the-house-of-mirth",
+      "title": "La casa de la alegría",
+      "titleRu": "Дом веселья",
+      "originalTitle": "The House of Mirth",
+      "authorId": "edith-wharton",
+      "authorName": "Edith Wharton",
+      "genres": [
+        "Роман",
+        "Общество",
+        "Драма"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 8,
+      "words": {
+        "a2": 1311,
+        "b1": 1728,
+        "b2": 2180,
+        "c1": 4500
       }
     },
     {
@@ -6128,6 +6196,40 @@
         "b1": 415,
         "b2": 655,
         "c1": 964
+      }
+    },
+    {
+      "id": "a-little-princess",
+      "title": "La princesita",
+      "titleRu": "Маленькая принцесса",
+      "originalTitle": "A Little Princess",
+      "authorId": "frances-hodgson-burnett",
+      "authorName": "Frances Hodgson Burnett",
+      "genres": [
+        "Роман",
+        "Детство",
+        "Семья"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 720,
+        "b1": 1374,
+        "b2": 1674,
+        "c1": 3308
       }
     },
     {
@@ -9256,6 +9358,40 @@
       }
     },
     {
+      "id": "heidi",
+      "title": "Heidi",
+      "titleRu": "Хайди",
+      "originalTitle": "Heidi",
+      "authorId": "johanna-spyri",
+      "authorName": "Johanna Spyri",
+      "genres": [
+        "Роман",
+        "Детство",
+        "Природа"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 6,
+      "words": {
+        "a2": 808,
+        "b1": 1641,
+        "b2": 1551,
+        "c1": 2431
+      }
+    },
+    {
       "id": "greenmantle",
       "title": "Greenmantle",
       "titleRu": "Зелёный плащ",
@@ -11362,6 +11498,40 @@
         "b2": 5478,
         "c1": 8337,
         "c2": 8488
+      }
+    },
+    {
+      "id": "the-red-badge-of-courage",
+      "title": "El rojo emblema del valor",
+      "titleRu": "Алый знак доблести",
+      "originalTitle": "The Red Badge of Courage",
+      "authorId": "stephen-crane",
+      "authorName": "Stephen Crane",
+      "genres": [
+        "Роман",
+        "Война",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a2",
+        "b1",
+        "b2",
+        "c1"
+      ],
+      "chapters": 5,
+      "words": {
+        "a2": 594,
+        "b1": 1054,
+        "b2": 1303,
+        "c1": 1498
       }
     },
     {

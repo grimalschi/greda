@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "a-little-princess",
+  "level": "b2",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "number": 1,
+      "title": "La llegada",
+      "sentenceCount": 20
+    },
+    {
+      "id": "chapter-002",
+      "number": 2,
+      "title": "La lección de francés",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-003",
+      "number": 3,
+      "title": "Las minas de diamantes",
+      "sentenceCount": 19
+    },
+    {
+      "id": "chapter-004",
+      "number": 4,
+      "title": "El colapso",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-005",
+      "number": 5,
+      "title": "La magia en el ático",
+      "sentenceCount": 18
+    },
+    {
+      "id": "chapter-006",
+      "number": 6,
+      "title": "El descubrimiento",
+      "sentenceCount": 20
+    }
+  ]
+}
