@@ -18,6 +18,7 @@ import {
   type ReadingStatus,
   type Store,
   type Theme,
+  type TranslationMode,
 } from '../lib/storage'
 
 interface PositionUpdate {
@@ -31,6 +32,7 @@ interface AppState {
   store: Store
   setTheme: (theme: Theme) => void
   setFontSize: (size: FontSize) => void
+  setTranslationMode: (mode: TranslationMode) => void
   resetProgress: () => void
   getChapterProgress: (workId: string, level: Level) => ChapterProgress | undefined
   recordOpen: (workId: string, level: Level, chapterId: string) => void
@@ -93,6 +95,10 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
 
   const setFontSize = useCallback((fontSize: FontSize) => {
     setStore((s) => ({ ...s, settings: { ...s.settings, fontSize } }))
+  }, [])
+
+  const setTranslationMode = useCallback((translationMode: TranslationMode) => {
+    setStore((s) => ({ ...s, settings: { ...s.settings, translationMode } }))
   }, [])
 
   const resetProgress = useCallback(() => {
@@ -203,6 +209,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       store,
       setTheme,
       setFontSize,
+      setTranslationMode,
       resetProgress,
       getChapterProgress,
       recordOpen,
@@ -214,6 +221,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       store,
       setTheme,
       setFontSize,
+      setTranslationMode,
       resetProgress,
       getChapterProgress,
       recordOpen,

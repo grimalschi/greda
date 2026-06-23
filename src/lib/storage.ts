@@ -6,10 +6,13 @@ import type { Level } from '../types'
 export type Theme = 'light' | 'dark' | 'system'
 export type FontSize = 'small' | 'medium' | 'large' | 'xlarge'
 export type ReadingStatus = 'new' | 'started' | 'done'
+/** Как показывать перевод предложения: под строкой (inline) или во всплывающей панели снизу (drawer). */
+export type TranslationMode = 'inline' | 'drawer'
 
 export interface Settings {
   theme: Theme
   fontSize: FontSize
+  translationMode: TranslationMode
 }
 
 export interface LastOpened {
@@ -32,6 +35,8 @@ export interface ChapterProgress {
 export type WorksProgress = Record<string, Partial<Record<Level, ChapterProgress>>>
 
 export interface Store {
+  /** Версия структуры — для одноразовых миграций (см. loadStore). */
+  v: number
   lastOpened: LastOpened | null
   works: WorksProgress
   settings: Settings
@@ -40,25 +45,42 @@ export interface Store {
 }
 
 const STORAGE_KEY = 'greda:v1'
+const STORE_VERSION = 2
 
 export const DEFAULT_SETTINGS: Settings = {
   theme: 'system',
   fontSize: 'medium',
+  translationMode: 'inline',
 }
 
 export function defaultStore(): Store {
-  return { lastOpened: null, works: {}, settings: { ...DEFAULT_SETTINGS }, statusOverrides: {} }
+  return { v: STORE_VERSION, lastOpened: null, works: {}, settings: { ...DEFAULT_SETTINGS }, statusOverrides: {} }
 }
 
 export function loadStore(): Store {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
     if (!raw) return defaultStore()
-    const parsed = JSON.parse(raw) as Partial<Store>
+    const parsed = JSON.parse(raw) as Partial<Store> & { v?: number }
+    const settings = { ...DEFAULT_SETTINGS, ...(parsed.settings ?? {}) }
+    const works = parsed.works ?? {}
+    if (parsed.v !== STORE_VERSION) {
+      // Одноразовая миграция: ранний баг прогресса помечал главы «прочитано» уже при
+      // открытии. Снимаем ложные отметки завершения, сохраняя позицию чтения и настройки.
+      for (const wid in works) {
+        const byLevel = works[wid]
+        if (!byLevel) continue
+        for (const lv of Object.keys(byLevel) as Level[]) {
+          const p = byLevel[lv]
+          if (p) p.completedChapterIds = []
+        }
+      }
+    }
     return {
+      v: STORE_VERSION,
       lastOpened: parsed.lastOpened ?? null,
-      works: parsed.works ?? {},
-      settings: { ...DEFAULT_SETTINGS, ...(parsed.settings ?? {}) },
+      works,
+      settings,
       statusOverrides: parsed.statusOverrides ?? {},
     }
   } catch {

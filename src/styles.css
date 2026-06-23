@@ -558,6 +558,59 @@ button {
   font-weight: 500;
 }
 
+/* ---------- Перевод во всплывающей панели (drawer) ---------- */
+.chapter--drawer {
+  padding-bottom: 46vh;
+}
+.tdrawer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 50;
+  background: var(--surface);
+  border-top: 1px solid color-mix(in srgb, var(--text) 12%, transparent);
+  border-radius: 16px 16px 0 0;
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.18);
+  padding: 18px 18px calc(16px + env(safe-area-inset-bottom, 0px));
+  max-height: 45vh;
+  overflow-y: auto;
+  animation: tdrawer-up 0.18s ease;
+}
+@keyframes tdrawer-up {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+.tdrawer__close {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  width: 34px;
+  height: 34px;
+  border: none;
+  background: transparent;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--muted);
+  cursor: pointer;
+}
+.tdrawer__es {
+  font-weight: 600;
+  margin-right: 30px;
+  line-height: 1.5;
+}
+.tdrawer__ru {
+  margin-top: 0.6em;
+  color: var(--translation-text);
+  border-left: 3px solid var(--accent);
+  padding-left: 0.7em;
+  line-height: 1.55;
+}
+
 .chapter-nav {
   display: flex;
   justify-content: space-between;

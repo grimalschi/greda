@@ -8,6 +8,12 @@ import { useAppState, useThrottledCallback } from '../state/store'
 import { LEVEL_LABELS } from '../types'
 import type { Level, LevelManifest } from '../types'
 
+interface Sentence {
+  id: string
+  text: string
+  translationRu: string
+}
+
 function isLevel(value: string): value is Level {
   return value in LEVEL_LABELS
 }
@@ -81,6 +87,7 @@ export function ReaderPage() {
 
   const { store, recordOpen, updatePosition, markChapterCompleted, getChapterProgress, setWorkStatus } =
     useAppState()
+  const translationMode = store.settings.translationMode
 
   const { data: chapter, error, loading } = useAsync(
     () => fetchChapter(workId, level, chapterId),
@@ -89,7 +96,9 @@ export function ReaderPage() {
   const { data: work } = useAsync(() => fetchWork(workId), [workId])
   const { data: manifest } = useAsync(() => fetchManifest(workId, level), [workId, level])
 
+  // Inline-режим: множество раскрытых переводов. Drawer-режим: одно активное предложение.
   const [open, setOpen] = useState<Set<string>>(() => new Set())
+  const [drawerSent, setDrawerSent] = useState<Sentence | null>(null)
 
   const containerRef = useRef<HTMLDivElement>(null)
   const storeRef = useRef(store)
@@ -116,6 +125,7 @@ export function ReaderPage() {
       prog?.currentChapterId === chapterId ? prog?.lastSentenceId ?? null : null
     restoredRef.current = false
     setOpen(new Set())
+    setDrawerSent(null)
     recordOpen(workId, level, chapterId)
   }, [workId, level, chapterId, recordOpen])
 
@@ -139,7 +149,7 @@ export function ReaderPage() {
     if (atEnd) markChapterCompleted(workId, level, chapterId)
   }, [workId, level, chapterId, sentenceIds.length, indexOf, updatePosition, markChapterCompleted])
 
-  const persistThrottled = useThrottledCallback(persist, 400)
+  const persistThrottled = useThrottledCallback(persist, 300)
 
   // Слушаем скролл документа.
   useEffect(() => {
@@ -152,7 +162,8 @@ export function ReaderPage() {
     }
   }, [persistThrottled, persist])
 
-  // Восстановление позиции по id предложения после отрисовки главы.
+  // Восстановление позиции по id предложения после отрисовки + немедленный пересчёт прогресса
+  // (чтобы полоса не показывала устаревшее значение, даже если событие scroll не сработает).
   useEffect(() => {
     if (!chapter || restoredRef.current) return
     restoredRef.current = true
@@ -165,12 +176,15 @@ export function ReaderPage() {
         if (target) {
           const y = target.getBoundingClientRect().top + window.scrollY - 80
           window.scrollTo(0, Math.max(0, y))
-          return
+        } else {
+          window.scrollTo(0, 0)
         }
+      } else {
+        window.scrollTo(0, 0)
       }
-      window.scrollTo(0, 0)
+      persist()
     })
-  }, [chapter])
+  }, [chapter, persist])
 
   const toggle = useCallback((id: string) => {
     setOpen((prev) => {
@@ -180,6 +194,17 @@ export function ReaderPage() {
       return next
     })
   }, [])
+
+  const onSentence = useCallback(
+    (s: Sentence) => {
+      if (translationMode === 'drawer') {
+        setDrawerSent((prev) => (prev?.id === s.id ? null : s))
+      } else {
+        toggle(s.id)
+      }
+    },
+    [translationMode, toggle],
+  )
 
   const progress = getChapterProgress(workId, level)
   const percent = Math.round(progress?.progressPercent ?? 0)
@@ -204,45 +229,49 @@ export function ReaderPage() {
         {error ? <ErrorView error={error} /> : null}
 
         {chapter ? (
-          <article className="chapter">
+          <article className={`chapter ${translationMode === 'drawer' ? 'chapter--drawer' : ''}`}>
             <h1 className="chapter__title">{chapter.chapter.title}</h1>
             {chapter.paragraphs.map((p) => (
               <p className="para" key={p.id}>
-                {p.sentences.map((s) => (
-                  <Fragment key={s.id}>
-                    <span
-                      className={`sent ${open.has(s.id) ? 'sent--active' : ''}`}
-                      data-sent-id={s.id}
-                      role="button"
-                      tabIndex={0}
-                      onClick={() => toggle(s.id)}
-                      onKeyDown={(e) => {
-                        if (e.key === 'Enter' || e.key === ' ') {
-                          e.preventDefault()
-                          toggle(s.id)
-                        }
-                      }}
-                    >
-                      {s.text}
-                    </span>{' '}
-                    {open.has(s.id) ? (
+                {p.sentences.map((s) => {
+                  const active =
+                    translationMode === 'drawer' ? drawerSent?.id === s.id : open.has(s.id)
+                  return (
+                    <Fragment key={s.id}>
                       <span
-                        className="translation"
+                        className={`sent ${active ? 'sent--active' : ''}`}
+                        data-sent-id={s.id}
                         role="button"
                         tabIndex={0}
-                        onClick={() => toggle(s.id)}
+                        onClick={() => onSentence(s)}
                         onKeyDown={(e) => {
                           if (e.key === 'Enter' || e.key === ' ') {
                             e.preventDefault()
-                            toggle(s.id)
+                            onSentence(s)
                           }
                         }}
                       >
-                        {s.translationRu}
-                      </span>
-                    ) : null}
-                  </Fragment>
-                ))}
+                        {s.text}
+                      </span>{' '}
+                      {translationMode === 'inline' && open.has(s.id) ? (
+                        <span
+                          className="translation"
+                          role="button"
+                          tabIndex={0}
+                          onClick={() => toggle(s.id)}
+                          onKeyDown={(e) => {
+                            if (e.key === 'Enter' || e.key === ' ') {
+                              e.preventDefault()
+                              toggle(s.id)
+                            }
+                          }}
+                        >
+                          {s.translationRu}
+                        </span>
+                      ) : null}
+                    </Fragment>
+                  )
+                })}
               </p>
             ))}
 
@@ -277,6 +306,21 @@ export function ReaderPage() {
           </article>
         ) : null}
       </main>
+
+      {translationMode === 'drawer' && drawerSent ? (
+        <div className="tdrawer" role="dialog" aria-label="Перевод">
+          <button
+            type="button"
+            className="tdrawer__close"
+            aria-label="Закрыть перевод"
+            onClick={() => setDrawerSent(null)}
+          >
+            ×
+          </button>
+          <div className="tdrawer__es">{drawerSent.text}</div>
+          <div className="tdrawer__ru">{drawerSent.translationRu}</div>
+        </div>
+      ) : null}
     </div>
   )
 }

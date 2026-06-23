@@ -1,7 +1,12 @@
 import { useState } from 'react'
 import { TopBar } from '../components/TopBar'
 import { useAppState } from '../state/store'
-import type { FontSize, Theme } from '../lib/storage'
+import type { FontSize, Theme, TranslationMode } from '../lib/storage'
+
+const TRANSLATION_OPTIONS: { value: TranslationMode; label: string; hint: string }[] = [
+  { value: 'inline', label: 'В тексте', hint: 'Перевод появляется прямо под предложением' },
+  { value: 'drawer', label: 'Панель снизу', hint: 'Перевод во всплывающей панели внизу экрана' },
+]
 
 const THEME_OPTIONS: { value: Theme; label: string }[] = [
   { value: 'light', label: 'Светлая' },
@@ -17,8 +22,9 @@ const FONT_OPTIONS: { value: FontSize; label: string }[] = [
 ]
 
 export function SettingsPage() {
-  const { store, setTheme, setFontSize, resetProgress } = useAppState()
+  const { store, setTheme, setFontSize, setTranslationMode, resetProgress } = useAppState()
   const [confirming, setConfirming] = useState(false)
+  const tMode = store.settings.translationMode
 
   return (
     <div className="page">
@@ -54,6 +60,24 @@ export function SettingsPage() {
           </div>
           <p className="settings-preview para">
             La Muerte Roja había devastado el país durante mucho tiempo.
+          </p>
+        </section>
+
+        <section className="block">
+          <h2 className="section-title">Перевод предложений</h2>
+          <div className="filter" role="group" aria-label="Как открывать перевод">
+            {TRANSLATION_OPTIONS.map((opt) => (
+              <button
+                key={opt.value}
+                className={`chip-btn ${tMode === opt.value ? 'chip-btn--active' : ''}`}
+                onClick={() => setTranslationMode(opt.value)}
+              >
+                {opt.label}
+              </button>
+            ))}
+          </div>
+          <p className="muted" style={{ marginTop: '0.4em', fontSize: '0.85em' }}>
+            {TRANSLATION_OPTIONS.find((o) => o.value === tMode)?.hint}
           </p>
         </section>
 
