@@ -5,6 +5,7 @@ import type { Level } from '../types'
 
 export type Theme = 'light' | 'dark' | 'system'
 export type FontSize = 'small' | 'medium' | 'large' | 'xlarge'
+export type ReadingStatus = 'new' | 'started' | 'done'
 
 export interface Settings {
   theme: Theme
@@ -34,6 +35,8 @@ export interface Store {
   lastOpened: LastOpened | null
   works: WorksProgress
   settings: Settings
+  /** Ручная пометка статуса книги пользователем (перекрывает авто-определение). */
+  statusOverrides: Record<string, ReadingStatus>
 }
 
 const STORAGE_KEY = 'greda:v1'
@@ -44,7 +47,7 @@ export const DEFAULT_SETTINGS: Settings = {
 }
 
 export function defaultStore(): Store {
-  return { lastOpened: null, works: {}, settings: { ...DEFAULT_SETTINGS } }
+  return { lastOpened: null, works: {}, settings: { ...DEFAULT_SETTINGS }, statusOverrides: {} }
 }
 
 export function loadStore(): Store {
@@ -56,6 +59,7 @@ export function loadStore(): Store {
       lastOpened: parsed.lastOpened ?? null,
       works: parsed.works ?? {},
       settings: { ...DEFAULT_SETTINGS, ...(parsed.settings ?? {}) },
+      statusOverrides: parsed.statusOverrides ?? {},
     }
   } catch {
     // Повреждённые данные не должны ронять приложение.

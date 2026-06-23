@@ -1,4 +1,4 @@
-import { Fragment, useCallback, useEffect, useRef, useState } from 'react'
+import { Fragment, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { TopBar } from '../components/TopBar'
 import { ErrorView, Loading } from '../components/ui'
@@ -10,14 +10,6 @@ import type { Level, LevelManifest } from '../types'
 
 function isLevel(value: string): value is Level {
   return value in LEVEL_LABELS
-}
-
-function scrollMetrics() {
-  const el = document.scrollingElement ?? document.documentElement
-  const scrollTop = el.scrollTop
-  const maxScroll = el.scrollHeight - el.clientHeight
-  const percent = maxScroll <= 0 ? 100 : Math.min(100, (scrollTop / maxScroll) * 100)
-  return { scrollTop, maxScroll, percent }
 }
 
 /** id предложения, верхняя кромка которого ближе всего к верху области чтения. */
@@ -87,7 +79,7 @@ export function ReaderPage() {
   const level: Level = params.level && isLevel(params.level) ? params.level : 'b1'
   const chapterId = params.chapterId ?? ''
 
-  const { store, recordOpen, updatePosition, markChapterCompleted, getChapterProgress } =
+  const { store, recordOpen, updatePosition, markChapterCompleted, getChapterProgress, setWorkStatus } =
     useAppState()
 
   const { data: chapter, error, loading } = useAsync(
@@ -102,33 +94,50 @@ export function ReaderPage() {
   const containerRef = useRef<HTMLDivElement>(null)
   const storeRef = useRef(store)
   storeRef.current = store
-  const pendingScrollRef = useRef(0)
+  const pendingSentenceRef = useRef<string | null>(null)
   const restoredRef = useRef(false)
 
-  // Открытие главы: фиксируем позицию для восстановления ДО перезаписи, отмечаем последнюю позицию.
+  // Плоский список id предложений главы + индекс id→позиция — основа прогресса.
+  const sentenceIds = useMemo(() => {
+    const ids: string[] = []
+    if (chapter) for (const p of chapter.paragraphs) for (const s of p.sentences) ids.push(s.id)
+    return ids
+  }, [chapter])
+  const indexOf = useMemo(() => {
+    const m = new Map<string, number>()
+    sentenceIds.forEach((id, i) => m.set(id, i))
+    return m
+  }, [sentenceIds])
+
+  // Открытие главы: запоминаем предложение, к которому надо вернуться.
   useEffect(() => {
-    const last = storeRef.current.lastOpened
-    pendingScrollRef.current =
-      last && last.workId === workId && last.level === level && last.chapterId === chapterId
-        ? last.scrollTop
-        : 0
+    const prog = storeRef.current.works[workId]?.[level]
+    pendingSentenceRef.current =
+      prog?.currentChapterId === chapterId ? prog?.lastSentenceId ?? null : null
     restoredRef.current = false
     setOpen(new Set())
     recordOpen(workId, level, chapterId)
   }, [workId, level, chapterId, recordOpen])
 
+  // Прогресс считаем по предложению, которое сейчас вверху экрана (а не по высоте
+  // прокрутки — та «врёт» на длинных главах до завершения вёрстки). «Прочитано» —
+  // только при реальном докручивании до конца главы.
   const persist = useCallback(() => {
-    const { scrollTop, maxScroll, percent } = scrollMetrics()
+    const el = document.scrollingElement ?? document.documentElement
+    const scrollable = el.scrollHeight - el.clientHeight
+    const atEnd = scrollable > 40 && el.scrollTop + el.clientHeight >= el.scrollHeight - 8
+    const topId = topVisibleSentenceId(containerRef.current)
+    const n = sentenceIds.length
+    const idx = topId ? indexOf.get(topId) ?? 0 : 0
+    const percent = atEnd || n <= 1 ? 100 : Math.round((idx / (n - 1)) * 100)
     updatePosition(workId, level, {
       chapterId,
-      lastSentenceId: topVisibleSentenceId(containerRef.current),
-      scrollTop,
+      lastSentenceId: topId,
+      scrollTop: el.scrollTop,
       progressPercent: percent,
     })
-    if (percent >= 98 || maxScroll <= 4) {
-      markChapterCompleted(workId, level, chapterId)
-    }
-  }, [workId, level, chapterId, updatePosition, markChapterCompleted])
+    if (atEnd) markChapterCompleted(workId, level, chapterId)
+  }, [workId, level, chapterId, sentenceIds.length, indexOf, updatePosition, markChapterCompleted])
 
   const persistThrottled = useThrottledCallback(persist, 400)
 
@@ -143,18 +152,25 @@ export function ReaderPage() {
     }
   }, [persistThrottled, persist])
 
-  // Восстановление позиции после отрисовки главы.
+  // Восстановление позиции по id предложения после отрисовки главы.
   useEffect(() => {
     if (!chapter || restoredRef.current) return
     restoredRef.current = true
-    const target = pendingScrollRef.current
+    const lastId = pendingSentenceRef.current
     requestAnimationFrame(() => {
-      window.scrollTo(0, target)
-      // Короткая глава целиком на экране — считаем прочитанной и фиксируем 100%.
-      const { maxScroll } = scrollMetrics()
-      if (maxScroll <= 4) persist()
+      if (lastId) {
+        const target = containerRef.current?.querySelector<HTMLElement>(
+          `[data-sent-id="${CSS.escape(lastId)}"]`,
+        )
+        if (target) {
+          const y = target.getBoundingClientRect().top + window.scrollY - 80
+          window.scrollTo(0, Math.max(0, y))
+          return
+        }
+      }
+      window.scrollTo(0, 0)
     })
-  }, [chapter, persist])
+  }, [chapter])
 
   const toggle = useCallback((id: string) => {
     setOpen((prev) => {
@@ -167,6 +183,10 @@ export function ReaderPage() {
 
   const progress = getChapterProgress(workId, level)
   const percent = Math.round(progress?.progressPercent ?? 0)
+
+  const chapters = manifest?.chapters ?? []
+  const isLastChapter = chapters.length > 0 && chapters[chapters.length - 1].id === chapterId
+  const bookDone = store.statusOverrides[workId] === 'done'
 
   return (
     <div className="page reader">
@@ -225,6 +245,28 @@ export function ReaderPage() {
                 ))}
               </p>
             ))}
+
+            {isLastChapter ? (
+              <div className="reader__finish">
+                {bookDone ? (
+                  <button
+                    type="button"
+                    className="btn-finish btn-finish--done"
+                    onClick={() => setWorkStatus(workId, null)}
+                  >
+                    ✓ Книга прочитана — снять отметку
+                  </button>
+                ) : (
+                  <button
+                    type="button"
+                    className="btn-finish"
+                    onClick={() => setWorkStatus(workId, 'done')}
+                  >
+                    Пометить книгу прочитанной
+                  </button>
+                )}
+              </div>
+            ) : null}
 
             <ChapterNav
               manifest={manifest}

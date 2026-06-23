@@ -7,6 +7,56 @@ import { fetchManifest, fetchWork } from '../lib/content'
 import { useAppState } from '../state/store'
 import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
 import type { Level } from '../types'
+import type { ReadingStatus } from '../lib/progress'
+
+const STATUS_LABELS: Record<ReadingStatus, string> = {
+  new: 'Новое',
+  started: 'Читаю',
+  done: 'Прочитано',
+}
+
+function StatusControl({ workId }: { workId: string }) {
+  const { store, setWorkStatus } = useAppState()
+  const override = store.statusOverrides[workId]
+  // Авто-определение (для подсветки, когда ручной пометки нет).
+  const levels = store.works[workId]
+  let auto: ReadingStatus = 'new'
+  if (levels) {
+    for (const p of Object.values(levels)) {
+      if (!p) continue
+      if ((p.completedChapterIds?.length ?? 0) > 0 || (p.progressPercent ?? 0) > 0 || p.currentChapterId)
+        auto = 'started'
+    }
+  }
+  const effective: ReadingStatus = override ?? auto
+  return (
+    <section className="block">
+      <h2 className="section-title">Статус</h2>
+      <div className="filter" role="group" aria-label="Статус книги">
+        <button
+          className={`chip-btn chip-btn--sm ${!override ? 'chip-btn--active' : ''}`}
+          onClick={() => setWorkStatus(workId, null)}
+          title="Определять автоматически по прогрессу"
+        >
+          Авто{!override ? ` · ${STATUS_LABELS[auto]}` : ''}
+        </button>
+        {(['new', 'started', 'done'] as ReadingStatus[]).map((st) => (
+          <button
+            key={st}
+            className={`chip-btn chip-btn--sm ${override === st ? 'chip-btn--active' : ''}`}
+            onClick={() => setWorkStatus(workId, st)}
+          >
+            {STATUS_LABELS[st]}
+          </button>
+        ))}
+      </div>
+      <div className="muted" style={{ marginTop: '0.4em', fontSize: '0.85em' }}>
+        Сейчас: {STATUS_LABELS[effective]}
+        {override ? ' (вручную)' : ' (авто)'}
+      </div>
+    </section>
+  )
+}
 
 function ChapterList({ workId, level }: { workId: string; level: Level }) {
   const { data: manifest, error, loading } = useAsync(
@@ -105,6 +155,8 @@ export function WorkPage() {
                 })}
               </div>
             </section>
+
+            <StatusControl workId={work.id} />
 
             {level ? (
               <ChapterList workId={work.id} level={level} />

@@ -1,15 +1,18 @@
 import type { CatalogWork } from '../types'
-import type { Store } from './storage'
+import type { ReadingStatus, Store } from './storage'
 
-export type ReadingStatus = 'new' | 'started' | 'done'
+export type { ReadingStatus }
 
 /**
  * Статус чтения произведения по всем уровням:
+ * - ручная пометка пользователя (`statusOverrides`) имеет приоритет;
  * - `done` — на каком-то уровне прочитаны все главы;
  * - `started` — есть прогресс, но не дочитано;
  * - `new` — не открывалось.
  */
 export function workReadingStatus(store: Store, work: CatalogWork): ReadingStatus {
+  const override = store.statusOverrides?.[work.id]
+  if (override) return override
   const levels = store.works[work.id]
   if (!levels) return 'new'
   const need = work.chapters ?? 1

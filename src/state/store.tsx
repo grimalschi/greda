@@ -15,6 +15,7 @@ import {
   saveStore,
   type ChapterProgress,
   type FontSize,
+  type ReadingStatus,
   type Store,
   type Theme,
 } from '../lib/storage'
@@ -35,6 +36,8 @@ interface AppState {
   recordOpen: (workId: string, level: Level, chapterId: string) => void
   updatePosition: (workId: string, level: Level, update: PositionUpdate) => void
   markChapterCompleted: (workId: string, level: Level, chapterId: string) => void
+  /** Ручная пометка статуса книги; null — сбросить и вернуться к авто-определению. */
+  setWorkStatus: (workId: string, status: ReadingStatus | null) => void
 }
 
 const AppStateContext = createContext<AppState | null>(null)
@@ -151,7 +154,9 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
                 ...prev,
                 currentChapterId: update.chapterId,
                 lastSentenceId: update.lastSentenceId,
-                progressPercent: Math.max(prev.progressPercent, update.progressPercent),
+                // Фактическая позиция (не max): отражает, где читатель сейчас,
+                // и само-исправляет старые значения, «застрявшие» на 100 %.
+                progressPercent: update.progressPercent,
               },
             },
           },
@@ -184,6 +189,15 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
     [],
   )
 
+  const setWorkStatus = useCallback((workId: string, status: ReadingStatus | null) => {
+    setStore((s) => {
+      const next = { ...s.statusOverrides }
+      if (status == null) delete next[workId]
+      else next[workId] = status
+      return { ...s, statusOverrides: next }
+    })
+  }, [])
+
   const value = useMemo<AppState>(
     () => ({
       store,
@@ -194,6 +208,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       recordOpen,
       updatePosition,
       markChapterCompleted,
+      setWorkStatus,
     }),
     [
       store,
@@ -204,6 +219,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       recordOpen,
       updatePosition,
       markChapterCompleted,
+      setWorkStatus,
     ],
   )
 
