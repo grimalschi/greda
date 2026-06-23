@@ -263,7 +263,6 @@ export function ReaderPage() {
           >
             ×
           </button>
-          <div className="tdrawer__es">{drawerSent.text}</div>
           <div className="tdrawer__ru">{drawerSent.translationRu}</div>
         </div>
       ) : null}

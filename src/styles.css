@@ -598,17 +598,11 @@ button {
   color: var(--muted);
   cursor: pointer;
 }
-.tdrawer__es {
-  font-weight: 600;
-  margin-right: 30px;
-  line-height: 1.5;
-}
 .tdrawer__ru {
-  margin-top: 0.6em;
-  color: var(--translation-text);
-  border-left: 3px solid var(--accent);
-  padding-left: 0.7em;
-  line-height: 1.55;
+  margin-right: 28px;
+  color: var(--text);
+  line-height: 1.6;
+  font-size: 1.02em;
 }
 
 .read-cta {
