@@ -206,7 +206,20 @@ export function ReaderPage() {
                       {s.text}
                     </span>{' '}
                     {open.has(s.id) ? (
-                      <span className="translation">{s.translationRu}</span>
+                      <span
+                        className="translation"
+                        role="button"
+                        tabIndex={0}
+                        onClick={() => toggle(s.id)}
+                        onKeyDown={(e) => {
+                          if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault()
+                            toggle(s.id)
+                          }
+                        }}
+                      >
+                        {s.translationRu}
+                      </span>
                     ) : null}
                   </Fragment>
                 ))}
