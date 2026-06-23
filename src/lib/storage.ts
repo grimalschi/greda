@@ -9,14 +9,22 @@ export type ReadingStatus = 'new' | 'started' | 'done'
 /** Как показывать перевод: под строкой (inline), в панели снизу (drawer) или в поповере у предложения. */
 export type TranslationMode = 'inline' | 'drawer' | 'popover'
 
+/** Провайдер ИИ для функции «Объяснение». OpenRouter работает из браузера надёжнее
+ * (CORS на всех ответах, видны ошибки, есть бесплатные модели). */
+export type AiProvider = 'openai' | 'openrouter'
+
 export interface Settings {
   theme: Theme
   fontSize: FontSize
   translationMode: TranslationMode
-  /** Ключ OpenAI для функции «Объяснение» (хранится локально в браузере). */
+  /** Какой провайдер использовать для объяснений. */
+  aiProvider: AiProvider
+  /** Ключи провайдеров (хранятся локально в браузере). */
   openaiApiKey: string
-  /** Модель OpenAI для объяснений. */
+  openrouterApiKey: string
+  /** Модели на каждого провайдера. */
   openaiModel: string
+  openrouterModel: string
   /** Шаблон промпта; __SENTENCE__ заменяется на предложение. */
   explainPrompt: string
 }
@@ -60,8 +68,11 @@ export const DEFAULT_SETTINGS: Settings = {
   theme: 'system',
   fontSize: 'medium',
   translationMode: 'inline',
+  aiProvider: 'openrouter',
   openaiApiKey: '',
+  openrouterApiKey: '',
   openaiModel: 'gpt-4o-mini',
+  openrouterModel: 'openai/gpt-4o-mini',
   explainPrompt: DEFAULT_EXPLAIN_PROMPT,
 }
 

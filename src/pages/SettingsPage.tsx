@@ -1,7 +1,12 @@
 import { useState } from 'react'
 import { TopBar } from '../components/TopBar'
 import { useAppState } from '../state/store'
-import type { FontSize, Theme, TranslationMode } from '../lib/storage'
+import type { AiProvider, FontSize, Theme, TranslationMode } from '../lib/storage'
+
+const PROVIDER_OPTIONS: { value: AiProvider; label: string }[] = [
+  { value: 'openrouter', label: 'OpenRouter' },
+  { value: 'openai', label: 'OpenAI' },
+]
 
 const TRANSLATION_OPTIONS: { value: TranslationMode; label: string; hint: string }[] = [
   { value: 'inline', label: 'В тексте', hint: 'Перевод появляется прямо под предложением' },
@@ -28,6 +33,13 @@ export function SettingsPage() {
   const [confirming, setConfirming] = useState(false)
   const tMode = store.settings.translationMode
   const s = store.settings
+  const provider = s.aiProvider
+  const aiKey = provider === 'openai' ? s.openaiApiKey : s.openrouterApiKey
+  const aiModel = provider === 'openai' ? s.openaiModel : s.openrouterModel
+  const setAiKey = (v: string) =>
+    updateSettings(provider === 'openai' ? { openaiApiKey: v } : { openrouterApiKey: v })
+  const setAiModel = (v: string) =>
+    updateSettings(provider === 'openai' ? { openaiModel: v } : { openrouterModel: v })
 
   return (
     <div className="page">
@@ -85,17 +97,30 @@ export function SettingsPage() {
         </section>
 
         <section className="block">
-          <h2 className="section-title">Объяснение грамматики (OpenAI)</h2>
+          <h2 className="section-title">Объяснение грамматики (ИИ)</h2>
+          <div className="filter" role="group" aria-label="Провайдер ИИ">
+            {PROVIDER_OPTIONS.map((opt) => (
+              <button
+                key={opt.value}
+                className={`chip-btn ${provider === opt.value ? 'chip-btn--active' : ''}`}
+                onClick={() => updateSettings({ aiProvider: opt.value })}
+              >
+                {opt.label}
+              </button>
+            ))}
+          </div>
           <label className="field">
-            <span className="field__label">Ключ API OpenAI</span>
+            <span className="field__label">
+              Ключ API {provider === 'openai' ? 'OpenAI (sk-…)' : 'OpenRouter (sk-or-…)'}
+            </span>
             <input
               className="field__input"
               type="password"
               autoComplete="off"
               spellCheck={false}
-              placeholder="sk-…"
-              value={s.openaiApiKey}
-              onChange={(e) => updateSettings({ openaiApiKey: e.target.value })}
+              placeholder={provider === 'openai' ? 'sk-…' : 'sk-or-…'}
+              value={aiKey}
+              onChange={(e) => setAiKey(e.target.value)}
             />
           </label>
           <label className="field">
@@ -104,9 +129,9 @@ export function SettingsPage() {
               className="field__input"
               type="text"
               spellCheck={false}
-              placeholder="gpt-4o-mini"
-              value={s.openaiModel}
-              onChange={(e) => updateSettings({ openaiModel: e.target.value })}
+              placeholder={provider === 'openai' ? 'gpt-4o-mini' : 'openai/gpt-4o-mini'}
+              value={aiModel}
+              onChange={(e) => setAiModel(e.target.value)}
             />
           </label>
           <label className="field">
@@ -119,9 +144,20 @@ export function SettingsPage() {
             />
           </label>
           <p className="muted" style={{ fontSize: '0.85em' }}>
-            Ключ хранится только в этом браузере и используется для прямых запросов в OpenAI при
-            открытии вкладки «Объяснение» (доступна в режимах «Панель снизу» и «Поповер»). В промпте{' '}
-            <code>__SENTENCE__</code> заменяется на выбранное предложение.
+            Ключ хранится только в этом браузере; запрос идёт напрямую к провайдеру при открытии
+            вкладки «Объяснение» (режимы «Панель снизу» и «Поповер»). <code>__SENTENCE__</code>{' '}
+            заменяется на предложение.{' '}
+            {provider === 'openrouter' ? (
+              <>
+                <b>OpenRouter</b> работает из браузера надёжнее (видны ошибки, есть бесплатные модели —
+                с суффиксом <code>:free</code>). Ключ — на openrouter.ai/keys.
+              </>
+            ) : (
+              <>
+                <b>OpenAI</b> из браузера скрывает причину ошибок (показывает «TypeError»); если не
+                работает — переключись на OpenRouter.
+              </>
+            )}
           </p>
         </section>
 
@@ -153,7 +189,7 @@ export function SettingsPage() {
         </section>
 
         <section className="block">
-          <p className="muted">Greda · офлайн-ридер · версия 0.1.0</p>
+          <p className="muted">Greda · офлайн-ридер · версия 0.2.0</p>
         </section>
       </main>
     </div>

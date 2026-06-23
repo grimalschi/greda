@@ -41,15 +41,14 @@ function PanelContent({
   const [tab, setTab] = useState<'translation' | 'explain'>('translation')
   const [ex, setEx] = useState<ExplainState>({ loading: false, text: '', error: '' })
 
+  const provider = settings.aiProvider
+  const apiKey = provider === 'openai' ? settings.openaiApiKey : settings.openrouterApiKey
+  const model = provider === 'openai' ? settings.openaiModel : settings.openrouterModel
+
   useEffect(() => {
     if (tab !== 'explain') return
-    const args = {
-      text: sentence.text,
-      prompt: settings.explainPrompt,
-      apiKey: settings.openaiApiKey,
-      model: settings.openaiModel,
-    }
-    if (!settings.openaiApiKey.trim()) {
+    const args = { text: sentence.text, prompt: settings.explainPrompt, provider, apiKey, model }
+    if (!apiKey.trim()) {
       setEx({ loading: false, text: '', error: 'no-key' })
       return
     }
@@ -66,7 +65,7 @@ function PanelContent({
     return () => {
       cancelled = true
     }
-  }, [tab, sentence.text, settings.openaiApiKey, settings.openaiModel, settings.explainPrompt])
+  }, [tab, sentence.text, provider, apiKey, model, settings.explainPrompt])
 
   return (
     <>
