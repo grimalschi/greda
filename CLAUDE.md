@@ -6,14 +6,20 @@ Guidance for working in this repo (**greda**). Read this first.
 Offline-first PWA for studying Spanish by reading public-domain works adapted into
 graded Spanish (levels **A1–C2**; most works A2–C1) with **per-sentence Russian translations**.
 UI is in Russian. No backend and no runtime LLM calls — all content is pre-generated static JSON
-in `public/content/`. The library holds **355 works**: 5 originals (Poe/London) + ~263
-public-domain detective & sci-fi stories + **87 canonical classics added 2026-06-16**
-(Frankenstein, Dracula, Verne, Tarzan, Austen, Dickens, Brontës, Twain, Wilde, Collins, Leblanc,
-Leroux, Dumas, Hugo, Dostoevsky, Melville, Flaubert, Wharton, Kafka, Haggard, Buchan, Hardy, Eliot,
-Montgomery, Burroughs, Bellamy, Chesterton, Conrad, Cooper-era adventure & children's classics, …).
-All from Project Gutenberg. Long novels are **multi-chapter** (4–11 ch); short stories are
-single-chapter (complete arc). The 87 classics are A2–C1 only (no A1/C2 yet). Plan→Gutenberg-ID
-mapping for the classics: `sources/classics-plans/` (waves 1–7).
+in `public/content/`. The library holds **402 works**: 5 originals (Poe/London) + ~263
+public-domain detective & sci-fi stories + **87 canonical classics added 2026-06-16** (Frankenstein,
+Dracula, Verne, Tarzan, Austen, Dickens, Brontës, Twain, Wilde, Collins, Leblanc, Leroux, Dumas, Hugo,
+Dostoevsky, Melville, Flaubert, Wharton, Kafka, Haggard, Buchan, Hardy, Eliot, Montgomery, Burroughs,
+Bellamy, Chesterton, Conrad, …) + **47 world short-fiction classics added 2026-06-23** (Joyce, Kafka
+shorts, Chekhov, Tolstoy, O. Henry, Mansfield, Woolf, Akutagawa, Tagore, Bunin, Andreyev, Conrad, Saki,
+M. R. James, Blackwood, Dunsany, Fitzgerald, Lovecraft, Twain shorts, Cather, Pirandello, Gorky, …).
+All from Project Gutenberg (first published ≤1930 → US public domain). Long novels are **multi-chapter**
+(4–11 ch); short stories are single-chapter (complete arc). The 87 classics are A2–C1 only. **The 47 new
+classics are faithful `b1` only** (single chapter, "simpler-not-shorter" method below). A handful of
+planned works were dropped because Anthropic's output content-filter persistently blocked their core
+scenes (In the Penal Colony, The Machine Stops, Casting the Runes, Benjamin Button) or they exceeded
+~50 pp (Death in Venice, The Seven Who Were Hanged, The Forged Coupon). Plan→Gutenberg-ID mapping for
+the 2026-06-16 classics: `sources/classics-plans/` (waves 1–7).
 
 ## Commands
 - `npm run dev` — dev server at http://localhost:5173/greda/
@@ -59,19 +65,26 @@ Graded reading here means **simplify the language, not the content**. Keep ALL o
 every scene, plot beat, key detail, important dialogue, deduction and emotional turn. Do **not**
 summarize or collapse events into a synopsis. Only the *form* is simplified per CEFR level — short
 sentences (one idea each), high-frequency vocabulary, simple tenses, long periods broken into several
-short ones. The result stays close to the original in coverage (rule of thumb: ~1 simplified sentence
-per ~30–40 source words; a ~6 000-word story → ~150–200 sentences, **not** ~35). Sensitive themes:
-render the meaning faithfully in respectful modern language; never reproduce archaic slurs.
-Spec: `.plan/spec-faithful.md`.
+short ones. The result stays close to the original in coverage (target: **≥80–90 % of the source word
+count**; ~1 simplified sentence per ~30–40 source words; a ~6 000-word story → ~150–200 sentences,
+**not** ~35). **One sentence = one object:** never put two sentences (two `.`/`!`/`?`) in a single
+`text` — split long periods into separate `sent-` objects, each with its own `translationRu`. Sensitive
+themes: render the meaning faithfully in respectful modern language; never reproduce archaic slurs, and
+keep harsh/violent/frightening scenes sober and non-graphic (this also avoids the output content-filter
+blocking generation). Spec: `.plan/spec-faithful.md`.
 
 - **Legacy caveat:** most existing content (original 263 + 87 classics) used an earlier *soft-shorten /
   condense* approach that compressed heavily and dropped detail — it is being migrated to the faithful
-  method. First faithful example kept for comparison: `the-yellow-face` level **`b1v2`** (4 ch /
-  375 sentences vs old `b1` 36 — ×6.3).
+  method. The 47 world classics (2026-06-23) are faithful from the start.
 - **`b1v2` (optional extra level, label "B1 v2"):** a faithful re-take that coexists with the base 6
-  levels. Non-base levels are optional per work and wired through `schemas/` (`level` enums +
-  `work.levels.b1v2`), `scripts/build-catalog.mjs` (preserves extra levels), `validate-content.mjs`,
-  `src/types.ts` (`Level`/`LEVEL_ORDER`/`LEVEL_LABELS`), and `WorkPage` (renders extra levels only where present).
+  levels — used on the 10 Sherlock Holmes stories + `the-yellow-face` for side-by-side comparison with
+  their legacy soft `b1`. Each b1v2 is **single-chapter** (matches the original short-story structure and
+  the sibling a1–c2 levels). New faithful works for *new* authors just use base **`b1`** (no v1 to
+  compare against). Non-base levels are wired through `schemas/` (`level` enums + `work.levels.b1v2`),
+  `scripts/build-catalog.mjs` (preserves extra levels), `validate-content.mjs`, `src/types.ts`
+  (`Level`/`LEVEL_ORDER`/`LEVEL_LABELS`), and `WorkPage`/`WorkCard`/`HomePage` (render b1v2 only where present).
+- **Reader (`ReaderPage`):** click a Spanish sentence to reveal its Russian translation; click the Russian
+  text to hide it again.
 
 ## Content sources & generation (out-of-app, one-time)
 - **All sources are public domain from Project Gutenberg** (gutenberg.org, first published ≤1930 → US public domain).
