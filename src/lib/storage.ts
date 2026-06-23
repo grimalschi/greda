@@ -6,14 +6,23 @@ import type { Level } from '../types'
 export type Theme = 'light' | 'dark' | 'system'
 export type FontSize = 'small' | 'medium' | 'large' | 'xlarge'
 export type ReadingStatus = 'new' | 'started' | 'done'
-/** Как показывать перевод предложения: под строкой (inline) или во всплывающей панели снизу (drawer). */
-export type TranslationMode = 'inline' | 'drawer'
+/** Как показывать перевод: под строкой (inline), в панели снизу (drawer) или в поповере у предложения. */
+export type TranslationMode = 'inline' | 'drawer' | 'popover'
 
 export interface Settings {
   theme: Theme
   fontSize: FontSize
   translationMode: TranslationMode
+  /** Ключ OpenAI для функции «Объяснение» (хранится локально в браузере). */
+  openaiApiKey: string
+  /** Модель OpenAI для объяснений. */
+  openaiModel: string
+  /** Шаблон промпта; __SENTENCE__ заменяется на предложение. */
+  explainPrompt: string
 }
+
+export const DEFAULT_EXPLAIN_PROMPT =
+  'Кратко объясни грамматику и структуру предложения на испанском: __SENTENCE__'
 
 export interface LastOpened {
   workId: string
@@ -51,6 +60,9 @@ export const DEFAULT_SETTINGS: Settings = {
   theme: 'system',
   fontSize: 'medium',
   translationMode: 'inline',
+  openaiApiKey: '',
+  openaiModel: 'gpt-4o-mini',
+  explainPrompt: DEFAULT_EXPLAIN_PROMPT,
 }
 
 export function defaultStore(): Store {

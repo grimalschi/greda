@@ -4,9 +4,11 @@ import { TopBar } from '../components/TopBar'
 import { ErrorView, Loading } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
 import { fetchChapter, fetchWork } from '../lib/content'
+import { explainSentence, peekExplanation } from '../lib/explain'
 import { useAppState, useThrottledCallback } from '../state/store'
 import { LEVEL_LABELS } from '../types'
 import type { Level, Sentence } from '../types'
+import type { Settings } from '../lib/storage'
 
 function isLevel(value: string): value is Level {
   return value in LEVEL_LABELS
@@ -22,6 +24,86 @@ function topVisibleSentenceId(container: HTMLElement | null): string | null {
     }
   }
   return null
+}
+
+type ExplainState = { loading: boolean; text: string; error: string }
+
+/** Содержимое панели/поповера: вкладки «Перевод» и «Объяснение» (GPT). */
+function PanelContent({
+  sentence,
+  settings,
+  onClose,
+}: {
+  sentence: Sentence
+  settings: Settings
+  onClose: () => void
+}) {
+  const [tab, setTab] = useState<'translation' | 'explain'>('translation')
+  const [ex, setEx] = useState<ExplainState>({ loading: false, text: '', error: '' })
+
+  useEffect(() => {
+    if (tab !== 'explain') return
+    const args = {
+      text: sentence.text,
+      prompt: settings.explainPrompt,
+      apiKey: settings.openaiApiKey,
+      model: settings.openaiModel,
+    }
+    if (!settings.openaiApiKey.trim()) {
+      setEx({ loading: false, text: '', error: 'no-key' })
+      return
+    }
+    const cached = peekExplanation(args)
+    if (cached) {
+      setEx({ loading: false, text: cached, error: '' })
+      return
+    }
+    let cancelled = false
+    setEx({ loading: true, text: '', error: '' })
+    explainSentence(args)
+      .then((t) => !cancelled && setEx({ loading: false, text: t, error: '' }))
+      .catch((e) => !cancelled && setEx({ loading: false, text: '', error: String(e?.message ?? e) }))
+    return () => {
+      cancelled = true
+    }
+  }, [tab, sentence.text, settings.openaiApiKey, settings.openaiModel, settings.explainPrompt])
+
+  return (
+    <>
+      <div className="tpanel__tabs" role="tablist">
+        <button
+          type="button"
+          className={`tpanel__tab ${tab === 'translation' ? 'is-active' : ''}`}
+          onClick={() => setTab('translation')}
+        >
+          Перевод
+        </button>
+        <button
+          type="button"
+          className={`tpanel__tab ${tab === 'explain' ? 'is-active' : ''}`}
+          onClick={() => setTab('explain')}
+        >
+          Объяснение
+        </button>
+        <button type="button" className="tpanel__close" aria-label="Закрыть" onClick={onClose}>
+          ×
+        </button>
+      </div>
+      <div className="tpanel__body">
+        {tab === 'translation' ? (
+          <div className="tpanel__ru">{sentence.translationRu}</div>
+        ) : ex.loading ? (
+          <div className="muted">GPT думает…</div>
+        ) : ex.error === 'no-key' ? (
+          <div className="muted">Укажите ключ OpenAI в Настройках, чтобы получать объяснения.</div>
+        ) : ex.error ? (
+          <div className="muted">Ошибка: {ex.error}</div>
+        ) : (
+          <div className="tpanel__explain">{ex.text}</div>
+        )}
+      </div>
+    </>
+  )
 }
 
 export function ReaderPage() {
@@ -40,9 +122,10 @@ export function ReaderPage() {
   )
   const { data: work } = useAsync(() => fetchWork(workId), [workId])
 
-  // Inline-режим: множество раскрытых переводов. Drawer-режим: одно активное предложение.
+  // Inline-режим: множество раскрытых переводов. Drawer/Popover: одно активное предложение.
   const [open, setOpen] = useState<Set<string>>(() => new Set())
-  const [drawerSent, setDrawerSent] = useState<Sentence | null>(null)
+  const [panelSent, setPanelSent] = useState<Sentence | null>(null)
+  const [anchor, setAnchor] = useState<{ left: number; top: number; bottom: number } | null>(null)
 
   const containerRef = useRef<HTMLDivElement>(null)
   const storeRef = useRef(store)
@@ -51,7 +134,6 @@ export function ReaderPage() {
   const restoredRef = useRef(false)
   const lastPosRef = useRef<{ id: string; percent: number } | null>(null)
 
-  // Плоский список id предложений главы + индекс id→позиция — основа прогресса.
   const sentenceIds = useMemo(() => {
     const ids: string[] = []
     if (chapter) for (const p of chapter.paragraphs) for (const s of p.sentences) ids.push(s.id)
@@ -63,7 +145,6 @@ export function ReaderPage() {
     return m
   }, [sentenceIds])
 
-  // Открытие: запоминаем предложение, к которому надо вернуться.
   useEffect(() => {
     const prog = storeRef.current.works[workId]?.[level]
     pendingSentenceRef.current =
@@ -71,13 +152,10 @@ export function ReaderPage() {
     restoredRef.current = false
     lastPosRef.current = null
     setOpen(new Set())
-    setDrawerSent(null)
+    setPanelSent(null)
     recordOpen(workId, level, chapterId)
   }, [workId, level, chapterId, recordOpen])
 
-  // Прогресс — по предложению вверху экрана (надёжно на длинных текстах). «Прочитано» —
-  // только при докручивании до конца. ВАЖНО: если контейнер уже размонтирован (кнопка
-  // «назад»), topVisibleSentenceId == null — НЕ затираем сохранённую позицию.
   const persist = useCallback(() => {
     const topId = topVisibleSentenceId(containerRef.current)
     if (!topId) return
@@ -99,7 +177,6 @@ export function ReaderPage() {
 
   const persistThrottled = useThrottledCallback(persist, 300)
 
-  // Слушаем скролл документа; при уходе сохраняем последнюю известную позицию.
   useEffect(() => {
     const handler = () => persistThrottled()
     window.addEventListener('scroll', handler, { passive: true })
@@ -108,7 +185,6 @@ export function ReaderPage() {
       if (topVisibleSentenceId(containerRef.current)) {
         persist()
       } else if (lastPosRef.current) {
-        // контейнер уже размонтирован — пишем последнюю запомненную позицию
         updatePosition(workId, level, {
           chapterId,
           lastSentenceId: lastPosRef.current.id,
@@ -119,7 +195,6 @@ export function ReaderPage() {
     }
   }, [persistThrottled, persist, workId, level, chapterId, updatePosition])
 
-  // Восстановление позиции по id предложения + немедленный пересчёт прогресса.
   useEffect(() => {
     if (!chapter || restoredRef.current) return
     restoredRef.current = true
@@ -138,6 +213,22 @@ export function ReaderPage() {
     })
   }, [chapter, persist])
 
+  // Закрытие панели: Escape; для поповера — при прокрутке (чтобы не «отрывался»).
+  useEffect(() => {
+    if (!panelSent) return
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && setPanelSent(null)
+    window.addEventListener('keydown', onKey)
+    let onScroll: (() => void) | null = null
+    if (translationMode === 'popover') {
+      onScroll = () => setPanelSent(null)
+      window.addEventListener('scroll', onScroll, { passive: true, once: true })
+    }
+    return () => {
+      window.removeEventListener('keydown', onKey)
+      if (onScroll) window.removeEventListener('scroll', onScroll)
+    }
+  }, [panelSent, translationMode])
+
   const toggle = useCallback((id: string) => {
     setOpen((prev) => {
       const next = new Set(prev)
@@ -148,9 +239,16 @@ export function ReaderPage() {
   }, [])
 
   const onSentence = useCallback(
-    (s: Sentence) => {
-      if (translationMode === 'drawer') setDrawerSent((prev) => (prev?.id === s.id ? null : s))
-      else toggle(s.id)
+    (s: Sentence, el: HTMLElement) => {
+      if (translationMode === 'inline') {
+        toggle(s.id)
+        return
+      }
+      setPanelSent((prev) => (prev?.id === s.id ? null : s))
+      if (translationMode === 'popover') {
+        const r = el.getBoundingClientRect()
+        setAnchor({ left: r.left, top: r.top, bottom: r.bottom })
+      }
     },
     [translationMode, toggle],
   )
@@ -161,7 +259,7 @@ export function ReaderPage() {
 
   const renderSent = useCallback(
     (s: Sentence) => {
-      const active = translationMode === 'drawer' ? drawerSent?.id === s.id : open.has(s.id)
+      const active = translationMode === 'inline' ? open.has(s.id) : panelSent?.id === s.id
       return (
         <Fragment key={s.id}>
           <span
@@ -169,11 +267,11 @@ export function ReaderPage() {
             data-sent-id={s.id}
             role="button"
             tabIndex={0}
-            onClick={() => onSentence(s)}
+            onClick={(e) => onSentence(s, e.currentTarget)}
             onKeyDown={(e) => {
               if (e.key === 'Enter' || e.key === ' ') {
                 e.preventDefault()
-                onSentence(s)
+                onSentence(s, e.currentTarget)
               }
             }}
           >
@@ -198,8 +296,18 @@ export function ReaderPage() {
         </Fragment>
       )
     },
-    [translationMode, drawerSent, open, onSentence, toggle],
+    [translationMode, open, panelSent, onSentence, toggle],
   )
+
+  const popStyle = useMemo(() => {
+    if (translationMode !== 'popover' || !anchor) return undefined
+    const width = Math.min(360, window.innerWidth - 24)
+    const left = Math.max(12, Math.min(anchor.left, window.innerWidth - width - 12))
+    if (anchor.bottom > window.innerHeight * 0.6) {
+      return { left, bottom: window.innerHeight - anchor.top + 8, width }
+    }
+    return { left, top: anchor.bottom + 8, width }
+  }, [translationMode, anchor])
 
   return (
     <div className="page reader">
@@ -216,13 +324,7 @@ export function ReaderPage() {
           <article className={`chapter ${translationMode === 'drawer' ? 'chapter--drawer' : ''}`}>
             {chapter.paragraphs.map((p) => {
               const head = p.sentences.length === 1 && p.sentences[0].heading ? p.sentences[0] : null
-              if (head) {
-                return (
-                  <h3 className="sent-heading" key={p.id}>
-                    {renderSent(head)}
-                  </h3>
-                )
-              }
+              if (head) return <h3 className="sent-heading" key={p.id}>{renderSent(head)}</h3>
               return (
                 <p className="para" key={p.id}>
                   {p.sentences.map(renderSent)}
@@ -253,17 +355,25 @@ export function ReaderPage() {
         ) : null}
       </main>
 
-      {translationMode === 'drawer' && drawerSent ? (
-        <div className="tdrawer" role="dialog" aria-label="Перевод">
-          <button
-            type="button"
-            className="tdrawer__close"
-            aria-label="Закрыть перевод"
-            onClick={() => setDrawerSent(null)}
-          >
-            ×
-          </button>
-          <div className="tdrawer__ru">{drawerSent.translationRu}</div>
+      {translationMode === 'drawer' && panelSent ? (
+        <div className="tdrawer tpanel" role="dialog" aria-label="Перевод и объяснение">
+          <PanelContent
+            key={panelSent.id}
+            sentence={panelSent}
+            settings={store.settings}
+            onClose={() => setPanelSent(null)}
+          />
+        </div>
+      ) : null}
+
+      {translationMode === 'popover' && panelSent && popStyle ? (
+        <div className="tpop tpanel" role="dialog" aria-label="Перевод и объяснение" style={popStyle}>
+          <PanelContent
+            key={panelSent.id}
+            sentence={panelSent}
+            settings={store.settings}
+            onClose={() => setPanelSent(null)}
+          />
         </div>
       ) : null}
     </div>

@@ -5,7 +5,8 @@ import type { FontSize, Theme, TranslationMode } from '../lib/storage'
 
 const TRANSLATION_OPTIONS: { value: TranslationMode; label: string; hint: string }[] = [
   { value: 'inline', label: 'В тексте', hint: 'Перевод появляется прямо под предложением' },
-  { value: 'drawer', label: 'Панель снизу', hint: 'Перевод во всплывающей панели внизу экрана' },
+  { value: 'drawer', label: 'Панель снизу', hint: 'Перевод и объяснение во всплывающей панели внизу' },
+  { value: 'popover', label: 'Поповер', hint: 'Перевод и объяснение в окошке у самого предложения' },
 ]
 
 const THEME_OPTIONS: { value: Theme; label: string }[] = [
@@ -22,9 +23,11 @@ const FONT_OPTIONS: { value: FontSize; label: string }[] = [
 ]
 
 export function SettingsPage() {
-  const { store, setTheme, setFontSize, setTranslationMode, resetProgress } = useAppState()
+  const { store, setTheme, setFontSize, setTranslationMode, updateSettings, resetProgress } =
+    useAppState()
   const [confirming, setConfirming] = useState(false)
   const tMode = store.settings.translationMode
+  const s = store.settings
 
   return (
     <div className="page">
@@ -78,6 +81,47 @@ export function SettingsPage() {
           </div>
           <p className="muted" style={{ marginTop: '0.4em', fontSize: '0.85em' }}>
             {TRANSLATION_OPTIONS.find((o) => o.value === tMode)?.hint}
+          </p>
+        </section>
+
+        <section className="block">
+          <h2 className="section-title">Объяснение грамматики (OpenAI)</h2>
+          <label className="field">
+            <span className="field__label">Ключ API OpenAI</span>
+            <input
+              className="field__input"
+              type="password"
+              autoComplete="off"
+              spellCheck={false}
+              placeholder="sk-…"
+              value={s.openaiApiKey}
+              onChange={(e) => updateSettings({ openaiApiKey: e.target.value })}
+            />
+          </label>
+          <label className="field">
+            <span className="field__label">Модель</span>
+            <input
+              className="field__input"
+              type="text"
+              spellCheck={false}
+              placeholder="gpt-4o-mini"
+              value={s.openaiModel}
+              onChange={(e) => updateSettings({ openaiModel: e.target.value })}
+            />
+          </label>
+          <label className="field">
+            <span className="field__label">Промпт (плейсхолдер __SENTENCE__)</span>
+            <textarea
+              className="field__input field__textarea"
+              rows={3}
+              value={s.explainPrompt}
+              onChange={(e) => updateSettings({ explainPrompt: e.target.value })}
+            />
+          </label>
+          <p className="muted" style={{ fontSize: '0.85em' }}>
+            Ключ хранится только в этом браузере и используется для прямых запросов в OpenAI при
+            открытии вкладки «Объяснение» (доступна в режимах «Панель снизу» и «Поповер»). В промпте{' '}
+            <code>__SENTENCE__</code> заменяется на выбранное предложение.
           </p>
         </section>
 

@@ -558,9 +558,15 @@ button {
   font-weight: 500;
 }
 
-/* ---------- Перевод во всплывающей панели (drawer) ---------- */
+/* ---------- Панель перевода/объяснения (drawer + popover) ---------- */
 .chapter--drawer {
-  padding-bottom: 46vh;
+  padding-bottom: 52vh;
+}
+.tpanel {
+  background: var(--surface);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 .tdrawer {
   position: fixed;
@@ -568,13 +574,10 @@ button {
   right: 0;
   bottom: 0;
   z-index: 50;
-  background: var(--surface);
   border-top: 1px solid color-mix(in srgb, var(--text) 12%, transparent);
   border-radius: 16px 16px 0 0;
   box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.18);
-  padding: 18px 18px calc(16px + env(safe-area-inset-bottom, 0px));
-  max-height: 45vh;
-  overflow-y: auto;
+  max-height: 50vh;
   animation: tdrawer-up 0.18s ease;
 }
 @keyframes tdrawer-up {
@@ -585,24 +588,96 @@ button {
     transform: translateY(0);
   }
 }
-.tdrawer__close {
-  position: absolute;
-  top: 6px;
-  right: 10px;
-  width: 34px;
-  height: 34px;
+.tpop {
+  position: fixed;
+  z-index: 50;
+  border: 1px solid color-mix(in srgb, var(--text) 14%, transparent);
+  border-radius: 14px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.28);
+  max-height: 55vh;
+  animation: tpop-in 0.14s ease;
+}
+@keyframes tpop-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.tpanel__tabs {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 8px 8px 10px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 10%, transparent);
+}
+.tpanel__tab {
   border: none;
   background: transparent;
-  font-size: 1.6rem;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.92em;
+  font-weight: 600;
+  color: var(--muted);
+}
+.tpanel__tab.is-active {
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  color: var(--accent);
+}
+.tpanel__close {
+  margin-left: auto;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  font-size: 1.4rem;
   line-height: 1;
   color: var(--muted);
-  cursor: pointer;
 }
-.tdrawer__ru {
-  margin-right: 28px;
+.tpanel__body {
+  padding: 14px 16px calc(16px + env(safe-area-inset-bottom, 0px));
+  overflow-y: auto;
+}
+.tpanel__ru {
   color: var(--text);
   line-height: 1.6;
   font-size: 1.02em;
+}
+.tpanel__explain {
+  color: var(--text);
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+/* ---------- Поля настроек (OpenAI) ---------- */
+.field {
+  display: block;
+  margin: 10px 0;
+}
+.field__label {
+  display: block;
+  font-size: 0.85em;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+.field__input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.6em 0.7em;
+  border: 1px solid color-mix(in srgb, var(--text) 18%, transparent);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+}
+.field__textarea {
+  resize: vertical;
+  line-height: 1.45;
 }
 
 .read-cta {
