@@ -1,0 +1,557 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-final-problem",
+  "level": "b1v2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El encuentro con Holmes"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Tomo la pluma con el corazón lleno de tristeza para escribir estas palabras.",
+          "translationRu": "Я берусь за перо с тяжёлым сердцем, чтобы написать эти слова."
+        },
+        {
+          "id": "sent-002",
+          "text": "Son las últimas palabras en las que voy a hablar de los dones singulares de mi amigo el señor Sherlock Holmes.",
+          "translationRu": "Это последние слова, в которых я буду говорить об удивительных дарованиях моего друга мистера Шерлока Холмса."
+        },
+        {
+          "id": "sent-003",
+          "text": "He intentado contar, de una manera incompleta y muy insuficiente, mis extrañas experiencias junto a él.",
+          "translationRu": "Я пытался рассказать — пусть неполно и совершенно недостаточно — о своих странных переживаниях рядом с ним."
+        },
+        {
+          "id": "sent-004",
+          "text": "Lo hice desde el momento en que el azar nos unió por primera vez, en el período de 'Estudio en escarlata', hasta el asunto del 'Tratado naval'.",
+          "translationRu": "Я делал это с того момента, когда случай впервые свёл нас вместе — в период «Этюда в багровых тонах», — вплоть до дела о «Военно-морском договоре»."
+        },
+        {
+          "id": "sent-005",
+          "text": "En ese caso, Holmes impidió una grave complicación internacional.",
+          "translationRu": "В том деле Холмс предотвратил серьёзное международное осложнение."
+        },
+        {
+          "id": "sent-006",
+          "text": "Mi intención era detenerme ahí y no decir nada sobre el evento que ha dejado un vacío enorme en mi vida.",
+          "translationRu": "Моим намерением было остановиться на этом и не говорить ничего о событии, которое оставило в моей жизни огромную пустоту."
+        },
+        {
+          "id": "sent-007",
+          "text": "Han pasado dos años y ese vacío no se ha llenado.",
+          "translationRu": "Прошло два года, а эта пустота так и не заполнилась."
+        },
+        {
+          "id": "sent-008",
+          "text": "Sin embargo, me he visto obligado a escribir, porque el coronel James Moriarty ha publicado cartas recientemente.",
+          "translationRu": "Однако меня вынудили написать, потому что полковник Джеймс Мориарти недавно опубликовал письма."
+        },
+        {
+          "id": "sent-009",
+          "text": "En esas cartas defiende la memoria de su hermano.",
+          "translationRu": "В этих письмах он защищает память своего брата."
+        },
+        {
+          "id": "sent-010",
+          "text": "No tengo otra opción: debo presentar los hechos al público exactamente como ocurrieron.",
+          "translationRu": "У меня нет иного выбора: я должен изложить факты публике точно так, как они произошли."
+        },
+        {
+          "id": "sent-011",
+          "text": "Solo yo conozco la verdad absoluta sobre este asunto.",
+          "translationRu": "Только я знаю абсолютную правду об этом деле."
+        },
+        {
+          "id": "sent-012",
+          "text": "Estoy convencido de que ha llegado el momento de contarla, porque ocultarla ya no sirve para nada.",
+          "translationRu": "Я убеждён, что пришло время её рассказать, так как скрывать её больше нет никакого смысла."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Que yo sepa, ha habido solo tres relatos en la prensa: uno en el 'Journal de Genève' del 6 de mayo de 1891, el despacho de Reuters publicado en los periódicos ingleses el 7 de mayo, y finalmente la reciente carta del coronel Moriarty.",
+          "translationRu": "Насколько мне известно, в прессе появилось лишь три сообщения: одно в «Журналь де Женев» от 6 мая 1891 года, депеша агентства Рейтер в английских газетах от 7 мая и, наконец, недавнее письмо полковника Мориарти."
+        },
+        {
+          "id": "sent-014",
+          "text": "El primero y el segundo eran muy breves y no daban muchos detalles.",
+          "translationRu": "Первые два были очень краткими и не содержали подробностей."
+        },
+        {
+          "id": "sent-015",
+          "text": "El último, como voy a demostrar ahora, es una distorsión completa de los hechos.",
+          "translationRu": "Последнее, как я сейчас покажу, является полным искажением фактов."
+        },
+        {
+          "id": "sent-016",
+          "text": "A mí me corresponde contar, por primera vez, lo que realmente ocurrió entre el profesor Moriarty y el señor Sherlock Holmes.",
+          "translationRu": "Мне предстоит рассказать впервые, что в действительности произошло между профессором Мориарти и мистером Шерлоком Холмсом."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "Se recordará que después de mi matrimonio y del inicio de mi consulta médica privada, las relaciones muy íntimas que existían entre Holmes y yo se modificaron en cierta medida.",
+          "translationRu": "Следует напомнить, что после моей женитьбы и начала частной врачебной практики очень тесные отношения, существовавшие между Холмсом и мной, несколько изменились."
+        },
+        {
+          "id": "sent-018",
+          "text": "Él todavía venía a verme de vez en cuando cuando quería un compañero en sus investigaciones.",
+          "translationRu": "Он по-прежнему время от времени приходил ко мне, когда ему нужен был спутник в расследованиях."
+        },
+        {
+          "id": "sent-019",
+          "text": "Pero esas ocasiones eran cada vez más raras.",
+          "translationRu": "Однако такие случаи становились всё реже."
+        },
+        {
+          "id": "sent-020",
+          "text": "En el año 1890 solo hubo tres casos de los que guardo algún recuerdo.",
+          "translationRu": "В 1890 году было лишь три дела, о которых у меня сохранились воспоминания."
+        },
+        {
+          "id": "sent-021",
+          "text": "Durante el invierno de ese año y la primavera temprana de 1891, leí en los periódicos que Holmes estaba trabajando para el gobierno francés en un asunto de suma importancia.",
+          "translationRu": "В течение зимы того года и ранней весной 1891 года я читал в газетах, что Холмс работал на французское правительство по делу чрезвычайной важности."
+        },
+        {
+          "id": "sent-022",
+          "text": "Recibí dos notas de Holmes: una venía de Narbona y la otra, de Nîmes.",
+          "translationRu": "Я получил от Холмса две записки: одна пришла из Нарбонна, другая — из Нима."
+        },
+        {
+          "id": "sent-023",
+          "text": "Por ellas entendí que su estancia en Francia iba a ser larga.",
+          "translationRu": "Из них я понял, что его пребывание во Франции будет долгим."
+        },
+        {
+          "id": "sent-024",
+          "text": "Por eso me sorprendió mucho verlo entrar en mi consultorio la tarde del 24 de abril.",
+          "translationRu": "Поэтому я был очень удивлён, увидев его входящим в мой кабинет вечером 24 апреля."
+        },
+        {
+          "id": "sent-025",
+          "text": "Me pareció que estaba más pálido y más delgado que de costumbre.",
+          "translationRu": "Мне показалось, что он был бледнее и худее, чем обычно."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "—Sí, me he estado esforzando demasiado —dijo, respondiendo a mi mirada más que a mis palabras—. He estado un poco bajo presión últimamente.",
+          "translationRu": "— Да, я слишком много работал, — сказал он, отвечая скорее на мой взгляд, чем на слова. — В последнее время я испытываю некоторое давление."
+        },
+        {
+          "id": "sent-027",
+          "text": "¿Le importa si cierro sus persianas?",
+          "translationRu": "— Вы не возражаете, если я закрою ставни?"
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "La única luz en la habitación venía de la lámpara sobre la mesa donde yo había estado leyendo.",
+          "translationRu": "Единственный свет в комнате шёл от лампы на столе, за которым я читал."
+        },
+        {
+          "id": "sent-029",
+          "text": "Holmes se deslizó por la pared y cerró las persianas de golpe, asegurándolas con el cerrojo.",
+          "translationRu": "Холмс скользнул вдоль стены, захлопнул ставни и надёжно задвинул засов."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "—¿Tiene usted miedo de algo? —pregunté.",
+          "translationRu": "— Вы чего-то боитесь? — спросил я."
+        },
+        {
+          "id": "sent-031",
+          "text": "—Sí, lo tengo.",
+          "translationRu": "— Да, боюсь."
+        },
+        {
+          "id": "sent-032",
+          "text": "—¿De qué?",
+          "translationRu": "— Чего именно?"
+        },
+        {
+          "id": "sent-033",
+          "text": "—De las pistolas de aire comprimido.",
+          "translationRu": "— Пневматических ружей."
+        },
+        {
+          "id": "sent-034",
+          "text": "—Pero, querido Holmes, ¿qué quiere decir con eso?",
+          "translationRu": "— Но, дорогой Холмс, что вы имеете в виду?"
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-035",
+          "text": "—Creo que me conoce lo suficientemente bien, Watson, para saber que no soy un hombre nervioso en absoluto.",
+          "translationRu": "— Думаю, вы знаете меня достаточно хорошо, Ватсон, чтобы понять, что я совсем не нервный человек."
+        },
+        {
+          "id": "sent-036",
+          "text": "Al mismo tiempo, es una estupidez, no valentía, negarse a reconocer el peligro cuando está cerca.",
+          "translationRu": "Вместе с тем глупо, а не смело отказываться признавать опасность, когда она рядом."
+        },
+        {
+          "id": "sent-037",
+          "text": "¿Me permite un fósforo?",
+          "translationRu": "— Не позволите ли мне спичку?"
+        },
+        {
+          "id": "sent-038",
+          "text": "Aspiró el humo del cigarrillo como si ese efecto calmante le fuera muy agradable.",
+          "translationRu": "Он затянулся дымом сигареты, словно это успокаивающее действие было ему очень приятно."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-039",
+          "text": "—Debo disculparme por venir tan tarde —dijo—, y además debo pedirle algo poco convencional: que me deje salir de su casa pronto escalando el muro del jardín trasero.",
+          "translationRu": "— Я должен извиниться за столь поздний визит, — сказал он, — а кроме того, прошу вас о кое-чём необычном: разрешите мне скоро покинуть ваш дом, перебравшись через стену заднего сада."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-040",
+          "text": "—Pero, ¿qué significa todo esto? —pregunté.",
+          "translationRu": "— Но что всё это означает? — спросил я."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-041",
+          "text": "Él extendió la mano, y a la luz de la lámpara vi que dos de sus nudillos estaban rotos y sangrando.",
+          "translationRu": "Он протянул руку, и при свете лампы я увидел, что два сустава его пальцев были разбиты и кровоточили."
+        },
+        {
+          "id": "sent-042",
+          "text": "—Como ves, no es algo sin importancia —dijo, sonriendo—. Al contrario, es algo lo bastante sólido como para romperse la mano encima.",
+          "translationRu": "— Как видите, это не пустяк, — сказал он, улыбаясь. — Напротив, это нечто достаточно твёрдое, чтобы разбить об него руку."
+        },
+        {
+          "id": "sent-043",
+          "text": "¿Está la señora Watson en casa?",
+          "translationRu": "— Миссис Ватсон дома?"
+        },
+        {
+          "id": "sent-044",
+          "text": "—Está fuera, de visita.",
+          "translationRu": "— Она в гостях, уехала."
+        },
+        {
+          "id": "sent-045",
+          "text": "—¡Ah! ¿Está usted solo?",
+          "translationRu": "— Вот как! Вы один?"
+        },
+        {
+          "id": "sent-046",
+          "text": "—Completamente.",
+          "translationRu": "— Совершенно один."
+        },
+        {
+          "id": "sent-047",
+          "text": "—Entonces me resulta más fácil proponerle que se venga conmigo al continente durante una semana.",
+          "translationRu": "— Тогда мне гораздо проще предложить вам поехать со мной на континент на одну неделю."
+        },
+        {
+          "id": "sent-048",
+          "text": "—¿Adónde?",
+          "translationRu": "— Куда?"
+        },
+        {
+          "id": "sent-049",
+          "text": "—Oh, a donde sea. Me da lo mismo.",
+          "translationRu": "— О, куда угодно. Мне всё равно."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-050",
+          "text": "Todo esto era muy extraño.",
+          "translationRu": "Всё это было очень странным."
+        },
+        {
+          "id": "sent-051",
+          "text": "No era propio de Holmes tomarse unas vacaciones sin ningún propósito.",
+          "translationRu": "Не в характере Холмса было брать отпуск без всякой цели."
+        },
+        {
+          "id": "sent-052",
+          "text": "Su cara pálida y cansada me decía que sus nervios estaban al límite.",
+          "translationRu": "Его бледное и измученное лицо говорило мне, что его нервы были на пределе."
+        },
+        {
+          "id": "sent-053",
+          "text": "Él vio la pregunta en mis ojos.",
+          "translationRu": "Он увидел вопрос в моих глазах."
+        },
+        {
+          "id": "sent-054",
+          "text": "Juntó las yemas de los dedos, apoyó los codos sobre las rodillas y me explicó la situación.",
+          "translationRu": "Он соединил кончики пальцев, оперся локтями о колени и объяснил мне ситуацию."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-055",
+          "text": "—¿Ha oído usted hablar alguna vez del profesor Moriarty? —preguntó.",
+          "translationRu": "— Вы когда-нибудь слышали о профессоре Мориарти? — спросил он."
+        },
+        {
+          "id": "sent-056",
+          "text": "—Nunca.",
+          "translationRu": "— Никогда."
+        },
+        {
+          "id": "sent-057",
+          "text": "—¡Ah, ahí está el genio y la maravilla del asunto! —exclamó—. El hombre está por todas partes en Londres, y nadie ha oído hablar de él.",
+          "translationRu": "— Вот в чём гениальность и удивительность этого дела! — воскликнул он. — Этот человек проник всюду в Лондоне, и никто о нём не слышал."
+        },
+        {
+          "id": "sent-058",
+          "text": "Eso es lo que lo sitúa en la cima de los criminales de todos los tiempos.",
+          "translationRu": "Именно это ставит его на вершину среди преступников всех времён."
+        },
+        {
+          "id": "sent-059",
+          "text": "Le digo, Watson, con toda seriedad, que si pudiera vencer a ese hombre, si pudiera liberar a la sociedad de él, sentiría que mi carrera ha llegado a su punto más alto.",
+          "translationRu": "Говорю вам, Ватсон, совершенно серьёзно: если бы я мог победить этого человека, если бы мог избавить от него общество, я бы почувствовал, что моя карьера достигла своей вершины."
+        },
+        {
+          "id": "sent-060",
+          "text": "Y estaría dispuesto a dedicarme a algo más tranquilo.",
+          "translationRu": "И я был бы готов посвятить себя чему-то более спокойному."
+        },
+        {
+          "id": "sent-061",
+          "text": "Entre nosotros: los casos recientes en los que ayudé a la familia real de Escandinavia y a la república francesa me han dejado en una posición en la que podría vivir tranquilamente y concentrarme en mis investigaciones químicas.",
+          "translationRu": "Между нами: последние дела, в которых я помогал королевской семье Скандинавии и Французской республике, поставили меня в такое положение, что я мог бы жить спокойно и сосредоточиться на своих химических исследованиях."
+        },
+        {
+          "id": "sent-062",
+          "text": "Pero no podía descansar, Watson, no podía quedarme quieto en mi silla, si pensaba que un hombre como el profesor Moriarty caminaba libre por las calles de Londres.",
+          "translationRu": "Но я не мог отдыхать, Ватсон, не мог спокойно сидеть в кресле, зная, что такой человек, как профессор Мориарти, безнаказанно ходит по улицам Лондона."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-063",
+          "text": "—¿Qué ha hecho entonces?",
+          "translationRu": "— Так что же он сделал?"
+        },
+        {
+          "id": "sent-064",
+          "text": "—Su carrera ha sido extraordinaria.",
+          "translationRu": "— Его карьера была исключительной."
+        },
+        {
+          "id": "sent-065",
+          "text": "Es un hombre de buena familia y excelente educación, dotado por la naturaleza de una capacidad matemática fenomenal.",
+          "translationRu": "Это человек хорошего происхождения и прекрасного образования, наделённый природой феноменальными математическими способностями."
+        },
+        {
+          "id": "sent-066",
+          "text": "A los veintiún años escribió un tratado sobre el Teorema Binomial que tuvo fama en toda Europa.",
+          "translationRu": "В двадцать один год он написал трактат о Биномиальной теореме, получивший известность по всей Европе."
+        },
+        {
+          "id": "sent-067",
+          "text": "Gracias a eso ganó la Cátedra de Matemáticas en una de nuestras universidades menores.",
+          "translationRu": "Благодаря этому он получил кафедру математики в одном из наших небольших университетов."
+        },
+        {
+          "id": "sent-068",
+          "text": "Parecía que tenía ante él una carrera brillante.",
+          "translationRu": "Казалось, впереди его ждала блестящая карьера."
+        },
+        {
+          "id": "sent-069",
+          "text": "Pero el hombre tenía tendencias hereditarias del tipo más diabólico.",
+          "translationRu": "Однако у него были наследственные склонности самого дьявольского рода."
+        },
+        {
+          "id": "sent-070",
+          "text": "Corría por su sangre algo criminal que, en lugar de atenuarse, se volvió infinitamente más peligroso gracias a sus extraordinarias capacidades mentales.",
+          "translationRu": "В его крови текло нечто преступное, что вместо того, чтобы смягчиться, стало бесконечно более опасным благодаря его выдающимся умственным способностям."
+        },
+        {
+          "id": "sent-071",
+          "text": "En la ciudad universitaria empezaron a correr rumores oscuros sobre él.",
+          "translationRu": "В университетском городе вокруг него начали ходить мрачные слухи."
+        },
+        {
+          "id": "sent-072",
+          "text": "Al final se vio obligado a abandonar su cátedra y venir a Londres, donde se estableció como preparador para el ejército.",
+          "translationRu": "В конце концов он был вынужден оставить кафедру и приехать в Лондон, где занялся подготовкой кандидатов к военным экзаменам."
+        },
+        {
+          "id": "sent-073",
+          "text": "Todo esto lo sabe el mundo, pero lo que le voy a contar ahora es lo que yo mismo he descubierto.",
+          "translationRu": "Всё это известно миру, но то, что я расскажу вам сейчас, — это то, что я сам обнаружил."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-074",
+          "text": "—Como sabe, Watson, nadie conoce el mundo criminal de Londres tan bien como yo.",
+          "translationRu": "— Как вам известно, Ватсон, никто не знает преступный мир Лондона так хорошо, как я."
+        },
+        {
+          "id": "sent-075",
+          "text": "Durante años he sido consciente de la existencia de un poder detrás del criminal: una fuerza organizadora profunda que siempre se interpone en el camino de la ley y protege al delincuente.",
+          "translationRu": "На протяжении многих лет я ощущал существование некоей силы за спиной преступника: глубокой организующей силы, которая всегда стоит на пути закона и защищает злодея."
+        },
+        {
+          "id": "sent-076",
+          "text": "Una y otra vez, en casos muy diferentes —falsificaciones, robos, asesinatos— he sentido la presencia de esa fuerza.",
+          "translationRu": "Снова и снова в самых разных делах — подделках, кражах, убийствах — я чувствовал присутствие этой силы."
+        },
+        {
+          "id": "sent-077",
+          "text": "He deducido su acción en muchos de esos crímenes no descubiertos en los que no me consultaron personalmente.",
+          "translationRu": "Я выводил её действие во многих из тех нераскрытых преступлений, к которым меня лично не привлекали."
+        },
+        {
+          "id": "sent-078",
+          "text": "Durante años intenté rasgar el velo que la envolvía.",
+          "translationRu": "На протяжении многих лет я пытался разорвать покров, окутывавший её."
+        },
+        {
+          "id": "sent-079",
+          "text": "Por fin llegó el momento en que encontré el hilo y lo seguí.",
+          "translationRu": "Наконец пришёл момент, когда я нашёл нить и потянул за неё."
+        },
+        {
+          "id": "sent-080",
+          "text": "Después de mil rodeos astutos, ese hilo me condujo hasta el ex-profesor Moriarty, famoso en el mundo de las matemáticas.",
+          "translationRu": "После тысячи хитрых поворотов эта нить привела меня к бывшему профессору Мориарти, известному в мире математики."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-081",
+          "text": "—Es el Napoleón del crimen, Watson.",
+          "translationRu": "— Он — Наполеон преступного мира, Ватсон."
+        },
+        {
+          "id": "sent-082",
+          "text": "Es el organizador de la mitad de todo lo que es malo en esta gran ciudad, y de casi todo lo que no se descubre.",
+          "translationRu": "Он организатор половины всего злого в этом великом городе и почти всего, что остаётся нераскрытым."
+        },
+        {
+          "id": "sent-083",
+          "text": "Es un genio, un filósofo, un pensador abstracto.",
+          "translationRu": "Он гений, философ, мыслитель-абстракционист."
+        },
+        {
+          "id": "sent-084",
+          "text": "Tiene un cerebro de primer orden.",
+          "translationRu": "У него мозг высшего класса."
+        },
+        {
+          "id": "sent-085",
+          "text": "Se sienta inmóvil, como una araña en el centro de su tela.",
+          "translationRu": "Он сидит неподвижно, как паук в центре своей паутины."
+        },
+        {
+          "id": "sent-086",
+          "text": "Pero esa tela tiene mil ramificaciones y él conoce bien cada vibración de cada una de ellas.",
+          "translationRu": "Но у этой паутины тысяча нитей, и он хорошо чувствует каждое колебание каждой из них."
+        },
+        {
+          "id": "sent-087",
+          "text": "Él hace poco por sí mismo. Solo planifica.",
+          "translationRu": "Он сам почти ничего не делает. Только планирует."
+        },
+        {
+          "id": "sent-088",
+          "text": "Pero sus agentes son numerosos y están perfectamente organizados.",
+          "translationRu": "Но его агенты многочисленны и превосходно организованы."
+        },
+        {
+          "id": "sent-089",
+          "text": "¿Hay un crimen que cometer, un documento que robar, digamos, una casa que saquear, un hombre que eliminar?",
+          "translationRu": "Нужно совершить преступление, похитить документ, ограбить дом, устранить человека?"
+        },
+        {
+          "id": "sent-090",
+          "text": "El mensaje llega al profesor, el asunto se organiza y se lleva a cabo.",
+          "translationRu": "Сообщение поступает к профессору, дело организуется и исполняется."
+        },
+        {
+          "id": "sent-091",
+          "text": "El agente puede ser detenido.",
+          "translationRu": "Агента могут поймать."
+        },
+        {
+          "id": "sent-092",
+          "text": "En ese caso se encuentra dinero para su fianza o su defensa.",
+          "translationRu": "В таком случае находятся деньги для его залога или защиты."
+        },
+        {
+          "id": "sent-093",
+          "text": "Pero el poder central que usa al agente nunca es atrapado, nunca es siquiera sospechoso.",
+          "translationRu": "Но центральная сила, использующая агента, никогда не схвачена и даже никогда не подозревается."
+        },
+        {
+          "id": "sent-094",
+          "text": "Esta es la organización que yo deduje, Watson, y a cuya exposición y destrucción dediqué todas mis energías.",
+          "translationRu": "Вот та организация, которую я вычислил, Ватсон, и разоблачению и уничтожению которой я посвятил все свои силы."
+        }
+      ]
+    }
+  ]
+}
