@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-hungry-stones",
+  "title": "Las piedras hambrientas",
+  "titleRu": "Голодные камни",
+  "originalTitle": "The Hungry Stones",
+  "author": {
+    "id": "rabindranath-tagore",
+    "name": "Rabindranath Tagore"
+  },
+  "genres": [
+    "Классика",
+    "Восток",
+    "Мистика"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

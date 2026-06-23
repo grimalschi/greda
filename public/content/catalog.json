@@ -9138,6 +9138,34 @@
       }
     },
     {
+      "id": "all-gold-canyon",
+      "title": "El cañón del oro",
+      "titleRu": "Золотой каньон",
+      "originalTitle": "All Gold Canyon",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": [
+        "Классика",
+        "Приключения",
+        "Север"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 7384
+      }
+    },
+    {
       "id": "the-white-silence",
       "title": "El silencio blanco",
       "titleRu": "Белое безмолвие",
@@ -10165,6 +10193,62 @@
       }
     },
     {
+      "id": "bliss",
+      "title": "Felicidad",
+      "titleRu": "Блаженство",
+      "originalTitle": "Bliss",
+      "authorId": "katherine-mansfield",
+      "authorName": "Katherine Mansfield",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 4668
+      }
+    },
+    {
+      "id": "the-garden-party",
+      "title": "La fiesta en el jardín",
+      "titleRu": "Праздник в саду",
+      "originalTitle": "The Garden Party",
+      "authorId": "katherine-mansfield",
+      "authorName": "Katherine Mansfield",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 5456
+      }
+    },
+    {
       "id": "the-fly",
       "title": "La mosca",
       "titleRu": "Муха",
@@ -10357,6 +10441,62 @@
       }
     },
     {
+      "id": "after-the-ball",
+      "title": "Después del baile",
+      "titleRu": "После бала",
+      "originalTitle": "After the Ball",
+      "authorId": "leo-tolstoy",
+      "authorName": "Leo Tolstoy",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Драма"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 3650
+      }
+    },
+    {
+      "id": "lazarus",
+      "title": "Lázaro",
+      "titleRu": "Елеазар",
+      "originalTitle": "Lazarus",
+      "authorId": "leonid-andreyev",
+      "authorName": "Leonid Andreyev",
+      "genres": [
+        "Классика",
+        "Притча",
+        "Смерть"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 7414
+      }
+    },
+    {
       "id": "alices-adventures-in-wonderland",
       "title": "Las aventuras de Alicia en el País de las Maravillas",
       "titleRu": "Алиса в Стране чудес",
@@ -10388,6 +10528,34 @@
         "b1": 1506,
         "b2": 1920,
         "c1": 2131
+      }
+    },
+    {
+      "id": "the-sword-of-welleran",
+      "title": "La espada de Welleran",
+      "titleRu": "Меч Веллерана",
+      "originalTitle": "The Sword of Welleran",
+      "authorId": "lord-dunsany",
+      "authorName": "Lord Dunsany",
+      "genres": [
+        "Классика",
+        "Фантастика",
+        "Приключения"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 5501
       }
     },
     {
@@ -10450,6 +10618,34 @@
       "chapters": 1,
       "words": {
         "b1": 1897
+      }
+    },
+    {
+      "id": "oh-whistle-and-ill-come-to-you-my-lad",
+      "title": "Silba y acudiré a ti, muchacho",
+      "titleRu": "Ты свистни — тебя не заставлю я ждать",
+      "originalTitle": "Oh Whistle and I'll Come to You My Lad",
+      "authorId": "m-r-james",
+      "authorName": "M. R. James",
+      "genres": [
+        "Классика",
+        "Ужасы",
+        "Мистика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 6917
       }
     },
     {
@@ -11871,6 +12067,34 @@
       }
     },
     {
+      "id": "the-hungry-stones",
+      "title": "Las piedras hambrientas",
+      "titleRu": "Голодные камни",
+      "originalTitle": "The Hungry Stones",
+      "authorId": "rabindranath-tagore",
+      "authorName": "Rabindranath Tagore",
+      "genres": [
+        "Классика",
+        "Восток",
+        "Мистика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 4760
+      }
+    },
+    {
       "id": "the-radio-man",
       "title": "El hombre de la radio",
       "titleRu": "Человек-радио",
@@ -12249,6 +12473,34 @@
       "chapters": 1,
       "words": {
         "b1": 1138
+      }
+    },
+    {
+      "id": "rashomon",
+      "title": "Rashōmon",
+      "titleRu": "Расёмон",
+      "originalTitle": "Rashomon",
+      "authorId": "ryunosuke-akutagawa",
+      "authorName": "Ryunosuke Akutagawa",
+      "genres": [
+        "Классика",
+        "Восток",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2559
       }
     },
     {

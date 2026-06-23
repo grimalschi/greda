@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "rashomon",
+  "title": "Rashōmon",
+  "titleRu": "Расёмон",
+  "originalTitle": "Rashomon",
+  "author": {
+    "id": "ryunosuke-akutagawa",
+    "name": "Ryunosuke Akutagawa"
+  },
+  "genres": [
+    "Классика",
+    "Восток",
+    "Психология"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

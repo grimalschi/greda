@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "lazarus",
+  "title": "Lázaro",
+  "titleRu": "Елеазар",
+  "originalTitle": "Lazarus",
+  "author": {
+    "id": "leonid-andreyev",
+    "name": "Leonid Andreyev"
+  },
+  "genres": [
+    "Классика",
+    "Притча",
+    "Смерть"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

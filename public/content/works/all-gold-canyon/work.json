@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "all-gold-canyon",
+  "title": "El cañón del oro",
+  "titleRu": "Золотой каньон",
+  "originalTitle": "All Gold Canyon",
+  "author": {
+    "id": "jack-london",
+    "name": "Jack London"
+  },
+  "genres": [
+    "Классика",
+    "Приключения",
+    "Север"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
