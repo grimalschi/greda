@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { TopBar } from '../components/TopBar'
-import { ErrorView, Loading } from '../components/ui'
+import { ErrorView, Loading, ProgressBar } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
 import { fetchManifest, fetchWork } from '../lib/content'
 import { useAppState } from '../state/store'
@@ -58,40 +58,29 @@ function StatusControl({ workId }: { workId: string }) {
   )
 }
 
-function ChapterList({ workId, level }: { workId: string; level: Level }) {
+// Текст идёт сплошной (одна «глава» под капотом). Показываем одну кнопку «Читать/Продолжить».
+function ReadPanel({ workId, level }: { workId: string; level: Level }) {
   const { data: manifest, error, loading } = useAsync(
     () => fetchManifest(workId, level),
     [workId, level],
   )
   const { getChapterProgress } = useAppState()
   const progress = getChapterProgress(workId, level)
+  const first = manifest?.chapters[0]
+  const percent = Math.round(progress?.progressPercent ?? 0)
+  const started = !!first && progress?.currentChapterId === first.id && percent > 0 && percent < 100
 
   return (
     <section className="block">
-      <h2 className="section-title">Главы</h2>
       {loading ? <Loading /> : null}
       {error ? <ErrorView error={error} /> : null}
-      {manifest ? (
-        <ul className="chapter-list">
-          {manifest.chapters.map((ch) => {
-            const done = progress?.completedChapterIds.includes(ch.id)
-            const current = progress?.currentChapterId === ch.id && !done
-            return (
-              <li key={ch.id}>
-                <Link className="chapter-row" to={`/read/${workId}/${level}/${ch.id}`}>
-                  <span className="chapter-row__num">{ch.number}</span>
-                  <span className="chapter-row__title">{ch.title}</span>
-                  <span
-                    className={`chapter-row__status ${done ? 'is-done' : current ? 'is-current' : ''}`}
-                    aria-hidden="true"
-                  >
-                    {done ? '✓' : current ? '•' : ''}
-                  </span>
-                </Link>
-              </li>
-            )
-          })}
-        </ul>
+      {first ? (
+        <>
+          <Link className="read-cta" to={`/read/${workId}/${level}/${first.id}`}>
+            {started ? `Продолжить · ${percent}%` : 'Читать'}
+          </Link>
+          {started ? <ProgressBar percent={percent} /> : null}
+        </>
       ) : null}
     </section>
   )
@@ -159,7 +148,7 @@ export function WorkPage() {
             <StatusControl workId={work.id} />
 
             {level ? (
-              <ChapterList workId={work.id} level={level} />
+              <ReadPanel workId={work.id} level={level} />
             ) : (
               <div className="state">Для этого произведения пока нет готовых уровней.</div>
             )}

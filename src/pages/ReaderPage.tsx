@@ -1,18 +1,12 @@
 import { Fragment, useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import { Link, useNavigate, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import { TopBar } from '../components/TopBar'
 import { ErrorView, Loading } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
-import { fetchChapter, fetchManifest, fetchWork } from '../lib/content'
+import { fetchChapter, fetchWork } from '../lib/content'
 import { useAppState, useThrottledCallback } from '../state/store'
 import { LEVEL_LABELS } from '../types'
-import type { Level, LevelManifest } from '../types'
-
-interface Sentence {
-  id: string
-  text: string
-  translationRu: string
-}
+import type { Level, Sentence } from '../types'
 
 function isLevel(value: string): value is Level {
   return value in LEVEL_LABELS
@@ -30,55 +24,6 @@ function topVisibleSentenceId(container: HTMLElement | null): string | null {
   return null
 }
 
-function ChapterNav({
-  manifest,
-  workId,
-  level,
-  chapterId,
-}: {
-  manifest: LevelManifest | null
-  workId: string
-  level: Level
-  chapterId: string
-}) {
-  const navigate = useNavigate()
-  if (!manifest) return null
-  const idx = manifest.chapters.findIndex((c) => c.id === chapterId)
-  const prev = idx > 0 ? manifest.chapters[idx - 1] : null
-  const next = idx >= 0 && idx < manifest.chapters.length - 1 ? manifest.chapters[idx + 1] : null
-
-  // Листание глав заменяет запись в истории (replace), чтобы кнопка «назад»
-  // всегда возвращала к списку глав, а не к предыдущей главе.
-  return (
-    <nav className="chapter-nav">
-      {prev ? (
-        <Link replace className="chapter-nav__btn" to={`/read/${workId}/${level}/${prev.id}`}>
-          ‹ {prev.title}
-        </Link>
-      ) : (
-        <span />
-      )}
-      {next ? (
-        <Link
-          replace
-          className="chapter-nav__btn chapter-nav__btn--next"
-          to={`/read/${workId}/${level}/${next.id}`}
-        >
-          {next.title} ›
-        </Link>
-      ) : (
-        <button
-          type="button"
-          className="chapter-nav__btn chapter-nav__btn--next"
-          onClick={() => navigate(-1)}
-        >
-          К списку глав ›
-        </button>
-      )}
-    </nav>
-  )
-}
-
 export function ReaderPage() {
   const params = useParams()
   const workId = params.workId ?? ''
@@ -94,7 +39,6 @@ export function ReaderPage() {
     [workId, level, chapterId],
   )
   const { data: work } = useAsync(() => fetchWork(workId), [workId])
-  const { data: manifest } = useAsync(() => fetchManifest(workId, level), [workId, level])
 
   // Inline-режим: множество раскрытых переводов. Drawer-режим: одно активное предложение.
   const [open, setOpen] = useState<Set<string>>(() => new Set())
@@ -105,6 +49,7 @@ export function ReaderPage() {
   storeRef.current = store
   const pendingSentenceRef = useRef<string | null>(null)
   const restoredRef = useRef(false)
+  const lastPosRef = useRef<{ id: string; percent: number } | null>(null)
 
   // Плоский список id предложений главы + индекс id→позиция — основа прогресса.
   const sentenceIds = useMemo(() => {
@@ -118,28 +63,31 @@ export function ReaderPage() {
     return m
   }, [sentenceIds])
 
-  // Открытие главы: запоминаем предложение, к которому надо вернуться.
+  // Открытие: запоминаем предложение, к которому надо вернуться.
   useEffect(() => {
     const prog = storeRef.current.works[workId]?.[level]
     pendingSentenceRef.current =
       prog?.currentChapterId === chapterId ? prog?.lastSentenceId ?? null : null
     restoredRef.current = false
+    lastPosRef.current = null
     setOpen(new Set())
     setDrawerSent(null)
     recordOpen(workId, level, chapterId)
   }, [workId, level, chapterId, recordOpen])
 
-  // Прогресс считаем по предложению, которое сейчас вверху экрана (а не по высоте
-  // прокрутки — та «врёт» на длинных главах до завершения вёрстки). «Прочитано» —
-  // только при реальном докручивании до конца главы.
+  // Прогресс — по предложению вверху экрана (надёжно на длинных текстах). «Прочитано» —
+  // только при докручивании до конца. ВАЖНО: если контейнер уже размонтирован (кнопка
+  // «назад»), topVisibleSentenceId == null — НЕ затираем сохранённую позицию.
   const persist = useCallback(() => {
+    const topId = topVisibleSentenceId(containerRef.current)
+    if (!topId) return
     const el = document.scrollingElement ?? document.documentElement
     const scrollable = el.scrollHeight - el.clientHeight
     const atEnd = scrollable > 40 && el.scrollTop + el.clientHeight >= el.scrollHeight - 8
-    const topId = topVisibleSentenceId(containerRef.current)
     const n = sentenceIds.length
-    const idx = topId ? indexOf.get(topId) ?? 0 : 0
+    const idx = indexOf.get(topId) ?? 0
     const percent = atEnd || n <= 1 ? 100 : Math.round((idx / (n - 1)) * 100)
+    lastPosRef.current = { id: topId, percent }
     updatePosition(workId, level, {
       chapterId,
       lastSentenceId: topId,
@@ -151,34 +99,38 @@ export function ReaderPage() {
 
   const persistThrottled = useThrottledCallback(persist, 300)
 
-  // Слушаем скролл документа.
+  // Слушаем скролл документа; при уходе сохраняем последнюю известную позицию.
   useEffect(() => {
     const handler = () => persistThrottled()
     window.addEventListener('scroll', handler, { passive: true })
     return () => {
       window.removeEventListener('scroll', handler)
-      // Финальное сохранение при уходе со страницы.
-      persist()
+      if (topVisibleSentenceId(containerRef.current)) {
+        persist()
+      } else if (lastPosRef.current) {
+        // контейнер уже размонтирован — пишем последнюю запомненную позицию
+        updatePosition(workId, level, {
+          chapterId,
+          lastSentenceId: lastPosRef.current.id,
+          scrollTop: 0,
+          progressPercent: lastPosRef.current.percent,
+        })
+      }
     }
-  }, [persistThrottled, persist])
+  }, [persistThrottled, persist, workId, level, chapterId, updatePosition])
 
-  // Восстановление позиции по id предложения после отрисовки + немедленный пересчёт прогресса
-  // (чтобы полоса не показывала устаревшее значение, даже если событие scroll не сработает).
+  // Восстановление позиции по id предложения + немедленный пересчёт прогресса.
   useEffect(() => {
     if (!chapter || restoredRef.current) return
     restoredRef.current = true
     const lastId = pendingSentenceRef.current
     requestAnimationFrame(() => {
-      if (lastId) {
-        const target = containerRef.current?.querySelector<HTMLElement>(
-          `[data-sent-id="${CSS.escape(lastId)}"]`,
-        )
-        if (target) {
-          const y = target.getBoundingClientRect().top + window.scrollY - 80
-          window.scrollTo(0, Math.max(0, y))
-        } else {
-          window.scrollTo(0, 0)
-        }
+      const target = lastId
+        ? containerRef.current?.querySelector<HTMLElement>(`[data-sent-id="${CSS.escape(lastId)}"]`)
+        : null
+      if (target) {
+        const y = target.getBoundingClientRect().top + window.scrollY - 80
+        window.scrollTo(0, Math.max(0, y))
       } else {
         window.scrollTo(0, 0)
       }
@@ -197,112 +149,106 @@ export function ReaderPage() {
 
   const onSentence = useCallback(
     (s: Sentence) => {
-      if (translationMode === 'drawer') {
-        setDrawerSent((prev) => (prev?.id === s.id ? null : s))
-      } else {
-        toggle(s.id)
-      }
+      if (translationMode === 'drawer') setDrawerSent((prev) => (prev?.id === s.id ? null : s))
+      else toggle(s.id)
     },
     [translationMode, toggle],
   )
 
   const progress = getChapterProgress(workId, level)
   const percent = Math.round(progress?.progressPercent ?? 0)
-
-  const chapters = manifest?.chapters ?? []
-  const isLastChapter = chapters.length > 0 && chapters[chapters.length - 1].id === chapterId
   const bookDone = store.statusOverrides[workId] === 'done'
+
+  const renderSent = useCallback(
+    (s: Sentence) => {
+      const active = translationMode === 'drawer' ? drawerSent?.id === s.id : open.has(s.id)
+      return (
+        <Fragment key={s.id}>
+          <span
+            className={`sent ${active ? 'sent--active' : ''}`}
+            data-sent-id={s.id}
+            role="button"
+            tabIndex={0}
+            onClick={() => onSentence(s)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault()
+                onSentence(s)
+              }
+            }}
+          >
+            {s.text}
+          </span>{' '}
+          {translationMode === 'inline' && open.has(s.id) ? (
+            <span
+              className="translation"
+              role="button"
+              tabIndex={0}
+              onClick={() => toggle(s.id)}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                  e.preventDefault()
+                  toggle(s.id)
+                }
+              }}
+            >
+              {s.translationRu}
+            </span>
+          ) : null}
+        </Fragment>
+      )
+    },
+    [translationMode, drawerSent, open, onSentence, toggle],
+  )
 
   return (
     <div className="page reader">
-      <TopBar
-        title={work?.title ?? 'Чтение'}
-        subtitle={chapter ? `${LEVEL_LABELS[level]} · ${chapter.chapter.title}` : LEVEL_LABELS[level]}
-        back
-      />
+      <TopBar title={work?.title ?? 'Чтение'} subtitle={LEVEL_LABELS[level]} back />
       <div className="reader__progress" aria-hidden="true">
         <div className="reader__progress-fill" style={{ width: `${percent}%` }} />
       </div>
 
       <main className="container reader__body" ref={containerRef}>
-        {loading ? <Loading label="Загрузка главы…" /> : null}
+        {loading ? <Loading label="Загрузка…" /> : null}
         {error ? <ErrorView error={error} /> : null}
 
         {chapter ? (
           <article className={`chapter ${translationMode === 'drawer' ? 'chapter--drawer' : ''}`}>
-            <h1 className="chapter__title">{chapter.chapter.title}</h1>
-            {chapter.paragraphs.map((p) => (
-              <p className="para" key={p.id}>
-                {p.sentences.map((s) => {
-                  const active =
-                    translationMode === 'drawer' ? drawerSent?.id === s.id : open.has(s.id)
-                  return (
-                    <Fragment key={s.id}>
-                      <span
-                        className={`sent ${active ? 'sent--active' : ''}`}
-                        data-sent-id={s.id}
-                        role="button"
-                        tabIndex={0}
-                        onClick={() => onSentence(s)}
-                        onKeyDown={(e) => {
-                          if (e.key === 'Enter' || e.key === ' ') {
-                            e.preventDefault()
-                            onSentence(s)
-                          }
-                        }}
-                      >
-                        {s.text}
-                      </span>{' '}
-                      {translationMode === 'inline' && open.has(s.id) ? (
-                        <span
-                          className="translation"
-                          role="button"
-                          tabIndex={0}
-                          onClick={() => toggle(s.id)}
-                          onKeyDown={(e) => {
-                            if (e.key === 'Enter' || e.key === ' ') {
-                              e.preventDefault()
-                              toggle(s.id)
-                            }
-                          }}
-                        >
-                          {s.translationRu}
-                        </span>
-                      ) : null}
-                    </Fragment>
-                  )
-                })}
-              </p>
-            ))}
+            {chapter.paragraphs.map((p) => {
+              const head = p.sentences.length === 1 && p.sentences[0].heading ? p.sentences[0] : null
+              if (head) {
+                return (
+                  <h3 className="sent-heading" key={p.id}>
+                    {renderSent(head)}
+                  </h3>
+                )
+              }
+              return (
+                <p className="para" key={p.id}>
+                  {p.sentences.map(renderSent)}
+                </p>
+              )
+            })}
 
-            {isLastChapter ? (
-              <div className="reader__finish">
-                {bookDone ? (
-                  <button
-                    type="button"
-                    className="btn-finish btn-finish--done"
-                    onClick={() => setWorkStatus(workId, null)}
-                  >
-                    ✓ Книга прочитана — снять отметку
-                  </button>
-                ) : (
-                  <button
-                    type="button"
-                    className="btn-finish"
-                    onClick={() => setWorkStatus(workId, 'done')}
-                  >
-                    Пометить книгу прочитанной
-                  </button>
-                )}
-              </div>
-            ) : null}
-
-            <ChapterNav
-              manifest={manifest}
-              workId={workId}
-              level={level}
-              chapterId={chapterId}
-            />
+            <div className="reader__finish">
+              {bookDone ? (
+                <button
+                  type="button"
+                  className="btn-finish btn-finish--done"
+                  onClick={() => setWorkStatus(workId, null)}
+                >
+                  ✓ Книга прочитана — снять отметку
+                </button>
+              ) : (
+                <button
+                  type="button"
+                  className="btn-finish"
+                  onClick={() => setWorkStatus(workId, 'done')}
+                >
+                  Пометить книгу прочитанной
+                </button>
+              )}
+            </div>
           </article>
         ) : null}
       </main>

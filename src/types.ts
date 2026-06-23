@@ -87,6 +87,8 @@ export interface Sentence {
   id: string
   text: string
   translationRu: string
+  /** Если true — это заголовок раздела внутри сплошного текста (рендерится крупно). */
+  heading?: boolean
 }
 
 export interface Paragraph {

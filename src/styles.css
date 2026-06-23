@@ -611,6 +611,24 @@ button {
   line-height: 1.55;
 }
 
+.read-cta {
+  display: block;
+  text-align: center;
+  padding: 0.85em 1.2em;
+  border-radius: 12px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.02em;
+}
+/* Заголовок раздела внутри сплошного текста. */
+.sent-heading {
+  font-size: 1.18em;
+  font-weight: 700;
+  margin: 1.5em 0 0.6em;
+  line-height: 1.4;
+}
+
 .chapter-nav {
   display: flex;
   justify-content: space-between;

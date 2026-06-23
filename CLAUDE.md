@@ -86,8 +86,16 @@ blocking generation). Spec: `.plan/spec-faithful.md`.
   Non-base levels are wired through `schemas/` (`level` enums + `work.levels.b1v2`),
   `scripts/build-catalog.mjs` (preserves extra levels), `validate-content.mjs`, `src/types.ts`
   (`Level`/`LEVEL_ORDER`/`LEVEL_LABELS`), and `WorkPage`/`WorkCard`/`HomePage` (render b1v2 only where present).
-- **Reader (`ReaderPage`):** click a Spanish sentence to reveal its Russian translation; click the Russian
-  text to hide it again.
+- **Reader (`ReaderPage`):** text reads as **one continuous flow — no chapter navigation** (every work is
+  single-chapter; the `chapter` wrapper survives in the data but the UI never paginates it). A future
+  section break is just a sentence with `heading: true` (rendered as `.sent-heading`), NOT a separate
+  chapter file. Click a Spanish sentence to reveal its Russian translation; setting
+  `settings.translationMode` switches between **inline** (under the line) and **drawer** (bottom sheet).
+  Reading **progress = index of the top-visible sentence / total** (layout-timing-proof); position is
+  restored by scrolling to the saved `lastSentenceId`. On unmount the position is saved from
+  `lastPosRef` (the container ref is already detached, so `topVisibleSentenceId` returns null then — do
+  NOT let that overwrite the saved sentence with null). `store` has a `v` (version) for one-time
+  migrations + per-work `statusOverrides` (manual new/started/done).
 
 ## Content sources & generation (out-of-app, one-time)
 - **All sources are public domain from Project Gutenberg** (gutenberg.org, first published ≤1930 → US public domain).
