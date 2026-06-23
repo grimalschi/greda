@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-mark-on-the-wall",
+  "title": "La marca en la pared",
+  "titleRu": "Пятно на стене",
+  "originalTitle": "The Mark on the Wall",
+  "author": {
+    "id": "virginia-woolf",
+    "name": "Virginia Woolf"
+  },
+  "genres": [
+    "Классика",
+    "Модернизм",
+    "Философия"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

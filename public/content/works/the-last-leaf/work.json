@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-last-leaf",
+  "title": "La última hoja",
+  "titleRu": "Последний лист",
+  "originalTitle": "The Last Leaf",
+  "author": {
+    "id": "o-henry",
+    "name": "O. Henry"
+  },
+  "genres": [
+    "Классика",
+    "Рассказ",
+    "Драма"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

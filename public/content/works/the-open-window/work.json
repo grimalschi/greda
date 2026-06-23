@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-open-window",
+  "title": "La ventana abierta",
+  "titleRu": "Открытое окно",
+  "originalTitle": "The Open Window",
+  "author": {
+    "id": "saki",
+    "name": "Saki"
+  },
+  "genres": [
+    "Классика",
+    "Рассказ",
+    "Юмор"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

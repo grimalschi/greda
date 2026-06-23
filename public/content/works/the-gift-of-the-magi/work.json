@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-gift-of-the-magi",
+  "title": "Los regalos de los Reyes Magos",
+  "titleRu": "Дары волхвов",
+  "originalTitle": "The Gift of the Magi",
+  "author": {
+    "id": "o-henry",
+    "name": "O. Henry"
+  },
+  "genres": [
+    "Классика",
+    "Рассказ",
+    "Любовь"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

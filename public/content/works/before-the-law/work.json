@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "before-the-law",
+  "title": "Ante la ley",
+  "titleRu": "Перед законом",
+  "originalTitle": "Before the Law",
+  "author": {
+    "id": "franz-kafka",
+    "name": "Franz Kafka"
+  },
+  "genres": [
+    "Классика",
+    "Притча",
+    "Философия"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

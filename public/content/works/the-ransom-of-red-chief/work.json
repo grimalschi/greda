@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-ransom-of-red-chief",
+  "title": "El rescate del jefe rojo",
+  "titleRu": "Вождь краснокожих",
+  "originalTitle": "The Ransom of Red Chief",
+  "author": {
+    "id": "o-henry",
+    "name": "O. Henry"
+  },
+  "genres": [
+    "Классика",
+    "Рассказ",
+    "Юмор"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

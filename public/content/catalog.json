@@ -6368,6 +6368,62 @@
       }
     },
     {
+      "id": "before-the-law",
+      "title": "Ante la ley",
+      "titleRu": "Перед законом",
+      "originalTitle": "Before the Law",
+      "authorId": "franz-kafka",
+      "authorName": "Franz Kafka",
+      "genres": [
+        "Классика",
+        "Притча",
+        "Философия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 640
+      }
+    },
+    {
+      "id": "the-judgment",
+      "title": "La condena",
+      "titleRu": "Приговор",
+      "originalTitle": "The Judgment",
+      "authorId": "franz-kafka",
+      "authorName": "Franz Kafka",
+      "genres": [
+        "Классика",
+        "Психология",
+        "Драма"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 3994
+      }
+    },
+    {
       "id": "the-metamorphosis",
       "title": "La metamorfosis",
       "titleRu": "Превращение",
@@ -6399,6 +6455,62 @@
         "b1": 918,
         "b2": 1375,
         "c1": 1347
+      }
+    },
+    {
+      "id": "a-hunger-artist",
+      "title": "Un artista del hambre",
+      "titleRu": "Голодарь",
+      "originalTitle": "A Hunger Artist",
+      "authorId": "franz-kafka",
+      "authorName": "Franz Kafka",
+      "genres": [
+        "Классика",
+        "Притча",
+        "Философия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 3708
+      }
+    },
+    {
+      "id": "a-country-doctor",
+      "title": "Un médico rural",
+      "titleRu": "Сельский врач",
+      "originalTitle": "A Country Doctor",
+      "authorId": "franz-kafka",
+      "authorName": "Franz Kafka",
+      "genres": [
+        "Классика",
+        "Притча",
+        "Мистика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2278
       }
     },
     {
@@ -9527,6 +9639,90 @@
       }
     },
     {
+      "id": "araby",
+      "title": "Arabia",
+      "titleRu": "Аравия",
+      "originalTitle": "Araby",
+      "authorId": "james-joyce",
+      "authorName": "James Joyce",
+      "genres": [
+        "Классика",
+        "Модернизм",
+        "Детство"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2318
+      }
+    },
+    {
+      "id": "clay",
+      "title": "Arcilla",
+      "titleRu": "Глина",
+      "originalTitle": "Clay",
+      "authorId": "james-joyce",
+      "authorName": "James Joyce",
+      "genres": [
+        "Классика",
+        "Модернизм",
+        "Реализм"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2559
+      }
+    },
+    {
+      "id": "eveline",
+      "title": "Eveline",
+      "titleRu": "Эвелин",
+      "originalTitle": "Eveline",
+      "authorId": "james-joyce",
+      "authorName": "James Joyce",
+      "genres": [
+        "Классика",
+        "Модернизм",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1763
+      }
+    },
+    {
       "id": "emma",
       "title": "Emma",
       "titleRu": "Эмма",
@@ -9969,6 +10165,34 @@
       }
     },
     {
+      "id": "the-fly",
+      "title": "La mosca",
+      "titleRu": "Муха",
+      "originalTitle": "The Fly",
+      "authorId": "katherine-mansfield",
+      "authorName": "Katherine Mansfield",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Смерть"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2145
+      }
+    },
+    {
       "id": "the-wind-in-the-willows",
       "title": "El viento en los sauces",
       "titleRu": "Ветер в ивах",
@@ -10105,6 +10329,34 @@
       }
     },
     {
+      "id": "alyosha-the-pot",
+      "title": "Aliosha el Puchero",
+      "titleRu": "Алёша Горшок",
+      "originalTitle": "Alyosha the Pot",
+      "authorId": "leo-tolstoy",
+      "authorName": "Leo Tolstoy",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Реализм"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2003
+      }
+    },
+    {
       "id": "alices-adventures-in-wonderland",
       "title": "Las aventuras de Alicia en el País de las Maravillas",
       "titleRu": "Алиса в Стране чудес",
@@ -10170,6 +10422,34 @@
         "b1": 1992,
         "b2": 2017,
         "c1": 4388
+      }
+    },
+    {
+      "id": "war",
+      "title": "La guerra",
+      "titleRu": "Война",
+      "originalTitle": "War",
+      "authorId": "luigi-pirandello",
+      "authorName": "Luigi Pirandello",
+      "genres": [
+        "Классика",
+        "Война",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1897
       }
     },
     {
@@ -10410,6 +10690,34 @@
       }
     },
     {
+      "id": "twenty-six-men-and-a-girl",
+      "title": "Veintiséis hombres y una muchacha",
+      "titleRu": "Двадцать шесть и одна",
+      "originalTitle": "Twenty-Six Men and a Girl",
+      "authorId": "maxim-gorky",
+      "authorName": "Maxim Gorky",
+      "genres": [
+        "Классика",
+        "Реализм",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1834
+      }
+    },
+    {
       "id": "the-man-in-the-green-hat",
       "title": "El hombre del sombrero verde",
       "titleRu": "Человек в зелёной шляпе",
@@ -10644,6 +10952,118 @@
         "b1": 1284,
         "b2": 2694,
         "c1": 3053
+      }
+    },
+    {
+      "id": "the-cop-and-the-anthem",
+      "title": "El policía y el himno",
+      "titleRu": "Фараон и хорал",
+      "originalTitle": "The Cop and the Anthem",
+      "authorId": "o-henry",
+      "authorName": "O. Henry",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Юмор"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2254
+      }
+    },
+    {
+      "id": "the-ransom-of-red-chief",
+      "title": "El rescate del jefe rojo",
+      "titleRu": "Вождь краснокожих",
+      "originalTitle": "The Ransom of Red Chief",
+      "authorId": "o-henry",
+      "authorName": "O. Henry",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Юмор"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 4078
+      }
+    },
+    {
+      "id": "the-last-leaf",
+      "title": "La última hoja",
+      "titleRu": "Последний лист",
+      "originalTitle": "The Last Leaf",
+      "authorId": "o-henry",
+      "authorName": "O. Henry",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Драма"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2250
+      }
+    },
+    {
+      "id": "the-gift-of-the-magi",
+      "title": "Los regalos de los Reyes Magos",
+      "titleRu": "Дары волхвов",
+      "originalTitle": "The Gift of the Magi",
+      "authorId": "o-henry",
+      "authorName": "O. Henry",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Любовь"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1896
       }
     },
     {
@@ -11804,6 +12224,146 @@
       }
     },
     {
+      "id": "the-spiders-thread",
+      "title": "El hilo de la araña",
+      "titleRu": "Паутинка",
+      "originalTitle": "The Spider's Thread",
+      "authorId": "ryunosuke-akutagawa",
+      "authorName": "Ryunosuke Akutagawa",
+      "genres": [
+        "Классика",
+        "Восток",
+        "Притча"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1138
+      }
+    },
+    {
+      "id": "the-lumber-room",
+      "title": "El cuarto trastero",
+      "titleRu": "Чулан",
+      "originalTitle": "The Lumber Room",
+      "authorId": "saki",
+      "authorName": "Saki",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Детство"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2211
+      }
+    },
+    {
+      "id": "the-open-window",
+      "title": "La ventana abierta",
+      "titleRu": "Открытое окно",
+      "originalTitle": "The Open Window",
+      "authorId": "saki",
+      "authorName": "Saki",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Юмор"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1191
+      }
+    },
+    {
+      "id": "the-interlopers",
+      "title": "Los intrusos",
+      "titleRu": "Незваные гости",
+      "originalTitle": "The Interlopers",
+      "authorId": "saki",
+      "authorName": "Saki",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Драма"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1979
+      }
+    },
+    {
+      "id": "sredni-vashtar",
+      "title": "Sredni Vashtar",
+      "titleRu": "Средни Ваштар",
+      "originalTitle": "Sredni Vashtar",
+      "authorId": "saki",
+      "authorName": "Saki",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Детство"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 1771
+      }
+    },
+    {
       "id": "the-sunken-world",
       "title": "El mundo hundido",
       "titleRu": "Затонувший мир",
@@ -11976,6 +12536,62 @@
       }
     },
     {
+      "id": "kew-gardens",
+      "title": "Kew Gardens",
+      "titleRu": "Кью-Гарденс",
+      "originalTitle": "Kew Gardens",
+      "authorId": "virginia-woolf",
+      "authorName": "Virginia Woolf",
+      "genres": [
+        "Классика",
+        "Модернизм",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 2667
+      }
+    },
+    {
+      "id": "the-mark-on-the-wall",
+      "title": "La marca en la pared",
+      "titleRu": "Пятно на стене",
+      "originalTitle": "The Mark on the Wall",
+      "authorId": "virginia-woolf",
+      "authorName": "Virginia Woolf",
+      "genres": [
+        "Классика",
+        "Модернизм",
+        "Философия"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 3210
+      }
+    },
+    {
       "id": "candide",
       "title": "Cándido",
       "titleRu": "Кандид",
@@ -12007,6 +12623,34 @@
         "b1": 830,
         "b2": 1329,
         "c1": 2164
+      }
+    },
+    {
+      "id": "the-monkeys-paw",
+      "title": "La pata de mono",
+      "titleRu": "Обезьянья лапка",
+      "originalTitle": "The Monkey's Paw",
+      "authorId": "w-w-jacobs",
+      "authorName": "W. W. Jacobs",
+      "genres": [
+        "Классика",
+        "Ужасы",
+        "Мистика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 4044
       }
     },
     {

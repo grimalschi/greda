@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-spiders-thread",
+  "title": "El hilo de la araña",
+  "titleRu": "Паутинка",
+  "originalTitle": "The Spider's Thread",
+  "author": {
+    "id": "ryunosuke-akutagawa",
+    "name": "Ryunosuke Akutagawa"
+  },
+  "genres": [
+    "Классика",
+    "Восток",
+    "Притча"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

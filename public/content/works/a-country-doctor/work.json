@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "a-country-doctor",
+  "title": "Un médico rural",
+  "titleRu": "Сельский врач",
+  "originalTitle": "A Country Doctor",
+  "author": {
+    "id": "franz-kafka",
+    "name": "Franz Kafka"
+  },
+  "genres": [
+    "Классика",
+    "Притча",
+    "Мистика"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
