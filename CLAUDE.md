@@ -90,7 +90,13 @@ blocking generation). Spec: `.plan/spec-faithful.md`.
   single-chapter; the `chapter` wrapper survives in the data but the UI never paginates it). A future
   section break is just a sentence with `heading: true` (rendered as `.sent-heading`), NOT a separate
   chapter file. Click a Spanish sentence to reveal its Russian translation; setting
-  `settings.translationMode` switches between **inline** (under the line) and **drawer** (bottom sheet).
+  `settings.translationMode` is **inline** (under the line) / **drawer** (bottom sheet) / **popover**
+  (next to the sentence). Drawer & popover show tabs **«Перевод»/«Объяснение»**; the Объяснение tab calls
+  an LLM (`src/lib/explain.ts`) for a grammar breakdown. Provider is `settings.aiProvider`:
+  **OpenRouter** (default — works from the browser: CORS on every response incl. errors; free models exist)
+  or **OpenAI** (works on success but `chat/completions` omits CORS on *error* responses → errors surface
+  as a bare `TypeError`). Keys/models are per-provider in Settings, stored only in localStorage; the call
+  is direct client-side (no backend). The prompt template (`__SENTENCE__` placeholder) is editable.
   Reading **progress = index of the top-visible sentence / total** (layout-timing-proof); position is
   restored by scrolling to the saved `lastSentenceId`. On unmount the position is saved from
   `lastPosRef` (the container ref is already detached, so `topVisibleSentenceId` returns null then — do
