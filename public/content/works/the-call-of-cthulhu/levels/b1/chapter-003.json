@@ -1,0 +1,642 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-call-of-cthulhu",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-003",
+    "number": 3,
+    "title": "El culto en el pantano"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "La estatuilla era completamente extraña en todos los sentidos.",
+          "translationRu": "Статуэтка была совершенно чуждой во всех отношениях."
+        },
+        {
+          "id": "sent-002",
+          "text": "La piedra misma era un misterio.",
+          "translationRu": "Сам камень был загадкой."
+        },
+        {
+          "id": "sent-003",
+          "text": "Era una piedra jabonosa de color verde oscuro con destellos dorados.",
+          "translationRu": "Это был мыльный камень тёмно-зелёного цвета с золотистыми вспышками."
+        },
+        {
+          "id": "sent-004",
+          "text": "No se parecía a ninguna roca conocida por la geología o la mineralogía.",
+          "translationRu": "Он не был похож ни на одну породу, известную геологии или минералогии."
+        },
+        {
+          "id": "sent-005",
+          "text": "Los caracteres tallados en la base eran igualmente confusos.",
+          "translationRu": "Знаки, вырезанные на основании, были столь же непонятны."
+        },
+        {
+          "id": "sent-006",
+          "text": "Ninguno de los expertos presentes podía identificar ni la más lejana relación lingüística de esos signos.",
+          "translationRu": "Никто из присутствующих экспертов не мог определить даже отдалённого языкового родства этих знаков."
+        },
+        {
+          "id": "sent-007",
+          "text": "Y había medio mundo de especialistas en esa sala.",
+          "translationRu": "А в этом зале собралось полмира специалистов."
+        },
+        {
+          "id": "sent-008",
+          "text": "La piedra, los signos y la figura parecían pertenecer a algo muy lejano y distinto de la humanidad.",
+          "translationRu": "Камень, знаки и фигура, казалось, принадлежали чему-то очень далёкому и чуждому человечеству."
+        },
+        {
+          "id": "sent-009",
+          "text": "Sugerían épocas antiguas y oscuras de vida en las que nuestro mundo no tenía ningún lugar.",
+          "translationRu": "Они намекали на древние и мрачные эпохи жизни, в которых нашему миру не было места."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "Mientras todos los miembros negaban con la cabeza, incapaces de resolver el problema, había un hombre entre ellos que sentía algo extrañamente familiar en la figura y los signos.",
+          "translationRu": "Пока все участники качали головами, не в силах решить загадку, был один человек среди них, кто ощущал что-то странно знакомое в фигуре и знаках."
+        },
+        {
+          "id": "sent-011",
+          "text": "Con cierta timidez, aquel hombre contó lo poco que sabía.",
+          "translationRu": "С некоторой робостью этот человек рассказал то немногое, что знал."
+        },
+        {
+          "id": "sent-012",
+          "text": "Era el difunto William Channing Webb, profesor de antropología en la Universidad de Princeton y explorador de gran renombre.",
+          "translationRu": "Это был покойный Уильям Ченнинг Уэбб, профессор антропологии Принстонского университета и известный исследователь."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Cuarenta y ocho años antes, el profesor Webb había viajado por Groenlandia e Islandia en busca de inscripciones rúnicas.",
+          "translationRu": "Сорок восемь лет назад профессор Уэбб путешествовал по Гренландии и Исландии в поисках рунических надписей."
+        },
+        {
+          "id": "sent-014",
+          "text": "No encontró lo que buscaba.",
+          "translationRu": "Он не нашёл того, что искал."
+        },
+        {
+          "id": "sent-015",
+          "text": "Pero en la costa oeste de Groenlandia encontró una tribu o culto extraño de esquimales degenerados.",
+          "translationRu": "Но на западном побережье Гренландии он встретил странное племя или культ деградировавших эскимосов."
+        },
+        {
+          "id": "sent-016",
+          "text": "Su religión era una forma peculiar de culto al diablo.",
+          "translationRu": "Их религия была особой формой поклонения дьяволу."
+        },
+        {
+          "id": "sent-017",
+          "text": "Lo perturbó por su crueldad deliberada.",
+          "translationRu": "Она потрясла его своей намеренной жестокостью."
+        },
+        {
+          "id": "sent-018",
+          "text": "Los otros esquimales sabían poco de esa fe y sólo la mencionaban con escalofríos.",
+          "translationRu": "Другие эскимосы почти ничего не знали об этой вере и упоминали её лишь с дрожью."
+        },
+        {
+          "id": "sent-019",
+          "text": "Decían que venía de épocas terriblemente antiguas, antes incluso de que el mundo existiera.",
+          "translationRu": "Они говорили, что она пришла из ужасающе древних эпох, ещё до того, как существовал мир."
+        },
+        {
+          "id": "sent-020",
+          "text": "Además de ritos innombrables y sacrificios humanos, existían ciertos rituales hereditarios dirigidos a un gran espíritu maligno llamado tornasuk.",
+          "translationRu": "Помимо безымянных обрядов и человеческих жертвоприношений, существовали определённые наследственные ритуалы, посвящённые великому злому духу по имени торнасук."
+        },
+        {
+          "id": "sent-021",
+          "text": "El profesor Webb había tomado una copia fonética cuidadosa de esos rituales, dictada por un anciano sacerdote-hechicero llamado angekok.",
+          "translationRu": "Профессор Уэбб тщательно записал фонетическую копию этих ритуалов под диктовку пожилого жреца-колдуна по имени ангекок."
+        },
+        {
+          "id": "sent-022",
+          "text": "Intentó representar los sonidos con letras romanas lo mejor que pudo.",
+          "translationRu": "Он попытался передать звуки латинскими буквами как мог."
+        },
+        {
+          "id": "sent-023",
+          "text": "Pero lo más importante en ese momento era el ídolo que ese culto guardaba con tanto cuidado.",
+          "translationRu": "Но самым важным в тот момент был идол, который этот культ так тщательно хранил."
+        },
+        {
+          "id": "sent-024",
+          "text": "Danzaban alrededor de él cuando la aurora boreal brillaba alta sobre los acantilados de hielo.",
+          "translationRu": "Они танцевали вокруг него, когда северное сияние высоко светилось над ледяными скалами."
+        },
+        {
+          "id": "sent-025",
+          "text": "Era, según el profesor, un pequeño bajorrelieve de piedra con una imagen oscura y cierta escritura críptica.",
+          "translationRu": "По словам профессора, это был небольшой каменный барельеф с тёмным изображением и какой-то криптической надписью."
+        },
+        {
+          "id": "sent-026",
+          "text": "Y, en todos sus rasgos esenciales, era casi idéntico a la figura monstruosa que ahora estaba ante la reunión.",
+          "translationRu": "И по всем своим существенным признакам он был почти идентичен чудовищной фигуре, которая теперь лежала перед собранием."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "Estas palabras causaron un gran impacto en los miembros de la reunión.",
+          "translationRu": "Эти слова произвели огромное впечатление на участников собрания."
+        },
+        {
+          "id": "sent-028",
+          "text": "El inspector Legrasse se emocionó especialmente y comenzó a hacer preguntas al profesor.",
+          "translationRu": "Инспектор Леграс был особенно взволнован и начал задавать профессору вопросы."
+        },
+        {
+          "id": "sent-029",
+          "text": "Legrasse había anotado un ritual oral que los adoradores del pantano repetían.",
+          "translationRu": "Леграс записал устный ритуал, который повторяли поклонники из болот."
+        },
+        {
+          "id": "sent-030",
+          "text": "Pidió al profesor que recordara las sílabas que había copiado entre los esquimales.",
+          "translationRu": "Он попросил профессора вспомнить слоги, которые тот записал среди эскимосов."
+        },
+        {
+          "id": "sent-031",
+          "text": "Los dos hombres compararon los detalles con mucho cuidado.",
+          "translationRu": "Оба человека тщательно сравнили детали."
+        },
+        {
+          "id": "sent-032",
+          "text": "Y hubo un momento de silencio verdaderamente asombrado cuando el detective y el científico estuvieron de acuerdo en que las frases eran casi idénticas.",
+          "translationRu": "И наступил момент поистине изумлённой тишины, когда детектив и учёный согласились, что фразы были почти идентичны."
+        },
+        {
+          "id": "sent-033",
+          "text": "Dos rituales de lugares tan distantes del mundo compartían la misma frase oscura.",
+          "translationRu": "Два ритуала из столь отдалённых уголков мира разделяли одну и ту же тёмную фразу."
+        },
+        {
+          "id": "sent-034",
+          "text": "Lo que tanto los hechiceros esquimales como los sacerdotes del pantano de Louisiana cantaban a sus ídolos era algo así:",
+          "translationRu": "То, что как эскимосские колдуны, так и жрецы луизианских болот пели своим идолам, звучало примерно так:"
+        },
+        {
+          "id": "sent-035",
+          "text": "«Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.»",
+          "translationRu": "«Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.»"
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-036",
+          "text": "Legrasse llevaba ventaja al profesor Webb en un punto.",
+          "translationRu": "Леграс опережал профессора Уэбба в одном отношении."
+        },
+        {
+          "id": "sent-037",
+          "text": "Varios de sus prisioneros le habían repetido lo que los celebrantes más viejos les habían dicho que significaban esas palabras.",
+          "translationRu": "Несколько его заключённых повторили ему то, что им сказали более старые участники обрядов о значении этих слов."
+        },
+        {
+          "id": "sent-038",
+          "text": "La traducción era más o menos esta:",
+          "translationRu": "Перевод был примерно таков:"
+        },
+        {
+          "id": "sent-039",
+          "text": "«En su casa en R'lyeh, el muerto Cthulhu espera soñando.»",
+          "translationRu": "«В своём доме в Р'льехе мёртвый Ктулху ждёт, видя сны.»"
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-040",
+          "text": "Entonces, respondiendo a la petición general, el inspector Legrasse narró con todos los detalles posibles su experiencia con los adoradores del pantano.",
+          "translationRu": "Затем, отвечая на общую просьбу, инспектор Леграс рассказал со всеми возможными подробностями о своём столкновении с поклонниками болот."
+        },
+        {
+          "id": "sent-041",
+          "text": "Era una historia que parecía sacada de los sueños más salvajes de un creador de mitos.",
+          "translationRu": "Это была история, казалось взятая из самых диких снов создателя мифов."
+        },
+        {
+          "id": "sent-042",
+          "text": "Mi tío le dio una gran importancia.",
+          "translationRu": "Мой дядя придал ей огромное значение."
+        },
+        {
+          "id": "sent-043",
+          "text": "La historia mostraba una sorprendente imaginación cósmica entre personas de quienes uno menos lo esperaría.",
+          "translationRu": "История показывала поразительное космическое воображение у людей, от которых меньше всего этого ожидаешь."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-044",
+          "text": "El 1 de noviembre de 1907, la policía de Nueva Orleans recibió una llamada urgente desde los pantanos y lagunas del sur.",
+          "translationRu": "1 ноября 1907 года полиция Нового Орлеана получила срочный вызов из болот и лагун на юге."
+        },
+        {
+          "id": "sent-045",
+          "text": "Los campesinos de allí, en su mayoría gente sencilla y tranquila, estaban aterrorizados por algo desconocido.",
+          "translationRu": "Крестьяне там, в основном простые и спокойные люди, были охвачены ужасом перед чем-то неизвестным."
+        },
+        {
+          "id": "sent-046",
+          "text": "Ese algo había llegado en la noche.",
+          "translationRu": "Это нечто пришло ночью."
+        },
+        {
+          "id": "sent-047",
+          "text": "Era vudú, aparentemente, pero de un tipo más terrible del que nunca habían conocido.",
+          "translationRu": "Это было вуду, по всей видимости, но более страшного рода, чем они когда-либо знали."
+        },
+        {
+          "id": "sent-048",
+          "text": "Algunas mujeres y niños habían desaparecido desde que los tambores empezaron a sonar sin parar en los bosques oscuros.",
+          "translationRu": "Некоторые женщины и дети исчезли с тех пор, как барабаны начали беспрестанно бить в тёмных лесах."
+        },
+        {
+          "id": "sent-049",
+          "text": "Desde esos bosques llegaban gritos terribles, cantos que helaban el alma y llamas que bailaban en la oscuridad.",
+          "translationRu": "Из этих лесов доносились страшные крики, леденящие душу песнопения и огни, пляшущие во тьме."
+        },
+        {
+          "id": "sent-050",
+          "text": "El mensajero asustado dijo que la gente ya no podía soportarlo más.",
+          "translationRu": "Испуганный гонец сказал, что люди больше не могут это выносить."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-051",
+          "text": "Un grupo de veinte policías salió a última hora de la tarde con el campesino tembloroso como guía.",
+          "translationRu": "Группа из двадцати полицейских выехала поздним вечером с дрожащим крестьянином в качестве проводника."
+        },
+        {
+          "id": "sent-052",
+          "text": "Iban en dos coches y un automóvil.",
+          "translationRu": "Они ехали в двух экипажах и автомобиле."
+        },
+        {
+          "id": "sent-053",
+          "text": "Cuando terminó el camino, bajaron y continuaron a pie durante millas por los bosques de cipreses.",
+          "translationRu": "Когда дорога кончилась, они сошли и прошли пешком многие мили сквозь кипарисовые леса."
+        },
+        {
+          "id": "sent-054",
+          "text": "En ese bosque nunca llegaba la luz del día.",
+          "translationRu": "В тот лес никогда не проникал дневной свет."
+        },
+        {
+          "id": "sent-055",
+          "text": "Caminaron en silencio entre raíces feas y largas cuerdas de musgo español colgando como lazos.",
+          "translationRu": "Они шли в тишине среди уродливых корней и длинных верёвок испанского мха, свисающих как петли."
+        },
+        {
+          "id": "sent-056",
+          "text": "De vez en cuando, una pila de piedras húmedas o los restos de una pared en ruinas añadían a la sensación de opresión.",
+          "translationRu": "Время от времени груда сырых камней или остатки разрушенной стены усиливали ощущение угнетённости."
+        },
+        {
+          "id": "sent-057",
+          "text": "Al final llegaron al pequeño conjunto de chozas miserables.",
+          "translationRu": "Наконец они добрались до небольшого скопления жалких хижин."
+        },
+        {
+          "id": "sent-058",
+          "text": "Los habitantes histéricos salieron corriendo hacia los policías y sus linternas.",
+          "translationRu": "Истеричные жители выбежали навстречу полицейским и их фонарям."
+        },
+        {
+          "id": "sent-059",
+          "text": "El sonido apagado de los tambores ya se escuchaba a lo lejos.",
+          "translationRu": "Приглушённый звук барабанов уже слышался вдали."
+        },
+        {
+          "id": "sent-060",
+          "text": "A veces llegaba también un grito que cortaba el aire cuando cambiaba el viento.",
+          "translationRu": "Иногда, когда менялся ветер, доносился и пронизывающий крик."
+        },
+        {
+          "id": "sent-061",
+          "text": "Un resplandor rojizo parecía filtrarse a través de los arbustos pálidos más allá de los árboles.",
+          "translationRu": "Красноватое свечение, казалось, просачивалось сквозь бледные кусты за деревьями."
+        },
+        {
+          "id": "sent-062",
+          "text": "Ninguno de los campesinos quiso avanzar ni un paso más hacia el lugar del culto.",
+          "translationRu": "Ни один из крестьян не захотел сделать ни шагу вперёд к месту поклонения."
+        },
+        {
+          "id": "sent-063",
+          "text": "Así que el inspector Legrasse y sus diecinueve colegas se adentraron solos en la oscuridad.",
+          "translationRu": "Поэтому инспектор Леграс и его девятнадцать коллег вошли в темноту одни."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-064",
+          "text": "La zona que los policías entraron tenía mala reputación desde siempre.",
+          "translationRu": "Район, в который вошли полицейские, издавна пользовался дурной славой."
+        },
+        {
+          "id": "sent-065",
+          "text": "Casi ningún hombre de fuera la había pisado.",
+          "translationRu": "Почти никто из чужих там не бывал."
+        },
+        {
+          "id": "sent-066",
+          "text": "Había leyendas de un lago oculto que ningún ojo humano había visto.",
+          "translationRu": "Ходили легенды о скрытом озере, которое не видел ни один человеческий глаз."
+        },
+        {
+          "id": "sent-067",
+          "text": "Según las leyendas, en ese lago vivía una cosa enorme y sin forma, con ojos brillantes.",
+          "translationRu": "По легендам, в этом озере жило огромное, бесформенное существо со светящимися глазами."
+        },
+        {
+          "id": "sent-068",
+          "text": "Los campesinos susurraban que diablos con alas de murciélago salían de cuevas bajo la tierra para adorarlo a medianoche.",
+          "translationRu": "Крестьяне шептались, что дьяволы с крыльями летучих мышей выходят из пещер под землёй, чтобы поклоняться ему в полночь."
+        },
+        {
+          "id": "sent-069",
+          "text": "Decían que ese ser había estado allí antes que los exploradores franceses, antes que los indígenas, antes que los animales y los pájaros del bosque.",
+          "translationRu": "Говорили, что это существо было там раньше французских исследователей, раньше коренных народов, раньше зверей и птиц леса."
+        },
+        {
+          "id": "sent-070",
+          "text": "Era la pesadilla en persona, y verlo significaba morir.",
+          "translationRu": "Это был сам кошмар, и увидеть его означало умереть."
+        },
+        {
+          "id": "sent-071",
+          "text": "Pero hacía soñar a los hombres, y por eso sabían que debían mantenerse alejados.",
+          "translationRu": "Но оно заставляло людей видеть сны, и потому они знали, что должны держаться подальше."
+        },
+        {
+          "id": "sent-072",
+          "text": "La orgía de vudú que investigaban estaba en el borde mismo de esa zona prohibida.",
+          "translationRu": "Вудуистская оргия, которую они расследовали, находилась на самом краю этой запретной зоны."
+        },
+        {
+          "id": "sent-073",
+          "text": "Eso bastaba para aterrorizar a los campesinos más allá del ruido y los incidentes.",
+          "translationRu": "Этого было достаточно, чтобы ужаснуть крестьян сильнее, чем звуки и происшествия."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-074",
+          "text": "Sólo la poesía o la locura podría describir los ruidos que escucharon los hombres de Legrasse mientras avanzaban.",
+          "translationRu": "Только поэзия или безумие могли бы описать звуки, которые слышали люди Леграса, пока шли вперёд."
+        },
+        {
+          "id": "sent-075",
+          "text": "Había sonidos que pertenecen a los hombres y sonidos que pertenecen a los animales.",
+          "translationRu": "Были звуки, принадлежащие людям, и звуки, принадлежащие животным."
+        },
+        {
+          "id": "sent-076",
+          "text": "Es terrible escuchar el tipo incorrecto cuando se sabe de dónde viene.",
+          "translationRu": "Страшно слышать неправильный вид, когда знаешь, откуда он исходит."
+        },
+        {
+          "id": "sent-077",
+          "text": "Algo animal y frenético en esos bosques oscuros producía aullidos y gritos estridentes.",
+          "translationRu": "Что-то животное и неистовое в тёмных лесах издавало вой и резкие крики."
+        },
+        {
+          "id": "sent-078",
+          "text": "Esos sonidos atravesaban los árboles como tormentas pestilentes.",
+          "translationRu": "Эти звуки пронизывали деревья, как заражённые бури."
+        },
+        {
+          "id": "sent-079",
+          "text": "De vez en cuando, los gritos sin orden se detenían, y un coro de voces roncas se elevaba cantando esa frase ritual horrible:",
+          "translationRu": "Время от времени беспорядочные вопли стихали, и хор хриплых голосов поднимался, распевая ту ужасную ритуальную фразу:"
+        },
+        {
+          "id": "sent-080",
+          "text": "«Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.»",
+          "translationRu": "«Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.»"
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-081",
+          "text": "Entonces los hombres llegaron a un lugar donde los árboles eran menos densos.",
+          "translationRu": "Затем люди вышли к месту, где деревья стояли реже."
+        },
+        {
+          "id": "sent-082",
+          "text": "De repente vieron el espectáculo.",
+          "translationRu": "Они внезапно увидели зрелище."
+        },
+        {
+          "id": "sent-083",
+          "text": "Cuatro de ellos se tambalearon.",
+          "translationRu": "Четверо из них зашатались."
+        },
+        {
+          "id": "sent-084",
+          "text": "Uno se desmayó.",
+          "translationRu": "Один потерял сознание."
+        },
+        {
+          "id": "sent-085",
+          "text": "Dos más gritaron de manera frenética, aunque el ruido de la orgía afortunadamente ahogó sus gritos.",
+          "translationRu": "Ещё двое закричали неистово, хотя шум оргии к счастью заглушил их крики."
+        },
+        {
+          "id": "sent-086",
+          "text": "Legrasse echó agua del pantano sobre la cara del hombre desmayado.",
+          "translationRu": "Леграс плеснул болотную воду на лицо упавшего в обморок."
+        },
+        {
+          "id": "sent-087",
+          "text": "Todos se quedaron temblando, casi hipnotizados de horror.",
+          "translationRu": "Все они стояли дрожа, почти загипнотизированные ужасом."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-088",
+          "text": "En un claro natural del pantano había una isla de hierba de unos mil metros cuadrados, sin árboles y bastante seca.",
+          "translationRu": "На естественной поляне в болоте находился травянистый островок площадью около тысячи квадратных метров, без деревьев и довольно сухой."
+        },
+        {
+          "id": "sent-089",
+          "text": "Sobre esa isla saltaba y se retorcía una multitud de personas imposible de describir.",
+          "translationRu": "На этом островке прыгала и извивалась толпа людей, которую невозможно было описать."
+        },
+        {
+          "id": "sent-090",
+          "text": "Sin ropa, esa gente danzaba alrededor de una enorme hoguera circular.",
+          "translationRu": "Без одежды эти люди танцевали вокруг огромного кольцеобразного костра."
+        },
+        {
+          "id": "sent-091",
+          "text": "En el centro de la hoguera, visible entre las llamas, se levantaba un gran monolito de granito de unos dos metros y medio de altura.",
+          "translationRu": "В центре костра, видимый сквозь пламя, возвышался большой гранитный монолит высотой около двух с половиной метров."
+        },
+        {
+          "id": "sent-092",
+          "text": "Encima del monolito, pequeña y extraña, descansaba la misma estatuilla tallada.",
+          "translationRu": "На вершине монолита, маленькая и чуждая, покоилась та самая вырезанная статуэтка."
+        },
+        {
+          "id": "sent-093",
+          "text": "Alrededor, a intervalos regulares, había diez horcas.",
+          "translationRu": "Вокруг, через равные промежутки, стояло десять виселиц."
+        },
+        {
+          "id": "sent-094",
+          "text": "De ellas colgaban cabeza abajo los cuerpos de los campesinos que habían desaparecido.",
+          "translationRu": "На них вниз головой висели тела крестьян, которые исчезли."
+        },
+        {
+          "id": "sent-095",
+          "text": "Era dentro de ese círculo donde los adoradores saltaban y rugían.",
+          "translationRu": "Именно внутри этого круга поклонники прыгали и ревели."
+        },
+        {
+          "id": "sent-096",
+          "text": "Se movían en conjunto de izquierda a derecha, entre el anillo de cuerpos y el anillo de fuego.",
+          "translationRu": "Они двигались вместе слева направо, между кольцом тел и кольцом огня."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-097",
+          "text": "Puede que fuera imaginación, o puede que fueran ecos, pero uno de los hombres, un español excitable llamado Joseph D. Galvez, creyó escuchar respuestas a los cantos desde algún lugar lejano y oscuro en el bosque.",
+          "translationRu": "Возможно, это было воображение, а возможно, отголоски, но один из людей, возбудимый испанец по имени Хосеф Д. Гальвес, думал, что слышит ответы на пение из какого-то далёкого и тёмного места в лесу."
+        },
+        {
+          "id": "sent-098",
+          "text": "Más tarde encontré y entrevisté a ese hombre.",
+          "translationRu": "Позже я встретил этого человека и расспросил его."
+        },
+        {
+          "id": "sent-099",
+          "text": "Era muy imaginativo.",
+          "translationRu": "Он был очень впечатлительным."
+        },
+        {
+          "id": "sent-100",
+          "text": "Llegó incluso a hablar del débil batir de grandes alas y de unos ojos brillantes y una enorme masa blanca entre los árboles más lejanos.",
+          "translationRu": "Он дошёл до того, что говорил о слабом биении огромных крыльев и о светящихся глазах и огромной белой массе среди дальних деревьев."
+        },
+        {
+          "id": "sent-101",
+          "text": "Pero supongo que había escuchado demasiadas supersticiones locales.",
+          "translationRu": "Но я думаю, что он слышал слишком много местных суеверий."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-102",
+          "text": "En realidad, la pausa aterrorizada de los hombres fue breve.",
+          "translationRu": "На самом деле потрясённая пауза людей была недолгой."
+        },
+        {
+          "id": "sent-103",
+          "text": "El deber era lo primero.",
+          "translationRu": "Долг был на первом месте."
+        },
+        {
+          "id": "sent-104",
+          "text": "Aunque había casi cien participantes en la multitud, la policía confiaba en sus armas.",
+          "translationRu": "Хотя в толпе было почти сто участников, полиция рассчитывала на своё оружие."
+        },
+        {
+          "id": "sent-105",
+          "text": "Entraron decididos en el confuso grupo de personas.",
+          "translationRu": "Они решительно ворвались в беспорядочную толпу."
+        },
+        {
+          "id": "sent-106",
+          "text": "Durante cinco minutos hubo una confusión total.",
+          "translationRu": "В течение пяти минут царил полный хаос."
+        },
+        {
+          "id": "sent-107",
+          "text": "Se dieron golpes fuertes, se dispararon tiros y algunos lograron escapar.",
+          "translationRu": "Наносились сильные удары, звучали выстрелы, некоторым удалось бежать."
+        },
+        {
+          "id": "sent-108",
+          "text": "Al final, Legrasse pudo contar cuarenta y siete prisioneros.",
+          "translationRu": "В конце концов Леграс насчитал сорок семь пленников."
+        },
+        {
+          "id": "sent-109",
+          "text": "Los obligó a vestirse rápido y a ponerse en fila entre dos filas de policías.",
+          "translationRu": "Он заставил их быстро одеться и встать в ряд между двумя шеренгами полицейских."
+        },
+        {
+          "id": "sent-110",
+          "text": "Cinco de los adoradores habían muerto.",
+          "translationRu": "Пятеро поклонников погибли."
+        },
+        {
+          "id": "sent-111",
+          "text": "Dos heridos graves fueron llevados en camillas improvisadas por sus propios compañeros.",
+          "translationRu": "Двух тяжелораненых унесли на импровизированных носилках их же товарищи."
+        },
+        {
+          "id": "sent-112",
+          "text": "La imagen del monolito fue retirada con cuidado y llevada de vuelta por el inspector Legrasse.",
+          "translationRu": "Изображение с монолита было осторожно снято и унесено назад инспектором Леграсом."
+        }
+      ]
+    }
+  ]
+}
