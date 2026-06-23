@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "pauls-case",
+  "title": "El caso de Paul",
+  "titleRu": "Случай Пола",
+  "originalTitle": "Paul's Case",
+  "author": {
+    "id": "willa-cather",
+    "name": "Willa Cather"
+  },
+  "genres": [
+    "Классика",
+    "Рассказ",
+    "Психология"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

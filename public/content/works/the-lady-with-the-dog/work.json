@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-lady-with-the-dog",
+  "title": "La dama del perrito",
+  "titleRu": "Дама с собачкой",
+  "originalTitle": "The Lady with the Dog",
+  "author": {
+    "id": "anton-chekhov",
+    "name": "Anton Chekhov"
+  },
+  "genres": [
+    "Классика",
+    "Любовь",
+    "Психология"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

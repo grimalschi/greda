@@ -581,6 +581,90 @@
       }
     },
     {
+      "id": "the-bishop",
+      "title": "El obispo",
+      "titleRu": "Архиерей",
+      "originalTitle": "The Bishop",
+      "authorId": "anton-chekhov",
+      "authorName": "Anton Chekhov",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Реализм"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 6143
+      }
+    },
+    {
+      "id": "the-lady-with-the-dog",
+      "title": "La dama del perrito",
+      "titleRu": "Дама с собачкой",
+      "originalTitle": "The Lady with the Dog",
+      "authorId": "anton-chekhov",
+      "authorName": "Anton Chekhov",
+      "genres": [
+        "Классика",
+        "Любовь",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 6312
+      }
+    },
+    {
+      "id": "betrothed",
+      "title": "La novia",
+      "titleRu": "Невеста",
+      "originalTitle": "Betrothed",
+      "authorId": "anton-chekhov",
+      "authorName": "Anton Chekhov",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 7098
+      }
+    },
+    {
       "id": "the-azure-ring",
       "title": "El anillo azul",
       "titleRu": "Синее кольцо",
@@ -9032,6 +9116,34 @@
       }
     },
     {
+      "id": "the-gentleman-from-san-francisco",
+      "title": "El señor de San Francisco",
+      "titleRu": "Господин из Сан-Франциско",
+      "originalTitle": "The Gentleman from San Francisco",
+      "authorId": "ivan-bunin",
+      "authorName": "Ivan Bunin",
+      "genres": [
+        "Классика",
+        "Реализм",
+        "Смерть"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 8973
+      }
+    },
+    {
       "id": "peter-pan",
       "title": "Peter Pan",
       "titleRu": "Питер Пэн",
@@ -12971,6 +13083,34 @@
         "b1": 3338,
         "b2": 6006,
         "c1": 6303
+      }
+    },
+    {
+      "id": "pauls-case",
+      "title": "El caso de Paul",
+      "titleRu": "Случай Пола",
+      "originalTitle": "Paul's Case",
+      "authorId": "willa-cather",
+      "authorName": "Willa Cather",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Психология"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 8577
       }
     }
   ]

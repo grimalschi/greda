@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-gentleman-from-san-francisco",
+  "title": "El señor de San Francisco",
+  "titleRu": "Господин из Сан-Франциско",
+  "originalTitle": "The Gentleman from San Francisco",
+  "author": {
+    "id": "ivan-bunin",
+    "name": "Ivan Bunin"
+  },
+  "genres": [
+    "Классика",
+    "Реализм",
+    "Смерть"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
