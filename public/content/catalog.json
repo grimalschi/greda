@@ -9250,6 +9250,34 @@
       }
     },
     {
+      "id": "the-red-one",
+      "title": "El Rojo",
+      "titleRu": "Красное божество",
+      "originalTitle": "The Red One",
+      "authorId": "jack-london",
+      "authorName": "Jack London",
+      "genres": [
+        "Классика",
+        "Приключения",
+        "Фантастика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 9591
+      }
+    },
+    {
       "id": "all-gold-canyon",
       "title": "El cañón del oro",
       "titleRu": "Золотой каньон",
@@ -10758,6 +10786,34 @@
       "chapters": 1,
       "words": {
         "b1": 6917
+      }
+    },
+    {
+      "id": "the-30000-bequest",
+      "title": "El legado de 30 000 dólares",
+      "titleRu": "Наследство в тридцать тысяч долларов",
+      "originalTitle": "The $30,000 Bequest",
+      "authorId": "mark-twain",
+      "authorName": "Mark Twain",
+      "genres": [
+        "Классика",
+        "Сатира",
+        "Юмор"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 10093
       }
     },
     {
