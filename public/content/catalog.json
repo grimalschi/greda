@@ -212,6 +212,34 @@
       }
     },
     {
+      "id": "the-willows",
+      "title": "Los sauces",
+      "titleRu": "Ивы",
+      "originalTitle": "The Willows",
+      "authorId": "algernon-blackwood",
+      "authorName": "Algernon Blackwood",
+      "genres": [
+        "Классика",
+        "Ужасы",
+        "Мистика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 19112
+      }
+    },
+    {
       "id": "the-doctor-his-wife-and-the-clock",
       "title": "El doctor, su esposa y el reloj",
       "titleRu": "Доктор, его жена и часы",
@@ -606,6 +634,34 @@
       "chapters": 1,
       "words": {
         "b1": 6143
+      }
+    },
+    {
+      "id": "in-the-ravine",
+      "title": "En el barranco",
+      "titleRu": "В овраге",
+      "originalTitle": "In the Ravine",
+      "authorId": "anton-chekhov",
+      "authorName": "Anton Chekhov",
+      "genres": [
+        "Классика",
+        "Реализм",
+        "Деревня"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 14316
       }
     },
     {
@@ -10898,6 +10954,34 @@
       "chapters": 1,
       "words": {
         "b1": 6917
+      }
+    },
+    {
+      "id": "the-man-that-corrupted-hadleyburg",
+      "title": "El hombre que corrompió a Hadleyburg",
+      "titleRu": "Человек, который совратил Гедлиберг",
+      "originalTitle": "The Man That Corrupted Hadleyburg",
+      "authorId": "mark-twain",
+      "authorName": "Mark Twain",
+      "genres": [
+        "Классика",
+        "Сатира",
+        "Реализм"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 15625
       }
     },
     {

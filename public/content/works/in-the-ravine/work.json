@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "in-the-ravine",
+  "title": "En el barranco",
+  "titleRu": "В овраге",
+  "originalTitle": "In the Ravine",
+  "author": {
+    "id": "anton-chekhov",
+    "name": "Anton Chekhov"
+  },
+  "genres": [
+    "Классика",
+    "Реализм",
+    "Деревня"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
