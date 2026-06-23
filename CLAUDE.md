@@ -3,24 +3,25 @@
 Guidance for working in this repo (**greda**). Read this first.
 
 ## What this is
-Offline-first PWA for studying Spanish by reading public-domain works adapted into
-graded Spanish (levels **A1–C2**; most works A2–C1) with **per-sentence Russian translations**.
-UI is in Russian. No backend and no runtime LLM calls — all content is pre-generated static JSON
-in `public/content/`. The library holds **402 works**: 5 originals (Poe/London) + ~263
-public-domain detective & sci-fi stories + **87 canonical classics added 2026-06-16** (Frankenstein,
-Dracula, Verne, Tarzan, Austen, Dickens, Brontës, Twain, Wilde, Collins, Leblanc, Leroux, Dumas, Hugo,
-Dostoevsky, Melville, Flaubert, Wharton, Kafka, Haggard, Buchan, Hardy, Eliot, Montgomery, Burroughs,
-Bellamy, Chesterton, Conrad, …) + **47 world short-fiction classics added 2026-06-23** (Joyce, Kafka
-shorts, Chekhov, Tolstoy, O. Henry, Mansfield, Woolf, Akutagawa, Tagore, Bunin, Andreyev, Conrad, Saki,
-M. R. James, Blackwood, Dunsany, Fitzgerald, Lovecraft, Twain shorts, Cather, Pirandello, Gorky, …).
-All from Project Gutenberg (first published ≤1930 → US public domain). Long novels are **multi-chapter**
-(4–11 ch); short stories are single-chapter (complete arc). The 87 classics are A2–C1 only. **The 47 new
-classics are faithful `b1v2` only** (single chapter, "simpler-not-shorter" method below; labeled `b1v2`
-— not base `b1` — so they group with the Holmes re-takes under the «B1 v2» faithful filter). A handful of
-planned works were dropped because Anthropic's output content-filter persistently blocked their core
-scenes (In the Penal Colony, The Machine Stops, Casting the Runes, Benjamin Button) or they exceeded
-~50 pp (Death in Venice, The Seven Who Were Hanged, The Forged Coupon). Plan→Gutenberg-ID mapping for
-the 2026-06-16 classics: `sources/classics-plans/` (waves 1–7).
+Offline-first PWA for studying Spanish by reading public-domain short fiction adapted into
+graded Spanish at level **B1** with **per-sentence Russian translations**. UI is in Russian. No backend
+and no runtime LLM calls — all content is pre-generated static JSON in `public/content/`. The library
+holds **58 faithful works**, each a **single-chapter B1 adaptation** by the "simpler-not-shorter" method
+(below): 10 Sherlock Holmes stories + `the-yellow-face`, and **47 world short-fiction classics** (Joyce,
+Kafka, Chekhov, Tolstoy, O. Henry, Mansfield, Woolf, Akutagawa, Tagore, Bunin, Andreyev, Conrad, Saki,
+M. R. James, Blackwood, Dunsany, Fitzgerald, Lovecraft, Twain, Cather, Pirandello, Gorky, …). All from
+Project Gutenberg (first published ≤1930 → US public domain).
+
+**History — the great simplification (2026-06-23):** the library previously held **402 works**, but
+~344 of them (5 Poe/London originals, ~263 detective & sci-fi, 87 classics added 2026-06-16) used an
+earlier *soft-shorten* method that compressed heavily and dropped detail across levels a1–c2. Per the
+user's call, **all soft-shortened content was deleted** and the faithful method is now the single
+standard: the faithful level (formerly the extra `b1v2`) was renamed to base **`b1`**, and the other
+five base levels (a1/a2/b2/c1/c2) are present-but-unavailable on every work. So today **`b1` = the
+faithful standard**, and there is no `b1v2` in the live content (the wiring still exists, dormant).
+A handful of planned classics were dropped because Anthropic's output content-filter persistently
+blocked their core scenes (In the Penal Colony, The Machine Stops, Casting the Runes, Benjamin Button)
+or they exceeded ~50 pp (Death in Venice, The Seven Who Were Hanged, The Forged Coupon).
 
 ## Commands
 - `npm run dev` — dev server at http://localhost:5173/greda/
