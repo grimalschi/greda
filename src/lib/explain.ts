@@ -1,5 +1,5 @@
 // Запрос объяснения грамматики предложения в ИИ-провайдера (прямой клиентский вызов
-// с пользовательским ключом). Ключ нигде не логируется и не уходит, кроме API провайдера.
+// с пользовательским ключом). Стримит ответ по мере прихода токенов (SSE).
 import type { AiProvider } from './storage'
 
 interface ExplainOpts {
@@ -28,21 +28,23 @@ function cacheKey({ provider, text, prompt, model }: ExplainOpts): string {
   return `${provider} ${model} ${fillPrompt(prompt, text)}`
 }
 
-/** Синхронно отдаёт закэшированный ответ, если он уже есть (чтобы не мигало «загрузка»). */
+/** Синхронно отдаёт закэшированный ответ, если он уже есть (чтобы не стримить заново). */
 export function peekExplanation(opts: ExplainOpts): string | undefined {
   return cache.get(cacheKey(opts))
 }
 
-export async function explainSentence(opts: ExplainOpts): Promise<string> {
+/** Стримит объяснение: вызывает onToken на каждый пришедший фрагмент, возвращает весь текст. */
+export async function explainSentenceStream(
+  opts: ExplainOpts,
+  onToken: (chunk: string) => void,
+  signal?: AbortSignal,
+): Promise<string> {
   const key = cacheKey(opts)
-  const hit = cache.get(key)
-  if (hit) return hit
 
   const headers: Record<string, string> = {
     'Content-Type': 'application/json',
     Authorization: `Bearer ${opts.apiKey}`,
   }
-  // OpenRouter рекомендует эти заголовки (необязательно, для статистики/рейтинга).
   if (opts.provider === 'openrouter') {
     headers['HTTP-Referer'] = typeof location !== 'undefined' ? location.origin : 'https://grimalschi.github.io/greda/'
     headers['X-Title'] = 'Greda'
@@ -53,15 +55,16 @@ export async function explainSentence(opts: ExplainOpts): Promise<string> {
     res = await fetch(ENDPOINTS[opts.provider], {
       method: 'POST',
       headers,
+      signal,
       body: JSON.stringify({
         model: opts.model,
         messages: [{ role: 'user', content: fillPrompt(opts.prompt, opts.text) }],
         temperature: 0.3,
+        stream: true,
       }),
     })
-  } catch {
-    // Сетевой сбой или (для OpenAI) ответ-ошибка без CORS-заголовков → браузер отдаёт
-    // голый TypeError. Чаще всего это неверный ключ / нет средств / нет доступа к модели.
+  } catch (e) {
+    if ((e as Error)?.name === 'AbortError') throw e
     const hint =
       opts.provider === 'openai'
         ? ' OpenAI скрывает детали ошибок из-за CORS — попробуйте провайдера OpenRouter, он показывает причину.'
@@ -69,7 +72,7 @@ export async function explainSentence(opts: ExplainOpts): Promise<string> {
     throw new Error(`Запрос не прошёл. Проверьте ключ API, баланс и название модели.${hint}`)
   }
 
-  if (!res.ok) {
+  if (!res.ok || !res.body) {
     let detail = ''
     try {
       const err = await res.json()
@@ -80,8 +83,34 @@ export async function explainSentence(opts: ExplainOpts): Promise<string> {
     throw new Error(`${opts.provider === 'openrouter' ? 'OpenRouter' : 'OpenAI'} ${res.status}${detail}`)
   }
 
-  const data = await res.json()
-  const answer: string = data?.choices?.[0]?.message?.content?.trim() ?? ''
-  if (answer) cache.set(key, answer)
-  return answer
+  const reader = res.body.getReader()
+  const decoder = new TextDecoder()
+  let buffer = ''
+  let full = ''
+  while (true) {
+    const { done, value } = await reader.read()
+    if (done) break
+    buffer += decoder.decode(value, { stream: true })
+    const parts = buffer.split('\n')
+    buffer = parts.pop() ?? ''
+    for (const line of parts) {
+      const t = line.trim()
+      if (!t.startsWith('data:')) continue
+      const data = t.slice(5).trim()
+      if (data === '[DONE]') continue
+      try {
+        const json = JSON.parse(data)
+        const delta: string | undefined = json?.choices?.[0]?.delta?.content
+        if (delta) {
+          full += delta
+          onToken(delta)
+        }
+      } catch {
+        /* частичный/служебный chunk — пропускаем */
+      }
+    }
+  }
+  full = full.trim()
+  if (full) cache.set(key, full)
+  return full
 }

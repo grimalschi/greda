@@ -1,10 +1,11 @@
 import { Fragment, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useParams } from 'react-router-dom'
+import Markdown from 'react-markdown'
 import { TopBar } from '../components/TopBar'
 import { ErrorView, Loading } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
 import { fetchChapter, fetchWork } from '../lib/content'
-import { explainSentence, peekExplanation } from '../lib/explain'
+import { explainSentenceStream, peekExplanation } from '../lib/explain'
 import { useAppState, useThrottledCallback } from '../state/store'
 import { LEVEL_LABELS } from '../types'
 import type { Level, Sentence } from '../types'
@@ -58,12 +59,26 @@ function PanelContent({
       return
     }
     let cancelled = false
+    const ctrl = new AbortController()
+    let acc = ''
     setEx({ loading: true, text: '', error: '' })
-    explainSentence(args)
-      .then((t) => !cancelled && setEx({ loading: false, text: t, error: '' }))
-      .catch((e) => !cancelled && setEx({ loading: false, text: '', error: String(e?.message ?? e) }))
+    explainSentenceStream(
+      args,
+      (chunk) => {
+        if (cancelled) return
+        acc += chunk
+        setEx({ loading: false, text: acc, error: '' })
+      },
+      ctrl.signal,
+    )
+      .then((full) => !cancelled && setEx({ loading: false, text: full, error: '' }))
+      .catch((e) => {
+        if (cancelled || e?.name === 'AbortError') return
+        setEx({ loading: false, text: '', error: String(e?.message ?? e) })
+      })
     return () => {
       cancelled = true
+      ctrl.abort()
     }
   }, [tab, sentence.text, provider, apiKey, model, settings.explainPrompt])
 
@@ -92,13 +107,15 @@ function PanelContent({
         {tab === 'translation' ? (
           <div className="tpanel__ru">{sentence.translationRu}</div>
         ) : ex.loading ? (
-          <div className="muted">GPT думает…</div>
+          <div className="muted">Загружаем…</div>
         ) : ex.error === 'no-key' ? (
-          <div className="muted">Укажите ключ OpenAI в Настройках, чтобы получать объяснения.</div>
+          <div className="muted">Укажите ключ ИИ-провайдера в Настройках, чтобы получать объяснения.</div>
         ) : ex.error ? (
           <div className="muted">Ошибка: {ex.error}</div>
         ) : (
-          <div className="tpanel__explain">{ex.text}</div>
+          <div className="tpanel__explain">
+            <Markdown>{ex.text}</Markdown>
+          </div>
         )}
       </div>
     </>
