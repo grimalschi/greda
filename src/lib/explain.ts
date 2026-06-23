@@ -31,18 +31,28 @@ export async function explainSentence(opts: ExplainOpts): Promise<string> {
   const hit = cache.get(key)
   if (hit) return hit
 
-  const res = await fetch('https://api.openai.com/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      Authorization: `Bearer ${opts.apiKey}`,
-    },
-    body: JSON.stringify({
-      model: opts.model || 'gpt-4o-mini',
-      messages: [{ role: 'user', content: fillPrompt(opts.prompt, opts.text) }],
-      temperature: 0.3,
-    }),
-  })
+  let res: Response
+  try {
+    res = await fetch('https://api.openai.com/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${opts.apiKey}`,
+      },
+      body: JSON.stringify({
+        model: opts.model || 'gpt-4o-mini',
+        messages: [{ role: 'user', content: fillPrompt(opts.prompt, opts.text) }],
+        temperature: 0.3,
+      }),
+    })
+  } catch {
+    // OpenAI не шлёт CORS-заголовки на ответах-ошибках, поэтому браузер отдаёт fetch
+    // как TypeError без деталей. Чаще всего это неверный ключ / нет средств / нет доступа к модели.
+    throw new Error(
+      'Запрос к OpenAI не прошёл. Проверьте ключ API, баланс счёта и название модели. ' +
+        '(Детали ошибки браузер скрывает из-за CORS у OpenAI.)',
+    )
+  }
 
   if (!res.ok) {
     let detail = ''

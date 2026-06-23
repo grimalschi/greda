@@ -213,21 +213,38 @@ export function ReaderPage() {
     })
   }, [chapter, persist])
 
-  // Закрытие панели: Escape; для поповера — при прокрутке (чтобы не «отрывался»).
+  // Закрыть панель и снять фокус с предложения (чтобы не оставалось подсветки/обводки).
+  const closePanel = useCallback(() => {
+    setPanelSent(null)
+    const el = document.activeElement as HTMLElement | null
+    if (el && typeof el.blur === 'function') el.blur()
+  }, [])
+
+  // Закрытие: Escape; для поповера — при прокрутке и при клике ВНЕ поповера.
   useEffect(() => {
     if (!panelSent) return
-    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && setPanelSent(null)
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && closePanel()
     window.addEventListener('keydown', onKey)
     let onScroll: (() => void) | null = null
+    let onDocClick: ((e: MouseEvent) => void) | null = null
     if (translationMode === 'popover') {
-      onScroll = () => setPanelSent(null)
+      onScroll = () => closePanel()
       window.addEventListener('scroll', onScroll, { passive: true, once: true })
+      onDocClick = (e) => {
+        const t = e.target as HTMLElement | null
+        // клик внутри поповера или по предложению — обрабатывается отдельно
+        if (t && (t.closest('.tpop') || t.closest('[data-sent-id]'))) return
+        closePanel()
+      }
+      // вешаем на следующий тик, чтобы открывающий клик сам не закрыл поповер
+      document.addEventListener('click', onDocClick)
     }
     return () => {
       window.removeEventListener('keydown', onKey)
       if (onScroll) window.removeEventListener('scroll', onScroll)
+      if (onDocClick) document.removeEventListener('click', onDocClick)
     }
-  }, [panelSent, translationMode])
+  }, [panelSent, translationMode, closePanel])
 
   const toggle = useCallback((id: string) => {
     setOpen((prev) => {
@@ -361,7 +378,7 @@ export function ReaderPage() {
             key={panelSent.id}
             sentence={panelSent}
             settings={store.settings}
-            onClose={() => setPanelSent(null)}
+            onClose={closePanel}
           />
         </div>
       ) : null}
@@ -372,7 +389,7 @@ export function ReaderPage() {
             key={panelSent.id}
             sentence={panelSent}
             settings={store.settings}
-            onClose={() => setPanelSent(null)}
+            onClose={closePanel}
           />
         </div>
       ) : null}
