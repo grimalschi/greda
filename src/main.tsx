@@ -18,3 +18,24 @@ createRoot(rootEl).render(
     </HashRouter>
   </StrictMode>,
 )
+
+// Автообновление PWA: SPA сама не перезагружается, поэтому свежий код после деплоя
+// мог не подхватываться (виделась закэшированная версия). Раз в минуту проверяем
+// обновление Service Worker, а когда новый SW берёт управление — перезагружаем
+// страницу. Самую первую установку SW пропускаем, чтобы не дёргать новых пользователей.
+if ('serviceWorker' in navigator) {
+  const wasControlled = !!navigator.serviceWorker.controller
+  let reloading = false
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (reloading || !wasControlled) return
+    reloading = true
+    window.location.reload()
+  })
+  navigator.serviceWorker.ready
+    .then((reg) => {
+      setInterval(() => {
+        reg.update().catch(() => {})
+      }, 60_000)
+    })
+    .catch(() => {})
+}
