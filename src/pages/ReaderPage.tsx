@@ -1,5 +1,6 @@
 import { Fragment, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useParams } from 'react-router-dom'
+import { autoUpdate, flip, offset, shift, size, useFloating } from '@floating-ui/react'
 import Markdown from 'react-markdown'
 import { TopBar } from '../components/TopBar'
 import { ErrorView, Loading } from '../components/ui'
@@ -141,7 +142,30 @@ export function ReaderPage() {
   // Inline-режим: множество раскрытых переводов. Drawer/Popover: одно активное предложение.
   const [open, setOpen] = useState<Set<string>>(() => new Set())
   const [panelSent, setPanelSent] = useState<Sentence | null>(null)
-  const [anchor, setAnchor] = useState<{ left: number; top: number; bottom: number } | null>(null)
+  const [anchorEl, setAnchorEl] = useState<HTMLElement | null>(null)
+
+  // Floating UI держит поповер в границах экрана (flip/shift) и задаёт адекватную высоту (size).
+  const { refs, floatingStyles } = useFloating({
+    open: translationMode === 'popover' && !!panelSent,
+    strategy: 'fixed',
+    placement: 'bottom-start',
+    middleware: [
+      offset(8),
+      flip({ padding: 8 }),
+      shift({ padding: 8 }),
+      size({
+        padding: 8,
+        apply({ availableHeight, availableWidth, elements }) {
+          Object.assign(elements.floating.style, {
+            maxHeight: `${Math.max(160, availableHeight)}px`,
+            maxWidth: `${Math.min(380, availableWidth)}px`,
+          })
+        },
+      }),
+    ],
+    elements: { reference: anchorEl },
+    whileElementsMounted: autoUpdate,
+  })
 
   const containerRef = useRef<HTMLDivElement>(null)
   const storeRef = useRef(store)
@@ -236,31 +260,14 @@ export function ReaderPage() {
     if (el && typeof el.blur === 'function') el.blur()
   }, [])
 
-  // Закрытие: Escape; для поповера — при прокрутке и при клике ВНЕ поповера.
+  // Закрытие по Escape. Клик вне поповера ловит прозрачная подложка (.tpop-backdrop),
+  // которая закрывает и НЕ даёт клику по другому предложению открыть новый поповер.
   useEffect(() => {
     if (!panelSent) return
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && closePanel()
     window.addEventListener('keydown', onKey)
-    let onScroll: (() => void) | null = null
-    let onDocClick: ((e: MouseEvent) => void) | null = null
-    if (translationMode === 'popover') {
-      onScroll = () => closePanel()
-      window.addEventListener('scroll', onScroll, { passive: true, once: true })
-      onDocClick = (e) => {
-        const t = e.target as HTMLElement | null
-        // клик внутри поповера или по предложению — обрабатывается отдельно
-        if (t && (t.closest('.tpop') || t.closest('[data-sent-id]'))) return
-        closePanel()
-      }
-      // вешаем на следующий тик, чтобы открывающий клик сам не закрыл поповер
-      document.addEventListener('click', onDocClick)
-    }
-    return () => {
-      window.removeEventListener('keydown', onKey)
-      if (onScroll) window.removeEventListener('scroll', onScroll)
-      if (onDocClick) document.removeEventListener('click', onDocClick)
-    }
-  }, [panelSent, translationMode, closePanel])
+    return () => window.removeEventListener('keydown', onKey)
+  }, [panelSent, closePanel])
 
   const toggle = useCallback((id: string) => {
     setOpen((prev) => {
@@ -277,11 +284,14 @@ export function ReaderPage() {
         toggle(s.id)
         return
       }
-      setPanelSent((prev) => (prev?.id === s.id ? null : s))
       if (translationMode === 'popover') {
-        const r = el.getBoundingClientRect()
-        setAnchor({ left: r.left, top: r.top, bottom: r.bottom })
+        // Открываем только когда закрыто; пока открыто, клики перехватывает подложка.
+        setAnchorEl(el)
+        setPanelSent(s)
+        return
       }
+      // drawer: тап по другому предложению переключает содержимое, по тому же — закрывает.
+      setPanelSent((prev) => (prev?.id === s.id ? null : s))
     },
     [translationMode, toggle],
   )
@@ -331,16 +341,6 @@ export function ReaderPage() {
     },
     [translationMode, open, panelSent, onSentence, toggle],
   )
-
-  const popStyle = useMemo(() => {
-    if (translationMode !== 'popover' || !anchor) return undefined
-    const width = Math.min(360, window.innerWidth - 24)
-    const left = Math.max(12, Math.min(anchor.left, window.innerWidth - width - 12))
-    if (anchor.bottom > window.innerHeight * 0.6) {
-      return { left, bottom: window.innerHeight - anchor.top + 8, width }
-    }
-    return { left, top: anchor.bottom + 8, width }
-  }, [translationMode, anchor])
 
   return (
     <div className="page reader">
@@ -399,15 +399,24 @@ export function ReaderPage() {
         </div>
       ) : null}
 
-      {translationMode === 'popover' && panelSent && popStyle ? (
-        <div className="tpop tpanel" role="dialog" aria-label="Перевод и объяснение" style={popStyle}>
-          <PanelContent
-            key={panelSent.id}
-            sentence={panelSent}
-            settings={store.settings}
-            onClose={closePanel}
-          />
-        </div>
+      {translationMode === 'popover' && panelSent ? (
+        <>
+          <div className="tpop-backdrop" onClick={closePanel} />
+          <div
+            ref={refs.setFloating}
+            style={floatingStyles}
+            className="tpop tpanel"
+            role="dialog"
+            aria-label="Перевод и объяснение"
+          >
+            <PanelContent
+              key={panelSent.id}
+              sentence={panelSent}
+              settings={store.settings}
+              onClose={closePanel}
+            />
+          </div>
+        </>
       ) : null}
     </div>
   )
