@@ -8980,6 +8980,34 @@
       }
     },
     {
+      "id": "the-call-of-cthulhu",
+      "title": "La llamada de Cthulhu",
+      "titleRu": "Зов Ктулху",
+      "originalTitle": "The Call of Cthulhu",
+      "authorId": "h-p-lovecraft",
+      "authorName": "H. P. Lovecraft",
+      "genres": [
+        "Классика",
+        "Ужасы",
+        "Фантастика"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 11602
+      }
+    },
+    {
       "id": "she",
       "title": "Ella",
       "titleRu": "Она",
@@ -13167,6 +13195,34 @@
       "chapters": 1,
       "words": {
         "b1": 8577
+      }
+    },
+    {
+      "id": "the-sculptors-funeral",
+      "title": "El funeral del escultor",
+      "titleRu": "Похороны скульптора",
+      "originalTitle": "The Sculptor's Funeral",
+      "authorId": "willa-cather",
+      "authorName": "Willa Cather",
+      "genres": [
+        "Классика",
+        "Рассказ",
+        "Реализм"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "b1"
+      ],
+      "chapters": 1,
+      "words": {
+        "b1": 14731
       }
     }
   ]

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-sculptors-funeral",
+  "title": "El funeral del escultor",
+  "titleRu": "Похороны скульптора",
+  "originalTitle": "The Sculptor's Funeral",
+  "author": {
+    "id": "willa-cather",
+    "name": "Willa Cather"
+  },
+  "genres": [
+    "Классика",
+    "Рассказ",
+    "Реализм"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
