@@ -65,6 +65,7 @@ for (const id of readdirSync(WORKS)) {
     author: { id: w.author.id, name: w.author.name },
     genres: w.genres,
     synopsisRu: w.synopsisRu,
+    ...(w.proofread ? { proofread: w.proofread } : {}),
     levels,
   }
   const normStr = JSON.stringify(norm, null, 2) + '\n'

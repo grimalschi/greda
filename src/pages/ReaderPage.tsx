@@ -40,7 +40,7 @@ function PanelContent({
   settings: Settings
   onClose: () => void
 }) {
-  const [tab, setTab] = useState<'translation' | 'explain'>('translation')
+  const [tab, setTab] = useState<'translation' | 'original' | 'explain'>('translation')
   const [ex, setEx] = useState<ExplainState>({ loading: false, text: '', error: '' })
 
   const provider = settings.aiProvider
@@ -93,6 +93,15 @@ function PanelContent({
         >
           Перевод
         </button>
+        {sentence.original ? (
+          <button
+            type="button"
+            className={`tpanel__tab ${tab === 'original' ? 'is-active' : ''}`}
+            onClick={() => setTab('original')}
+          >
+            Оригинал
+          </button>
+        ) : null}
         <button
           type="button"
           className={`tpanel__tab ${tab === 'explain' ? 'is-active' : ''}`}
@@ -107,6 +116,8 @@ function PanelContent({
       <div className="tpanel__body">
         {tab === 'translation' ? (
           <div className="tpanel__ru">{sentence.translationRu}</div>
+        ) : tab === 'original' ? (
+          <div className="tpanel__og">{sentence.original}</div>
         ) : ex.loading ? (
           <div className="muted">Загружаем…</div>
         ) : ex.error === 'no-key' ? (

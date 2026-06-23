@@ -89,6 +89,8 @@ export interface Sentence {
   translationRu: string
   /** Если true — это заголовок раздела внутри сплошного текста (рендерится крупно). */
   heading?: boolean
+  /** Оригинальный текст источника, соответствующий этому предложению (вкладка «Оригинал»). */
+  original?: string
 }
 
 export interface Paragraph {

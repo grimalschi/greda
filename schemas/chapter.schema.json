@@ -39,7 +39,8 @@
                 "id": { "type": "string", "pattern": "^sent-[0-9]{3,}$" },
                 "text": { "type": "string", "minLength": 1 },
                 "translationRu": { "type": "string", "minLength": 1 },
-                "heading": { "type": "boolean" }
+                "heading": { "type": "boolean" },
+                "original": { "type": "string" }
               }
             }
           }

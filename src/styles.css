@@ -650,6 +650,12 @@ button {
   line-height: 1.6;
   font-size: 1.02em;
 }
+.tpanel__og {
+  color: var(--text);
+  line-height: 1.6;
+  font-size: 1.02em;
+  font-style: italic;
+}
 .tpanel__explain {
   color: var(--text);
   line-height: 1.6;

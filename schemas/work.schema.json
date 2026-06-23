@@ -32,6 +32,14 @@
     },
     "genres": { "type": "array", "items": { "type": "string" } },
     "synopsisRu": { "type": "string" },
+    "proofread": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "model": { "type": "string" },
+        "date": { "type": "string" }
+      }
+    },
     "levels": {
       "type": "object",
       "additionalProperties": false,
