@@ -3,14 +3,6 @@ import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
 import type { CatalogWork } from '../types'
 import type { ReadingStatus } from '../lib/progress'
 
-function pluralChapters(n: number): string {
-  const a = n % 10
-  const b = n % 100
-  if (a === 1 && b !== 11) return 'глава'
-  if (a >= 2 && a <= 4 && (b < 10 || b >= 20)) return 'главы'
-  return 'глав'
-}
-
 export function WorkCard({ work, status = 'new' }: { work: CatalogWork; status?: ReadingStatus }) {
   return (
     <Link className="card" to={`/work/${work.id}`}>
@@ -22,11 +14,6 @@ export function WorkCard({ work, status = 'new' }: { work: CatalogWork; status?:
       ) : null}
 
       <div className="card__meta">
-        {work.chapters ? (
-          <span>
-            {work.chapters} {pluralChapters(work.chapters)}
-          </span>
-        ) : null}
         {status === 'done' ? <span className="card__status card__status--done">✓ прочитано</span> : null}
         {status === 'started' ? <span className="card__status card__status--started">● читаю</span> : null}
       </div>
