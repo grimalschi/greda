@@ -1,0 +1,707 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "sredni-vashtar",
+  "level": "b1v2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Sredni Vashtar"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Conradin tenía diez años.",
+          "translationRu": "Конрадину было десять лет."
+        },
+        {
+          "id": "sent-002",
+          "text": "El médico había declarado que el niño no viviría otros cinco años.",
+          "translationRu": "Врач объявил, что мальчик не проживёт ещё пять лет."
+        },
+        {
+          "id": "sent-003",
+          "text": "El médico era suave y débil, y su opinión no importaba mucho.",
+          "translationRu": "Врач был мягким и бесхарактерным человеком, и его мнение не имело большого веса."
+        },
+        {
+          "id": "sent-004",
+          "text": "Pero la señora de Ropp confirmó esa opinión, y ella lo era casi todo para Conradin.",
+          "translationRu": "Но миссис де Ропп подтвердила это мнение, а она значила для Конрадина почти всё."
+        },
+        {
+          "id": "sent-005",
+          "text": "La señora de Ropp era la prima y tutora de Conradin.",
+          "translationRu": "Миссис де Ропп была кузиной и опекуншей Конрадина."
+        },
+        {
+          "id": "sent-006",
+          "text": "En los ojos del niño, ella representaba tres quintas partes del mundo: las partes necesarias, desagradables y reales.",
+          "translationRu": "В глазах мальчика она олицетворяла три пятых мира: те части, которые необходимы, неприятны и реальны."
+        },
+        {
+          "id": "sent-007",
+          "text": "Las otras dos quintas partes eran él mismo y su imaginación, y siempre estaban en conflicto con todo lo demás.",
+          "translationRu": "Другие две пятых — он сам и его воображение, — и они всегда были в противостоянии со всем остальным."
+        },
+        {
+          "id": "sent-008",
+          "text": "Conradin pensaba que algún día cedería ante la presión de las cosas aburridas y necesarias: las enfermedades, las restricciones y el tedio interminable.",
+          "translationRu": "Конрадин думал, что когда-нибудь сдастся под давлением скучных и необходимых вещей: болезней, ограничений и бесконечной скуки."
+        },
+        {
+          "id": "sent-009",
+          "text": "Sin su imaginación, que crecía con fuerza bajo el peso de la soledad, habría cedido mucho tiempo atrás.",
+          "translationRu": "Без воображения, которое бурно расцветало под гнётом одиночества, он сдался бы уже давно."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "La señora de Ropp nunca habría admitido, ni siquiera en sus momentos más honestos, que no le gustaba Conradin.",
+          "translationRu": "Миссис де Ропп никогда бы не призналась, даже в самые честные свои минуты, что Конрадин ей не нравится."
+        },
+        {
+          "id": "sent-011",
+          "text": "Sin embargo, ella era consciente, de forma vaga, de que contrariarlo «por su propio bien» era un deber que no le resultaba especialmente molesto.",
+          "translationRu": "Однако она смутно ощущала, что перечить ему «ради его же блага» — это долг, который не доставлял ей особых неудобств."
+        },
+        {
+          "id": "sent-012",
+          "text": "Conradin la odiaba con una sinceridad desesperada, pero era perfectamente capaz de ocultarlo.",
+          "translationRu": "Конрадин ненавидел её с отчаянной искренностью, но умел это скрывать совершенно."
+        },
+        {
+          "id": "sent-013",
+          "text": "Los pocos placeres que él podía procurarse ganaban un sabor extra porque probablemente disgustarían a su tutora.",
+          "translationRu": "Редкие удовольствия, которые он мог себе устроить, приобретали особую остроту от того, что скорее всего не понравились бы его опекунше."
+        },
+        {
+          "id": "sent-014",
+          "text": "Y del reino de su imaginación ella estaba excluida: era algo impuro que no debía entrar allí.",
+          "translationRu": "Из царства его воображения она была исключена: нечто нечистое, которому не место там."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "El jardín era triste y sin alegría.",
+          "translationRu": "Сад был унылым и безрадостным."
+        },
+        {
+          "id": "sent-016",
+          "text": "Muchas ventanas lo vigilaban, siempre listas para abrirse con un mensaje de que no hiciera esto o aquello, o un recordatorio de que era hora de tomar los medicamentos.",
+          "translationRu": "Множество окон смотрело на него, всегда готовых распахнуться с сообщением, что нельзя делать то или это, или напоминанием, что пора принять лекарства."
+        },
+        {
+          "id": "sent-017",
+          "text": "El jardín ofrecía poca atracción para Conradin.",
+          "translationRu": "Сад мало привлекал Конрадина."
+        },
+        {
+          "id": "sent-018",
+          "text": "Los pocos árboles frutales que había estaban cuidados con celo y él no podía tocar sus frutos, como si fueran ejemplares raros en un desierto árido.",
+          "translationRu": "Немногочисленные фруктовые деревья были тщательно оберегаемы, и он не мог прикоснуться к их плодам, словно это были редкие экземпляры в безводной пустыне."
+        },
+        {
+          "id": "sent-019",
+          "text": "Probablemente habrían valido muy poco dinero en el mercado.",
+          "translationRu": "Скорее всего, они не стоили бы и десяти шиллингов на рынке за весь годовой урожай."
+        },
+        {
+          "id": "sent-020",
+          "text": "Sin embargo, en un rincón olvidado, casi escondido detrás de unos arbustos sombríos, había un viejo cobertizo de herramientas de buen tamaño.",
+          "translationRu": "Однако в забытом углу, почти спрятанный за мрачными кустами, находился старый сарай для инструментов приличного размера."
+        },
+        {
+          "id": "sent-021",
+          "text": "Dentro de sus paredes, Conradin encontraba un refugio.",
+          "translationRu": "Внутри его стен Конрадин находил убежище."
+        },
+        {
+          "id": "sent-022",
+          "text": "Ese lugar tomaba a veces el aspecto de una sala de juegos y a veces el de una catedral.",
+          "translationRu": "Это место принимало то облик игровой комнаты, то облик собора."
+        },
+        {
+          "id": "sent-023",
+          "text": "Conradin lo había llenado con una legión de fantasmas familiares, evocados en parte de fragmentos de historia y en parte de su propia mente.",
+          "translationRu": "Конрадин населил его легионом знакомых призраков, вызванных отчасти из исторических обрывков, отчасти из собственной фантазии."
+        },
+        {
+          "id": "sent-024",
+          "text": "Pero el cobertizo también tenía dos habitantes de carne y hueso.",
+          "translationRu": "Но в сарае было и двое обитателей из плоти и крови."
+        },
+        {
+          "id": "sent-025",
+          "text": "En un rincón vivía una gallina Houdan de plumas desordenadas, a la que el niño dedicaba un cariño que apenas tenía otra salida.",
+          "translationRu": "В одном углу жила растрёпанная курица породы удан, которой мальчик отдавал привязанность, почти не имевшую иного выхода."
+        },
+        {
+          "id": "sent-026",
+          "text": "Más al fondo, en la penumbra, había una jaula grande dividida en dos compartimentos.",
+          "translationRu": "Дальше в полумраке стояла большая клетка, разделённая на два отделения."
+        },
+        {
+          "id": "sent-027",
+          "text": "Uno de los compartimentos tenía barrotes de hierro gruesos en la parte delantera.",
+          "translationRu": "Одно из отделений спереди закрывали толстые железные прутья."
+        },
+        {
+          "id": "sent-028",
+          "text": "Allí vivía un gran hurón-turón que un amigable chico carnicero había metido a escondidas, jaula y todo, a cambio de un montón de monedas de plata que Conradin había guardado en secreto durante mucho tiempo.",
+          "translationRu": "Там жил большой хорёк-перевязка, которого приятель-мясник однажды тайно пронёс туда вместе с клеткой в обмен на долго копившуюся кучку серебряных монет."
+        },
+        {
+          "id": "sent-029",
+          "text": "Conradin tenía mucho miedo del ágil animal de dientes afilados, pero era su posesión más querida.",
+          "translationRu": "Конрадин очень боялся этого юркого существа с острыми зубами, но оно было его самым дорогим владением."
+        },
+        {
+          "id": "sent-030",
+          "text": "La sola presencia de la bestia en el cobertizo era un secreto y aterrador placer.",
+          "translationRu": "Само присутствие зверя в сарае было тайной и пугающей радостью."
+        },
+        {
+          "id": "sent-031",
+          "text": "Era algo que debía ocultarse cuidadosamente del conocimiento de la Mujer, como él llamaba en privado a su prima.",
+          "translationRu": "Это нужно было тщательно скрывать от Женщины — так он мысленно называл свою кузину."
+        },
+        {
+          "id": "sent-032",
+          "text": "Y un día, de no se sabe qué material, Conradin inventó para la bestia un nombre maravilloso.",
+          "translationRu": "И однажды, неизвестно из какого материала, Конрадин придумал для зверя чудесное имя."
+        },
+        {
+          "id": "sent-033",
+          "text": "Desde ese momento, el hurón se convirtió en un dios y en una religión.",
+          "translationRu": "С того момента хорёк стал богом и религией."
+        },
+        {
+          "id": "sent-034",
+          "text": "La Mujer iba a la iglesia del barrio una vez a la semana y llevaba a Conradin con ella.",
+          "translationRu": "Женщина ходила в соседнюю церковь раз в неделю и брала Конрадина с собой."
+        },
+        {
+          "id": "sent-035",
+          "text": "Pero para él el servicio religioso era un rito ajeno, sin sentido.",
+          "translationRu": "Но для него церковная служба была чужим и бессмысленным обрядом."
+        },
+        {
+          "id": "sent-036",
+          "text": "Todos los jueves, en el silencio oscuro y húmedo del cobertizo, él adoraba con ceremonias misteriosas y elaboradas ante la jaula de madera donde vivía Sredni Vashtar, el gran hurón.",
+          "translationRu": "Каждый четверг в тёмной и затхлой тишине сарая он поклонялся с загадочными и тщательно разработанными обрядами перед деревянной клеткой, где жил Средни Вашта́р, великий хорёк."
+        },
+        {
+          "id": "sent-037",
+          "text": "En su época, flores rojas eran ofrecidas en su altar; en invierno, bayas escarlatas.",
+          "translationRu": "В сезон на его алтарь возлагали красные цветы, зимой — алые ягоды."
+        },
+        {
+          "id": "sent-038",
+          "text": "Sredni Vashtar era un dios que valoraba el lado feroz e impaciente de las cosas, lo opuesto a la religión de la Mujer.",
+          "translationRu": "Средни Вашта́р был богом, ценившим яростную и нетерпеливую сторону вещей — противоположность религии Женщины."
+        },
+        {
+          "id": "sent-039",
+          "text": "La religión de la Mujer, según Conradin podía observar, se esforzaba mucho en la dirección contraria.",
+          "translationRu": "Религия Женщины, насколько мог судить Конрадин, прилагала большие усилия в противоположном направлении."
+        },
+        {
+          "id": "sent-040",
+          "text": "En las grandes fiestas, nuez moscada en polvo era esparcida frente a su jaula.",
+          "translationRu": "В великие праздники перед клеткой рассыпали молотый мускатный орех."
+        },
+        {
+          "id": "sent-041",
+          "text": "Lo importante era que la nuez moscada tenía que ser robada.",
+          "translationRu": "Важным условием было то, что мускатный орех должен быть украден."
+        },
+        {
+          "id": "sent-042",
+          "text": "Estas fiestas ocurrían de forma irregular y servían principalmente para celebrar algún evento especial.",
+          "translationRu": "Эти праздники устраивались нерегулярно и служили главным образом для отмечания какого-нибудь особого события."
+        },
+        {
+          "id": "sent-043",
+          "text": "En una ocasión, cuando la señora de Ropp sufrió un fuerte dolor de muelas durante tres días, Conradin mantuvo la fiesta durante esos tres días enteros.",
+          "translationRu": "Однажды, когда у миссис де Ропп три дня болел зуб, Конрадин праздновал все эти три дня подряд."
+        },
+        {
+          "id": "sent-044",
+          "text": "Casi logró convencerse de que Sredni Vashtar era personalmente responsable del dolor de muelas.",
+          "translationRu": "Он почти убедил себя, что Средни Вашта́р лично виновен в этой зубной боли."
+        },
+        {
+          "id": "sent-045",
+          "text": "Si el dolor hubiera durado un día más, se habría acabado la nuez moscada.",
+          "translationRu": "Если бы боль продолжалась ещё день, запас мускатного ореха иссяк бы."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-046",
+          "text": "La gallina Houdan nunca fue incluida en el culto de Sredni Vashtar.",
+          "translationRu": "Курица удан никогда не была включена в культ Средни Вашта́ра."
+        },
+        {
+          "id": "sent-047",
+          "text": "Conradin había decidido hace mucho tiempo que ella era anabaptista.",
+          "translationRu": "Конрадин давно решил, что она анабаптистка."
+        },
+        {
+          "id": "sent-048",
+          "text": "No pretendía saber lo más mínimo sobre qué era un anabaptista.",
+          "translationRu": "Он не претендовал на малейшее знание о том, что такое анабаптист."
+        },
+        {
+          "id": "sent-049",
+          "text": "Pero esperaba en secreto que fuera algo atrevido y no muy respetable.",
+          "translationRu": "Но втайне надеялся, что это нечто дерзкое и не слишком респектабельное."
+        },
+        {
+          "id": "sent-050",
+          "text": "La señora de Ropp era el modelo sobre el cual Conradin basaba y detestaba toda la respetabilidad.",
+          "translationRu": "Миссис де Ропп была образцом, на котором Конрадин основывал и ненавидел всякую респектабельность."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-051",
+          "text": "Con el tiempo, la frecuencia con la que Conradin visitaba el cobertizo comenzó a llamar la atención de su tutora.",
+          "translationRu": "Со временем частота посещений Конрадина в сарай начала привлекать внимание его опекунши."
+        },
+        {
+          "id": "sent-052",
+          "text": "«No le hace bien andar por allí con todo tipo de clima», decidió ella rápidamente.",
+          "translationRu": "«Ему не на пользу слоняться там в любую погоду», — быстро решила она."
+        },
+        {
+          "id": "sent-053",
+          "text": "Una mañana en el desayuno anunció que la gallina Houdan había sido vendida y se la habían llevado durante la noche.",
+          "translationRu": "Однажды утром за завтраком она объявила, что курицу удан продали и забрали ночью."
+        },
+        {
+          "id": "sent-054",
+          "text": "Con sus ojos miopes, observó a Conradin, esperando un estallido de rabia y tristeza, al que estaba lista para responder con un flujo de excelentes consejos y razonamientos.",
+          "translationRu": "Сощурив близорукие глаза, она наблюдала за Конрадином, ожидая взрыва гнева и горя, на который была готова ответить потоком превосходных наставлений и доводов."
+        },
+        {
+          "id": "sent-055",
+          "text": "Pero Conradin no dijo nada: no había nada que decir.",
+          "translationRu": "Но Конрадин ничего не сказал: не было что сказать."
+        },
+        {
+          "id": "sent-056",
+          "text": "Algo en su cara pálida y tensa le causó a ella un momento de inquietud.",
+          "translationRu": "Что-то в его бледном, застывшем лице вызвало у неё мгновение беспокойства."
+        },
+        {
+          "id": "sent-057",
+          "text": "Esa tarde en el té había tostadas en la mesa, una cosa que ella normalmente prohibía porque era malo para él.",
+          "translationRu": "В тот день к чаю на столе стояли тосты — лакомство, которое она обычно запрещала, потому что это вредно для него."
+        },
+        {
+          "id": "sent-058",
+          "text": "También las prohibía porque hacerlas «daba trabajo», algo imperdonable a sus ojos.",
+          "translationRu": "Запрещала и потому, что их приготовление «доставляло хлопоты» — нечто непростительное в её глазах."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-059",
+          "text": "«Pensé que te gustaban las tostadas», exclamó ella con un tono herido, al ver que él no las tocaba.",
+          "translationRu": "«Я думала, ты любишь тосты», — воскликнула она обиженным тоном, видя, что он к ним не прикасается."
+        },
+        {
+          "id": "sent-060",
+          "text": "«A veces», dijo Conradin.",
+          "translationRu": "«Иногда», — сказал Конрадин."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-061",
+          "text": "Esa tarde en el cobertizo había una novedad en la adoración de la jaula-dios.",
+          "translationRu": "В тот вечер в сарае появилась новая черта в поклонении богу-клетки."
+        },
+        {
+          "id": "sent-062",
+          "text": "Conradin solía cantar alabanzas, pero esa noche pidió un favor.",
+          "translationRu": "Конрадин обычно пел хвалы, но в тот вечер попросил об одном даре."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-063",
+          "text": "«Haz una cosa por mí, Sredni Vashtar».",
+          "translationRu": "«Сделай одно дело для меня, Средни Вашта́р»."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-064",
+          "text": "La cosa no fue especificada.",
+          "translationRu": "Что именно — он не уточнял."
+        },
+        {
+          "id": "sent-065",
+          "text": "Como Sredni Vashtar era un dios, debía saberlo.",
+          "translationRu": "Раз Средни Вашта́р бог, он должен знать."
+        },
+        {
+          "id": "sent-066",
+          "text": "Y conteniendo un sollozo mientras miraba aquel rincón vacío, Conradin volvió al mundo que tanto odiaba.",
+          "translationRu": "Сдерживая рыдание и глядя на опустевший угол, Конрадин вернулся в мир, который так ненавидел."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-067",
+          "text": "Y cada noche, en la bienvenida oscuridad de su dormitorio, y cada tarde en el cobertizo oscuro, la amarga letanía de Conradin se repetía: «Haz una cosa por mí, Sredni Vashtar».",
+          "translationRu": "И каждую ночь в желанной темноте своей спальни, и каждый вечер в сумраке сарая горькая молитва Конрадина повторялась: «Сделай одно дело для меня, Средни Вашта́р»."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-068",
+          "text": "La señora de Ropp notó que las visitas al cobertizo no cesaban.",
+          "translationRu": "Миссис де Ропп заметила, что посещения сарая не прекращаются."
+        },
+        {
+          "id": "sent-069",
+          "text": "Un día hizo otra visita de inspección.",
+          "translationRu": "Однажды она снова отправилась туда с проверкой."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-070",
+          "text": "«¿Qué tienes en esa jaula cerrada?», preguntó.",
+          "translationRu": "«Что ты держишь в этой запертой клетке?» — спросила она."
+        },
+        {
+          "id": "sent-071",
+          "text": "«Creo que son conejillos de indias.",
+          "translationRu": "«Думаю, это морские свинки."
+        },
+        {
+          "id": "sent-072",
+          "text": "Los haré quitar a todos».",
+          "translationRu": "Прикажу убрать их всех»."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-073",
+          "text": "Conradin apretó los labios sin decir nada.",
+          "translationRu": "Конрадин крепко сжал губы и промолчал."
+        },
+        {
+          "id": "sent-074",
+          "text": "Pero la Mujer registró su dormitorio hasta encontrar la llave cuidadosamente escondida.",
+          "translationRu": "Но Женщина обыскала его спальню и нашла тщательно спрятанный ключ."
+        },
+        {
+          "id": "sent-075",
+          "text": "Luego bajó al cobertizo para completar su descubrimiento.",
+          "translationRu": "Затем спустилась в сарай, чтобы завершить своё расследование."
+        },
+        {
+          "id": "sent-076",
+          "text": "Era una tarde fría, y Conradin había recibido la orden de quedarse en casa.",
+          "translationRu": "Стоял холодный день, и Конрадину велели оставаться в доме."
+        },
+        {
+          "id": "sent-077",
+          "text": "Desde la ventana más lejana del comedor se podía ver apenas la puerta del cobertizo, más allá del rincón de los arbustos.",
+          "translationRu": "Из самого дальнего окна столовой едва виднелась дверь сарая за углом кустарника."
+        },
+        {
+          "id": "sent-078",
+          "text": "Allí se colocó Conradin.",
+          "translationRu": "Именно там встал Конрадин."
+        },
+        {
+          "id": "sent-079",
+          "text": "Vio a la Mujer entrar en el cobertizo.",
+          "translationRu": "Он видел, как Женщина вошла в сарай."
+        },
+        {
+          "id": "sent-080",
+          "text": "Luego imaginó cómo ella abría la puerta de la sagrada jaula y miraba con sus ojos miopes hacia la espesa cama de paja donde su dios estaba escondido.",
+          "translationRu": "Затем он представил, как она открывает дверь священной клетки и смотрит близорукими глазами в густую подстилку из соломы, где скрывался его бог."
+        },
+        {
+          "id": "sent-081",
+          "text": "Quizás hurgara en la paja con su torpe impaciencia.",
+          "translationRu": "Возможно, она копалась бы в соломе со своей неловкой нетерпеливостью."
+        },
+        {
+          "id": "sent-082",
+          "text": "Y Conradin pronunció su oración con fervor por última vez.",
+          "translationRu": "И Конрадин с жаром произнёс свою молитву в последний раз."
+        },
+        {
+          "id": "sent-083",
+          "text": "Pero sabía, mientras oraba, que no creía.",
+          "translationRu": "Но он знал, пока молился, что не верит."
+        },
+        {
+          "id": "sent-084",
+          "text": "Sabía que la Mujer saldría pronto con aquella sonrisa fruncida que él tanto odiaba.",
+          "translationRu": "Он знал, что Женщина скоро выйдет с той поджатой улыбкой, которую он так ненавидел."
+        },
+        {
+          "id": "sent-085",
+          "text": "Y que en una hora o dos el jardinero se llevaría a su maravilloso dios, ya no dios, sino un simple hurón marrón en una jaula.",
+          "translationRu": "И что через час-другой садовник уберёт его чудесного бога — уже не бога, а просто коричневого хорька в клетке."
+        },
+        {
+          "id": "sent-086",
+          "text": "Sabía que la Mujer siempre triunfaría, como triunfaba ahora.",
+          "translationRu": "Он знал, что Женщина всегда будет торжествовать, как торжествует сейчас."
+        },
+        {
+          "id": "sent-087",
+          "text": "Y que él se volvería cada vez más enfermizo bajo su acoso, su dominio y su supuesta sabiduría superior.",
+          "translationRu": "И что он будет становиться всё более болезненным под её преследованием, господством и мнимым превосходящим умом."
+        },
+        {
+          "id": "sent-088",
+          "text": "Hasta que un día ya nada importaría mucho, y el médico resultaría tener razón.",
+          "translationRu": "Пока однажды уже ничто не будет иметь значения, и врач окажется прав."
+        },
+        {
+          "id": "sent-089",
+          "text": "Y en el dolor y la miseria de su derrota, comenzó a cantar en voz alta y con desafío el himno de su ídolo amenazado:",
+          "translationRu": "И в боли и горечи своего поражения он начал громко и вызывающе петь гимн своему поруганному идолу:"
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-090",
+          "text": "Sredni Vashtar fue adelante.",
+          "translationRu": "Средни Вашта́р пошёл вперёд."
+        },
+        {
+          "id": "sent-091",
+          "text": "Sus pensamientos eran pensamientos rojos y sus dientes eran blancos.",
+          "translationRu": "Его мысли были красными мыслями, а зубы белыми."
+        },
+        {
+          "id": "sent-092",
+          "text": "Sus enemigos pedían paz, pero él les trajo la muerte.",
+          "translationRu": "Его враги просили мира, но он принёс им смерть."
+        },
+        {
+          "id": "sent-093",
+          "text": "Sredni Vashtar el Hermoso.",
+          "translationRu": "Средни Вашта́р Прекрасный."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-094",
+          "text": "Y de repente dejó de cantar y se acercó más al cristal de la ventana.",
+          "translationRu": "И вдруг он замолчал и придвинулся ближе к стеклу."
+        },
+        {
+          "id": "sent-095",
+          "text": "La puerta del cobertizo seguía entreabierta como la habían dejado, y los minutos pasaban.",
+          "translationRu": "Дверь сарая по-прежнему стояла приоткрытой, как её оставили, и минуты тянулись."
+        },
+        {
+          "id": "sent-096",
+          "text": "Eran minutos largos, pero pasaban de todas formas.",
+          "translationRu": "Это были долгие минуты, но они всё же проходили."
+        },
+        {
+          "id": "sent-097",
+          "text": "Él observaba los estorninos que corrían y volaban en pequeños grupos por el jardín.",
+          "translationRu": "Он наблюдал, как скворцы бегали и летали небольшими группами по лужайке."
+        },
+        {
+          "id": "sent-098",
+          "text": "Los contó una y otra vez, con un ojo siempre puesto en aquella puerta que se movía.",
+          "translationRu": "Считал их снова и снова, не отрывая одного глаза от этой покачивающейся двери."
+        },
+        {
+          "id": "sent-099",
+          "text": "Una criada de cara agria entró para poner la mesa para el té.",
+          "translationRu": "Горничная с кислым лицом вошла накрывать к чаю."
+        },
+        {
+          "id": "sent-100",
+          "text": "Pero Conradin seguía de pie, esperando y mirando.",
+          "translationRu": "Но Конрадин по-прежнему стоял, ожидая и глядя."
+        },
+        {
+          "id": "sent-101",
+          "text": "La esperanza había entrado poco a poco en su corazón.",
+          "translationRu": "Надежда незаметно вползла в его сердце."
+        },
+        {
+          "id": "sent-102",
+          "text": "Y ahora una mirada de triunfo comenzó a brillar en sus ojos, ojos que solo habían conocido la paciente resignación de la derrota.",
+          "translationRu": "И теперь в его глазах — глазах, знавших лишь тоскливое терпение поражения, — начал разгораться триумф."
+        },
+        {
+          "id": "sent-103",
+          "text": "Bajo su aliento, con una exultación furtiva, comenzó de nuevo el canto de victoria y destrucción.",
+          "translationRu": "Вполголоса, с тайным торжеством, он снова начал петь гимн победы и разрушения."
+        },
+        {
+          "id": "sent-104",
+          "text": "Y enseguida sus ojos fueron recompensados: por aquella puerta salió una bestia larga, baja, de color amarillo y marrón, con los ojos parpadeando bajo la luz del día que se apagaba.",
+          "translationRu": "И вскоре его глаза получили награду: из того дверного проёма вышло длинное, низкое существо жёлто-коричневого цвета, щурящее глаза на гаснущий дневной свет."
+        },
+        {
+          "id": "sent-105",
+          "text": "Alrededor de la piel de sus mandíbulas y su garganta había manchas oscuras y húmedas.",
+          "translationRu": "Вокруг шерсти на его челюстях и горле были тёмные влажные пятна."
+        },
+        {
+          "id": "sent-106",
+          "text": "Conradin cayó de rodillas.",
+          "translationRu": "Конрадин упал на колени."
+        },
+        {
+          "id": "sent-107",
+          "text": "El gran hurón-turón bajó hacia un pequeño arroyo al pie del jardín.",
+          "translationRu": "Великий хорёк-перевязка спустился к маленькому ручью у подножия сада."
+        },
+        {
+          "id": "sent-108",
+          "text": "Bebió por un momento, luego cruzó un pequeño puente de tablas y desapareció entre los arbustos.",
+          "translationRu": "Напился немного, затем перешёл через маленький дощатый мостик и исчез в кустах."
+        },
+        {
+          "id": "sent-109",
+          "text": "Así fue el paso de Sredni Vashtar.",
+          "translationRu": "Так прошёл Средни Вашта́р."
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-110",
+          "text": "«El té está listo», dijo la criada de cara agria.",
+          "translationRu": "«Чай готов», — сказала горничная с кислым лицом."
+        },
+        {
+          "id": "sent-111",
+          "text": "«¿Dónde está la señora?»",
+          "translationRu": "«Где хозяйка?»"
+        },
+        {
+          "id": "sent-112",
+          "text": "«Bajó al cobertizo hace un rato», dijo Conradin.",
+          "translationRu": "«Она пошла в сарай некоторое время назад», — сказал Конрадин."
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-113",
+          "text": "Mientras la criada iba a llamar a su ama para el té, Conradin sacó un tenedor para tostadas del cajón del aparador.",
+          "translationRu": "Пока горничная шла звать хозяйку к чаю, Конрадин достал вилку для тостов из ящика буфета."
+        },
+        {
+          "id": "sent-114",
+          "text": "Empezó a tostar un trozo de pan.",
+          "translationRu": "И принялся поджаривать кусок хлеба."
+        },
+        {
+          "id": "sent-115",
+          "text": "Y durante el tostado, y el untado con mucha mantequilla, y el lento placer de comerlo, Conradin escuchó los ruidos y silencios que llegaban en rápidas ráfagas desde más allá de la puerta del comedor.",
+          "translationRu": "И пока он поджаривал тост, намазывал его обильным маслом и медленно наслаждался едой, Конрадин прислушивался к звукам и паузам, которые быстрыми волнами доносились из-за двери столовой."
+        },
+        {
+          "id": "sent-116",
+          "text": "Los fuertes gritos tontos de la criada, el coro de exclamaciones de asombro desde la cocina.",
+          "translationRu": "Громкие бессмысленные крики горничной, хор изумлённых восклицаний с кухни."
+        },
+        {
+          "id": "sent-117",
+          "text": "Los pasos apresurados y los mensajes urgentes para pedir ayuda del exterior.",
+          "translationRu": "Торопливые шаги и срочные просьбы позвать помощь снаружи."
+        },
+        {
+          "id": "sent-118",
+          "text": "Y luego, tras un silencio, los sollozos asustados y los pasos lentos de quienes llevaban un peso pesado hacia la casa.",
+          "translationRu": "А потом, после паузы, испуганные рыдания и медленные шаги тех, кто нёс в дом тяжёлую ношу."
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-119",
+          "text": "«¿Quién le dará la noticia al pobre niño?",
+          "translationRu": "«Кто скажет об этом бедному ребёнку?"
+        },
+        {
+          "id": "sent-120",
+          "text": "¡Yo no podría aunque me fuera la vida en ello!», exclamó una voz aguda.",
+          "translationRu": "Я не смогла бы, даже если бы это стоило мне жизни!» — воскликнул пронзительный голос."
+        },
+        {
+          "id": "sent-121",
+          "text": "Y mientras ellos debatían el asunto entre sí, Conradin se hizo otra tostada.",
+          "translationRu": "И пока они обсуждали это между собой, Конрадин сделал себе ещё один тост."
+        }
+      ]
+    }
+  ]
+}

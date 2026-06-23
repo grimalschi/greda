@@ -24,8 +24,8 @@
       "chapterCount": 0
     },
     "b1": {
-      "available": true,
-      "chapterCount": 1
+      "available": false,
+      "chapterCount": 0
     },
     "b2": {
       "available": false,
@@ -38,6 +38,10 @@
     "c2": {
       "available": false,
       "chapterCount": 0
+    },
+    "b1v2": {
+      "available": true,
+      "chapterCount": 1
     }
   }
 }

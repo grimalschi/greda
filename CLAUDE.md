@@ -15,7 +15,8 @@ shorts, Chekhov, Tolstoy, O. Henry, Mansfield, Woolf, Akutagawa, Tagore, Bunin, 
 M. R. James, Blackwood, Dunsany, Fitzgerald, Lovecraft, Twain shorts, Cather, Pirandello, Gorky, …).
 All from Project Gutenberg (first published ≤1930 → US public domain). Long novels are **multi-chapter**
 (4–11 ch); short stories are single-chapter (complete arc). The 87 classics are A2–C1 only. **The 47 new
-classics are faithful `b1` only** (single chapter, "simpler-not-shorter" method below). A handful of
+classics are faithful `b1v2` only** (single chapter, "simpler-not-shorter" method below; labeled `b1v2`
+— not base `b1` — so they group with the Holmes re-takes under the «B1 v2» faithful filter). A handful of
 planned works were dropped because Anthropic's output content-filter persistently blocked their core
 scenes (In the Penal Colony, The Machine Stops, Casting the Runes, Benjamin Button) or they exceeded
 ~50 pp (Death in Venice, The Seven Who Were Hanged, The Forged Coupon). Plan→Gutenberg-ID mapping for
@@ -78,9 +79,10 @@ blocking generation). Spec: `.plan/spec-faithful.md`.
   method. The 47 world classics (2026-06-23) are faithful from the start.
 - **`b1v2` (optional extra level, label "B1 v2"):** a faithful re-take that coexists with the base 6
   levels — used on the 10 Sherlock Holmes stories + `the-yellow-face` for side-by-side comparison with
-  their legacy soft `b1`. Each b1v2 is **single-chapter** (matches the original short-story structure and
-  the sibling a1–c2 levels). New faithful works for *new* authors just use base **`b1`** (no v1 to
-  compare against). Non-base levels are wired through `schemas/` (`level` enums + `work.levels.b1v2`),
+  their legacy soft `b1`, AND on the 47 world classics (2026-06-23), which have ONLY `b1v2`
+  (`b1.available=false`) so the «B1 v2» filter groups all faithful content. Each b1v2 is
+  **single-chapter** (matches the original short-story structure and the sibling levels).
+  Non-base levels are wired through `schemas/` (`level` enums + `work.levels.b1v2`),
   `scripts/build-catalog.mjs` (preserves extra levels), `validate-content.mjs`, `src/types.ts`
   (`Level`/`LEVEL_ORDER`/`LEVEL_LABELS`), and `WorkPage`/`WorkCard`/`HomePage` (render b1v2 only where present).
 - **Reader (`ReaderPage`):** click a Spanish sentence to reveal its Russian translation; click the Russian
