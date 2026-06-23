@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-secret-sharer",
+  "title": "El cómplice secreto",
+  "titleRu": "Тайный сообщник",
+  "originalTitle": "The Secret Sharer",
+  "author": {
+    "id": "joseph-conrad",
+    "name": "Joseph Conrad"
+  },
+  "genres": [
+    "Классика",
+    "Море",
+    "Психология"
+  ],
+  "synopsisRu": "",
+  "levels": {
+    "a1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "a2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}
