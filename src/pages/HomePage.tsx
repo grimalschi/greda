@@ -8,7 +8,7 @@ import { fetchCatalog } from '../lib/content'
 import { useAppState } from '../state/store'
 import { workReadingStatus } from '../lib/progress'
 import type { ReadingStatus } from '../lib/progress'
-import { LEVELS, LEVEL_LABELS } from '../types'
+import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
 import type { CatalogWork, Level } from '../types'
 
 function matches(w: CatalogWork, q: string): boolean {
@@ -43,6 +43,13 @@ export function HomePage() {
     const set = new Set<string>()
     for (const w of catalog?.works ?? []) if (w.genres[0]) set.add(w.genres[0])
     return [...set].sort((a, b) => a.localeCompare(b, 'ru'))
+  }, [catalog])
+
+  // Базовые 6 уровней + любые доп. уровни (напр. b1v2), реально присутствующие в каталоге.
+  const filterLevels = useMemo(() => {
+    const present = new Set<Level>()
+    for (const w of catalog?.works ?? []) for (const l of w.availableLevels) present.add(l)
+    return LEVEL_ORDER.filter((l) => LEVELS.includes(l) || present.has(l))
   }, [catalog])
 
   // Сводка прогресса по всей библиотеке.
@@ -148,7 +155,7 @@ export function HomePage() {
               >
                 Все уровни
               </button>
-              {LEVELS.map((l) => (
+              {filterLevels.map((l) => (
                 <button
                   key={l}
                   className={`chip-btn chip-btn--sm ${level === l ? 'chip-btn--active' : ''}`}

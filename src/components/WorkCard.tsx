@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { LEVELS, LEVEL_LABELS } from '../types'
+import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
 import type { CatalogWork } from '../types'
 import type { ReadingStatus } from '../lib/progress'
 
@@ -32,7 +32,7 @@ export function WorkCard({ work, status = 'new' }: { work: CatalogWork; status?:
       </div>
 
       <div className="levels">
-        {LEVELS.map((l) => {
+        {LEVEL_ORDER.filter((l) => LEVELS.includes(l) || work.availableLevels.includes(l)).map((l) => {
           const has = work.availableLevels.includes(l)
           const w = work.words?.[l]
           return (
