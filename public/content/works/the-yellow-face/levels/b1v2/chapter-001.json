@@ -2038,8 +2038,18 @@
       "sentences": [
         {
           "id": "sent-330",
-          "text": "«No. Después de su muerte en Atlanta hubo un gran incendio. Todos sus papeles se quemaron.»",
-          "translationRu": "«Нет. После его смерти в Атланте был большой пожар. Все её бумаги сгорели.»"
+          "text": "«No.",
+          "translationRu": "«Нет."
+        },
+        {
+          "id": "sent-331",
+          "text": "Después de su muerte en Atlanta hubo un gran incendio.",
+          "translationRu": "После его смерти в Атланте был большой пожар."
+        },
+        {
+          "id": "sent-332",
+          "text": "Todos sus papeles se quemaron.»",
+          "translationRu": "Все её бумаги сгорели.»"
         }
       ]
     },
@@ -2047,7 +2057,7 @@
       "id": "para-078",
       "sentences": [
         {
-          "id": "sent-331",
+          "id": "sent-333",
           "text": "«¿Conociste a alguien que la conociera en América?», preguntó Holmes.",
           "translationRu": "«Ты встречал кого-нибудь, кто знал её в Америке?» — спросил Холмс."
         }
@@ -2057,7 +2067,7 @@
       "id": "para-079",
       "sentences": [
         {
-          "id": "sent-332",
+          "id": "sent-334",
           "text": "«No», respondió Munro.",
           "translationRu": "«Нет,» — ответил Манро."
         }
@@ -2067,32 +2077,32 @@
       "id": "para-080",
       "sentences": [
         {
-          "id": "sent-333",
+          "id": "sent-335",
           "text": "Holmes se recostó en su sillón.",
           "translationRu": "Холмс откинулся в кресле."
         },
         {
-          "id": "sent-334",
+          "id": "sent-336",
           "text": "«Deberías volver a Norbury y observar nuevamente el coттédej.»",
           "translationRu": "«Ты должен вернуться в Норбери и ещё раз посмотреть на коттедж.»"
         },
         {
-          "id": "sent-335",
+          "id": "sent-337",
           "text": "«Si crees que está habitado, no entres por la fuerza.",
           "translationRu": "«Если ты думаешь, что он обитаем, не входи насилу."
         },
         {
-          "id": "sent-336",
+          "id": "sent-338",
           "text": "Simplemente envía un telegrama.»",
           "translationRu": "Просто отправь телеграмму.»"
         },
         {
-          "id": "sent-337",
+          "id": "sent-339",
           "text": "«Watson y yo llegaremos en menos de una hora.",
           "translationRu": "«Уотсон и я приедем менее чем за час."
         },
         {
-          "id": "sent-338",
+          "id": "sent-340",
           "text": "Entonces descubriremos la verdad.»",
           "translationRu": "Тогда мы узнаем правду.»"
         }
@@ -2102,12 +2112,12 @@
       "id": "para-081",
       "sentences": [
         {
-          "id": "sent-339",
+          "id": "sent-341",
           "text": "Después de que Munro se fue, Holmes se quedó pensativo.",
           "translationRu": "После того как Манро ушёл, Холмс остался задумчивым."
         },
         {
-          "id": "sent-340",
+          "id": "sent-342",
           "text": "«Este es un mal asunto, Watson», dijo.",
           "translationRu": "«Это плохое дело, Уотсон,» — сказал он."
         }
@@ -2117,12 +2127,12 @@
       "id": "para-082",
       "sentences": [
         {
-          "id": "sent-341",
+          "id": "sent-343",
           "text": "«Tengo una teoría», continuó Holmes.",
           "translationRu": "«У меня есть теория,» — продолжил Холмс."
         },
         {
-          "id": "sent-342",
+          "id": "sent-344",
           "text": "«Creo que el primer marido de Effie está en ese coттédej.»",
           "translationRu": "«Я думаю, что первый муж Эффи находится в том коттедже.»"
         }
@@ -2132,7 +2142,7 @@
       "id": "para-083",
       "sentences": [
         {
-          "id": "sent-343",
+          "id": "sent-345",
           "text": "«¿Por qué crees eso?», preguntó Watson.",
           "translationRu": "«Почему ты так думаешь?» — спросил Уотсон."
         }
@@ -2142,7 +2152,7 @@
       "id": "para-084",
       "sentences": [
         {
-          "id": "sent-344",
+          "id": "sent-346",
           "text": "«Piensa en su desesperación cuando quiso impedir que Munro entrara en el coттédej», explicó Holmes.",
           "translationRu": "«Думай о её отчаянии, когда она хотела помешать Манро войти в коттедж,» — объяснил Холмс."
         }
@@ -2152,22 +2162,22 @@
       "id": "para-085",
       "sentences": [
         {
-          "id": "sent-345",
+          "id": "sent-347",
           "text": "«Aquí está lo que creo que pasó.",
           "translationRu": "«Вот что я думаю, что произошло."
         },
         {
-          "id": "sent-346",
+          "id": "sent-348",
           "text": "Esta mujer estaba casada en América.»",
           "translationRu": "Эта женщина была замужем в Америке.»"
         },
         {
-          "id": "sent-347",
+          "id": "sent-349",
           "text": "«Su marido desarrolló cualidades horribles, o se enfermó con algo terrible, como la lepra o una enfermedad de la mente.»",
           "translationRu": "«Её муж развил ужасные качества, или заболел чем-то страшным, например проказой или болезнью ума.»"
         },
         {
-          "id": "sent-348",
+          "id": "sent-350",
           "text": "«Ella escapó de él, regresó a Inglaterra, cambió su nombre y empezó una nueva vida.»",
           "translationRu": "«Она сбежала от него, вернулась в Англию, сменила имя и начала новую жизнь.»"
         }
@@ -2177,17 +2187,17 @@
       "id": "para-086",
       "sentences": [
         {
-          "id": "sent-349",
+          "id": "sent-351",
           "text": "«Ella se casó con Munro, y durante tres años ha estado segura, creyendo que su primer marido estaba muerto.»",
           "translationRu": "«Она вышла замуж за Манро, и три года была в безопасности, думая, что её первый муж был мёртв.»"
         },
         {
-          "id": "sent-350",
+          "id": "sent-352",
           "text": "«Pero de repente su paradero fue descubierto.",
           "translationRu": "«Но вдруг её местоположение было обнаружено."
         },
         {
-          "id": "sent-351",
+          "id": "sent-353",
           "text": "O tal vez fue encontrada por una mujer sin escrúpulos que se apegó al primer marido.»",
           "translationRu": "Или, возможно, её нашла бессовестная женщина, которая привязалась к её первому мужу.»"
         }
@@ -2197,17 +2207,17 @@
       "id": "para-087",
       "sentences": [
         {
-          "id": "sent-352",
+          "id": "sent-354",
           "text": "«Escribieron a su esposa y amenazaron con exponerla.",
           "translationRu": "«Они написали его жене и угрожали разоблачить её."
         },
         {
-          "id": "sent-353",
+          "id": "sent-355",
           "text": "Ella pidió cien libras para comprarlos.»",
           "translationRu": "Она просила сто фунтов, чтобы откупиться.»"
         },
         {
-          "id": "sent-354",
+          "id": "sent-356",
           "text": "«Pero los perseguidores vinieron de todas formas, y cuando Munro mencionó casualmente los nuevos vecinos, ella supo quiénes eran.»",
           "translationRu": "«Но преследователи пришли всё равно, и когда Манро случайно упомянул новых соседей, она знала, кто они были.»"
         }
@@ -2217,17 +2227,17 @@
       "id": "para-088",
       "sentences": [
         {
-          "id": "sent-355",
+          "id": "sent-357",
           "text": "«Esperó hasta que su marido se durmiera, luego corrió al coттédej para convencerlos de dejarla en paz.»",
           "translationRu": "«Она ждала, пока её муж заснёт, потом побежала в коттедж, чтобы убедить их оставить её в покое.»"
         },
         {
-          "id": "sent-356",
+          "id": "sent-358",
           "text": "«Sin éxito, regresó a la mañana siguiente.",
           "translationRu": "«Безуспешно, она вернулась следующим утром."
         },
         {
-          "id": "sent-357",
+          "id": "sent-359",
           "text": "Munro la encontró cuando salía del coттédej.»",
           "translationRu": "Манро встретил её, когда она выходила из коттеджа.»"
         }
@@ -2237,12 +2247,12 @@
       "id": "para-089",
       "sentences": [
         {
-          "id": "sent-358",
+          "id": "sent-360",
           "text": "«Ella le prometió que no iría más, pero dos días después, la esperanza de librarse de esos terribles vecinos fue muy fuerte.»",
           "translationRu": "«Она обещала ему не ходить больше, но два дня спустя надежда избавиться от этих ужасных соседей была слишком сильна.»"
         },
         {
-          "id": "sent-359",
+          "id": "sent-361",
           "text": "«Hizo otro intento, llevando la fotografía que probablemente le exigieron.»",
           "translationRu": "«Она сделала ещё одну попытку, неся фотографию, которую, вероятно, у неё требовали.»"
         }
@@ -2252,12 +2262,12 @@
       "id": "para-090",
       "sentences": [
         {
-          "id": "sent-360",
+          "id": "sent-362",
           "text": "«Cuando la criada corrió para avisar que el amo había llegado, su esposa apresuradamente sacó a los residentes por la puerta trasera.»",
           "translationRu": "«Когда служанка побежала предупредить, что хозяин пришёл, его жена поспешно вывела жильцов через чёрный ход.»"
         },
         {
-          "id": "sent-361",
+          "id": "sent-363",
           "text": "«Por eso encontró el coттédej vacío.»",
           "translationRu": "«По этой причине он нашёл коттедж пустым.»"
         }
@@ -2267,7 +2277,7 @@
       "id": "para-091",
       "sentences": [
         {
-          "id": "sent-362",
+          "id": "sent-364",
           "text": "«Pero estaré muy sorprendido si está vacío cuando lo inspeccione esta noche.»",
           "translationRu": "«Но я буду очень удивлён, если он будет пуст, когда он его проверит этим вечером.»"
         }
@@ -2277,12 +2287,12 @@
       "id": "para-092",
       "sentences": [
         {
-          "id": "sent-363",
+          "id": "sent-365",
           "text": "Watson meditó en la teoría de Holmes.",
           "translationRu": "Уотсон раздумал над теорией Холмса."
         },
         {
-          "id": "sent-364",
+          "id": "sent-366",
           "text": "«Es solo una conjetura», dijo.",
           "translationRu": "«Это только предположение,» — сказал он."
         }
@@ -2292,22 +2302,22 @@
       "id": "para-093",
       "sentences": [
         {
-          "id": "sent-365",
+          "id": "sent-367",
           "text": "Holmes asintió lentamente.",
           "translationRu": "Холмс медленно кивнул."
         },
         {
-          "id": "sent-366",
+          "id": "sent-368",
           "text": "«Pero explica todos los hechos que conocemos.»",
           "translationRu": "«Но это объясняет все известные нам факты.»"
         },
         {
-          "id": "sent-367",
+          "id": "sent-369",
           "text": "«Cuando tengamos nuevos hechos que no puedan explicarse por mi teoría, entonces reconsideraremos.»",
           "translationRu": "«Когда у нас будут новые факты, которые не объясняются моей теорией, тогда мы пересмотрим.»"
         },
         {
-          "id": "sent-368",
+          "id": "sent-370",
           "text": "«Por ahora, esperamos noticias de nuestro amigo en Norbury.»",
           "translationRu": "«А пока ждём новостей от нашего друга в Норбери.»"
         }
@@ -2317,27 +2327,27 @@
       "id": "para-094",
       "sentences": [
         {
-          "id": "sent-369",
+          "id": "sent-371",
           "text": "La respuesta llegó justo cuando terminábamos de tomar el té.",
           "translationRu": "Ответ пришёл как раз, когда мы закончили пить чай."
         },
         {
-          "id": "sent-370",
+          "id": "sent-372",
           "text": "El telegrama decía: «La casa sigue ocupada.",
           "translationRu": "Телеграмма гласила: «Дом по-прежнему занят."
         },
         {
-          "id": "sent-371",
+          "id": "sent-373",
           "text": "Otra vez vi la cara en la ventana.",
           "translationRu": "Я снова видел лицо в окне."
         },
         {
-          "id": "sent-372",
+          "id": "sent-374",
           "text": "Vendré a la estación a las siete.",
           "translationRu": "Встречу поезд в семь."
         },
         {
-          "id": "sent-373",
+          "id": "sent-375",
           "text": "No haré nada hasta que llegues».",
           "translationRu": "Ничего не буду делать, пока ты приедешь»."
         }
@@ -2347,22 +2357,22 @@
       "id": "para-095",
       "sentences": [
         {
-          "id": "sent-374",
+          "id": "sent-376",
           "text": "Grant Munro nos esperaba en la plataforma de la estación.",
           "translationRu": "Грант Манро ждал нас на платформе станции."
         },
         {
-          "id": "sent-375",
+          "id": "sent-377",
           "text": "Se veía que estaba muy pálido y temblaba de nervios y emoción.",
           "translationRu": "Было видно, что он очень бледный и дрожит от нервов и волнения."
         },
         {
-          "id": "sent-376",
+          "id": "sent-378",
           "text": "«Todavía están allí, señor Holmes», dijo, agarrando el brazo de mi amigo con fuerza.",
           "translationRu": "«Они всё ещё там, мистер Холмс», — сказал он, крепко хватая рукав моего друга."
         },
         {
-          "id": "sent-377",
+          "id": "sent-379",
           "text": "«Ahora vamos a resolver esto de una vez por todas».",
           "translationRu": "«Теперь мы разберёмся со всем раз и навсегда»."
         }
@@ -2372,32 +2382,32 @@
       "id": "para-096",
       "sentences": [
         {
-          "id": "sent-378",
+          "id": "sent-380",
           "text": "Era una noche muy oscura y comenzaba a llover.",
           "translationRu": "Это была очень тёмная ночь, и начинал идти дождь."
         },
         {
-          "id": "sent-379",
+          "id": "sent-381",
           "text": "Munro nos condujo rápidamente por un camino oscuro y lleno de barro, cubierto de setos a ambos lados.",
           "translationRu": "Манро быстро провел нас по тёмной грязной дороге, окружённой с обеих сторон живыми изгородями."
         },
         {
-          "id": "sent-380",
+          "id": "sent-382",
           "text": "A lo lejos se veían las luces de su propia casa entre los árboles.",
           "translationRu": "Вдалеке были видны огни его собственного дома среди деревьев."
         },
         {
-          "id": "sent-381",
+          "id": "sent-383",
           "text": "Luego de dar una vuelta, llegamos a la cabaña.",
           "translationRu": "Повернув за угол, мы пришли к коттеджу."
         },
         {
-          "id": "sent-382",
+          "id": "sent-384",
           "text": "Una línea amarilla salía de la puerta, que estaba un poco abierta.",
           "translationRu": "Жёлтая линия света выходила из приоткрытой двери."
         },
         {
-          "id": "sent-383",
+          "id": "sent-385",
           "text": "En una ventana del piso superior brilla una luz clara, y vemos una sombra que se mueve detrás de la cortina.",
           "translationRu": "В окне верхнего этажа горит яркий свет, и мы видим, как тень движется за занавеской."
         }
@@ -2407,47 +2417,47 @@
       "id": "para-097",
       "sentences": [
         {
-          "id": "sent-384",
+          "id": "sent-386",
           "text": "De repente, una mujer apareció de la oscuridad frente a la puerta.",
           "translationRu": "Вдруг из темноты перед дверью появилась женщина."
         },
         {
-          "id": "sent-385",
+          "id": "sent-387",
           "text": "Sus brazos se extendieron hacia Munro en actitud de súplica.",
           "translationRu": "Её руки простёрлись к Манро в мольбе."
         },
         {
-          "id": "sent-386",
+          "id": "sent-388",
           "text": "«¡Por favor, Jack, no lo hagas!» gritó con desesperación.",
           "translationRu": "«Пожалуйста, Джек, не делай этого!» — закричала она в отчаянии."
         },
         {
-          "id": "sent-387",
+          "id": "sent-389",
           "text": "«Confía en mí una vez más y nunca tendrás razón para arrepentirte».",
           "translationRu": "«Доверься мне ещё раз, и ты никогда не пожалеешь»."
         },
         {
-          "id": "sent-388",
+          "id": "sent-390",
           "text": "Munro respondió con firmeza: «He confiado en ti demasiado tiempo, Effie».",
           "translationRu": "Манро ответил твёрдо: «Я доверял тебе слишком долго, Эффи»."
         },
         {
-          "id": "sent-389",
+          "id": "sent-391",
           "text": "«Debo pasar.",
           "translationRu": "«Я должен войти."
         },
         {
-          "id": "sent-390",
+          "id": "sent-392",
           "text": "Mis amigos y yo vamos a resolver esto para siempre».",
           "translationRu": "Мы с друзьями разберёмся со всем раз и навсегда»."
         },
         {
-          "id": "sent-391",
+          "id": "sent-393",
           "text": "La apartó con las manos y comenzamos a subir las escaleras.",
           "translationRu": "Он отодвинул её руками, и мы начали подниматься по лестнице."
         },
         {
-          "id": "sent-392",
+          "id": "sent-394",
           "text": "Una viejecita intentó bloquearnos el paso, pero Munro la empujó sin contemplaciones.",
           "translationRu": "Старуха попыталась нам помешать, но Манро решительно её отодвинул."
         }
@@ -2457,32 +2467,32 @@
       "id": "para-098",
       "sentences": [
         {
-          "id": "sent-393",
+          "id": "sent-395",
           "text": "Entramos en la habitación iluminada del piso superior.",
           "translationRu": "Мы вошли в освещённую комнату верхнего этажа."
         },
         {
-          "id": "sent-394",
+          "id": "sent-396",
           "text": "Era una sala cómoda y bien amueblada, con velas encendidas sobre la mesa.",
           "translationRu": "Это была уютная и хорошо обставленная комната со свечами на столе."
         },
         {
-          "id": "sent-395",
+          "id": "sent-397",
           "text": "En la esquina, junto a un escritorio, estaba sentada una pequeña figura que parecía ser una niña.",
           "translationRu": "В углу, у стола, сидела маленькая фигурка, похожая на девочку."
         },
         {
-          "id": "sent-396",
+          "id": "sent-398",
           "text": "Llevaba un vestido rojo brillante y largos guantes blancos.",
           "translationRu": "На ней было яркое красное платье и длинные белые перчатки."
         },
         {
-          "id": "sent-397",
+          "id": "sent-399",
           "text": "Cuando se giró hacia nosotros, grité de horror.",
           "translationRu": "Когда она повернулась к нам, я вскрикнул от ужаса."
         },
         {
-          "id": "sent-398",
+          "id": "sent-400",
           "text": "Su cara tenía un color amarillo muerto, como la de un cadáver, y sus facciones eran completamente rígidas, sin ninguna expresión.",
           "translationRu": "Её лицо имело мёртво-жёлтый цвет, как у трупа, и черты были совершенно застывшие, без малейшего выражения."
         }
@@ -2492,32 +2502,32 @@
       "id": "para-099",
       "sentences": [
         {
-          "id": "sent-399",
+          "id": "sent-401",
           "text": "Holmes se rió en voz alta.",
           "translationRu": "Холмс громко засмеялся."
         },
         {
-          "id": "sent-400",
+          "id": "sent-402",
           "text": "Pasó su mano detrás de la oreja de la niña.",
           "translationRu": "Он провел рукой за ухом девочки."
         },
         {
-          "id": "sent-401",
+          "id": "sent-403",
           "text": "De pronto, la máscara se desprendió de su cara.",
           "translationRu": "Внезапно маска отпала от её лица."
         },
         {
-          "id": "sent-402",
+          "id": "sent-404",
           "text": "Debajo aparecía una pequeña niña negra, con todos sus dientes blancos brillando de alegría y diversión.",
           "translationRu": "Под ней была маленькая темнокожая девочка, с белыми зубами, сверкающими от радости и веселья."
         },
         {
-          "id": "sent-403",
+          "id": "sent-405",
           "text": "Yo reí junto con ella, sorprendido y liberado del miedo.",
           "translationRu": "Я смеялся вместе с ней, удивлённый и облегчённый."
         },
         {
-          "id": "sent-404",
+          "id": "sent-406",
           "text": "Pero Munro se quedó mirando, con la mano agarrándose la garganta como si sofocara.",
           "translationRu": "Но Манро остался стоять, схватившись за горло, как будто не мог дышать."
         }
@@ -2527,57 +2537,57 @@
       "id": "para-100",
       "sentences": [
         {
-          "id": "sent-405",
+          "id": "sent-407",
           "text": "Entonces Effie entró en la habitación con la cabeza levantada, el rostro serio y orgulloso.",
           "translationRu": "Затем Эффи вошла в комнату с гордо поднятой головой и серьёзным лицом."
         },
         {
-          "id": "sent-406",
+          "id": "sent-408",
           "text": "«Me obligaste a decirte la verdad», dijo.",
           "translationRu": "«Ты заставил меня рассказать правду», — сказала она."
         },
         {
-          "id": "sent-407",
+          "id": "sent-409",
           "text": "«Mi marido murió en Atlanta, pero mi hijo sobrevivió».",
           "translationRu": "«Мой муж умер в Атланте, но наш ребёнок выжил»."
         },
         {
-          "id": "sent-408",
+          "id": "sent-410",
           "text": "Sacó un medallón grande de plata de su pecho.",
           "translationRu": "Она вытащила большой серебряный медальон из-за пазухи."
         },
         {
-          "id": "sent-409",
+          "id": "sent-411",
           "text": "«Dentro hay un retrato de John Hebron, de Atlanta».",
           "translationRu": "«Внутри портрет Джона Хеброна из Атланты»."
         },
         {
-          "id": "sent-410",
+          "id": "sent-412",
           "text": "En el retrato se veía un hombre muy guapo e inteligente, un hombre negro de facciones nobles.",
           "translationRu": "На портрете был очень красивый и умный мужчина, чернокожий мужчина с благородными чертами."
         },
         {
-          "id": "sent-411",
+          "id": "sent-413",
           "text": "«Fue un hombre excelente», dijo Effie.",
           "translationRu": "«Он был прекрасным человеком», — сказала Эффи."
         },
         {
-          "id": "sent-412",
+          "id": "sent-414",
           "text": "«Nunca me arrepentí de casarme con él».",
           "translationRu": "«Я никогда не пожалела, что вышла за него замуж»."
         },
         {
-          "id": "sent-413",
+          "id": "sent-415",
           "text": "«Nuestra hija Lucy salió más oscura que él.",
           "translationRu": "«Наша дочь Люси темнокожая, даже темнее, чем её отец."
         },
         {
-          "id": "sent-414",
+          "id": "sent-416",
           "text": "Pero oscura o clara, ella es mi hija querida».",
           "translationRu": "Но светлая она или тёмная, она моя родная дочь»."
         },
         {
-          "id": "sent-415",
+          "id": "sent-417",
           "text": "La pequeña niña corrió hacia su madre y se abrazó a su falda.",
           "translationRu": "Маленькая девочка побежала к матери и обняла её за юбку."
         }
@@ -2587,62 +2597,62 @@
       "id": "para-101",
       "sentences": [
         {
-          "id": "sent-416",
+          "id": "sent-418",
           "text": "Effie explicó todo lo que había sucedido en los últimos tres años.",
           "translationRu": "Эффи объяснила всё, что произошло в течение последних трёх лет."
         },
         {
-          "id": "sent-417",
+          "id": "sent-419",
           "text": "Dejó a Lucy en América porque la niña estaba enferma, bajo el cuidado de una mujer escocesa leal que había sido su sirviente.",
           "translationRu": "Она оставила Люси в Америке, потому что девочка болела, на попечении верной шотландки, которая раньше была её служанкой."
         },
         {
-          "id": "sent-418",
+          "id": "sent-420",
           "text": "«Nunca dejé de ser su madre», dijo con dolor.",
           "translationRu": "«Я никогда не переставала быть её матерью», — сказала она в муке."
         },
         {
-          "id": "sent-419",
+          "id": "sent-421",
           "text": "«Pero cuando te conocí y me enamoré de ti, tuve miedo de perder tu amor».",
           "translationRu": "«Но когда я тебя встретила и полюбила, я испугалась потерять твою любовь»."
         },
         {
-          "id": "sent-420",
+          "id": "sent-422",
           "text": "«Durante tres años guardé este secreto, pero recibía cartas de la niñera.",
           "translationRu": "«Три года я хранила эту тайну, но получала письма от няни."
         },
         {
-          "id": "sent-421",
+          "id": "sent-423",
           "text": "Al fin, el deseo de ver a mi hija fue tan fuerte que no pude resistir».",
           "translationRu": "В конце концов, желание увидеть мою дочь стало невыносимо»."
         },
         {
-          "id": "sent-422",
+          "id": "sent-424",
           "text": "«Envié cien libras a la niñera y le pedí que trajera a Lucy aquí como si fueran vecinos.",
           "translationRu": "«Я отправила сто фунтов няне и попросила привести Люси сюда как соседей."
         },
         {
-          "id": "sent-423",
+          "id": "sent-425",
           "text": "Pero debía mantener a la niña dentro de casa durante el día y cubrirle la cara y las manos para que los vecinos no hablaran».",
           "translationRu": "Но мне пришлось держать девочку дома днём и прикрывать ей лицо и руки, чтобы соседи не сплетничали»."
         },
         {
-          "id": "sent-424",
+          "id": "sent-426",
           "text": "«Fue idea mía poner la máscara para que nadie viera que ella era una niña negra».",
           "translationRu": "«Маска была моей идеей, чтобы никто не видел, что она темнокожая девочка»."
         },
         {
-          "id": "sent-425",
+          "id": "sent-427",
           "text": "«Tú eras quien dijo que la casa estaba ocupada.",
           "translationRu": "«Ты сказал, что дом занят."
         },
         {
-          "id": "sent-426",
+          "id": "sent-428",
           "text": "Eso me asustó, y esa noche salí corriendo para advertir a la niñera».",
           "translationRu": "Это испугало меня, и я выбежала предупредить няню»."
         },
         {
-          "id": "sent-427",
+          "id": "sent-429",
           "text": "«Tres días después, tú entrabas por la puerta principal mientras ellas escapaban por la puerta de atrás».",
           "translationRu": "«Три дня спустя ты входил через входную дверь, а они убегали через заднюю»."
         }
@@ -2652,57 +2662,57 @@
       "id": "para-102",
       "sentences": [
         {
-          "id": "sent-428",
+          "id": "sent-430",
           "text": "Munro estuvo en silencio durante un largo tiempo, quizá diez minutos.",
           "translationRu": "Манро долго молчал, может быть, минут десять."
         },
         {
-          "id": "sent-429",
+          "id": "sent-431",
           "text": "Luego levantó a la pequeña niña en sus brazos y la besó.",
           "translationRu": "Затем он поднял маленькую девочку на руки и поцеловал её."
         },
         {
-          "id": "sent-430",
+          "id": "sent-432",
           "text": "Extendió su otra mano a su esposa y se volvió hacia la puerta.",
           "translationRu": "Он протянул руку жене и повернулся к двери."
         },
         {
-          "id": "sent-431",
+          "id": "sent-433",
           "text": "«Hablaremos más cómodamente en casa», dijo.",
           "translationRu": "«Мы поговорим спокойнее дома», — сказал он."
         },
         {
-          "id": "sent-432",
+          "id": "sent-434",
           "text": "«No soy un hombre muy bueno, Effie, pero creo que soy mejor de lo que tú pensabas».",
           "translationRu": "«Я не очень хороший человек, Эффи, но я думаю, что я лучше, чем ты думала»."
         },
         {
-          "id": "sent-433",
+          "id": "sent-435",
           "text": "Holmes y yo bajamos las escaleras silenciosamente detrás de ellos.",
           "translationRu": "Холмс и я тихо спустились по лестнице позади них."
         },
         {
-          "id": "sent-434",
+          "id": "sent-436",
           "text": "Cuando salimos a la calle, Holmes me tiró del brazo.",
           "translationRu": "Когда мы вышли на улицу, Холмс потянул меня за рукав."
         },
         {
-          "id": "sent-435",
+          "id": "sent-437",
           "text": "«Watson», dijo, «si alguna vez comienzo a creer demasiado en mis propios poderes, corre el riesgo de que olvide una gran verdad: nunca hay que estar completamente seguro».",
           "translationRu": "«Ватсон», — сказал он, «если я когда-нибудь начну слишком верить в свои силы, пошепчи мне на ухо одно слово»."
         },
         {
-          "id": "sent-436",
+          "id": "sent-438",
           "text": "«¿Cuál es ese palabra, Holmes?», pregunté.",
           "translationRu": "«Какое слово, Холмс?» — спросил я."
         },
         {
-          "id": "sent-437",
+          "id": "sent-439",
           "text": "«Norbury», dijo simplemente.",
           "translationRu": "«Норбери», — сказал он просто."
         },
         {
-          "id": "sent-438",
+          "id": "sent-440",
           "text": "«Solamente Norbury».",
           "translationRu": "«Только Норбери»."
         }
