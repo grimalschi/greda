@@ -1,0 +1,780 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-case-of-the-missing-will",
+  "level": "a1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Cazul testamentului dispărut"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "O fată tânără vine la noi.",
+          "translationRu": "К нам приходит молодая девушка.",
+          "original": "A young woman comes to us."
+        },
+        {
+          "id": "sent-002",
+          "text": "Ea se numește Violet Marsh.",
+          "translationRu": "Её зовут Вайолет Марш.",
+          "original": "Her name is Violet Marsh."
+        },
+        {
+          "id": "sent-003",
+          "text": "Vrea să vorbească cu Poirot.",
+          "translationRu": "Она хочет поговорить с Пуаро.",
+          "original": "She wants to speak with Poirot."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "— Am o problemă mare, spune ea.",
+          "translationRu": "— У меня большая проблема, говорит она.",
+          "original": "I have a big problem, she says."
+        },
+        {
+          "id": "sent-005",
+          "text": "— Am nevoie de ajutorul tău.",
+          "translationRu": "— Мне нужна твоя помощь.",
+          "original": "I need your help."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "— Spune-mi totul, zice Poirot.",
+          "translationRu": "— Расскажите мне всё, говорит Пуаро.",
+          "original": "Tell me everything, says Poirot."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "— Am avut un unchi, spune Violet.",
+          "translationRu": "— У меня был дядя, говорит Вайолет.",
+          "original": "I had an uncle, says Violet."
+        },
+        {
+          "id": "sent-008",
+          "text": "— Se numea Andrew Marsh.",
+          "translationRu": "— Его звали Эндрю Марш.",
+          "original": "His name was Andrew Marsh."
+        },
+        {
+          "id": "sent-009",
+          "text": "— A murit acum o lună.",
+          "translationRu": "— Он умер месяц назад.",
+          "original": "He died a month ago."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "— Părinții mei au murit demult.",
+          "translationRu": "— Мои родители умерли давно.",
+          "original": "My parents died long ago."
+        },
+        {
+          "id": "sent-011",
+          "text": "— Unchiul m-a luat la el.",
+          "translationRu": "— Дядя взял меня к себе.",
+          "original": "My uncle took me in."
+        },
+        {
+          "id": "sent-012",
+          "text": "— Am locuit la ferma lui.",
+          "translationRu": "— Я жила на его ферме.",
+          "original": "I lived on his farm."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "— Unchiul era un om ciudat.",
+          "translationRu": "— Дядя был странным человеком.",
+          "original": "My uncle was a strange man."
+        },
+        {
+          "id": "sent-014",
+          "text": "— Spunea că femeile nu sunt deștepte.",
+          "translationRu": "— Он говорил, что женщины не умны.",
+          "original": "He said women are not clever."
+        },
+        {
+          "id": "sent-015",
+          "text": "— Eu am vrut să învăț.",
+          "translationRu": "— А я хотела учиться.",
+          "original": "But I wanted to study."
+        },
+        {
+          "id": "sent-016",
+          "text": "— I-am arătat că greșește.",
+          "translationRu": "— Я показала ему, что он ошибается.",
+          "original": "I showed him he was wrong."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "— Acum unchiul a murit.",
+          "translationRu": "— Теперь дядя умер.",
+          "original": "Now my uncle has died."
+        },
+        {
+          "id": "sent-018",
+          "text": "— A lăsat un testament ciudat.",
+          "translationRu": "— Он оставил странное завещание.",
+          "original": "He left a strange will."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "— Pot să locuiesc în casă un an, spune ea.",
+          "translationRu": "— Я могу жить в доме один год, говорит она.",
+          "original": "I may live in the house for one year, she says."
+        },
+        {
+          "id": "sent-020",
+          "text": "— În acest an trebuie să fiu deșteaptă.",
+          "translationRu": "— За этот год я должна быть умной.",
+          "original": "In that year I must be clever."
+        },
+        {
+          "id": "sent-021",
+          "text": "— Trebuie să arăt mintea mea.",
+          "translationRu": "— Я должна показать свой ум.",
+          "original": "I must show my wits."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "— Dacă reușesc, casa și banii sunt ai mei.",
+          "translationRu": "— Если справлюсь, дом и деньги мои.",
+          "original": "If I succeed, the house and money are mine."
+        },
+        {
+          "id": "sent-023",
+          "text": "— Dacă nu reușesc, totul merge la săraci.",
+          "translationRu": "— Если нет, всё уйдёт бедным.",
+          "original": "If I fail, everything goes to the poor."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-024",
+          "text": "— Dar nu știu ce trebuie să fac, spune Violet.",
+          "translationRu": "— Но я не знаю, что должна делать, говорит Вайолет.",
+          "original": "But I do not know what I must do, says Violet."
+        },
+        {
+          "id": "sent-025",
+          "text": "— Poate este un alt testament în casă.",
+          "translationRu": "— Может быть, в доме есть другое завещание.",
+          "original": "Maybe there is another will in the house."
+        },
+        {
+          "id": "sent-026",
+          "text": "— Te rog, ajută-mă să-l găsesc.",
+          "translationRu": "— Прошу, помоги мне его найти.",
+          "original": "Please, help me find it."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "Poirot zâmbește.",
+          "translationRu": "Пуаро улыбается.",
+          "original": "Poirot smiles."
+        },
+        {
+          "id": "sent-028",
+          "text": "— Este o problemă interesantă, spune el.",
+          "translationRu": "— Это интересная задача, говорит он.",
+          "original": "It is an interesting problem, he says."
+        },
+        {
+          "id": "sent-029",
+          "text": "— O să te ajut.",
+          "translationRu": "— Я тебе помогу.",
+          "original": "I will help you."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "A doua zi mergem la fermă.",
+          "translationRu": "На следующий день мы едем на ферму.",
+          "original": "The next day we go to the farm."
+        },
+        {
+          "id": "sent-031",
+          "text": "Casa este veche și mare.",
+          "translationRu": "Дом старый и большой.",
+          "original": "The house is old and big."
+        },
+        {
+          "id": "sent-032",
+          "text": "Este în Devon, la țară.",
+          "translationRu": "Он в Девоне, в деревне.",
+          "original": "It is in Devon, in the country."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-033",
+          "text": "În casă locuiesc doi servitori.",
+          "translationRu": "В доме живут двое слуг.",
+          "original": "Two servants live in the house."
+        },
+        {
+          "id": "sent-034",
+          "text": "Sunt domnul și doamna Baker.",
+          "translationRu": "Это господин и госпожа Бейкер.",
+          "original": "They are Mr. and Mrs. Baker."
+        },
+        {
+          "id": "sent-035",
+          "text": "Au lucrat mulți ani pentru unchi.",
+          "translationRu": "Они много лет работали на дядю.",
+          "original": "They worked many years for the uncle."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-036",
+          "text": "— Spune-mi despre testament, zice Poirot.",
+          "translationRu": "— Расскажите о завещании, говорит Пуаро.",
+          "original": "Tell me about the will, says Poirot."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-037",
+          "text": "— Stăpânul m-a trimis în oraș, spune Baker.",
+          "translationRu": "— Хозяин послал меня в город, говорит Бейкер.",
+          "original": "The master sent me to town, says Baker."
+        },
+        {
+          "id": "sent-038",
+          "text": "— Am cumpărat două hârtii pentru testament.",
+          "translationRu": "— Я купил две бумаги для завещания.",
+          "original": "I bought two will-forms."
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-039",
+          "text": "— Stăpânul a scris pe o hârtie.",
+          "translationRu": "— Хозяин написал на одной бумаге.",
+          "original": "The master wrote on one form."
+        },
+        {
+          "id": "sent-040",
+          "text": "— Eu și soția mea am semnat.",
+          "translationRu": "— Я и жена подписали.",
+          "original": "My wife and I signed it."
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-041",
+          "text": "— Apoi stăpânul a spus: Am greșit.",
+          "translationRu": "— Потом хозяин сказал: Я ошибся.",
+          "original": "Then the master said: I have made a mistake."
+        },
+        {
+          "id": "sent-042",
+          "text": "— A rupt prima hârtie.",
+          "translationRu": "— Он порвал первую бумагу.",
+          "original": "He tore up the first form."
+        },
+        {
+          "id": "sent-043",
+          "text": "— A scris din nou pe a doua hârtie.",
+          "translationRu": "— Он снова написал на второй бумаге.",
+          "original": "He wrote again on the second form."
+        },
+        {
+          "id": "sent-044",
+          "text": "— Noi am semnat încă o dată.",
+          "translationRu": "— Мы подписали ещё раз.",
+          "original": "We signed once more."
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-045",
+          "text": "— Și după aceea? întreabă Poirot.",
+          "translationRu": "— А потом? спрашивает Пуаро.",
+          "original": "And after that? asks Poirot."
+        },
+        {
+          "id": "sent-046",
+          "text": "— Stăpânul a plecat în oraș, spune Baker.",
+          "translationRu": "— Хозяин ушёл в город, говорит Бейкер.",
+          "original": "The master went to town, says Baker."
+        },
+        {
+          "id": "sent-047",
+          "text": "— A spus că trebuie să plătească negustorii.",
+          "translationRu": "— Сказал, что должен заплатить торговцам.",
+          "original": "He said he had to pay the tradesmen."
+        }
+      ]
+    },
+    {
+      "id": "para-019",
+      "sentences": [
+        {
+          "id": "sent-048",
+          "text": "— Foarte interesant, spune Poirot încet.",
+          "translationRu": "— Очень интересно, говорит Пуаро тихо.",
+          "original": "Very interesting, says Poirot quietly."
+        }
+      ]
+    },
+    {
+      "id": "para-020",
+      "sentences": [
+        {
+          "id": "sent-049",
+          "text": "Acum Poirot caută în toată casa.",
+          "translationRu": "Теперь Пуаро ищет по всему дому.",
+          "original": "Now Poirot searches the whole house."
+        },
+        {
+          "id": "sent-050",
+          "text": "Se uită în fiecare cameră.",
+          "translationRu": "Он смотрит в каждой комнате.",
+          "original": "He looks in every room."
+        }
+      ]
+    },
+    {
+      "id": "para-021",
+      "sentences": [
+        {
+          "id": "sent-051",
+          "text": "Intrăm în biroul unchiului.",
+          "translationRu": "Мы входим в кабинет дяди.",
+          "original": "We enter the uncle's study."
+        },
+        {
+          "id": "sent-052",
+          "text": "Acolo este un birou vechi.",
+          "translationRu": "Там стоит старый письменный стол.",
+          "original": "There is an old desk there."
+        }
+      ]
+    },
+    {
+      "id": "para-022",
+      "sentences": [
+        {
+          "id": "sent-053",
+          "text": "Poirot se uită la chei.",
+          "translationRu": "Пуаро смотрит на ключи.",
+          "original": "Poirot looks at the keys."
+        },
+        {
+          "id": "sent-054",
+          "text": "Fiecare cheie are o etichetă curată.",
+          "translationRu": "У каждого ключа чистая бирка.",
+          "original": "Each key has a clean label."
+        }
+      ]
+    },
+    {
+      "id": "para-023",
+      "sentences": [
+        {
+          "id": "sent-055",
+          "text": "Dar o cheie este diferită.",
+          "translationRu": "Но один ключ другой.",
+          "original": "But one key is different."
+        },
+        {
+          "id": "sent-056",
+          "text": "Este cheia biroului.",
+          "translationRu": "Это ключ от стола.",
+          "original": "It is the key of the desk."
+        },
+        {
+          "id": "sent-057",
+          "text": "Pe ea este un plic murdar.",
+          "translationRu": "На нём грязный конверт.",
+          "original": "On it there is a dirty envelope."
+        },
+        {
+          "id": "sent-058",
+          "text": "Pe plic scrie: Cheia biroului.",
+          "translationRu": "На конверте написано: Ключ от стола.",
+          "original": "On the envelope it says: Key of the Desk."
+        }
+      ]
+    },
+    {
+      "id": "para-024",
+      "sentences": [
+        {
+          "id": "sent-059",
+          "text": "Poirot se oprește deodată.",
+          "translationRu": "Пуаро вдруг останавливается.",
+          "original": "Poirot suddenly stops."
+        },
+        {
+          "id": "sent-060",
+          "text": "— Ah! spune el. Acum înțeleg!",
+          "translationRu": "— А! говорит он. Теперь я понимаю!",
+          "original": "Ah! he says. Now I understand!"
+        },
+        {
+          "id": "sent-061",
+          "text": "— Toate cheile au etichete curate.",
+          "translationRu": "— У всех ключей чистые бирки.",
+          "original": "All the keys have clean labels."
+        },
+        {
+          "id": "sent-062",
+          "text": "— Numai aceasta are un plic murdar.",
+          "translationRu": "— Только у этого грязный конверт.",
+          "original": "Only this one has a dirty envelope."
+        }
+      ]
+    },
+    {
+      "id": "para-025",
+      "sentences": [
+        {
+          "id": "sent-063",
+          "text": "Poirot deschide plicul.",
+          "translationRu": "Пуаро открывает конверт.",
+          "original": "Poirot opens the envelope."
+        },
+        {
+          "id": "sent-064",
+          "text": "Înăuntru plicul pare gol.",
+          "translationRu": "Внутри конверт кажется пустым.",
+          "original": "Inside, the envelope seems empty."
+        },
+        {
+          "id": "sent-065",
+          "text": "— Nu este nimic aici, spun eu.",
+          "translationRu": "— Здесь ничего нет, говорю я.",
+          "original": "There is nothing here, I say."
+        },
+        {
+          "id": "sent-066",
+          "text": "— Stai puțin, spune Poirot.",
+          "translationRu": "— Подожди немного, говорит Пуаро.",
+          "original": "Wait a little, says Poirot."
+        }
+      ]
+    },
+    {
+      "id": "para-026",
+      "sentences": [
+        {
+          "id": "sent-067",
+          "text": "Poirot aprinde focul.",
+          "translationRu": "Пуаро разжигает огонь.",
+          "original": "Poirot lights the fire."
+        },
+        {
+          "id": "sent-068",
+          "text": "Ține plicul aproape de flacără.",
+          "translationRu": "Он держит конверт близко к пламени.",
+          "original": "He holds the envelope near the flame."
+        },
+        {
+          "id": "sent-069",
+          "text": "Așteptăm câteva minute.",
+          "translationRu": "Мы ждём несколько минут.",
+          "original": "We wait a few minutes."
+        }
+      ]
+    },
+    {
+      "id": "para-027",
+      "sentences": [
+        {
+          "id": "sent-070",
+          "text": "Deodată apar litere pe plic!",
+          "translationRu": "Вдруг на конверте появляются буквы!",
+          "original": "Suddenly letters appear on the envelope!"
+        },
+        {
+          "id": "sent-071",
+          "text": "Este o cerneală secretă.",
+          "translationRu": "Это тайные чернила.",
+          "original": "It is a secret ink."
+        },
+        {
+          "id": "sent-072",
+          "text": "Acum putem să citim cuvintele.",
+          "translationRu": "Теперь мы можем прочитать слова.",
+          "original": "Now we can read the words."
+        }
+      ]
+    },
+    {
+      "id": "para-028",
+      "sentences": [
+        {
+          "id": "sent-073",
+          "text": "Pe plic este un testament adevărat!",
+          "translationRu": "На конверте настоящее завещание!",
+          "original": "On the envelope there is a real will!"
+        },
+        {
+          "id": "sent-074",
+          "text": "Unchiul lasă totul nepoatei lui.",
+          "translationRu": "Дядя оставляет всё своей племяннице.",
+          "original": "The uncle leaves everything to his niece."
+        },
+        {
+          "id": "sent-075",
+          "text": "Casa și banii sunt pentru Violet.",
+          "translationRu": "Дом и деньги для Вайолет.",
+          "original": "The house and money are for Violet."
+        }
+      ]
+    },
+    {
+      "id": "para-029",
+      "sentences": [
+        {
+          "id": "sent-076",
+          "text": "Doi oameni au semnat ca martori.",
+          "translationRu": "Двое людей подписались как свидетели.",
+          "original": "Two people signed as witnesses."
+        },
+        {
+          "id": "sent-077",
+          "text": "Sunt Albert Pike și Jessie Pike.",
+          "translationRu": "Это Альберт Пайк и Джесси Пайк.",
+          "original": "They are Albert Pike and Jessie Pike."
+        },
+        {
+          "id": "sent-078",
+          "text": "El este cofetar în oraș.",
+          "translationRu": "Он кондитер в городе.",
+          "original": "He is a confectioner in town."
+        }
+      ]
+    },
+    {
+      "id": "para-030",
+      "sentences": [
+        {
+          "id": "sent-079",
+          "text": "— Acum înțeleg totul, spune Poirot.",
+          "translationRu": "— Теперь я всё понимаю, говорит Пуаро.",
+          "original": "Now I understand everything, says Poirot."
+        },
+        {
+          "id": "sent-080",
+          "text": "— Cele două hârtii au fost un truc.",
+          "translationRu": "— Две бумаги были уловкой.",
+          "original": "The two forms were a trick."
+        },
+        {
+          "id": "sent-081",
+          "text": "— Adevăratul testament era pe plic.",
+          "translationRu": "— Настоящее завещание было на конверте.",
+          "original": "The real will was on the envelope."
+        }
+      ]
+    },
+    {
+      "id": "para-031",
+      "sentences": [
+        {
+          "id": "sent-082",
+          "text": "— Stăpânul a mers la cofetar, spune Poirot.",
+          "translationRu": "— Хозяин ходил к кондитеру, говорит Пуаро.",
+          "original": "The master went to the confectioner, says Poirot."
+        },
+        {
+          "id": "sent-083",
+          "text": "— I-a cerut să semneze testamentul.",
+          "translationRu": "— Он попросил его подписать завещание.",
+          "original": "He asked him to sign the will."
+        },
+        {
+          "id": "sent-084",
+          "text": "— Așa a ascuns testamentul adevărat.",
+          "translationRu": "— Так он спрятал настоящее завещание.",
+          "original": "So he hid the real will."
+        }
+      ]
+    },
+    {
+      "id": "para-032",
+      "sentences": [
+        {
+          "id": "sent-085",
+          "text": "Mergem să o vedem pe Violet.",
+          "translationRu": "Мы идём к Вайолет.",
+          "original": "We go to see Violet."
+        },
+        {
+          "id": "sent-086",
+          "text": "— Am găsit testamentul, spune Poirot.",
+          "translationRu": "— Я нашёл завещание, говорит Пуаро.",
+          "original": "I have found the will, says Poirot."
+        },
+        {
+          "id": "sent-087",
+          "text": "— Casa și banii sunt ai tăi.",
+          "translationRu": "— Дом и деньги твои.",
+          "original": "The house and money are yours."
+        }
+      ]
+    },
+    {
+      "id": "para-033",
+      "sentences": [
+        {
+          "id": "sent-088",
+          "text": "Violet este foarte fericită.",
+          "translationRu": "Вайолет очень счастлива.",
+          "original": "Violet is very happy."
+        },
+        {
+          "id": "sent-089",
+          "text": "— Mulțumesc, domnule Poirot! spune ea.",
+          "translationRu": "— Спасибо, господин Пуаро! говорит она.",
+          "original": "Thank you, Mr. Poirot! she says."
+        }
+      ]
+    },
+    {
+      "id": "para-034",
+      "sentences": [
+        {
+          "id": "sent-090",
+          "text": "Dar Poirot zâmbește.",
+          "translationRu": "Но Пуаро улыбается.",
+          "original": "But Poirot smiles."
+        },
+        {
+          "id": "sent-091",
+          "text": "— Eu am găsit testamentul, nu tu.",
+          "translationRu": "— Это я нашёл завещание, а не вы.",
+          "original": "I found the will, not you."
+        },
+        {
+          "id": "sent-092",
+          "text": "— Unchiul a vrut să arăți mintea ta.",
+          "translationRu": "— Дядя хотел, чтобы вы показали свой ум.",
+          "original": "Your uncle wanted you to show your wits."
+        },
+        {
+          "id": "sent-093",
+          "text": "— Deci tu trebuie să dai banii la săraci.",
+          "translationRu": "— Значит, деньги вы должны отдать бедным.",
+          "original": "So you must give the money to the poor."
+        }
+      ]
+    },
+    {
+      "id": "para-035",
+      "sentences": [
+        {
+          "id": "sent-094",
+          "text": "Violet râde și este de acord.",
+          "translationRu": "Вайолет смеётся и соглашается.",
+          "original": "Violet laughs and agrees."
+        },
+        {
+          "id": "sent-095",
+          "text": "— Aveți dreptate, spune ea.",
+          "translationRu": "— Вы правы, говорит она.",
+          "original": "You are right, she says."
+        },
+        {
+          "id": "sent-096",
+          "text": "— Voi ajuta oamenii săraci.",
+          "translationRu": "— Я помогу бедным людям.",
+          "original": "I will help the poor people."
+        }
+      ]
+    },
+    {
+      "id": "para-036",
+      "sentences": [
+        {
+          "id": "sent-097",
+          "text": "Așa se termină cazul.",
+          "translationRu": "Так заканчивается дело.",
+          "original": "So the case ends."
+        },
+        {
+          "id": "sent-098",
+          "text": "Poirot a fost mai deștept decât toți.",
+          "translationRu": "Пуаро оказался умнее всех.",
+          "original": "Poirot was cleverer than everyone."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-jewel-robbery-at-the-grand-metropolitan",
+  "lang": "ro",
+  "title": "Furtul de perle de la Grand Metropolitan",
+  "titleRu": "Кража драгоценностей в «Гранд-Метрополитен»",
+  "originalTitle": "The Jewel Robbery at the Grand Metropolitan",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Пуаро и Гастингс отдыхают в Брайтоне и знакомятся с миссис Опалсен, которая хвастается знаменитым жемчугом. Вскоре жемчуг пропадает из её номера, и подозрение падает на горничную-француженку. Пуаро доказывает, что кражу подстроили двое слуг отеля, а подброшенное в постель горничной ожерелье — фальшивка.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

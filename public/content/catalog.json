@@ -2,6 +2,296 @@
   "schemaVersion": "1.0",
   "works": [
     {
+      "id": "the-adventure-of-the-cheap-flat",
+      "lang": "ro",
+      "title": "Apartamentul ieftin",
+      "titleRu": "Дешёвая квартира",
+      "originalTitle": "The Adventure of the Cheap Flat",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 504,
+        "a2": 1043
+      }
+    },
+    {
+      "id": "the-adventure-of-the-egyptian-tomb",
+      "lang": "ro",
+      "title": "Aventura mormântului egiptean",
+      "titleRu": "Приключение в египетской гробнице",
+      "originalTitle": "The Adventure of the Egyptian Tomb",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 529,
+        "a2": 1094
+      }
+    },
+    {
+      "id": "the-case-of-the-missing-will",
+      "lang": "ro",
+      "title": "Cazul testamentului dispărut",
+      "titleRu": "Дело о пропавшем завещании",
+      "originalTitle": "The Case of the Missing Will",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 581,
+        "a2": 1312
+      }
+    },
+    {
+      "id": "the-disappearance-of-mr-davenheim",
+      "lang": "ro",
+      "title": "Dispariția domnului Davenheim",
+      "titleRu": "Исчезновение мистера Давенхайма",
+      "originalTitle": "The Disappearance of Mr Davenheim",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 637,
+        "a2": 1414
+      }
+    },
+    {
+      "id": "the-jewel-robbery-at-the-grand-metropolitan",
+      "lang": "ro",
+      "title": "Furtul de perle de la Grand Metropolitan",
+      "titleRu": "Кража драгоценностей в «Гранд-Метрополитен»",
+      "originalTitle": "The Jewel Robbery at the Grand Metropolitan",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 479,
+        "a2": 1176
+      }
+    },
+    {
+      "id": "the-million-dollar-bond-robbery",
+      "lang": "ro",
+      "title": "Furtul obligațiunilor de un milion de dolari",
+      "titleRu": "Кража облигаций на миллион долларов",
+      "originalTitle": "The Million Dollar Bond Robbery",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 489,
+        "a2": 1043
+      }
+    },
+    {
+      "id": "the-mystery-of-hunters-lodge",
+      "lang": "ro",
+      "title": "Misterul Casei de Vânătoare",
+      "titleRu": "Тайна охотничьего домика",
+      "originalTitle": "The Mystery of Hunter's Lodge",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 483,
+        "a2": 1073
+      }
+    },
+    {
+      "id": "the-kidnapped-prime-minister",
+      "lang": "ro",
+      "title": "Răpirea primului-ministru",
+      "titleRu": "Похищение премьер-министра",
+      "originalTitle": "The Kidnapped Prime Minister",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 496,
+        "a2": 1033
+      }
+    },
+    {
+      "id": "the-adventure-of-the-western-star",
+      "lang": "ro",
+      "title": "Steaua de Vest",
+      "titleRu": "Звезда Запада",
+      "originalTitle": "The Adventure of the Western Star",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 543,
+        "a2": 1241
+      }
+    },
+    {
+      "id": "the-tragedy-at-marsdon-manor",
+      "lang": "ro",
+      "title": "Tragedia de la conacul Marsdon",
+      "titleRu": "Трагедия в поместье Марсдон",
+      "originalTitle": "The Tragedy at Marsdon Manor",
+      "authorId": "agatha-christie",
+      "authorName": "Agatha Christie",
+      "genres": [
+        "Детектив"
+      ],
+      "levels": [
+        "a1",
+        "a2",
+        "b1",
+        "b2",
+        "c1",
+        "c2"
+      ],
+      "availableLevels": [
+        "a1",
+        "a2"
+      ],
+      "chapters": 1,
+      "words": {
+        "a1": 360,
+        "a2": 774
+      }
+    },
+    {
       "id": "the-willows",
       "lang": "es",
       "title": "Los sauces",

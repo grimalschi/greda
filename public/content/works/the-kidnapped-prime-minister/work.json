@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-kidnapped-prime-minister",
+  "lang": "ro",
+  "title": "Răpirea primului-ministru",
+  "titleRu": "Похищение премьер-министра",
+  "originalTitle": "The Kidnapped Prime Minister",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Премьер-министр Британии исчезает по дороге на важную конференцию во Франции: утром по его машине стреляли и ранили в щёку, а вечером во Франции его якобы похитили. У Пуаро всего полтора дня. Не покидая Англии, он понимает, что выстрел был частью плана, и разгадывает обман.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

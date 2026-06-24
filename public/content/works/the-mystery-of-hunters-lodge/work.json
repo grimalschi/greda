@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-mystery-of-hunters-lodge",
+  "lang": "ro",
+  "title": "Misterul Casei de Vânătoare",
+  "titleRu": "Тайна охотничьего домика",
+  "originalTitle": "The Mystery of Hunter's Lodge",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Пуаро болен гриппом, и расследовать загадочное убийство богатого американца Харрингтона Пейса в одиноком охотничьем домике в Дербишире отправляется Гастингс — по почте и телеграммам передавая всё великому сыщику. Незадолго до выстрела к жертве приходит таинственный незнакомец с чёрной бородой, который бесследно исчезает, а вскоре исчезает и новая экономка. Поироту хватает описаний одежды двух женщин, чтобы понять: убийство устроили жадный до наследства племянник Роджер Хейверинг и его жена Зои, бывшая актриса, сыгравшая роль экономки ради собственного алиби.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-disappearance-of-mr-davenheim",
+  "lang": "ro",
+  "title": "Dispariția domnului Davenheim",
+  "titleRu": "Исчезновение мистера Давенхайма",
+  "originalTitle": "The Disappearance of Mr Davenheim",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Банкир Давенхайм вышел из дома отправить письма и бесследно пропал; сейф ограблен, под подозрением гость по фамилии Лоуэн. Пуаро спорит с инспектором Джеппом, что раскроет дело, не вставая с кресла. Он догадывается: банкир сам инсценировал ограбление и кражу, а затем спрятался там, где его никто не станет искать.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

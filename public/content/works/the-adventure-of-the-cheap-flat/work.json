@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-cheap-flat",
+  "lang": "ro",
+  "title": "Apartamentul ieftin",
+  "titleRu": "Дешёвая квартира",
+  "originalTitle": "The Adventure of the Cheap Flat",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Семья Робинсон снимает прекрасную квартиру в дорогом районе Лондона за смехотворно низкую плату. Пуаро чувствует подвох: за дешевизной скрывается шпионская ловушка, связанная с украденными секретными чертежами подводной лодки. Сыщик устраивает засаду, ловит итальянского убийцу и находит чертежи, спрятанные внутри чёрного бархатного кота.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

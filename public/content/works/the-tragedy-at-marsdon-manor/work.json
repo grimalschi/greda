@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-tragedy-at-marsdon-manor",
+  "lang": "ro",
+  "title": "Tragedia de la conacul Marsdon",
+  "titleRu": "Трагедия в поместье Марсдон",
+  "originalTitle": "The Tragedy at Marsdon Manor",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Страховая компания просит Пуаро проверить внезапную смерть господина Малтраверса, который незадолго до того застраховал свою жизнь на крупную сумму. Врач решил, что это внутреннее кровотечение, но Пуаро понимает: на самом деле был выстрел в рот, скрытый под видом болезни. С помощью инсценированного «явления призрака» сыщик заставляет молодую вдову признаться, что она убила мужа, чтобы получить страховку.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

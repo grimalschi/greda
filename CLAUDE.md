@@ -52,6 +52,21 @@ Schemas in `schemas/`. The validator (`scripts/validate-content.mjs`) enforces t
 `workId`/`level` fields match the file location, `sentenceCount` equals the real count,
 `catalog.availableLevels` matches `work.json` available levels, ids are unique.
 
+### Languages (study language per work, v0.3 — 2026-06-24)
+Each work declares its **content/study language** via `work.json` `lang` (`'es'` | `'ro'`, default
+`'es'`). `text` is in that language; `translationRu` is always Russian; `original` is the source
+language (English/German/Italian). The 58 originals are Spanish (`lang` omitted = `es`); the 10 Agatha
+Christie works (`Poirot Investigates`, 1924, US PD) are **Romanian** (`lang: 'ro'`) at levels **A1+A2**.
+`lang` flows through `schemas/{work,catalog}.schema.json` → `build-catalog.mjs` (catalog `lang`, default
+es) → `types.ts` (`Language`/`LANGUAGE_LABELS`/`LANGUAGE_LABELS_PREP`) → HomePage **language filter**
+(shown only when >1 language present) + dynamic «Чтение на …» subtitle + WorkCard/WorkPage badge.
+**Content paths and routes are language-neutral** (`works/<id>/levels/<level>/…`, `/read/:workId/:level/…`):
+a work is single-language, so progress (keyed by level) and the reader are untouched — Romanian text just
+renders as `text`. **Deferred:** one work carrying *two* languages at once (would need a `lang` segment in
+the path + composite progress key); no current content needs it. The Christie pipeline:
+`/tmp/christie/<slug>/{meta,a1,a2}.json` (Opus subagents) → `/tmp/christie/assemble.mjs` (assigns ids,
+builds work.json + chapters + manifests) → `build:catalog` → `validate`.
+
 ### ID rules (enforced)
 - `para-001`, `para-002`, … (3 digits) — sequential within a chapter.
 - `sent-001`, … (3 digits) — sequential across the WHOLE chapter (not reset per paragraph).

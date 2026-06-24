@@ -1,0 +1,932 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-disappearance-of-mr-davenheim",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Dispariția domnului Davenheim"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Poirot și cu mine îl așteptam la ceai pe vechiul nostru prieten, inspectorul Japp.",
+          "translationRu": "Пуаро и я ждали к чаю нашего старого друга, инспектора Джеппа.",
+          "original": "Poirot and I were expecting our old friend Inspector Japp of Scotland Yard to tea."
+        },
+        {
+          "id": "sent-002",
+          "text": "Deodată am auzit o bătaie în ușă și Japp a intrat repede.",
+          "translationRu": "Вдруг мы услышали стук в дверь, и Джепп быстро вошёл.",
+          "original": "A sharp rat-tat sounded below, and Japp entered briskly."
+        },
+        {
+          "id": "sent-003",
+          "text": "«Am vorbit cu omul care se ocupă de cazul Davenheim», a spus el.",
+          "translationRu": "«Я говорил с человеком, который ведёт дело Давенхайма», — сказал он.",
+          "original": "I was yarning with Miller, the man who's in charge of the Davenheim case."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "De trei zile, toate ziarele scriau despre acest caz.",
+          "translationRu": "Уже три дня все газеты писали об этом деле.",
+          "original": "For the last three days the papers had been full of the strange disappearance of Mr. Davenheim."
+        },
+        {
+          "id": "sent-005",
+          "text": "Domnul Davenheim era un bancher foarte cunoscut și bogat.",
+          "translationRu": "Мистер Давенхайм был очень известный и богатый банкир.",
+          "original": "...Mr. Davenheim, the well-known bankers and financiers."
+        },
+        {
+          "id": "sent-006",
+          "text": "Sâmbătă el a ieșit din casă și nimeni nu l-a mai văzut de atunci.",
+          "translationRu": "В субботу он вышел из дома, и с тех пор его никто не видел.",
+          "original": "On Saturday last he had walked out of his house, and had never been seen since."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "«Cred că azi este greu să dispari», am spus eu.",
+          "translationRu": "«Думаю, сегодня трудно исчезнуть», — сказал я.",
+          "original": "I should have thought that it would be almost impossible for anyone to disappear nowadays."
+        },
+        {
+          "id": "sent-008",
+          "text": "«Există trei feluri de dispariții», a explicat Poirot.",
+          "translationRu": "«Есть три вида исчезновений», — объяснил Пуаро.",
+          "original": "They fall into three categories."
+        },
+        {
+          "id": "sent-009",
+          "text": "«Primul: omul pleacă singur. Al doilea: își pierde memoria.»",
+          "translationRu": "«Первое: человек уходит сам. Второе: теряет память.»",
+          "original": "First, the voluntary disappearance. Second, the loss of memory case."
+        },
+        {
+          "id": "sent-010",
+          "text": "«Al treilea: o crimă, și cineva ascunde trupul.»",
+          "translationRu": "«Третье: убийство, и кто-то прячет тело.»",
+          "original": "Third, murder, and a successful disposal of the body."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "«Important este creierul, celulele cenușii», a spus Poirot, atingând fruntea.",
+          "translationRu": "«Важен мозг, серые клетки», — сказал Пуаро, коснувшись лба.",
+          "original": "It is the brain, the little grey cells. He tapped his forehead."
+        },
+        {
+          "id": "sent-012",
+          "text": "«Adevărul trebuie căutat înăuntru, nu afară.»",
+          "translationRu": "«Правду надо искать внутри, а не снаружи.»",
+          "original": "One must seek the truth within, not without."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "«Vrei să spui», a întrebat Japp, «că poți rezolva un caz fără să te miști din scaun?»",
+          "translationRu": "«Хочешь сказать», — спросил Джепп, «что можешь раскрыть дело, не вставая с кресла?»",
+          "original": "You would undertake to solve a case without moving from your chair?"
+        },
+        {
+          "id": "sent-014",
+          "text": "«Exact asta vreau să spun, dacă îmi spui toate faptele.»",
+          "translationRu": "«Именно это я и хочу сказать, если ты расскажешь мне все факты.»",
+          "original": "That is exactly what I do mean, granted the facts were placed before me."
+        },
+        {
+          "id": "sent-015",
+          "text": "«Pariez cinci lire că nu poți să-mi spui unde este Davenheim, viu sau mort, într-o săptămână», a spus Japp râzând.",
+          "translationRu": "«Спорю на пять фунтов, что не можешь сказать мне, где Давенхайм, живой или мёртвый, за неделю», — сказал Джепп, смеясь.",
+          "original": "Bet you a fiver that you can't tell me where Mr. Davenheim is, dead or alive, before a week is out."
+        },
+        {
+          "id": "sent-016",
+          "text": "«Bine, accept pariul», a spus Poirot calm. «Acum spune-mi faptele.»",
+          "translationRu": "«Хорошо, принимаю спор», — спокойно сказал Пуаро. «Теперь расскажи мне факты.»",
+          "original": "Eh bien, mon ami, I accept. Now, the facts."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-017",
+          "text": "«Sâmbătă, Davenheim a luat trenul spre casa lui de la țară, The Cedars», a început Japp.",
+          "translationRu": "«В субботу Давенхайм сел на поезд к своему загородному дому «Сидры», — начал Джепп.",
+          "original": "On Saturday Mr. Davenheim took the train to his country place, The Cedars."
+        },
+        {
+          "id": "sent-018",
+          "text": "«După prânz, s-a plimbat prin grădină și vorbea normal cu grădinarii.»",
+          "translationRu": "«После обеда он погулял по саду и обычно говорил с садовниками.»",
+          "original": "After lunch, he strolled round the grounds. His manner was absolutely normal."
+        },
+        {
+          "id": "sent-019",
+          "text": "«După ceai, a spus soției lui: Merg în sat să pun niște scrisori.»",
+          "translationRu": "«После чая он сказал жене: иду в деревню отправить письма.»",
+          "original": "After tea he told his wife he was going to post some letters."
+        },
+        {
+          "id": "sent-020",
+          "text": "«Aștept un domn, pe nume Lowen.»",
+          "translationRu": "«Жду господина по фамилии Лоуэн.»",
+          "original": "He was expecting a Mr. Lowen, on business."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "«Davenheim a ieșit pe ușa din față și a mers încet pe alee.»",
+          "translationRu": "«Давенхайм вышел через парадную дверь и медленно прошёл по аллее.»",
+          "original": "Mr. Davenheim left the house by the front door, passed leisurely down the drive."
+        },
+        {
+          "id": "sent-022",
+          "text": "«Și nimeni nu l-a mai văzut din acea clipă.»",
+          "translationRu": "«И с того момента его никто больше не видел.»",
+          "original": "...and was never seen again. From that hour, he vanished completely."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "«Foarte frumos, o problemă încântătoare», a murmurat Poirot. «Continuă.»",
+          "translationRu": "«Очень красиво, прелестная задача», — пробормотал Пуаро. «Продолжай.»",
+          "original": "Pretty, very pretty, a charming little problem. Proceed, my good friend."
+        },
+        {
+          "id": "sent-024",
+          "text": "«Un sfert de oră mai târziu a venit un om înalt și brunet, pe nume Lowen, și a fost dus în birou», a spus Japp.",
+          "translationRu": "«Через четверть часа пришёл высокий, тёмный человек по фамилии Лоуэн, и его провели в кабинет», — сказал Джепп.",
+          "original": "A quarter of an hour later a tall, dark man named Lowen rang the bell and was shown into the study."
+        },
+        {
+          "id": "sent-025",
+          "text": "«A trecut o oră, dar Davenheim nu a venit, și Lowen a plecat acasă.»",
+          "translationRu": "«Прошёл час, но Давенхайм не пришёл, и Лоуэн уехал домой.»",
+          "original": "Nearly an hour passed. Mr. Davenheim did not return. Mr. Lowen took his departure."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-026",
+          "text": "«Duminică am chemat poliția, dar nimeni nu înțelegea nimic», a spus Japp.",
+          "translationRu": "«В воскресенье вызвали полицию, но никто ничего не понимал», — сказал Джепп.",
+          "original": "Early on Sunday the police were communicated with, but could make neither head nor tail of it."
+        },
+        {
+          "id": "sent-027",
+          "text": "«El nu a fost la poștă, nimeni nu l-a văzut în sat și nu a luat niciun tren.»",
+          "translationRu": "«Он не был на почте, никто не видел его в деревне, и он не сел ни на один поезд.»",
+          "original": "He had not been to the post office, nor seen in the village; he had not departed by any train."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "«Luni am descoperit ceva important: în birou este un seif, și cineva l-a spart», a continuat Japp.",
+          "translationRu": "«В понедельник мы обнаружили нечто важное: в кабинете есть сейф, и кто-то его взломал», — продолжил Джепп.",
+          "original": "On Monday a further discovery came to light: in the study stands a safe, and it had been broken into."
+        },
+        {
+          "id": "sent-029",
+          "text": "«Dar ferestrele erau închise pe dinăuntru.»",
+          "translationRu": "«Но окна были закрыты изнутри.»",
+          "original": "The windows were fastened securely on the inside."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "«Ce a fost luat din seif?», a întrebat Poirot.",
+          "translationRu": "«Что взяли из сейфа?» — спросил Пуаро.",
+          "original": "What was taken from the safe?"
+        },
+        {
+          "id": "sent-031",
+          "text": "«Mulți bani, niște obligațiuni și o avere în bijuterii», a spus Japp.",
+          "translationRu": "«Много денег, облигации и состояние в драгоценностях», — сказал Джепп.",
+          "original": "...a large sum in notes, bearer bonds, and a small fortune in jewellery."
+        },
+        {
+          "id": "sent-032",
+          "text": "«Toate bijuteriile doamnei Davenheim erau în seif.»",
+          "translationRu": "«Все драгоценности миссис Давенхайм были в сейфе.»",
+          "original": "All Mrs. Davenheim's jewels were kept in the safe."
+        },
+        {
+          "id": "sent-033",
+          "text": "«Soțul ei cumpăra bijuterii tot timpul, aproape în fiecare lună.»",
+          "translationRu": "«Её муж покупал драгоценности всё время, почти каждый месяц.»",
+          "original": "The purchasing of them had become a passion. Hardly a month passed without a present."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-034",
+          "text": "«O pradă bună», a spus Poirot gânditor. «Ce afacere avea Lowen cu Davenheim?»",
+          "translationRu": "«Хорошая добыча», — задумчиво сказал Пуаро. «Какое дело было у Лоуэна с Давенхаймом?»",
+          "original": "Altogether a good haul. Is it known what his business was with Davenheim?"
+        },
+        {
+          "id": "sent-035",
+          "text": "«Cei doi nu se înțelegeau bine; era vorba despre niște acțiuni din America de Sud.»",
+          "translationRu": "«Эти двое плохо ладили; речь шла о каких-то акциях из Южной Америки.»",
+          "original": "The two men were not on good terms. It was a matter concerning some South American shares."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-036",
+          "text": "«Davenheim avea afaceri în America de Sud?», a întrebat Poirot.",
+          "translationRu": "«У Давенхайма были дела в Южной Америке?» — спросил Пуаро.",
+          "original": "Had Davenheim interests in South America, then?"
+        },
+        {
+          "id": "sent-037",
+          "text": "«Soția lui spune că a fost la Buenos Aires toamna trecută», a răspuns Japp.",
+          "translationRu": "«Жена говорит, что прошлой осенью он был в Буэнос-Айресе», — ответил Джепп.",
+          "original": "Mrs. Davenheim mentioned that he spent all last autumn in Buenos Ayres."
+        },
+        {
+          "id": "sent-038",
+          "text": "«Doamna Davenheim este o femeie plăcută, dar simplă.»",
+          "translationRu": "«Миссис Давенхайм — приятная, но простая женщина.»",
+          "original": "Mrs. Davenheim is a pleasant, rather unintelligent woman."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-039",
+          "text": "«Un grădinar a văzut pe cineva mergând spre grădina de trandafiri, dar era departe și nu știe cine era», a adăugat Japp.",
+          "translationRu": "«Один садовник видел, как кто-то шёл к розовому саду, но он был далеко и не знает, кто это был», — добавил Джепп.",
+          "original": "A gardener saw a figure going toward the rose-garden, but was a good way off and cannot say who it was."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-040",
+          "text": "«Ce este după grădina de trandafiri?», a întrebat Poirot.",
+          "translationRu": "«Что находится за розовым садом?» — спросил Пуаро.",
+          "original": "What lies beyond the rose-garden?"
+        },
+        {
+          "id": "sent-041",
+          "text": "«Un lac, cu o casă de bărci», a răspuns Japp.",
+          "translationRu": "«Озеро, с лодочным домиком», — ответил Джепп.",
+          "original": "A lake. With a boathouse? Yes, a couple of punts are kept there."
+        },
+        {
+          "id": "sent-042",
+          "text": "«Mâine vom căuta trupul în lac.»",
+          "translationRu": "«Завтра мы будем искать тело в озере.»",
+          "original": "...going down to-morrow to see that piece of water dragged."
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-043",
+          "text": "Poirot a luat ziarul cu fotografia lui Davenheim.",
+          "translationRu": "Пуаро взял газету с фотографией Давенхайма.",
+          "original": "Poirot studied the photograph of the missing man."
+        },
+        {
+          "id": "sent-044",
+          "text": "«Are părul lung, mustață mare și barbă ascuțită», a observat el.",
+          "translationRu": "«У него длинные волосы, большие усы и острая борода», — заметил он.",
+          "original": "Wears his hair rather long, full moustache and pointed beard."
+        },
+        {
+          "id": "sent-045",
+          "text": "«Ei bine, ce crezi? Este clar, nu?», a întrebat Japp.",
+          "translationRu": "«Ну, что думаешь? Всё ясно, не так ли?» — спросил Джепп.",
+          "original": "What have you got to say to it all? Clear as daylight, eh?"
+        },
+        {
+          "id": "sent-046",
+          "text": "«Dimpotrivă, este foarte neclar, și asta îmi dă mari speranțe», a spus Poirot.",
+          "translationRu": "«Напротив, всё очень неясно, и это даёт мне большие надежды», — сказал Пуаро.",
+          "original": "On the contrary, most obscure. Which gives me great hopes of solving it."
+        },
+        {
+          "id": "sent-047",
+          "text": "«Când un caz pare prea clar, nu trebuie să-l crezi: cineva l-a făcut așa.»",
+          "translationRu": "«Когда дело кажется слишком ясным, ему нельзя верить: кто-то сделал его таким.»",
+          "original": "If a thing is clear as daylight, mistrust it! Some one has made it so."
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-048",
+          "text": "«Adu-mi orice noutate», a cerut Poirot. «Sigur», a spus Japp.",
+          "translationRu": "«Приноси мне любые новости», — попросил Пуаро. «Конечно», — сказал Джепп.",
+          "original": "And you will bring me any fresh developments? Certainly."
+        },
+        {
+          "id": "sent-049",
+          "text": "Japp a plecat, crezând că pariul era prea ușor pentru el.",
+          "translationRu": "Джепп ушёл, думая, что спор для него слишком лёгкий.",
+          "original": "Like robbing a child!"
+        },
+        {
+          "id": "sent-050",
+          "text": "«Lacul!», am spus eu. «Și mai mult, casa de bărci!», a spus Poirot, zâmbind.",
+          "translationRu": "«Озеро!» — сказал я. «И даже больше, лодочный домик!» — сказал Пуаро, улыбаясь.",
+          "original": "The lake! And even more than the lake, the boathouse!"
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-051",
+          "text": "A doua seară, Japp a venit din nou și avea vești importante.",
+          "translationRu": "На следующий вечер Джепп пришёл снова, и у него были важные вести.",
+          "original": "The following evening he walked in, bursting with news of some kind."
+        },
+        {
+          "id": "sent-052",
+          "text": "«Nu am găsit trupul, dar am găsit hainele lui în lac», a spus el.",
+          "translationRu": "«Мы не нашли тело, но нашли его одежду в озере», — сказал он.",
+          "original": "We haven't found the body, but we did find his clothes in your lake."
+        },
+        {
+          "id": "sent-053",
+          "text": "«Sunt exact hainele pe care le purta în acea zi.»",
+          "translationRu": "«Это точно та одежда, которую он носил в тот день.»",
+          "original": "...the identical clothes he was wearing that day."
+        }
+      ]
+    },
+    {
+      "id": "para-019",
+      "sentences": [
+        {
+          "id": "sent-054",
+          "text": "«Și am arestat pe Lowen», a continuat Japp.",
+          "translationRu": "«И мы арестовали Лоуэна», — продолжил Джепп.",
+          "original": "We've arrested Lowen."
+        },
+        {
+          "id": "sent-055",
+          "text": "«O slujnică l-a văzut în grădina de trandafiri.»",
+          "translationRu": "«Служанка видела его в розовом саду.»",
+          "original": "...she saw Lowen coming through the rose-garden."
+        },
+        {
+          "id": "sent-056",
+          "text": "«La început el a mințit și a spus că nu a ieșit din birou.»",
+          "translationRu": "«Сначала он соврал и сказал, что не выходил из кабинета.»",
+          "original": "Denied first of all that he had ever left the study."
+        },
+        {
+          "id": "sent-057",
+          "text": "«Apoi a spus că a ieșit doar să vadă un trandafir. O poveste cam slabă!»",
+          "translationRu": "«Потом сказал, что вышел только посмотреть на розу. Слабоватая история!»",
+          "original": "...he had forgotten just stepping out to examine a rose. Rather a weak story!"
+        }
+      ]
+    },
+    {
+      "id": "para-020",
+      "sentences": [
+        {
+          "id": "sent-058",
+          "text": "«Mai este o dovadă», a adăugat Japp. «Davenheim purta mereu un inel de aur cu un diamant.»",
+          "translationRu": "«Есть ещё одна улика», — добавил Джепп. «Давенхайм всегда носил золотое кольцо с бриллиантом.»",
+          "original": "Mr. Davenheim always wore a thick gold ring set with a solitaire diamond."
+        },
+        {
+          "id": "sent-059",
+          "text": "«Acel inel a fost vândut la Londra, sâmbătă noaptea, de un om pe nume Billy Kellett.»",
+          "translationRu": "«Это кольцо продал в Лондоне в субботу ночью человек по имени Билли Келлетт.»",
+          "original": "That ring was pawned in London on Saturday night by a man called Billy Kellett."
+        },
+        {
+          "id": "sent-060",
+          "text": "«Poliția îl cunoaște deja: a stat trei luni la închisoare toamna trecută.»",
+          "translationRu": "«Полиция уже его знает: прошлой осенью он отсидел три месяца в тюрьме.»",
+          "original": "He's already known to the police, did three months last autumn."
+        },
+        {
+          "id": "sent-061",
+          "text": "«El a băut mult, a lovit un polițist și a fost prins.»",
+          "translationRu": "«Он много выпил, ударил полицейского и был пойман.»",
+          "original": "...got gloriously drunk, assaulted a policeman, and was run in."
+        }
+      ]
+    },
+    {
+      "id": "para-021",
+      "sentences": [
+        {
+          "id": "sent-062",
+          "text": "«Kellett ne-a spus o poveste ciudată», a continuat Japp.",
+          "translationRu": "«Келлетт рассказал нам странную историю», — продолжил Джепп.",
+          "original": "This is his yarn, and a very queer one it is."
+        },
+        {
+          "id": "sent-063",
+          "text": "«Sâmbătă, el s-a oprit pe drum să se odihnească și a văzut un domn brunet cu o mustață mare.»",
+          "translationRu": "«В субботу он остановился на дороге отдохнуть и увидел тёмного господина с большими усами.»",
+          "original": "He sat down by the road to rest, and saw a dark-complexioned gent with a big moustache."
+        },
+        {
+          "id": "sent-064",
+          "text": "«Domnul s-a uitat în jur și a aruncat un obiect mic peste gard.»",
+          "translationRu": "«Господин осмотрелся и бросил маленький предмет за изгородь.»",
+          "original": "...the man looked up and down the road and threw a small object over the hedge."
+        },
+        {
+          "id": "sent-065",
+          "text": "«Kellett a căutat și a găsit inelul!»",
+          "translationRu": "«Келлетт поискал и нашёл кольцо!»",
+          "original": "He investigated and discovered the ring!"
+        }
+      ]
+    },
+    {
+      "id": "para-022",
+      "sentences": [
+        {
+          "id": "sent-066",
+          "text": "«Poate Kellett l-a omorât pe Davenheim», a spus Japp.",
+          "translationRu": "«Может, Келлетт убил Давенхайма», — сказал Джепп.",
+          "original": "...he robbed and murdered him."
+        },
+        {
+          "id": "sent-067",
+          "text": "Dar Poirot a clătinat din cap. «Foarte puțin probabil.»",
+          "translationRu": "Но Пуаро покачал головой. «Очень маловероятно.»",
+          "original": "Poirot shook his head. Very improbable, mon ami."
+        },
+        {
+          "id": "sent-068",
+          "text": "«Un hoț mic ca el nu este de obicei un ucigaș.»",
+          "translationRu": "«Мелкий вор, как он, обычно не убийца.»",
+          "original": "Your sneak-thief is rarely a murderer."
+        },
+        {
+          "id": "sent-069",
+          "text": "«Și el este în închisoare de sâmbătă.»",
+          "translationRu": "«И он в тюрьме с субботы.»",
+          "original": "...he has been in prison since Saturday."
+        }
+      ]
+    },
+    {
+      "id": "para-023",
+      "sentences": [
+        {
+          "id": "sent-070",
+          "text": "«Lângă lac este un cuptor de var», a spus Japp.",
+          "translationRu": "«Возле озера есть печь для извести», — сказал Джепп.",
+          "original": "...not three minutes' walk brings you to a lime kiln."
+        },
+        {
+          "id": "sent-071",
+          "text": "«Varul poate distruge un trup, dar nu poate distruge inelul de metal. Ce crimă oribilă!», am spus eu.",
+          "translationRu": "«Известь может уничтожить тело, но не металлическое кольцо. Какое ужасное преступление!» — сказал я.",
+          "original": "The lime would destroy the body but not the metal of the ring. What a horrible crime!"
+        }
+      ]
+    },
+    {
+      "id": "para-024",
+      "sentences": [
+        {
+          "id": "sent-072",
+          "text": "Toți l-am privit pe Poirot. El gândea adânc, apoi a pus o întrebare foarte ciudată:",
+          "translationRu": "Все мы посмотрели на Пуаро. Он глубоко думал, потом задал очень странный вопрос:",
+          "original": "We looked at Poirot. He seemed lost in reflection, then he asked..."
+        },
+        {
+          "id": "sent-073",
+          "text": "«Domnul și doamna Davenheim dormeau în aceeași cameră?»",
+          "translationRu": "«Мистер и миссис Давенхайм спали в одной комнате?»",
+          "original": "Whether Mr. and Mrs. Davenheim occupied the same bedroom?"
+        }
+      ]
+    },
+    {
+      "id": "para-025",
+      "sentences": [
+        {
+          "id": "sent-074",
+          "text": "Întrebarea părea fără sens, și Japp a râs.",
+          "translationRu": "Вопрос казался бессмысленным, и Джепп рассмеялся.",
+          "original": "The question seemed so inappropriate that Japp burst into a laugh."
+        },
+        {
+          "id": "sent-075",
+          "text": "«Nu știu, dar pot să aflu, dacă chiar vrei», a spus el.",
+          "translationRu": "«Не знаю, но могу узнать, если ты правда хочешь», — сказал он.",
+          "original": "I don't know. You could find out? Oh, certainly, if you really want to know."
+        },
+        {
+          "id": "sent-076",
+          "text": "Japp a plecat, crezând că Poirot greșea.",
+          "translationRu": "Джепп ушёл, думая, что Пуаро ошибается.",
+          "original": "The detective shook his head sadly at me."
+        }
+      ]
+    },
+    {
+      "id": "para-026",
+      "sentences": [
+        {
+          "id": "sent-077",
+          "text": "Eu am scris pe o hârtie patru idei despre caz.",
+          "translationRu": "Я написал на бумаге четыре мысли о деле.",
+          "original": "I was jotting down the main points of interest in this affair."
+        },
+        {
+          "id": "sent-078",
+          "text": "«Unu: toate dovezile arată că Lowen a spart seiful. Doi: el era supărat pe Davenheim.»",
+          "translationRu": "«Первое: все улики говорят, что сейф взломал Лоуэн. Второе: он был зол на Давенхайма.»",
+          "original": "All the evidence points to Lowen. He had a grudge against Davenheim."
+        },
+        {
+          "id": "sent-079",
+          "text": "«Trei: el a mințit. Patru: povestea lui Kellett îl acuză pe Lowen.»",
+          "translationRu": "«Третье: он соврал. Четвёртое: история Келлетта обвиняет Лоуэна.»",
+          "original": "He lied. If you accept Kellett's story, Lowen is implicated."
+        }
+      ]
+    },
+    {
+      "id": "para-027",
+      "sentences": [
+        {
+          "id": "sent-080",
+          "text": "Poirot s-a uitat la mine cu milă. «Tu uiți lucrurile importante.»",
+          "translationRu": "Пуаро посмотрел на меня с жалостью. «Ты забываешь важное.»",
+          "original": "Poirot looked at me pityingly. The important detail, you appreciate him never!"
+        },
+        {
+          "id": "sent-081",
+          "text": "«Lowen nu putea ști că va fi singur în birou.»",
+          "translationRu": "«Лоуэн не мог знать, что окажется один в кабинете.»",
+          "original": "Lowen could not know beforehand that he would be alone in the study."
+        },
+        {
+          "id": "sent-082",
+          "text": "«Și un domn nu poartă unelte pentru spart seifuri.»",
+          "translationRu": "«И господин не носит с собой инструменты для взлома сейфов.»",
+          "original": "City gentlemen do not carry round housebreaker's tools."
+        }
+      ]
+    },
+    {
+      "id": "para-028",
+      "sentences": [
+        {
+          "id": "sent-083",
+          "text": "«Tu ai uitat două lucruri foarte importante», a spus Poirot.",
+          "translationRu": "«Ты забыл две очень важные вещи», — сказал Пуаро.",
+          "original": "You have overlooked the two most important points."
+        },
+        {
+          "id": "sent-084",
+          "text": "«Unu: Davenheim cumpăra mereu bijuterii. Doi: călătoria lui la Buenos Aires.»",
+          "translationRu": "«Первое: Давенхайм всё время покупал драгоценности. Второе: его поездка в Буэнос-Айрес.»",
+          "original": "One, the passion for buying jewellery. Two, his trip to Buenos Ayres."
+        },
+        {
+          "id": "sent-085",
+          "text": "«Poirot, glumești!» «Sunt foarte serios», a răspuns el.",
+          "translationRu": "«Пуаро, ты шутишь!» «Я совершенно серьёзен», — ответил он.",
+          "original": "Poirot, you are joking! I am most serious."
+        }
+      ]
+    },
+    {
+      "id": "para-029",
+      "sentences": [
+        {
+          "id": "sent-086",
+          "text": "A doua zi a venit o telegramă de la Japp. Eu am citit-o cu voce tare:",
+          "translationRu": "На следующий день пришла телеграмма от Джеппа. Я прочитал её вслух:",
+          "original": "A telegram was handed to Poirot. I opened it and read it out."
+        },
+        {
+          "id": "sent-087",
+          "text": "«Soțul și soția dorm în camere separate din iarna trecută.»",
+          "translationRu": "«Муж и жена спят в отдельных комнатах с прошлой зимы.»",
+          "original": "Husband and wife have occupied separate rooms since last winter."
+        },
+        {
+          "id": "sent-088",
+          "text": "«Aha! Acum este iunie! Totul este rezolvat!», a strigat Poirot.",
+          "translationRu": "«Ага! А сейчас июнь! Всё раскрыто!» — воскликнул Пуаро.",
+          "original": "Aha! And now we are in mid June! All is solved!"
+        }
+      ]
+    },
+    {
+      "id": "para-030",
+      "sentences": [
+        {
+          "id": "sent-089",
+          "text": "«Banca Davenheim va cădea în câteva zile», a spus Poirot.",
+          "translationRu": "«Банк Давенхайма рухнет через несколько дней», — сказал Пуаро.",
+          "original": "I expect a big smash in a few days."
+        },
+        {
+          "id": "sent-090",
+          "text": "A doua zi, în toate ziarele scria despre căderea băncii Davenheim.",
+          "translationRu": "На следующий день во всех газетах писали о крахе банка Давенхайма.",
+          "original": "In every paper was a huge headline telling of the failure of the Davenheim bank."
+        },
+        {
+          "id": "sent-091",
+          "text": "Japp a intrat repede. «Cum ai știut?», a strigat el.",
+          "translationRu": "Джепп быстро вошёл. «Как ты узнал?» — воскликнул он.",
+          "original": "Japp rushed in. How did you know, Monsieur Poirot?"
+        }
+      ]
+    },
+    {
+      "id": "para-031",
+      "sentences": [
+        {
+          "id": "sent-092",
+          "text": "«De la început, seiful spart mi s-a părut ciudat», a spus Poirot.",
+          "translationRu": "«С самого начала взломанный сейф показался мне странным», — сказал Пуаро.",
+          "original": "From the commencement, it struck me that the safe burglary was remarkable."
+        },
+        {
+          "id": "sent-093",
+          "text": "«Bijuterii, bani, obligațiuni — totul pregătit pentru cine? Pentru Davenheim însuși!»",
+          "translationRu": "«Драгоценности, деньги, облигации — всё приготовлено для кого? Для самого Давенхайма!»",
+          "original": "Jewels, ready money, bonds, all arranged for whom? It was arranged for himself!"
+        },
+        {
+          "id": "sent-094",
+          "text": "«El a furat banii băncii, i-a schimbat în bijuterii și poate a pus bijuterii false în loc.»",
+          "translationRu": "«Он украл деньги банка, превратил их в драгоценности и, может, поставил вместо них фальшивые.»",
+          "original": "The funds he embezzled, he converted into jewels, very likely replacing them with paste duplicates."
+        },
+        {
+          "id": "sent-095",
+          "text": "«Și a ascuns o avere sub alt nume.»",
+          "translationRu": "«И спрятал состояние под другим именем.»",
+          "original": "...and put away a fortune under another name."
+        }
+      ]
+    },
+    {
+      "id": "para-032",
+      "sentences": [
+        {
+          "id": "sent-096",
+          "text": "«Apoi a chemat pe Lowen, un dușman vechi, a făcut singur o gaură în seif și a ieșit din casă.»",
+          "translationRu": "«Потом он позвал Лоуэна, старого врага, сам проделал дыру в сейфе и вышел из дома.»",
+          "original": "He makes an appointment with Lowen, drills a hole in the safe, and walks out of the house."
+        },
+        {
+          "id": "sent-097",
+          "text": "«Unde s-a dus?», a întrebat Japp. «La ascunzătoarea lui», a spus Poirot.",
+          "translationRu": "«Куда он ушёл?» — спросил Джепп. «В своё убежище», — сказал Пуаро.",
+          "original": "Tell us where he went. He went to his hiding-place."
+        }
+      ]
+    },
+    {
+      "id": "para-033",
+      "sentences": [
+        {
+          "id": "sent-098",
+          "text": "«Gândiți-vă: dacă ați fi acest om, unde v-ați ascunde?», a întrebat Poirot.",
+          "translationRu": "«Подумайте: если бы вы были этим человеком, где бы вы спрятались?» — спросил Пуаро.",
+          "original": "If I were this man, where should I hide?"
+        },
+        {
+          "id": "sent-099",
+          "text": "«Eu aș rămâne la Londra, printre mulți oameni», am spus eu. «Eu aș fugi imediat cu o navă, departe», a spus Japp.",
+          "translationRu": "«Я остался бы в Лондоне, среди многих людей», — сказал я. «Я сразу бежал бы на корабле, далеко», — сказал Джепп.",
+          "original": "I'd stay in London. Get clear away at once, I'd have a yacht waiting, said Japp."
+        }
+      ]
+    },
+    {
+      "id": "para-034",
+      "sentences": [
+        {
+          "id": "sent-100",
+          "text": "Poirot a tăcut un moment, apoi a zâmbit ciudat.",
+          "translationRu": "Пуаро на миг замолчал, потом странно улыбнулся.",
+          "original": "A very curious smile flitted across his face."
+        },
+        {
+          "id": "sent-101",
+          "text": "«Prieteni, dacă eu m-aș ascunde de poliție, știți unde m-aș ascunde? Într-o închisoare!»",
+          "translationRu": "«Друзья, если бы я прятался от полиции, знаете, где бы я спрятался? В тюрьме!»",
+          "original": "If I were hiding from the police, do you know where I should hide? In a prison!"
+        },
+        {
+          "id": "sent-102",
+          "text": "«Voi îl căutați ca să-l puneți în închisoare, deci nu vă uitați dacă este deja acolo!»",
+          "translationRu": "«Вы ищете его, чтобы посадить в тюрьму, поэтому не смотрите, нет ли его уже там!»",
+          "original": "You are seeking him in order to put him in prison, so you never dream of looking there!"
+        }
+      ]
+    },
+    {
+      "id": "para-035",
+      "sentences": [
+        {
+          "id": "sent-103",
+          "text": "«Davenheim este omul Billy Kellett!», a spus Poirot.",
+          "translationRu": "«Давенхайм — это человек Билли Келлетт!» — сказал Пуаро.",
+          "original": "...confronted her with the man Billy Kellett."
+        },
+        {
+          "id": "sent-104",
+          "text": "«El și-a ras barba, mustața și sprâncenele, și și-a tăiat părul scurt.»",
+          "translationRu": "«Он сбрил бороду, усы и брови и подстриг волосы коротко.»",
+          "original": "...he has shaved his beard and moustache and bushy eyebrows, and cropped his hair close."
+        },
+        {
+          "id": "sent-105",
+          "text": "«Dar dacă soția lui îl vede, îl va recunoaște.»",
+          "translationRu": "«Но если жена его увидит, она узнает его.»",
+          "original": "...she would recognize him! A woman nearly always knows her husband."
+        }
+      ]
+    },
+    {
+      "id": "para-036",
+      "sentences": [
+        {
+          "id": "sent-106",
+          "text": "«Dar Kellett este cunoscut de poliție!», a strigat Japp.",
+          "translationRu": "«Но Келлетта знает полиция!» — воскликнул Джепп.",
+          "original": "But he's known to the police!"
+        },
+        {
+          "id": "sent-107",
+          "text": "«Davenheim nu a fost la Buenos Aires toamna trecută», a răspuns Poirot.",
+          "translationRu": "«Давенхайм не был в Буэнос-Айресе прошлой осенью», — ответил Пуаро.",
+          "original": "He was not in Buenos Ayres last autumn."
+        },
+        {
+          "id": "sent-108",
+          "text": "«În acel timp, el a creat personajul Billy Kellett.»",
+          "translationRu": "«В то время он создавал персонажа Билли Келлетта.»",
+          "original": "...he was creating the character of Billy Kellett."
+        },
+        {
+          "id": "sent-109",
+          "text": "«A stat trei luni la închisoare special, ca poliția să nu bănuiască nimic.»",
+          "translationRu": "«Он специально отсидел три месяца в тюрьме, чтобы полиция ничего не заподозрила.»",
+          "original": "...doing three months, so that the police should have no suspicions."
+        }
+      ]
+    },
+    {
+      "id": "para-037",
+      "sentences": [
+        {
+          "id": "sent-110",
+          "text": "«Dar era o problemă: ca să fie din nou Davenheim, el trebuia să poarte o barbă falsă», a continuat Poirot.",
+          "translationRu": "«Но была одна проблема: чтобы снова быть Давенхаймом, ему приходилось носить фальшивую бороду», — продолжил Пуаро.",
+          "original": "Only... he had to wear a false beard and make up as himself again."
+        },
+        {
+          "id": "sent-111",
+          "text": "«Dar nu poți dormi cu o barbă falsă, deci dormea separat de soția lui.»",
+          "translationRu": "«Но нельзя спать с фальшивой бородой, поэтому он спал отдельно от жены.»",
+          "original": "To sleep with a false beard is not easy. He cannot share the chamber of his wife."
+        },
+        {
+          "id": "sent-112",
+          "text": "«Când am aflat asta, am fost sigur. Totul se potrivea.»",
+          "translationRu": "«Когда я узнал это, я был уверен. Всё сходилось.»",
+          "original": "Then I was sure! Everything fitted in."
+        }
+      ]
+    },
+    {
+      "id": "para-038",
+      "sentences": [
+        {
+          "id": "sent-113",
+          "text": "«Davenheim a mers la casa de bărci, a pus hainele de vagabond și a aruncat hainele bune în lac», a spus Poirot.",
+          "translationRu": "«Давенхайм пошёл к лодочному домику, надел одежду бродяги и бросил хорошую одежду в озеро», — сказал Пуаро.",
+          "original": "He went to the boathouse, donned his tramp clothes, dropped the others in the lake."
+        },
+        {
+          "id": "sent-114",
+          "text": "«Apoi a vândut inelul în mod vizibil și a lovit un polițist.»",
+          "translationRu": "«Потом он заметно продал кольцо и ударил полицейского.»",
+          "original": "...pawning the ring in an obvious manner, then assaulting a policeman."
+        },
+        {
+          "id": "sent-115",
+          "text": "«Așa a intrat în siguranță în închisoare, unde nimeni nu îl caută!»",
+          "translationRu": "«Так он в безопасности попал в тюрьму, где никто его не ищет!»",
+          "original": "...getting himself safely into Bow Street, where nobody would dream of looking for him!"
+        }
+      ]
+    },
+    {
+      "id": "para-039",
+      "sentences": [
+        {
+          "id": "sent-116",
+          "text": "«Este imposibil», a murmurat Japp.",
+          "translationRu": "«Это невозможно», — пробормотал Джепп.",
+          "original": "It's impossible, murmured Japp."
+        },
+        {
+          "id": "sent-117",
+          "text": "«Întreab-o pe doamna Davenheim», a spus prietenul meu, zâmbind.",
+          "translationRu": "«Спроси миссис Давенхайм», — сказал мой друг, улыбаясь.",
+          "original": "Ask Madame, said my friend, smiling."
+        }
+      ]
+    },
+    {
+      "id": "para-040",
+      "sentences": [
+        {
+          "id": "sent-118",
+          "text": "A doua zi, o scrisoare era lângă farfuria lui Poirot.",
+          "translationRu": "На следующий день возле тарелки Пуаро лежало письмо.",
+          "original": "The next day a registered letter lay beside Poirot's plate."
+        },
+        {
+          "id": "sent-119",
+          "text": "El a deschis-o și o bancnotă de cinci lire a căzut din ea: Japp pierduse pariul.",
+          "translationRu": "Он открыл его, и из него выпала банкнота в пять фунтов: Джепп проиграл спор.",
+          "original": "He opened it, and a five-pound note fluttered out."
+        },
+        {
+          "id": "sent-120",
+          "text": "«Sărmanul Japp! Am o idee: cinăm împreună, noi trei!», a spus Poirot, zâmbind.",
+          "translationRu": "«Бедный Джепп! У меня идея: поужинаем вместе, мы трое!» — сказал Пуаро, улыбаясь.",
+          "original": "Ce pauvre Japp! We will have a little dinner, we three! It was really too easy."
+        }
+      ]
+    }
+  ]
+}

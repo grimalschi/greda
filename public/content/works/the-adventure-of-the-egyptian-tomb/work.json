@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-egyptian-tomb",
+  "lang": "ro",
+  "title": "Aventura mormântului egiptean",
+  "titleRu": "Приключение в египетской гробнице",
+  "originalTitle": "The Adventure of the Egyptian Tomb",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "После вскрытия гробницы древнеегипетского царя Менхер-Ра один за другим умирают участники раскопок, и газеты кричат о «проклятии фараона». Вдова сэра Джона Уилларда просит Пуаро защитить её сына, и сыщик вместе с Гастингсом едет в Египет. Под маской мнимого проклятия Пуаро раскрывает вполне земного убийцу с корыстным мотивом.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

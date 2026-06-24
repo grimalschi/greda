@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-million-dollar-bond-robbery",
+  "lang": "ro",
+  "title": "Furtul obligațiunilor de un milion de dolari",
+  "titleRu": "Кража облигаций на миллион долларов",
+  "originalTitle": "The Million Dollar Bond Robbery",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Молодой банкир Филип Риджуэй должен перевезти на лайнере «Олимпия» в Нью-Йорк облигации Либерти на миллион долларов. В пути запечатанный пакет исчезает из запертого чемодана, а облигации начинают продавать в Нью-Йорке ещё до прибытия судна. Невеста Риджуэя просит Пуаро спасти его доброе имя, и сыщик раскрывает хитрый план настоящего вора.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

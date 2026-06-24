@@ -1,0 +1,638 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-adventure-of-the-cheap-flat",
+  "level": "a1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Apartamentul ieftin"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Mă numesc Hastings.",
+          "translationRu": "Меня зовут Гастингс.",
+          "original": "My name is Hastings."
+        },
+        {
+          "id": "sent-002",
+          "text": "Locuiesc cu prietenul meu Poirot.",
+          "translationRu": "Я живу с моим другом Пуаро.",
+          "original": "I live with my friend Poirot."
+        },
+        {
+          "id": "sent-003",
+          "text": "El este un detectiv foarte deștept.",
+          "translationRu": "Он очень умный сыщик.",
+          "original": "He is a very clever detective."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Într-o seară am fost la o cină.",
+          "translationRu": "Однажды вечером я был на ужине.",
+          "original": "One evening I went to a dinner."
+        },
+        {
+          "id": "sent-005",
+          "text": "Acolo era o doamnă Robinson.",
+          "translationRu": "Там была некая миссис Робинсон.",
+          "original": "There was a Mrs. Robinson there."
+        },
+        {
+          "id": "sent-006",
+          "text": "Ea a vorbit despre noul ei apartament.",
+          "translationRu": "Она рассказала о своей новой квартире.",
+          "original": "She talked about her new flat."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "Apartamentul este foarte frumos.",
+          "translationRu": "Квартира очень красивая.",
+          "original": "The flat is very nice."
+        },
+        {
+          "id": "sent-008",
+          "text": "Este într-un cartier scump.",
+          "translationRu": "Она в дорогом районе.",
+          "original": "It is in an expensive area."
+        },
+        {
+          "id": "sent-009",
+          "text": "Dar doamna Robinson plătește foarte puțin.",
+          "translationRu": "Но миссис Робинсон платит совсем мало.",
+          "original": "But Mrs. Robinson pays very little."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "Acasă, i-am spus lui Poirot.",
+          "translationRu": "Дома я рассказал об этом Пуаро.",
+          "original": "At home, I told Poirot."
+        },
+        {
+          "id": "sent-011",
+          "text": "Un apartament bun și foarte ieftin, am zis.",
+          "translationRu": "Хорошая квартира и очень дешёвая, сказал я.",
+          "original": "A good flat and very cheap, I said."
+        },
+        {
+          "id": "sent-012",
+          "text": "Asta este ciudat, a spus el.",
+          "translationRu": "Это странно, сказал он.",
+          "original": "That is strange, he said."
+        },
+        {
+          "id": "sent-013",
+          "text": "Un apartament ca acesta costă mult.",
+          "translationRu": "Такая квартира стоит дорого.",
+          "original": "A flat like this costs a lot."
+        },
+        {
+          "id": "sent-014",
+          "text": "Vreau să văd apartamentul.",
+          "translationRu": "Я хочу посмотреть эту квартиру.",
+          "original": "I want to see the flat."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "A doua zi am mers acolo.",
+          "translationRu": "На следующий день мы пошли туда.",
+          "original": "The next day we went there."
+        },
+        {
+          "id": "sent-016",
+          "text": "Poirot a vorbit cu portarul.",
+          "translationRu": "Пуаро поговорил со швейцаром.",
+          "original": "Poirot spoke with the porter."
+        },
+        {
+          "id": "sent-017",
+          "text": "Mulți oameni au vrut apartamentul, a spus portarul.",
+          "translationRu": "Многие хотели снять эту квартиру, сказал швейцар.",
+          "original": "Many people wanted the flat, said the porter."
+        },
+        {
+          "id": "sent-018",
+          "text": "Dar doamna Robinson l-a primit ieftin.",
+          "translationRu": "Но получила её дёшево миссис Робинсон.",
+          "original": "But Mrs. Robinson got it cheaply."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "Aici se ascunde un secret, a spus Poirot.",
+          "translationRu": "Здесь скрыта какая-то тайна, сказал Пуаро.",
+          "original": "A secret is hidden here, said Poirot."
+        },
+        {
+          "id": "sent-020",
+          "text": "Cineva voia o doamnă Robinson aici.",
+          "translationRu": "Кто-то хотел, чтобы здесь жила миссис Робинсон.",
+          "original": "Someone wanted a Mrs. Robinson here."
+        },
+        {
+          "id": "sent-021",
+          "text": "Nu înțeleg, am spus eu.",
+          "translationRu": "Я не понимаю, сказал я.",
+          "original": "I do not understand, I said."
+        },
+        {
+          "id": "sent-022",
+          "text": "Vei înțelege curând, a răspuns Poirot.",
+          "translationRu": "Скоро поймёшь, ответил Пуаро.",
+          "original": "You will understand soon, answered Poirot."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "Apoi a venit inspectorul Japp.",
+          "translationRu": "Потом пришёл инспектор Джепп.",
+          "original": "Then Inspector Japp came."
+        },
+        {
+          "id": "sent-024",
+          "text": "El lucrează la poliție.",
+          "translationRu": "Он работает в полиции.",
+          "original": "He works at the police."
+        },
+        {
+          "id": "sent-025",
+          "text": "Niște planuri secrete au dispărut, a spus Japp.",
+          "translationRu": "Пропали секретные чертежи, сказал Джепп.",
+          "original": "Some secret plans have disappeared, said Japp."
+        },
+        {
+          "id": "sent-026",
+          "text": "Sunt planurile unui submarin.",
+          "translationRu": "Это чертежи подводной лодки.",
+          "original": "They are the plans of a submarine."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "Un italian le-a furat în America.",
+          "translationRu": "Их украл в Америке один итальянец.",
+          "original": "An Italian stole them in America."
+        },
+        {
+          "id": "sent-028",
+          "text": "Se numea Luigi Valdarno, dar acum este mort.",
+          "translationRu": "Его звали Луиджи Вальдарно, но теперь он мёртв.",
+          "original": "His name was Luigi Valdarno, but now he is dead."
+        },
+        {
+          "id": "sent-029",
+          "text": "A dat planurile unei femei.",
+          "translationRu": "Он отдал чертежи одной женщине.",
+          "original": "He gave the plans to a woman."
+        },
+        {
+          "id": "sent-030",
+          "text": "Femeia este o spioană, Elsa Hardt.",
+          "translationRu": "Эта женщина — шпионка, Эльза Хардт.",
+          "original": "The woman is a spy, Elsa Hardt."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-031",
+          "text": "Elsa Hardt a fugit în Anglia, a spus Japp.",
+          "translationRu": "Эльза Хардт сбежала в Англию, сказал Джепп.",
+          "original": "Elsa Hardt has fled to England, said Japp."
+        },
+        {
+          "id": "sent-032",
+          "text": "Are părul roșu și ochii albaștri.",
+          "translationRu": "У неё рыжие волосы и голубые глаза.",
+          "original": "She has red hair and blue eyes."
+        },
+        {
+          "id": "sent-033",
+          "text": "Aceeași descriere ca doamna Robinson! a spus Poirot.",
+          "translationRu": "Такое же описание, как у миссис Робинсон! сказал Пуаро.",
+          "original": "The same description as Mrs. Robinson! said Poirot."
+        },
+        {
+          "id": "sent-034",
+          "text": "Acum totul este clar.",
+          "translationRu": "Теперь всё ясно.",
+          "original": "Now everything is clear."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-035",
+          "text": "Apartamentul ieftin este o capcană, a spus Poirot.",
+          "translationRu": "Дешёвая квартира — это ловушка, сказал Пуаро.",
+          "original": "The cheap flat is a trap, said Poirot."
+        },
+        {
+          "id": "sent-036",
+          "text": "Spionii au închiriat apartamentul.",
+          "translationRu": "Шпионы сняли эту квартиру.",
+          "original": "The spies rented the flat."
+        },
+        {
+          "id": "sent-037",
+          "text": "Apoi au plecat și l-au oferit ieftin.",
+          "translationRu": "Потом они уехали и предложили её дёшево.",
+          "original": "Then they left and offered it cheaply."
+        },
+        {
+          "id": "sent-038",
+          "text": "Ei voiau o doamnă Robinson aici.",
+          "translationRu": "Им была нужна некая миссис Робинсон.",
+          "original": "They wanted a Mrs. Robinson here."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-039",
+          "text": "Robinson este un nume foarte comun.",
+          "translationRu": "Робинсон — очень распространённая фамилия.",
+          "original": "Robinson is a very common name."
+        },
+        {
+          "id": "sent-040",
+          "text": "Niște oameni răi o caută pe Elsa Hardt.",
+          "translationRu": "Какие-то злодеи разыскивают Эльзу Хардт.",
+          "original": "Some bad men are looking for Elsa Hardt."
+        },
+        {
+          "id": "sent-041",
+          "text": "Ei vor veni la acest apartament.",
+          "translationRu": "Они придут в эту квартиру.",
+          "original": "They will come to this flat."
+        },
+        {
+          "id": "sent-042",
+          "text": "Și vor ataca doamna greșită.",
+          "translationRu": "И нападут не на ту даму.",
+          "original": "And they will attack the wrong lady."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-043",
+          "text": "Trebuie să-i salvăm pe Robinson, am spus eu.",
+          "translationRu": "Мы должны спасти Робинсонов, сказал я.",
+          "original": "We must save the Robinsons, I said."
+        },
+        {
+          "id": "sent-044",
+          "text": "Poirot are un plan.",
+          "translationRu": "У Пуаро есть план.",
+          "original": "Poirot has a plan."
+        },
+        {
+          "id": "sent-045",
+          "text": "El a închiriat apartamentul de deasupra.",
+          "translationRu": "Он снял квартиру этажом выше.",
+          "original": "He rented the flat above."
+        },
+        {
+          "id": "sent-046",
+          "text": "Acolo vom aștepta, a spus el.",
+          "translationRu": "Там мы и будем ждать, сказал он.",
+          "original": "There we will wait, he said."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-047",
+          "text": "Duminică seara familia Robinson a plecat.",
+          "translationRu": "В воскресенье вечером Робинсоны ушли.",
+          "original": "On Sunday evening the Robinsons left."
+        },
+        {
+          "id": "sent-048",
+          "text": "Apartamentul lor era acum gol.",
+          "translationRu": "Их квартира была теперь пуста.",
+          "original": "Their flat was now empty."
+        },
+        {
+          "id": "sent-049",
+          "text": "Am coborât cu liftul pentru cărbuni.",
+          "translationRu": "Мы спустились на угольном лифте.",
+          "original": "We went down in the coal lift."
+        },
+        {
+          "id": "sent-050",
+          "text": "Așa am intrat în apartamentul gol.",
+          "translationRu": "Так мы пробрались в пустую квартиру.",
+          "original": "So we got into the empty flat."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-051",
+          "text": "Am stins lumina și am așteptat.",
+          "translationRu": "Мы погасили свет и стали ждать.",
+          "original": "We turned off the light and waited."
+        },
+        {
+          "id": "sent-052",
+          "text": "Totul era foarte liniștit.",
+          "translationRu": "Всё было очень тихо.",
+          "original": "Everything was very quiet."
+        },
+        {
+          "id": "sent-053",
+          "text": "Inima mea bătea repede.",
+          "translationRu": "Моё сердце колотилось.",
+          "original": "My heart was beating fast."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-054",
+          "text": "Deodată am auzit un zgomot la ușă.",
+          "translationRu": "Вдруг мы услышали шорох у двери.",
+          "original": "Suddenly we heard a noise at the door."
+        },
+        {
+          "id": "sent-055",
+          "text": "Un bărbat a deschis ușa încet.",
+          "translationRu": "Какой-то мужчина тихо открыл дверь.",
+          "original": "A man opened the door slowly."
+        },
+        {
+          "id": "sent-056",
+          "text": "Ținea un cuțit în mână.",
+          "translationRu": "В руке он держал нож.",
+          "original": "He held a knife in his hand."
+        },
+        {
+          "id": "sent-057",
+          "text": "Este un italian, a șoptit Poirot.",
+          "translationRu": "Это итальянец, прошептал Пуаро.",
+          "original": "He is an Italian, whispered Poirot."
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-058",
+          "text": "Acum, Hastings! a spus Poirot.",
+          "translationRu": "Сейчас, Гастингс! сказал Пуаро.",
+          "original": "Now, Hastings! said Poirot."
+        },
+        {
+          "id": "sent-059",
+          "text": "Am sărit pe bărbat din spate.",
+          "translationRu": "Я бросился на мужчину сзади.",
+          "original": "I jumped on the man from behind."
+        },
+        {
+          "id": "sent-060",
+          "text": "Poirot i-a luat cuțitul.",
+          "translationRu": "Пуаро отнял у него нож.",
+          "original": "Poirot took his knife."
+        },
+        {
+          "id": "sent-061",
+          "text": "Bărbatul nu a mai putut lupta.",
+          "translationRu": "Мужчина больше не мог сопротивляться.",
+          "original": "The man could not fight anymore."
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-062",
+          "text": "Du-ne la Elsa Hardt, a spus Poirot.",
+          "translationRu": "Отведи нас к Эльзе Хардт, сказал Пуаро.",
+          "original": "Take us to Elsa Hardt, said Poirot."
+        },
+        {
+          "id": "sent-063",
+          "text": "Bărbatul s-a speriat și a fost de acord.",
+          "translationRu": "Мужчина испугался и согласился.",
+          "original": "The man was afraid and agreed."
+        },
+        {
+          "id": "sent-064",
+          "text": "Ne-a dus la o altă casă.",
+          "translationRu": "Он отвёл нас к другому дому.",
+          "original": "He took us to another house."
+        },
+        {
+          "id": "sent-065",
+          "text": "Acolo locuia adevărata Elsa Hardt.",
+          "translationRu": "Там жила настоящая Эльза Хардт.",
+          "original": "There lived the real Elsa Hardt."
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-066",
+          "text": "Elsa Hardt ne-a văzut și a înțeles totul.",
+          "translationRu": "Эльза Хардт увидела нас и всё поняла.",
+          "original": "Elsa Hardt saw us and understood everything."
+        },
+        {
+          "id": "sent-067",
+          "text": "Lângă telefon era un pisoi negru de catifea.",
+          "translationRu": "Рядом с телефоном стоял чёрный бархатный кот.",
+          "original": "Next to the telephone was a black velvet cat."
+        },
+        {
+          "id": "sent-068",
+          "text": "Femeia l-a luat repede.",
+          "translationRu": "Женщина быстро схватила его.",
+          "original": "The woman quickly took it."
+        },
+        {
+          "id": "sent-069",
+          "text": "Planurile sunt aici, în pisoi, a spus ea.",
+          "translationRu": "Чертежи здесь, в коте, сказала она.",
+          "original": "The plans are here, in the cat, she said."
+        }
+      ]
+    },
+    {
+      "id": "para-019",
+      "sentences": [
+        {
+          "id": "sent-070",
+          "text": "Sunt cusute în interior.",
+          "translationRu": "Они зашиты внутри.",
+          "original": "They are sewn inside."
+        },
+        {
+          "id": "sent-071",
+          "text": "Apoi a vrut să fugă.",
+          "translationRu": "И тут она бросилась бежать.",
+          "original": "Then she tried to run."
+        },
+        {
+          "id": "sent-072",
+          "text": "Italianul a scos un pistol și a tras.",
+          "translationRu": "Итальянец выхватил пистолет и выстрелил.",
+          "original": "The Italian took out a gun and fired."
+        },
+        {
+          "id": "sent-073",
+          "text": "Dar pistolul era gol.",
+          "translationRu": "Но пистолет был пуст.",
+          "original": "But the gun was empty."
+        },
+        {
+          "id": "sent-074",
+          "text": "Poirot scosese gloanțele înainte.",
+          "translationRu": "Пуаро заранее вынул патроны.",
+          "original": "Poirot had taken out the bullets before."
+        }
+      ]
+    },
+    {
+      "id": "para-020",
+      "sentences": [
+        {
+          "id": "sent-075",
+          "text": "În acel moment a intrat Japp.",
+          "translationRu": "В этот момент вошёл Джепп.",
+          "original": "At that moment Japp came in."
+        },
+        {
+          "id": "sent-076",
+          "text": "A venit cu un american pe nume Burt.",
+          "translationRu": "Он пришёл с американцем по имени Бёрт.",
+          "original": "He came with an American called Burt."
+        },
+        {
+          "id": "sent-077",
+          "text": "Burt lucrează pentru serviciul secret.",
+          "translationRu": "Бёрт работает на секретную службу.",
+          "original": "Burt works for the secret service."
+        },
+        {
+          "id": "sent-078",
+          "text": "Poliția i-a arestat pe spioni.",
+          "translationRu": "Полиция арестовала шпионов.",
+          "original": "The police arrested the spies."
+        }
+      ]
+    },
+    {
+      "id": "para-021",
+      "sentences": [
+        {
+          "id": "sent-079",
+          "text": "Burt a luat pisoiul negru.",
+          "translationRu": "Бёрт взял чёрного кота.",
+          "original": "Burt took the black cat."
+        },
+        {
+          "id": "sent-080",
+          "text": "A găsit planurile în interior.",
+          "translationRu": "Он нашёл чертежи внутри.",
+          "original": "He found the plans inside."
+        },
+        {
+          "id": "sent-081",
+          "text": "Planurile sunt salvate, mulțumesc! a spus el.",
+          "translationRu": "Чертежи спасены, спасибо! сказал он.",
+          "original": "The plans are safe, thank you! he said."
+        },
+        {
+          "id": "sent-082",
+          "text": "Iar familia Robinson este în siguranță.",
+          "translationRu": "А семья Робинсон в безопасности.",
+          "original": "And the Robinsons are safe."
+        }
+      ]
+    },
+    {
+      "id": "para-022",
+      "sentences": [
+        {
+          "id": "sent-083",
+          "text": "Ești minunat, Poirot, am spus eu.",
+          "translationRu": "Ты великолепен, Пуаро, сказал я.",
+          "original": "You are wonderful, Poirot, I said."
+        },
+        {
+          "id": "sent-084",
+          "text": "Cum ai înțeles totul?",
+          "translationRu": "Как ты всё это понял?",
+          "original": "How did you understand everything?"
+        },
+        {
+          "id": "sent-085",
+          "text": "Foarte simplu, prietene, a răspuns el.",
+          "translationRu": "Очень просто, друг мой, ответил он.",
+          "original": "Very simple, my friend, he answered."
+        },
+        {
+          "id": "sent-086",
+          "text": "Un apartament prea ieftin ascunde mereu ceva.",
+          "translationRu": "Слишком дешёвая квартира всегда что-то скрывает.",
+          "original": "A flat that is too cheap always hides something."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-case-of-the-missing-will",
+  "lang": "ro",
+  "title": "Cazul testamentului dispărut",
+  "titleRu": "Дело о пропавшем завещании",
+  "originalTitle": "The Case of the Missing Will",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Молодая женщина по имени Вайолет Марш приходит к Пуаро за помощью. Её покойный дядя оставил странное завещание: чтобы получить наследство, она должна за год доказать свой ум и найти спрятанное настоящее завещание, иначе всё уйдёт на благотворительность. Пуаро замечает грязный конверт, привязанный к ключу от стола, и раскрывает хитрость старика.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

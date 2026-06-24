@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "id": "the-adventure-of-the-western-star",
+  "lang": "ro",
+  "title": "Steaua de Vest",
+  "titleRu": "Звезда Запада",
+  "originalTitle": "The Adventure of the Western Star",
+  "author": {
+    "id": "agatha-christie",
+    "name": "Agatha Christie"
+  },
+  "genres": [
+    "Детектив"
+  ],
+  "synopsisRu": "Знаменитая киноактриса Мэри Марвелл получает письма с угрозами: таинственный китаец требует вернуть огромный бриллиант «Звезда Запада», якобы один из двух глаз древнего идола. У леди Ярдли есть второй такой же камень — «Звезда Востока», и ей шлют такие же письма. Когда во время кражи в поместье Ярдли камень исчезает, Эркюль Пуаро доказывает, что близнецов-бриллиантов никогда не было, и называет настоящего похитителя.",
+  "proofread": {
+    "model": "claude-opus-4-8",
+    "date": "2026-06-24"
+  },
+  "levels": {
+    "a1": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "a2": {
+      "available": true,
+      "chapterCount": 1
+    },
+    "b1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "b2": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c1": {
+      "available": false,
+      "chapterCount": 0
+    },
+    "c2": {
+      "available": false,
+      "chapterCount": 0
+    }
+  }
+}

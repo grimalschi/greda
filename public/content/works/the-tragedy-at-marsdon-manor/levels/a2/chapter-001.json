@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-tragedy-at-marsdon-manor",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Tragedia de la conacul Marsdon"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Mă numesc Hastings,",
+          "translationRu": "Меня зовут Гастингс,",
+          "original": "My name is Hastings,"
+        },
+        {
+          "id": "sent-002",
+          "text": "și locuiesc cu prietenul meu Poirot.",
+          "translationRu": "и я живу с моим другом Пуаро.",
+          "original": "and I live with my friend Poirot."
+        },
+        {
+          "id": "sent-003",
+          "text": "Poirot este un detectiv belgian foarte cunoscut.",
+          "translationRu": "Пуаро — очень известный бельгийский детектив.",
+          "original": "Poirot is a very well known Belgian detective."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-004",
+          "text": "Într-o dimineață a sosit o scrisoare.",
+          "translationRu": "Однажды утром пришло письмо.",
+          "original": "One morning a letter arrived."
+        },
+        {
+          "id": "sent-005",
+          "text": "Venea de la o mare companie de asigurări,",
+          "translationRu": "Оно было от крупной страховой компании,",
+          "original": "It came from a big insurance company,"
+        },
+        {
+          "id": "sent-006",
+          "text": "care voia ajutorul lui Poirot.",
+          "translationRu": "которая хотела помощи Пуаро.",
+          "original": "which wanted Poirot's help."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-007",
+          "text": "În scrisoare se vorbea despre un om bogat,",
+          "translationRu": "В письме говорилось об одном богатом человеке,",
+          "original": "The letter spoke about a rich man,"
+        },
+        {
+          "id": "sent-008",
+          "text": "domnul Maltravers, care locuia la țară.",
+          "translationRu": "господине Малтраверсе, который жил за городом.",
+          "original": "Mr. Maltravers, who lived in the country."
+        },
+        {
+          "id": "sent-009",
+          "text": "Cu puțin timp în urmă, el și-a asigurat viața,",
+          "translationRu": "Незадолго до того он застраховал свою жизнь,",
+          "original": "A short time before, he insured his life,"
+        },
+        {
+          "id": "sent-010",
+          "text": "și a cerut o sumă foarte mare de bani.",
+          "translationRu": "и попросил очень большую сумму денег.",
+          "original": "and he asked for a very large sum of money."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Lucrul ciudat este următorul:",
+          "translationRu": "Странное вот что:",
+          "original": "The strange thing is this:"
+        },
+        {
+          "id": "sent-012",
+          "text": "la puțin timp după aceea, domnul Maltravers a murit.",
+          "translationRu": "вскоре после этого господин Малтраверс умер.",
+          "original": "a short time later, Mr. Maltravers died."
+        },
+        {
+          "id": "sent-013",
+          "text": "A murit deodată, fără un motiv clar.",
+          "translationRu": "Он умер внезапно, без ясной причины.",
+          "original": "He died suddenly, without a clear reason."
+        },
+        {
+          "id": "sent-014",
+          "text": "De aceea, compania nu vrea să platească imediat.",
+          "translationRu": "Поэтому компания не хочет платить сразу.",
+          "original": "That is why the company does not want to pay at once."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-015",
+          "text": "Poirot citește scrisoarea de două ori,",
+          "translationRu": "Пуаро читает письмо дважды,",
+          "original": "Poirot reads the letter twice,"
+        },
+        {
+          "id": "sent-016",
+          "text": "și apoi se uită la mine.",
+          "translationRu": "а потом смотрит на меня.",
+          "original": "and then he looks at me."
+        },
+        {
+          "id": "sent-017",
+          "text": "Hastings, spune el, trebuie să mergem la conac.",
+          "translationRu": "Гастингс, говорит он, нам надо ехать в поместье.",
+          "original": "Hastings, he says, we must go to the manor."
+        },
+        {
+          "id": "sent-018",
+          "text": "Vreau să văd totul cu ochii mei.",
+          "translationRu": "Я хочу увидеть всё своими глазами.",
+          "original": "I want to see everything with my own eyes."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-019",
+          "text": "În aceeași zi luăm trenul până la satul Marsdon,",
+          "translationRu": "В тот же день мы едем на поезде до деревни Марсдон,",
+          "original": "The same day we take the train to the village of Marsdon,"
+        },
+        {
+          "id": "sent-020",
+          "text": "și apoi mergem pe jos până la conac.",
+          "translationRu": "а потом идём пешком до поместья.",
+          "original": "and then we walk to the manor."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-021",
+          "text": "Conacul Marsdon este o casă mare și veche.",
+          "translationRu": "Поместье Марсдон — большой и старый дом.",
+          "original": "Marsdon Manor is a big and old house."
+        },
+        {
+          "id": "sent-022",
+          "text": "În jurul casei este o grădină liniștită.",
+          "translationRu": "Вокруг дома — тихий сад.",
+          "original": "Around the house there is a quiet garden."
+        },
+        {
+          "id": "sent-023",
+          "text": "Totul pare calm, dar aici a murit un om.",
+          "translationRu": "Всё кажется спокойным, но здесь умер человек.",
+          "original": "Everything seems calm, but a man died here."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-024",
+          "text": "În casă ne primește o femeie tânără.",
+          "translationRu": "В доме нас встречает молодая женщина.",
+          "original": "In the house a young woman receives us."
+        },
+        {
+          "id": "sent-025",
+          "text": "Este doamna Maltravers, soția mortului.",
+          "translationRu": "Это госпожа Малтраверс, жена покойного.",
+          "original": "She is Mrs. Maltravers, the dead man's wife."
+        },
+        {
+          "id": "sent-026",
+          "text": "Ea este tânără, frumoasă și palidă.",
+          "translationRu": "Она молода, красива и бледна.",
+          "original": "She is young, beautiful and pale."
+        },
+        {
+          "id": "sent-027",
+          "text": "Acum este văduvă,",
+          "translationRu": "Теперь она вдова,",
+          "original": "Now she is a widow,"
+        },
+        {
+          "id": "sent-028",
+          "text": "și poartă haine negre.",
+          "translationRu": "и носит чёрную одежду.",
+          "original": "and she wears black clothes."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-029",
+          "text": "Doamna Maltravers ne povestește totul.",
+          "translationRu": "Госпожа Малтраверс рассказывает нам всё.",
+          "original": "Mrs. Maltravers tells us everything."
+        },
+        {
+          "id": "sent-030",
+          "text": "Soțul meu nu se simțea bine în ultimul timp, spune ea.",
+          "translationRu": "Мой муж в последнее время плохо себя чувствовал, говорит она.",
+          "original": "My husband was not well lately, she says."
+        },
+        {
+          "id": "sent-031",
+          "text": "În acea zi a ieșit în grădină,",
+          "translationRu": "В тот день он вышел в сад,",
+          "original": "That day he went out into the garden,"
+        },
+        {
+          "id": "sent-032",
+          "text": "și acolo a căzut la pământ.",
+          "translationRu": "и там упал на землю.",
+          "original": "and there he fell to the ground."
+        },
+        {
+          "id": "sent-033",
+          "text": "Când l-au găsit, avea sânge pe buze.",
+          "translationRu": "Когда его нашли, у него на губах была кровь.",
+          "original": "When they found him, he had blood on his lips."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-034",
+          "text": "Doctorul satului a venit foarte repede.",
+          "translationRu": "Деревенский доктор пришёл очень быстро.",
+          "original": "The village doctor came very quickly."
+        },
+        {
+          "id": "sent-035",
+          "text": "El a spus că este o hemoragie internă,",
+          "translationRu": "Он сказал, что это внутреннее кровотечение,",
+          "original": "He said it was an internal hemorrhage,"
+        },
+        {
+          "id": "sent-036",
+          "text": "din cauza unei boli a stomacului.",
+          "translationRu": "из-за болезни желудка.",
+          "original": "because of a stomach illness."
+        },
+        {
+          "id": "sent-037",
+          "text": "Pentru doctor, cazul era simplu și clar.",
+          "translationRu": "Для доктора случай был простым и ясным.",
+          "original": "For the doctor the case was simple and clear."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-038",
+          "text": "Dar Poirot nu este sigur.",
+          "translationRu": "Но Пуаро не уверен.",
+          "original": "But Poirot is not sure."
+        },
+        {
+          "id": "sent-039",
+          "text": "El pune multe întrebări,",
+          "translationRu": "Он задаёт много вопросов,",
+          "original": "He asks many questions,"
+        },
+        {
+          "id": "sent-040",
+          "text": "și ascultă fiecare cuvânt cu atenție.",
+          "translationRu": "и внимательно слушает каждое слово.",
+          "original": "and he listens to every word carefully."
+        },
+        {
+          "id": "sent-041",
+          "text": "Apoi merge în grădină și se uită mult timp în jur.",
+          "translationRu": "Потом он идёт в сад и долго осматривается.",
+          "original": "Then he goes into the garden and looks around for a long time."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-042",
+          "text": "Poirot întreabă despre oaspeți.",
+          "translationRu": "Пуаро спрашивает о гостях.",
+          "original": "Poirot asks about guests."
+        },
+        {
+          "id": "sent-043",
+          "text": "A venit cineva în casă înainte de moarte?",
+          "translationRu": "Кто-нибудь приходил в дом перед смертью?",
+          "original": "Did anyone come to the house before the death?"
+        },
+        {
+          "id": "sent-044",
+          "text": "Da, spune doamna,",
+          "translationRu": "Да, говорит госпожа,",
+          "original": "Yes, the lady says,"
+        },
+        {
+          "id": "sent-045",
+          "text": "a stat la noi un tânăr ofițer.",
+          "translationRu": "у нас останавливался молодой офицер.",
+          "original": "a young officer stayed with us."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-046",
+          "text": "Numele lui este căpitanul Black.",
+          "translationRu": "Его зовут капитан Блэк.",
+          "original": "His name is Captain Black."
+        },
+        {
+          "id": "sent-047",
+          "text": "El este soldat,",
+          "translationRu": "Он солдат,",
+          "original": "He is a soldier,"
+        },
+        {
+          "id": "sent-048",
+          "text": "și tocmai s-a întors din Africa.",
+          "translationRu": "и он только что вернулся из Африки.",
+          "original": "and he has just returned from Africa."
+        },
+        {
+          "id": "sent-049",
+          "text": "A stat la conac doar o seară,",
+          "translationRu": "Он пробыл в поместье лишь один вечер,",
+          "original": "He stayed at the manor only one evening,"
+        },
+        {
+          "id": "sent-050",
+          "text": "chiar înainte ca soțul meu să moară.",
+          "translationRu": "как раз перед тем, как мой муж умер.",
+          "original": "just before my husband died."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-051",
+          "text": "Poirot vrea să vorbească cu acest ofițer.",
+          "translationRu": "Пуаро хочет поговорить с этим офицером.",
+          "original": "Poirot wants to talk to this officer."
+        },
+        {
+          "id": "sent-052",
+          "text": "Îl găsim într-un hotel din apropiere,",
+          "translationRu": "Мы находим его в гостинице неподалёку,",
+          "original": "We find him in a hotel nearby,"
+        },
+        {
+          "id": "sent-053",
+          "text": "și Poirot începe să întrebe despre acea seară.",
+          "translationRu": "и Пуаро начинает расспрашивать о том вечере.",
+          "original": "and Poirot begins to ask about that evening."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-054",
+          "text": "Căpitanul Black își amintește totul.",
+          "translationRu": "Капитан Блэк всё помнит.",
+          "original": "Captain Black remembers everything."
+        },
+        {
+          "id": "sent-055",
+          "text": "La cină am povestit ceva, spune el.",
+          "translationRu": "За ужином я кое-что рассказал, говорит он.",
+          "original": "At dinner I told a story, he says."
+        },
+        {
+          "id": "sent-056",
+          "text": "Am vorbit despre un om pe care l-am cunoscut în Africa.",
+          "translationRu": "Я говорил об одном человеке, которого знал в Африке.",
+          "original": "I spoke about a man I knew in Africa."
+        },
+        {
+          "id": "sent-057",
+          "text": "Acel om și-a luat singur viața.",
+          "translationRu": "Тот человек сам покончил с собой.",
+          "original": "That man took his own life."
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-058",
+          "text": "A pus țeava puștii în gură și a tras,",
+          "translationRu": "Он вставил ствол ружья в рот и выстрелил,",
+          "original": "He put the rifle's barrel in his mouth and fired,"
+        },
+        {
+          "id": "sent-059",
+          "text": "iar pe dinafară nu se vedea aproape nimic;",
+          "translationRu": "а снаружи почти ничего не было видно;",
+          "original": "and from the outside almost nothing could be seen;"
+        },
+        {
+          "id": "sent-060",
+          "text": "doar puțin sânge pe buze.",
+          "translationRu": "только немного крови на губах.",
+          "original": "only a little blood on the lips."
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-061",
+          "text": "Când aude asta, Poirot tace.",
+          "translationRu": "Услышав это, Пуаро молчит.",
+          "original": "When he hears this, Poirot is silent."
+        },
+        {
+          "id": "sent-062",
+          "text": "Ochii lui strălucesc,",
+          "translationRu": "Его глаза блестят,",
+          "original": "His eyes shine,"
+        },
+        {
+          "id": "sent-063",
+          "text": "pentru că acum înțelege multe lucruri.",
+          "translationRu": "потому что теперь он понимает многое.",
+          "original": "because now he understands many things."
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-064",
+          "text": "Mai târziu, Poirot îmi explică totul.",
+          "translationRu": "Позже Пуаро объясняет мне всё.",
+          "original": "Later, Poirot explains everything to me."
+        },
+        {
+          "id": "sent-065",
+          "text": "Hastings, spune el, doctorul a greșit.",
+          "translationRu": "Гастингс, говорит он, доктор ошибся.",
+          "original": "Hastings, he says, the doctor made a mistake."
+        },
+        {
+          "id": "sent-066",
+          "text": "Nu a fost o boală a stomacului.",
+          "translationRu": "Это не была болезнь желудка.",
+          "original": "It was not a stomach illness."
+        },
+        {
+          "id": "sent-067",
+          "text": "Domnul Maltravers a fost împușcat.",
+          "translationRu": "Господин Малтраверс был застрелен.",
+          "original": "Mr. Maltravers was shot."
+        }
+      ]
+    },
+    {
+      "id": "para-019",
+      "sentences": [
+        {
+          "id": "sent-068",
+          "text": "Glonțul a intrat prin gură,",
+          "translationRu": "Пуля вошла через рот,",
+          "original": "The bullet went in through the mouth,"
+        },
+        {
+          "id": "sent-069",
+          "text": "exact ca în povestea căpitanului.",
+          "translationRu": "точно как в истории капитана.",
+          "original": "exactly like in the captain's story."
+        },
+        {
+          "id": "sent-070",
+          "text": "De aceea nu se vedea nicio rană pe corp,",
+          "translationRu": "Поэтому на теле не было видно раны,",
+          "original": "That is why no wound could be seen on the body,"
+        },
+        {
+          "id": "sent-071",
+          "text": "și doctorul nu a observat nimic.",
+          "translationRu": "и доктор ничего не заметил.",
+          "original": "and the doctor noticed nothing."
+        }
+      ]
+    },
+    {
+      "id": "para-020",
+      "sentences": [
+        {
+          "id": "sent-072",
+          "text": "Dar cine a tras?",
+          "translationRu": "Но кто выстрелил?",
+          "original": "But who fired?"
+        },
+        {
+          "id": "sent-073",
+          "text": "Poirot se gândește la bani.",
+          "translationRu": "Пуаро думает о деньгах.",
+          "original": "Poirot thinks about the money."
+        },
+        {
+          "id": "sent-074",
+          "text": "Soțul nu mai avea aproape nimic,",
+          "translationRu": "У мужа почти ничего не осталось,",
+          "original": "The husband had almost nothing left,"
+        },
+        {
+          "id": "sent-075",
+          "text": "dar viața lui era asigurată pentru o sumă mare.",
+          "translationRu": "но его жизнь была застрахована на большую сумму.",
+          "original": "but his life was insured for a large sum."
+        }
+      ]
+    },
+    {
+      "id": "para-021",
+      "sentences": [
+        {
+          "id": "sent-076",
+          "text": "Poirot crede că soția a auzit povestea căpitanului,",
+          "translationRu": "Пуаро считает, что жена услышала историю капитана,",
+          "original": "Poirot believes the wife heard the captain's story,"
+        },
+        {
+          "id": "sent-077",
+          "text": "și a avut o idee teribilă.",
+          "translationRu": "и ей пришла страшная мысль.",
+          "original": "and she had a terrible idea."
+        },
+        {
+          "id": "sent-078",
+          "text": "În acea zi, ea i-a cerut soțului ei un lucru:",
+          "translationRu": "В тот день она попросила мужа об одном:",
+          "original": "That day she asked her husband one thing:"
+        },
+        {
+          "id": "sent-079",
+          "text": "să arate cum se ține pușca în acel mod.",
+          "translationRu": "показать, как держат ружьё таким способом.",
+          "original": "to show how the rifle is held in that way."
+        }
+      ]
+    },
+    {
+      "id": "para-022",
+      "sentences": [
+        {
+          "id": "sent-080",
+          "text": "Soțul nu a bănuit nimic.",
+          "translationRu": "Муж ничего не заподозрил.",
+          "original": "The husband suspected nothing."
+        },
+        {
+          "id": "sent-081",
+          "text": "El a luat pușca,",
+          "translationRu": "Он взял ружьё,",
+          "original": "He took the rifle,"
+        },
+        {
+          "id": "sent-082",
+          "text": "și a pus țeava în gură, ca în poveste.",
+          "translationRu": "и вставил ствол в рот, как в истории.",
+          "original": "and put the barrel in his mouth, like in the story."
+        },
+        {
+          "id": "sent-083",
+          "text": "În acea clipă, soția a apăsat pe trăgaci.",
+          "translationRu": "В тот миг жена нажала на курок.",
+          "original": "In that moment the wife pulled the trigger."
+        }
+      ]
+    },
+    {
+      "id": "para-023",
+      "sentences": [
+        {
+          "id": "sent-084",
+          "text": "Așa a murit domnul Maltravers,",
+          "translationRu": "Так умер господин Малтраверс,",
+          "original": "That is how Mr. Maltravers died,"
+        },
+        {
+          "id": "sent-085",
+          "text": "și toți au crezut că este o boală.",
+          "translationRu": "и все подумали, что это болезнь.",
+          "original": "and everyone believed it was an illness."
+        }
+      ]
+    },
+    {
+      "id": "para-024",
+      "sentences": [
+        {
+          "id": "sent-086",
+          "text": "Dar Poirot are o problemă.",
+          "translationRu": "Но у Пуаро есть проблема.",
+          "original": "But Poirot has a problem."
+        },
+        {
+          "id": "sent-087",
+          "text": "El știe adevărul,",
+          "translationRu": "Он знает правду,",
+          "original": "He knows the truth,"
+        },
+        {
+          "id": "sent-088",
+          "text": "dar nu are nicio dovadă.",
+          "translationRu": "но у него нет никакого доказательства.",
+          "original": "but he has no proof."
+        },
+        {
+          "id": "sent-089",
+          "text": "Are nevoie ca femeia să mărturisească singură.",
+          "translationRu": "Ему нужно, чтобы женщина призналась сама.",
+          "original": "He needs the woman to confess herself."
+        }
+      ]
+    },
+    {
+      "id": "para-025",
+      "sentences": [
+        {
+          "id": "sent-090",
+          "text": "Așa că Poirot pregătește un plan special.",
+          "translationRu": "Поэтому Пуаро готовит особый план.",
+          "original": "So Poirot prepares a special plan."
+        },
+        {
+          "id": "sent-091",
+          "text": "El cheamă un actor de la oraș,",
+          "translationRu": "Он вызывает актёра из города,",
+          "original": "He calls an actor from the city,"
+        },
+        {
+          "id": "sent-092",
+          "text": "și aranjează totul pentru seară.",
+          "translationRu": "и устраивает всё на вечер.",
+          "original": "and arranges everything for the evening."
+        }
+      ]
+    },
+    {
+      "id": "para-026",
+      "sentences": [
+        {
+          "id": "sent-093",
+          "text": "Seara, toți stau în salon.",
+          "translationRu": "Вечером все сидят в гостиной.",
+          "original": "In the evening everyone sits in the drawing room."
+        },
+        {
+          "id": "sent-094",
+          "text": "Luminile sunt stinse și în cameră este întuneric.",
+          "translationRu": "Свет погашен, и в комнате темно.",
+          "original": "The lights are out and the room is dark."
+        },
+        {
+          "id": "sent-095",
+          "text": "Doamna Maltravers stă lângă fereastră.",
+          "translationRu": "Госпожа Малтраверс сидит у окна.",
+          "original": "Mrs. Maltravers sits by the window."
+        }
+      ]
+    },
+    {
+      "id": "para-027",
+      "sentences": [
+        {
+          "id": "sent-096",
+          "text": "Deodată, în întuneric apare o figură albă.",
+          "translationRu": "Вдруг в темноте появляется белая фигура.",
+          "original": "Suddenly a white figure appears in the dark."
+        },
+        {
+          "id": "sent-097",
+          "text": "Figura seamănă cu domnul Maltravers,",
+          "translationRu": "Фигура похожа на господина Малтраверса,",
+          "original": "The figure looks like Mr. Maltravers,"
+        },
+        {
+          "id": "sent-098",
+          "text": "soțul care a murit.",
+          "translationRu": "мужа, который умер.",
+          "original": "the husband who died."
+        },
+        {
+          "id": "sent-099",
+          "text": "Este doar actorul,",
+          "translationRu": "Это всего лишь актёр,",
+          "original": "It is only the actor,"
+        },
+        {
+          "id": "sent-100",
+          "text": "dar pare cu totul real.",
+          "translationRu": "но он кажется совсем настоящим.",
+          "original": "but he seems completely real."
+        }
+      ]
+    },
+    {
+      "id": "para-028",
+      "sentences": [
+        {
+          "id": "sent-101",
+          "text": "Doamna Maltravers se sperie îngrozitor.",
+          "translationRu": "Госпожа Малтраверс ужасно пугается.",
+          "original": "Mrs. Maltravers is terribly frightened."
+        },
+        {
+          "id": "sent-102",
+          "text": "Ea crede că soțul ei s-a întors,",
+          "translationRu": "Она думает, что её муж вернулся,",
+          "original": "She believes her husband has come back,"
+        },
+        {
+          "id": "sent-103",
+          "text": "ca o stafie, ca să o acuze.",
+          "translationRu": "как призрак, чтобы обвинить её.",
+          "original": "like a ghost, to accuse her."
+        },
+        {
+          "id": "sent-104",
+          "text": "Frica este prea mare pentru ea.",
+          "translationRu": "Страх для неё слишком велик.",
+          "original": "The fear is too great for her."
+        }
+      ]
+    },
+    {
+      "id": "para-029",
+      "sentences": [
+        {
+          "id": "sent-105",
+          "text": "Ea strigă cu voce tare și nu se mai poate opri.",
+          "translationRu": "Она громко кричит и уже не может остановиться.",
+          "original": "She cries out loudly and cannot stop anymore."
+        },
+        {
+          "id": "sent-106",
+          "text": "Da, eu am făcut-o!, spune ea.",
+          "translationRu": "Да, это сделала я!, говорит она.",
+          "original": "Yes, I did it!, she says."
+        },
+        {
+          "id": "sent-107",
+          "text": "Eu l-am ucis, dar lasă-mă în pace!",
+          "translationRu": "Я его убила, но оставь меня в покое!",
+          "original": "I killed him, but leave me in peace!"
+        }
+      ]
+    },
+    {
+      "id": "para-030",
+      "sentences": [
+        {
+          "id": "sent-108",
+          "text": "Atunci Poirot aprinde lumina.",
+          "translationRu": "Тогда Пуаро включает свет.",
+          "original": "Then Poirot turns on the light."
+        },
+        {
+          "id": "sent-109",
+          "text": "Figura albă este doar actorul, nu o stafie.",
+          "translationRu": "Белая фигура — лишь актёр, а не призрак.",
+          "original": "The white figure is only the actor, not a ghost."
+        },
+        {
+          "id": "sent-110",
+          "text": "Dar doamna Maltravers a spus deja adevărul, în fața tuturor.",
+          "translationRu": "Но госпожа Малтраверс уже сказала правду перед всеми.",
+          "original": "But Mrs. Maltravers has already told the truth, in front of everyone."
+        }
+      ]
+    },
+    {
+      "id": "para-031",
+      "sentences": [
+        {
+          "id": "sent-111",
+          "text": "Acum totul este clar.",
+          "translationRu": "Теперь всё ясно.",
+          "original": "Now everything is clear."
+        },
+        {
+          "id": "sent-112",
+          "text": "Poirot a avut dreptate de la început.",
+          "translationRu": "Пуаро был прав с самого начала.",
+          "original": "Poirot was right from the start."
+        },
+        {
+          "id": "sent-113",
+          "text": "Soția și-a ucis soțul pentru bani,",
+          "translationRu": "Жена убила мужа ради денег,",
+          "original": "The wife killed her husband for money,"
+        },
+        {
+          "id": "sent-114",
+          "text": "și a vrut să înșele compania de asigurări.",
+          "translationRu": "и хотела обмануть страховую компанию.",
+          "original": "and she wanted to deceive the insurance company."
+        },
+        {
+          "id": "sent-115",
+          "text": "Acum compania nu va plăti nimic.",
+          "translationRu": "Теперь компания ничего не заплатит.",
+          "original": "Now the company will pay nothing."
+        }
+      ]
+    },
+    {
+      "id": "para-032",
+      "sentences": [
+        {
+          "id": "sent-116",
+          "text": "Pe drumul spre casă, mă uit la prietenul meu.",
+          "translationRu": "По дороге домой я смотрю на моего друга.",
+          "original": "On the way home I look at my friend."
+        },
+        {
+          "id": "sent-117",
+          "text": "Poirot, spun eu, planul tău a fost teribil.",
+          "translationRu": "Пуаро, говорю я, твой план был жутковатым.",
+          "original": "Poirot, I say, your plan was frightful."
+        },
+        {
+          "id": "sent-118",
+          "text": "El zâmbește liniștit,",
+          "translationRu": "Он спокойно улыбается,",
+          "original": "He smiles calmly,"
+        },
+        {
+          "id": "sent-119",
+          "text": "și spune: dar a funcționat, prietene.",
+          "translationRu": "и говорит: но он сработал, друг мой.",
+          "original": "and says: but it worked, my friend."
+        },
+        {
+          "id": "sent-120",
+          "text": "Micile mele celule cenușii nu greșesc niciodată.",
+          "translationRu": "Мои маленькие серые клеточки никогда не ошибаются.",
+          "original": "My little grey cells are never wrong."
+        }
+      ]
+    }
+  ]
+}
