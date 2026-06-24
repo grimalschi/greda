@@ -94,7 +94,13 @@ fragments: «Vine esta mañana,» / «y tú no hiciste nada.». Decide **per sen
 split only where each part stands as a natural, self-contained unit (clause boundaries, `, y` / `, pero`
 / `: ` / `; `); when a split would feel arbitrary or break meaning, keep the whole sentence as one
 object. Punctuation stays attached to its fragment; fragments render inline (space-joined) exactly like
-sentences, each independently clickable.
+sentences, each independently clickable. **Split `text`, `translationRu` AND `original` at the SAME
+boundary** so the three stay aligned (concatenating the fragments reproduces the whole sentence in each
+language). Concrete example (clean clause split): «El padre Andréi, arcipreste de la catedral, hablaba
+con la madre de Nadya.» / «Отец Андрей, протоиерей собора, разговаривал с матерью Нади.» →
+fragment 1 «El padre Andréi, arcipreste de la catedral,» / «Отец Андрей, протоиерей собора,» +
+fragment 2 «hablaba con la madre de Nadya.» / «разговаривал с матерью Нади.». First done as a test on
+`the-red-headed-league` (2026-06-24).
 **The `original` field = VERBATIM source (CRITICAL, 2026-06-24).** It is the EXACT public-domain source
 text (English/German/Italian/…) — copied word-for-word, **never** a paraphrase and **never** "simple
 English at the same level as the translation". **Full-coverage / tiling rule:** within a level's chapter,
