@@ -110,7 +110,8 @@ button {
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 10px 12px;
+  /* Верхний отступ под системный статус-бар (iOS viewport-fit=cover), иначе он наезжает на шапку. */
+  padding: calc(10px + env(safe-area-inset-top, 0px)) 12px 10px;
   background: color-mix(in srgb, var(--surface) 88%, transparent);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);

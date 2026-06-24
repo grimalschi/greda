@@ -358,6 +358,7 @@ export function ReaderPage() {
                   toggle(s.id)
                 }
               }}
+              lang="ru"
             >
               {s.translationRu}
             </span>
@@ -380,7 +381,10 @@ export function ReaderPage() {
         {error ? <ErrorView error={error} /> : null}
 
         {chapter ? (
-          <article className={`chapter ${translationMode === 'drawer' ? 'chapter--drawer' : ''}`}>
+          <article
+            lang={work?.lang ?? 'es'}
+            className={`chapter ${translationMode === 'drawer' ? 'chapter--drawer' : ''}`}
+          >
             {chapter.paragraphs.map((p) => {
               const head = p.sentences.length === 1 && p.sentences[0].heading ? p.sentences[0] : null
               if (head) return <h3 className="sent-heading" key={p.id}>{renderSent(head)}</h3>

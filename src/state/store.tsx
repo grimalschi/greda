@@ -77,6 +77,10 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
             : 'light'
           : theme
       root.dataset.theme = resolved
+      // Цвет системной шапки (статус-бар PWA): должен совпадать с фоном темы,
+      // иначе он «инвертируется» (тёмный в светлой теме и наоборот). Значения = --bg.
+      const meta = document.querySelector('meta[name="theme-color"]')
+      if (meta) meta.setAttribute('content', resolved === 'dark' ? '#0d1117' : '#f6f7f9')
     }
     apply()
     if (store.settings.theme === 'system') {
