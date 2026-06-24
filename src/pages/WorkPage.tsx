@@ -5,7 +5,7 @@ import { ErrorView, Loading, ProgressBar } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
 import { fetchManifest, fetchWork } from '../lib/content'
 import { useAppState } from '../state/store'
-import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
+import { LEVELS, LEVEL_ORDER, LEVEL_LABELS, LANGUAGE_LABELS } from '../types'
 import type { Level } from '../types'
 import type { ReadingStatus } from '../lib/progress'
 
@@ -111,7 +111,12 @@ export function WorkPage() {
             <header className="work-head">
               <h1 className="work-head__title">{work.title}</h1>
               <div className="work-head__ru">{work.titleRu}</div>
-              <div className="work-head__author">{work.author.name}</div>
+              <div className="work-head__author">
+                {work.author.name}
+                {work.lang && work.lang !== 'es' ? (
+                  <span className="card__lang">{LANGUAGE_LABELS[work.lang]}</span>
+                ) : null}
+              </div>
               {work.genres.length > 0 ? (
                 <div className="work-head__genres">
                   {work.genres.map((g) => (

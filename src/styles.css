@@ -594,6 +594,17 @@ button {
   z-index: 49;
   background: transparent;
 }
+.card__lang {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  vertical-align: middle;
+}
 .tpop {
   z-index: 50;
   /* Фиксированная ширина — по ширине текстовой колонки (var(--maxw) минус паддинги .container). */

@@ -18,9 +18,25 @@ export const LEVEL_LABELS: Record<Level, string> = {
   c2: 'C2',
 }
 
+/** Язык адаптации (то, что читает пользователь). По умолчанию испанский. */
+export type Language = 'es' | 'ro'
+export const LANGUAGES: Language[] = ['es', 'ro']
+export const LANGUAGE_LABELS: Record<Language, string> = {
+  es: 'Испанский',
+  ro: 'Румынский',
+}
+/** Предложный падеж для подзаголовков «Чтение на …». */
+export const LANGUAGE_LABELS_PREP: Record<Language, string> = {
+  es: 'испанском',
+  ro: 'румынском',
+}
+export const DEFAULT_LANGUAGE: Language = 'es'
+
 export interface CatalogWork {
   id: string
-  /** Заголовок испанской адаптации (то, что читает пользователь). */
+  /** Язык адаптации (то, что читает пользователь). По умолчанию 'es'. */
+  lang?: Language
+  /** Заголовок адаптации (то, что читает пользователь). */
   title: string
   /** Русский заголовок для узнавания. */
   titleRu: string
@@ -60,6 +76,7 @@ export interface WorkLevelInfo {
 export interface Work {
   schemaVersion: string
   id: string
+  lang?: Language
   title: string
   titleRu: string
   originalTitle: string

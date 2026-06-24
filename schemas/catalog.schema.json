@@ -25,6 +25,7 @@
         ],
         "properties": {
           "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "lang": { "enum": ["es", "ro"] },
           "title": { "type": "string", "minLength": 1 },
           "titleRu": { "type": "string", "minLength": 1 },
           "originalTitle": { "type": "string", "minLength": 1 },

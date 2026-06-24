@@ -70,7 +70,19 @@ sentences (one idea each), high-frequency vocabulary, simple tenses, long period
 short ones. The result stays close to the original in coverage (target: **≥80–90 % of the source word
 count**; ~1 simplified sentence per ~30–40 source words; a ~6 000-word story → ~150–200 sentences,
 **not** ~35). **One sentence = one object:** never put two sentences (two `.`/`!`/`?`) in a single
-`text` — split long periods into separate `sent-` objects, each with its own `translationRu`. Sensitive
+`text` — split long periods into separate `sent-` objects, each with its own `translationRu`.
+**Fragment-level units (situational, 2026-06-24):** a single `sent-` object does NOT have to be a whole
+grammatical sentence. When a sentence divides naturally into clauses, you MAY split it into several
+`sent-` fragments — each a coherent chunk with its own `text` + `translationRu` + `original` — so the
+reader reveals the translation clause-by-clause. E.g. «Vine esta mañana, y tú no hiciste nada» → two
+fragments: «Vine esta mañana,» / «y tú no hiciste nada.». Decide **per sentence at translation time**:
+split only where each part stands as a natural, self-contained unit (clause boundaries, `, y` / `, pero`
+/ `: ` / `; `); when a split would feel arbitrary or break meaning, keep the whole sentence as one
+object. Punctuation stays attached to its fragment; fragments render inline (space-joined) exactly like
+sentences, each independently clickable.
+**Model policy (2026-06-24): use ONLY Opus** (`claude-opus-4-8`) for ALL content work — generation,
+translation, AND proofreading. Never Sonnet or Haiku for content. (Sonnet/Haiku were used historically;
+no longer.) Sensitive
 themes: render the meaning faithfully in respectful modern language; never reproduce archaic slurs, and
 keep harsh/violent/frightening scenes sober and non-graphic (this also avoids the output content-filter
 blocking generation). Spec: `.plan/spec-faithful.md`.

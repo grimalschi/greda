@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
+import { LEVELS, LEVEL_ORDER, LEVEL_LABELS, LANGUAGE_LABELS } from '../types'
 import type { CatalogWork } from '../types'
 import type { ReadingStatus } from '../lib/progress'
 
@@ -8,7 +8,12 @@ export function WorkCard({ work, status = 'new' }: { work: CatalogWork; status?:
     <Link className="card" to={`/work/${work.id}`}>
       <div className="card__title">{work.title}</div>
       <div className="card__subtitle">{work.titleRu}</div>
-      <div className="card__author">{work.authorName}</div>
+      <div className="card__author">
+        {work.authorName}
+        {work.lang && work.lang !== 'es' ? (
+          <span className="card__lang">{LANGUAGE_LABELS[work.lang]}</span>
+        ) : null}
+      </div>
       {work.genres.length > 0 ? (
         <div className="card__genres">{work.genres.join(' · ')}</div>
       ) : null}

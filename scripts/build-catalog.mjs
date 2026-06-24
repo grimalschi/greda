@@ -59,6 +59,8 @@ for (const id of readdirSync(WORKS)) {
   const norm = {
     schemaVersion: w.schemaVersion || '1.0',
     id: w.id,
+    // Язык адаптации; для испанского (по умолчанию) поле не пишем, чтобы не трогать 58 работ.
+    ...(w.lang && w.lang !== 'es' ? { lang: w.lang } : {}),
     title: w.title,
     titleRu: w.titleRu,
     originalTitle: w.originalTitle,
@@ -83,6 +85,7 @@ for (const id of readdirSync(WORKS)) {
 
   works.push({
     id: norm.id,
+    lang: w.lang ?? 'es',
     title: norm.title,
     titleRu: norm.titleRu,
     originalTitle: norm.originalTitle,

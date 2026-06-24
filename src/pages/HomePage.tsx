@@ -8,8 +8,10 @@ import { fetchCatalog } from '../lib/content'
 import { useAppState } from '../state/store'
 import { workReadingStatus } from '../lib/progress'
 import type { ReadingStatus } from '../lib/progress'
-import { LEVELS, LEVEL_ORDER, LEVEL_LABELS } from '../types'
-import type { CatalogWork, Level } from '../types'
+import { LEVELS, LEVEL_ORDER, LEVEL_LABELS, LANGUAGES, LANGUAGE_LABELS, LANGUAGE_LABELS_PREP } from '../types'
+import type { CatalogWork, Level, Language } from '../types'
+
+const workLang = (w: CatalogWork): Language => w.lang ?? 'es'
 
 function matches(w: CatalogWork, q: string): boolean {
   if (!q) return true
@@ -32,6 +34,7 @@ export function HomePage() {
   const [query, setQuery] = useState('')
   const [genre, setGenre] = useState<string>('all')
   const [level, setLevel] = useState<Level | 'all'>('all')
+  const [lang, setLang] = useState<Language | 'all'>('all')
   const [status, setStatus] = useState<ReadingStatus | 'all'>('all')
   const [sort, setSort] = useState<Sort>('default')
 
@@ -52,6 +55,13 @@ export function HomePage() {
     return LEVEL_ORDER.filter((l) => LEVELS.includes(l) || present.has(l))
   }, [catalog])
 
+  // Языки, реально присутствующие в каталоге (для фильтра по языку и подзаголовка).
+  const presentLangs = useMemo(() => {
+    const present = new Set<Language>()
+    for (const w of catalog?.works ?? []) present.add(workLang(w))
+    return LANGUAGES.filter((l) => present.has(l))
+  }, [catalog])
+
   // Сводка прогресса по всей библиотеке.
   const stats = useMemo(() => {
     const s = { done: 0, started: 0, new: 0 }
@@ -67,6 +77,7 @@ export function HomePage() {
   let works = (catalog?.works ?? []).filter(
     (w) =>
       matches(w, q) &&
+      (lang === 'all' || workLang(w) === lang) &&
       (genre === 'all' || w.genres.includes(genre)) &&
       (level === 'all' || w.availableLevels.includes(level)) &&
       (status === 'all' || workReadingStatus(store, w) === status),
@@ -76,7 +87,15 @@ export function HomePage() {
 
   return (
     <div className="page">
-      <TopBar title="Greda" subtitle="Чтение на испанском" showSettings />
+      <TopBar
+        title="Greda"
+        subtitle={
+          presentLangs.length
+            ? `Чтение на ${presentLangs.map((l) => LANGUAGE_LABELS_PREP[l]).join(' и ')}`
+            : 'Чтение на испанском'
+        }
+        showSettings
+      />
       <main className="container">
         {loading ? <Loading /> : null}
         {error ? <ErrorView error={error} /> : null}
@@ -115,6 +134,26 @@ export function HomePage() {
               onChange={(e) => setQuery(e.target.value)}
               aria-label="Поиск произведений"
             />
+
+            {presentLangs.length > 1 ? (
+              <div className="filter" role="group" aria-label="Фильтр по языку">
+                <button
+                  className={`chip-btn ${lang === 'all' ? 'chip-btn--active' : ''}`}
+                  onClick={() => setLang('all')}
+                >
+                  Все языки
+                </button>
+                {presentLangs.map((l) => (
+                  <button
+                    key={l}
+                    className={`chip-btn ${lang === l ? 'chip-btn--active' : ''}`}
+                    onClick={() => setLang(l)}
+                  >
+                    {LANGUAGE_LABELS[l]}
+                  </button>
+                ))}
+              </div>
+            ) : null}
 
             {genres.length > 1 ? (
               <div className="filter" role="group" aria-label="Фильтр по жанру">

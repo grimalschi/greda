@@ -176,8 +176,16 @@ export function ReaderPage() {
       shift({ padding: 8 }),
       size({
         padding: 8,
-        apply({ availableHeight, elements }) {
-          elements.floating.style.maxHeight = `${Math.max(160, availableHeight)}px`
+        // Высоту считаем от РЕАЛЬНОГО прямоугольника предложения во вьюпорте
+        // (getBoundingClientRect), а не от availableHeight: под strategy 'absolute'
+        // последний занижается у конца документа и оставлял ~280px пустыми под поповером.
+        apply({ availableHeight, elements, placement }) {
+          const r = anchorEl?.getBoundingClientRect()
+          const vh = window.innerHeight
+          const room = r
+            ? (placement.startsWith('top') ? r.top : vh - r.bottom) - 16
+            : availableHeight
+          elements.floating.style.maxHeight = `${Math.max(160, room)}px`
         },
       }),
     ],
