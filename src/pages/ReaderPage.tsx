@@ -30,7 +30,7 @@ function topVisibleSentenceId(container: HTMLElement | null): string | null {
 
 type ExplainState = { loading: boolean; text: string; error: string }
 
-/** Содержимое панели/поповера: вкладки «Перевод» и «Объяснение» (GPT). */
+/** Содержимое панели/поповера: вкладки «Перевод», «Объяснение» (GPT) и «Оригинал» (если есть). */
 function PanelContent({
   sentence,
   settings,
@@ -93,6 +93,13 @@ function PanelContent({
         >
           Перевод
         </button>
+        <button
+          type="button"
+          className={`tpanel__tab ${tab === 'explain' ? 'is-active' : ''}`}
+          onClick={() => setTab('explain')}
+        >
+          Объяснение
+        </button>
         {sentence.original ? (
           <button
             type="button"
@@ -102,13 +109,6 @@ function PanelContent({
             Оригинал
           </button>
         ) : null}
-        <button
-          type="button"
-          className={`tpanel__tab ${tab === 'explain' ? 'is-active' : ''}`}
-          onClick={() => setTab('explain')}
-        >
-          Объяснение
-        </button>
         <button type="button" className="tpanel__close" aria-label="Закрыть" onClick={onClose}>
           ×
         </button>
