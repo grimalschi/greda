@@ -95,6 +95,18 @@ split only where each part stands as a natural, self-contained unit (clause boun
 / `: ` / `; `); when a split would feel arbitrary or break meaning, keep the whole sentence as one
 object. Punctuation stays attached to its fragment; fragments render inline (space-joined) exactly like
 sentences, each independently clickable.
+**The `original` field = VERBATIM source (CRITICAL, 2026-06-24).** It is the EXACT public-domain source
+text (English/German/Italian/…) — copied word-for-word, **never** a paraphrase and **never** "simple
+English at the same level as the translation". **Full-coverage / tiling rule:** within a level's chapter,
+the `original` fields read in order must reconstruct the ENTIRE source text — **every source sentence
+belongs to exactly one fragment; nothing is dropped, summarised, or invented.** Each fragment's `original`
+is a contiguous verbatim span; the spans tile the whole source with no gaps and no overlap. A *simpler*
+level (e.g. A1) has FEWER fragments, so each carries a LARGER source span (often several source
+sentences); a *richer* level (e.g. A2) slices the same source more finely — but **both levels
+independently cover 100 % of the source**. If a level's simplified `text` glosses over or omits a passage,
+that passage's verbatim source still attaches to the nearest fragment's `original` so it is never lost.
+Levels may differ in fragment count and in how freely they translate; they must NOT differ in source
+coverage. (Sanity check per level: concatenating all `original` ≈ the full source file.)
 **Model policy (2026-06-24): use ONLY Opus** (`claude-opus-4-8`) for ALL content work — generation,
 translation, AND proofreading. Never Sonnet or Haiku for content. (Sonnet/Haiku were used historically;
 no longer.) Sensitive
