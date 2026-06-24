@@ -13,15 +13,39 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "—Mi tía bajará pronto, señor Nuttel —dijo una joven muy segura de sí misma, de quince años.",
-          "translationRu": "— Моя тётя скоро спустится, мистер Наттел, — сказала очень уверенная в себе молодая девушка лет пятнадцати.",
-          "original": "\"My aunt will be down presently, Mr. Nuttel,\" said a very self-possessed young lady of fifteen;"
+          "text": "—Mi tía bajará pronto,",
+          "translationRu": "— Моя тётя скоро спустится,",
+          "original": "\"My aunt will be down presently,"
         },
         {
           "id": "sent-002",
-          "text": "—Mientras tanto, tiene que intentar aguantarme a mí.",
-          "translationRu": "— А пока вам придётся потерпеть меня.",
-          "original": "\"in the meantime you must try and put up with me.\""
+          "text": "señor Nuttel",
+          "translationRu": "мистер Наттел,",
+          "original": "Mr. Nuttel,\""
+        },
+        {
+          "id": "sent-003",
+          "text": "—dijo una joven muy segura de sí misma,",
+          "translationRu": "— сказала очень уверенная в себе молодая девушка",
+          "original": "said a very self-possessed young lady"
+        },
+        {
+          "id": "sent-004",
+          "text": "de quince años.",
+          "translationRu": "лет пятнадцати.",
+          "original": "of fifteen;"
+        },
+        {
+          "id": "sent-005",
+          "text": "—Mientras tanto,",
+          "translationRu": "— А пока",
+          "original": "\"in the meantime"
+        },
+        {
+          "id": "sent-006",
+          "text": "tiene que intentar aguantarme a mí.",
+          "translationRu": "вам придётся потерпеть меня.",
+          "original": "you must try and put up with me.\""
         }
       ]
     },
@@ -29,16 +53,63 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-003",
-          "text": "Framton Nuttel intentó decir algo correcto que fuera un halago para la sobrina y, al mismo tiempo, no hiciera menos importante a la tía que estaba por llegar.",
-          "translationRu": "Фрэмтон Наттел попытался сказать что-то подходящее — нечто такое, что польстило бы племяннице и в то же время не умаляло бы достоинства тёти, которая вот-вот должна была появиться.",
-          "original": "Framton Nuttel endeavoured to say the correct something which should duly flatter the niece of the moment without unduly discounting the aunt that was to come."
+          "id": "sent-007",
+          "text": "Framton Nuttel intentó decir algo correcto",
+          "translationRu": "Фрэмтон Наттел попытался сказать что-то подходящее —",
+          "original": "Framton Nuttel endeavoured to say the correct something"
         },
         {
-          "id": "sent-004",
-          "text": "En su interior, dudaba más que nunca si estas visitas formales a total desconocidos realmente le iban a ayudar con la cura de nervios que supuestamente estaba siguiendo.",
-          "translationRu": "Про себя он всё больше сомневался в том, помогут ли эти официальные визиты к совершенно незнакомым людям в его лечении нервов, которое он якобы проходил.",
-          "original": "Privately he doubted more than ever whether these formal visits on a succession of total strangers would do much towards helping the nerve cure which he was supposed to be undergoing."
+          "id": "sent-008",
+          "text": "que fuera un halago para la sobrina",
+          "translationRu": "нечто такое, что польстило бы племяннице",
+          "original": "which should duly flatter the niece of the moment"
+        },
+        {
+          "id": "sent-009",
+          "text": "y, al mismo tiempo,",
+          "translationRu": "и в то же время"
+        },
+        {
+          "id": "sent-010",
+          "text": "no hiciera menos importante a la tía",
+          "translationRu": "не умаляло бы достоинства тёти,",
+          "original": "without unduly discounting the aunt"
+        },
+        {
+          "id": "sent-011",
+          "text": "que estaba por llegar.",
+          "translationRu": "которая вот-вот должна была появиться.",
+          "original": "that was to come."
+        },
+        {
+          "id": "sent-012",
+          "text": "En su interior,",
+          "translationRu": "Про себя",
+          "original": "Privately"
+        },
+        {
+          "id": "sent-013",
+          "text": "dudaba más que nunca",
+          "translationRu": "он всё больше сомневался в том,",
+          "original": "he doubted more than ever"
+        },
+        {
+          "id": "sent-014",
+          "text": "si estas visitas formales a total desconocidos",
+          "translationRu": "помогут ли эти официальные визиты к совершенно незнакомым людям",
+          "original": "whether these formal visits on a succession of total strangers"
+        },
+        {
+          "id": "sent-015",
+          "text": "realmente le iban a ayudar con la cura de nervios",
+          "translationRu": "в его лечении нервов,",
+          "original": "would do much towards helping the nerve cure"
+        },
+        {
+          "id": "sent-016",
+          "text": "que supuestamente estaba siguiendo.",
+          "translationRu": "которое он якобы проходил.",
+          "original": "which he was supposed to be undergoing."
         }
       ]
     },
@@ -46,28 +117,76 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-005",
-          "text": "—Ya sé cómo será —le había dicho su hermana cuando él se preparaba para irse a ese retiro rural.",
-          "translationRu": "— Я знаю, как это будет, — говорила ему сестра, когда он собирался уехать в это сельское уединение.",
-          "original": "\"I know how it will be,\" his sister had said when he was preparing to migrate to this rural retreat;"
+          "id": "sent-017",
+          "text": "—Ya sé cómo será",
+          "translationRu": "— Я знаю, как это будет,",
+          "original": "\"I know how it will be,\""
         },
         {
-          "id": "sent-006",
-          "text": "—Te encerrarás allí abajo y no hablarás con nadie, y tus nervios estarán peor que nunca de tanto deprimirte.",
-          "translationRu": "— Ты закроешься там и ни с кем не будешь разговаривать, и твои нервы станут ещё хуже от тоски.",
-          "original": "\"you will bury yourself down there and not speak to a living soul, and your nerves will be worse than ever from moping.\""
+          "id": "sent-018",
+          "text": "—le había dicho su hermana",
+          "translationRu": "— говорила ему сестра,",
+          "original": "his sister had said"
         },
         {
-          "id": "sent-007",
-          "text": "—Te voy a dar cartas de presentación para toda la gente que conozco allí.",
-          "translationRu": "— Я дам тебе рекомендательные письма ко всем людям, которых я там знаю.",
-          "original": "\"I shall just give you letters of introduction to all the people I know there.\""
+          "id": "sent-019",
+          "text": "cuando él se preparaba para irse a ese retiro rural.",
+          "translationRu": "когда он собирался уехать в это сельское уединение.",
+          "original": "when he was preparing to migrate to this rural retreat;"
         },
         {
-          "id": "sent-008",
-          "text": "—Algunos de ellos, que yo recuerde, eran bastante agradables.",
-          "translationRu": "— Некоторые из них, насколько я помню, были вполне приятными людьми.",
-          "original": "\"Some of them, as far as I can remember, were quite nice.\""
+          "id": "sent-020",
+          "text": "—Te encerrarás allí abajo",
+          "translationRu": "— Ты закроешься там",
+          "original": "\"you will bury yourself down there"
+        },
+        {
+          "id": "sent-021",
+          "text": "y no hablarás con nadie,",
+          "translationRu": "и ни с кем не будешь разговаривать,",
+          "original": "and not speak to a living soul,"
+        },
+        {
+          "id": "sent-022",
+          "text": "y tus nervios estarán peor que nunca",
+          "translationRu": "и твои нервы станут ещё хуже",
+          "original": "and your nerves will be worse than ever"
+        },
+        {
+          "id": "sent-023",
+          "text": "de tanto deprimirte.",
+          "translationRu": "от тоски.",
+          "original": "from moping.\""
+        },
+        {
+          "id": "sent-024",
+          "text": "—Te voy a dar cartas de presentación",
+          "translationRu": "— Я дам тебе рекомендательные письма",
+          "original": "\"I shall just give you letters of introduction"
+        },
+        {
+          "id": "sent-025",
+          "text": "para toda la gente que conozco allí.",
+          "translationRu": "ко всем людям, которых я там знаю.",
+          "original": "to all the people I know there.\""
+        },
+        {
+          "id": "sent-026",
+          "text": "—Algunos de ellos,",
+          "translationRu": "— Некоторые из них,",
+          "original": "\"Some of them,"
+        },
+        {
+          "id": "sent-027",
+          "text": "que yo recuerde,",
+          "translationRu": "насколько я помню,",
+          "original": "as far as I can remember,"
+        },
+        {
+          "id": "sent-028",
+          "text": "eran bastante agradables.",
+          "translationRu": "были вполне приятными людьми.",
+          "original": "were quite nice.\""
         }
       ]
     },
@@ -75,10 +194,28 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-009",
-          "text": "Framton se preguntó si la señora Sappleton, la señora a quien le estaba presentando una de esas cartas de introducción, era de las agradables.",
-          "translationRu": "Фрэмтон задался вопросом: относится ли миссис Сэплтон, которой он приходил с одним из этих рекомендательных писем, к числу приятных людей.",
-          "original": "Framton wondered whether Mrs. Sappleton, the lady to whom he was presenting one of the letters of introduction, came into the nice division."
+          "id": "sent-029",
+          "text": "Framton se preguntó",
+          "translationRu": "Фрэмтон задался вопросом:",
+          "original": "Framton wondered"
+        },
+        {
+          "id": "sent-030",
+          "text": "si la señora Sappleton,",
+          "translationRu": "относится ли миссис Сэплтон,",
+          "original": "whether Mrs. Sappleton,"
+        },
+        {
+          "id": "sent-031",
+          "text": "la señora a quien le estaba presentando una de esas cartas de introducción,",
+          "translationRu": "которой он приходил с одним из этих рекомендательных писем,",
+          "original": "the lady to whom he was presenting one of the letters of introduction,"
+        },
+        {
+          "id": "sent-032",
+          "text": "era de las agradables.",
+          "translationRu": "к числу приятных людей.",
+          "original": "came into the nice division."
         }
       ]
     },
@@ -86,10 +223,22 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-010",
-          "text": "—¿Conoce usted a mucha gente de por aquí? —preguntó la sobrina, cuando decidió que ya habían guardado suficiente silencio.",
-          "translationRu": "— Вы знаете многих людей здесь, в округе? — спросила племянница, решив, что они уже достаточно помолчали.",
-          "original": "\"Do you know many of the people round here?\" asked the niece, when she judged that they had had sufficient silent communion."
+          "id": "sent-033",
+          "text": "—¿Conoce usted a mucha gente de por aquí?",
+          "translationRu": "— Вы знаете многих людей здесь, в округе?",
+          "original": "\"Do you know many of the people round here?\""
+        },
+        {
+          "id": "sent-034",
+          "text": "—preguntó la sobrina,",
+          "translationRu": "— спросила племянница,",
+          "original": "asked the niece,"
+        },
+        {
+          "id": "sent-035",
+          "text": "cuando decidió que ya habían guardado suficiente silencio.",
+          "translationRu": "решив, что они уже достаточно помолчали.",
+          "original": "when she judged that they had had sufficient silent communion."
         }
       ]
     },
@@ -97,16 +246,40 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-011",
-          "text": "—Prácticamente a nadie —dijo Framton.",
-          "translationRu": "— Практически никого, — сказал Фрэмтон.",
-          "original": "\"Hardly a soul,\" said Framton."
+          "id": "sent-036",
+          "text": "—Prácticamente a nadie",
+          "translationRu": "— Практически никого,",
+          "original": "\"Hardly a soul,\""
         },
         {
-          "id": "sent-012",
-          "text": "—Mi hermana estuvo aquí, en la rectoría, hace unos cuatro años, y me dio cartas de presentación para algunas personas de aquí.",
-          "translationRu": "— Моя сестра жила здесь, в доме при церкви, около четырёх лет назад, и дала мне рекомендательные письма к некоторым здешним жителям.",
-          "original": "\"My sister was staying here, at the rectory, you know, some four years ago, and she gave me letters of introduction to some of the people here.\""
+          "id": "sent-037",
+          "text": "—dijo Framton.",
+          "translationRu": "— сказал Фрэмтон.",
+          "original": "said Framton."
+        },
+        {
+          "id": "sent-038",
+          "text": "—Mi hermana estuvo aquí, en la rectoría,",
+          "translationRu": "— Моя сестра жила здесь, в доме при церкви,",
+          "original": "\"My sister was staying here, at the rectory, you know,"
+        },
+        {
+          "id": "sent-039",
+          "text": "hace unos cuatro años,",
+          "translationRu": "около четырёх лет назад,",
+          "original": "some four years ago,"
+        },
+        {
+          "id": "sent-040",
+          "text": "y me dio cartas de presentación",
+          "translationRu": "и дала мне рекомендательные письма",
+          "original": "and she gave me letters of introduction"
+        },
+        {
+          "id": "sent-041",
+          "text": "para algunas personas de aquí.",
+          "translationRu": "к некоторым здешним жителям.",
+          "original": "to some of the people here.\""
         }
       ]
     },
@@ -114,10 +287,16 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-013",
-          "text": "Dijo esto último con un tono de claro pesar.",
-          "translationRu": "Последнее он произнёс с явным сожалением.",
-          "original": "He made the last statement in a tone of distinct regret."
+          "id": "sent-042",
+          "text": "Dijo esto último",
+          "translationRu": "Последнее он произнёс",
+          "original": "He made the last statement"
+        },
+        {
+          "id": "sent-043",
+          "text": "con un tono de claro pesar.",
+          "translationRu": "с явным сожалением.",
+          "original": "in a tone of distinct regret."
         }
       ]
     },
@@ -125,10 +304,16 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "—Entonces, ¿no sabe casi nada sobre mi tía? —continuó la joven tan segura de sí misma.",
-          "translationRu": "— Значит, вы почти ничего не знаете о моей тёте? — продолжала уверенная в себе молодая девушка.",
-          "original": "\"Then you know practically nothing about my aunt?\" pursued the self-possessed young lady."
+          "id": "sent-044",
+          "text": "—Entonces, ¿no sabe casi nada sobre mi tía?",
+          "translationRu": "— Значит, вы почти ничего не знаете о моей тёте?",
+          "original": "\"Then you know practically nothing about my aunt?\""
+        },
+        {
+          "id": "sent-045",
+          "text": "—continuó la joven tan segura de sí misma.",
+          "translationRu": "— продолжала уверенная в себе молодая девушка.",
+          "original": "pursued the self-possessed young lady."
         }
       ]
     },
@@ -136,22 +321,46 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "—Solo su nombre y su dirección —admitió el visitante.",
-          "translationRu": "— Только её имя и адрес, — признал гость.",
-          "original": "\"Only her name and address,\" admitted the caller."
+          "id": "sent-046",
+          "text": "—Solo su nombre y su dirección",
+          "translationRu": "— Только её имя и адрес,",
+          "original": "\"Only her name and address,\""
         },
         {
-          "id": "sent-016",
-          "text": "Se preguntaba si la señora Sappleton era casada o viuda.",
-          "translationRu": "Он гадал, замужем ли миссис Сэплтон или вдова.",
-          "original": "He was wondering whether Mrs. Sappleton was in the married or widowed state."
+          "id": "sent-047",
+          "text": "—admitió el visitante.",
+          "translationRu": "— признал гость.",
+          "original": "admitted the caller."
         },
         {
-          "id": "sent-017",
-          "text": "Había algo indefinible en la habitación que parecía sugerir que allí vivían hombres.",
-          "translationRu": "Что-то неуловимое в комнате, казалось, указывало на то, что здесь живут мужчины.",
-          "original": "An undefinable something about the room seemed to suggest masculine habitation."
+          "id": "sent-048",
+          "text": "Se preguntaba",
+          "translationRu": "Он гадал,",
+          "original": "He was wondering"
+        },
+        {
+          "id": "sent-049",
+          "text": "si la señora Sappleton era casada o viuda.",
+          "translationRu": "замужем ли миссис Сэплтон или вдова.",
+          "original": "whether Mrs. Sappleton was in the married or widowed state."
+        },
+        {
+          "id": "sent-050",
+          "text": "Había algo indefinible en la habitación",
+          "translationRu": "Что-то неуловимое в комнате,",
+          "original": "An undefinable something about the room"
+        },
+        {
+          "id": "sent-051",
+          "text": "que parecía sugerir",
+          "translationRu": "казалось, указывало на то,",
+          "original": "seemed to suggest"
+        },
+        {
+          "id": "sent-052",
+          "text": "que allí vivían hombres.",
+          "translationRu": "что здесь живут мужчины.",
+          "original": "masculine habitation."
         }
       ]
     },
@@ -159,16 +368,28 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "—Su gran tragedia ocurrió hace solo tres años —dijo la joven.",
-          "translationRu": "— Её великая трагедия случилась всего три года назад, — сказала девушка.",
-          "original": "\"Her great tragedy happened just three years ago,\" said the child;"
+          "id": "sent-053",
+          "text": "—Su gran tragedia ocurrió hace solo tres años",
+          "translationRu": "— Её великая трагедия случилась всего три года назад,",
+          "original": "\"Her great tragedy happened just three years ago,\""
         },
         {
-          "id": "sent-019",
-          "text": "—Eso fue después de la época en que estuvo aquí su hermana.",
-          "translationRu": "— Это было уже после того, как здесь была ваша сестра.",
-          "original": "\"that would be since your sister's time.\""
+          "id": "sent-054",
+          "text": "—dijo la joven.",
+          "translationRu": "— сказала девушка.",
+          "original": "said the child;"
+        },
+        {
+          "id": "sent-055",
+          "text": "—Eso fue después de la época",
+          "translationRu": "— Это было уже после того,",
+          "original": "\"that would be since"
+        },
+        {
+          "id": "sent-056",
+          "text": "en que estuvo aquí su hermana.",
+          "translationRu": "как здесь была ваша сестра.",
+          "original": "your sister's time.\""
         }
       ]
     },
@@ -176,16 +397,28 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "—¿Su tragedia? —preguntó Framton.",
-          "translationRu": "— Её трагедия? — спросил Фрэмтон.",
-          "original": "\"Her tragedy?\" asked Framton;"
+          "id": "sent-057",
+          "text": "—¿Su tragedia?",
+          "translationRu": "— Её трагедия?",
+          "original": "\"Her tragedy?\""
         },
         {
-          "id": "sent-021",
-          "text": "En ese tranquilo lugar del campo, las tragedias parecían algo fuera de lugar.",
-          "translationRu": "В этом тихом сельском местечке трагедии казались чем-то неуместным.",
-          "original": "somehow in this restful country spot tragedies seemed out of place."
+          "id": "sent-058",
+          "text": "—preguntó Framton.",
+          "translationRu": "— спросил Фрэмтон.",
+          "original": "asked Framton;"
+        },
+        {
+          "id": "sent-059",
+          "text": "En ese tranquilo lugar del campo,",
+          "translationRu": "В этом тихом сельском местечке",
+          "original": "somehow in this restful country spot"
+        },
+        {
+          "id": "sent-060",
+          "text": "las tragedias parecían algo fuera de lugar.",
+          "translationRu": "трагедии казались чем-то неуместным.",
+          "original": "tragedies seemed out of place."
         }
       ]
     },
@@ -193,10 +426,40 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-022",
-          "text": "—Quizás se pregunta por qué mantenemos esa ventana completamente abierta en una tarde de octubre —dijo la sobrina, señalando una gran ventana que daba al jardín.",
-          "translationRu": "— Наверное, вы удивляетесь, почему мы держим это окно широко открытым октябрьским днём, — сказала племянница, указывая на большое французское окно, выходящее в сад.",
-          "original": "\"You may wonder why we keep that window wide open on an October afternoon,\" said the niece, indicating a large French window that opened on to a lawn."
+          "id": "sent-061",
+          "text": "—Quizás se pregunta",
+          "translationRu": "— Наверное, вы удивляетесь,",
+          "original": "\"You may wonder"
+        },
+        {
+          "id": "sent-062",
+          "text": "por qué mantenemos esa ventana completamente abierta",
+          "translationRu": "почему мы держим это окно широко открытым",
+          "original": "why we keep that window wide open"
+        },
+        {
+          "id": "sent-063",
+          "text": "en una tarde de octubre",
+          "translationRu": "октябрьским днём,",
+          "original": "on an October afternoon,\""
+        },
+        {
+          "id": "sent-064",
+          "text": "—dijo la sobrina,",
+          "translationRu": "— сказала племянница,",
+          "original": "said the niece,"
+        },
+        {
+          "id": "sent-065",
+          "text": "señalando una gran ventana",
+          "translationRu": "указывая на большое французское окно,",
+          "original": "indicating a large French window"
+        },
+        {
+          "id": "sent-066",
+          "text": "que daba al jardín.",
+          "translationRu": "выходящее в сад.",
+          "original": "that opened on to a lawn."
         }
       ]
     },
@@ -204,13 +467,19 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "—Hace bastante calor para esta época del año —dijo Framton.",
-          "translationRu": "— Для этого времени года довольно тепло, — сказал Фрэмтон.",
-          "original": "\"It is quite warm for the time of the year,\" said Framton;"
+          "id": "sent-067",
+          "text": "—Hace bastante calor para esta época del año",
+          "translationRu": "— Для этого времени года довольно тепло,",
+          "original": "\"It is quite warm for the time of the year,\""
         },
         {
-          "id": "sent-024",
+          "id": "sent-068",
+          "text": "—dijo Framton.",
+          "translationRu": "— сказал Фрэмтон.",
+          "original": "said Framton;"
+        },
+        {
+          "id": "sent-069",
           "text": "—Pero, ¿tiene algo que ver esa ventana con la tragedia?",
           "translationRu": "— Но имеет ли это окно какое-то отношение к трагедии?",
           "original": "\"but has that window got anything to do with the tragedy?\""
@@ -221,37 +490,79 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-025",
-          "text": "—Por esa ventana, hace exactamente tres años, salieron el marido de mi tía y sus dos hermanos jóvenes para ir a cazar.",
-          "translationRu": "— Через то окно, ровно три года назад, вышли муж моей тёти и её два младших брата — они отправились на охоту.",
-          "original": "\"Out through that window, three years ago to a day, her husband and her two young brothers went off for their day's shooting.\""
+          "id": "sent-070",
+          "text": "—Por esa ventana,",
+          "translationRu": "— Через то окно,",
+          "original": "\"Out through that window,"
         },
         {
-          "id": "sent-026",
+          "id": "sent-071",
+          "text": "hace exactamente tres años,",
+          "translationRu": "ровно три года назад,",
+          "original": "three years ago to a day,"
+        },
+        {
+          "id": "sent-072",
+          "text": "salieron el marido de mi tía y sus dos hermanos jóvenes",
+          "translationRu": "вышли муж моей тёти и её два младших брата —",
+          "original": "her husband and her two young brothers went off"
+        },
+        {
+          "id": "sent-073",
+          "text": "para ir a cazar.",
+          "translationRu": "они отправились на охоту.",
+          "original": "for their day's shooting.\""
+        },
+        {
+          "id": "sent-074",
           "text": "Nunca volvieron.",
           "translationRu": "Они так и не вернулись.",
           "original": "They never came back."
         },
         {
-          "id": "sent-027",
-          "text": "Cuando cruzaban el páramo para llegar a su lugar favorito de caza, los tres fueron tragados por una zona traidora de pantano.",
-          "translationRu": "Когда они шли через болото к своему любимому месту охоты, все трое были поглощены предательским топким участком.",
-          "original": "In crossing the moor to their favourite snipe-shooting ground they were all three engulfed in a treacherous piece of bog."
+          "id": "sent-075",
+          "text": "Cuando cruzaban el páramo",
+          "translationRu": "Когда они шли через болото",
+          "original": "In crossing the moor"
         },
         {
-          "id": "sent-028",
-          "text": "Ese verano había sido terriblemente lluvioso, y lugares que en otros años eran seguros cedieron de repente sin avisar.",
-          "translationRu": "То лето выдалось ужасно дождливым, и места, которые в другие годы были безопасны, внезапно обваливались без всякого предупреждения.",
-          "original": "It had been that dreadful wet summer, you know, and places that were safe in other years gave way suddenly without warning."
+          "id": "sent-076",
+          "text": "para llegar a su lugar favorito de caza,",
+          "translationRu": "к своему любимому месту охоты,",
+          "original": "to their favourite snipe-shooting ground"
         },
         {
-          "id": "sent-029",
+          "id": "sent-077",
+          "text": "los tres fueron tragados por una zona traidora de pantano.",
+          "translationRu": "все трое были поглощены предательским топким участком.",
+          "original": "they were all three engulfed in a treacherous piece of bog."
+        },
+        {
+          "id": "sent-078",
+          "text": "Ese verano había sido terriblemente lluvioso,",
+          "translationRu": "То лето выдалось ужасно дождливым,",
+          "original": "It had been that dreadful wet summer, you know,"
+        },
+        {
+          "id": "sent-079",
+          "text": "y lugares que en otros años eran seguros",
+          "translationRu": "и места, которые в другие годы были безопасны,",
+          "original": "and places that were safe in other years"
+        },
+        {
+          "id": "sent-080",
+          "text": "cedieron de repente sin avisar.",
+          "translationRu": "внезапно обваливались без всякого предупреждения.",
+          "original": "gave way suddenly without warning."
+        },
+        {
+          "id": "sent-081",
           "text": "Sus cuerpos nunca fueron recuperados.",
           "translationRu": "Их тела так и не нашли.",
           "original": "Their bodies were never recovered."
         },
         {
-          "id": "sent-030",
+          "id": "sent-082",
           "text": "Esa fue la parte más terrible.",
           "translationRu": "Это было самое страшное.",
           "original": "That was the dreadful part of it."
@@ -262,34 +573,142 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-031",
-          "text": "Aquí la voz de la joven perdió su tono seguro y se volvió temblorosa y humana.",
-          "translationRu": "Здесь голос девушки потерял уверенные нотки и стал дрожащим, по-человечески взволнованным.",
-          "original": "Here the child's voice lost its self-possessed note and became falteringly human."
+          "id": "sent-083",
+          "text": "Aquí la voz de la joven",
+          "translationRu": "Здесь голос девушки",
+          "original": "Here the child's voice"
         },
         {
-          "id": "sent-032",
-          "text": "—La pobre tía siempre cree que ellos volverán algún día, ellos y el pequeño spaniel marrón que también se perdió con ellos, y que entrarán por esa ventana tal como lo hacían siempre.",
-          "translationRu": "— Бедная тётя всегда верит, что они однажды вернутся — они и маленький коричневый спаниель, который тоже пропал вместе с ними, — и войдут через то окно, как делали всегда.",
-          "original": "\"Poor aunt always thinks that they will come back some day, they and the little brown spaniel that was lost with them, and walk in at that window just as they used to do.\""
+          "id": "sent-084",
+          "text": "perdió su tono seguro",
+          "translationRu": "потерял уверенные нотки",
+          "original": "lost its self-possessed note"
         },
         {
-          "id": "sent-033",
-          "text": "Por eso la ventana permanece abierta todas las noches hasta que oscurece del todo.",
-          "translationRu": "Вот почему окно остаётся открытым каждый вечер до полной темноты.",
-          "original": "That is why the window is kept open every evening till it is quite dusk."
+          "id": "sent-085",
+          "text": "y se volvió temblorosa y humana.",
+          "translationRu": "и стал дрожащим, по-человечески взволнованным.",
+          "original": "and became falteringly human."
         },
         {
-          "id": "sent-034",
-          "text": "La pobre tía, me ha contado muchas veces cómo salieron: el marido con su impermeable blanco doblado sobre el brazo, y Ronnie, su hermano menor, cantando «Bertie, ¿por qué saltas?» como siempre hacía para molestarla, porque ella decía que le ponía los nervios de punta.",
-          "translationRu": "Бедная тётя много раз рассказывала мне, как они уходили: муж с белым плащом, перекинутым через руку, и Ронни, её младший брат, напевающий «Берти, ну зачем ты прыгаешь?» — как он всегда делал, чтобы её дразнить, потому что она говорила, что это действует ей на нервы.",
-          "original": "Poor dear aunt, she has often told me how they went out, her husband with his white waterproof coat over his arm, and Ronnie, her youngest brother, singing 'Bertie, why do you bound?' as he always did to tease her, because she said it got on her nerves."
+          "id": "sent-086",
+          "text": "—La pobre tía siempre cree",
+          "translationRu": "— Бедная тётя всегда верит,",
+          "original": "\"Poor aunt always thinks"
         },
         {
-          "id": "sent-035",
-          "text": "¿Sabe usted? A veces, en tardes tranquilas y silenciosas como esta, casi siento un escalofrío al pensar que todos ellos van a entrar por esa ventana…",
-          "translationRu": "Знаете, иногда в тихие, спокойные вечера вот такие, как сегодня, у меня почти мурашки по коже от мысли, что все они могут войти через то окно…",
-          "original": "\"Do you know, sometimes on still, quiet evenings like this, I almost get a creepy feeling that they will all walk in through that window—\""
+          "id": "sent-087",
+          "text": "que ellos volverán algún día,",
+          "translationRu": "что они однажды вернутся —",
+          "original": "that they will come back some day,"
+        },
+        {
+          "id": "sent-088",
+          "text": "ellos y el pequeño spaniel marrón",
+          "translationRu": "они и маленький коричневый спаниель,",
+          "original": "they and the little brown spaniel"
+        },
+        {
+          "id": "sent-089",
+          "text": "que también se perdió con ellos,",
+          "translationRu": "который тоже пропал вместе с ними, —",
+          "original": "that was lost with them,"
+        },
+        {
+          "id": "sent-090",
+          "text": "y que entrarán por esa ventana",
+          "translationRu": "и войдут через то окно,",
+          "original": "and walk in at that window"
+        },
+        {
+          "id": "sent-091",
+          "text": "tal como lo hacían siempre.",
+          "translationRu": "как делали всегда.",
+          "original": "just as they used to do.\""
+        },
+        {
+          "id": "sent-092",
+          "text": "Por eso la ventana permanece abierta todas las noches",
+          "translationRu": "Вот почему окно остаётся открытым каждый вечер",
+          "original": "That is why the window is kept open every evening"
+        },
+        {
+          "id": "sent-093",
+          "text": "hasta que oscurece del todo.",
+          "translationRu": "до полной темноты.",
+          "original": "till it is quite dusk."
+        },
+        {
+          "id": "sent-094",
+          "text": "La pobre tía,",
+          "translationRu": "Бедная тётя",
+          "original": "Poor dear aunt,"
+        },
+        {
+          "id": "sent-095",
+          "text": "me ha contado muchas veces",
+          "translationRu": "много раз рассказывала мне,",
+          "original": "she has often told me"
+        },
+        {
+          "id": "sent-096",
+          "text": "cómo salieron:",
+          "translationRu": "как они уходили:",
+          "original": "how they went out,"
+        },
+        {
+          "id": "sent-097",
+          "text": "el marido con su impermeable blanco doblado sobre el brazo,",
+          "translationRu": "муж с белым плащом, перекинутым через руку,",
+          "original": "her husband with his white waterproof coat over his arm,"
+        },
+        {
+          "id": "sent-098",
+          "text": "y Ronnie, su hermano menor,",
+          "translationRu": "и Ронни, её младший брат,",
+          "original": "and Ronnie, her youngest brother,"
+        },
+        {
+          "id": "sent-099",
+          "text": "cantando «Bertie, ¿por qué saltas?»",
+          "translationRu": "напевающий «Берти, ну зачем ты прыгаешь?» —",
+          "original": "singing 'Bertie, why do you bound?'"
+        },
+        {
+          "id": "sent-100",
+          "text": "como siempre hacía para molestarla,",
+          "translationRu": "как он всегда делал, чтобы её дразнить,",
+          "original": "as he always did to tease her,"
+        },
+        {
+          "id": "sent-101",
+          "text": "porque ella decía que le ponía los nervios de punta.",
+          "translationRu": "потому что она говорила, что это действует ей на нервы.",
+          "original": "because she said it got on her nerves."
+        },
+        {
+          "id": "sent-102",
+          "text": "¿Sabe usted?",
+          "translationRu": "Знаете,",
+          "original": "\"Do you know,"
+        },
+        {
+          "id": "sent-103",
+          "text": "A veces, en tardes tranquilas y silenciosas como esta,",
+          "translationRu": "иногда в тихие, спокойные вечера вот такие, как сегодня,",
+          "original": "sometimes on still, quiet evenings like this,"
+        },
+        {
+          "id": "sent-104",
+          "text": "casi siento un escalofrío",
+          "translationRu": "у меня почти мурашки по коже",
+          "original": "I almost get a creepy feeling"
+        },
+        {
+          "id": "sent-105",
+          "text": "al pensar que todos ellos van a entrar por esa ventana…",
+          "translationRu": "от мысли, что все они могут войти через то окно…",
+          "original": "that they will all walk in through that window—\""
         }
       ]
     },
@@ -297,16 +716,40 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-036",
-          "text": "La joven se interrumpió con un pequeño escalofrío.",
-          "translationRu": "Девушка внезапно замолчала, передёрнув плечами.",
-          "original": "She broke off with a little shudder."
+          "id": "sent-106",
+          "text": "La joven se interrumpió",
+          "translationRu": "Девушка внезапно замолчала,",
+          "original": "She broke off"
         },
         {
-          "id": "sent-037",
-          "text": "Framton sintió alivio cuando la tía entró a la habitación con un torbellino de disculpas por haber tardado en aparecer.",
-          "translationRu": "Фрэмтон почувствовал облегчение, когда тётя вошла в комнату с целым вихрем извинений за опоздание.",
-          "original": "It was a relief to Framton when the aunt bustled into the room with a whirl of apologies for being late in making her appearance."
+          "id": "sent-107",
+          "text": "con un pequeño escalofrío.",
+          "translationRu": "передёрнув плечами.",
+          "original": "with a little shudder."
+        },
+        {
+          "id": "sent-108",
+          "text": "Framton sintió alivio",
+          "translationRu": "Фрэмтон почувствовал облегчение,",
+          "original": "It was a relief to Framton"
+        },
+        {
+          "id": "sent-109",
+          "text": "cuando la tía entró a la habitación",
+          "translationRu": "когда тётя вошла в комнату",
+          "original": "when the aunt bustled into the room"
+        },
+        {
+          "id": "sent-110",
+          "text": "con un torbellino de disculpas",
+          "translationRu": "с целым вихрем извинений",
+          "original": "with a whirl of apologies"
+        },
+        {
+          "id": "sent-111",
+          "text": "por haber tardado en aparecer.",
+          "translationRu": "за опоздание.",
+          "original": "for being late in making her appearance."
         }
       ]
     },
@@ -314,10 +757,16 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-038",
-          "text": "—Espero que Vera le haya entretenido —dijo ella.",
-          "translationRu": "— Надеюсь, Вера вас развлекала? — сказала она.",
-          "original": "\"I hope Vera has been amusing you?\" she said."
+          "id": "sent-112",
+          "text": "—Espero que Vera le haya entretenido",
+          "translationRu": "— Надеюсь, Вера вас развлекала?",
+          "original": "\"I hope Vera has been amusing you?\""
+        },
+        {
+          "id": "sent-113",
+          "text": "—dijo ella.",
+          "translationRu": "— сказала она.",
+          "original": "she said."
         }
       ]
     },
@@ -325,10 +774,16 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-039",
-          "text": "—Ha sido muy interesante —dijo Framton.",
-          "translationRu": "— Она была очень интересной собеседницей, — сказал Фрэмтон.",
-          "original": "\"She has been very interesting,\" said Framton."
+          "id": "sent-114",
+          "text": "—Ha sido muy interesante",
+          "translationRu": "— Она была очень интересной собеседницей,",
+          "original": "\"She has been very interesting,\""
+        },
+        {
+          "id": "sent-115",
+          "text": "—dijo Framton.",
+          "translationRu": "— сказал Фрэмтон.",
+          "original": "said Framton."
         }
       ]
     },
@@ -336,25 +791,43 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-040",
-          "text": "—Espero que no le moleste la ventana abierta —dijo la señora Sappleton con viveza.",
-          "translationRu": "— Надеюсь, вас не беспокоит открытое окно, — бодро сказала миссис Сэплтон.",
-          "original": "\"I hope you don't mind the open window,\" said Mrs. Sappleton briskly;"
+          "id": "sent-116",
+          "text": "—Espero que no le moleste la ventana abierta",
+          "translationRu": "— Надеюсь, вас не беспокоит открытое окно,",
+          "original": "\"I hope you don't mind the open window,\""
         },
         {
-          "id": "sent-041",
-          "text": "—Mi marido y mis hermanos llegarán pronto de cazar, y siempre entran por aquí.",
-          "translationRu": "— Мой муж и братья скоро вернутся с охоты, и они всегда входят вот так.",
-          "original": "\"my husband and brothers will be home directly from shooting, and they always come in this way.\""
+          "id": "sent-117",
+          "text": "—dijo la señora Sappleton con viveza.",
+          "translationRu": "— бодро сказала миссис Сэплтон.",
+          "original": "said Mrs. Sappleton briskly;"
         },
         {
-          "id": "sent-042",
-          "text": "—Han estado cazando aves en los pantanos hoy, así que van a poner todo perdido mis pobres alfombras.",
-          "translationRu": "— Сегодня они охотились на птиц в болотах, так что перепачкают мне все ковры.",
-          "original": "\"They've been out for snipe in the marshes to-day, so they'll make a fine mess over my poor carpets.\""
+          "id": "sent-118",
+          "text": "—Mi marido y mis hermanos llegarán pronto de cazar,",
+          "translationRu": "— Мой муж и братья скоро вернутся с охоты,",
+          "original": "\"my husband and brothers will be home directly from shooting,"
         },
         {
-          "id": "sent-043",
+          "id": "sent-119",
+          "text": "y siempre entran por aquí.",
+          "translationRu": "и они всегда входят вот так.",
+          "original": "and they always come in this way.\""
+        },
+        {
+          "id": "sent-120",
+          "text": "—Han estado cazando aves en los pantanos hoy,",
+          "translationRu": "— Сегодня они охотились на птиц в болотах,",
+          "original": "\"They've been out for snipe in the marshes to-day,"
+        },
+        {
+          "id": "sent-121",
+          "text": "así que van a poner todo perdido mis pobres alfombras.",
+          "translationRu": "так что перепачкают мне все ковры.",
+          "original": "so they'll make a fine mess over my poor carpets.\""
+        },
+        {
+          "id": "sent-122",
           "text": "—¡Tan típico de los hombres, verdad?",
           "translationRu": "— Такие они, мужчины, правда?",
           "original": "\"So like you men-folk, isn't it?\""
@@ -365,34 +838,94 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-044",
-          "text": "Ella siguió hablando alegremente sobre la caza y la escasez de aves, y las posibilidades de patos en invierno.",
-          "translationRu": "Она продолжала весело говорить об охоте, о нехватке дичи и о перспективах охоты на уток зимой.",
-          "original": "She rattled on cheerfully about the shooting and the scarcity of birds, and the prospects for duck in the winter."
+          "id": "sent-123",
+          "text": "Ella siguió hablando alegremente sobre la caza",
+          "translationRu": "Она продолжала весело говорить об охоте,",
+          "original": "She rattled on cheerfully about the shooting"
         },
         {
-          "id": "sent-045",
-          "text": "Para Framton, todo aquello era completamente horrible.",
-          "translationRu": "Для Фрэмтона всё это было невыносимо ужасным.",
-          "original": "To Framton it was all purely horrible."
+          "id": "sent-124",
+          "text": "y la escasez de aves,",
+          "translationRu": "о нехватке дичи",
+          "original": "and the scarcity of birds,"
         },
         {
-          "id": "sent-046",
-          "text": "Hizo un esfuerzo desesperado, aunque no del todo exitoso, para desviar la conversación hacia un tema menos espeluznante.",
-          "translationRu": "Он сделал отчаянную, хотя и не слишком успешную попытку перевести разговор на менее жуткую тему.",
-          "original": "He made a desperate but only partially successful effort to turn the talk on to a less ghastly topic;"
+          "id": "sent-125",
+          "text": "y las posibilidades de patos en invierno.",
+          "translationRu": "и о перспективах охоты на уток зимой.",
+          "original": "and the prospects for duck in the winter."
         },
         {
-          "id": "sent-047",
-          "text": "Notó que la anfitriona le prestaba solo una pequeña parte de su atención, y que sus ojos seguían desviándose hacia la ventana abierta y el jardín de más allá.",
-          "translationRu": "Он замечал, что хозяйка уделяла ему лишь малую долю своего внимания, а её глаза то и дело скользили мимо него — к открытому окну и саду за ним.",
-          "original": "he was conscious that his hostess was giving him only a fragment of her attention, and her eyes were constantly straying past him to the open window and the lawn beyond."
+          "id": "sent-126",
+          "text": "Para Framton,",
+          "translationRu": "Для Фрэмтона",
+          "original": "To Framton"
         },
         {
-          "id": "sent-048",
-          "text": "Sin duda era una coincidencia desafortunada que él hubiera hecho su visita justo en ese aniversario tan trágico.",
-          "translationRu": "Безусловно, это было несчастливым совпадением, что он нанёс визит именно в этот трагический годовой день.",
-          "original": "It was certainly an unfortunate coincidence that he should have paid his visit on this tragic anniversary."
+          "id": "sent-127",
+          "text": "todo aquello era completamente horrible.",
+          "translationRu": "всё это было невыносимо ужасным.",
+          "original": "it was all purely horrible."
+        },
+        {
+          "id": "sent-128",
+          "text": "Hizo un esfuerzo desesperado,",
+          "translationRu": "Он сделал отчаянную,",
+          "original": "He made a desperate"
+        },
+        {
+          "id": "sent-129",
+          "text": "aunque no del todo exitoso,",
+          "translationRu": "хотя и не слишком успешную попытку",
+          "original": "but only partially successful effort"
+        },
+        {
+          "id": "sent-130",
+          "text": "para desviar la conversación hacia un tema menos espeluznante.",
+          "translationRu": "перевести разговор на менее жуткую тему.",
+          "original": "to turn the talk on to a less ghastly topic;"
+        },
+        {
+          "id": "sent-131",
+          "text": "Notó que la anfitriona",
+          "translationRu": "Он замечал, что хозяйка",
+          "original": "he was conscious that his hostess"
+        },
+        {
+          "id": "sent-132",
+          "text": "le prestaba solo una pequeña parte de su atención,",
+          "translationRu": "уделяла ему лишь малую долю своего внимания,",
+          "original": "was giving him only a fragment of her attention,"
+        },
+        {
+          "id": "sent-133",
+          "text": "y que sus ojos seguían desviándose",
+          "translationRu": "а её глаза то и дело скользили мимо него —",
+          "original": "and her eyes were constantly straying past him"
+        },
+        {
+          "id": "sent-134",
+          "text": "hacia la ventana abierta y el jardín de más allá.",
+          "translationRu": "к открытому окну и саду за ним.",
+          "original": "to the open window and the lawn beyond."
+        },
+        {
+          "id": "sent-135",
+          "text": "Sin duda era una coincidencia desafortunada",
+          "translationRu": "Безусловно, это было несчастливым совпадением,",
+          "original": "It was certainly an unfortunate coincidence"
+        },
+        {
+          "id": "sent-136",
+          "text": "que él hubiera hecho su visita",
+          "translationRu": "что он нанёс визит",
+          "original": "that he should have paid his visit"
+        },
+        {
+          "id": "sent-137",
+          "text": "justo en ese aniversario tan trágico.",
+          "translationRu": "именно в этот трагический годовой день.",
+          "original": "on this tragic anniversary."
         }
       ]
     },
@@ -400,16 +933,70 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-049",
-          "text": "—Los médicos están de acuerdo en ordenarme descanso completo, ausencia de excitación mental y evitar cualquier tipo de ejercicio físico violento —anunció Framton, que tenía la creencia bastante común de que los desconocidos y las personas con quienes se encuentra uno por casualidad tienen mucho interés en cada detalle de las enfermedades y dolencias de uno, su causa y su cura.",
-          "translationRu": "— Врачи единодушно предписывают мне полный покой, отсутствие умственного возбуждения и избегание какого-либо сильного физического напряжения, — объявил Фрэмтон, разделявший довольно распространённое заблуждение, что незнакомые люди и случайные знакомые жадно интересуются мельчайшими подробностями чужих болезней, их причинами и лечением.",
-          "original": "\"The doctors agree in ordering me complete rest, an absence of mental excitement, and avoidance of anything in the nature of violent physical exercise,\" announced Framton, who laboured under the tolerably widespread delusion that total strangers and chance acquaintances are hungry for the least detail of one's ailments and infirmities, their cause and cure."
+          "id": "sent-138",
+          "text": "—Los médicos están de acuerdo en ordenarme descanso completo,",
+          "translationRu": "— Врачи единодушно предписывают мне полный покой,",
+          "original": "\"The doctors agree in ordering me complete rest,"
         },
         {
-          "id": "sent-050",
-          "text": "—En cuanto a la dieta, no están tan de acuerdo —continuó.",
-          "translationRu": "— Что касается диеты, здесь они не так единодушны, — продолжал он.",
-          "original": "\"On the matter of diet they are not so much in agreement,\" he continued."
+          "id": "sent-139",
+          "text": "ausencia de excitación mental",
+          "translationRu": "отсутствие умственного возбуждения",
+          "original": "an absence of mental excitement,"
+        },
+        {
+          "id": "sent-140",
+          "text": "y evitar cualquier tipo de ejercicio físico violento",
+          "translationRu": "и избегание какого-либо сильного физического напряжения,",
+          "original": "and avoidance of anything in the nature of violent physical exercise,\""
+        },
+        {
+          "id": "sent-141",
+          "text": "—anunció Framton,",
+          "translationRu": "— объявил Фрэмтон,",
+          "original": "announced Framton,"
+        },
+        {
+          "id": "sent-142",
+          "text": "que tenía la creencia bastante común",
+          "translationRu": "разделявший довольно распространённое заблуждение,",
+          "original": "who laboured under the tolerably widespread delusion"
+        },
+        {
+          "id": "sent-143",
+          "text": "de que los desconocidos y las personas con quienes se encuentra uno por casualidad",
+          "translationRu": "что незнакомые люди и случайные знакомые",
+          "original": "that total strangers and chance acquaintances"
+        },
+        {
+          "id": "sent-144",
+          "text": "tienen mucho interés en cada detalle de las enfermedades y dolencias de uno,",
+          "translationRu": "жадно интересуются мельчайшими подробностями чужих болезней,",
+          "original": "are hungry for the least detail of one's ailments and infirmities,"
+        },
+        {
+          "id": "sent-145",
+          "text": "su causa y su cura.",
+          "translationRu": "их причинами и лечением.",
+          "original": "their cause and cure."
+        },
+        {
+          "id": "sent-146",
+          "text": "—En cuanto a la dieta,",
+          "translationRu": "— Что касается диеты,",
+          "original": "\"On the matter of diet"
+        },
+        {
+          "id": "sent-147",
+          "text": "no están tan de acuerdo",
+          "translationRu": "здесь они не так единодушны,",
+          "original": "they are not so much in agreement,\""
+        },
+        {
+          "id": "sent-148",
+          "text": "—continuó.",
+          "translationRu": "— продолжал он.",
+          "original": "he continued."
         }
       ]
     },
@@ -417,16 +1004,40 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-051",
-          "text": "—¿No? —dijo la señora Sappleton, con una voz que apenas había reemplazado un bostezo en el último momento.",
-          "translationRu": "— Нет? — сказала миссис Сэплтон голосом, в котором в последний момент едва удалось заменить зевок.",
-          "original": "\"No?\" said Mrs. Sappleton, in a voice which only replaced a yawn at the last moment."
+          "id": "sent-149",
+          "text": "—¿No?",
+          "translationRu": "— Нет?",
+          "original": "\"No?\""
         },
         {
-          "id": "sent-052",
-          "text": "Luego, de repente, su expresión cambió y se puso muy atenta, pero no a lo que Framton estaba diciendo.",
-          "translationRu": "Затем вдруг её выражение изменилось, и она стала очень внимательной — только не к тому, что говорил Фрэмтон.",
-          "original": "Then she suddenly brightened into alert attention—but not to what Framton was saying."
+          "id": "sent-150",
+          "text": "—dijo la señora Sappleton,",
+          "translationRu": "— сказала миссис Сэплтон",
+          "original": "said Mrs. Sappleton,"
+        },
+        {
+          "id": "sent-151",
+          "text": "con una voz que apenas había reemplazado un bostezo en el último momento.",
+          "translationRu": "голосом, в котором в последний момент едва удалось заменить зевок.",
+          "original": "in a voice which only replaced a yawn at the last moment."
+        },
+        {
+          "id": "sent-152",
+          "text": "Luego, de repente,",
+          "translationRu": "Затем вдруг",
+          "original": "Then she suddenly"
+        },
+        {
+          "id": "sent-153",
+          "text": "su expresión cambió y se puso muy atenta,",
+          "translationRu": "её выражение изменилось, и она стала очень внимательной —",
+          "original": "brightened into alert attention—"
+        },
+        {
+          "id": "sent-154",
+          "text": "pero no a lo que Framton estaba diciendo.",
+          "translationRu": "только не к тому, что говорил Фрэмтон.",
+          "original": "but not to what Framton was saying."
         }
       ]
     },
@@ -434,16 +1045,28 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-053",
-          "text": "—¡Por fin están aquí! —exclamó.",
-          "translationRu": "— Наконец-то они здесь! — воскликнула она.",
-          "original": "\"Here they are at last!\" she cried."
+          "id": "sent-155",
+          "text": "—¡Por fin están aquí!",
+          "translationRu": "— Наконец-то они здесь!",
+          "original": "\"Here they are at last!\""
         },
         {
-          "id": "sent-054",
-          "text": "—¡Justo a tiempo para el té, y qué sucios están hasta los ojos!",
-          "translationRu": "— Как раз к чаю, и как же они перемазались!",
-          "original": "\"Just in time for tea, and don't they look as if they were muddy up to the eyes!\""
+          "id": "sent-156",
+          "text": "—exclamó.",
+          "translationRu": "— воскликнула она.",
+          "original": "she cried."
+        },
+        {
+          "id": "sent-157",
+          "text": "—¡Justo a tiempo para el té,",
+          "translationRu": "— Как раз к чаю,",
+          "original": "\"Just in time for tea,"
+        },
+        {
+          "id": "sent-158",
+          "text": "y qué sucios están hasta los ojos!",
+          "translationRu": "и как же они перемазались!",
+          "original": "and don't they look as if they were muddy up to the eyes!\""
         }
       ]
     },
@@ -451,22 +1074,52 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-055",
-          "text": "Framton se estremeció un poco y se volvió hacia la sobrina con una mirada que quería mostrar comprensión y solidaridad.",
-          "translationRu": "Фрэмтон слегка вздрогнул и повернулся к племяннице со взглядом, в котором хотел выразить сочувствие и понимание.",
-          "original": "Framton shivered slightly and turned towards the niece with a look intended to convey sympathetic comprehension."
+          "id": "sent-159",
+          "text": "Framton se estremeció un poco",
+          "translationRu": "Фрэмтон слегка вздрогнул",
+          "original": "Framton shivered slightly"
         },
         {
-          "id": "sent-056",
-          "text": "La joven miraba por la ventana abierta con un horror perdido en los ojos.",
-          "translationRu": "Девушка смотрела в открытое окно остекленевшим от ужаса взглядом.",
-          "original": "The child was staring out through the open window with dazed horror in her eyes."
+          "id": "sent-160",
+          "text": "y se volvió hacia la sobrina",
+          "translationRu": "и повернулся к племяннице",
+          "original": "and turned towards the niece"
         },
         {
-          "id": "sent-057",
-          "text": "Presa de un frío y repentino miedo sin nombre, Framton se dio vuelta en su silla y miró en la misma dirección.",
-          "translationRu": "Охваченный холодным и внезапным безымянным страхом, Фрэмтон резко обернулся на стуле и посмотрел в том же направлении.",
-          "original": "In a chill shock of nameless fear Framton swung round in his seat and looked in the same direction."
+          "id": "sent-161",
+          "text": "con una mirada que quería mostrar comprensión y solidaridad.",
+          "translationRu": "со взглядом, в котором хотел выразить сочувствие и понимание.",
+          "original": "with a look intended to convey sympathetic comprehension."
+        },
+        {
+          "id": "sent-162",
+          "text": "La joven miraba por la ventana abierta",
+          "translationRu": "Девушка смотрела в открытое окно",
+          "original": "The child was staring out through the open window"
+        },
+        {
+          "id": "sent-163",
+          "text": "con un horror perdido en los ojos.",
+          "translationRu": "остекленевшим от ужаса взглядом.",
+          "original": "with dazed horror in her eyes."
+        },
+        {
+          "id": "sent-164",
+          "text": "Presa de un frío y repentino miedo sin nombre,",
+          "translationRu": "Охваченный холодным и внезапным безымянным страхом,",
+          "original": "In a chill shock of nameless fear"
+        },
+        {
+          "id": "sent-165",
+          "text": "Framton se dio vuelta en su silla",
+          "translationRu": "Фрэмтон резко обернулся на стуле",
+          "original": "Framton swung round in his seat"
+        },
+        {
+          "id": "sent-166",
+          "text": "y miró en la misma dirección.",
+          "translationRu": "и посмотрел в том же направлении.",
+          "original": "and looked in the same direction."
         }
       ]
     },
@@ -474,28 +1127,64 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-058",
-          "text": "En el crepúsculo que se hacía más oscuro, tres figuras caminaban por el jardín hacia la ventana.",
-          "translationRu": "В сгущающихся сумерках три фигуры шли по саду к окну.",
-          "original": "In the deepening twilight three figures were walking across the lawn towards the window;"
+          "id": "sent-167",
+          "text": "En el crepúsculo que se hacía más oscuro,",
+          "translationRu": "В сгущающихся сумерках",
+          "original": "In the deepening twilight"
         },
         {
-          "id": "sent-059",
-          "text": "Todos llevaban escopetas bajo el brazo, y uno de ellos cargaba además un abrigo blanco colgado sobre sus hombros.",
-          "translationRu": "Все несли ружья под мышкой, а один из них ещё и тащил белый плащ, перекинутый через плечо.",
-          "original": "they all carried guns under their arms, and one of them was additionally burdened with a white coat hung over his shoulders."
+          "id": "sent-168",
+          "text": "tres figuras caminaban por el jardín hacia la ventana.",
+          "translationRu": "три фигуры шли по саду к окну.",
+          "original": "three figures were walking across the lawn towards the window;"
         },
         {
-          "id": "sent-060",
-          "text": "Un cansado spaniel marrón caminaba cerca de sus talones.",
-          "translationRu": "Усталый коричневый спаниель держался у их пяток.",
-          "original": "A tired brown spaniel kept close at their heels."
+          "id": "sent-169",
+          "text": "Todos llevaban escopetas bajo el brazo,",
+          "translationRu": "Все несли ружья под мышкой,",
+          "original": "they all carried guns under their arms,"
         },
         {
-          "id": "sent-061",
-          "text": "Sin hacer ruido, se acercaron a la casa, y entonces una joven voz ronca cantó desde la oscuridad: «Dije yo, Bertie, ¿por qué saltas?».",
-          "translationRu": "Бесшумно приближаясь к дому, они подошли ближе, и тут из темноты прозвучал молодой хрипловатый голос: «Послушай, Берти, ну зачем ты прыгаешь?»",
-          "original": "Noiselessly they neared the house, and then a hoarse young voice chanted out of the dusk: \"I said, Bertie, why do you bound?\""
+          "id": "sent-170",
+          "text": "y uno de ellos cargaba además un abrigo blanco",
+          "translationRu": "а один из них ещё и тащил белый плащ,",
+          "original": "and one of them was additionally burdened with a white coat"
+        },
+        {
+          "id": "sent-171",
+          "text": "colgado sobre sus hombros.",
+          "translationRu": "перекинутый через плечо.",
+          "original": "hung over his shoulders."
+        },
+        {
+          "id": "sent-172",
+          "text": "Un cansado spaniel marrón",
+          "translationRu": "Усталый коричневый спаниель",
+          "original": "A tired brown spaniel"
+        },
+        {
+          "id": "sent-173",
+          "text": "caminaba cerca de sus talones.",
+          "translationRu": "держался у их пяток.",
+          "original": "kept close at their heels."
+        },
+        {
+          "id": "sent-174",
+          "text": "Sin hacer ruido, se acercaron a la casa,",
+          "translationRu": "Бесшумно приближаясь к дому, они подошли ближе,",
+          "original": "Noiselessly they neared the house,"
+        },
+        {
+          "id": "sent-175",
+          "text": "y entonces una joven voz ronca cantó desde la oscuridad:",
+          "translationRu": "и тут из темноты прозвучал молодой хрипловатый голос:",
+          "original": "and then a hoarse young voice chanted out of the dusk:"
+        },
+        {
+          "id": "sent-176",
+          "text": "«Dije yo, Bertie, ¿por qué saltas?».",
+          "translationRu": "«Послушай, Берти, ну зачем ты прыгаешь?»",
+          "original": "\"I said, Bertie, why do you bound?\""
         }
       ]
     },
@@ -503,22 +1192,40 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-062",
+          "id": "sent-177",
           "text": "Framton agarró su bastón y su sombrero con movimientos desesperados.",
           "translationRu": "Фрэмтон лихорадочно схватил трость и шляпу.",
           "original": "Framton grabbed wildly at his stick and hat;"
         },
         {
-          "id": "sent-063",
-          "text": "La puerta de entrada, el camino de grava y la verja del jardín fueron etapas que apenas notó en su huida precipitada.",
-          "translationRu": "Входная дверь, гравийная дорожка и садовые ворота промелькнули в его стремительном бегстве почти незаметно.",
-          "original": "the hall-door, the gravel-drive, and the front gate were dimly-noted stages in his headlong retreat."
+          "id": "sent-178",
+          "text": "La puerta de entrada, el camino de grava y la verja del jardín",
+          "translationRu": "Входная дверь, гравийная дорожка и садовые ворота",
+          "original": "the hall-door, the gravel-drive, and the front gate"
         },
         {
-          "id": "sent-064",
-          "text": "Un ciclista que venía por la carretera tuvo que meterse en el seto para evitar una colisión.",
-          "translationRu": "Велосипедист, ехавший по дороге, был вынужден съехать в живую изгородь, чтобы избежать столкновения.",
-          "original": "A cyclist coming along the road had to run into the hedge to avoid an imminent collision."
+          "id": "sent-179",
+          "text": "fueron etapas que apenas notó en su huida precipitada.",
+          "translationRu": "промелькнули в его стремительном бегстве почти незаметно.",
+          "original": "were dimly-noted stages in his headlong retreat."
+        },
+        {
+          "id": "sent-180",
+          "text": "Un ciclista que venía por la carretera",
+          "translationRu": "Велосипедист, ехавший по дороге,",
+          "original": "A cyclist coming along the road"
+        },
+        {
+          "id": "sent-181",
+          "text": "tuvo que meterse en el seto",
+          "translationRu": "был вынужден съехать в живую изгородь,",
+          "original": "had to run into the hedge"
+        },
+        {
+          "id": "sent-182",
+          "text": "para evitar una colisión.",
+          "translationRu": "чтобы избежать столкновения.",
+          "original": "to avoid an imminent collision."
         }
       ]
     },
@@ -526,22 +1233,46 @@
       "id": "para-027",
       "sentences": [
         {
-          "id": "sent-065",
-          "text": "—Ya estamos aquí, querida —dijo el que llevaba el impermeable blanco, entrando por la ventana.",
-          "translationRu": "— Вот мы и дома, дорогая, — сказал тот, что нёс белый плащ, входя через окно.",
-          "original": "\"Here we are, my dear,\" said the bearer of the white mackintosh, coming in through the window;"
+          "id": "sent-183",
+          "text": "—Ya estamos aquí, querida",
+          "translationRu": "— Вот мы и дома, дорогая,",
+          "original": "\"Here we are, my dear,\""
         },
         {
-          "id": "sent-066",
-          "text": "—Bastante sucios, pero ya se está secando.",
-          "translationRu": "— Порядком перемазались, но уже подсыхает.",
-          "original": "\"fairly muddy, but most of it's dry.\""
+          "id": "sent-184",
+          "text": "—dijo el que llevaba el impermeable blanco,",
+          "translationRu": "— сказал тот, что нёс белый плащ,",
+          "original": "said the bearer of the white mackintosh,"
         },
         {
-          "id": "sent-067",
-          "text": "—¿Quién era ese que salió corriendo cuando llegamos?",
-          "translationRu": "— Кто это бросился бежать, когда мы подходили?",
-          "original": "\"Who was that who bolted out as we came up?\""
+          "id": "sent-185",
+          "text": "entrando por la ventana.",
+          "translationRu": "входя через окно.",
+          "original": "coming in through the window;"
+        },
+        {
+          "id": "sent-186",
+          "text": "—Bastante sucios,",
+          "translationRu": "— Порядком перемазались,",
+          "original": "\"fairly muddy,"
+        },
+        {
+          "id": "sent-187",
+          "text": "pero ya se está secando.",
+          "translationRu": "но уже подсыхает.",
+          "original": "but most of it's dry.\""
+        },
+        {
+          "id": "sent-188",
+          "text": "—¿Quién era ese que salió corriendo",
+          "translationRu": "— Кто это бросился бежать,",
+          "original": "\"Who was that who bolted out"
+        },
+        {
+          "id": "sent-189",
+          "text": "cuando llegamos?",
+          "translationRu": "когда мы подходили?",
+          "original": "as we came up?\""
         }
       ]
     },
@@ -549,19 +1280,37 @@
       "id": "para-028",
       "sentences": [
         {
-          "id": "sent-068",
-          "text": "—Un hombre de lo más extraño, un tal señor Nuttel —dijo la señora Sappleton.",
-          "translationRu": "— Совершенно странный человек, некий мистер Наттел, — сказала миссис Сэплтон.",
-          "original": "\"A most extraordinary man, a Mr. Nuttel,\" said Mrs. Sappleton;"
+          "id": "sent-190",
+          "text": "—Un hombre de lo más extraño,",
+          "translationRu": "— Совершенно странный человек,",
+          "original": "\"A most extraordinary man,"
         },
         {
-          "id": "sent-069",
-          "text": "—Solo podía hablar de sus enfermedades, y salió disparado sin decir ni adiós ni pedir disculpas cuando llegasteis.",
-          "translationRu": "— Только и говорил о своих болезнях, а когда вы пришли — умчался, не попрощавшись и не извинившись.",
-          "original": "\"could only talk about his illnesses, and dashed off without a word of good-bye or apology when you arrived.\""
+          "id": "sent-191",
+          "text": "un tal señor Nuttel",
+          "translationRu": "некий мистер Наттел,",
+          "original": "a Mr. Nuttel,\""
         },
         {
-          "id": "sent-070",
+          "id": "sent-192",
+          "text": "—dijo la señora Sappleton.",
+          "translationRu": "— сказала миссис Сэплтон.",
+          "original": "said Mrs. Sappleton;"
+        },
+        {
+          "id": "sent-193",
+          "text": "—Solo podía hablar de sus enfermedades,",
+          "translationRu": "— Только и говорил о своих болезнях,",
+          "original": "\"could only talk about his illnesses,"
+        },
+        {
+          "id": "sent-194",
+          "text": "y salió disparado sin decir ni adiós ni pedir disculpas cuando llegasteis.",
+          "translationRu": "а когда вы пришли — умчался, не попрощавшись и не извинившись.",
+          "original": "and dashed off without a word of good-bye or apology when you arrived.\""
+        },
+        {
+          "id": "sent-195",
           "text": "—Cualquiera diría que había visto un fantasma.",
           "translationRu": "— Можно было подумать, что он увидел привидение.",
           "original": "\"One would think he had seen a ghost.\""
@@ -572,25 +1321,61 @@
       "id": "para-029",
       "sentences": [
         {
-          "id": "sent-071",
-          "text": "—Seguro que fue el spaniel —dijo la sobrina con calma.",
-          "translationRu": "— Наверное, это из-за спаниеля, — спокойно сказала племянница.",
-          "original": "\"I expect it was the spaniel,\" said the niece calmly;"
+          "id": "sent-196",
+          "text": "—Seguro que fue el spaniel",
+          "translationRu": "— Наверное, это из-за спаниеля,",
+          "original": "\"I expect it was the spaniel,\""
         },
         {
-          "id": "sent-072",
-          "text": "—Me contó que le horrorizan los perros.",
-          "translationRu": "— Он рассказал мне, что смертельно боится собак.",
-          "original": "\"he told me he had a horror of dogs.\""
+          "id": "sent-197",
+          "text": "—dijo la sobrina con calma.",
+          "translationRu": "— спокойно сказала племянница.",
+          "original": "said the niece calmly;"
         },
         {
-          "id": "sent-073",
-          "text": "Una vez, en algún lugar a orillas del Ganges, una jauría de perros callejeros lo persiguió hasta un cementerio, y tuvo que pasar la noche en una tumba recién cavada con las criaturas gruñendo, enseñando los dientes y echando espuma justo sobre él.",
-          "translationRu": "Однажды где-то на берегу Ганга стая бродячих собак загнала его на кладбище, и ему пришлось провести ночь в только что вырытой могиле, пока эти твари рычали, скалились и пенились прямо над ним.",
-          "original": "\"He was once hunted into a cemetery somewhere on the banks of the Ganges by a pack of pariah dogs, and had to spend the night in a newly dug grave with the creatures snarling and grinning and foaming just above him.\""
+          "id": "sent-198",
+          "text": "—Me contó",
+          "translationRu": "— Он рассказал мне,",
+          "original": "\"he told me"
         },
         {
-          "id": "sent-074",
+          "id": "sent-199",
+          "text": "que le horrorizan los perros.",
+          "translationRu": "что смертельно боится собак.",
+          "original": "he had a horror of dogs.\""
+        },
+        {
+          "id": "sent-200",
+          "text": "Una vez, en algún lugar a orillas del Ganges,",
+          "translationRu": "Однажды где-то на берегу Ганга",
+          "original": "\"He was once hunted into a cemetery somewhere on the banks of the Ganges"
+        },
+        {
+          "id": "sent-201",
+          "text": "una jauría de perros callejeros lo persiguió hasta un cementerio,",
+          "translationRu": "стая бродячих собак загнала его на кладбище,",
+          "original": "by a pack of pariah dogs,"
+        },
+        {
+          "id": "sent-202",
+          "text": "y tuvo que pasar la noche en una tumba recién cavada",
+          "translationRu": "и ему пришлось провести ночь в только что вырытой могиле,",
+          "original": "and had to spend the night in a newly dug grave"
+        },
+        {
+          "id": "sent-203",
+          "text": "con las criaturas gruñendo, enseñando los dientes y echando espuma",
+          "translationRu": "пока эти твари рычали, скалились и пенились",
+          "original": "with the creatures snarling and grinning and foaming"
+        },
+        {
+          "id": "sent-204",
+          "text": "justo sobre él.",
+          "translationRu": "прямо над ним.",
+          "original": "just above him.\""
+        },
+        {
+          "id": "sent-205",
           "text": "—Como para perder los nervios.",
           "translationRu": "— Тут у кого угодно нервы сдадут.",
           "original": "\"Enough to make anyone lose their nerve.\""
@@ -601,10 +1386,16 @@
       "id": "para-030",
       "sentences": [
         {
-          "id": "sent-075",
-          "text": "Inventar historias de forma rápida era su especialidad.",
-          "translationRu": "Сочинять истории на ходу было её особым талантом.",
-          "original": "Romance at short notice was her speciality."
+          "id": "sent-206",
+          "text": "Inventar historias de forma rápida",
+          "translationRu": "Сочинять истории на ходу",
+          "original": "Romance at short notice"
+        },
+        {
+          "id": "sent-207",
+          "text": "era su especialidad.",
+          "translationRu": "было её особым талантом.",
+          "original": "was her speciality."
         }
       ]
     }

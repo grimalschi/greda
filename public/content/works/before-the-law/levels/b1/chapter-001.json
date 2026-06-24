@@ -13,81 +13,218 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Ante la ley hay un guardián.",
-          "translationRu": "Перед законом стоит привратник.",
-          "original": "Vor dem Gesetz steht ein Türhüter."
+          "text": "Ante la ley",
+          "translationRu": "Перед законом",
+          "original": "Vor dem Gesetz"
         },
         {
           "id": "sent-002",
-          "text": "Un hombre del campo llega hasta ese guardián y le pide que lo deje entrar a la ley.",
-          "translationRu": "К этому привратнику приходит человек из деревни и просит разрешить ему войти в закон.",
-          "original": "Zu diesem Türhüter kommt ein Mann vom Lande und bittet um Eintritt in das Gesetz."
+          "text": "hay un guardián.",
+          "translationRu": "стоит привратник.",
+          "original": "steht ein Türhüter."
         },
         {
           "id": "sent-003",
-          "text": "Pero el guardián le dice que ahora no puede permitirle la entrada.",
-          "translationRu": "Но привратник говорит ему, что сейчас не может впустить его.",
-          "original": "Aber der Türhüter sagt, daß er ihm jetzt den Eintritt nicht gewähren könne."
+          "text": "Un hombre del campo llega hasta ese guardián",
+          "translationRu": "К этому привратнику приходит человек из деревни",
+          "original": "Zu diesem Türhüter kommt ein Mann vom Lande"
         },
         {
           "id": "sent-004",
-          "text": "El hombre piensa un momento y luego pregunta si podrá entrar más tarde.",
-          "translationRu": "Человек думает немного, а потом спрашивает, сможет ли он войти позже.",
-          "original": "Der Mann überlegt und fragt dann, ob er also später werde eintreten dürfen."
+          "text": "y le pide",
+          "translationRu": "и просит",
+          "original": "und bittet um"
         },
         {
           "id": "sent-005",
-          "text": "«Es posible», dice el guardián, «pero ahora no».",
-          "translationRu": "«Это возможно», — говорит привратник, — «но сейчас — нет».",
-          "original": "»Es ist möglich,« sagt der Türhüter, »jetzt aber nicht.«"
+          "text": "que lo deje entrar a la ley.",
+          "translationRu": "разрешить ему войти в закон.",
+          "original": "Eintritt in das Gesetz."
         },
         {
           "id": "sent-006",
-          "text": "La puerta de la ley está abierta como siempre.",
-          "translationRu": "Ворота закона открыты, как всегда.",
-          "original": "Da das Tor zum Gesetz offensteht wie immer"
+          "text": "Pero el guardián le dice",
+          "translationRu": "Но привратник говорит ему,",
+          "original": "Aber der Türhüter sagt,"
         },
         {
           "id": "sent-007",
-          "text": "El guardián se aparta un poco a un lado.",
-          "translationRu": "Привратник отступает немного в сторону.",
-          "original": "und der Türhüter beiseite tritt,"
+          "text": "que ahora",
+          "translationRu": "что сейчас",
+          "original": "daß er ihm jetzt"
         },
         {
           "id": "sent-008",
-          "text": "El hombre se inclina para mirar hacia dentro a través de la puerta.",
-          "translationRu": "Человек наклоняется, чтобы заглянуть внутрь через ворота.",
-          "original": "bückt sich der Mann, um durch das Tor in das Innere zu sehn."
+          "text": "no puede permitirle la entrada.",
+          "translationRu": "не может впустить его.",
+          "original": "den Eintritt nicht gewähren könne."
         },
         {
           "id": "sent-009",
-          "text": "Cuando el guardián lo nota, se ríe y dice: «Si tanto te atrae, intenta entrar a pesar de mi prohibición».",
-          "translationRu": "Когда привратник замечает это, он смеётся и говорит: «Если тебя так манит, попробуй войти вопреки моему запрету».",
-          "original": "Als der Türhüter das merkt, lacht er und sagt: »Wenn es dich so lockt, versuche es doch, trotz meines Verbotes hineinzugehn."
+          "text": "El hombre piensa un momento",
+          "translationRu": "Человек думает немного,",
+          "original": "Der Mann überlegt"
         },
         {
           "id": "sent-010",
-          "text": "«Pero ten en cuenta: yo soy poderoso».",
-          "translationRu": "«Но знай: я могуществен».",
-          "original": "Merke aber: Ich bin mächtig."
+          "text": "y luego pregunta",
+          "translationRu": "а потом спрашивает,",
+          "original": "und fragt dann,"
         },
         {
           "id": "sent-011",
-          "text": "«Y yo soy solo el guardián más bajo».",
-          "translationRu": "«И я — всего лишь самый младший привратник».",
-          "original": "Und ich bin nur der unterste Türhüter."
+          "text": "si podrá entrar más tarde.",
+          "translationRu": "сможет ли он войти позже.",
+          "original": "ob er also später werde eintreten dürfen."
         },
         {
           "id": "sent-012",
-          "text": "«De sala en sala hay guardianes, cada uno más poderoso que el anterior».",
-          "translationRu": "«От зала к залу стоят привратники, каждый могущественнее предыдущего».",
-          "original": "Von Saal zu Saal stehn aber Türhüter, einer mächtiger als der andere."
+          "text": "«Es posible»,",
+          "translationRu": "«Это возможно», —",
+          "original": "»Es ist möglich,«"
         },
         {
           "id": "sent-013",
-          "text": "«Ya el aspecto del tercer guardián es algo que yo mismo no puedo soportar».",
-          "translationRu": "«Уже облик третьего привратника таков, что даже я не в силах его вынести».",
-          "original": "Schon den Anblick des dritten kann nicht einmal ich mehr ertragen.«"
+          "text": "dice el guardián,",
+          "translationRu": "говорит привратник, —",
+          "original": "sagt der Türhüter,"
+        },
+        {
+          "id": "sent-014",
+          "text": "«pero ahora no».",
+          "translationRu": "«но сейчас — нет».",
+          "original": "»jetzt aber nicht.«"
+        },
+        {
+          "id": "sent-015",
+          "text": "La puerta de la ley",
+          "translationRu": "Ворота закона",
+          "original": "Da das Tor zum Gesetz"
+        },
+        {
+          "id": "sent-016",
+          "text": "está abierta como siempre.",
+          "translationRu": "открыты, как всегда.",
+          "original": "offensteht wie immer"
+        },
+        {
+          "id": "sent-017",
+          "text": "El guardián se aparta",
+          "translationRu": "Привратник отступает",
+          "original": "und der Türhüter"
+        },
+        {
+          "id": "sent-018",
+          "text": "un poco a un lado.",
+          "translationRu": "немного в сторону.",
+          "original": "beiseite tritt,"
+        },
+        {
+          "id": "sent-019",
+          "text": "El hombre se inclina",
+          "translationRu": "Человек наклоняется,",
+          "original": "bückt sich der Mann,"
+        },
+        {
+          "id": "sent-020",
+          "text": "para mirar hacia dentro",
+          "translationRu": "чтобы заглянуть внутрь",
+          "original": "um durch das Tor in das Innere zu sehn."
+        },
+        {
+          "id": "sent-021",
+          "text": "a través de la puerta.",
+          "translationRu": "через ворота."
+        },
+        {
+          "id": "sent-022",
+          "text": "Cuando el guardián lo nota,",
+          "translationRu": "Когда привратник замечает это,",
+          "original": "Als der Türhüter das merkt,"
+        },
+        {
+          "id": "sent-023",
+          "text": "se ríe",
+          "translationRu": "он смеётся",
+          "original": "lacht er"
+        },
+        {
+          "id": "sent-024",
+          "text": "y dice:",
+          "translationRu": "и говорит:",
+          "original": "und sagt:"
+        },
+        {
+          "id": "sent-025",
+          "text": "«Si tanto te atrae,",
+          "translationRu": "«Если тебя так манит,",
+          "original": "»Wenn es dich so lockt,"
+        },
+        {
+          "id": "sent-026",
+          "text": "intenta entrar",
+          "translationRu": "попробуй войти",
+          "original": "versuche es doch,"
+        },
+        {
+          "id": "sent-027",
+          "text": "a pesar de mi prohibición».",
+          "translationRu": "вопреки моему запрету».",
+          "original": "trotz meines Verbotes hineinzugehn."
+        },
+        {
+          "id": "sent-028",
+          "text": "«Pero ten en cuenta:",
+          "translationRu": "«Но знай:",
+          "original": "Merke aber:"
+        },
+        {
+          "id": "sent-029",
+          "text": "yo soy poderoso».",
+          "translationRu": "я могуществен».",
+          "original": "Ich bin mächtig."
+        },
+        {
+          "id": "sent-030",
+          "text": "«Y yo soy",
+          "translationRu": "«И я —",
+          "original": "Und ich bin"
+        },
+        {
+          "id": "sent-031",
+          "text": "solo el guardián más bajo».",
+          "translationRu": "всего лишь самый младший привратник».",
+          "original": "nur der unterste Türhüter."
+        },
+        {
+          "id": "sent-032",
+          "text": "«De sala en sala",
+          "translationRu": "«От зала к залу",
+          "original": "Von Saal zu Saal"
+        },
+        {
+          "id": "sent-033",
+          "text": "hay guardianes,",
+          "translationRu": "стоят привратники,",
+          "original": "stehn aber Türhüter,"
+        },
+        {
+          "id": "sent-034",
+          "text": "cada uno más poderoso que el anterior».",
+          "translationRu": "каждый могущественнее предыдущего».",
+          "original": "einer mächtiger als der andere."
+        },
+        {
+          "id": "sent-035",
+          "text": "«Ya el aspecto del tercer guardián",
+          "translationRu": "«Уже облик третьего привратника таков,",
+          "original": "Schon den Anblick des dritten"
+        },
+        {
+          "id": "sent-036",
+          "text": "es algo que yo mismo no puedo soportar».",
+          "translationRu": "что даже я не в силах его вынести».",
+          "original": "kann nicht einmal ich mehr ertragen.«"
         }
       ]
     },
@@ -95,46 +232,109 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "El hombre del campo no esperaba estas dificultades.",
-          "translationRu": "Человек из деревни не ожидал таких трудностей.",
-          "original": "Solche Schwierigkeiten hat der Mann vom Lande nicht erwartet;"
+          "id": "sent-037",
+          "text": "El hombre del campo",
+          "translationRu": "Человек из деревни",
+          "original": "Solche Schwierigkeiten hat der Mann vom Lande"
         },
         {
-          "id": "sent-015",
-          "text": "Él piensa que la ley debe ser accesible para todos y en cualquier momento.",
-          "translationRu": "Он думает, что закон должен быть доступен для всех и в любое время.",
-          "original": "das Gesetz soll doch jedem und immer zugänglich sein, denkt er,"
+          "id": "sent-038",
+          "text": "no esperaba estas dificultades.",
+          "translationRu": "не ожидал таких трудностей.",
+          "original": "nicht erwartet;"
         },
         {
-          "id": "sent-016",
-          "text": "Pero ahora mira al guardián con más atención.",
-          "translationRu": "Но теперь он смотрит на привратника внимательнее.",
-          "original": "aber als er jetzt den Türhüter in seinem Pelzmantel genauer ansieht,"
+          "id": "sent-039",
+          "text": "Él piensa",
+          "translationRu": "Он думает,"
         },
         {
-          "id": "sent-017",
-          "text": "Ve su abrigo de piel, su nariz grande y puntiaguda, y su barba larga, delgada y negra de estilo tártaro.",
-          "translationRu": "Он видит его меховую шубу, большой острый нос и длинную тонкую чёрную бороду татарского вида.",
-          "original": "seine große Spitznase, den langen, dünnen, schwarzen tatarischen Bart,"
+          "id": "sent-040",
+          "text": "que la ley debe ser accesible",
+          "translationRu": "что закон должен быть доступен",
+          "original": "das Gesetz soll doch"
         },
         {
-          "id": "sent-018",
-          "text": "El hombre decide que es mejor esperar hasta recibir el permiso para entrar.",
-          "translationRu": "Человек решает, что лучше подождать, пока не получит разрешения войти.",
-          "original": "entschließt er sich, doch lieber zu warten, bis er die Erlaubnis zum Eintritt bekommt."
+          "id": "sent-041",
+          "text": "para todos y en cualquier momento.",
+          "translationRu": "для всех и в любое время.",
+          "original": "jedem und immer zugänglich sein, denkt er,"
         },
         {
-          "id": "sent-019",
-          "text": "El guardián le da un banquillo y le permite sentarse a un lado de la puerta.",
-          "translationRu": "Привратник даёт ему скамейку и разрешает сесть в стороне от ворот.",
-          "original": "Der Türhüter gibt ihm einen Schemel und läßt ihn seitwärts von der Tür sich niedersetzen."
+          "id": "sent-042",
+          "text": "Pero ahora",
+          "translationRu": "Но теперь",
+          "original": "aber als er jetzt"
         },
         {
-          "id": "sent-020",
-          "text": "Allí el hombre se sienta durante días y años.",
-          "translationRu": "Там человек сидит долгие дни и годы.",
-          "original": "Dort sitzt er Tage und Jahre."
+          "id": "sent-043",
+          "text": "mira al guardián con más atención.",
+          "translationRu": "он смотрит на привратника внимательнее.",
+          "original": "den Türhüter in seinem Pelzmantel genauer ansieht,"
+        },
+        {
+          "id": "sent-044",
+          "text": "Ve su abrigo de piel,",
+          "translationRu": "Он видит его меховую шубу,"
+        },
+        {
+          "id": "sent-045",
+          "text": "su nariz grande y puntiaguda,",
+          "translationRu": "большой острый нос",
+          "original": "seine große Spitznase,"
+        },
+        {
+          "id": "sent-046",
+          "text": "y su barba larga, delgada y negra de estilo tártaro.",
+          "translationRu": "и длинную тонкую чёрную бороду татарского вида.",
+          "original": "den langen, dünnen, schwarzen tatarischen Bart,"
+        },
+        {
+          "id": "sent-047",
+          "text": "El hombre decide",
+          "translationRu": "Человек решает,",
+          "original": "entschließt er sich,"
+        },
+        {
+          "id": "sent-048",
+          "text": "que es mejor esperar",
+          "translationRu": "что лучше подождать,",
+          "original": "doch lieber zu warten,"
+        },
+        {
+          "id": "sent-049",
+          "text": "hasta recibir el permiso para entrar.",
+          "translationRu": "пока не получит разрешения войти.",
+          "original": "bis er die Erlaubnis zum Eintritt bekommt."
+        },
+        {
+          "id": "sent-050",
+          "text": "El guardián le da un banquillo",
+          "translationRu": "Привратник даёт ему скамейку",
+          "original": "Der Türhüter gibt ihm einen Schemel"
+        },
+        {
+          "id": "sent-051",
+          "text": "y le permite sentarse",
+          "translationRu": "и разрешает сесть",
+          "original": "und läßt ihn seitwärts von der Tür sich niedersetzen."
+        },
+        {
+          "id": "sent-052",
+          "text": "a un lado de la puerta.",
+          "translationRu": "в стороне от ворот."
+        },
+        {
+          "id": "sent-053",
+          "text": "Allí el hombre se sienta",
+          "translationRu": "Там человек сидит",
+          "original": "Dort sitzt er"
+        },
+        {
+          "id": "sent-054",
+          "text": "durante días y años.",
+          "translationRu": "долгие дни и годы.",
+          "original": "Tage und Jahre."
         }
       ]
     },
@@ -142,40 +342,76 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "El hombre hace muchos intentos de que lo dejen entrar.",
-          "translationRu": "Человек делает много попыток добиться, чтобы его впустили.",
-          "original": "Er macht viele Versuche, eingelassen zu werden,"
+          "id": "sent-055",
+          "text": "El hombre hace muchos intentos",
+          "translationRu": "Человек делает много попыток добиться,",
+          "original": "Er macht viele Versuche,"
         },
         {
-          "id": "sent-022",
-          "text": "Cansa al guardián con sus ruegos.",
-          "translationRu": "Он утомляет привратника своими просьбами.",
-          "original": "und ermüdet den Türhüter durch seine Bitten."
+          "id": "sent-056",
+          "text": "de que lo dejen entrar.",
+          "translationRu": "чтобы его впустили.",
+          "original": "eingelassen zu werden,"
         },
         {
-          "id": "sent-023",
+          "id": "sent-057",
+          "text": "Cansa al guardián",
+          "translationRu": "Он утомляет привратника",
+          "original": "und ermüdet den Türhüter"
+        },
+        {
+          "id": "sent-058",
+          "text": "con sus ruegos.",
+          "translationRu": "своими просьбами.",
+          "original": "durch seine Bitten."
+        },
+        {
+          "id": "sent-059",
           "text": "El guardián le hace pequeños interrogatorios de vez en cuando.",
           "translationRu": "Привратник время от времени устраивает ему небольшие допросы.",
           "original": "Der Türhüter stellt öfters kleine Verhöre mit ihm an,"
         },
         {
-          "id": "sent-024",
-          "text": "Le pregunta sobre su tierra natal y sobre muchas otras cosas.",
-          "translationRu": "Он спрашивает его о родине и о многом другом.",
-          "original": "fragt ihn über seine Heimat aus und nach vielem andern,"
+          "id": "sent-060",
+          "text": "Le pregunta sobre su tierra natal",
+          "translationRu": "Он спрашивает его о родине",
+          "original": "fragt ihn über seine Heimat aus"
         },
         {
-          "id": "sent-025",
-          "text": "Pero son preguntas indiferentes, como las que hacen los grandes señores.",
-          "translationRu": "Но это равнодушные вопросы, такие, какие задают важные господа.",
-          "original": "es sind aber teilnahmslose Fragen, wie sie große Herren stellen,"
+          "id": "sent-061",
+          "text": "y sobre muchas otras cosas.",
+          "translationRu": "и о многом другом.",
+          "original": "und nach vielem andern,"
         },
         {
-          "id": "sent-026",
-          "text": "Y al final siempre le repite que todavía no puede dejarlo entrar.",
-          "translationRu": "И в конце он всегда повторяет ему, что ещё не может его впустить.",
-          "original": "und zum Schlusse sagt er ihm immer wieder, daß er ihn noch nicht einlassen könne."
+          "id": "sent-062",
+          "text": "Pero son preguntas indiferentes,",
+          "translationRu": "Но это равнодушные вопросы,",
+          "original": "es sind aber teilnahmslose Fragen,"
+        },
+        {
+          "id": "sent-063",
+          "text": "como las que hacen los grandes señores.",
+          "translationRu": "такие, какие задают важные господа.",
+          "original": "wie sie große Herren stellen,"
+        },
+        {
+          "id": "sent-064",
+          "text": "Y al final",
+          "translationRu": "И в конце",
+          "original": "und zum Schlusse"
+        },
+        {
+          "id": "sent-065",
+          "text": "siempre le repite",
+          "translationRu": "он всегда повторяет ему,",
+          "original": "sagt er ihm immer wieder,"
+        },
+        {
+          "id": "sent-066",
+          "text": "que todavía no puede dejarlo entrar.",
+          "translationRu": "что ещё не может его впустить.",
+          "original": "daß er ihn noch nicht einlassen könne."
         }
       ]
     },
@@ -183,22 +419,63 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-027",
-          "text": "El hombre se preparó bien para su viaje y lleva muchas cosas consigo.",
-          "translationRu": "Человек хорошо подготовился к своему путешествию и принёс с собой много всего.",
+          "id": "sent-067",
+          "text": "El hombre se preparó bien para su viaje",
+          "translationRu": "Человек хорошо подготовился к своему путешествию",
           "original": "Der Mann, der sich für seine Reise mit vielem ausgerüstet hat,"
         },
         {
-          "id": "sent-028",
-          "text": "Usa todo lo que tiene, por valioso que sea, para intentar sobornar al guardián.",
-          "translationRu": "Он тратит всё, что у него есть, сколь бы ценным это ни было, пытаясь подкупить привратника.",
-          "original": "verwendet alles, und sei es noch so wertvoll, um den Türhüter zu bestechen."
+          "id": "sent-068",
+          "text": "y lleva muchas cosas consigo.",
+          "translationRu": "и принёс с собой много всего."
         },
         {
-          "id": "sent-029",
-          "text": "El guardián acepta todo, pero dice: «Lo acepto solo para que no creas que has dejado de hacer algo».",
-          "translationRu": "Привратник принимает всё, но говорит: «Я принимаю это лишь для того, чтобы ты не думал, что чего-то не сделал».",
-          "original": "Dieser nimmt zwar alles an, aber sagt dabei: »Ich nehme es nur an, damit du nicht glaubst, etwas versäumt zu haben.«"
+          "id": "sent-069",
+          "text": "Usa todo lo que tiene,",
+          "translationRu": "Он тратит всё, что у него есть,",
+          "original": "verwendet alles,"
+        },
+        {
+          "id": "sent-070",
+          "text": "por valioso que sea,",
+          "translationRu": "сколь бы ценным это ни было,",
+          "original": "und sei es noch so wertvoll,"
+        },
+        {
+          "id": "sent-071",
+          "text": "para intentar sobornar al guardián.",
+          "translationRu": "пытаясь подкупить привратника.",
+          "original": "um den Türhüter zu bestechen."
+        },
+        {
+          "id": "sent-072",
+          "text": "El guardián acepta todo,",
+          "translationRu": "Привратник принимает всё,",
+          "original": "Dieser nimmt zwar alles an,"
+        },
+        {
+          "id": "sent-073",
+          "text": "pero dice:",
+          "translationRu": "но говорит:",
+          "original": "aber sagt dabei:"
+        },
+        {
+          "id": "sent-074",
+          "text": "«Lo acepto solo",
+          "translationRu": "«Я принимаю это лишь для того,",
+          "original": "»Ich nehme es nur an,"
+        },
+        {
+          "id": "sent-075",
+          "text": "para que no creas",
+          "translationRu": "чтобы ты не думал,",
+          "original": "damit du nicht glaubst,"
+        },
+        {
+          "id": "sent-076",
+          "text": "que has dejado de hacer algo».",
+          "translationRu": "что чего-то не сделал».",
+          "original": "etwas versäumt zu haben.«"
         }
       ]
     },
@@ -206,52 +483,128 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-030",
-          "text": "Durante los muchos años, el hombre observa al guardián casi sin parar.",
-          "translationRu": "На протяжении долгих лет человек наблюдает за привратником почти непрерывно.",
-          "original": "Während der vielen Jahre beobachtet der Mann den Türhüter fast ununterbrochen."
+          "id": "sent-077",
+          "text": "Durante los muchos años,",
+          "translationRu": "На протяжении долгих лет",
+          "original": "Während der vielen Jahre"
         },
         {
-          "id": "sent-031",
+          "id": "sent-078",
+          "text": "el hombre observa al guardián",
+          "translationRu": "человек наблюдает за привратником",
+          "original": "beobachtet der Mann den Türhüter"
+        },
+        {
+          "id": "sent-079",
+          "text": "casi sin parar.",
+          "translationRu": "почти непрерывно.",
+          "original": "fast ununterbrochen."
+        },
+        {
+          "id": "sent-080",
           "text": "Se olvida de los otros guardianes.",
           "translationRu": "Он забывает о других привратниках.",
           "original": "Er vergißt die andern Türhüter"
         },
         {
-          "id": "sent-032",
-          "text": "Este primer guardián le parece el único obstáculo para entrar en la ley.",
-          "translationRu": "Этот первый привратник кажется ему единственным препятствием для входа в закон.",
-          "original": "und dieser erste scheint ihm das einzige Hindernis für den Eintritt in das Gesetz."
+          "id": "sent-081",
+          "text": "Este primer guardián",
+          "translationRu": "Этот первый привратник",
+          "original": "und dieser erste"
         },
         {
-          "id": "sent-033",
-          "text": "En los primeros años maldice su mala suerte de forma impulsiva y en voz alta.",
-          "translationRu": "В первые годы он проклинает свою злую судьбу порывисто и громко.",
-          "original": "Er verflucht den unglücklichen Zufall, in den ersten Jahren rücksichtslos und laut,"
+          "id": "sent-082",
+          "text": "le parece el único obstáculo",
+          "translationRu": "кажется ему единственным препятствием",
+          "original": "scheint ihm das einzige Hindernis"
         },
         {
-          "id": "sent-034",
-          "text": "Después, cuando envejece, solo murmura para sí mismo.",
-          "translationRu": "Потом, когда стареет, он лишь бормочет про себя.",
-          "original": "später, als er alt wird, brummt er nur noch vor sich hin."
+          "id": "sent-083",
+          "text": "para entrar en la ley.",
+          "translationRu": "для входа в закон.",
+          "original": "für den Eintritt in das Gesetz."
         },
         {
-          "id": "sent-035",
+          "id": "sent-084",
+          "text": "En los primeros años",
+          "translationRu": "В первые годы"
+        },
+        {
+          "id": "sent-085",
+          "text": "maldice su mala suerte",
+          "translationRu": "он проклинает свою злую судьбу",
+          "original": "Er verflucht den unglücklichen Zufall, in den ersten Jahren"
+        },
+        {
+          "id": "sent-086",
+          "text": "de forma impulsiva y en voz alta.",
+          "translationRu": "порывисто и громко.",
+          "original": "rücksichtslos und laut,"
+        },
+        {
+          "id": "sent-087",
+          "text": "Después,",
+          "translationRu": "Потом,",
+          "original": "später,"
+        },
+        {
+          "id": "sent-088",
+          "text": "cuando envejece,",
+          "translationRu": "когда стареет,",
+          "original": "als er alt wird,"
+        },
+        {
+          "id": "sent-089",
+          "text": "solo murmura para sí mismo.",
+          "translationRu": "он лишь бормочет про себя.",
+          "original": "brummt er nur noch vor sich hin."
+        },
+        {
+          "id": "sent-090",
           "text": "Se vuelve infantil.",
           "translationRu": "Он впадает в детство.",
           "original": "Er wird kindisch,"
         },
         {
-          "id": "sent-036",
-          "text": "Durante los muchos años ha estudiado al guardián con tanta atención que incluso conoce las pulgas en el cuello de su abrigo de piel.",
-          "translationRu": "За долгие годы он изучил привратника с таким вниманием, что знает даже блох в меховом воротнике его шубы.",
-          "original": "und, da er in dem jahrelangen Studium des Türhüters auch die Flöhe in seinem Pelzkragen erkannt hat,"
+          "id": "sent-091",
+          "text": "Durante los muchos años",
+          "translationRu": "За долгие годы",
+          "original": "und, da er in dem jahrelangen Studium des Türhüters"
         },
         {
-          "id": "sent-037",
-          "text": "Les pide también a las pulgas que lo ayuden y que convenzan al guardián de cambiar de opinión.",
-          "translationRu": "Он просит даже блох помочь ему и убедить привратника изменить своё решение.",
-          "original": "bittet er auch die Flöhe, ihm zu helfen und den Türhüter umzustimmen."
+          "id": "sent-092",
+          "text": "ha estudiado al guardián con tanta atención",
+          "translationRu": "он изучил привратника с таким вниманием,"
+        },
+        {
+          "id": "sent-093",
+          "text": "que incluso conoce las pulgas",
+          "translationRu": "что знает даже блох",
+          "original": "auch die Flöhe"
+        },
+        {
+          "id": "sent-094",
+          "text": "en el cuello de su abrigo de piel.",
+          "translationRu": "в меховом воротнике его шубы.",
+          "original": "in seinem Pelzkragen erkannt hat,"
+        },
+        {
+          "id": "sent-095",
+          "text": "Les pide también a las pulgas",
+          "translationRu": "Он просит даже блох",
+          "original": "bittet er auch die Flöhe,"
+        },
+        {
+          "id": "sent-096",
+          "text": "que lo ayuden",
+          "translationRu": "помочь ему",
+          "original": "ihm zu helfen"
+        },
+        {
+          "id": "sent-097",
+          "text": "y que convenzan al guardián de cambiar de opinión.",
+          "translationRu": "и убедить привратника изменить своё решение.",
+          "original": "und den Türhüter umzustimmen."
         }
       ]
     },
@@ -259,52 +612,128 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-038",
-          "text": "Al final su vista se debilita.",
-          "translationRu": "Наконец его зрение слабеет.",
-          "original": "Schließlich wird sein Augenlicht schwach,"
+          "id": "sent-098",
+          "text": "Al final",
+          "translationRu": "Наконец",
+          "original": "Schließlich"
         },
         {
-          "id": "sent-039",
-          "text": "Él no sabe si a su alrededor se hace más oscuro de verdad o si solo sus ojos lo engañan.",
-          "translationRu": "Он не знает, действительно ли вокруг темнеет или это только его глаза обманывают его.",
-          "original": "und er weiß nicht, ob es um ihn wirklich dunkler wird, oder ob ihn nur seine Augen täuschen."
+          "id": "sent-099",
+          "text": "su vista se debilita.",
+          "translationRu": "его зрение слабеет.",
+          "original": "wird sein Augenlicht schwach,"
         },
         {
-          "id": "sent-040",
-          "text": "Pero en la oscuridad reconoce ahora un brillo que sale de la puerta de la ley sin apagarse nunca.",
-          "translationRu": "Но в темноте он различает теперь сияние, которое неугасимо исходит из ворот закона.",
-          "original": "Wohl aber erkennt er jetzt im Dunkel einen Glanz, der unverlöschlich aus der Türe des Gesetzes bricht."
+          "id": "sent-100",
+          "text": "Él no sabe",
+          "translationRu": "Он не знает,",
+          "original": "und er weiß nicht,"
         },
         {
-          "id": "sent-041",
+          "id": "sent-101",
+          "text": "si a su alrededor se hace más oscuro de verdad",
+          "translationRu": "действительно ли вокруг темнеет",
+          "original": "ob es um ihn wirklich dunkler wird,"
+        },
+        {
+          "id": "sent-102",
+          "text": "o si solo sus ojos lo engañan.",
+          "translationRu": "или это только его глаза обманывают его.",
+          "original": "oder ob ihn nur seine Augen täuschen."
+        },
+        {
+          "id": "sent-103",
+          "text": "Pero en la oscuridad",
+          "translationRu": "Но в темноте",
+          "original": "Wohl aber erkennt er jetzt im Dunkel"
+        },
+        {
+          "id": "sent-104",
+          "text": "reconoce ahora un brillo",
+          "translationRu": "он различает теперь сияние,",
+          "original": "einen Glanz,"
+        },
+        {
+          "id": "sent-105",
+          "text": "que sale de la puerta de la ley sin apagarse nunca.",
+          "translationRu": "которое неугасимо исходит из ворот закона.",
+          "original": "der unverlöschlich aus der Türe des Gesetzes bricht."
+        },
+        {
+          "id": "sent-106",
           "text": "Ya no le queda mucho tiempo de vida.",
           "translationRu": "Ему уже немного осталось жить.",
           "original": "Nun lebt er nicht mehr lange."
         },
         {
-          "id": "sent-042",
-          "text": "Antes de morir, todas las experiencias de todo ese tiempo se juntan en su cabeza en forma de una pregunta.",
-          "translationRu": "Перед смертью весь опыт всего этого времени собирается у него в голове в виде одного вопроса.",
-          "original": "Vor seinem Tode sammeln sich in seinem Kopfe alle Erfahrungen der ganzen Zeit zu einer Frage,"
+          "id": "sent-107",
+          "text": "Antes de morir,",
+          "translationRu": "Перед смертью",
+          "original": "Vor seinem Tode"
         },
         {
-          "id": "sent-043",
-          "text": "Es una pregunta que todavía no le ha hecho al guardián.",
-          "translationRu": "Это вопрос, который он так и не задал привратнику.",
-          "original": "die er bisher an den Türhüter noch nicht gestellt hat."
+          "id": "sent-108",
+          "text": "todas las experiencias de todo ese tiempo",
+          "translationRu": "весь опыт всего этого времени",
+          "original": "sammeln sich in seinem Kopfe alle Erfahrungen der ganzen Zeit"
         },
         {
-          "id": "sent-044",
-          "text": "Le hace una señal al guardián porque ya no puede enderezar su cuerpo rígido.",
-          "translationRu": "Он подаёт знак привратнику, потому что уже не может выпрямить своё окоченевшее тело.",
-          "original": "Er winkt ihm zu, da er seinen erstarrenden Körper nicht mehr aufrichten kann."
+          "id": "sent-109",
+          "text": "se juntan en su cabeza",
+          "translationRu": "собирается у него в голове"
         },
         {
-          "id": "sent-045",
-          "text": "El guardián tiene que inclinarse mucho hacia él, porque la diferencia de tamaño entre los dos ha cambiado mucho en contra del hombre.",
-          "translationRu": "Привратнику приходится сильно наклониться к нему, потому что разница в росте сильно изменилась не в пользу человека.",
-          "original": "Der Türhüter muß sich tief zu ihm hinunterneigen, denn der Größenunterschied hat sich sehr zu ungunsten des Mannes verändert."
+          "id": "sent-110",
+          "text": "en forma de una pregunta.",
+          "translationRu": "в виде одного вопроса.",
+          "original": "zu einer Frage,"
+        },
+        {
+          "id": "sent-111",
+          "text": "Es una pregunta",
+          "translationRu": "Это вопрос,",
+          "original": "die"
+        },
+        {
+          "id": "sent-112",
+          "text": "que todavía no le ha hecho al guardián.",
+          "translationRu": "который он так и не задал привратнику.",
+          "original": "er bisher an den Türhüter noch nicht gestellt hat."
+        },
+        {
+          "id": "sent-113",
+          "text": "Le hace una señal al guardián",
+          "translationRu": "Он подаёт знак привратнику,",
+          "original": "Er winkt ihm zu,"
+        },
+        {
+          "id": "sent-114",
+          "text": "porque ya no puede enderezar",
+          "translationRu": "потому что уже не может выпрямить",
+          "original": "da er seinen erstarrenden Körper nicht mehr aufrichten kann."
+        },
+        {
+          "id": "sent-115",
+          "text": "su cuerpo rígido.",
+          "translationRu": "своё окоченевшее тело."
+        },
+        {
+          "id": "sent-116",
+          "text": "El guardián tiene que inclinarse mucho hacia él,",
+          "translationRu": "Привратнику приходится сильно наклониться к нему,",
+          "original": "Der Türhüter muß sich tief zu ihm hinunterneigen,"
+        },
+        {
+          "id": "sent-117",
+          "text": "porque la diferencia de tamaño entre los dos",
+          "translationRu": "потому что разница в росте",
+          "original": "denn der Größenunterschied"
+        },
+        {
+          "id": "sent-118",
+          "text": "ha cambiado mucho en contra del hombre.",
+          "translationRu": "сильно изменилась не в пользу человека.",
+          "original": "hat sich sehr zu ungunsten des Mannes verändert."
         }
       ]
     },
@@ -312,40 +741,112 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-046",
-          "text": "«¿Qué quieres saber ahora?», pregunta el guardián, «eres insaciable».",
-          "translationRu": "«Что ты хочешь узнать теперь?» — спрашивает привратник. — «Ты ненасытен».",
-          "original": "»Was willst du denn jetzt noch wissen?« fragt der Türhüter, »du bist unersättlich.«"
+          "id": "sent-119",
+          "text": "«¿Qué quieres saber ahora?»,",
+          "translationRu": "«Что ты хочешь узнать теперь?» —",
+          "original": "»Was willst du denn jetzt noch wissen?«"
         },
         {
-          "id": "sent-047",
-          "text": "«Todos buscan la ley», dice el hombre, «¿cómo es posible que en todos estos años nadie más haya pedido entrar?».",
-          "translationRu": "«Все стремятся к закону», — говорит человек. — «Как же так выходит, что за все эти годы никто, кроме меня, не просил впустить его?»",
-          "original": "»Alle streben doch nach dem Gesetz,« sagt der Mann, »wieso kommt es, daß in den vielen Jahren niemand außer mir Einlaß verlangt hat?«"
+          "id": "sent-120",
+          "text": "pregunta el guardián,",
+          "translationRu": "спрашивает привратник. —",
+          "original": "fragt der Türhüter,"
         },
         {
-          "id": "sent-048",
-          "text": "El guardián se da cuenta de que el hombre está al final de su vida.",
-          "translationRu": "Привратник понимает, что человек доживает последние минуты.",
-          "original": "Der Türhüter erkennt, daß der Mann schon an seinem Ende ist,"
+          "id": "sent-121",
+          "text": "«eres insaciable».",
+          "translationRu": "«Ты ненасытен».",
+          "original": "»du bist unersättlich.«"
         },
         {
-          "id": "sent-049",
-          "text": "Para llegar todavía a su oído que ya casi no escucha, le grita con fuerza: «Aquí nadie más podía recibir entrada».",
-          "translationRu": "Чтобы ещё достигнуть его угасающего слуха, он кричит ему громко: «Здесь никто другой не мог получить входа».",
-          "original": "und, um sein vergehendes Gehör noch zu erreichen, brüllt er ihn an: »Hier konnte niemand sonst Einlaß erhalten,"
+          "id": "sent-122",
+          "text": "«Todos buscan la ley»,",
+          "translationRu": "«Все стремятся к закону», —",
+          "original": "»Alle streben doch nach dem Gesetz,«"
         },
         {
-          "id": "sent-050",
-          "text": "«Porque esta entrada estaba destinada solo para ti».",
-          "translationRu": "«Потому что этот вход был предназначен только для тебя».",
-          "original": "denn dieser Eingang war nur für dich bestimmt."
+          "id": "sent-123",
+          "text": "dice el hombre,",
+          "translationRu": "говорит человек. —",
+          "original": "sagt der Mann,"
         },
         {
-          "id": "sent-051",
-          "text": "«Ahora me voy y la cierro».",
-          "translationRu": "«Теперь я ухожу и закрываю её».",
-          "original": "Ich gehe jetzt und schließe ihn.«"
+          "id": "sent-124",
+          "text": "«¿cómo es posible",
+          "translationRu": "«Как же так выходит,",
+          "original": "»wieso kommt es,"
+        },
+        {
+          "id": "sent-125",
+          "text": "que en todos estos años",
+          "translationRu": "что за все эти годы",
+          "original": "daß in den vielen Jahren"
+        },
+        {
+          "id": "sent-126",
+          "text": "nadie más haya pedido entrar?».",
+          "translationRu": "никто, кроме меня, не просил впустить его?»",
+          "original": "niemand außer mir Einlaß verlangt hat?«"
+        },
+        {
+          "id": "sent-127",
+          "text": "El guardián se da cuenta",
+          "translationRu": "Привратник понимает,",
+          "original": "Der Türhüter erkennt,"
+        },
+        {
+          "id": "sent-128",
+          "text": "de que el hombre está al final de su vida.",
+          "translationRu": "что человек доживает последние минуты.",
+          "original": "daß der Mann schon an seinem Ende ist,"
+        },
+        {
+          "id": "sent-129",
+          "text": "Para llegar todavía a su oído que ya casi no escucha,",
+          "translationRu": "Чтобы ещё достигнуть его угасающего слуха,",
+          "original": "und, um sein vergehendes Gehör noch zu erreichen,"
+        },
+        {
+          "id": "sent-130",
+          "text": "le grita con fuerza:",
+          "translationRu": "он кричит ему громко:",
+          "original": "brüllt er ihn an:"
+        },
+        {
+          "id": "sent-131",
+          "text": "«Aquí nadie más",
+          "translationRu": "«Здесь никто другой",
+          "original": "»Hier konnte niemand sonst"
+        },
+        {
+          "id": "sent-132",
+          "text": "podía recibir entrada».",
+          "translationRu": "не мог получить входа».",
+          "original": "Einlaß erhalten,"
+        },
+        {
+          "id": "sent-133",
+          "text": "«Porque esta entrada",
+          "translationRu": "«Потому что этот вход",
+          "original": "denn dieser Eingang"
+        },
+        {
+          "id": "sent-134",
+          "text": "estaba destinada solo para ti».",
+          "translationRu": "был предназначен только для тебя».",
+          "original": "war nur für dich bestimmt."
+        },
+        {
+          "id": "sent-135",
+          "text": "«Ahora me voy",
+          "translationRu": "«Теперь я ухожу",
+          "original": "Ich gehe jetzt"
+        },
+        {
+          "id": "sent-136",
+          "text": "y la cierro».",
+          "translationRu": "и закрываю её».",
+          "original": "und schließe ihn.«"
         }
       ]
     }

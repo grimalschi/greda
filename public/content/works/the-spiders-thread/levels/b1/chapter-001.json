@@ -13,9 +13,27 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Un día el Buda paseaba solo por la orilla del estanque de lotos del Paraíso.",
-          "translationRu": "Однажды Будда прогуливался в одиночестве по берегу лотосового пруда в Раю.",
-          "original": "One day the Buddha was sauntering alone on the brink of the lotus pond of Paradise."
+          "text": "Un día",
+          "translationRu": "Однажды",
+          "original": "One day"
+        },
+        {
+          "id": "sent-002",
+          "text": "el Buda paseaba solo",
+          "translationRu": "Будда прогуливался в одиночестве",
+          "original": "the Buddha was sauntering alone"
+        },
+        {
+          "id": "sent-003",
+          "text": "por la orilla del estanque de lotos",
+          "translationRu": "по берегу лотосового пруда",
+          "original": "on the brink of the lotus pond"
+        },
+        {
+          "id": "sent-004",
+          "text": "del Paraíso.",
+          "translationRu": "в Раю.",
+          "original": "of Paradise."
         }
       ]
     },
@@ -23,16 +41,46 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-002",
-          "text": "Las flores de loto que florecían en el estanque eran todas tan blancas como las perlas.",
-          "translationRu": "Цветы лотоса, цветущие в пруду, были все белы, как жемчуг.",
-          "original": "The lotus flowers in bloom in the pond were all as white as pearls"
+          "id": "sent-005",
+          "text": "Las flores de loto",
+          "translationRu": "Цветы лотоса,",
+          "original": "The lotus flowers"
         },
         {
-          "id": "sent-003",
-          "text": "En el centro de cada flor había pistilos y estambres dorados que llenaban sin cesar el aire con una fragancia indescriptible.",
-          "translationRu": "В центре каждого цветка были золотые пестики и тычинки, которые беспрерывно наполняли воздух невыразимым ароматом.",
-          "original": "and the golden pistils and stamens in their centers ceaselessly filled all the air with ineffable fragrance."
+          "id": "sent-006",
+          "text": "que florecían en el estanque",
+          "translationRu": "цветущие в пруду,",
+          "original": "in bloom in the pond"
+        },
+        {
+          "id": "sent-007",
+          "text": "eran todas tan blancas como las perlas.",
+          "translationRu": "были все белы, как жемчуг.",
+          "original": "were all as white as pearls"
+        },
+        {
+          "id": "sent-008",
+          "text": "En el centro de cada flor",
+          "translationRu": "В центре каждого цветка",
+          "original": "and"
+        },
+        {
+          "id": "sent-009",
+          "text": "había pistilos y estambres dorados",
+          "translationRu": "были золотые пестики и тычинки,",
+          "original": "the golden pistils and stamens in their centers"
+        },
+        {
+          "id": "sent-010",
+          "text": "que llenaban sin cesar el aire",
+          "translationRu": "которые беспрерывно наполняли воздух",
+          "original": "ceaselessly filled all the air"
+        },
+        {
+          "id": "sent-011",
+          "text": "con una fragancia indescriptible.",
+          "translationRu": "невыразимым ароматом.",
+          "original": "with ineffable fragrance."
         }
       ]
     },
@@ -40,10 +88,16 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-004",
-          "text": "Era la mañana en el Paraíso.",
-          "translationRu": "Было утро в Раю.",
-          "original": "It was morning in Paradise."
+          "id": "sent-012",
+          "text": "Era la mañana",
+          "translationRu": "Было утро",
+          "original": "It was morning"
+        },
+        {
+          "id": "sent-013",
+          "text": "en el Paraíso.",
+          "translationRu": "в Раю.",
+          "original": "in Paradise."
         }
       ]
     },
@@ -51,22 +105,52 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-005",
-          "text": "En ese momento el Buda se detuvo en la orilla del estanque.",
-          "translationRu": "В этот момент Будда остановился на берегу пруда.",
-          "original": "Presently the Buddha stood still on the brink of the pond"
+          "id": "sent-014",
+          "text": "En ese momento",
+          "translationRu": "В этот момент",
+          "original": "Presently"
         },
         {
-          "id": "sent-006",
-          "text": "Miró a través de un hueco entre las hojas que cubrían la superficie del agua.",
-          "translationRu": "Он посмотрел сквозь просвет между листьями, покрывавшими поверхность воды.",
-          "original": "and through an opening among the leaves which covered the face of the water"
+          "id": "sent-015",
+          "text": "el Buda se detuvo",
+          "translationRu": "Будда остановился",
+          "original": "the Buddha stood still"
         },
         {
-          "id": "sent-007",
-          "text": "De repente vio la escena que había abajo.",
-          "translationRu": "Вдруг он увидел картину, которая была внизу.",
-          "original": "suddenly beheld the scene below."
+          "id": "sent-016",
+          "text": "en la orilla del estanque.",
+          "translationRu": "на берегу пруда.",
+          "original": "on the brink of the pond"
+        },
+        {
+          "id": "sent-017",
+          "text": "Miró a través de un hueco",
+          "translationRu": "Он посмотрел сквозь просвет",
+          "original": "and through an opening"
+        },
+        {
+          "id": "sent-018",
+          "text": "entre las hojas",
+          "translationRu": "между листьями,",
+          "original": "among the leaves"
+        },
+        {
+          "id": "sent-019",
+          "text": "que cubrían la superficie del agua.",
+          "translationRu": "покрывавшими поверхность воды.",
+          "original": "which covered the face of the water"
+        },
+        {
+          "id": "sent-020",
+          "text": "De repente vio",
+          "translationRu": "Вдруг он увидел",
+          "original": "suddenly beheld"
+        },
+        {
+          "id": "sent-021",
+          "text": "la escena que había abajo.",
+          "translationRu": "картину, которая была внизу.",
+          "original": "the scene below."
         }
       ]
     },
@@ -74,16 +158,45 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-008",
-          "text": "El suelo del Infierno estaba directamente debajo del estanque de lotos del Paraíso.",
-          "translationRu": "Дно Ада находилось прямо под лотосовым прудом Рая.",
-          "original": "As the floor of Hell lay directly beneath the lotus pond of Paradise"
+          "id": "sent-022",
+          "text": "El suelo del Infierno",
+          "translationRu": "Дно Ада",
+          "original": "As the floor of Hell"
         },
         {
-          "id": "sent-009",
-          "text": "A través del agua cristalina, el Sanzu-no-Kawa y el Hari-no-Yama eran claramente visibles, como si se miraran a través de un estereoscopio.",
-          "translationRu": "Сквозь кристальную воду Санзу-но-Кава и Хари-но-Яма были отчётливо видны, словно в стереоскопе.",
-          "original": "the Sanzu-no-Kawa and Hari-no-Yama were distinctly visible through the crystal water, as through a sterioptiscope."
+          "id": "sent-023",
+          "text": "estaba directamente debajo",
+          "translationRu": "находилось прямо под",
+          "original": "lay directly beneath"
+        },
+        {
+          "id": "sent-024",
+          "text": "del estanque de lotos del Paraíso.",
+          "translationRu": "лотосовым прудом Рая.",
+          "original": "the lotus pond of Paradise"
+        },
+        {
+          "id": "sent-025",
+          "text": "A través del agua cristalina,",
+          "translationRu": "Сквозь кристальную воду"
+        },
+        {
+          "id": "sent-026",
+          "text": "el Sanzu-no-Kawa y el Hari-no-Yama",
+          "translationRu": "Санзу-но-Кава и Хари-но-Яма",
+          "original": "the Sanzu-no-Kawa and Hari-no-Yama"
+        },
+        {
+          "id": "sent-027",
+          "text": "eran claramente visibles,",
+          "translationRu": "были отчётливо видны,",
+          "original": "were distinctly visible through the crystal water,"
+        },
+        {
+          "id": "sent-028",
+          "text": "como si se miraran a través de un estereoscopio.",
+          "translationRu": "словно в стереоскопе.",
+          "original": "as through a sterioptiscope."
         }
       ]
     },
@@ -91,16 +204,34 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-010",
-          "text": "Entonces el Buda vio a un hombre llamado Kandata.",
-          "translationRu": "Тогда Будда увидел человека по имени Кандата.",
-          "original": "Then his eye fell on a man named Kandata"
+          "id": "sent-029",
+          "text": "Entonces el Buda vio",
+          "translationRu": "Тогда Будда увидел",
+          "original": "Then his eye fell on"
         },
         {
-          "id": "sent-011",
-          "text": "Kandata se retorcía junto con los otros pecadores en el fondo del Infierno.",
-          "translationRu": "Кандата извивался вместе с другими грешниками на дне Ада.",
-          "original": "who was squirming with the other sinners in the bottom of Hell."
+          "id": "sent-030",
+          "text": "a un hombre llamado Kandata.",
+          "translationRu": "человека по имени Кандата.",
+          "original": "a man named Kandata"
+        },
+        {
+          "id": "sent-031",
+          "text": "Kandata se retorcía",
+          "translationRu": "Кандата извивался",
+          "original": "who was squirming"
+        },
+        {
+          "id": "sent-032",
+          "text": "junto con los otros pecadores",
+          "translationRu": "вместе с другими грешниками",
+          "original": "with the other sinners"
+        },
+        {
+          "id": "sent-033",
+          "text": "en el fondo del Infierno.",
+          "translationRu": "на дне Ада.",
+          "original": "in the bottom of Hell."
         }
       ]
     },
@@ -108,28 +239,58 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-012",
-          "text": "Este Kandata era un gran ladrón que había hecho muchas cosas malas.",
-          "translationRu": "Этот Кандата был великим разбойником, совершившим много злодеяний.",
-          "original": "This Kandata was a great robber who had done many evil things"
+          "id": "sent-034",
+          "text": "Este Kandata era un gran ladrón",
+          "translationRu": "Этот Кандата был великим разбойником,",
+          "original": "This Kandata was a great robber"
         },
         {
-          "id": "sent-013",
-          "text": "Había matado a personas y quemado casas.",
-          "translationRu": "Он убивал людей и поджигал дома.",
-          "original": "murdering and setting fire to houses"
+          "id": "sent-035",
+          "text": "que había hecho muchas cosas malas.",
+          "translationRu": "совершившим много злодеяний.",
+          "original": "who had done many evil things"
         },
         {
-          "id": "sent-014",
+          "id": "sent-036",
+          "text": "Había matado a personas",
+          "translationRu": "Он убивал людей",
+          "original": "murdering"
+        },
+        {
+          "id": "sent-037",
+          "text": "y quemado casas.",
+          "translationRu": "и поджигал дома.",
+          "original": "and setting fire to houses"
+        },
+        {
+          "id": "sent-038",
           "text": "Pero había hecho una buena acción en su vida.",
           "translationRu": "Но в его жизни был один добрый поступок.",
           "original": "but he had to his credit one good action."
         },
         {
-          "id": "sent-015",
-          "text": "Una vez, mientras caminaba por un bosque profundo, vio una pequeña araña que se arrastraba por el camino.",
-          "translationRu": "Однажды, проходя через густой лес, он заметил маленького паука, ползущего по дороге.",
-          "original": "Once while on his way through a deep forest, he had noticed a little spider creeping along beside the road."
+          "id": "sent-039",
+          "text": "Una vez,",
+          "translationRu": "Однажды,",
+          "original": "Once"
+        },
+        {
+          "id": "sent-040",
+          "text": "mientras caminaba por un bosque profundo,",
+          "translationRu": "проходя через густой лес,",
+          "original": "while on his way through a deep forest,"
+        },
+        {
+          "id": "sent-041",
+          "text": "vio una pequeña araña",
+          "translationRu": "он заметил маленького паука,",
+          "original": "he had noticed a little spider"
+        },
+        {
+          "id": "sent-042",
+          "text": "que se arrastraba por el camino.",
+          "translationRu": "ползущего по дороге.",
+          "original": "creeping along beside the road."
         }
       ]
     },
@@ -137,25 +298,54 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "Levantó el pie rápidamente y estaba a punto de aplastarlo.",
-          "translationRu": "Он быстро поднял ногу и уже готов был раздавить паука.",
-          "original": "So quickly lifting his foot, he was about to trample it to death"
+          "id": "sent-043",
+          "text": "Levantó el pie rápidamente",
+          "translationRu": "Он быстро поднял ногу",
+          "original": "So quickly lifting his foot,"
         },
         {
-          "id": "sent-017",
-          "text": "Pero de repente pensó: «No, no, aunque esta criatura es tan pequeña, también tiene un alma».",
-          "translationRu": "Но вдруг подумал: «Нет, нет, хоть это существо и мало, у него тоже есть душа».",
-          "original": "when he suddenly thought, \"No, no, as small as this thing is, it, too, has a soul:"
+          "id": "sent-044",
+          "text": "y estaba a punto de aplastarlo.",
+          "translationRu": "и уже готов был раздавить паука.",
+          "original": "he was about to trample it to death"
         },
         {
-          "id": "sent-018",
-          "text": "«Sería una lástima matarlo sin razón», pensó.",
-          "translationRu": "«Было бы жаль убивать его без причины», — подумал он.",
+          "id": "sent-045",
+          "text": "Pero de repente pensó:",
+          "translationRu": "Но вдруг подумал:",
+          "original": "when he suddenly thought,"
+        },
+        {
+          "id": "sent-046",
+          "text": "«No, no,",
+          "translationRu": "«Нет, нет,",
+          "original": "\"No, no,"
+        },
+        {
+          "id": "sent-047",
+          "text": "aunque esta criatura es tan pequeña,",
+          "translationRu": "хоть это существо и мало,",
+          "original": "as small as this thing is,"
+        },
+        {
+          "id": "sent-048",
+          "text": "también tiene un alma».",
+          "translationRu": "у него тоже есть душа».",
+          "original": "it, too, has a soul:"
+        },
+        {
+          "id": "sent-049",
+          "text": "«Sería una lástima matarlo sin razón»,",
+          "translationRu": "«Было бы жаль убивать его без причины», —",
           "original": "it would be rather a shame to recklessly kill it,\""
         },
         {
-          "id": "sent-019",
+          "id": "sent-050",
+          "text": "pensó.",
+          "translationRu": "подумал он."
+        },
+        {
+          "id": "sent-051",
           "text": "Y perdonó la vida de la araña.",
           "translationRu": "И он пощадил паука.",
           "original": "and spared the spider's life."
@@ -166,22 +356,76 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Mientras miraba hacia el Infierno, el Buda recordó cómo Kandata había perdonado la vida de la araña.",
-          "translationRu": "Глядя вниз, в Ад, Будда вспомнил, как Кандата пощадил паука.",
-          "original": "As he looked down into Hell, the Buddha remembered how this Kandata had spared the spider's life."
+          "id": "sent-052",
+          "text": "Mientras miraba hacia el Infierno,",
+          "translationRu": "Глядя вниз, в Ад,",
+          "original": "As he looked down into Hell,"
         },
         {
-          "id": "sent-021",
-          "text": "Por esa buena acción, el Buda pensó que, si era posible, le gustaría salvarlo del Infierno.",
-          "translationRu": "За этот добрый поступок Будда подумал, что, если возможно, хотел бы спасти его из Ада.",
-          "original": "And in return for that good deed, he thought, if possible, he would like to deliver him out of Hell."
+          "id": "sent-053",
+          "text": "el Buda recordó",
+          "translationRu": "Будда вспомнил,",
+          "original": "the Buddha remembered"
         },
         {
-          "id": "sent-022",
-          "text": "Por suerte, cuando miró a su alrededor, vio una araña del Paraíso que tejía un hermoso hilo plateado sobre las hojas de loto de color sereno.",
-          "translationRu": "К счастью, оглядевшись, он увидел райского паука, прядущего прекрасную серебристую нить на спокойно-синих листьях лотоса.",
-          "original": "Fortunately when he looked around, he saw a spider of Paradise spinning a beautiful silvery thread on the halcyon-colored lotus leaves."
+          "id": "sent-054",
+          "text": "cómo Kandata había perdonado la vida de la araña.",
+          "translationRu": "как Кандата пощадил паука.",
+          "original": "how this Kandata had spared the spider's life."
+        },
+        {
+          "id": "sent-055",
+          "text": "Por esa buena acción,",
+          "translationRu": "За этот добрый поступок",
+          "original": "And in return for that good deed,"
+        },
+        {
+          "id": "sent-056",
+          "text": "el Buda pensó que,",
+          "translationRu": "Будда подумал, что,",
+          "original": "he thought,"
+        },
+        {
+          "id": "sent-057",
+          "text": "si era posible,",
+          "translationRu": "если возможно,",
+          "original": "if possible,"
+        },
+        {
+          "id": "sent-058",
+          "text": "le gustaría salvarlo del Infierno.",
+          "translationRu": "хотел бы спасти его из Ада.",
+          "original": "he would like to deliver him out of Hell."
+        },
+        {
+          "id": "sent-059",
+          "text": "Por suerte,",
+          "translationRu": "К счастью,",
+          "original": "Fortunately"
+        },
+        {
+          "id": "sent-060",
+          "text": "cuando miró a su alrededor,",
+          "translationRu": "оглядевшись,",
+          "original": "when he looked around,"
+        },
+        {
+          "id": "sent-061",
+          "text": "vio una araña del Paraíso",
+          "translationRu": "он увидел райского паука,",
+          "original": "he saw a spider of Paradise"
+        },
+        {
+          "id": "sent-062",
+          "text": "que tejía un hermoso hilo plateado",
+          "translationRu": "прядущего прекрасную серебристую нить",
+          "original": "spinning a beautiful silvery thread"
+        },
+        {
+          "id": "sent-063",
+          "text": "sobre las hojas de loto de color sereno.",
+          "translationRu": "на спокойно-синих листьях лотоса.",
+          "original": "on the halcyon-colored lotus leaves."
         }
       ]
     },
@@ -189,16 +433,40 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "El Buda tomó suavemente el hilo de la araña en su mano.",
-          "translationRu": "Будда тихо взял нить паука в руку.",
-          "original": "The Buddha quietly took up the spider's thread in his hand."
+          "id": "sent-064",
+          "text": "El Buda tomó suavemente el hilo de la araña",
+          "translationRu": "Будда тихо взял нить паука",
+          "original": "The Buddha quietly took up the spider's thread"
         },
         {
-          "id": "sent-024",
-          "text": "Lo dejó caer recto hacia abajo, hasta el fondo del Infierno, muy lejos, a través del hueco entre las flores de loto blancas como perlas.",
-          "translationRu": "Он опустил её прямо вниз, до самого дна Ада, далеко-далеко, сквозь просвет между белыми жемчужными цветами лотоса.",
-          "original": "And he let it straight down to the bottom of Hell far below through the opening among the pearly white lotus flowers."
+          "id": "sent-065",
+          "text": "en su mano.",
+          "translationRu": "в руку.",
+          "original": "in his hand."
+        },
+        {
+          "id": "sent-066",
+          "text": "Lo dejó caer recto hacia abajo,",
+          "translationRu": "Он опустил её прямо вниз,",
+          "original": "And he let it straight down"
+        },
+        {
+          "id": "sent-067",
+          "text": "hasta el fondo del Infierno, muy lejos,",
+          "translationRu": "до самого дна Ада, далеко-далеко,",
+          "original": "to the bottom of Hell far below"
+        },
+        {
+          "id": "sent-068",
+          "text": "a través del hueco",
+          "translationRu": "сквозь просвет",
+          "original": "through the opening"
+        },
+        {
+          "id": "sent-069",
+          "text": "entre las flores de loto blancas como perlas.",
+          "translationRu": "между белыми жемчужными цветами лотоса.",
+          "original": "among the pearly white lotus flowers."
         }
       ]
     },
@@ -206,10 +474,28 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-025",
-          "text": "En el Infierno, Kandata subía y bajaba junto con los otros pecadores en el Estanque de Sangre.",
-          "translationRu": "В Аду Кандата поднимался и опускался вместе с другими грешниками в Пруду Крови.",
-          "original": "Here Kandata was rising and sinking with the other sinners in the Pond of Blood on the floor of Hell."
+          "id": "sent-070",
+          "text": "En el Infierno,",
+          "translationRu": "В Аду",
+          "original": "Here"
+        },
+        {
+          "id": "sent-071",
+          "text": "Kandata subía y bajaba",
+          "translationRu": "Кандата поднимался и опускался",
+          "original": "Kandata was rising and sinking"
+        },
+        {
+          "id": "sent-072",
+          "text": "junto con los otros pecadores",
+          "translationRu": "вместе с другими грешниками",
+          "original": "with the other sinners"
+        },
+        {
+          "id": "sent-073",
+          "text": "en el Estanque de Sangre.",
+          "translationRu": "в Пруду Крови.",
+          "original": "in the Pond of Blood on the floor of Hell."
         }
       ]
     },
@@ -217,40 +503,63 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-026",
+          "id": "sent-074",
           "text": "Era completamente oscuro en todas partes.",
           "translationRu": "Вокруг была кромешная тьма.",
           "original": "It was pitch black everywhere"
         },
         {
-          "id": "sent-027",
-          "text": "A veces se veía algo que brillaba en la oscuridad.",
-          "translationRu": "Иногда в темноте что-то поблёскивало.",
+          "id": "sent-075",
+          "text": "A veces se veía algo",
+          "translationRu": "Иногда в темноте что-то",
           "original": "and when sometimes a glimpse was caught of something rising from that darkness, it turned out to be the gleam of the needle of the dread Hari-no-Yama"
         },
         {
-          "id": "sent-028",
-          "text": "Era el destello de las agujas del temible Hari-no-Yama.",
-          "translationRu": "Это был блеск игл страшного Хари-но-Яма.",
-          "original": "it turned out to be the gleam of the needle of the dread Hari-no-Yama"
+          "id": "sent-076",
+          "text": "que brillaba en la oscuridad.",
+          "translationRu": "поблёскивало."
         },
         {
-          "id": "sent-029",
+          "id": "sent-077",
+          "text": "Era el destello de las agujas",
+          "translationRu": "Это был блеск игл",
+          "original": "it turned out to be the gleam of the needle"
+        },
+        {
+          "id": "sent-078",
+          "text": "del temible Hari-no-Yama.",
+          "translationRu": "страшного Хари-но-Яма.",
+          "original": "of the dread Hari-no-Yama"
+        },
+        {
+          "id": "sent-079",
           "text": "Todo eso hacía aquel lugar terriblemente sombrío.",
           "translationRu": "Всё это делало это место ужасно мрачным.",
           "original": "so it was inexpressibly forbidding."
         },
         {
-          "id": "sent-030",
-          "text": "Además, reinaba el silencio de la tumba.",
-          "translationRu": "К тому же царила гробовая тишина.",
-          "original": "Moreover the stillness of the grave reigned everywhere"
+          "id": "sent-080",
+          "text": "Además,",
+          "translationRu": "К тому же",
+          "original": "Moreover"
         },
         {
-          "id": "sent-031",
-          "text": "Solo a veces se escuchaba el débil suspiro de los pecadores.",
-          "translationRu": "Лишь иногда слышался слабый вздох грешников.",
-          "original": "and the only thing that could at times be heard was the faint sighing of the sinners."
+          "id": "sent-081",
+          "text": "reinaba el silencio de la tumba.",
+          "translationRu": "царила гробовая тишина.",
+          "original": "the stillness of the grave reigned everywhere"
+        },
+        {
+          "id": "sent-082",
+          "text": "Solo a veces se escuchaba",
+          "translationRu": "Лишь иногда слышался",
+          "original": "and the only thing that could at times be heard was"
+        },
+        {
+          "id": "sent-083",
+          "text": "el débil suspiro de los pecadores.",
+          "translationRu": "слабый вздох грешников.",
+          "original": "the faint sighing of the sinners."
         }
       ]
     },
@@ -258,16 +567,40 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-032",
-          "text": "Los pecadores que habían llegado a ese lugar ya estaban agotados por los muchos tormentos del Infierno.",
-          "translationRu": "Грешники, оказавшиеся в этом месте, уже были измотаны многочисленными муками Ада.",
-          "original": "This was because such sinners as had come down to this spot had already been tired out by the other manifold tortures of Hell"
+          "id": "sent-084",
+          "text": "Los pecadores",
+          "translationRu": "Грешники,",
+          "original": "This was because such sinners"
         },
         {
-          "id": "sent-033",
-          "text": "Habían perdido incluso la fuerza para gritar.",
-          "translationRu": "Они потеряли даже силы кричать.",
-          "original": "and had lost even the strength to cry aloud."
+          "id": "sent-085",
+          "text": "que habían llegado a ese lugar",
+          "translationRu": "оказавшиеся в этом месте,",
+          "original": "as had come down to this spot"
+        },
+        {
+          "id": "sent-086",
+          "text": "ya estaban agotados",
+          "translationRu": "уже были измотаны",
+          "original": "had already been tired out"
+        },
+        {
+          "id": "sent-087",
+          "text": "por los muchos tormentos del Infierno.",
+          "translationRu": "многочисленными муками Ада.",
+          "original": "by the other manifold tortures of Hell"
+        },
+        {
+          "id": "sent-088",
+          "text": "Habían perdido incluso la fuerza",
+          "translationRu": "Они потеряли даже силы",
+          "original": "and had lost even the strength"
+        },
+        {
+          "id": "sent-089",
+          "text": "para gritar.",
+          "translationRu": "кричать.",
+          "original": "to cry aloud."
         }
       ]
     },
@@ -275,16 +608,40 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-034",
-          "text": "Así que Kandata, aunque era un gran ladrón, también estaba sofocado por la sangre.",
-          "translationRu": "Так что Кандата, хотя и был великим разбойником, тоже задыхался в крови.",
-          "original": "So, great robber though he was, Kandata, also suffocated with the blood"
+          "id": "sent-090",
+          "text": "Así que Kandata,",
+          "translationRu": "Так что Кандата,",
+          "original": "So,"
         },
         {
-          "id": "sent-035",
-          "text": "No podía hacer nada, solo retorcerse en el estanque como una rana que se muere.",
-          "translationRu": "Он не мог ничего поделать, только барахтаться в пруду, как умирающая лягушка.",
-          "original": "could do nothing but struggle in the pond like a dying frog."
+          "id": "sent-091",
+          "text": "aunque era un gran ladrón,",
+          "translationRu": "хотя и был великим разбойником,",
+          "original": "great robber though he was, Kandata,"
+        },
+        {
+          "id": "sent-092",
+          "text": "también estaba sofocado por la sangre.",
+          "translationRu": "тоже задыхался в крови.",
+          "original": "also suffocated with the blood"
+        },
+        {
+          "id": "sent-093",
+          "text": "No podía hacer nada,",
+          "translationRu": "Он не мог ничего поделать,",
+          "original": "could do nothing but"
+        },
+        {
+          "id": "sent-094",
+          "text": "solo retorcerse en el estanque",
+          "translationRu": "только барахтаться в пруду,",
+          "original": "struggle in the pond"
+        },
+        {
+          "id": "sent-095",
+          "text": "como una rana que se muere.",
+          "translationRu": "как умирающая лягушка.",
+          "original": "like a dying frog."
         }
       ]
     },
@@ -292,28 +649,70 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-036",
+          "id": "sent-096",
           "text": "Pero llegó su momento.",
           "translationRu": "Но его час настал.",
           "original": "But his time came."
         },
         {
-          "id": "sent-037",
-          "text": "Un día Kandata levantó la cabeza por casualidad y miró hacia arriba, al cielo sobre el Estanque de Sangre.",
-          "translationRu": "Однажды Кандата случайно поднял голову и взглянул вверх, на небо над Прудом Крови.",
-          "original": "One day when Kandata lifted his head by chance and looked up at the sky above the Pond of Blood"
+          "id": "sent-097",
+          "text": "Un día",
+          "translationRu": "Однажды",
+          "original": "One day when"
         },
         {
-          "id": "sent-038",
-          "text": "Vio un hilo plateado de araña que bajaba hacia él desde lo alto, muy alto, del cielo.",
-          "translationRu": "Он увидел серебристую паучью нить, которая спускалась к нему с высоты, очень высокой высоты, с неба.",
-          "original": "he saw a silver spider's thread slipping down toward him from the high, high heavens"
+          "id": "sent-098",
+          "text": "Kandata levantó la cabeza por casualidad",
+          "translationRu": "Кандата случайно поднял голову",
+          "original": "Kandata lifted his head by chance"
         },
         {
-          "id": "sent-039",
-          "text": "El hilo brillaba levemente en la oscuridad silenciosa, como si tuviera miedo de los ojos de los hombres.",
-          "translationRu": "Нить слабо мерцала в тихой темноте, словно боялась человеческих глаз.",
-          "original": "glittering slightly in the silent darkness just as if it feared the eyes of man."
+          "id": "sent-099",
+          "text": "y miró hacia arriba,",
+          "translationRu": "и взглянул вверх,",
+          "original": "and looked up"
+        },
+        {
+          "id": "sent-100",
+          "text": "al cielo sobre el Estanque de Sangre.",
+          "translationRu": "на небо над Прудом Крови.",
+          "original": "at the sky above the Pond of Blood"
+        },
+        {
+          "id": "sent-101",
+          "text": "Vio un hilo plateado de araña",
+          "translationRu": "Он увидел серебристую паучью нить,",
+          "original": "he saw a silver spider's thread"
+        },
+        {
+          "id": "sent-102",
+          "text": "que bajaba hacia él",
+          "translationRu": "которая спускалась к нему",
+          "original": "slipping down toward him"
+        },
+        {
+          "id": "sent-103",
+          "text": "desde lo alto, muy alto, del cielo.",
+          "translationRu": "с высоты, очень высокой высоты, с неба.",
+          "original": "from the high, high heavens"
+        },
+        {
+          "id": "sent-104",
+          "text": "El hilo brillaba levemente",
+          "translationRu": "Нить слабо мерцала",
+          "original": "glittering slightly"
+        },
+        {
+          "id": "sent-105",
+          "text": "en la oscuridad silenciosa,",
+          "translationRu": "в тихой темноте,",
+          "original": "in the silent darkness"
+        },
+        {
+          "id": "sent-106",
+          "text": "como si tuviera miedo de los ojos de los hombres.",
+          "translationRu": "словно боялась человеческих глаз.",
+          "original": "just as if it feared the eyes of man."
         }
       ]
     },
@@ -321,16 +720,34 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-040",
-          "text": "Cuando lo vio, sus manos se juntaron solas de alegría.",
-          "translationRu": "Увидев это, его руки сами собой сложились от радости.",
-          "original": "When he saw this, his hands clapped themselves for joy."
+          "id": "sent-107",
+          "text": "Cuando lo vio,",
+          "translationRu": "Увидев это,",
+          "original": "When he saw this,"
         },
         {
-          "id": "sent-041",
-          "text": "Si se agarraba a ese hilo y subía hasta donde llegaba, seguramente podría escapar del Infierno.",
-          "translationRu": "Если схватиться за эту нить и подняться так высоко, как она тянется, то, наверное, можно выбраться из Ада.",
-          "original": "If, clinging to this thread, he climbed as far as it went, he could surely escape from Hell."
+          "id": "sent-108",
+          "text": "sus manos se juntaron solas de alegría.",
+          "translationRu": "его руки сами собой сложились от радости.",
+          "original": "his hands clapped themselves for joy."
+        },
+        {
+          "id": "sent-109",
+          "text": "Si se agarraba a ese hilo",
+          "translationRu": "Если схватиться за эту нить",
+          "original": "If, clinging to this thread,"
+        },
+        {
+          "id": "sent-110",
+          "text": "y subía hasta donde llegaba,",
+          "translationRu": "и подняться так высоко, как она тянется,",
+          "original": "he climbed as far as it went,"
+        },
+        {
+          "id": "sent-111",
+          "text": "seguramente podría escapar del Infierno.",
+          "translationRu": "то, наверное, можно выбраться из Ада.",
+          "original": "he could surely escape from Hell."
         }
       ]
     },
@@ -338,16 +755,40 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-042",
-          "text": "Es más, si todo iba bien, quizás podría incluso entrar en el Paraíso.",
-          "translationRu": "Мало того, если всё пойдёт хорошо, возможно, он даже попадёт в Рай.",
-          "original": "Nay, if all went well, he might even enter Paradise."
+          "id": "sent-112",
+          "text": "Es más,",
+          "translationRu": "Мало того,",
+          "original": "Nay,"
         },
         {
-          "id": "sent-043",
-          "text": "Entonces nunca más lo llevarían al Hari-no-Yama ni lo hundirían en el Estanque de Sangre.",
-          "translationRu": "Тогда его больше никогда не погонят к Хари-но-Яма и не окунут в Пруд Крови.",
-          "original": "Then he would never be driven on to Hari-no-Yama nor sunk in the Pond of Blood."
+          "id": "sent-113",
+          "text": "si todo iba bien,",
+          "translationRu": "если всё пойдёт хорошо,",
+          "original": "if all went well,"
+        },
+        {
+          "id": "sent-114",
+          "text": "quizás podría incluso entrar en el Paraíso.",
+          "translationRu": "возможно, он даже попадёт в Рай.",
+          "original": "he might even enter Paradise."
+        },
+        {
+          "id": "sent-115",
+          "text": "Entonces nunca más",
+          "translationRu": "Тогда его больше никогда",
+          "original": "Then he would never"
+        },
+        {
+          "id": "sent-116",
+          "text": "lo llevarían al Hari-no-Yama",
+          "translationRu": "не погонят к Хари-но-Яма",
+          "original": "be driven on to Hari-no-Yama"
+        },
+        {
+          "id": "sent-117",
+          "text": "ni lo hundirían en el Estanque de Sangre.",
+          "translationRu": "и не окунут в Пруд Крови.",
+          "original": "nor sunk in the Pond of Blood."
         }
       ]
     },
@@ -355,16 +796,28 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-044",
-          "text": "En cuanto esos pensamientos llegaron a su mente, agarró el hilo con fuerza con las dos manos.",
-          "translationRu": "Как только эти мысли пришли ему в голову, он крепко схватил нить обеими руками.",
-          "original": "As soon as these thoughts came into his mind, he grasped the thread tightly in his two hands"
+          "id": "sent-118",
+          "text": "En cuanto esos pensamientos llegaron a su mente,",
+          "translationRu": "Как только эти мысли пришли ему в голову,",
+          "original": "As soon as these thoughts came into his mind,"
         },
         {
-          "id": "sent-045",
-          "text": "Y empezó a subir y subir con todas sus fuerzas.",
-          "translationRu": "И начал карабкаться вверх, вверх, изо всех сил.",
-          "original": "and began to climb up and up with all his might."
+          "id": "sent-119",
+          "text": "agarró el hilo con fuerza con las dos manos.",
+          "translationRu": "он крепко схватил нить обеими руками.",
+          "original": "he grasped the thread tightly in his two hands"
+        },
+        {
+          "id": "sent-120",
+          "text": "Y empezó a subir y subir",
+          "translationRu": "И начал карабкаться вверх, вверх,",
+          "original": "and began to climb up and up"
+        },
+        {
+          "id": "sent-121",
+          "text": "con todas sus fuerzas.",
+          "translationRu": "изо всех сил.",
+          "original": "with all his might."
         }
       ]
     },
@@ -372,10 +825,22 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-046",
-          "text": "Porque era un gran ladrón, hacía mucho tiempo que estaba muy acostumbrado a ese tipo de cosas.",
-          "translationRu": "Поскольку он был великим разбойником, он давно привык к такого рода вещам.",
-          "original": "Because he was a great robber, he had long been thoroughly familiar with such things."
+          "id": "sent-122",
+          "text": "Porque era un gran ladrón,",
+          "translationRu": "Поскольку он был великим разбойником,",
+          "original": "Because he was a great robber,"
+        },
+        {
+          "id": "sent-123",
+          "text": "hacía mucho tiempo que estaba muy acostumbrado",
+          "translationRu": "он давно привык",
+          "original": "he had long been thoroughly familiar with"
+        },
+        {
+          "id": "sent-124",
+          "text": "a ese tipo de cosas.",
+          "translationRu": "к такого рода вещам.",
+          "original": "such things."
         }
       ]
     },
@@ -383,22 +848,46 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-047",
-          "text": "Pero el Infierno estaba a incontables millones de millas del Paraíso.",
-          "translationRu": "Но Ад находился в неисчислимых миллионах миль от Рая.",
-          "original": "Hell is nobody-knows-how-many myriads of miles removed from Paradise"
+          "id": "sent-125",
+          "text": "Pero el Infierno estaba a incontables millones de millas",
+          "translationRu": "Но Ад находился в неисчислимых миллионах миль",
+          "original": "Hell is nobody-knows-how-many myriads of miles removed"
         },
         {
-          "id": "sent-048",
-          "text": "Por mucho que se esforzara, no podía salir fácilmente.",
-          "translationRu": "Как бы он ни старался, выбраться было нелегко.",
-          "original": "and, strive as he might, he could not easily get out."
+          "id": "sent-126",
+          "text": "del Paraíso.",
+          "translationRu": "от Рая.",
+          "original": "from Paradise"
         },
         {
-          "id": "sent-049",
-          "text": "Después de subir un rato, estaba finalmente agotado y no podía avanzar ni un centímetro más.",
-          "translationRu": "Немного поднявшись, он наконец совсем устал и не мог продвинуться ни на сантиметр выше.",
-          "original": "After climbing for a while, he was finally exhausted and could not ascend an inch higher."
+          "id": "sent-127",
+          "text": "Por mucho que se esforzara,",
+          "translationRu": "Как бы он ни старался,",
+          "original": "and, strive as he might,"
+        },
+        {
+          "id": "sent-128",
+          "text": "no podía salir fácilmente.",
+          "translationRu": "выбраться было нелегко.",
+          "original": "he could not easily get out."
+        },
+        {
+          "id": "sent-129",
+          "text": "Después de subir un rato,",
+          "translationRu": "Немного поднявшись,",
+          "original": "After climbing for a while,"
+        },
+        {
+          "id": "sent-130",
+          "text": "estaba finalmente agotado",
+          "translationRu": "он наконец совсем устал",
+          "original": "he was finally exhausted"
+        },
+        {
+          "id": "sent-131",
+          "text": "y no podía avanzar ni un centímetro más.",
+          "translationRu": "и не мог продвинуться ни на сантиметр выше.",
+          "original": "and could not ascend an inch higher."
         }
       ]
     },
@@ -406,34 +895,81 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-050",
-          "text": "No podía hacer otra cosa, así que se detuvo a descansar.",
-          "translationRu": "Ничего другого не оставалось, и он остановился отдохнуть.",
-          "original": "So since he could do nothing else, he stopped to rest"
+          "id": "sent-132",
+          "text": "No podía hacer otra cosa,",
+          "translationRu": "Ничего другого не оставалось,",
+          "original": "So since he could do nothing else,"
         },
         {
-          "id": "sent-051",
-          "text": "Colgado del hilo, miró muy lejos hacia abajo.",
-          "translationRu": "Держась за нить, он посмотрел далеко-далеко вниз.",
-          "original": "and, hanging to the thread, looked far, far down below him."
+          "id": "sent-133",
+          "text": "así que se detuvo a descansar.",
+          "translationRu": "и он остановился отдохнуть.",
+          "original": "he stopped to rest"
         },
         {
-          "id": "sent-052",
-          "text": "Como había subido con todas sus fuerzas, el Estanque de Sangre donde había estado hacía un momento ya estaba oculto en la oscuridad, muy abajo, con gran sorpresa suya.",
-          "translationRu": "Так как он карабкался изо всех сил, Пруд Крови, где он только что находился, уже скрылся во тьме далеко внизу, к его великому удивлению.",
-          "original": "Now since he had climbed with all his might, the Pond of Blood where he had just been was already, much to his surprise, hidden deep down in the darkness."
+          "id": "sent-134",
+          "text": "Colgado del hilo,",
+          "translationRu": "Держась за нить,",
+          "original": "and, hanging to the thread,"
         },
         {
-          "id": "sent-053",
-          "text": "Y el terrible Hari-no-Yama brillaba débilmente bajo sus pies.",
-          "translationRu": "А страшный Хари-но-Яма тускло поблёскивал под ним.",
-          "original": "And the dread Hari-no-Yama glittered dimly under him."
+          "id": "sent-135",
+          "text": "miró muy lejos hacia abajo.",
+          "translationRu": "он посмотрел далеко-далеко вниз.",
+          "original": "looked far, far down below him."
         },
         {
-          "id": "sent-054",
-          "text": "Si seguía subiendo a ese ritmo, quizás podría salir del Infierno más fácilmente de lo que pensaba.",
-          "translationRu": "Если продолжать подниматься в таком темпе, возможно, он выберется из Ада легче, чем думал.",
-          "original": "If he went up at this rate, he might get out of Hell more easily than he had thought."
+          "id": "sent-136",
+          "text": "Como había subido con todas sus fuerzas,",
+          "translationRu": "Так как он карабкался изо всех сил,",
+          "original": "Now since he had climbed with all his might,"
+        },
+        {
+          "id": "sent-137",
+          "text": "el Estanque de Sangre donde había estado hacía un momento",
+          "translationRu": "Пруд Крови, где он только что находился,",
+          "original": "the Pond of Blood where he had just been was"
+        },
+        {
+          "id": "sent-138",
+          "text": "ya estaba oculto en la oscuridad, muy abajo,",
+          "translationRu": "уже скрылся во тьме далеко внизу,",
+          "original": "already, much to his surprise, hidden deep down in the darkness."
+        },
+        {
+          "id": "sent-139",
+          "text": "con gran sorpresa suya.",
+          "translationRu": "к его великому удивлению."
+        },
+        {
+          "id": "sent-140",
+          "text": "Y el terrible Hari-no-Yama",
+          "translationRu": "А страшный Хари-но-Яма",
+          "original": "And the dread Hari-no-Yama"
+        },
+        {
+          "id": "sent-141",
+          "text": "brillaba débilmente bajo sus pies.",
+          "translationRu": "тускло поблёскивал под ним.",
+          "original": "glittered dimly under him."
+        },
+        {
+          "id": "sent-142",
+          "text": "Si seguía subiendo a ese ritmo,",
+          "translationRu": "Если продолжать подниматься в таком темпе,",
+          "original": "If he went up at this rate,"
+        },
+        {
+          "id": "sent-143",
+          "text": "quizás podría salir del Infierno",
+          "translationRu": "возможно, он выберется из Ада",
+          "original": "he might get out of Hell"
+        },
+        {
+          "id": "sent-144",
+          "text": "más fácilmente de lo que pensaba.",
+          "translationRu": "легче, чем думал.",
+          "original": "more easily than he had thought."
         }
       ]
     },
@@ -441,13 +977,31 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-055",
-          "text": "Con la mano enroscada en el hilo de la araña, Kandata se rió y gritó con una voz que no había usado en todos los años desde que llegó allí:",
-          "translationRu": "Намотав нить паука на руку, Кандата засмеялся и закричал голосом, которым не пользовался за все годы с тех пор, как оказался здесь:",
-          "original": "With his hand twisted into the spider's thread, Kandata laughed and cried out in a voice such as he had not uttered during all the years since coming here,"
+          "id": "sent-145",
+          "text": "Con la mano enroscada en el hilo de la araña,",
+          "translationRu": "Намотав нить паука на руку,",
+          "original": "With his hand twisted into the spider's thread,"
         },
         {
-          "id": "sent-056",
+          "id": "sent-146",
+          "text": "Kandata se rió y gritó",
+          "translationRu": "Кандата засмеялся и закричал",
+          "original": "Kandata laughed and cried out"
+        },
+        {
+          "id": "sent-147",
+          "text": "con una voz que no había usado",
+          "translationRu": "голосом, которым не пользовался",
+          "original": "in a voice such as he had not uttered"
+        },
+        {
+          "id": "sent-148",
+          "text": "en todos los años desde que llegó allí:",
+          "translationRu": "за все годы с тех пор, как оказался здесь:",
+          "original": "during all the years since coming here,"
+        },
+        {
+          "id": "sent-149",
           "text": "«¡Lo logré! ¡Lo logré!»",
           "translationRu": "«Получилось! Получилось!»",
           "original": "\"Success! Success!\""
@@ -458,10 +1012,34 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-057",
-          "text": "Pero de repente notó que abajo, en el hilo, incontables pecadores subían detrás de él con entusiasmo, arriba y arriba, como una procesión de hormigas.",
-          "translationRu": "Но вдруг он заметил, что внизу на нити бесчисленные грешники усердно карабкаются за ним, вверх и вверх, как вереница муравьёв.",
-          "original": "But suddenly he noticed that below on the thread countless sinners were climbing eagerly after him, up and up, just like a procession of ants."
+          "id": "sent-150",
+          "text": "Pero de repente notó",
+          "translationRu": "Но вдруг он заметил,",
+          "original": "But suddenly he noticed"
+        },
+        {
+          "id": "sent-151",
+          "text": "que abajo, en el hilo,",
+          "translationRu": "что внизу на нити",
+          "original": "that below on the thread"
+        },
+        {
+          "id": "sent-152",
+          "text": "incontables pecadores subían detrás de él con entusiasmo,",
+          "translationRu": "бесчисленные грешники усердно карабкаются за ним,",
+          "original": "countless sinners were climbing eagerly after him,"
+        },
+        {
+          "id": "sent-153",
+          "text": "arriba y arriba,",
+          "translationRu": "вверх и вверх,",
+          "original": "up and up,"
+        },
+        {
+          "id": "sent-154",
+          "text": "como una procesión de hormigas.",
+          "translationRu": "как вереница муравьёв.",
+          "original": "just like a procession of ants."
         }
       ]
     },
@@ -469,16 +1047,28 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-058",
-          "text": "Cuando vio esto, Kandata simplemente parpadeó por un momento.",
-          "translationRu": "Увидев это, Кандата лишь моргнул на мгновение.",
-          "original": "When he saw this, Kandata simply blinked his eyes for a moment"
+          "id": "sent-155",
+          "text": "Cuando vio esto,",
+          "translationRu": "Увидев это,",
+          "original": "When he saw this,"
         },
         {
-          "id": "sent-059",
-          "text": "Su boca grande estaba abierta tontamente, llena de sorpresa y terror.",
-          "translationRu": "Его большой рот был глупо разинут от удивления и ужаса.",
-          "original": "with his big mouth hanging foolishly open in surprise and terror."
+          "id": "sent-156",
+          "text": "Kandata simplemente parpadeó por un momento.",
+          "translationRu": "Кандата лишь моргнул на мгновение.",
+          "original": "Kandata simply blinked his eyes for a moment"
+        },
+        {
+          "id": "sent-157",
+          "text": "Su boca grande estaba abierta tontamente,",
+          "translationRu": "Его большой рот был глупо разинут",
+          "original": "with his big mouth hanging foolishly open"
+        },
+        {
+          "id": "sent-158",
+          "text": "llena de sorpresa y terror.",
+          "translationRu": "от удивления и ужаса.",
+          "original": "in surprise and terror."
         }
       ]
     },
@@ -486,10 +1076,22 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-060",
-          "text": "¿Cómo iba a aguantar ese delgado hilo de araña, que parecía que iba a romperse incluso con él solo, el peso de toda esa gente?",
-          "translationRu": "Как мог выдержать эту тонкую паучью нить, которая, казалось, вот-вот порвётся даже от его одного веса, ещё и весь этот народ?",
-          "original": "How could that slender spider's thread, which seemed as if it must break even with him alone, ever support the weight of all those people?"
+          "id": "sent-159",
+          "text": "¿Cómo iba a aguantar ese delgado hilo de araña,",
+          "translationRu": "Как мог выдержать эту тонкую паучью нить,",
+          "original": "How could that slender spider's thread,"
+        },
+        {
+          "id": "sent-160",
+          "text": "que parecía que iba a romperse incluso con él solo,",
+          "translationRu": "которая, казалось, вот-вот порвётся даже от его одного веса,",
+          "original": "which seemed as if it must break even with him alone,"
+        },
+        {
+          "id": "sent-161",
+          "text": "el peso de toda esa gente?",
+          "translationRu": "ещё и весь этот народ?",
+          "original": "ever support the weight of all those people?"
         }
       ]
     },
@@ -497,13 +1099,31 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-061",
-          "text": "Si se rompía en el aire, incluso él mismo, después de todo su esfuerzo en llegar hasta ese punto, tendría que caer de cabeza de vuelta al Infierno.",
-          "translationRu": "Если нить оборвётся в воздухе, то и он сам, после всех усилий, добравшись до этого места, был бы вынужден рухнуть головой вниз обратно в Ад.",
-          "original": "If it should break in midair, even he himself, after all his effort in reaching this spot, would have to fall headlong back into Hell."
+          "id": "sent-162",
+          "text": "Si se rompía en el aire,",
+          "translationRu": "Если нить оборвётся в воздухе,",
+          "original": "If it should break in midair,"
         },
         {
-          "id": "sent-062",
+          "id": "sent-163",
+          "text": "incluso él mismo,",
+          "translationRu": "то и он сам,",
+          "original": "even he himself,"
+        },
+        {
+          "id": "sent-164",
+          "text": "después de todo su esfuerzo en llegar hasta ese punto,",
+          "translationRu": "после всех усилий, добравшись до этого места,",
+          "original": "after all his effort in reaching this spot,"
+        },
+        {
+          "id": "sent-165",
+          "text": "tendría que caer de cabeza de vuelta al Infierno.",
+          "translationRu": "был бы вынужден рухнуть головой вниз обратно в Ад.",
+          "original": "would have to fall headlong back into Hell."
+        },
+        {
+          "id": "sent-166",
           "text": "Sería terrible si eso pasaba.",
           "translationRu": "Это было бы ужасно.",
           "original": "It would be terrible if such a thing happened."
@@ -514,43 +1134,79 @@
       "id": "para-027",
       "sentences": [
         {
-          "id": "sent-063",
-          "text": "Mientras tanto, cientos y miles de pecadores salían del oscuro Estanque de Sangre y subían con todas sus fuerzas en fila por el delgado hilo brillante.",
-          "translationRu": "Тем временем сотни и тысячи грешников выбирались из тёмного Пруда Крови и карабкались изо всех сил цепочкой по тонкой сверкающей нити.",
-          "original": "But meanwhile hundreds and thousands of sinners were squirming out of the dark Pond of Blood and climbing with all their might in a line up the slender glittering thread."
+          "id": "sent-167",
+          "text": "Mientras tanto,",
+          "translationRu": "Тем временем",
+          "original": "But meanwhile"
         },
         {
-          "id": "sent-064",
-          "text": "Si no hacía algo rápido, el hilo seguramente se rompería en dos y caería.",
-          "translationRu": "Если он не сделает что-нибудь быстро, нить непременно разорвётся надвое и упадёт.",
-          "original": "If he did not do something quickly, the thread was sure to break in two and fall."
+          "id": "sent-168",
+          "text": "cientos y miles de pecadores",
+          "translationRu": "сотни и тысячи грешников",
+          "original": "hundreds and thousands of sinners"
         },
         {
-          "id": "sent-065",
+          "id": "sent-169",
+          "text": "salían del oscuro Estanque de Sangre",
+          "translationRu": "выбирались из тёмного Пруда Крови",
+          "original": "were squirming out of the dark Pond of Blood"
+        },
+        {
+          "id": "sent-170",
+          "text": "y subían con todas sus fuerzas en fila",
+          "translationRu": "и карабкались изо всех сил цепочкой",
+          "original": "and climbing with all their might in a line"
+        },
+        {
+          "id": "sent-171",
+          "text": "por el delgado hilo brillante.",
+          "translationRu": "по тонкой сверкающей нити.",
+          "original": "up the slender glittering thread."
+        },
+        {
+          "id": "sent-172",
+          "text": "Si no hacía algo rápido,",
+          "translationRu": "Если он не сделает что-нибудь быстро,",
+          "original": "If he did not do something quickly,"
+        },
+        {
+          "id": "sent-173",
+          "text": "el hilo seguramente se rompería en dos y caería.",
+          "translationRu": "нить непременно разорвётся надвое и упадёт.",
+          "original": "the thread was sure to break in two and fall."
+        },
+        {
+          "id": "sent-174",
           "text": "Así que Kandata gritó con voz fuerte:",
           "translationRu": "И тогда Кандата закричал громким голосом:",
           "original": "So Kandata cried out in a loud voice,"
         },
         {
-          "id": "sent-066",
+          "id": "sent-175",
           "text": "«¡Eh, pecadores!»",
           "translationRu": "«Эй, грешники!»",
           "original": "\"Here, you sinners!"
         },
         {
-          "id": "sent-067",
+          "id": "sent-176",
           "text": "«¡Este hilo de araña es mío!»",
           "translationRu": "«Эта паучья нить — моя!»",
           "original": "This spider's thread is mine."
         },
         {
-          "id": "sent-068",
-          "text": "«¿Quién os dio permiso para subir por ella?»",
-          "translationRu": "«Кто вам позволил лезть по ней?»",
-          "original": "Who on earth gave you permission to come up it?"
+          "id": "sent-177",
+          "text": "«¿Quién os dio permiso",
+          "translationRu": "«Кто вам позволил",
+          "original": "Who on earth gave you permission"
         },
         {
-          "id": "sent-069",
+          "id": "sent-178",
+          "text": "para subir por ella?»",
+          "translationRu": "лезть по ней?»",
+          "original": "to come up it?"
+        },
+        {
+          "id": "sent-179",
           "text": "«¡Bajad! ¡Bajad!»",
           "translationRu": "«Слезайте! Слезайте!»",
           "original": "Get down! Get down!\""
@@ -561,10 +1217,34 @@
       "id": "para-028",
       "sentences": [
         {
-          "id": "sent-070",
-          "text": "En ese mismo momento, el hilo de araña, que hasta entonces no había dado ninguna señal de romperse, de repente se rompió con un chasquido en el punto donde colgaba Kandata.",
-          "translationRu": "В тот же момент паучья нить, до сих пор не подававшая никаких признаков разрыва, вдруг лопнула с треском в том месте, где висел Кандата.",
-          "original": "Just at that moment, the spider's thread, which had shown no sign of breaking up to that time, suddenly broke with a snap at the point where Kandata was hanging."
+          "id": "sent-180",
+          "text": "En ese mismo momento,",
+          "translationRu": "В тот же момент",
+          "original": "Just at that moment,"
+        },
+        {
+          "id": "sent-181",
+          "text": "el hilo de araña,",
+          "translationRu": "паучья нить,",
+          "original": "the spider's thread,"
+        },
+        {
+          "id": "sent-182",
+          "text": "que hasta entonces no había dado ninguna señal de romperse,",
+          "translationRu": "до сих пор не подававшая никаких признаков разрыва,",
+          "original": "which had shown no sign of breaking up to that time,"
+        },
+        {
+          "id": "sent-183",
+          "text": "de repente se rompió con un chasquido",
+          "translationRu": "вдруг лопнула с треском",
+          "original": "suddenly broke with a snap"
+        },
+        {
+          "id": "sent-184",
+          "text": "en el punto donde colgaba Kandata.",
+          "translationRu": "в том месте, где висел Кандата.",
+          "original": "at the point where Kandata was hanging."
         }
       ]
     },
@@ -572,22 +1252,33 @@
       "id": "para-029",
       "sentences": [
         {
-          "id": "sent-071",
+          "id": "sent-185",
           "text": "Así que estaba perdido.",
           "translationRu": "Так что он был обречён.",
           "original": "So he was helpless."
         },
         {
-          "id": "sent-072",
-          "text": "Sin tiempo para gritar, cayó de cabeza hacia la oscuridad.",
-          "translationRu": "Не успев даже вскрикнуть, он полетел головой вниз в темноту.",
-          "original": "Without time to utter a cry, he shot down and fell headlong into the darkness"
+          "id": "sent-186",
+          "text": "Sin tiempo para gritar,",
+          "translationRu": "Не успев даже вскрикнуть,",
+          "original": "Without time to utter a cry,"
         },
         {
-          "id": "sent-073",
-          "text": "Giró rápidamente como una peonza mientras caía.",
-          "translationRu": "Он стремительно вращался, как волчок, падая вниз.",
+          "id": "sent-187",
+          "text": "cayó de cabeza hacia la oscuridad.",
+          "translationRu": "он полетел головой вниз в темноту.",
+          "original": "he shot down and fell headlong into the darkness"
+        },
+        {
+          "id": "sent-188",
+          "text": "Giró rápidamente como una peonza",
+          "translationRu": "Он стремительно вращался, как волчок,",
           "original": "spinning swiftly round and round like a top."
+        },
+        {
+          "id": "sent-189",
+          "text": "mientras caía.",
+          "translationRu": "падая вниз."
         }
       ]
     },
@@ -595,10 +1286,34 @@
       "id": "para-030",
       "sentences": [
         {
-          "id": "sent-074",
-          "text": "Después, solo el hilo de araña del Paraíso, brillante y delgado, colgaba corto en el cielo sin luna y sin estrellas.",
-          "translationRu": "После этого только паучья нить из Рая, блестящая и тонкая, коротко висела в небе без луны и без звёзд.",
-          "original": "Afterwards, only the spider's thread of Paradise, glittering and slender, hung short in the moonless and starless sky."
+          "id": "sent-190",
+          "text": "Después,",
+          "translationRu": "После этого",
+          "original": "Afterwards,"
+        },
+        {
+          "id": "sent-191",
+          "text": "solo el hilo de araña del Paraíso,",
+          "translationRu": "только паучья нить из Рая,",
+          "original": "only the spider's thread of Paradise,"
+        },
+        {
+          "id": "sent-192",
+          "text": "brillante y delgado,",
+          "translationRu": "блестящая и тонкая,",
+          "original": "glittering and slender,"
+        },
+        {
+          "id": "sent-193",
+          "text": "colgaba corto",
+          "translationRu": "коротко висела",
+          "original": "hung short"
+        },
+        {
+          "id": "sent-194",
+          "text": "en el cielo sin luna y sin estrellas.",
+          "translationRu": "в небе без луны и без звёзд.",
+          "original": "in the moonless and starless sky."
         }
       ]
     },
@@ -606,16 +1321,40 @@
       "id": "para-031",
       "sentences": [
         {
-          "id": "sent-075",
-          "text": "De pie en la orilla del Estanque de Lotos del Paraíso, el Buda observó de cerca todo lo que había pasado.",
-          "translationRu": "Стоя на берегу Лотосового пруда Рая, Будда внимательно наблюдал за всем, что произошло.",
-          "original": "Standing on the brink of the Lotus Pond of Paradise, the Buddha watched closely all that happened"
+          "id": "sent-195",
+          "text": "De pie en la orilla del Estanque de Lotos del Paraíso,",
+          "translationRu": "Стоя на берегу Лотосового пруда Рая,",
+          "original": "Standing on the brink of the Lotus Pond of Paradise,"
         },
         {
-          "id": "sent-076",
-          "text": "Cuando Kandata se hundió como una piedra hasta el fondo del Estanque de Sangre, el Buda comenzó a pasear de nuevo con una expresión triste en el rostro.",
-          "translationRu": "Когда Кандата камнем ушёл на дно Пруда Крови, Будда снова начал прогуливаться с печальным выражением лица.",
-          "original": "and when Kandata sank like a stone to the bottom of the Pond of Blood, he began to saunter again with a sad expression on his face."
+          "id": "sent-196",
+          "text": "el Buda observó de cerca todo lo que había pasado.",
+          "translationRu": "Будда внимательно наблюдал за всем, что произошло.",
+          "original": "the Buddha watched closely all that happened"
+        },
+        {
+          "id": "sent-197",
+          "text": "Cuando Kandata se hundió como una piedra",
+          "translationRu": "Когда Кандата камнем ушёл",
+          "original": "and when Kandata sank like a stone"
+        },
+        {
+          "id": "sent-198",
+          "text": "hasta el fondo del Estanque de Sangre,",
+          "translationRu": "на дно Пруда Крови,",
+          "original": "to the bottom of the Pond of Blood,"
+        },
+        {
+          "id": "sent-199",
+          "text": "el Buda comenzó a pasear de nuevo",
+          "translationRu": "Будда снова начал прогуливаться",
+          "original": "he began to saunter again"
+        },
+        {
+          "id": "sent-200",
+          "text": "con una expresión triste en el rostro.",
+          "translationRu": "с печальным выражением лица.",
+          "original": "with a sad expression on his face."
         }
       ]
     },
@@ -623,16 +1362,52 @@
       "id": "para-032",
       "sentences": [
         {
-          "id": "sent-077",
-          "text": "Sin duda el frío corazón de Kandata, que solo quería salvarse a sí mismo del Infierno, y el hecho de que había recibido su castigo y vuelto a caer en el Infierno, debían de parecer muy tristes a los ojos del Buda.",
-          "translationRu": "Несомненно, холодное сердце Кандаты, желавшего спастись из Ада лишь самому, и то, что он получил заслуженное наказание и снова упал в Ад, должны были казаться Будде очень жалкими.",
-          "original": "Doubtless Kandata's cold heart that would have saved only himself from Hell and his having received proper punishment and fallen back into Hell, had appeared to the Buddha's eyes most pitiful."
+          "id": "sent-201",
+          "text": "Sin duda",
+          "translationRu": "Несомненно,",
+          "original": "Doubtless"
         },
         {
-          "id": "sent-078",
-          "text": "Pero a los lotos del estanque de lotos del Paraíso todo eso no les importaba nada en absoluto.",
-          "translationRu": "Но лотосам в лотосовом пруду Рая всё это было совершенно безразлично.",
-          "original": "But the lotuses in the lotus pond of Paradise cared nothing at all about such things."
+          "id": "sent-202",
+          "text": "el frío corazón de Kandata,",
+          "translationRu": "холодное сердце Кандаты,",
+          "original": "Kandata's cold heart"
+        },
+        {
+          "id": "sent-203",
+          "text": "que solo quería salvarse a sí mismo del Infierno,",
+          "translationRu": "желавшего спастись из Ада лишь самому,",
+          "original": "that would have saved only himself from Hell"
+        },
+        {
+          "id": "sent-204",
+          "text": "y el hecho de que había recibido su castigo",
+          "translationRu": "и то, что он получил заслуженное наказание",
+          "original": "and his having received proper punishment"
+        },
+        {
+          "id": "sent-205",
+          "text": "y vuelto a caer en el Infierno,",
+          "translationRu": "и снова упал в Ад,",
+          "original": "and fallen back into Hell,"
+        },
+        {
+          "id": "sent-206",
+          "text": "debían de parecer muy tristes a los ojos del Buda.",
+          "translationRu": "должны были казаться Будде очень жалкими.",
+          "original": "had appeared to the Buddha's eyes most pitiful."
+        },
+        {
+          "id": "sent-207",
+          "text": "Pero a los lotos del estanque de lotos del Paraíso",
+          "translationRu": "Но лотосам в лотосовом пруду Рая",
+          "original": "But the lotuses in the lotus pond of Paradise"
+        },
+        {
+          "id": "sent-208",
+          "text": "todo eso no les importaba nada en absoluto.",
+          "translationRu": "всё это было совершенно безразлично.",
+          "original": "cared nothing at all about such things."
         }
       ]
     },
@@ -640,16 +1415,39 @@
       "id": "para-033",
       "sentences": [
         {
-          "id": "sent-079",
-          "text": "Las flores blancas como perlas se mecían alrededor de los pies del Buda.",
-          "translationRu": "Белые, как жемчуг, цветы покачивались у ног Будды.",
-          "original": "The pearly white flowers were swaying about the Buddha's feet."
+          "id": "sent-209",
+          "text": "Las flores blancas como perlas",
+          "translationRu": "Белые, как жемчуг, цветы",
+          "original": "The pearly white flowers"
         },
         {
-          "id": "sent-080",
-          "text": "Mientras se mecían, los pistilos dorados de sus centros llenaban sin cesar el aire con una fragancia indescriptible.",
-          "translationRu": "Покачиваясь, золотые пестики в их центрах беспрерывно наполняли воздух невыразимым ароматом.",
-          "original": "As they swayed, from the golden pistils in their centers, their ineffable fragrance ceaselessly filled all the air."
+          "id": "sent-210",
+          "text": "se mecían alrededor de los pies del Buda.",
+          "translationRu": "покачивались у ног Будды.",
+          "original": "were swaying about the Buddha's feet."
+        },
+        {
+          "id": "sent-211",
+          "text": "Mientras se mecían,",
+          "translationRu": "Покачиваясь,",
+          "original": "As they swayed,"
+        },
+        {
+          "id": "sent-212",
+          "text": "los pistilos dorados de sus centros",
+          "translationRu": "золотые пестики в их центрах",
+          "original": "from the golden pistils in their centers,"
+        },
+        {
+          "id": "sent-213",
+          "text": "llenaban sin cesar el aire",
+          "translationRu": "беспрерывно наполняли воздух",
+          "original": "their ineffable fragrance ceaselessly filled all the air."
+        },
+        {
+          "id": "sent-214",
+          "text": "con una fragancia indescriptible.",
+          "translationRu": "невыразимым ароматом."
         }
       ]
     },
@@ -657,7 +1455,7 @@
       "id": "para-034",
       "sentences": [
         {
-          "id": "sent-081",
+          "id": "sent-215",
           "text": "Era cerca del mediodía en el Paraíso.",
           "translationRu": "В Раю приближался полдень.",
           "original": "It was near noon in Paradise."

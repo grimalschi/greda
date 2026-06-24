@@ -13,15 +13,62 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Los pasajeros que llegaron a Roma en el tren nocturno tuvieron que esperar en la estación de Fabriano hasta el amanecer.",
-          "translationRu": "Пассажиры, прибывшие в Рим на ночном поезде, должны были ждать на станции Фабриано до рассвета.",
-          "original": "I passeggieri arrivati a Roma col treno notturno alla stazione di Fabriano dovettero aspettar l'alba"
+          "text": "Los pasajeros",
+          "translationRu": "Пассажиры,",
+          "original": "I passeggieri"
         },
         {
           "id": "sent-002",
-          "text": "Solo al amanecer pudieron continuar su viaje en un tren pequeño y desvencijado que subía lentamente por las Marcas.",
-          "translationRu": "Лишь на рассвете им удалось продолжить путь на маленьком, дребезжащем поезде, который медленно поднимался по Марке.",
-          "original": "per proseguire in un lento trenino sgangherato il loro viaggio su per le Marche"
+          "text": "que llegaron a Roma",
+          "translationRu": "прибывшие в Рим",
+          "original": "arrivati a Roma"
+        },
+        {
+          "id": "sent-003",
+          "text": "en el tren nocturno",
+          "translationRu": "на ночном поезде,",
+          "original": "col treno notturno"
+        },
+        {
+          "id": "sent-004",
+          "text": "tuvieron que esperar",
+          "translationRu": "должны были ждать"
+        },
+        {
+          "id": "sent-005",
+          "text": "en la estación de Fabriano",
+          "translationRu": "на станции Фабриано",
+          "original": "alla stazione di Fabriano dovettero aspettar"
+        },
+        {
+          "id": "sent-006",
+          "text": "hasta el amanecer.",
+          "translationRu": "до рассвета.",
+          "original": "l'alba"
+        },
+        {
+          "id": "sent-007",
+          "text": "Solo al amanecer pudieron continuar su viaje",
+          "translationRu": "Лишь на рассвете им удалось продолжить путь",
+          "original": "per proseguire"
+        },
+        {
+          "id": "sent-008",
+          "text": "en un tren pequeño y desvencijado",
+          "translationRu": "на маленьком, дребезжащем поезде,",
+          "original": "in un lento trenino sgangherato"
+        },
+        {
+          "id": "sent-009",
+          "text": "que subía lentamente",
+          "translationRu": "который медленно поднимался",
+          "original": "il loro viaggio"
+        },
+        {
+          "id": "sent-010",
+          "text": "por las Marcas.",
+          "translationRu": "по Марке.",
+          "original": "su per le Marche"
         }
       ]
     },
@@ -29,16 +76,46 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-003",
-          "text": "Al amanecer, en un vagón de segunda clase sucio, ya ocupado por cinco viajeros, subieron casi a la fuerza a una señora.",
-          "translationRu": "На рассвете в грязный вагон второго класса, где уже сидели пятеро пассажиров, почти силой занесли одну даму.",
-          "original": "All'alba, in una lercia vettura di seconda classe, nella quale avevano già preso posto cinque viaggiatori, fu portata quasi di peso una signora"
+          "id": "sent-011",
+          "text": "Al amanecer,",
+          "translationRu": "На рассвете",
+          "original": "All'alba,"
         },
         {
-          "id": "sent-004",
-          "text": "Estaba tan hundida en su dolor que no podía mantenerse de pie.",
-          "translationRu": "Она была так поглощена своим горем, что не могла стоять на ногах.",
-          "original": "così abbandonata nel cordoglio che non si reggeva più in piedi"
+          "id": "sent-012",
+          "text": "en un vagón de segunda clase sucio,",
+          "translationRu": "в грязный вагон второго класса,",
+          "original": "in una lercia vettura di seconda classe,"
+        },
+        {
+          "id": "sent-013",
+          "text": "ya ocupado por cinco viajeros,",
+          "translationRu": "где уже сидели пятеро пассажиров,",
+          "original": "nella quale avevano già preso posto cinque viaggiatori,"
+        },
+        {
+          "id": "sent-014",
+          "text": "subieron casi a la fuerza",
+          "translationRu": "почти силой занесли",
+          "original": "fu portata quasi di peso"
+        },
+        {
+          "id": "sent-015",
+          "text": "a una señora.",
+          "translationRu": "одну даму.",
+          "original": "una signora"
+        },
+        {
+          "id": "sent-016",
+          "text": "Estaba tan hundida en su dolor",
+          "translationRu": "Она была так поглощена своим горем,",
+          "original": "così abbandonata nel cordoglio"
+        },
+        {
+          "id": "sent-017",
+          "text": "que no podía mantenerse de pie.",
+          "translationRu": "что не могла стоять на ногах.",
+          "original": "che non si reggeva più in piedi"
         }
       ]
     },
@@ -46,16 +123,57 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-005",
-          "text": "La luz fría y cruda del amanecer, en aquel vagón pequeño y lleno de olor a humo, hizo que todo pareciera una pesadilla a los cinco viajeros.",
-          "translationRu": "Холодный, резкий рассветный свет в том тесном, пропахшем дымом вагоне превратил всё в кошмар для пятерых пассажиров.",
-          "original": "Lo squallor crudo della prima luce, nell'angustia opprimente di quella sudicia vettura intanfata di fumo, fece apparire come un incubo ai cinque viaggiatori"
+          "id": "sent-018",
+          "text": "La luz fría y cruda del amanecer,",
+          "translationRu": "Холодный, резкий рассветный свет",
+          "original": "Lo squallor crudo della prima luce,"
         },
         {
-          "id": "sent-006",
-          "text": "Habían pasado la noche sin dormir y miraban con horror aquel bulto de ropa torpe y lastimoso que subían con resoplidos y gemidos desde el andén.",
-          "translationRu": "Они провели ночь без сна и с ужасом смотрели на этот нескладный, жалкий ком одежды, который втаскивали с кряхтением и стонами с перрона.",
-          "original": "che avevano passato insonne la notte, tutto quel viluppo di panni, goffo e pietoso, issato con sbuffi e gemiti su dalla banchina e poi su dal montatojo"
+          "id": "sent-019",
+          "text": "en aquel vagón pequeño y lleno de olor a humo,",
+          "translationRu": "в том тесном, пропахшем дымом вагоне",
+          "original": "nell'angustia opprimente di quella sudicia vettura intanfata di fumo,"
+        },
+        {
+          "id": "sent-020",
+          "text": "hizo que todo pareciera una pesadilla",
+          "translationRu": "превратил всё в кошмар",
+          "original": "fece apparire come un incubo"
+        },
+        {
+          "id": "sent-021",
+          "text": "a los cinco viajeros.",
+          "translationRu": "для пятерых пассажиров.",
+          "original": "ai cinque viaggiatori"
+        },
+        {
+          "id": "sent-022",
+          "text": "Habían pasado la noche sin dormir",
+          "translationRu": "Они провели ночь без сна",
+          "original": "che avevano passato insonne la notte,"
+        },
+        {
+          "id": "sent-023",
+          "text": "y miraban con horror",
+          "translationRu": "и с ужасом смотрели на"
+        },
+        {
+          "id": "sent-024",
+          "text": "aquel bulto de ropa torpe y lastimoso",
+          "translationRu": "этот нескладный, жалкий ком одежды,",
+          "original": "tutto quel viluppo di panni, goffo e pietoso,"
+        },
+        {
+          "id": "sent-025",
+          "text": "que subían con resoplidos y gemidos",
+          "translationRu": "который втаскивали с кряхтением и стонами",
+          "original": "issato con sbuffi e gemiti su"
+        },
+        {
+          "id": "sent-026",
+          "text": "desde el andén.",
+          "translationRu": "с перрона.",
+          "original": "dalla banchina e poi su dal montatojo"
         }
       ]
     },
@@ -63,22 +181,58 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-007",
-          "text": "Los resoplidos y gemidos que acompañaban ese esfuerzo eran de su marido.",
-          "translationRu": "Кряхтение и стоны, сопровождавшие эти усилия, принадлежали её мужу.",
-          "original": "Gli sbuffi e i gemiti che accompagnavano e quasi sostenevano, da dietro, lo stento, erano del marito"
+          "id": "sent-027",
+          "text": "Los resoplidos y gemidos",
+          "translationRu": "Кряхтение и стоны,",
+          "original": "Gli sbuffi e i gemiti"
         },
         {
-          "id": "sent-008",
-          "text": "Por fin apareció él: delgado, demacrado, pálido como un muerto.",
-          "translationRu": "Наконец появился и он: худой, изможденный, бледный как мертвец.",
-          "original": "alla fine spuntò, gracile e sparuto, pallido come un morto"
+          "id": "sent-028",
+          "text": "que acompañaban ese esfuerzo",
+          "translationRu": "сопровождавшие эти усилия,",
+          "original": "che accompagnavano e quasi sostenevano, da dietro, lo stento,"
         },
         {
-          "id": "sent-009",
-          "text": "Sin embargo, sus ojos pequeños estaban muy vivos y agudos en medio de esa palidez.",
-          "translationRu": "Однако его маленькие глаза были очень живыми и острыми на фоне той бледности.",
-          "original": "ma con gli occhietti vivi vivi, aguzzi nel pallore"
+          "id": "sent-029",
+          "text": "eran de su marido.",
+          "translationRu": "принадлежали её мужу.",
+          "original": "erano del marito"
+        },
+        {
+          "id": "sent-030",
+          "text": "Por fin apareció él:",
+          "translationRu": "Наконец появился и он:",
+          "original": "alla fine spuntò,"
+        },
+        {
+          "id": "sent-031",
+          "text": "delgado, demacrado,",
+          "translationRu": "худой, изможденный,",
+          "original": "gracile e sparuto,"
+        },
+        {
+          "id": "sent-032",
+          "text": "pálido como un muerto.",
+          "translationRu": "бледный как мертвец.",
+          "original": "pallido come un morto"
+        },
+        {
+          "id": "sent-033",
+          "text": "Sin embargo,",
+          "translationRu": "Однако",
+          "original": "ma"
+        },
+        {
+          "id": "sent-034",
+          "text": "sus ojos pequeños estaban muy vivos y agudos",
+          "translationRu": "его маленькие глаза были очень живыми и острыми",
+          "original": "con gli occhietti vivi vivi, aguzzi"
+        },
+        {
+          "id": "sent-035",
+          "text": "en medio de esa palidez.",
+          "translationRu": "на фоне той бледности.",
+          "original": "nel pallore"
         }
       ]
     },
@@ -86,22 +240,55 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-010",
-          "text": "El dolor de ver a su mujer en ese estado no le impedía ser cortés, aunque estaba muy incómodo.",
-          "translationRu": "Боль от вида жены в таком состоянии не мешала ему быть вежливым, хотя он чувствовал себя очень неловко.",
-          "original": "L'afflizione di veder la moglie in quello stato non gl'impediva tuttavia di mostrarsi, pur nel grave imbarazzo, cerimonioso"
+          "id": "sent-036",
+          "text": "El dolor de ver a su mujer en ese estado",
+          "translationRu": "Боль от вида жены в таком состоянии",
+          "original": "L'afflizione di veder la moglie in quello stato"
         },
         {
-          "id": "sent-011",
-          "text": "El esfuerzo de subir a su mujer lo había agotado y también lo había irritado un poco.",
-          "translationRu": "Усилие по подъёму жены в вагон истощило его и немного раздражило.",
-          "original": "lo sforzo fatto lo aveva anche, evidentemente, un po' stizzito"
+          "id": "sent-037",
+          "text": "no le impedía ser cortés,",
+          "translationRu": "не мешала ему быть вежливым,",
+          "original": "non gl'impediva tuttavia di mostrarsi, pur nel grave imbarazzo, cerimonioso"
         },
         {
-          "id": "sent-012",
-          "text": "Quizás tenía miedo de no haber demostrado suficiente fuerza delante de los cinco viajeros.",
-          "translationRu": "Возможно, он боялся, что не проявил достаточно силы на глазах у пятерых пассажиров.",
-          "original": "forse per timore di non aver dato prova davanti a quei cinque viaggiatori di bastante forza a sorreggere e introdurre nella vettura il pesante fardello di quella moglie là"
+          "id": "sent-038",
+          "text": "aunque estaba muy incómodo.",
+          "translationRu": "хотя он чувствовал себя очень неловко."
+        },
+        {
+          "id": "sent-039",
+          "text": "El esfuerzo de subir a su mujer",
+          "translationRu": "Усилие по подъёму жены в вагон",
+          "original": "lo sforzo fatto"
+        },
+        {
+          "id": "sent-040",
+          "text": "lo había agotado",
+          "translationRu": "истощило его"
+        },
+        {
+          "id": "sent-041",
+          "text": "y también lo había irritado un poco.",
+          "translationRu": "и немного раздражило.",
+          "original": "lo aveva anche, evidentemente, un po' stizzito"
+        },
+        {
+          "id": "sent-042",
+          "text": "Quizás tenía miedo",
+          "translationRu": "Возможно, он боялся,",
+          "original": "forse per timore"
+        },
+        {
+          "id": "sent-043",
+          "text": "de no haber demostrado suficiente fuerza",
+          "translationRu": "что не проявил достаточно силы",
+          "original": "di non aver dato prova davanti a quei cinque viaggiatori di bastante forza a sorreggere e introdurre nella vettura il pesante fardello di quella moglie là"
+        },
+        {
+          "id": "sent-044",
+          "text": "delante de los cinco viajeros.",
+          "translationRu": "на глазах у пятерых пассажиров."
         }
       ]
     },
@@ -109,16 +296,58 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-013",
-          "text": "Después de sentarse, pidió disculpas y dio las gracias a los compañeros de viaje que se habían apartado para dejar sentar enseguida a la señora.",
-          "translationRu": "Усевшись, он извинился и поблагодарил попутчиков, которые подвинулись, чтобы сразу усадить страдающую даму.",
-          "original": "Preso posto, però, dopo aver porto scusa e ringraziamenti ai compagni di viaggio che si erano scostati per far subito sedere la signora sofferente"
+          "id": "sent-045",
+          "text": "Después de sentarse,",
+          "translationRu": "Усевшись,",
+          "original": "Preso posto, però,"
         },
         {
-          "id": "sent-014",
-          "text": "Luego pudo ser atento también con ella: le arregló la ropa y le bajó el cuello de la mantilla que se le había subido hasta la nariz.",
-          "translationRu": "Затем он смог уделить внимание и жене: поправил ей одежду и опустил воротник мантильи, который задрался до самого носа.",
-          "original": "potè mostrarsi cerimonioso e premuroso anche con lei e le rassettò le vesti addosso e il bavero della mantiglia che le era salito sul naso"
+          "id": "sent-046",
+          "text": "pidió disculpas y dio las gracias",
+          "translationRu": "он извинился и поблагодарил",
+          "original": "dopo aver porto scusa e ringraziamenti"
+        },
+        {
+          "id": "sent-047",
+          "text": "a los compañeros de viaje",
+          "translationRu": "попутчиков,",
+          "original": "ai compagni di viaggio"
+        },
+        {
+          "id": "sent-048",
+          "text": "que se habían apartado",
+          "translationRu": "которые подвинулись,",
+          "original": "che si erano scostati"
+        },
+        {
+          "id": "sent-049",
+          "text": "para dejar sentar enseguida a la señora.",
+          "translationRu": "чтобы сразу усадить страдающую даму.",
+          "original": "per far subito sedere la signora sofferente"
+        },
+        {
+          "id": "sent-050",
+          "text": "Luego pudo ser atento también con ella:",
+          "translationRu": "Затем он смог уделить внимание и жене:",
+          "original": "potè mostrarsi cerimonioso e premuroso anche con lei"
+        },
+        {
+          "id": "sent-051",
+          "text": "le arregló la ropa",
+          "translationRu": "поправил ей одежду",
+          "original": "e le rassettò le vesti addosso"
+        },
+        {
+          "id": "sent-052",
+          "text": "y le bajó el cuello de la mantilla",
+          "translationRu": "и опустил воротник мантильи,",
+          "original": "e il bavero della mantiglia"
+        },
+        {
+          "id": "sent-053",
+          "text": "que se le había subido hasta la nariz.",
+          "translationRu": "который задрался до самого носа.",
+          "original": "che le era salito sul naso"
         }
       ]
     },
@@ -126,7 +355,7 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-015",
+          "id": "sent-054",
           "text": "— ¿Estás bien, querida?",
           "translationRu": "— Тебе хорошо, дорогая?",
           "original": "— Stai bene, cara?"
@@ -137,22 +366,58 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-016",
-          "text": "La mujer no solo no le respondió, sino que con irritación se subió otra vez la mantilla, más arriba aún, hasta cubrirse toda la cara.",
-          "translationRu": "Жена не только не ответила ему, но с раздражением снова натянула мантилью — ещё выше, до самого лица.",
-          "original": "La moglie, non solo non gli rispose, ma con ira si tirò su di nuovo la mantiglia — più su, fino a nascondersi tutta la faccia"
+          "id": "sent-055",
+          "text": "La mujer no solo no le respondió,",
+          "translationRu": "Жена не только не ответила ему,",
+          "original": "La moglie, non solo non gli rispose,"
         },
         {
-          "id": "sent-017",
-          "text": "Él entonces sonrió con tristeza y suspiró:",
-          "translationRu": "Он тогда грустно улыбнулся и вздохнул:",
-          "original": "Egli allora sorrise afflitto; poi sospirò"
+          "id": "sent-056",
+          "text": "sino que con irritación",
+          "translationRu": "но с раздражением",
+          "original": "ma con ira"
         },
         {
-          "id": "sent-018",
-          "text": "— Eh... ¡qué mundo de penas!",
-          "translationRu": "— Эх... какой мир страданий!",
-          "original": "— Eh.... mondo di guai!..."
+          "id": "sent-057",
+          "text": "se subió otra vez la mantilla,",
+          "translationRu": "снова натянула мантилью —",
+          "original": "si tirò su di nuovo la mantiglia —"
+        },
+        {
+          "id": "sent-058",
+          "text": "más arriba aún,",
+          "translationRu": "ещё выше,",
+          "original": "più su,"
+        },
+        {
+          "id": "sent-059",
+          "text": "hasta cubrirse toda la cara.",
+          "translationRu": "до самого лица.",
+          "original": "fino a nascondersi tutta la faccia"
+        },
+        {
+          "id": "sent-060",
+          "text": "Él entonces sonrió con tristeza",
+          "translationRu": "Он тогда грустно улыбнулся",
+          "original": "Egli allora sorrise afflitto;"
+        },
+        {
+          "id": "sent-061",
+          "text": "y suspiró:",
+          "translationRu": "и вздохнул:",
+          "original": "poi sospirò"
+        },
+        {
+          "id": "sent-062",
+          "text": "— Eh...",
+          "translationRu": "— Эх...",
+          "original": "— Eh...."
+        },
+        {
+          "id": "sent-063",
+          "text": "¡qué mundo de penas!",
+          "translationRu": "какой мир страданий!",
+          "original": "mondo di guai!..."
         }
       ]
     },
@@ -160,76 +425,182 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-019",
-          "text": "Quiso explicar a los compañeros de viaje que su mujer merecía comprensión.",
-          "translationRu": "Он захотел объяснить попутчикам, что жена заслуживает понимания.",
-          "original": "E volle spiegare ai compagni di viaggio che la moglie era da compatire"
+          "id": "sent-064",
+          "text": "Quiso explicar a los compañeros de viaje",
+          "translationRu": "Он захотел объяснить попутчикам,",
+          "original": "E volle spiegare ai compagni di viaggio"
         },
         {
-          "id": "sent-020",
-          "text": "Estaba así porque su único hijo tenía que salir pronto para la guerra.",
-          "translationRu": "Она была в таком состоянии потому, что их единственный сын должен был вскоре уйти на войну.",
-          "original": "perchè si trovava in quello stato per l'improvvisa e imminente partenza dell'unico figliuolo per la guerra"
+          "id": "sent-065",
+          "text": "que su mujer merecía comprensión.",
+          "translationRu": "что жена заслуживает понимания.",
+          "original": "che la moglie era da compatire"
         },
         {
-          "id": "sent-021",
-          "text": "Dijo que desde hacía veinte años vivían solo para ese hijo.",
-          "translationRu": "Он сказал, что уже двадцать лет они жили только ради этого сына.",
-          "original": "Disse che da vent'anni non vivevano più che per quell'unico figliuolo"
+          "id": "sent-066",
+          "text": "Estaba así porque",
+          "translationRu": "Она была в таком состоянии потому, что",
+          "original": "perchè si trovava in quello stato per"
         },
         {
-          "id": "sent-022",
-          "text": "Para no dejarlo solo cuando empezó los estudios universitarios, se habían mudado de Sulmona a Roma el año anterior.",
-          "translationRu": "Чтобы не оставлять его одного, когда тот начал учёбу в университете, они переехали из Сульмоны в Рим год назад.",
-          "original": "Per non lasciarlo solo, l'anno avanti, dovendo egli intraprendere gli studii universitari, s'erano trasferiti da Sulmona a Roma"
+          "id": "sent-067",
+          "text": "su único hijo",
+          "translationRu": "их единственный сын"
         },
         {
-          "id": "sent-023",
-          "text": "Cuando estalló la guerra, el hijo fue llamado a filas.",
-          "translationRu": "Когда началась война, сын был призван в армию.",
-          "original": "Scoppiata la guerra, il figliuolo, chiamato sotto le armi"
+          "id": "sent-068",
+          "text": "tenía que salir pronto para la guerra.",
+          "translationRu": "должен был вскоре уйти на войну.",
+          "original": "l'improvvisa e imminente partenza dell'unico figliuolo per la guerra"
         },
         {
-          "id": "sent-024",
+          "id": "sent-069",
+          "text": "Dijo que",
+          "translationRu": "Он сказал, что",
+          "original": "Disse che"
+        },
+        {
+          "id": "sent-070",
+          "text": "desde hacía veinte años",
+          "translationRu": "уже двадцать лет",
+          "original": "da vent'anni"
+        },
+        {
+          "id": "sent-071",
+          "text": "vivían solo para ese hijo.",
+          "translationRu": "они жили только ради этого сына.",
+          "original": "non vivevano più che per quell'unico figliuolo"
+        },
+        {
+          "id": "sent-072",
+          "text": "Para no dejarlo solo",
+          "translationRu": "Чтобы не оставлять его одного,",
+          "original": "Per non lasciarlo solo,"
+        },
+        {
+          "id": "sent-073",
+          "text": "cuando empezó los estudios universitarios,",
+          "translationRu": "когда тот начал учёбу в университете,",
+          "original": "l'anno avanti, dovendo egli intraprendere gli studii universitari,"
+        },
+        {
+          "id": "sent-074",
+          "text": "se habían mudado de Sulmona a Roma",
+          "translationRu": "они переехали из Сульмоны в Рим",
+          "original": "s'erano trasferiti da Sulmona a Roma"
+        },
+        {
+          "id": "sent-075",
+          "text": "el año anterior.",
+          "translationRu": "год назад."
+        },
+        {
+          "id": "sent-076",
+          "text": "Cuando estalló la guerra,",
+          "translationRu": "Когда началась война,",
+          "original": "Scoppiata la guerra,"
+        },
+        {
+          "id": "sent-077",
+          "text": "el hijo fue llamado a filas.",
+          "translationRu": "сын был призван в армию.",
+          "original": "il figliuolo, chiamato sotto le armi"
+        },
+        {
+          "id": "sent-078",
           "text": "Se inscribió en un curso acelerado para oficiales.",
           "translationRu": "Он записался на ускоренный офицерский курс.",
           "original": "s'era iscritto al corso accelerato degli allievi ufficiali"
         },
         {
-          "id": "sent-025",
-          "text": "Después de tres meses lo nombraron subteniente de infantería y lo asignaron al duodécimo regimiento, brigada Casale.",
-          "translationRu": "После трёх месяцев его произвели в подпоручики пехоты и приписали к двенадцатому полку, бригаде Казале.",
-          "original": "dopo tre mesi, nominato sottotenente di fanteria e assegnato al 12º reggimento, brigata Casale"
+          "id": "sent-079",
+          "text": "Después de tres meses",
+          "translationRu": "После трёх месяцев",
+          "original": "dopo tre mesi,"
         },
         {
-          "id": "sent-026",
+          "id": "sent-080",
+          "text": "lo nombraron subteniente de infantería",
+          "translationRu": "его произвели в подпоручики пехоты",
+          "original": "nominato sottotenente di fanteria"
+        },
+        {
+          "id": "sent-081",
+          "text": "y lo asignaron al duodécimo regimiento,",
+          "translationRu": "и приписали к двенадцатому полку,",
+          "original": "e assegnato al 12º reggimento,"
+        },
+        {
+          "id": "sent-082",
+          "text": "brigada Casale.",
+          "translationRu": "бригаде Казале.",
+          "original": "brigata Casale"
+        },
+        {
+          "id": "sent-083",
           "text": "Fue a incorporarse al depósito en Macerata.",
           "translationRu": "Он отправился в расположение части в Мачерату.",
           "original": "era andato a raggiungere il deposito a Macerata"
         },
         {
-          "id": "sent-027",
-          "text": "Les había asegurado que se quedaría allí al menos un mes y medio para instruir a los reclutas.",
-          "translationRu": "Он заверил их, что останется там не менее полутора месяцев — для подготовки новобранцев.",
-          "original": "assicurando loro che sarebbe rimasto colà almeno un mese e mezzo per l'istruzione delle reclute"
+          "id": "sent-084",
+          "text": "Les había asegurado que",
+          "translationRu": "Он заверил их, что",
+          "original": "assicurando loro che"
         },
         {
-          "id": "sent-028",
-          "text": "Pero en cambio, después de solo tres días, lo mandaban al frente.",
-          "translationRu": "Но вместо этого, всего через три дня, его отправляли на фронт.",
-          "original": "ma ecco che, invece, dopo tre soli giorni lo mandavano al fronte"
+          "id": "sent-085",
+          "text": "se quedaría allí al menos un mes y medio",
+          "translationRu": "останется там не менее полутора месяцев —",
+          "original": "sarebbe rimasto colà almeno un mese e mezzo"
         },
         {
-          "id": "sent-029",
-          "text": "El día anterior habían recibido en Roma un telegrama que anunciaba esa salida inesperada.",
-          "translationRu": "Накануне они получили в Риме телеграмму, извещавшую об этом неожиданном отъезде.",
-          "original": "Avevano ricevuto a Roma il giorno avanti un telegramma che annunziava questa partenza a tradimento"
+          "id": "sent-086",
+          "text": "para instruir a los reclutas.",
+          "translationRu": "для подготовки новобранцев.",
+          "original": "per l'istruzione delle reclute"
         },
         {
-          "id": "sent-030",
-          "text": "Y ahora iban a despedirse de él, a verlo partir.",
-          "translationRu": "И теперь они ехали проститься с ним, посмотреть на его отъезд.",
-          "original": "E si recavano a salutarlo, a vederlo partire"
+          "id": "sent-087",
+          "text": "Pero en cambio,",
+          "translationRu": "Но вместо этого,",
+          "original": "ma ecco che, invece,"
+        },
+        {
+          "id": "sent-088",
+          "text": "después de solo tres días,",
+          "translationRu": "всего через три дня,",
+          "original": "dopo tre soli giorni"
+        },
+        {
+          "id": "sent-089",
+          "text": "lo mandaban al frente.",
+          "translationRu": "его отправляли на фронт.",
+          "original": "lo mandavano al fronte"
+        },
+        {
+          "id": "sent-090",
+          "text": "El día anterior habían recibido en Roma un telegrama",
+          "translationRu": "Накануне они получили в Риме телеграмму,",
+          "original": "Avevano ricevuto a Roma il giorno avanti un telegramma"
+        },
+        {
+          "id": "sent-091",
+          "text": "que anunciaba esa salida inesperada.",
+          "translationRu": "извещавшую об этом неожиданном отъезде.",
+          "original": "che annunziava questa partenza a tradimento"
+        },
+        {
+          "id": "sent-092",
+          "text": "Y ahora iban a despedirse de él,",
+          "translationRu": "И теперь они ехали проститься с ним,",
+          "original": "E si recavano a salutarlo,"
+        },
+        {
+          "id": "sent-093",
+          "text": "a verlo partir.",
+          "translationRu": "посмотреть на его отъезд.",
+          "original": "a vederlo partire"
         }
       ]
     },
@@ -237,46 +608,136 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-031",
-          "text": "La mujer, debajo de la mantilla, se agitó, se encogió, se retorció y gruñó varias veces como un animal salvaje.",
-          "translationRu": "Жена под мантильей металась, сжималась, корчилась и несколько раз рычала, как дикий зверь.",
-          "original": "La moglie sotto la mantiglia s'agitò, si restrinse, si contorse, rugliò anche più volte come una belva"
+          "id": "sent-094",
+          "text": "La mujer, debajo de la mantilla,",
+          "translationRu": "Жена под мантильей",
+          "original": "La moglie sotto la mantiglia"
         },
         {
-          "id": "sent-032",
-          "text": "Estaba exasperada por esa larga explicación de su marido.",
-          "translationRu": "Она была вне себя от этого долгого объяснения мужа.",
-          "original": "esasperata da quella lunga spiegazione del marito"
+          "id": "sent-095",
+          "text": "se agitó, se encogió, se retorció",
+          "translationRu": "металась, сжималась, корчилась",
+          "original": "s'agitò, si restrinse, si contorse,"
         },
         {
-          "id": "sent-033",
-          "text": "El marido no entendía que nadie les daría una compasión especial, pues les pasaba lo mismo que a tantos otros, quizás a todos.",
-          "translationRu": "Муж не понимал, что никто не окажет им особого сочувствия — то же самое происходило со многими другими, пожалуй, со всеми.",
-          "original": "il quale, non comprendendo che nessun compatimento speciale poteva venir loro per un caso che capitava a tanti, forse a tutti"
+          "id": "sent-096",
+          "text": "y gruñó varias veces",
+          "translationRu": "и несколько раз рычала,",
+          "original": "rugliò anche più volte"
         },
         {
-          "id": "sent-034",
-          "text": "Eso podría irritar a los cinco viajeros, que no parecían tan destrozados por el dolor como ella, aunque probablemente también ellos tenían uno o más hijos en la guerra.",
-          "translationRu": "Это могло лишь раздразнить пятерых пассажиров, которые не выглядели настолько сломленными горем, как она, хотя у них тоже, вероятно, были сыновья на войне.",
-          "original": "avrebbe anzi suscitato irritazione e sdegno in quei cinque viaggiatori, che non si mostravano abbattuti e vinti come lei nel cordoglio, pur avendo anch'essi probabilmente uno o più figliuoli alla guerra"
+          "id": "sent-097",
+          "text": "como un animal salvaje.",
+          "translationRu": "как дикий зверь.",
+          "original": "come una belva"
         },
         {
-          "id": "sent-035",
-          "text": "Quizás el marido hablaba a propósito, dando esos detalles del hijo único y la partida inesperada después de solo tres días.",
-          "translationRu": "Возможно, муж говорил намеренно, сообщая эти подробности о единственном сыне и неожиданном отъезде всего через три дня.",
-          "original": "Ma forse il marito parlava apposta e dava quei ragguagli del figlio unico e della partenza improvvisa dopo tre soli giorni"
+          "id": "sent-098",
+          "text": "Estaba exasperada",
+          "translationRu": "Она была вне себя",
+          "original": "esasperata"
         },
         {
-          "id": "sent-036",
-          "text": "Quería que los otros le repitieran a ella con fría dureza todo lo que él llevaba meses diciéndole.",
-          "translationRu": "Он хотел, чтобы другие повторили ей с холодной жёсткостью всё то, что он говорил ей уже несколько месяцев.",
-          "original": "perchè gli altri ripetessero a lei con dura freddezza tutte quelle parole ch'egli andava dicendo da alcuni mesi"
+          "id": "sent-099",
+          "text": "por esa larga explicación de su marido.",
+          "translationRu": "от этого долгого объяснения мужа.",
+          "original": "da quella lunga spiegazione del marito"
         },
         {
-          "id": "sent-037",
-          "text": "No tanto para consolarla, sino para convencerla de una resignación que para ella era imposible.",
-          "translationRu": "Не столько чтобы утешить её, сколько чтобы принудить к смирению, которое было для неё невозможным.",
-          "original": "e non tanto per confortarla e confortarsi, quanto per persuaderla dispettosamente a una rassegnazione per lei impossibile"
+          "id": "sent-100",
+          "text": "El marido no entendía",
+          "translationRu": "Муж не понимал,",
+          "original": "il quale, non comprendendo"
+        },
+        {
+          "id": "sent-101",
+          "text": "que nadie les daría una compasión especial,",
+          "translationRu": "что никто не окажет им особого сочувствия —",
+          "original": "che nessun compatimento speciale poteva venir loro"
+        },
+        {
+          "id": "sent-102",
+          "text": "pues les pasaba lo mismo que a tantos otros,",
+          "translationRu": "то же самое происходило со многими другими,",
+          "original": "per un caso che capitava a tanti,"
+        },
+        {
+          "id": "sent-103",
+          "text": "quizás a todos.",
+          "translationRu": "пожалуй, со всеми.",
+          "original": "forse a tutti"
+        },
+        {
+          "id": "sent-104",
+          "text": "Eso podría irritar a los cinco viajeros,",
+          "translationRu": "Это могло лишь раздразнить пятерых пассажиров,",
+          "original": "avrebbe anzi suscitato irritazione e sdegno in quei cinque viaggiatori,"
+        },
+        {
+          "id": "sent-105",
+          "text": "que no parecían tan destrozados por el dolor como ella,",
+          "translationRu": "которые не выглядели настолько сломленными горем, как она,",
+          "original": "che non si mostravano abbattuti e vinti come lei nel cordoglio,"
+        },
+        {
+          "id": "sent-106",
+          "text": "aunque probablemente también ellos tenían uno o más hijos en la guerra.",
+          "translationRu": "хотя у них тоже, вероятно, были сыновья на войне.",
+          "original": "pur avendo anch'essi probabilmente uno o più figliuoli alla guerra"
+        },
+        {
+          "id": "sent-107",
+          "text": "Quizás el marido hablaba a propósito,",
+          "translationRu": "Возможно, муж говорил намеренно,",
+          "original": "Ma forse il marito parlava apposta"
+        },
+        {
+          "id": "sent-108",
+          "text": "dando esos detalles del hijo único",
+          "translationRu": "сообщая эти подробности о единственном сыне",
+          "original": "e dava quei ragguagli del figlio unico"
+        },
+        {
+          "id": "sent-109",
+          "text": "y la partida inesperada después de solo tres días.",
+          "translationRu": "и неожиданном отъезде всего через три дня.",
+          "original": "e della partenza improvvisa dopo tre soli giorni"
+        },
+        {
+          "id": "sent-110",
+          "text": "Quería que los otros le repitieran a ella",
+          "translationRu": "Он хотел, чтобы другие повторили ей",
+          "original": "perchè gli altri ripetessero a lei"
+        },
+        {
+          "id": "sent-111",
+          "text": "con fría dureza",
+          "translationRu": "с холодной жёсткостью",
+          "original": "con dura freddezza"
+        },
+        {
+          "id": "sent-112",
+          "text": "todo lo que él llevaba meses diciéndole.",
+          "translationRu": "всё то, что он говорил ей уже несколько месяцев.",
+          "original": "tutte quelle parole ch'egli andava dicendo da alcuni mesi"
+        },
+        {
+          "id": "sent-113",
+          "text": "No tanto para consolarla,",
+          "translationRu": "Не столько чтобы утешить её,",
+          "original": "e non tanto per confortarla e confortarsi,"
+        },
+        {
+          "id": "sent-114",
+          "text": "sino para convencerla de una resignación",
+          "translationRu": "сколько чтобы принудить к смирению,",
+          "original": "quanto per persuaderla dispettosamente a una rassegnazione"
+        },
+        {
+          "id": "sent-115",
+          "text": "que para ella era imposible.",
+          "translationRu": "которое было для неё невозможным.",
+          "original": "per lei impossibile"
         }
       ]
     },
@@ -284,55 +745,91 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-038",
+          "id": "sent-116",
           "text": "Los otros recibieron la explicación con frialdad.",
           "translationRu": "Остальные приняли объяснение с холодностью.",
           "original": "Difatti quelli accolsero freddamente la spiegazione"
         },
         {
-          "id": "sent-039",
+          "id": "sent-117",
           "text": "Uno dijo:",
           "translationRu": "Один сказал:",
           "original": "Uno disse"
         },
         {
-          "id": "sent-040",
-          "text": "— ¡Pero dé gracias a Dios, señor, de que su hijo salga solo ahora!",
-          "translationRu": "— Но благодарите Бога, сеньор, что ваш сын уходит только сейчас!",
-          "original": "— Ma ringrazii Dio, caro signore, che parta soltanto adesso il suo figliuolo!"
+          "id": "sent-118",
+          "text": "— ¡Pero dé gracias a Dios, señor,",
+          "translationRu": "— Но благодарите Бога, сеньор,",
+          "original": "— Ma ringrazii Dio, caro signore,"
         },
         {
-          "id": "sent-041",
-          "text": "El mío está en el frente desde el primer día de la guerra.",
-          "translationRu": "Мой на фронте с первого дня войны.",
-          "original": "Il mio è già su dal primo giorno della guerra."
+          "id": "sent-119",
+          "text": "de que su hijo salga solo ahora!",
+          "translationRu": "что ваш сын уходит только сейчас!",
+          "original": "che parta soltanto adesso il suo figliuolo!"
         },
         {
-          "id": "sent-042",
+          "id": "sent-120",
+          "text": "El mío está en el frente",
+          "translationRu": "Мой на фронте",
+          "original": "Il mio è già su"
+        },
+        {
+          "id": "sent-121",
+          "text": "desde el primer día de la guerra.",
+          "translationRu": "с первого дня войны.",
+          "original": "dal primo giorno della guerra."
+        },
+        {
+          "id": "sent-122",
           "text": "Y ha sido herido, ¿sabe?",
           "translationRu": "И был ранен, знаете?",
           "original": "Ed è stato ferito, sa?"
         },
         {
-          "id": "sent-043",
+          "id": "sent-123",
           "text": "Ya dos veces.",
           "translationRu": "Уже дважды.",
           "original": "già due volte."
         },
         {
-          "id": "sent-044",
-          "text": "Por suerte, una vez en el brazo, otra en la pierna, levemente.",
-          "translationRu": "К счастью, один раз в руку, другой в ногу, легко.",
-          "original": "Per fortuna, una volta al braccio, una volta alla gamba, leggermente."
+          "id": "sent-124",
+          "text": "Por suerte,",
+          "translationRu": "К счастью,",
+          "original": "Per fortuna,"
         },
         {
-          "id": "sent-045",
-          "text": "Un mes de permiso y ¡fuera!",
-          "translationRu": "Месяц отпуска — и снова вперёд!",
-          "original": "Un mese di licenza, e via!"
+          "id": "sent-125",
+          "text": "una vez en el brazo,",
+          "translationRu": "один раз в руку,",
+          "original": "una volta al braccio,"
         },
         {
-          "id": "sent-046",
+          "id": "sent-126",
+          "text": "otra en la pierna,",
+          "translationRu": "другой в ногу,",
+          "original": "una volta alla gamba,"
+        },
+        {
+          "id": "sent-127",
+          "text": "levemente.",
+          "translationRu": "легко.",
+          "original": "leggermente."
+        },
+        {
+          "id": "sent-128",
+          "text": "Un mes de permiso",
+          "translationRu": "Месяц отпуска —",
+          "original": "Un mese di licenza,"
+        },
+        {
+          "id": "sent-129",
+          "text": "y ¡fuera!",
+          "translationRu": "и снова вперёд!",
+          "original": "e via!"
+        },
+        {
+          "id": "sent-130",
           "text": "De nuevo al frente.",
           "translationRu": "Снова на фронт.",
           "original": "Di nuovo al fronte."
@@ -343,19 +840,19 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-047",
+          "id": "sent-131",
           "text": "Otro dijo:",
           "translationRu": "Другой сказал:",
           "original": "Un altro disse"
         },
         {
-          "id": "sent-048",
+          "id": "sent-132",
           "text": "— Yo tengo dos hijos.",
           "translationRu": "— У меня двое сыновей.",
           "original": "— Ce n'ho due, io."
         },
         {
-          "id": "sent-049",
+          "id": "sent-133",
           "text": "Y tres nietos.",
           "translationRu": "И трое внуков.",
           "original": "E tre nipoti."
@@ -366,10 +863,16 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-050",
-          "text": "— Pero un hijo único... — intentó señalar el marido.",
-          "translationRu": "— Но единственный сын... — попытался возразить муж.",
-          "original": "— Eh, ma un figlio unico.... — si provò a far considerare il marito."
+          "id": "sent-134",
+          "text": "— Pero un hijo único...",
+          "translationRu": "— Но единственный сын...",
+          "original": "— Eh, ma un figlio unico...."
+        },
+        {
+          "id": "sent-135",
+          "text": "— intentó señalar el marido.",
+          "translationRu": "— попытался возразить муж.",
+          "original": "— si provò a far considerare il marito."
         }
       ]
     },
@@ -377,37 +880,91 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-051",
-          "text": "— ¡No es verdad, no diga eso! — lo interrumpió el otro con brusquedad.",
-          "translationRu": "— Неправда, не говорите этого! — резко прервал его тот.",
-          "original": "— Non è vero, non lo dica! — lo interruppe quello sgarbatamente."
+          "id": "sent-136",
+          "text": "— ¡No es verdad, no diga eso!",
+          "translationRu": "— Неправда, не говорите этого!",
+          "original": "— Non è vero, non lo dica!"
         },
         {
-          "id": "sent-052",
-          "text": "— A un hijo único se le puede mimar más, pero no se le quiere más.",
-          "translationRu": "— Единственного сына можно больше баловать, но любят его не сильнее.",
-          "original": "— S'avvizia un figlio unico, ma non s'ama mica di più!"
+          "id": "sent-137",
+          "text": "— lo interrumpió el otro con brusquedad.",
+          "translationRu": "— резко прервал его тот.",
+          "original": "— lo interruppe quello sgarbatamente."
         },
         {
-          "id": "sent-053",
-          "text": "Un trozo de pan, cuando se tienen varios hijos, se reparte entre todos; eso está bien.",
-          "translationRu": "Кусок хлеба, когда детей несколько, делят между всеми — это понятно.",
-          "original": "Un pezzo di pane, quando s'hanno più figliuoli, tanto a ciascuno, va bene"
+          "id": "sent-138",
+          "text": "— A un hijo único se le puede mimar más,",
+          "translationRu": "— Единственного сына можно больше баловать,",
+          "original": "— S'avvizia un figlio unico,"
         },
         {
-          "id": "sent-054",
-          "text": "Pero el amor paterno no se divide así: a cada hijo un padre le da todo lo que es capaz de dar.",
-          "translationRu": "Но отцовская любовь не делится так: каждому сыну отец отдаёт всё, на что способен.",
-          "original": "ma non l'amore paterno: a ciascun figliuolo un padre dà tutto quello di cui è capace."
+          "id": "sent-139",
+          "text": "pero no se le quiere más.",
+          "translationRu": "но любят его не сильнее.",
+          "original": "ma non s'ama mica di più!"
         },
         {
-          "id": "sent-055",
-          "text": "Y si yo sufro ahora, no sufro la mitad por uno y la mitad por el otro.",
-          "translationRu": "И если я страдаю сейчас, я страдаю не наполовину за одного и наполовину за другого.",
-          "original": "E s'io peno adesso, non peno metà per l'uno, metà per l'altro"
+          "id": "sent-140",
+          "text": "Un trozo de pan,",
+          "translationRu": "Кусок хлеба,",
+          "original": "Un pezzo di pane,"
         },
         {
-          "id": "sent-056",
+          "id": "sent-141",
+          "text": "cuando se tienen varios hijos,",
+          "translationRu": "когда детей несколько,",
+          "original": "quando s'hanno più figliuoli,"
+        },
+        {
+          "id": "sent-142",
+          "text": "se reparte entre todos;",
+          "translationRu": "делят между всеми —",
+          "original": "tanto a ciascuno,"
+        },
+        {
+          "id": "sent-143",
+          "text": "eso está bien.",
+          "translationRu": "это понятно.",
+          "original": "va bene"
+        },
+        {
+          "id": "sent-144",
+          "text": "Pero el amor paterno no se divide así:",
+          "translationRu": "Но отцовская любовь не делится так:",
+          "original": "ma non l'amore paterno:"
+        },
+        {
+          "id": "sent-145",
+          "text": "a cada hijo un padre le da",
+          "translationRu": "каждому сыну отец отдаёт",
+          "original": "a ciascun figliuolo un padre dà"
+        },
+        {
+          "id": "sent-146",
+          "text": "todo lo que es capaz de dar.",
+          "translationRu": "всё, на что способен.",
+          "original": "tutto quello di cui è capace."
+        },
+        {
+          "id": "sent-147",
+          "text": "Y si yo sufro ahora,",
+          "translationRu": "И если я страдаю сейчас,",
+          "original": "E s'io peno adesso,"
+        },
+        {
+          "id": "sent-148",
+          "text": "no sufro la mitad por uno",
+          "translationRu": "я страдаю не наполовину за одного",
+          "original": "non peno metà per l'uno,"
+        },
+        {
+          "id": "sent-149",
+          "text": "y la mitad por el otro.",
+          "translationRu": "и наполовину за другого.",
+          "original": "metà per l'altro"
+        },
+        {
+          "id": "sent-150",
           "text": "Sufro por dos.",
           "translationRu": "Я страдаю вдвойне.",
           "original": "peno per due."
@@ -418,19 +975,72 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-057",
-          "text": "— Es verdad, sí, tiene razón — admitió el marido con una sonrisa tímida, llena de pena e incomodidad.",
-          "translationRu": "— Это правда, да, вы правы, — признал муж с робкой улыбкой, полной горя и смущения.",
-          "original": "— È vero, sì, quest'è vero, — ammise con un sorriso timido, pietoso e impacciato il marito."
+          "id": "sent-151",
+          "text": "— Es verdad, sí, tiene razón",
+          "translationRu": "— Это правда, да, вы правы, —",
+          "original": "— È vero, sì, quest'è vero,"
         },
         {
-          "id": "sent-058",
-          "text": "— Pero mire... hablamos en teoría, y pedimos que todo salga bien para todos... pero suponga el caso... no el suyo, por favor... el caso de un padre que tenga varios hijos en la guerra y pierda uno...",
-          "translationRu": "— Но посмотрите... мы говорим в теории, и желаем всем добра... но предположите случай... не ваш, упаси Боже... случай отца, у которого несколько сыновей на войне и один погибает...",
-          "original": "— Ma guardi.... (siamo a discorso, adesso.... e facciamo tutti gli scongiuri....) ma ponga il caso.... non il suo, per carità, egregio signore.... il caso d'un padre ch'abbia più figliuoli alla guerra.... ne perde (non sia mai!) uno...."
+          "id": "sent-152",
+          "text": "— admitió el marido con una sonrisa tímida,",
+          "translationRu": "признал муж с робкой улыбкой,",
+          "original": "— ammise con un sorriso timido, pietoso e impacciato il marito."
         },
         {
-          "id": "sent-059",
+          "id": "sent-153",
+          "text": "llena de pena e incomodidad.",
+          "translationRu": "полной горя и смущения."
+        },
+        {
+          "id": "sent-154",
+          "text": "— Pero mire...",
+          "translationRu": "— Но посмотрите...",
+          "original": "— Ma guardi...."
+        },
+        {
+          "id": "sent-155",
+          "text": "hablamos en teoría,",
+          "translationRu": "мы говорим в теории,",
+          "original": "(siamo a discorso, adesso...."
+        },
+        {
+          "id": "sent-156",
+          "text": "y pedimos que todo salga bien para todos...",
+          "translationRu": "и желаем всем добра...",
+          "original": "e facciamo tutti gli scongiuri....)"
+        },
+        {
+          "id": "sent-157",
+          "text": "pero suponga el caso...",
+          "translationRu": "но предположите случай...",
+          "original": "ma ponga il caso...."
+        },
+        {
+          "id": "sent-158",
+          "text": "no el suyo, por favor...",
+          "translationRu": "не ваш, упаси Боже...",
+          "original": "non il suo, per carità, egregio signore...."
+        },
+        {
+          "id": "sent-159",
+          "text": "el caso de un padre",
+          "translationRu": "случай отца,",
+          "original": "il caso d'un padre"
+        },
+        {
+          "id": "sent-160",
+          "text": "que tenga varios hijos en la guerra",
+          "translationRu": "у которого несколько сыновей на войне",
+          "original": "ch'abbia più figliuoli alla guerra...."
+        },
+        {
+          "id": "sent-161",
+          "text": "y pierda uno...",
+          "translationRu": "и один погибает...",
+          "original": "ne perde (non sia mai!) uno...."
+        },
+        {
+          "id": "sent-162",
           "text": "¡Al menos le queda el otro!",
           "translationRu": "По крайней мере, у него остаётся другой!",
           "original": "gli resta l'altro almeno!"
@@ -441,28 +1051,88 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-060",
-          "text": "— Sí, ya; y la obligación de vivir por ese otro — respondió inmediatamente el otro, con el ceño fruncido.",
-          "translationRu": "— Да, именно; и обязанность жить ради этого другого, — немедленно ответил тот, нахмурившись.",
-          "original": "— Già, sì; e l'obbligo di vivere per quest'altro, — affermò subito, accigliato, quello."
+          "id": "sent-163",
+          "text": "— Sí, ya;",
+          "translationRu": "— Да, именно;",
+          "original": "— Già, sì;"
         },
         {
-          "id": "sent-061",
-          "text": "— Lo que significa que si a usted... no digamos a usted, a un padre que tiene un solo hijo, le pasa que ese hijo muere, y si él ya no sabe qué hacer con su vida, puede quitársela y adiós.",
-          "translationRu": "— Это значит, что если у вас... не будем говорить о вас, у отца с единственным сыном тот сын погибает, и если тому уже незачем жить — он может покончить с жизнью, и всё.",
-          "original": "— Il che vuol dire che se a lei.... non diciamo a lei, a un padre che abbia un solo figliuolo, càpita il caso che questo gli muoja, se della vita lui non sa più che farsene, morto il figliuolo, se la può togliere, e addio"
+          "id": "sent-164",
+          "text": "y la obligación de vivir por ese otro",
+          "translationRu": "и обязанность жить ради этого другого, —",
+          "original": "e l'obbligo di vivere per quest'altro,"
         },
         {
-          "id": "sent-062",
-          "text": "Mientras que yo tengo que seguir viviendo por el otro que me queda.",
-          "translationRu": "Тогда как я должен продолжать жить ради другого, который у меня остался.",
-          "original": "mentr'io, capisce? bisogna che me la tenga io, la vita, per l'altro che mi resta"
+          "id": "sent-165",
+          "text": "— respondió inmediatamente el otro, con el ceño fruncido.",
+          "translationRu": "немедленно ответил тот, нахмурившись.",
+          "original": "— affermò subito, accigliato, quello."
         },
         {
-          "id": "sent-063",
-          "text": "Así que el peor caso siempre es el mío.",
-          "translationRu": "Так что самое худшее положение — всегда моё.",
-          "original": "e il caso peggiore dunque è sempre il mio!"
+          "id": "sent-166",
+          "text": "— Lo que significa que",
+          "translationRu": "— Это значит, что",
+          "original": "— Il che vuol dire che"
+        },
+        {
+          "id": "sent-167",
+          "text": "si a usted... no digamos a usted,",
+          "translationRu": "если у вас... не будем говорить о вас,",
+          "original": "se a lei.... non diciamo a lei,"
+        },
+        {
+          "id": "sent-168",
+          "text": "a un padre que tiene un solo hijo,",
+          "translationRu": "у отца с единственным сыном",
+          "original": "a un padre che abbia un solo figliuolo,"
+        },
+        {
+          "id": "sent-169",
+          "text": "le pasa que ese hijo muere,",
+          "translationRu": "тот сын погибает,",
+          "original": "càpita il caso che questo gli muoja,"
+        },
+        {
+          "id": "sent-170",
+          "text": "y si él ya no sabe qué hacer con su vida,",
+          "translationRu": "и если тому уже незачем жить —",
+          "original": "se della vita lui non sa più che farsene, morto il figliuolo,"
+        },
+        {
+          "id": "sent-171",
+          "text": "puede quitársela y adiós.",
+          "translationRu": "он может покончить с жизнью, и всё.",
+          "original": "se la può togliere, e addio"
+        },
+        {
+          "id": "sent-172",
+          "text": "Mientras que yo",
+          "translationRu": "Тогда как я",
+          "original": "mentr'io, capisce?"
+        },
+        {
+          "id": "sent-173",
+          "text": "tengo que seguir viviendo",
+          "translationRu": "должен продолжать жить",
+          "original": "bisogna che me la tenga io, la vita,"
+        },
+        {
+          "id": "sent-174",
+          "text": "por el otro que me queda.",
+          "translationRu": "ради другого, который у меня остался.",
+          "original": "per l'altro che mi resta"
+        },
+        {
+          "id": "sent-175",
+          "text": "Así que el peor caso",
+          "translationRu": "Так что самое худшее положение —",
+          "original": "e il caso peggiore dunque"
+        },
+        {
+          "id": "sent-176",
+          "text": "siempre es el mío.",
+          "translationRu": "всегда моё.",
+          "original": "è sempre il mio!"
         }
       ]
     },
@@ -470,16 +1140,40 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-064",
-          "text": "— ¡Pero qué conversación esta! — estalló en ese momento otro viajero, gordo y de cara colorada.",
-          "translationRu": "— Ну и разговоры! — взорвался в этот момент другой пассажир, толстый и краснолицый.",
-          "original": "— Ma che discorsi! — scattò a questo punto un altro viaggiatore, grasso e sanguigno"
+          "id": "sent-177",
+          "text": "— ¡Pero qué conversación esta!",
+          "translationRu": "— Ну и разговоры!",
+          "original": "— Ma che discorsi!"
         },
         {
-          "id": "sent-065",
-          "text": "Miraba alrededor con sus grandes ojos claros y acuosos, surcados de venitas rojas.",
-          "translationRu": "Он оглядывался вокруг большими светлыми, влажными глазами, перечерченными красными прожилками.",
-          "original": "guardando in giro coi grossi occhi chiari acquosi e venati di sangue"
+          "id": "sent-178",
+          "text": "— estalló en ese momento otro viajero,",
+          "translationRu": "— взорвался в этот момент другой пассажир,",
+          "original": "— scattò a questo punto un altro viaggiatore,"
+        },
+        {
+          "id": "sent-179",
+          "text": "gordo y de cara colorada.",
+          "translationRu": "толстый и краснолицый.",
+          "original": "grasso e sanguigno"
+        },
+        {
+          "id": "sent-180",
+          "text": "Miraba alrededor",
+          "translationRu": "Он оглядывался вокруг",
+          "original": "guardando in giro"
+        },
+        {
+          "id": "sent-181",
+          "text": "con sus grandes ojos claros y acuosos,",
+          "translationRu": "большими светлыми, влажными глазами,",
+          "original": "coi grossi occhi chiari acquosi"
+        },
+        {
+          "id": "sent-182",
+          "text": "surcados de venitas rojas.",
+          "translationRu": "перечерченными красными прожилками.",
+          "original": "e venati di sangue"
         }
       ]
     },
@@ -487,28 +1181,93 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-066",
-          "text": "Jadeaba, y parecía que esos ojos iban a salírsele de la cara por la presión interna de una vitalidad exuberante que su cuerpo grande y cansado ya no podía contener.",
-          "translationRu": "Он тяжело дышал, и казалось, что глаза вот-вот выскочат из орбит под давлением изнутри — от бурной жизненной силы, которую его большое, измученное тело уже не вмещало.",
-          "original": "Ansimava, e pareva gli dovessero schizzar fuori, quegli occhi, dalla interna violenza affannosa d'una vitalità esuberante, che il corpaccio disfatto non riusciva più a contenere."
+          "id": "sent-183",
+          "text": "Jadeaba,",
+          "translationRu": "Он тяжело дышал,",
+          "original": "Ansimava,"
         },
         {
-          "id": "sent-067",
-          "text": "Se llevó una mano deforme a la boca, como si de repente hubiera pensado en los dos dientes que le faltaban.",
-          "translationRu": "Он поднёс к губам искривлённую руку, словно вдруг вспомнив о двух передних зубах, которых у него недоставало.",
-          "original": "Si pose una manona sformata innanzi alla bocca, come assalito improvvisamente dal pensiero dei due denti che gli mancavano davanti"
+          "id": "sent-184",
+          "text": "y parecía que esos ojos",
+          "translationRu": "и казалось, что глаза",
+          "original": "e pareva gli dovessero schizzar fuori, quegli occhi,"
         },
         {
-          "id": "sent-068",
-          "text": "Pero luego no pensó más en eso y siguió diciendo, con indignación:",
-          "translationRu": "Но затем он уже не думал об этом и продолжил говорить с возмущением:",
-          "original": "ma poi, tanto, non ci pensò più e seguitò a dire, sdegnato"
+          "id": "sent-185",
+          "text": "iban a salírsele de la cara",
+          "translationRu": "вот-вот выскочат из орбит"
         },
         {
-          "id": "sent-069",
-          "text": "— ¿Acaso hacemos hijos para nosotros?",
-          "translationRu": "— Разве мы заводим детей для себя?",
-          "original": "— O che i figliuoli li facciamo per noi?"
+          "id": "sent-186",
+          "text": "por la presión interna",
+          "translationRu": "под давлением изнутри —",
+          "original": "dalla interna violenza affannosa"
+        },
+        {
+          "id": "sent-187",
+          "text": "de una vitalidad exuberante",
+          "translationRu": "от бурной жизненной силы,",
+          "original": "d'una vitalità esuberante,"
+        },
+        {
+          "id": "sent-188",
+          "text": "que su cuerpo grande y cansado",
+          "translationRu": "которую его большое, измученное тело",
+          "original": "che il corpaccio disfatto"
+        },
+        {
+          "id": "sent-189",
+          "text": "ya no podía contener.",
+          "translationRu": "уже не вмещало.",
+          "original": "non riusciva più a contenere."
+        },
+        {
+          "id": "sent-190",
+          "text": "Se llevó una mano deforme a la boca,",
+          "translationRu": "Он поднёс к губам искривлённую руку,",
+          "original": "Si pose una manona sformata innanzi alla bocca,"
+        },
+        {
+          "id": "sent-191",
+          "text": "como si de repente hubiera pensado",
+          "translationRu": "словно вдруг вспомнив",
+          "original": "come assalito improvvisamente dal pensiero"
+        },
+        {
+          "id": "sent-192",
+          "text": "en los dos dientes que le faltaban.",
+          "translationRu": "о двух передних зубах, которых у него недоставало.",
+          "original": "dei due denti che gli mancavano davanti"
+        },
+        {
+          "id": "sent-193",
+          "text": "Pero luego no pensó más en eso",
+          "translationRu": "Но затем он уже не думал об этом",
+          "original": "ma poi, tanto, non ci pensò più"
+        },
+        {
+          "id": "sent-194",
+          "text": "y siguió diciendo,",
+          "translationRu": "и продолжил говорить",
+          "original": "e seguitò a dire,"
+        },
+        {
+          "id": "sent-195",
+          "text": "con indignación:",
+          "translationRu": "с возмущением:",
+          "original": "sdegnato"
+        },
+        {
+          "id": "sent-196",
+          "text": "— ¿Acaso hacemos hijos",
+          "translationRu": "— Разве мы заводим детей",
+          "original": "— O che i figliuoli li facciamo"
+        },
+        {
+          "id": "sent-197",
+          "text": "para nosotros?",
+          "translationRu": "для себя?",
+          "original": "per noi?"
         }
       ]
     },
@@ -516,19 +1275,43 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-070",
-          "text": "Los otros se inclinaron a mirarlo, consternados.",
-          "translationRu": "Остальные наклонились, чтобы посмотреть на него, потрясённые.",
-          "original": "Gli altri si sporsero a guardarlo, costernati."
+          "id": "sent-198",
+          "text": "Los otros se inclinaron a mirarlo,",
+          "translationRu": "Остальные наклонились, чтобы посмотреть на него,",
+          "original": "Gli altri si sporsero a guardarlo,"
         },
         {
-          "id": "sent-071",
-          "text": "El primero, el que tenía al hijo en el frente desde el primer día de la guerra, suspiró:",
-          "translationRu": "Первый, тот, чей сын был на фронте с первого дня войны, вздохнул:",
-          "original": "Il primo, quello che aveva il figlio al fronte fin dal primo giorno della guerra, sospirò"
+          "id": "sent-199",
+          "text": "consternados.",
+          "translationRu": "потрясённые.",
+          "original": "costernati."
         },
         {
-          "id": "sent-072",
+          "id": "sent-200",
+          "text": "El primero,",
+          "translationRu": "Первый,",
+          "original": "Il primo,"
+        },
+        {
+          "id": "sent-201",
+          "text": "el que tenía al hijo en el frente",
+          "translationRu": "тот, чей сын был на фронте",
+          "original": "quello che aveva il figlio al fronte"
+        },
+        {
+          "id": "sent-202",
+          "text": "desde el primer día de la guerra,",
+          "translationRu": "с первого дня войны,",
+          "original": "fin dal primo giorno della guerra,"
+        },
+        {
+          "id": "sent-203",
+          "text": "suspiró:",
+          "translationRu": "вздохнул:",
+          "original": "sospirò"
+        },
+        {
+          "id": "sent-204",
           "text": "— Bueno, por la patria...",
           "translationRu": "— Ну, за родину...",
           "original": "— Eh, per la patria, già...."
@@ -539,202 +1322,584 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-073",
-          "text": "— Bueno — repitió el viajero gordo —, señor mío, si usted dice así, «por la patria», puede sonar a frase hecha.",
-          "translationRu": "— Ну, — повторил толстый пассажир, — дорогой мой, если вы так говорите, «за родину», это звучит как пустая фраза.",
-          "original": "— Eh, — rifece il viaggiatore grasso, — caro signore, se lei dice così, per la patria, può parere una smorfia!"
+          "id": "sent-205",
+          "text": "— Bueno — repitió el viajero gordo —,",
+          "translationRu": "— Ну, — повторил толстый пассажир, —",
+          "original": "— Eh, — rifece il viaggiatore grasso, —"
         },
         {
-          "id": "sent-074",
-          "text": "«Hijo mío, te he traído al mundo para la patria y no para mí.»",
-          "translationRu": "«Сынок, я произвёл тебя на свет для родины, а не для себя.»",
-          "original": "Figlio mio, t'ho partorito per la patria e non per me...."
+          "id": "sent-206",
+          "text": "señor mío,",
+          "translationRu": "дорогой мой,",
+          "original": "caro signore,"
         },
         {
-          "id": "sent-075",
+          "id": "sent-207",
+          "text": "si usted dice así, «por la patria»,",
+          "translationRu": "если вы так говорите, «за родину»,",
+          "original": "se lei dice così, per la patria,"
+        },
+        {
+          "id": "sent-208",
+          "text": "puede sonar a frase hecha.",
+          "translationRu": "это звучит как пустая фраза.",
+          "original": "può parere una smorfia!"
+        },
+        {
+          "id": "sent-209",
+          "text": "«Hijo mío,",
+          "translationRu": "«Сынок,",
+          "original": "Figlio mio,"
+        },
+        {
+          "id": "sent-210",
+          "text": "te he traído al mundo para la patria",
+          "translationRu": "я произвёл тебя на свет для родины,",
+          "original": "t'ho partorito per la patria"
+        },
+        {
+          "id": "sent-211",
+          "text": "y no para mí.»",
+          "translationRu": "а не для себя.»",
+          "original": "e non per me...."
+        },
+        {
+          "id": "sent-212",
           "text": "¡Tonterías!",
           "translationRu": "Вздор!",
           "original": "Storie!"
         },
         {
-          "id": "sent-076",
+          "id": "sent-213",
           "text": "¿Cuándo?",
           "translationRu": "Когда?",
           "original": "Quando?"
         },
         {
-          "id": "sent-077",
-          "text": "¿Piensa usted en la patria cuando tiene un hijo?",
-          "translationRu": "Разве вы думаете о родине, когда заводите сына?",
-          "original": "Ci pensa lei alla patria, quando ha fatto un figliuolo?"
+          "id": "sent-214",
+          "text": "¿Piensa usted en la patria",
+          "translationRu": "Разве вы думаете о родине,",
+          "original": "Ci pensa lei alla patria,"
         },
         {
-          "id": "sent-078",
+          "id": "sent-215",
+          "text": "cuando tiene un hijo?",
+          "translationRu": "когда заводите сына?",
+          "original": "quando ha fatto un figliuolo?"
+        },
+        {
+          "id": "sent-216",
           "text": "¡No me haga reír!",
           "translationRu": "Не смешите меня!",
           "original": "Roba da ridere!"
         },
         {
-          "id": "sent-079",
-          "text": "Los hijos vienen, no porque usted los quiera, sino porque tienen que venir.",
-          "translationRu": "Дети появляются не потому, что вы их хотите, а потому что они должны появиться.",
-          "original": "I figliuoli vengono, non perchè lei li voglia, ma perchè debbono venire"
+          "id": "sent-217",
+          "text": "Los hijos vienen,",
+          "translationRu": "Дети появляются",
+          "original": "I figliuoli vengono,"
         },
         {
-          "id": "sent-080",
-          "text": "Y se toman la vida; no solo la suya propia, sino también la nuestra se toman.",
-          "translationRu": "И они берут себе жизнь — не только свою собственную, но и нашу тоже берут.",
-          "original": "e si pigliano la vita; non solo la loro, ma anche la nostra si pigliano."
+          "id": "sent-218",
+          "text": "no porque usted los quiera,",
+          "translationRu": "не потому, что вы их хотите,",
+          "original": "non perchè lei li voglia,"
         },
         {
-          "id": "sent-081",
+          "id": "sent-219",
+          "text": "sino porque tienen que venir.",
+          "translationRu": "а потому что они должны появиться.",
+          "original": "ma perchè debbono venire"
+        },
+        {
+          "id": "sent-220",
+          "text": "Y se toman la vida;",
+          "translationRu": "И они берут себе жизнь —",
+          "original": "e si pigliano la vita;"
+        },
+        {
+          "id": "sent-221",
+          "text": "no solo la suya propia,",
+          "translationRu": "не только свою собственную,",
+          "original": "non solo la loro,"
+        },
+        {
+          "id": "sent-222",
+          "text": "sino también la nuestra se toman.",
+          "translationRu": "но и нашу тоже берут.",
+          "original": "ma anche la nostra si pigliano."
+        },
+        {
+          "id": "sent-223",
           "text": "Esta es la verdad.",
           "translationRu": "Вот в чём правда.",
           "original": "Questa è la verità."
         },
         {
-          "id": "sent-082",
-          "text": "Nosotros existimos para ellos; no ellos para nosotros.",
-          "translationRu": "Мы существуем для них; не они для нас.",
-          "original": "E siamo noi per loro; mica loro per noi."
+          "id": "sent-224",
+          "text": "Nosotros existimos para ellos;",
+          "translationRu": "Мы существуем для них;",
+          "original": "E siamo noi per loro;"
         },
         {
-          "id": "sent-083",
-          "text": "Y cuando tienen veinte años... piénselo un poco... son exactamente iguales a como éramos usted y yo cuando teníamos veinte años.",
-          "translationRu": "И когда им двадцать лет... подумайте об этом... они точно такие же, какими были вы и я в двадцать лет.",
-          "original": "E quand'hanno vent'anni.... ma pensi un po', sono tali e quali eravamo io e lei quand'avevamo vent'anni."
+          "id": "sent-225",
+          "text": "no ellos para nosotros.",
+          "translationRu": "не они для нас.",
+          "original": "mica loro per noi."
         },
         {
-          "id": "sent-084",
-          "text": "Estaba nuestra madre; estaba nuestro padre.",
-          "translationRu": "Была наша мать; был наш отец.",
-          "original": "C'era nostra madre; c'era nostro padre"
+          "id": "sent-226",
+          "text": "Y cuando tienen veinte años...",
+          "translationRu": "И когда им двадцать лет...",
+          "original": "E quand'hanno vent'anni...."
         },
         {
-          "id": "sent-085",
-          "text": "Pero había también tantas otras cosas: los vicios, la chica, las corbatas nuevas, las ilusiones, los cigarrillos.",
-          "translationRu": "Но было и столько всего другого: пороки, девушка, новые галстуки, мечты, сигареты.",
-          "original": "ma c'erano anche tant'altre cose, i vizii, la ragazza, le cravatte nuove, le illusioni, le sigarette"
+          "id": "sent-227",
+          "text": "piénselo un poco...",
+          "translationRu": "подумайте об этом...",
+          "original": "ma pensi un po',"
         },
         {
-          "id": "sent-086",
-          "text": "Y también la patria, sí, a los veinte años, cuando no teníamos hijos.",
-          "translationRu": "И тоже родина, да, в двадцать лет, когда у нас ещё не было детей.",
-          "original": "e anche la patria, già, a vent'anni, quando non avevamo figliuoli"
+          "id": "sent-228",
+          "text": "son exactamente iguales a como éramos",
+          "translationRu": "они точно такие же, какими были",
+          "original": "sono tali e quali eravamo"
         },
         {
-          "id": "sent-087",
-          "text": "La patria que, si nos hubiera llamado, dígame, ¿no habría estado para nosotros por encima de nuestro padre y nuestra madre?",
-          "translationRu": "Родина, которая, позови она нас тогда, скажите-ка — разве не стояла бы для нас выше отца и матери?",
-          "original": "la patria che, se ci avesse chiamati, dica un po', non sarebbe stata per noi sopra a nostro padre, sopra a nostra madre?"
+          "id": "sent-229",
+          "text": "usted y yo cuando teníamos veinte años.",
+          "translationRu": "вы и я в двадцать лет.",
+          "original": "io e lei quand'avevamo vent'anni."
         },
         {
-          "id": "sent-088",
-          "text": "Ahora tenemos cincuenta, sesenta años: también está la patria, sí.",
-          "translationRu": "Теперь нам пятьдесят, шестьдесят лет: родина есть, да.",
-          "original": "Ne abbiamo cinquanta, sessanta, ora, caro lei: e c'è pure la patria, sì"
+          "id": "sent-230",
+          "text": "Estaba nuestra madre;",
+          "translationRu": "Была наша мать;",
+          "original": "C'era nostra madre;"
         },
         {
-          "id": "sent-089",
-          "text": "Pero dentro de nosotros, inevitablemente, hay también más fuerte el amor a nuestros hijos.",
-          "translationRu": "Но внутри нас неизбежно живёт и более сильная любовь к нашим детям.",
-          "original": "ma dentro di noi, per forza, c'è anche più forte l'affetto per i nostri figliuoli."
+          "id": "sent-231",
+          "text": "estaba nuestro padre.",
+          "translationRu": "был наш отец.",
+          "original": "c'era nostro padre"
         },
         {
-          "id": "sent-090",
-          "text": "¿Quién de nosotros no iría, pudiendo, a combatir en lugar de su hijo?",
-          "translationRu": "Кто из нас не пошёл бы воевать вместо своего сына, если бы мог?",
-          "original": "Chi di noi, potendo, non andrebbe, non vorrebbe andare a combattere invece del proprio figliuolo?"
+          "id": "sent-232",
+          "text": "Pero había también tantas otras cosas:",
+          "translationRu": "Но было и столько всего другого:",
+          "original": "ma c'erano anche tant'altre cose,"
         },
         {
-          "id": "sent-091",
+          "id": "sent-233",
+          "text": "los vicios,",
+          "translationRu": "пороки,",
+          "original": "i vizii,"
+        },
+        {
+          "id": "sent-234",
+          "text": "la chica,",
+          "translationRu": "девушка,",
+          "original": "la ragazza,"
+        },
+        {
+          "id": "sent-235",
+          "text": "las corbatas nuevas,",
+          "translationRu": "новые галстуки,",
+          "original": "le cravatte nuove,"
+        },
+        {
+          "id": "sent-236",
+          "text": "las ilusiones,",
+          "translationRu": "мечты,",
+          "original": "le illusioni,"
+        },
+        {
+          "id": "sent-237",
+          "text": "los cigarrillos.",
+          "translationRu": "сигареты.",
+          "original": "le sigarette"
+        },
+        {
+          "id": "sent-238",
+          "text": "Y también la patria, sí,",
+          "translationRu": "И тоже родина, да,",
+          "original": "e anche la patria, già,"
+        },
+        {
+          "id": "sent-239",
+          "text": "a los veinte años,",
+          "translationRu": "в двадцать лет,",
+          "original": "a vent'anni,"
+        },
+        {
+          "id": "sent-240",
+          "text": "cuando no teníamos hijos.",
+          "translationRu": "когда у нас ещё не было детей.",
+          "original": "quando non avevamo figliuoli"
+        },
+        {
+          "id": "sent-241",
+          "text": "La patria que,",
+          "translationRu": "Родина, которая,",
+          "original": "la patria che,"
+        },
+        {
+          "id": "sent-242",
+          "text": "si nos hubiera llamado,",
+          "translationRu": "позови она нас тогда,",
+          "original": "se ci avesse chiamati,"
+        },
+        {
+          "id": "sent-243",
+          "text": "dígame,",
+          "translationRu": "скажите-ка —",
+          "original": "dica un po',"
+        },
+        {
+          "id": "sent-244",
+          "text": "¿no habría estado para nosotros",
+          "translationRu": "разве не стояла бы для нас",
+          "original": "non sarebbe stata per noi"
+        },
+        {
+          "id": "sent-245",
+          "text": "por encima de nuestro padre y nuestra madre?",
+          "translationRu": "выше отца и матери?",
+          "original": "sopra a nostro padre, sopra a nostra madre?"
+        },
+        {
+          "id": "sent-246",
+          "text": "Ahora tenemos cincuenta, sesenta años:",
+          "translationRu": "Теперь нам пятьдесят, шестьдесят лет:",
+          "original": "Ne abbiamo cinquanta, sessanta, ora, caro lei:"
+        },
+        {
+          "id": "sent-247",
+          "text": "también está la patria, sí.",
+          "translationRu": "родина есть, да.",
+          "original": "e c'è pure la patria, sì"
+        },
+        {
+          "id": "sent-248",
+          "text": "Pero dentro de nosotros, inevitablemente,",
+          "translationRu": "Но внутри нас неизбежно",
+          "original": "ma dentro di noi, per forza,"
+        },
+        {
+          "id": "sent-249",
+          "text": "hay también más fuerte",
+          "translationRu": "живёт и более сильная",
+          "original": "c'è anche più forte"
+        },
+        {
+          "id": "sent-250",
+          "text": "el amor a nuestros hijos.",
+          "translationRu": "любовь к нашим детям.",
+          "original": "l'affetto per i nostri figliuoli."
+        },
+        {
+          "id": "sent-251",
+          "text": "¿Quién de nosotros no iría,",
+          "translationRu": "Кто из нас не пошёл бы воевать",
+          "original": "Chi di noi, potendo, non andrebbe, non vorrebbe andare a combattere"
+        },
+        {
+          "id": "sent-252",
+          "text": "pudiendo,",
+          "translationRu": "вместо своего сына,"
+        },
+        {
+          "id": "sent-253",
+          "text": "a combatir en lugar de su hijo?",
+          "translationRu": "если бы мог?",
+          "original": "invece del proprio figliuolo?"
+        },
+        {
+          "id": "sent-254",
           "text": "¡Todos!",
           "translationRu": "Все!",
           "original": "Ma tutti!"
         },
         {
-          "id": "sent-092",
-          "text": "¿Y no queremos considerar ahora el sentimiento de nuestros hijos de veinte años?",
-          "translationRu": "И разве мы не хотим понять чувства наших двадцатилетних детей?",
-          "original": "E non vogliamo considerare adesso il sentimento dei nostri figliuoli a vent'anni?"
+          "id": "sent-255",
+          "text": "¿Y no queremos considerar ahora",
+          "translationRu": "И разве мы не хотим понять",
+          "original": "E non vogliamo considerare adesso"
         },
         {
-          "id": "sent-093",
-          "text": "Ellos sienten por la patria un amor más grande que por nosotros, cuando llega el momento.",
-          "translationRu": "Они чувствуют к родине любовь большую, чем к нам, когда приходит момент.",
-          "original": "dei nostri figliuoli che per forza, venuto il momento, debbono sentire per la patria un affetto più grande che per noi?"
+          "id": "sent-256",
+          "text": "el sentimiento de nuestros hijos de veinte años?",
+          "translationRu": "чувства наших двадцатилетних детей?",
+          "original": "il sentimento dei nostri figliuoli a vent'anni?"
         },
         {
-          "id": "sent-094",
-          "text": "Hablo, claro está, de los buenos hijos.",
-          "translationRu": "Я говорю, конечно, о хороших детях.",
-          "original": "Parlo, s'intende, dei buoni figliuoli"
+          "id": "sent-257",
+          "text": "Ellos sienten por la patria",
+          "translationRu": "Они чувствуют к родине",
+          "original": "dei nostri figliuoli che per forza, venuto il momento, debbono sentire per la patria"
         },
         {
-          "id": "sent-095",
-          "text": "Y digo inevitablemente, porque delante de la patria nosotros nos volvemos también hijos, hijos viejos que ya no pueden moverse y tienen que quedarse en casa.",
-          "translationRu": "И говорю «неизбежно», потому что перед лицом родины мы тоже становимся детьми — старыми детьми, которые уже не могут двигаться и должны оставаться дома.",
-          "original": "e dico per forza, perchè davanti alla patria, per essi, diventiamo figliuoli anche noi, figliuoli vecchi che non possono più muoversi e debbono restarsene a casa."
+          "id": "sent-258",
+          "text": "un amor más grande que por nosotros,",
+          "translationRu": "любовь большую, чем к нам,",
+          "original": "un affetto più grande che per noi?"
         },
         {
-          "id": "sent-096",
-          "text": "Si la patria existe, si es una necesidad natural como el pan que cada uno tiene que comer para no morir de hambre, alguien tiene que ir a defenderla cuando llega el momento.",
-          "translationRu": "Если родина существует, если она так же необходима, как хлеб, который каждый должен есть, чтобы не умереть с голоду, — кто-то должен идти её защищать, когда наступает время.",
-          "original": "Se la patria c'è, se è una necessità naturale la patria, come il pane che ciascuno per forza deve mangiare, se non vuol morire di fame, bisogna che qualcuno vada a difenderla, venuto il momento."
+          "id": "sent-259",
+          "text": "cuando llega el momento.",
+          "translationRu": "когда приходит момент."
         },
         {
-          "id": "sent-097",
-          "text": "Y van ellos, a los veinte años, porque tienen que ir y no quieren lágrimas.",
-          "translationRu": "И идут они, в двадцать лет, потому что должны идти и не хотят слёз.",
-          "original": "E vanno essi, a vent'anni, vanno perchè debbono andare e non vogliono lagrime."
+          "id": "sent-260",
+          "text": "Hablo, claro está,",
+          "translationRu": "Я говорю, конечно,",
+          "original": "Parlo, s'intende,"
         },
         {
-          "id": "sent-098",
-          "text": "No quieren lágrimas porque, aunque mueran, mueren ardientes y contentos.",
-          "translationRu": "Не хотят слёз, потому что, даже умирая, умирают воодушевлёнными и счастливыми.",
-          "original": "Non ne vogliono perchè, anche se muojono, muojono infiammati e contenti."
+          "id": "sent-261",
+          "text": "de los buenos hijos.",
+          "translationRu": "о хороших детях.",
+          "original": "dei buoni figliuoli"
         },
         {
-          "id": "sent-099",
-          "text": "Hablo siempre, claro está, de los buenos hijos.",
-          "translationRu": "Говорю всегда, конечно, о хороших детях.",
-          "original": "(Parlo sempre, s'intende, dei buoni figliuoli!)"
+          "id": "sent-262",
+          "text": "Y digo inevitablemente,",
+          "translationRu": "И говорю «неизбежно»,",
+          "original": "e dico per forza,"
         },
         {
-          "id": "sent-100",
-          "text": "Cuando se muere contento, sin haber visto todas las fealdades, los aburrimientos, las miserias de esta vida que queda, las amarguras de las desilusiones... ¿qué más queremos?",
-          "translationRu": "Когда умираешь счастливым, не увидев всей мерзости, скуки, нищеты этой жизни, что остаётся впереди, горечи разочарований... чего нам ещё желать?",
-          "original": "Ora quando si muore contenti, senz'aver veduto tutte le bruttezze, le noje, le miserie di questa vitaccia che avanza, le amarezze delle disillusioni, o che vogliamo di più?"
+          "id": "sent-263",
+          "text": "porque delante de la patria",
+          "translationRu": "потому что перед лицом родины",
+          "original": "perchè davanti alla patria, per essi,"
         },
         {
-          "id": "sent-101",
+          "id": "sent-264",
+          "text": "nosotros nos volvemos también hijos,",
+          "translationRu": "мы тоже становимся детьми —",
+          "original": "diventiamo figliuoli anche noi,"
+        },
+        {
+          "id": "sent-265",
+          "text": "hijos viejos que ya no pueden moverse",
+          "translationRu": "старыми детьми, которые уже не могут двигаться",
+          "original": "figliuoli vecchi che non possono più muoversi"
+        },
+        {
+          "id": "sent-266",
+          "text": "y tienen que quedarse en casa.",
+          "translationRu": "и должны оставаться дома.",
+          "original": "e debbono restarsene a casa."
+        },
+        {
+          "id": "sent-267",
+          "text": "Si la patria existe,",
+          "translationRu": "Если родина существует,",
+          "original": "Se la patria c'è,"
+        },
+        {
+          "id": "sent-268",
+          "text": "si es una necesidad natural",
+          "translationRu": "если она так же необходима,",
+          "original": "se è una necessità naturale la patria,"
+        },
+        {
+          "id": "sent-269",
+          "text": "como el pan",
+          "translationRu": "как хлеб,",
+          "original": "come il pane"
+        },
+        {
+          "id": "sent-270",
+          "text": "que cada uno tiene que comer",
+          "translationRu": "который каждый должен есть,",
+          "original": "che ciascuno per forza deve mangiare,"
+        },
+        {
+          "id": "sent-271",
+          "text": "para no morir de hambre,",
+          "translationRu": "чтобы не умереть с голоду, —",
+          "original": "se non vuol morire di fame,"
+        },
+        {
+          "id": "sent-272",
+          "text": "alguien tiene que ir a defenderla",
+          "translationRu": "кто-то должен идти её защищать,",
+          "original": "bisogna che qualcuno vada a difenderla,"
+        },
+        {
+          "id": "sent-273",
+          "text": "cuando llega el momento.",
+          "translationRu": "когда наступает время.",
+          "original": "venuto il momento."
+        },
+        {
+          "id": "sent-274",
+          "text": "Y van ellos, a los veinte años,",
+          "translationRu": "И идут они, в двадцать лет,",
+          "original": "E vanno essi, a vent'anni,"
+        },
+        {
+          "id": "sent-275",
+          "text": "porque tienen que ir",
+          "translationRu": "потому что должны идти",
+          "original": "vanno perchè debbono andare"
+        },
+        {
+          "id": "sent-276",
+          "text": "y no quieren lágrimas.",
+          "translationRu": "и не хотят слёз.",
+          "original": "e non vogliono lagrime."
+        },
+        {
+          "id": "sent-277",
+          "text": "No quieren lágrimas porque,",
+          "translationRu": "Не хотят слёз, потому что,",
+          "original": "Non ne vogliono perchè,"
+        },
+        {
+          "id": "sent-278",
+          "text": "aunque mueran,",
+          "translationRu": "даже умирая,",
+          "original": "anche se muojono,"
+        },
+        {
+          "id": "sent-279",
+          "text": "mueren ardientes y contentos.",
+          "translationRu": "умирают воодушевлёнными и счастливыми.",
+          "original": "muojono infiammati e contenti."
+        },
+        {
+          "id": "sent-280",
+          "text": "Hablo siempre, claro está,",
+          "translationRu": "Говорю всегда, конечно,",
+          "original": "(Parlo sempre, s'intende,"
+        },
+        {
+          "id": "sent-281",
+          "text": "de los buenos hijos.",
+          "translationRu": "о хороших детях.",
+          "original": "dei buoni figliuoli!)"
+        },
+        {
+          "id": "sent-282",
+          "text": "Cuando se muere contento,",
+          "translationRu": "Когда умираешь счастливым,",
+          "original": "Ora quando si muore contenti,"
+        },
+        {
+          "id": "sent-283",
+          "text": "sin haber visto todas las fealdades,",
+          "translationRu": "не увидев всей мерзости,",
+          "original": "senz'aver veduto tutte le bruttezze,"
+        },
+        {
+          "id": "sent-284",
+          "text": "los aburrimientos,",
+          "translationRu": "скуки,",
+          "original": "le noje,"
+        },
+        {
+          "id": "sent-285",
+          "text": "las miserias de esta vida que queda,",
+          "translationRu": "нищеты этой жизни, что остаётся впереди,",
+          "original": "le miserie di questa vitaccia che avanza,"
+        },
+        {
+          "id": "sent-286",
+          "text": "las amarguras de las desilusiones...",
+          "translationRu": "горечи разочарований...",
+          "original": "le amarezze delle disillusioni,"
+        },
+        {
+          "id": "sent-287",
+          "text": "¿qué más queremos?",
+          "translationRu": "чего нам ещё желать?",
+          "original": "o che vogliamo di più?"
+        },
+        {
+          "id": "sent-288",
           "text": "No hay que llorar.",
           "translationRu": "Не надо плакать.",
           "original": "Bisogna non piangere"
         },
         {
-          "id": "sent-102",
+          "id": "sent-289",
           "text": "Hay que reír...",
           "translationRu": "Надо смеяться...",
           "original": "ridere...."
         },
         {
-          "id": "sent-103",
-          "text": "O como lloro yo, sí señor, contento, porque mi hijo me mandó a decir que su vida — la suya, ¿entendéis? la que nosotros debemos ver en ellos, no la nuestra — su vida él se la había gastado lo mejor que podía.",
-          "translationRu": "Или как плачу я, да, господа, счастливый, потому что мой сын велел мне передать, что его жизнь — его, понимаете? та, которую мы должны видеть в них, не нашу — свою жизнь он прожил так хорошо, как только мог.",
-          "original": "o come piango io, sissignore contento, perchè mio figlio m'ha mandato a dire che la sua vita — la _sua_, capite? quella che noi dobbiamo vedere in loro, e non la _nostra_ — la sua vita lui se l'era spesa come meglio non avrebbe potuto"
+          "id": "sent-290",
+          "text": "O como lloro yo, sí señor, contento,",
+          "translationRu": "Или как плачу я, да, господа, счастливый,",
+          "original": "o come piango io, sissignore contento,"
         },
         {
-          "id": "sent-104",
+          "id": "sent-291",
+          "text": "porque mi hijo me mandó a decir",
+          "translationRu": "потому что мой сын велел мне передать,",
+          "original": "perchè mio figlio m'ha mandato a dire"
+        },
+        {
+          "id": "sent-292",
+          "text": "que su vida",
+          "translationRu": "что его жизнь —",
+          "original": "che la sua vita —"
+        },
+        {
+          "id": "sent-293",
+          "text": "— la suya, ¿entendéis?",
+          "translationRu": "его, понимаете?",
+          "original": "la _sua_, capite?"
+        },
+        {
+          "id": "sent-294",
+          "text": "la que nosotros debemos ver en ellos,",
+          "translationRu": "та, которую мы должны видеть в них,",
+          "original": "quella che noi dobbiamo vedere in loro,"
+        },
+        {
+          "id": "sent-295",
+          "text": "no la nuestra —",
+          "translationRu": "не нашу —",
+          "original": "e non la _nostra_ —"
+        },
+        {
+          "id": "sent-296",
+          "text": "su vida él se la había gastado",
+          "translationRu": "свою жизнь он прожил",
+          "original": "la sua vita lui se l'era spesa"
+        },
+        {
+          "id": "sent-297",
+          "text": "lo mejor que podía.",
+          "translationRu": "так хорошо, как только мог.",
+          "original": "come meglio non avrebbe potuto"
+        },
+        {
+          "id": "sent-298",
           "text": "Y que murió contento.",
           "translationRu": "И что умер счастливым.",
           "original": "e che è morto contento"
         },
         {
-          "id": "sent-105",
-          "text": "Y que yo no me vistiera de negro, como de hecho pueden ver que no me he vestido.",
-          "translationRu": "И что я не должен одеваться в чёрное — как, собственно, они могут видеть, что я и не оделся.",
-          "original": "e che io non stessi a vestirmi di nero, come difatti lor signori vedono che non mi sono vestito."
+          "id": "sent-299",
+          "text": "Y que yo no me vistiera de negro,",
+          "translationRu": "И что я не должен одеваться в чёрное —",
+          "original": "e che io non stessi a vestirmi di nero,"
+        },
+        {
+          "id": "sent-300",
+          "text": "como de hecho pueden ver",
+          "translationRu": "как, собственно, они могут видеть,",
+          "original": "come difatti lor signori vedono"
+        },
+        {
+          "id": "sent-301",
+          "text": "que no me he vestido.",
+          "translationRu": "что я и не оделся.",
+          "original": "che non mi sono vestito."
         }
       ]
     },
@@ -742,31 +1907,67 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-106",
-          "text": "Diciendo esto, sacudió la chaqueta clara para mostrarla.",
-          "translationRu": "Говоря это, он встряхнул светлый пиджак, чтобы его показать.",
-          "original": "Scosse, così dicendo, la giacca chiara, per mostrarla"
+          "id": "sent-302",
+          "text": "Diciendo esto,",
+          "translationRu": "Говоря это,",
+          "original": "Scosse, così dicendo,"
         },
         {
-          "id": "sent-107",
-          "text": "Sus labios morados sobre los dientes que le faltaban le temblaban.",
-          "translationRu": "Его синеватые губы над беззубыми прогалинами дрожали.",
-          "original": "le labbra livide sui denti mancanti gli tremavano"
+          "id": "sent-303",
+          "text": "sacudió la chaqueta clara",
+          "translationRu": "он встряхнул светлый пиджак,",
+          "original": "la giacca chiara,"
         },
         {
-          "id": "sent-108",
-          "text": "Sus ojos, casi licuados, goteaban.",
-          "translationRu": "Его глаза, почти растворившиеся, сочились слезами.",
-          "original": "gli occhi, quasi liquefatti, gli sgocciolavano"
+          "id": "sent-304",
+          "text": "para mostrarla.",
+          "translationRu": "чтобы его показать.",
+          "original": "per mostrarla"
         },
         {
-          "id": "sent-109",
-          "text": "Terminó con dos sacudidas de risa que también podían ser sollozos:",
-          "translationRu": "Он закончил двумя судорожными смешками, которые вполне могли быть рыданиями:",
-          "original": "e terminò con due scatti di riso che potevano anche esser singhiozzi"
+          "id": "sent-305",
+          "text": "Sus labios morados",
+          "translationRu": "Его синеватые губы",
+          "original": "le labbra livide"
         },
         {
-          "id": "sent-110",
+          "id": "sent-306",
+          "text": "sobre los dientes que le faltaban",
+          "translationRu": "над беззубыми прогалинами",
+          "original": "sui denti mancanti"
+        },
+        {
+          "id": "sent-307",
+          "text": "le temblaban.",
+          "translationRu": "дрожали.",
+          "original": "gli tremavano"
+        },
+        {
+          "id": "sent-308",
+          "text": "Sus ojos, casi licuados,",
+          "translationRu": "Его глаза, почти растворившиеся,",
+          "original": "gli occhi, quasi liquefatti,"
+        },
+        {
+          "id": "sent-309",
+          "text": "goteaban.",
+          "translationRu": "сочились слезами.",
+          "original": "gli sgocciolavano"
+        },
+        {
+          "id": "sent-310",
+          "text": "Terminó con dos sacudidas de risa",
+          "translationRu": "Он закончил двумя судорожными смешками,",
+          "original": "e terminò con due scatti di riso"
+        },
+        {
+          "id": "sent-311",
+          "text": "que también podían ser sollozos:",
+          "translationRu": "которые вполне могли быть рыданиями:",
+          "original": "che potevano anche esser singhiozzi"
+        },
+        {
+          "id": "sent-312",
           "text": "— Eso es... eso es...",
           "translationRu": "— Вот так... вот так...",
           "original": "— Ecco.... ecco...."
@@ -777,34 +1978,130 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-111",
-          "text": "Desde hacía tres meses esa madre, escondida bajo la mantilla, buscaba en todo lo que le decían su marido y los demás para consolarla y hacerla resignar, una palabra, una sola palabra.",
-          "translationRu": "Три месяца эта мать, укрытая под мантильей, искала во всём, что говорили ей муж и другие, чтобы утешить и примирить её, одно слово, хоть одно слово.",
-          "original": "Da tre mesi quella madre, lì nascosta sotto la mantiglia, cercava in tutto ciò che il marito e gli altri le dicevano per confortarla e indurla a rassegnarsi, una parola, una parola sola"
+          "id": "sent-313",
+          "text": "Desde hacía tres meses esa madre,",
+          "translationRu": "Три месяца эта мать,",
+          "original": "Da tre mesi quella madre,"
         },
         {
-          "id": "sent-112",
-          "text": "Una palabra que, en la sordera de su dolor oscuro, le despertara un eco.",
-          "translationRu": "Слово, которое в глухоте её тёмного горя пробудило бы отклик.",
-          "original": "che, nella sordità del suo cupo dolore, le destasse un'eco"
+          "id": "sent-314",
+          "text": "escondida bajo la mantilla,",
+          "translationRu": "укрытая под мантильей,",
+          "original": "lì nascosta sotto la mantiglia,"
         },
         {
-          "id": "sent-113",
-          "text": "Una que le hiciera entender que era posible para una madre resignarse a mandar al hijo, no ya a la muerte, sino solo a un probable riesgo de muerte.",
-          "translationRu": "Слово, которое дало бы ей понять: для матери возможно смириться с тем, чтобы отправить сына — не на смерть, а лишь на вероятный риск смерти.",
-          "original": "le facesse intendere come possibile per una madre la rassegnazione a mandare il figlio, non già alla morte, ma solo a un probabile rischio di vita"
+          "id": "sent-315",
+          "text": "buscaba en todo lo que le decían",
+          "translationRu": "искала во всём, что говорили ей",
+          "original": "cercava in tutto ciò che"
         },
         {
-          "id": "sent-114",
-          "text": "No había encontrado ninguna, nunca, entre las muchas palabras que le habían dicho.",
-          "translationRu": "Она не нашла ни одного такого слова — никогда — среди многих и многих слов, которые ей говорили.",
-          "original": "Non ne aveva trovata una, mai, tra le tante e tante che le erano state dette."
+          "id": "sent-316",
+          "text": "su marido y los demás",
+          "translationRu": "муж и другие,",
+          "original": "il marito e gli altri le dicevano"
         },
         {
-          "id": "sent-115",
-          "text": "Por eso había pensado que los demás podían hablar de resignación y consuelo solo porque no sentían lo que sentía ella.",
-          "translationRu": "Поэтому она решила, что другие могут говорить о смирении и утешении лишь потому, что не чувствуют того, что чувствует она.",
-          "original": "Aveva ritenuto perciò che gli altri parlavano, potevano parlare a lei così, di rassegnazione e di conforto, solo perchè non sentivano ciò che sentiva lei."
+          "id": "sent-317",
+          "text": "para consolarla y hacerla resignar,",
+          "translationRu": "чтобы утешить и примирить её,",
+          "original": "per confortarla e indurla a rassegnarsi,"
+        },
+        {
+          "id": "sent-318",
+          "text": "una palabra, una sola palabra.",
+          "translationRu": "одно слово, хоть одно слово.",
+          "original": "una parola, una parola sola"
+        },
+        {
+          "id": "sent-319",
+          "text": "Una palabra que,",
+          "translationRu": "Слово, которое",
+          "original": "che,"
+        },
+        {
+          "id": "sent-320",
+          "text": "en la sordera de su dolor oscuro,",
+          "translationRu": "в глухоте её тёмного горя",
+          "original": "nella sordità del suo cupo dolore,"
+        },
+        {
+          "id": "sent-321",
+          "text": "le despertara un eco.",
+          "translationRu": "пробудило бы отклик.",
+          "original": "le destasse un'eco"
+        },
+        {
+          "id": "sent-322",
+          "text": "Una que le hiciera entender",
+          "translationRu": "Слово, которое дало бы ей понять:",
+          "original": "le facesse intendere"
+        },
+        {
+          "id": "sent-323",
+          "text": "que era posible para una madre",
+          "translationRu": "для матери возможно",
+          "original": "come possibile per una madre"
+        },
+        {
+          "id": "sent-324",
+          "text": "resignarse a mandar al hijo,",
+          "translationRu": "смириться с тем, чтобы отправить сына —",
+          "original": "la rassegnazione a mandare il figlio,"
+        },
+        {
+          "id": "sent-325",
+          "text": "no ya a la muerte,",
+          "translationRu": "не на смерть,",
+          "original": "non già alla morte,"
+        },
+        {
+          "id": "sent-326",
+          "text": "sino solo a un probable riesgo de muerte.",
+          "translationRu": "а лишь на вероятный риск смерти.",
+          "original": "ma solo a un probabile rischio di vita"
+        },
+        {
+          "id": "sent-327",
+          "text": "No había encontrado ninguna, nunca,",
+          "translationRu": "Она не нашла ни одного такого слова — никогда —",
+          "original": "Non ne aveva trovata una, mai,"
+        },
+        {
+          "id": "sent-328",
+          "text": "entre las muchas palabras que le habían dicho.",
+          "translationRu": "среди многих и многих слов, которые ей говорили.",
+          "original": "tra le tante e tante che le erano state dette."
+        },
+        {
+          "id": "sent-329",
+          "text": "Por eso había pensado",
+          "translationRu": "Поэтому она решила,",
+          "original": "Aveva ritenuto perciò"
+        },
+        {
+          "id": "sent-330",
+          "text": "que los demás podían hablar",
+          "translationRu": "что другие могут говорить",
+          "original": "che gli altri parlavano, potevano parlare a lei così,"
+        },
+        {
+          "id": "sent-331",
+          "text": "de resignación y consuelo",
+          "translationRu": "о смирении и утешении",
+          "original": "di rassegnazione e di conforto,"
+        },
+        {
+          "id": "sent-332",
+          "text": "solo porque no sentían",
+          "translationRu": "лишь потому, что не чувствуют",
+          "original": "solo perchè non sentivano"
+        },
+        {
+          "id": "sent-333",
+          "text": "lo que sentía ella.",
+          "translationRu": "того, что чувствует она.",
+          "original": "ciò che sentiva lei."
         }
       ]
     },
@@ -812,22 +2109,70 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-116",
-          "text": "Las palabras de este viajero la aturdieron, la dejaron estupefacta.",
-          "translationRu": "Слова этого пассажира оглушили её, повергли в изумление.",
-          "original": "Le parole di questo viaggiatore, adesso, la stordirono, la sbalordirono."
+          "id": "sent-334",
+          "text": "Las palabras de este viajero",
+          "translationRu": "Слова этого пассажира",
+          "original": "Le parole di questo viaggiatore, adesso,"
         },
         {
-          "id": "sent-117",
-          "text": "De repente comprendió que no eran los otros los que no sentían lo que ella sentía.",
-          "translationRu": "Вдруг она поняла, что не другие не чувствовали то, что чувствовала она.",
-          "original": "Tutt'a un tratto comprese che non già gli altri non sentivano ciò che ella sentiva"
+          "id": "sent-335",
+          "text": "la aturdieron,",
+          "translationRu": "оглушили её,",
+          "original": "la stordirono,"
         },
         {
-          "id": "sent-118",
-          "text": "Era ella la que no conseguía sentir algo que todos los demás sentían, y por lo que ellos podían resignarse, no solo a la partida, sino también a la muerte de su propio hijo.",
-          "translationRu": "Это она сама не могла почувствовать то, что чувствовали все остальные, — то, что позволяло им примириться не только с уходом, но даже со смертью собственного сына.",
-          "original": "ma lei, invece, lei non riusciva a sentire qualcosa che tutti gli altri sentivano e per cui potevano rassegnarsi, non solo alla partenza, ma ecco, anche alla morte del proprio figliuolo."
+          "id": "sent-336",
+          "text": "la dejaron estupefacta.",
+          "translationRu": "повергли в изумление.",
+          "original": "la sbalordirono."
+        },
+        {
+          "id": "sent-337",
+          "text": "De repente comprendió",
+          "translationRu": "Вдруг она поняла,",
+          "original": "Tutt'a un tratto comprese"
+        },
+        {
+          "id": "sent-338",
+          "text": "que no eran los otros",
+          "translationRu": "что не другие",
+          "original": "che non già gli altri"
+        },
+        {
+          "id": "sent-339",
+          "text": "los que no sentían lo que ella sentía.",
+          "translationRu": "не чувствовали то, что чувствовала она.",
+          "original": "non sentivano ciò che ella sentiva"
+        },
+        {
+          "id": "sent-340",
+          "text": "Era ella la que no conseguía sentir",
+          "translationRu": "Это она сама не могла почувствовать",
+          "original": "ma lei, invece, lei non riusciva a sentire"
+        },
+        {
+          "id": "sent-341",
+          "text": "algo que todos los demás sentían,",
+          "translationRu": "то, что чувствовали все остальные, —",
+          "original": "qualcosa che tutti gli altri sentivano"
+        },
+        {
+          "id": "sent-342",
+          "text": "y por lo que ellos podían resignarse,",
+          "translationRu": "то, что позволяло им примириться",
+          "original": "e per cui potevano rassegnarsi,"
+        },
+        {
+          "id": "sent-343",
+          "text": "no solo a la partida,",
+          "translationRu": "не только с уходом,",
+          "original": "non solo alla partenza,"
+        },
+        {
+          "id": "sent-344",
+          "text": "sino también a la muerte de su propio hijo.",
+          "translationRu": "но даже со смертью собственного сына.",
+          "original": "ma ecco, anche alla morte del proprio figliuolo."
         }
       ]
     },
@@ -835,34 +2180,106 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-119",
-          "text": "Levantó la cabeza y se incorporó desde su rincón en el vagón para escuchar las respuestas que ese viajero daba a las preguntas de los compañeros.",
-          "translationRu": "Она подняла голову и поднялась со своего угла в вагоне, чтобы слушать ответы того пассажира на вопросы попутчиков.",
-          "original": "Levò il capo, si tirò su dall'angolo della vettura ad ascoltare le risposte che quel viaggiatore dava alle interrogazioni dei compagni"
+          "id": "sent-345",
+          "text": "Levantó la cabeza",
+          "translationRu": "Она подняла голову",
+          "original": "Levò il capo,"
         },
         {
-          "id": "sent-120",
-          "text": "Le preguntaban cuándo y cómo había muerto su hijo.",
-          "translationRu": "Они спрашивали, когда и как погиб его сын.",
-          "original": "sul quando, sul come gli fosse morto quel figliuolo"
+          "id": "sent-346",
+          "text": "y se incorporó desde su rincón en el vagón",
+          "translationRu": "и поднялась со своего угла в вагоне,",
+          "original": "si tirò su dall'angolo della vettura"
         },
         {
-          "id": "sent-121",
+          "id": "sent-347",
+          "text": "para escuchar las respuestas",
+          "translationRu": "чтобы слушать ответы",
+          "original": "ad ascoltare le risposte"
+        },
+        {
+          "id": "sent-348",
+          "text": "que ese viajero daba",
+          "translationRu": "того пассажира",
+          "original": "che quel viaggiatore dava"
+        },
+        {
+          "id": "sent-349",
+          "text": "a las preguntas de los compañeros.",
+          "translationRu": "на вопросы попутчиков.",
+          "original": "alle interrogazioni dei compagni"
+        },
+        {
+          "id": "sent-350",
+          "text": "Le preguntaban cuándo y cómo",
+          "translationRu": "Они спрашивали, когда и как",
+          "original": "sul quando, sul come"
+        },
+        {
+          "id": "sent-351",
+          "text": "había muerto su hijo.",
+          "translationRu": "погиб его сын.",
+          "original": "gli fosse morto quel figliuolo"
+        },
+        {
+          "id": "sent-352",
           "text": "Ella quedó atónita.",
           "translationRu": "Она застыла в оцепенении.",
           "original": "e trasecolò"
         },
         {
-          "id": "sent-122",
-          "text": "Le pareció que había caído en un mundo que no conocía, en el que se asomaba ahora por primera vez.",
-          "translationRu": "Ей казалось, что она упала в мир, которого не знала, в который сейчас заглядывала впервые.",
-          "original": "le parve d'esser piombata in un mondo ch'ella non conosceva, in cui s'affacciava ora per la prima volta"
+          "id": "sent-353",
+          "text": "Le pareció que había caído",
+          "translationRu": "Ей казалось, что она упала",
+          "original": "le parve d'esser piombata"
         },
         {
-          "id": "sent-123",
-          "text": "Sentía que todos los demás no solo entendían, sino que admiraban a ese anciano y lo felicitaban por poder hablar así de la muerte de su hijo.",
-          "translationRu": "Она чувствовала, что все остальные не только понимали, но и восхищались этим стариком, и поздравляли его с тем, что он может говорить так о смерти сына.",
-          "original": "sentendo che tutti gli altri non solo capivano, ma ammiravano anzi quel vecchio e si congratulavano con lui che poteva parlare così della morte del figliuolo."
+          "id": "sent-354",
+          "text": "en un mundo que no conocía,",
+          "translationRu": "в мир, которого не знала,",
+          "original": "in un mondo ch'ella non conosceva,"
+        },
+        {
+          "id": "sent-355",
+          "text": "en el que se asomaba ahora por primera vez.",
+          "translationRu": "в который сейчас заглядывала впервые.",
+          "original": "in cui s'affacciava ora per la prima volta"
+        },
+        {
+          "id": "sent-356",
+          "text": "Sentía que todos los demás",
+          "translationRu": "Она чувствовала, что все остальные",
+          "original": "sentendo che tutti gli altri"
+        },
+        {
+          "id": "sent-357",
+          "text": "no solo entendían,",
+          "translationRu": "не только понимали,",
+          "original": "non solo capivano,"
+        },
+        {
+          "id": "sent-358",
+          "text": "sino que admiraban a ese anciano",
+          "translationRu": "но и восхищались этим стариком,",
+          "original": "ma ammiravano anzi quel vecchio"
+        },
+        {
+          "id": "sent-359",
+          "text": "y lo felicitaban",
+          "translationRu": "и поздравляли его",
+          "original": "e si congratulavano con lui"
+        },
+        {
+          "id": "sent-360",
+          "text": "por poder hablar así",
+          "translationRu": "с тем, что он может говорить так",
+          "original": "che poteva parlare così"
+        },
+        {
+          "id": "sent-361",
+          "text": "de la muerte de su hijo.",
+          "translationRu": "о смерти сына.",
+          "original": "della morte del figliuolo."
         }
       ]
     },
@@ -870,22 +2287,64 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-124",
-          "text": "Pero de repente vio pintarse en el rostro de los cinco viajeros el mismo asombro que debía estar en el suyo.",
-          "translationRu": "Но вдруг она увидела на лицах пятерых пассажиров то же изумление, которое должно было быть на её собственном.",
-          "original": "Se non che, all'improvviso, vide dipingersi sul volto di quei cinque viaggiatori lo stesso sbalordimento che doveva esser sul suo"
+          "id": "sent-362",
+          "text": "Pero de repente vio pintarse",
+          "translationRu": "Но вдруг она увидела",
+          "original": "Se non che, all'improvviso, vide dipingersi"
         },
         {
-          "id": "sent-125",
-          "text": "Fue entonces cuando, sin quererlo, como si realmente no hubiera entendido ni comprendido nada todavía, saltó a preguntarle al anciano:",
-          "translationRu": "Именно тогда, невольно, как если бы она и вправду ещё ничего не услышала и не поняла, она вскочила и спросила старика:",
-          "original": "allorquando, proprio senza che ella lo volesse, come se veramente non avesse ancora inteso nè comprendesse nulla, saltò su a domandare a quel vecchio"
+          "id": "sent-363",
+          "text": "en el rostro de los cinco viajeros",
+          "translationRu": "на лицах пятерых пассажиров",
+          "original": "sul volto di quei cinque viaggiatori"
         },
         {
-          "id": "sent-126",
-          "text": "— Pero entonces... ¿entonces su hijo ha muerto?",
-          "translationRu": "— Но тогда... тогда ваш сын умер?",
-          "original": "— Ma dunque.... dunque il suo figliuolo è morto?"
+          "id": "sent-364",
+          "text": "el mismo asombro",
+          "translationRu": "то же изумление,",
+          "original": "lo stesso sbalordimento"
+        },
+        {
+          "id": "sent-365",
+          "text": "que debía estar en el suyo.",
+          "translationRu": "которое должно было быть на её собственном.",
+          "original": "che doveva esser sul suo"
+        },
+        {
+          "id": "sent-366",
+          "text": "Fue entonces cuando, sin quererlo,",
+          "translationRu": "Именно тогда, невольно,",
+          "original": "allorquando, proprio senza che ella lo volesse,"
+        },
+        {
+          "id": "sent-367",
+          "text": "como si realmente no hubiera entendido",
+          "translationRu": "как если бы она и вправду ещё ничего не услышала",
+          "original": "come se veramente non avesse ancora inteso"
+        },
+        {
+          "id": "sent-368",
+          "text": "ni comprendido nada todavía,",
+          "translationRu": "и не поняла,",
+          "original": "nè comprendesse nulla,"
+        },
+        {
+          "id": "sent-369",
+          "text": "saltó a preguntarle al anciano:",
+          "translationRu": "она вскочила и спросила старика:",
+          "original": "saltò su a domandare a quel vecchio"
+        },
+        {
+          "id": "sent-370",
+          "text": "— Pero entonces...",
+          "translationRu": "— Но тогда...",
+          "original": "— Ma dunque...."
+        },
+        {
+          "id": "sent-371",
+          "text": "¿entonces su hijo ha muerto?",
+          "translationRu": "тогда ваш сын умер?",
+          "original": "dunque il suo figliuolo è morto?"
         }
       ]
     },
@@ -893,28 +2352,106 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-127",
-          "text": "El anciano se volvió a mirarla con esos ojos atroces, enormemente abiertos.",
-          "translationRu": "Старик обернулся и посмотрел на неё этими страшными, широко раскрытыми глазами.",
-          "original": "Il vecchio si voltò a guardarla con quegli occhi atroci, smisuratamente sbarrati."
+          "id": "sent-372",
+          "text": "El anciano se volvió a mirarla",
+          "translationRu": "Старик обернулся и посмотрел на неё",
+          "original": "Il vecchio si voltò a guardarla"
         },
         {
-          "id": "sent-128",
+          "id": "sent-373",
+          "text": "con esos ojos atroces,",
+          "translationRu": "этими страшными,",
+          "original": "con quegli occhi atroci,"
+        },
+        {
+          "id": "sent-374",
+          "text": "enormemente abiertos.",
+          "translationRu": "широко раскрытыми глазами.",
+          "original": "smisuratamente sbarrati."
+        },
+        {
+          "id": "sent-375",
           "text": "La miró, la miró.",
           "translationRu": "Смотрел на неё, смотрел.",
           "original": "La guardò, la guardò"
         },
         {
-          "id": "sent-129",
-          "text": "Y de repente, a su vez, como si solo ahora, ante esa pregunta inoportuna, ante ese asombro fuera de lugar, comprendiera que al final, en ese momento, su hijo había muerto de verdad para él, se agitó, se deformó, sacó precipitadamente el pañuelo del bolsillo.",
-          "translationRu": "И вдруг, в свою очередь, как будто лишь сейчас, перед этим неуместным вопросом, перед этим неуместным удивлением, он понял, что в конце концов, в этот самый момент, его сын умер для него по-настоящему — он задёргался, его лицо исказилось, он торопливо вытащил платок из кармана.",
-          "original": "e tutt'a un tratto, a sua volta, come se soltanto adesso, a quella domanda incongruente, a quella meraviglia fuor di posto, comprendesse che alla fine, in quel punto, il suo figliuolo era veramente morto per lui, s'arruffò, si contraffece, trasse a precipizio il fazzoletto dalla tasca"
+          "id": "sent-376",
+          "text": "Y de repente, a su vez,",
+          "translationRu": "И вдруг, в свою очередь,",
+          "original": "e tutt'a un tratto, a sua volta,"
         },
         {
-          "id": "sent-130",
-          "text": "Y, entre el estupor y la emoción de todos, estalló en sollozos agudos, desgarradores, incontenibles.",
-          "translationRu": "И под немым изумлением и волнением всех разразился острыми, раздирающими, неудержимыми рыданиями.",
-          "original": "e, tra lo stupore e la commozione di tutti, scoppiò in acuti, strazianti, irrefrenabili singhiozzi."
+          "id": "sent-377",
+          "text": "como si solo ahora,",
+          "translationRu": "как будто лишь сейчас,",
+          "original": "come se soltanto adesso,"
+        },
+        {
+          "id": "sent-378",
+          "text": "ante esa pregunta inoportuna,",
+          "translationRu": "перед этим неуместным вопросом,",
+          "original": "a quella domanda incongruente,"
+        },
+        {
+          "id": "sent-379",
+          "text": "ante ese asombro fuera de lugar,",
+          "translationRu": "перед этим неуместным удивлением,",
+          "original": "a quella meraviglia fuor di posto,"
+        },
+        {
+          "id": "sent-380",
+          "text": "comprendiera que al final,",
+          "translationRu": "он понял, что в конце концов,",
+          "original": "comprendesse che alla fine,"
+        },
+        {
+          "id": "sent-381",
+          "text": "en ese momento,",
+          "translationRu": "в этот самый момент,",
+          "original": "in quel punto,"
+        },
+        {
+          "id": "sent-382",
+          "text": "su hijo había muerto de verdad para él,",
+          "translationRu": "его сын умер для него по-настоящему —",
+          "original": "il suo figliuolo era veramente morto per lui,"
+        },
+        {
+          "id": "sent-383",
+          "text": "se agitó,",
+          "translationRu": "он задёргался,",
+          "original": "s'arruffò,"
+        },
+        {
+          "id": "sent-384",
+          "text": "se deformó,",
+          "translationRu": "его лицо исказилось,",
+          "original": "si contraffece,"
+        },
+        {
+          "id": "sent-385",
+          "text": "sacó precipitadamente el pañuelo del bolsillo.",
+          "translationRu": "он торопливо вытащил платок из кармана.",
+          "original": "trasse a precipizio il fazzoletto dalla tasca"
+        },
+        {
+          "id": "sent-386",
+          "text": "Y, entre el estupor y la emoción de todos,",
+          "translationRu": "И под немым изумлением и волнением всех",
+          "original": "e, tra lo stupore e la commozione di tutti,"
+        },
+        {
+          "id": "sent-387",
+          "text": "estalló en sollozos agudos,",
+          "translationRu": "разразился острыми,",
+          "original": "scoppiò in acuti,"
+        },
+        {
+          "id": "sent-388",
+          "text": "desgarradores, incontenibles.",
+          "translationRu": "раздирающими, неудержимыми рыданиями.",
+          "original": "strazianti, irrefrenabili singhiozzi."
         }
       ]
     }
