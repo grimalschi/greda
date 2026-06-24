@@ -185,7 +185,8 @@ export function ReaderPage() {
           const room = r
             ? (placement.startsWith('top') ? r.top : vh - r.bottom) - 16
             : availableHeight
-          elements.floating.style.maxHeight = `${Math.max(160, room)}px`
+          // Жёсткий потолок 280px; но не выше реально доступного места (чтобы не вылезать за экран).
+          elements.floating.style.maxHeight = `${Math.min(280, Math.max(140, room))}px`
         },
       }),
     ],
