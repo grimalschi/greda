@@ -42,13 +42,20 @@ function PanelContent({
 }) {
   const [tab, setTab] = useState<'translation' | 'original' | 'explain'>('translation')
   const [ex, setEx] = useState<ExplainState>({ loading: false, text: '', error: '' })
+  // Запрос объяснения «липкий»: как только вкладку открыли — генерация идёт и продолжается,
+  // даже если переключиться на другую вкладку и обратно (переключение НЕ обрывает поток).
+  const [explainRequested, setExplainRequested] = useState(false)
 
   const provider = settings.aiProvider
   const apiKey = provider === 'openai' ? settings.openaiApiKey : settings.openrouterApiKey
   const model = provider === 'openai' ? settings.openaiModel : settings.openrouterModel
 
   useEffect(() => {
-    if (tab !== 'explain') return
+    if (tab === 'explain') setExplainRequested(true)
+  }, [tab])
+
+  useEffect(() => {
+    if (!explainRequested) return
     const args = { text: sentence.text, prompt: settings.explainPrompt, provider, apiKey, model }
     if (!apiKey.trim()) {
       setEx({ loading: false, text: '', error: 'no-key' })
@@ -81,7 +88,7 @@ function PanelContent({
       cancelled = true
       ctrl.abort()
     }
-  }, [tab, sentence.text, provider, apiKey, model, settings.explainPrompt])
+  }, [explainRequested, sentence.text, provider, apiKey, model, settings.explainPrompt])
 
   return (
     <>
@@ -156,9 +163,12 @@ export function ReaderPage() {
   const [anchorEl, setAnchorEl] = useState<HTMLElement | null>(null)
 
   // Floating UI держит поповер в границах экрана (flip/shift) и задаёт адекватную высоту (size).
+  // strategy 'absolute' (а не 'fixed'): поповер лежит в потоке документа и прокручивается
+  // ВМЕСТЕ с текстом нативно, без подёргиваний по событию скролла. flip/shift пересчитываются
+  // лишь когда реально нужно сменить сторону. Ширина фиксированная — задаётся в CSS (.tpop).
   const { refs, floatingStyles } = useFloating({
     open: translationMode === 'popover' && !!panelSent,
-    strategy: 'fixed',
+    strategy: 'absolute',
     placement: 'bottom-start',
     middleware: [
       offset(8),
@@ -166,11 +176,8 @@ export function ReaderPage() {
       shift({ padding: 8 }),
       size({
         padding: 8,
-        apply({ availableHeight, availableWidth, elements }) {
-          Object.assign(elements.floating.style, {
-            maxHeight: `${Math.max(160, availableHeight)}px`,
-            maxWidth: `${Math.min(380, availableWidth)}px`,
-          })
+        apply({ availableHeight, elements }) {
+          elements.floating.style.maxHeight = `${Math.max(160, availableHeight)}px`
         },
       }),
     ],

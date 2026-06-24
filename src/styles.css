@@ -596,6 +596,8 @@ button {
 }
 .tpop {
   z-index: 50;
+  /* Фиксированная ширина — по ширине текстовой колонки (var(--maxw) минус паддинги .container). */
+  width: min(calc(100vw - 16px), calc(var(--maxw) - 32px));
   border: 1px solid color-mix(in srgb, var(--text) 14%, transparent);
   border-radius: 14px;
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.28);
@@ -642,8 +644,13 @@ button {
   color: var(--muted);
 }
 .tpanel__body {
-  padding: 14px 16px calc(16px + env(safe-area-inset-bottom, 0px));
+  padding: 14px 16px 16px;
   overflow-y: auto;
+}
+/* Safe-area отступ нужен только Drawer (он у нижнего края экрана), а не Popover —
+   иначе на телефоне в поповере появлялся лишний нижний отступ высотой со строку. */
+.tdrawer .tpanel__body {
+  padding-bottom: calc(16px + env(safe-area-inset-bottom, 0px));
 }
 .tpanel__ru {
   color: var(--text);
@@ -654,7 +661,6 @@ button {
   color: var(--text);
   line-height: 1.6;
   font-size: 1.02em;
-  font-style: italic;
 }
 .tpanel__explain {
   color: var(--text);
