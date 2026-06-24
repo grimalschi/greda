@@ -13,54 +13,84 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Éramos veintiséis hombres, veintiséis máquinas vivientes",
-          "translationRu": "Нас было двадцать шесть человек, двадцать шесть живых машин,",
-          "original": "There were six-and-twenty of us--six-and-twenty living machines"
+          "text": "Éramos veintiséis hombres,",
+          "translationRu": "Нас было двадцать шесть человек,",
+          "original": "There were six-and-twenty of us--six-and-twenty"
         },
         {
           "id": "sent-002",
+          "text": "veintiséis máquinas vivientes",
+          "translationRu": "двадцать шесть живых машин,",
+          "original": "living machines"
+        },
+        {
+          "id": "sent-003",
           "text": "encerradas en un sótano húmedo y oscuro.",
           "translationRu": "запертых в сыром и тёмном подвале.",
           "original": "in a damp, underground cellar"
         },
         {
-          "id": "sent-003",
-          "text": "Desde la mañana hasta la noche trabajábamos allí,",
-          "translationRu": "С утра до ночи мы работали там,",
-          "original": "where from morning till night we kneaded dough"
-        },
-        {
           "id": "sent-004",
-          "text": "amasando masa y formando rosquillas.",
-          "translationRu": "замешивая тесто и делая бублики.",
-          "original": "and rolled it into kringels"
+          "text": "Desde la mañana hasta la noche",
+          "translationRu": "С утра до ночи",
+          "original": "where from morning till night"
         },
         {
           "id": "sent-005",
-          "text": "Frente a la ventana de nuestro sótano había un patio empedrado,",
-          "translationRu": "Напротив окна нашего подвала был мощёный двор,",
-          "original": "Opposite the underground window of our cellar was a bricked area,"
+          "text": "trabajábamos allí,",
+          "translationRu": "мы работали там,",
+          "original": "we"
         },
         {
           "id": "sent-006",
+          "text": "amasando masa",
+          "translationRu": "замешивая тесто",
+          "original": "kneaded dough"
+        },
+        {
+          "id": "sent-007",
+          "text": "y formando rosquillas.",
+          "translationRu": "и делая бублики.",
+          "original": "and rolled it into kringels"
+        },
+        {
+          "id": "sent-008",
+          "text": "Frente a la ventana de nuestro sótano",
+          "translationRu": "Напротив окна нашего подвала",
+          "original": "Opposite the underground window of our cellar"
+        },
+        {
+          "id": "sent-009",
+          "text": "había un patio empedrado,",
+          "translationRu": "был мощёный двор,",
+          "original": "was a bricked area,"
+        },
+        {
+          "id": "sent-010",
           "text": "verde y húmedo por la humedad.",
           "translationRu": "зелёный и влажный от сырости.",
           "original": "green and mouldy with moisture."
         },
         {
-          "id": "sent-007",
-          "text": "La ventana estaba protegida desde afuera por una reja de hierro.",
-          "translationRu": "Окно было защищено снаружи железной решёткой.",
-          "original": "The window was protected from outside with a close iron grating"
+          "id": "sent-011",
+          "text": "La ventana estaba protegida desde afuera",
+          "translationRu": "Окно было защищено снаружи",
+          "original": "The window was protected from outside"
         },
         {
-          "id": "sent-008",
+          "id": "sent-012",
+          "text": "por una reja de hierro.",
+          "translationRu": "железной решёткой.",
+          "original": "with a close iron grating"
+        },
+        {
+          "id": "sent-013",
           "text": "La luz del sol no podía entrar",
           "translationRu": "Солнечный свет не мог проникнуть внутрь,",
           "original": "and the light of the sun could not pierce through the window panes,"
         },
         {
-          "id": "sent-009",
+          "id": "sent-014",
           "text": "porque los cristales estaban cubiertos de polvo de harina.",
           "translationRu": "потому что стёкла были покрыты мучной пылью.",
           "original": "covered as they were with flour dust."
@@ -71,52 +101,87 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-010",
+          "id": "sent-015",
           "text": "Nuestro patrón había puesto rejas en las ventanas",
           "translationRu": "Наш хозяин поставил решётки на окна,",
           "original": "Our employer had bars placed in front of the windows,"
         },
         {
-          "id": "sent-011",
-          "text": "para que no pudiéramos dar pan a los mendigos que pasaban por la calle.",
-          "translationRu": "чтобы мы не могли давать хлеб нищим, которые проходили мимо.",
-          "original": "so that we should not be able to give a bit of his bread to passing beggars"
+          "id": "sent-016",
+          "text": "para que no pudiéramos dar pan",
+          "translationRu": "чтобы мы не могли давать хлеб",
+          "original": "so that we should not be able to give a bit of his bread"
         },
         {
-          "id": "sent-012",
-          "text": "También lo hacía para que no diéramos nada a nuestros compañeros que estaban sin trabajo y con hambre.",
-          "translationRu": "Ещё — чтобы мы ничего не отдавали нашим товарищам, которые оставались без работы и голодали.",
-          "original": "or to any of our fellows who were out of work and hungry."
+          "id": "sent-017",
+          "text": "a los mendigos que pasaban por la calle.",
+          "translationRu": "нищим, которые проходили мимо.",
+          "original": "to passing beggars"
         },
         {
-          "id": "sent-013",
+          "id": "sent-018",
+          "text": "También lo hacía para que no diéramos nada",
+          "translationRu": "Ещё — чтобы мы ничего не отдавали",
+          "original": "or to any of our fellows"
+        },
+        {
+          "id": "sent-019",
+          "text": "a nuestros compañeros que estaban sin trabajo y con hambre.",
+          "translationRu": "нашим товарищам, которые оставались без работы и голодали.",
+          "original": "who were out of work and hungry."
+        },
+        {
+          "id": "sent-020",
           "text": "El patrón nos llamaba pillos",
           "translationRu": "Хозяин называл нас мошенниками",
           "original": "Our employer called us rogues,"
         },
         {
-          "id": "sent-014",
-          "text": "y en vez de carne nos daba callos medio podridos para comer al mediodía.",
-          "translationRu": "и вместо мяса давал нам полусгнившие потроха на обед.",
-          "original": "and gave us half-rotten tripe to eat for our mid-day meal, instead of meat."
+          "id": "sent-021",
+          "text": "y en vez de carne nos daba callos medio podridos",
+          "translationRu": "и вместо мяса давал нам полусгнившие потроха",
+          "original": "and gave us half-rotten tripe to eat"
         },
         {
-          "id": "sent-015",
+          "id": "sent-022",
+          "text": "para comer al mediodía.",
+          "translationRu": "на обед.",
+          "original": "for our mid-day meal, instead of meat."
+        },
+        {
+          "id": "sent-023",
           "text": "Hacía mucho calor en aquella cámara de piedra bajo tierra.",
           "translationRu": "В той каменной подземной камере было очень жарко.",
           "original": "It was swelteringly close for us cooped up in that stone underground chamber"
         },
         {
-          "id": "sent-016",
-          "text": "El techo era bajo, pesado, negro de hollín y lleno de telarañas.",
-          "translationRu": "Потолок был низкий, тяжёлый, чёрный от копоти и покрытый паутиной.",
-          "original": "under the low, heavy, soot-blackened, cobwebby ceiling."
+          "id": "sent-024",
+          "text": "El techo era bajo, pesado,",
+          "translationRu": "Потолок был низкий, тяжёлый,",
+          "original": "under the low, heavy,"
         },
         {
-          "id": "sent-017",
-          "text": "Nuestra vida entre aquellas paredes gruesas, sucias y mohosas era triste y agotadora.",
-          "translationRu": "Наша жизнь между теми толстыми, грязными и заплесневелыми стенами была унылой и изматывающей.",
+          "id": "sent-025",
+          "text": "negro de hollín",
+          "translationRu": "чёрный от копоти",
+          "original": "soot-blackened,"
+        },
+        {
+          "id": "sent-026",
+          "text": "y lleno de telarañas.",
+          "translationRu": "и покрытый паутиной.",
+          "original": "cobwebby ceiling."
+        },
+        {
+          "id": "sent-027",
+          "text": "Nuestra vida entre aquellas paredes gruesas, sucias y mohosas",
+          "translationRu": "Наша жизнь между теми толстыми, грязными и заплесневелыми стенами",
           "original": "Dreary and sickening was our life between its thick, dirty, mouldy walls."
+        },
+        {
+          "id": "sent-028",
+          "text": "era triste y agotadora.",
+          "translationRu": "была унылой и изматывающей."
         }
       ]
     },
@@ -124,31 +189,42 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-018",
-          "text": "Nos levantábamos a las cinco de la mañana sin haber descansado bien.",
-          "translationRu": "Мы вставали в пять утра, так и не выспавшись как следует.",
+          "id": "sent-029",
+          "text": "Nos levantábamos a las cinco de la mañana",
+          "translationRu": "Мы вставали в пять утра,",
           "original": "Unrefreshed, and with a feeling of not having had our sleep out, we used to get up at five o'clock in the morning"
         },
         {
-          "id": "sent-019",
+          "id": "sent-030",
+          "text": "sin haber descansado bien.",
+          "translationRu": "так и не выспавшись как следует."
+        },
+        {
+          "id": "sent-031",
           "text": "Antes de las seis ya estábamos sentados a la mesa,",
           "translationRu": "До шести часов мы уже сидели за столом,",
           "original": "and before six, we were already seated,"
         },
         {
-          "id": "sent-020",
+          "id": "sent-032",
           "text": "cansados y sin ánimo.",
           "translationRu": "усталые и апатичные.",
           "original": "worn out and apathetic, at the table"
         },
         {
-          "id": "sent-021",
-          "text": "Trabajábamos la masa que nuestros compañeros ya habían preparado",
-          "translationRu": "Мы обрабатывали тесто, которое наши товарищи уже успели приготовить,",
-          "original": "rolling out the dough which our mates had already prepared"
+          "id": "sent-033",
+          "text": "Trabajábamos la masa",
+          "translationRu": "Мы обрабатывали тесто,",
+          "original": "rolling out the dough"
         },
         {
-          "id": "sent-022",
+          "id": "sent-034",
+          "text": "que nuestros compañeros ya habían preparado",
+          "translationRu": "которое наши товарищи уже успели приготовить,",
+          "original": "which our mates had already prepared"
+        },
+        {
+          "id": "sent-035",
           "text": "mientras nosotros dormíamos.",
           "translationRu": "пока мы спали.",
           "original": "while we slept."
@@ -159,63 +235,86 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-023",
-          "text": "Todo el día, desde las diez de la mañana hasta las diez de la noche,",
-          "translationRu": "Весь день, с десяти утра до десяти вечера,",
-          "original": "The whole day, from ten in the early morning until ten at night,"
+          "id": "sent-036",
+          "text": "Todo el día,",
+          "translationRu": "Весь день,",
+          "original": "The whole day,"
         },
         {
-          "id": "sent-024",
+          "id": "sent-037",
+          "text": "desde las diez de la mañana hasta las diez de la noche,",
+          "translationRu": "с десяти утра до десяти вечера,",
+          "original": "from ten in the early morning until ten at night,"
+        },
+        {
+          "id": "sent-038",
           "text": "algunos de nosotros estaban sentados alrededor de esa mesa.",
           "translationRu": "некоторые из нас сидели вокруг того стола.",
           "original": "some of us sat round that table"
         },
         {
-          "id": "sent-025",
+          "id": "sent-039",
           "text": "Trabajaban la masa blanda con las manos,",
           "translationRu": "Они месили мягкое тесто руками,",
           "original": "working up in our hands the yielding paste,"
         },
         {
-          "id": "sent-026",
+          "id": "sent-040",
           "text": "estirándola de un lado a otro",
           "translationRu": "перекатывая его туда и обратно,",
           "original": "rolling it to and fro"
         },
         {
-          "id": "sent-027",
+          "id": "sent-041",
           "text": "para que no se endureciera.",
           "translationRu": "чтобы оно не затвердевало.",
           "original": "so that it should not get stiff"
         },
         {
-          "id": "sent-028",
-          "text": "Otros amasaban la gran masa que crecía y se hinchaba.",
-          "translationRu": "Другие замешивали большую массу теста, которая росла и пузырилась.",
+          "id": "sent-042",
+          "text": "Otros amasaban la gran masa",
+          "translationRu": "Другие замешивали большую массу теста,",
           "original": "while the others kneaded the swelling mass of dough."
         },
         {
-          "id": "sent-029",
-          "text": "Todo el día el agua caliente en el caldero cantaba en voz baja y triste,",
-          "translationRu": "Весь день горячая вода в котле пела тихо и грустно,",
-          "original": "And the whole day the simmering water in the kettle, where the kringels were being cooked, sang low and sadly"
+          "id": "sent-043",
+          "text": "que crecía y se hinchaba.",
+          "translationRu": "которая росла и пузырилась."
         },
         {
-          "id": "sent-030",
+          "id": "sent-044",
+          "text": "Todo el día el agua caliente en el caldero",
+          "translationRu": "Весь день горячая вода в котле",
+          "original": "And the whole day the simmering water in the kettle,"
+        },
+        {
+          "id": "sent-045",
+          "text": "cantaba en voz baja y triste,",
+          "translationRu": "пела тихо и грустно,",
+          "original": "where the kringels were being cooked, sang low and sadly"
+        },
+        {
+          "id": "sent-046",
           "text": "mientras cocían las rosquillas.",
           "translationRu": "пока в ней варились бублики."
         },
         {
-          "id": "sent-031",
+          "id": "sent-047",
           "text": "La pala del panadero rascaba con fuerza el suelo del horno",
           "translationRu": "Лопата пекаря скрипела по полу печи,",
           "original": "and the baker's shovel scraped harshly over the oven floor,"
         },
         {
-          "id": "sent-032",
-          "text": "cuando sacaba los trozos de masa cocida sobre los ladrillos calientes.",
-          "translationRu": "когда он выбрасывал куски варёного теста на горячие кирпичи.",
-          "original": "as he threw the slippery bits of dough out of the kettle on the heated bricks."
+          "id": "sent-048",
+          "text": "cuando sacaba los trozos de masa cocida",
+          "translationRu": "когда он выбрасывал куски варёного теста",
+          "original": "as he threw the slippery bits of dough out of the kettle"
+        },
+        {
+          "id": "sent-049",
+          "text": "sobre los ladrillos calientes.",
+          "translationRu": "на горячие кирпичи.",
+          "original": "on the heated bricks."
         }
       ]
     },
@@ -223,88 +322,124 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-033",
-          "text": "Desde la mañana hasta la noche ardía leña en el horno.",
-          "translationRu": "С утра до ночи в печи горели дрова.",
-          "original": "From morning till evening wood was burning in the oven"
+          "id": "sent-050",
+          "text": "Desde la mañana hasta la noche",
+          "translationRu": "С утра до ночи",
+          "original": "From morning till evening"
         },
         {
-          "id": "sent-034",
-          "text": "La luz roja del fuego brillaba y parpadeaba sobre las paredes de la panadería,",
-          "translationRu": "Красный свет огня блестел и мерцал на стенах булочной,",
-          "original": "and the red glow of the fire gleamed and flickered over the walls of the bake-shop,"
+          "id": "sent-051",
+          "text": "ardía leña en el horno.",
+          "translationRu": "в печи горели дрова.",
+          "original": "wood was burning in the oven"
         },
         {
-          "id": "sent-035",
+          "id": "sent-052",
+          "text": "La luz roja del fuego brillaba y parpadeaba",
+          "translationRu": "Красный свет огня блестел и мерцал",
+          "original": "and the red glow of the fire gleamed and flickered"
+        },
+        {
+          "id": "sent-053",
+          "text": "sobre las paredes de la panadería,",
+          "translationRu": "на стенах булочной,",
+          "original": "over the walls of the bake-shop,"
+        },
+        {
+          "id": "sent-054",
           "text": "como burlándose de nosotros en silencio.",
           "translationRu": "словно молча насмехаясь над нами.",
           "original": "as if silently mocking us."
         },
         {
-          "id": "sent-036",
-          "text": "El gran horno parecía la cabeza deforme de un monstruo de cuento.",
-          "translationRu": "Большая печь была похожа на уродливую голову сказочного чудовища.",
-          "original": "The giant oven was like the misshapen head of a monster in a fairy tale"
+          "id": "sent-055",
+          "text": "El gran horno parecía la cabeza deforme",
+          "translationRu": "Большая печь была похожа на уродливую голову",
+          "original": "The giant oven was like the misshapen head"
         },
         {
-          "id": "sent-037",
+          "id": "sent-056",
+          "text": "de un monstruo de cuento.",
+          "translationRu": "сказочного чудовища.",
+          "original": "of a monster in a fairy tale"
+        },
+        {
+          "id": "sent-057",
           "text": "Salía del suelo,",
           "translationRu": "Она вырастала из пола,",
           "original": "it thrust itself up out of the floor,"
         },
         {
-          "id": "sent-038",
+          "id": "sent-058",
           "text": "abría unas fauces anchas llenas de fuego brillante",
           "translationRu": "распахивала широкую пасть, полную яркого огня,",
           "original": "opened wide jaws, full of glowing fire,"
         },
         {
-          "id": "sent-039",
+          "id": "sent-059",
           "text": "y nos soplaba su aliento caliente.",
           "translationRu": "и дышала на нас жаром.",
           "original": "and blew hot breath upon us"
         },
         {
-          "id": "sent-040",
-          "text": "Parecía que siempre nos vigilaba desde sus dos agujeros negros.",
-          "translationRu": "Казалось, она всегда наблюдает за нами из своих двух чёрных отверстий.",
-          "original": "it seemed to be ever watching out of its black air-holes our interminable work."
+          "id": "sent-060",
+          "text": "Parecía que siempre nos vigilaba",
+          "translationRu": "Казалось, она всегда наблюдает за нами",
+          "original": "it seemed to be ever watching"
         },
         {
-          "id": "sent-041",
+          "id": "sent-061",
+          "text": "desde sus dos agujeros negros.",
+          "translationRu": "из своих двух чёрных отверстий.",
+          "original": "out of its black air-holes our interminable work."
+        },
+        {
+          "id": "sent-062",
           "text": "Esos dos agujeros profundos eran como ojos:",
           "translationRu": "Эти два глубоких отверстия были как глаза:",
           "original": "Those two deep holes were like eyes:"
         },
         {
-          "id": "sent-042",
+          "id": "sent-063",
           "text": "los ojos fríos y sin piedad de un monstruo.",
           "translationRu": "холодные и беспощадные глаза чудовища.",
           "original": "the cold, pitiless eyes of a monster."
         },
         {
-          "id": "sent-043",
+          "id": "sent-064",
           "text": "Nos miraban siempre con la misma mirada oscura,",
           "translationRu": "Они смотрели на нас всегда одним и тем же мрачным взглядом,",
           "original": "They watched us always with the same darkened glance,"
         },
         {
-          "id": "sent-044",
-          "text": "como si estuvieran cansados de ver eternamente delante de ellos a esos esclavos sin remedio.",
-          "translationRu": "словно им надоело вечно видеть перед собой этих безнадёжных рабов.",
-          "original": "as if they were weary of seeing before them such eternal slaves, from whom they could expect nothing human, and therefore scorned them with the cold scorn of wisdom."
+          "id": "sent-065",
+          "text": "como si estuvieran cansados de ver eternamente delante de ellos",
+          "translationRu": "словно им надоело вечно видеть перед собой",
+          "original": "as if they were weary of seeing before them"
         },
         {
-          "id": "sent-045",
+          "id": "sent-066",
+          "text": "a esos esclavos sin remedio.",
+          "translationRu": "этих безнадёжных рабов.",
+          "original": "such eternal slaves, from whom they could expect nothing human, and therefore scorned them with the cold scorn of wisdom."
+        },
+        {
+          "id": "sent-067",
           "text": "No esperaban nada humano de nosotros",
           "translationRu": "Они не ждали от нас ничего человеческого",
           "original": "from whom they could expect nothing human,"
         },
         {
-          "id": "sent-046",
-          "text": "y por eso nos despreciaban con el frío desprecio de quien todo lo sabe.",
-          "translationRu": "и потому презирали нас с холодным презрением всезнающего.",
-          "original": "and therefore scorned them with the cold scorn of wisdom."
+          "id": "sent-068",
+          "text": "y por eso nos despreciaban",
+          "translationRu": "и потому презирали нас",
+          "original": "and therefore scorned them"
+        },
+        {
+          "id": "sent-069",
+          "text": "con el frío desprecio de quien todo lo sabe.",
+          "translationRu": "с холодным презрением всезнающего.",
+          "original": "with the cold scorn of wisdom."
         }
       ]
     },
@@ -312,49 +447,61 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-047",
+          "id": "sent-070",
           "text": "Entre el polvo de harina,",
           "translationRu": "В мучной пыли,",
           "original": "In meal dust,"
         },
         {
-          "id": "sent-048",
+          "id": "sent-071",
           "text": "el barro que traíamos del patio en las botas",
           "translationRu": "в грязи, которую мы приносили с двора на сапогах,",
           "original": "in the mud which we brought in from the yard on our boots,"
         },
         {
-          "id": "sent-049",
+          "id": "sent-072",
           "text": "y el calor pegajoso,",
           "translationRu": "и в липкой жаре —",
           "original": "in the hot, sticky atmosphere,"
         },
         {
-          "id": "sent-050",
-          "text": "día tras día formábamos las rosquillas.",
-          "translationRu": "день за днём мы лепили бублики.",
-          "original": "day in, day out, we rolled the dough into kringels"
+          "id": "sent-073",
+          "text": "día tras día",
+          "translationRu": "день за днём",
+          "original": "day in, day out,"
         },
         {
-          "id": "sent-051",
+          "id": "sent-074",
+          "text": "formábamos las rosquillas.",
+          "translationRu": "мы лепили бублики.",
+          "original": "we rolled the dough into kringels"
+        },
+        {
+          "id": "sent-075",
           "text": "Las mojábamos con nuestro propio sudor.",
           "translationRu": "Мы смачивали их нашим собственным потом.",
           "original": "which we moistened with our own sweat."
         },
         {
-          "id": "sent-052",
-          "text": "Odiábamos nuestro trabajo con un odio intenso.",
-          "translationRu": "Мы ненавидели свою работу лютой ненавистью.",
-          "original": "And we hated our work with a glowing hatred"
+          "id": "sent-076",
+          "text": "Odiábamos nuestro trabajo",
+          "translationRu": "Мы ненавидели свою работу",
+          "original": "And we hated our work"
         },
         {
-          "id": "sent-053",
+          "id": "sent-077",
+          "text": "con un odio intenso.",
+          "translationRu": "лютой ненавистью.",
+          "original": "with a glowing hatred"
+        },
+        {
+          "id": "sent-078",
           "text": "Nunca comíamos lo que habían pasado nuestras manos",
           "translationRu": "Мы никогда не ели то, что прошло через наши руки,",
           "original": "we never ate what had passed through our hands,"
         },
         {
-          "id": "sent-054",
+          "id": "sent-079",
           "text": "y preferíamos el pan negro a las rosquillas.",
           "translationRu": "и предпочитали чёрный хлеб бубликам.",
           "original": "and preferred black bread to kringels."
@@ -365,25 +512,36 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-055",
-          "text": "Sentados unos frente a otros a una mesa larga — nueve mirando a nueve —",
-          "translationRu": "Сидя друг напротив друга за длинным столом — девять напротив девяти —",
+          "id": "sent-080",
+          "text": "Sentados unos frente a otros a una mesa larga",
+          "translationRu": "Сидя друг напротив друга за длинным столом",
           "original": "Sitting opposite each other, at a long table--nine facing nine--"
         },
         {
-          "id": "sent-056",
-          "text": "movíamos las manos y los dedos de forma mecánica durante horas interminables.",
-          "translationRu": "мы двигали руками и пальцами механически, час за часом без конца.",
-          "original": "we moved our hands and fingers mechanically during endlessly long hours"
+          "id": "sent-081",
+          "text": "— nueve mirando a nueve —",
+          "translationRu": "— девять напротив девяти —"
         },
         {
-          "id": "sent-057",
+          "id": "sent-082",
+          "text": "movíamos las manos y los dedos de forma mecánica",
+          "translationRu": "мы двигали руками и пальцами механически,",
+          "original": "we moved our hands and fingers mechanically"
+        },
+        {
+          "id": "sent-083",
+          "text": "durante horas interminables.",
+          "translationRu": "час за часом без конца.",
+          "original": "during endlessly long hours"
+        },
+        {
+          "id": "sent-084",
           "text": "Con el tiempo nos acostumbramos tanto a nuestro trabajo monótono",
           "translationRu": "Со временем мы так привыкли к своей однообразной работе,",
           "original": "till we were so accustomed to our monotonous work"
         },
         {
-          "id": "sent-058",
+          "id": "sent-085",
           "text": "que dejamos de prestarle atención.",
           "translationRu": "что перестали обращать на неё внимание.",
           "original": "that we ceased to pay any attention to it."
@@ -394,91 +552,97 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-059",
+          "id": "sent-086",
           "text": "Nos habíamos estudiado tanto los unos a los otros",
           "translationRu": "Мы так хорошо изучили друг друга,",
           "original": "We had all studied each other so constantly,"
         },
         {
-          "id": "sent-060",
+          "id": "sent-087",
           "text": "que cada uno conocía cada arruga en la cara de sus compañeros.",
           "translationRu": "что каждый знал каждую морщину на лице своих товарищей.",
           "original": "that each of us knew every wrinkle of his mates' faces."
         },
         {
-          "id": "sent-061",
+          "id": "sent-088",
           "text": "No tardamos en agotar casi todos los temas de conversación.",
           "translationRu": "Вскоре мы исчерпали почти все темы для разговора.",
           "original": "It was not long also before we had exhausted almost every topic of conversation"
         },
         {
-          "id": "sent-062",
+          "id": "sent-089",
           "text": "Por eso la mayor parte del tiempo nos quedábamos callados,",
           "translationRu": "Поэтому большую часть времени мы молчали,",
           "original": "that is why we were most of the time silent,"
         },
         {
-          "id": "sent-063",
+          "id": "sent-090",
           "text": "aunque a veces nos tomábamos el pelo unos a otros.",
           "translationRu": "хотя иногда и подшучивали друг над другом.",
           "original": "unless we were chaffing each other"
         },
         {
-          "id": "sent-064",
+          "id": "sent-091",
           "text": "Pero no siempre se encuentra algo de lo que burlarse de otro,",
           "translationRu": "Но не всегда найдёшь что-то, над чем можно посмеяться,",
           "original": "but one cannot always find something about which to chaff another man,"
         },
         {
-          "id": "sent-065",
+          "id": "sent-092",
           "text": "sobre todo cuando ese otro es tu compañero de trabajo.",
           "translationRu": "особенно когда этот другой — твой рабочий товарищ.",
           "original": "especially when that man is one's mate."
         },
         {
-          "id": "sent-066",
+          "id": "sent-093",
           "text": "Tampoco teníamos mucha costumbre de criticarnos los unos a los otros.",
           "translationRu": "Да и критиковать друг друга у нас тоже было не принято.",
           "original": "Neither were we much given to finding fault with one another"
         },
         {
-          "id": "sent-067",
+          "id": "sent-094",
           "text": "¿Cómo podría uno de nosotros, pobres diablos, criticar a otro",
           "translationRu": "Как мог кто-то из нас, бедных дьяволов, осуждать другого,",
           "original": "how, indeed, could one of us poor devils be in a position to find fault with another,"
         },
         {
-          "id": "sent-068",
-          "text": "cuando todos estábamos medio muertos y como convertidos en piedra?",
-          "translationRu": "когда все мы были полумёртвые и словно окаменевшие?",
-          "original": "when we were all of us half dead and, as it were, turned to stone?"
+          "id": "sent-095",
+          "text": "cuando todos estábamos medio muertos",
+          "translationRu": "когда все мы были полумёртвые",
+          "original": "when we were all of us half dead"
         },
         {
-          "id": "sent-069",
+          "id": "sent-096",
+          "text": "y como convertidos en piedra?",
+          "translationRu": "и словно окаменевшие?",
+          "original": "and, as it were, turned to stone?"
+        },
+        {
+          "id": "sent-097",
           "text": "El duro trabajo parecía aplastar todo sentimiento en nosotros.",
           "translationRu": "Тяжёлый труд, казалось, давил и уничтожал в нас всякое чувство.",
           "original": "For the heavy drudgery seemed to crush all feeling out of us."
         },
         {
-          "id": "sent-070",
+          "id": "sent-098",
           "text": "Pero el silencio sólo es terrible para quienes ya lo han dicho todo",
           "translationRu": "Но молчание страшно лишь для тех, кто уже всё сказал",
           "original": "But silence is only terrible and fearful for those who have said everything"
         },
         {
-          "id": "sent-071",
+          "id": "sent-099",
           "text": "y no tienen nada más que decirse.",
           "translationRu": "и больше не о чем говорить.",
           "original": "and have nothing more to say to each other"
         },
         {
-          "id": "sent-072",
+          "id": "sent-100",
           "text": "Para los hombres que nunca han empezado a comunicarse de verdad,",
           "translationRu": "Для людей, которые никогда по-настоящему и не начинали общаться,",
           "original": "for men, on the contrary, who have never begun to communicate with one another,"
         },
         {
-          "id": "sent-073",
+          "id": "sent-101",
           "text": "el silencio es fácil y sencillo.",
           "translationRu": "молчание просто и естественно.",
           "original": "it is easy and simple."
@@ -489,40 +653,51 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-074",
+          "id": "sent-102",
           "text": "A veces también cantábamos,",
           "translationRu": "Иногда мы пели,",
           "original": "Sometimes, too, we sang;"
         },
         {
-          "id": "sent-075",
+          "id": "sent-103",
           "text": "y así fue como empezamos a hacerlo.",
           "translationRu": "и вот как это началось.",
           "original": "and this is how it happened that we began to sing"
         },
         {
-          "id": "sent-076",
-          "text": "En medio del trabajo, uno de nosotros suspiraba profundamente,",
-          "translationRu": "Среди работы кто-нибудь из нас глубоко вздыхал,",
+          "id": "sent-104",
+          "text": "En medio del trabajo,",
+          "translationRu": "Среди работы"
+        },
+        {
+          "id": "sent-105",
+          "text": "uno de nosotros suspiraba profundamente,",
+          "translationRu": "кто-нибудь из нас глубоко вздыхал,",
           "original": "one of us would sigh deeply in the midst of our toil,"
         },
         {
-          "id": "sent-077",
+          "id": "sent-106",
           "text": "como un caballo agotado.",
           "translationRu": "как загнанная лошадь.",
           "original": "like an overdriven horse"
         },
         {
-          "id": "sent-078",
+          "id": "sent-107",
           "text": "Entonces empezábamos uno de esos cantos",
           "translationRu": "И тогда мы начинали одну из тех песен,",
           "original": "and then we would begin one of those songs"
         },
         {
-          "id": "sent-079",
-          "text": "cuya melodía suave y balanceante siempre parece aliviar la carga en el corazón del que canta.",
-          "translationRu": "чья мягкая, покачивающаяся мелодия всегда словно снимает груз с сердца певца.",
-          "original": "whose gentle swaying melody seems always to ease the burden on the singer's heart."
+          "id": "sent-108",
+          "text": "cuya melodía suave y balanceante",
+          "translationRu": "чья мягкая, покачивающаяся мелодия",
+          "original": "whose gentle swaying melody"
+        },
+        {
+          "id": "sent-109",
+          "text": "siempre parece aliviar la carga en el corazón del que canta.",
+          "translationRu": "всегда словно снимает груз с сердца певца.",
+          "original": "seems always to ease the burden on the singer's heart."
         }
       ]
     },
@@ -530,43 +705,49 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-080",
+          "id": "sent-110",
           "text": "Al principio cantaba uno solo,",
           "translationRu": "Сначала пел кто-то один,",
           "original": "At first one sang by himself,"
         },
         {
-          "id": "sent-081",
-          "text": "y los demás nos sentábamos en silencio escuchando su canto solitario.",
-          "translationRu": "а остальные сидели молча и слушали его одинокое пение.",
-          "original": "and we others sat in silence listening to his solitary song"
+          "id": "sent-111",
+          "text": "y los demás nos sentábamos en silencio",
+          "translationRu": "а остальные сидели молча",
+          "original": "and we others sat in silence"
         },
         {
-          "id": "sent-082",
+          "id": "sent-112",
+          "text": "escuchando su canto solitario.",
+          "translationRu": "и слушали его одинокое пение.",
+          "original": "listening to his solitary song"
+        },
+        {
+          "id": "sent-113",
           "text": "Bajo el techo abovedado y pesado del sótano,",
           "translationRu": "Под тяжёлым сводчатым потолком подвала",
           "original": "which, under the heavy vaulted roof of the cellar,"
         },
         {
-          "id": "sent-083",
+          "id": "sent-114",
           "text": "la canción se apagaba poco a poco.",
           "translationRu": "песня постепенно угасала.",
           "original": "died gradually away"
         },
         {
-          "id": "sent-084",
+          "id": "sent-115",
           "text": "Se extinguía como una pequeña hoguera en la estepa,",
           "translationRu": "Она гасла, как маленький костёр в степи",
           "original": "and became extinguished, like a little fire in the steppes,"
         },
         {
-          "id": "sent-085",
+          "id": "sent-116",
           "text": "en una noche húmeda de otoño,",
           "translationRu": "в сырую осеннюю ночь,",
           "original": "on a wet autumn night,"
         },
         {
-          "id": "sent-086",
+          "id": "sent-117",
           "text": "cuando el cielo gris cuelga como una masa pesada sobre la tierra.",
           "translationRu": "когда серое небо нависает над землёй тяжёлой громадой.",
           "original": "when the gray heaven hangs like a heavy mass over the earth."
@@ -577,76 +758,112 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-087",
+          "id": "sent-118",
           "text": "Luego otro se unía al que cantaba,",
           "translationRu": "Потом кто-то другой присоединялся к певцу,",
           "original": "Then another would join in with the singer,"
         },
         {
-          "id": "sent-088",
-          "text": "y dos voces suaves y tristes rompían a cantar en nuestro estrecho y apagado agujero de sótano.",
-          "translationRu": "и два тихих, грустных голоса звучали в нашей тесной и унылой подвальной норе.",
-          "original": "and now two soft, sad voices would break into song in our narrow, dull hole of a cellar."
+          "id": "sent-119",
+          "text": "y dos voces suaves y tristes rompían a cantar",
+          "translationRu": "и два тихих, грустных голоса звучали",
+          "original": "and now two soft, sad voices would break into song"
         },
         {
-          "id": "sent-089",
+          "id": "sent-120",
+          "text": "en nuestro estrecho y apagado agujero de sótano.",
+          "translationRu": "в нашей тесной и унылой подвальной норе.",
+          "original": "in our narrow, dull hole of a cellar."
+        },
+        {
+          "id": "sent-121",
           "text": "De repente se añadían otros,",
           "translationRu": "Внезапно присоединялись другие,",
           "original": "Suddenly others would join in,"
         },
         {
-          "id": "sent-090",
+          "id": "sent-122",
           "text": "y la canción avanzaba como una ola.",
           "translationRu": "и песня катилась вперёд, как волна.",
           "original": "and the song would roll forward like a wave"
         },
         {
-          "id": "sent-091",
+          "id": "sent-123",
           "text": "Crecía, se hacía más fuerte, subía más alto,",
           "translationRu": "Она росла, становилась громче, поднималась всё выше,",
           "original": "would grow louder and swell upward,"
         },
         {
-          "id": "sent-092",
-          "text": "hasta parecer que las paredes húmedas y sucias de nuestra prisión de piedra se abrían y se ensanchaban.",
-          "translationRu": "и казалось, что сырые и грязные стены нашей каменной тюрьмы раздвигаются и расширяются.",
-          "original": "till it would seem as if the damp, foul walls of our stone prison were widening out and opening."
+          "id": "sent-124",
+          "text": "hasta parecer que las paredes húmedas y sucias de nuestra prisión de piedra",
+          "translationRu": "и казалось, что сырые и грязные стены нашей каменной тюрьмы",
+          "original": "till it would seem as if the damp, foul walls of our stone prison"
         },
         {
-          "id": "sent-093",
+          "id": "sent-125",
+          "text": "se abrían y se ensanchaban.",
+          "translationRu": "раздвигаются и расширяются.",
+          "original": "were widening out and opening."
+        },
+        {
+          "id": "sent-126",
           "text": "Entonces los veintiséis cantábamos todos a la vez.",
           "translationRu": "Тогда все двадцать шесть пели разом.",
           "original": "Then, all six-and-twenty of us would be singing"
         },
         {
-          "id": "sent-094",
-          "text": "Nuestro canto fuerte y armonioso llenaba todo el sótano.",
-          "translationRu": "Наше громкое и стройное пение заполняло весь подвал.",
-          "original": "our loud, harmonious song would fill the whole cellar"
+          "id": "sent-127",
+          "text": "Nuestro canto fuerte y armonioso",
+          "translationRu": "Наше громкое и стройное пение",
+          "original": "our loud, harmonious song"
         },
         {
-          "id": "sent-095",
+          "id": "sent-128",
+          "text": "llenaba todo el sótano.",
+          "translationRu": "заполняло весь подвал.",
+          "original": "would fill the whole cellar"
+        },
+        {
+          "id": "sent-129",
           "text": "Las voces salían al exterior",
           "translationRu": "Голоса вырывались наружу",
           "original": "our voices would travel outside and beyond,"
         },
         {
-          "id": "sent-096",
-          "text": "y golpeaban contra las paredes como gemidos y suspiros.",
-          "translationRu": "и ударялись о стены, как стоны и вздохи.",
-          "original": "striking, as it were, against the walls in moaning sobs and sighs"
+          "id": "sent-130",
+          "text": "y golpeaban contra las paredes",
+          "translationRu": "и ударялись о стены,",
+          "original": "striking, as it were, against the walls"
         },
         {
-          "id": "sent-097",
-          "text": "Conmovían nuestros corazones con un dolor suave y atormentador.",
-          "translationRu": "Они трогали наши сердца мягкой и мучительной болью.",
-          "original": "moving our hearts with soft, tantalizing ache"
+          "id": "sent-131",
+          "text": "como gemidos y suspiros.",
+          "translationRu": "как стоны и вздохи.",
+          "original": "in moaning sobs and sighs"
         },
         {
-          "id": "sent-098",
-          "text": "Abrían viejas heridas y despertaban anhelos perdidos.",
-          "translationRu": "Они открывали старые раны и пробуждали забытые желания.",
-          "original": "tearing open old wounds, and awakening longings."
+          "id": "sent-132",
+          "text": "Conmovían nuestros corazones",
+          "translationRu": "Они трогали наши сердца",
+          "original": "moving our hearts"
+        },
+        {
+          "id": "sent-133",
+          "text": "con un dolor suave y atormentador.",
+          "translationRu": "мягкой и мучительной болью.",
+          "original": "with soft, tantalizing ache"
+        },
+        {
+          "id": "sent-134",
+          "text": "Abrían viejas heridas",
+          "translationRu": "Они открывали старые раны",
+          "original": "tearing open old wounds,"
+        },
+        {
+          "id": "sent-135",
+          "text": "y despertaban anhelos perdidos.",
+          "translationRu": "и пробуждали забытые желания.",
+          "original": "and awakening longings."
         }
       ]
     },
@@ -654,46 +871,75 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-099",
+          "id": "sent-136",
           "text": "Los cantantes suspiraban profundo y fuerte.",
           "translationRu": "Певцы вздыхали глубоко и тяжело.",
           "original": "The singers would sigh deeply and heavily"
         },
         {
-          "id": "sent-100",
-          "text": "De repente uno se callaba y escuchaba a los demás cantar,",
-          "translationRu": "Вдруг кто-то умолкал и слушал, как поют другие,",
-          "original": "suddenly one would become silent and listen to the others singing,"
+          "id": "sent-137",
+          "text": "De repente uno se callaba",
+          "translationRu": "Вдруг кто-то умолкал",
+          "original": "suddenly one would become silent"
         },
         {
-          "id": "sent-101",
+          "id": "sent-138",
+          "text": "y escuchaba a los demás cantar,",
+          "translationRu": "и слушал, как поют другие,",
+          "original": "and listen to the others singing,"
+        },
+        {
+          "id": "sent-139",
           "text": "y luego dejaba que su voz volviera a fluir en la corriente común.",
           "translationRu": "а затем снова давал голосу течь в общем потоке.",
           "original": "then let his voice flow once more in the common tide."
         },
         {
-          "id": "sent-102",
+          "id": "sent-140",
           "text": "Otro exclamaba con voz ahogada «¡Ah!»",
           "translationRu": "Другой восклицал сдавленным голосом «Ах!»",
           "original": "Another would exclaim in a stifled voice, \"Ah!\""
         },
         {
-          "id": "sent-103",
+          "id": "sent-141",
           "text": "y cerraba los ojos.",
           "translationRu": "и закрывал глаза.",
           "original": "and would shut his eyes"
         },
         {
-          "id": "sent-104",
-          "text": "Las olas profundas y plenas del sonido le mostraban, como si fuera real, un camino delante de él: un camino ancho y soleado en la lejanía.",
-          "translationRu": "Глубокие и полные волны звука показывали ему, словно наяву, дорогу впереди: широкую, залитую солнцем дорогу вдали.",
-          "original": "while the deep, full sound waves would show him, as it were, a road, in front of him--a sunlit, broad road in the distance"
+          "id": "sent-142",
+          "text": "Las olas profundas y plenas del sonido",
+          "translationRu": "Глубокие и полные волны звука",
+          "original": "while the deep, full sound waves"
         },
         {
-          "id": "sent-105",
-          "text": "Y él mismo, en su pensamiento, caminaba por ese camino.",
-          "translationRu": "И сам он в своих мыслях шёл по той дороге.",
-          "original": "which he himself, in thought wandered along."
+          "id": "sent-143",
+          "text": "le mostraban, como si fuera real,",
+          "translationRu": "показывали ему, словно наяву,",
+          "original": "would show him, as it were,"
+        },
+        {
+          "id": "sent-144",
+          "text": "un camino delante de él:",
+          "translationRu": "дорогу впереди:",
+          "original": "a road, in front of him--a sunlit, broad road in the distance"
+        },
+        {
+          "id": "sent-145",
+          "text": "un camino ancho y soleado en la lejanía.",
+          "translationRu": "широкую, залитую солнцем дорогу вдали."
+        },
+        {
+          "id": "sent-146",
+          "text": "Y él mismo, en su pensamiento,",
+          "translationRu": "И сам он в своих мыслях",
+          "original": "which he himself, in thought"
+        },
+        {
+          "id": "sent-147",
+          "text": "caminaba por ese camino.",
+          "translationRu": "шёл по той дороге.",
+          "original": "wandered along."
         }
       ]
     },
@@ -701,43 +947,55 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-106",
+          "id": "sent-148",
           "text": "Pero la llama parpadeaba de nuevo en el gran horno,",
           "translationRu": "Но пламя снова мерцало в большой печи,",
           "original": "But the flame flickers once more in the huge oven,"
         },
         {
-          "id": "sent-107",
+          "id": "sent-149",
           "text": "el panadero rascaba sin parar con su pala,",
           "translationRu": "пекарь без устали скрёб своей лопатой,",
           "original": "the baker scrapes incessantly with his shovel,"
         },
         {
-          "id": "sent-108",
+          "id": "sent-150",
           "text": "el agua hervía en el caldero",
           "translationRu": "вода кипела в котле,",
           "original": "the water simmers in the kettle,"
         },
         {
-          "id": "sent-109",
-          "text": "y el reflejo del fuego en la pared bailaba como antes, burlándose en silencio.",
-          "translationRu": "и отблеск огня на стене плясал по-прежнему, молча насмехаясь.",
-          "original": "and the flicker of the fire on the wall dances as before in silent mockery."
+          "id": "sent-151",
+          "text": "y el reflejo del fuego en la pared bailaba como antes,",
+          "translationRu": "и отблеск огня на стене плясал по-прежнему,",
+          "original": "and the flicker of the fire on the wall dances as before"
         },
         {
-          "id": "sent-110",
-          "text": "En las palabras de otros hombres cantábamos nuestra pena muda:",
-          "translationRu": "В словах чужих песен мы пели нашу немую скорбь:",
-          "original": "While in other men's words we sing out our dumb grief,"
+          "id": "sent-152",
+          "text": "burlándose en silencio.",
+          "translationRu": "молча насмехаясь.",
+          "original": "in silent mockery."
         },
         {
-          "id": "sent-111",
+          "id": "sent-153",
+          "text": "En las palabras de otros hombres",
+          "translationRu": "В словах чужих песен",
+          "original": "While in other men's words"
+        },
+        {
+          "id": "sent-154",
+          "text": "cantábamos nuestra pena muda:",
+          "translationRu": "мы пели нашу немую скорбь:",
+          "original": "we sing out our dumb grief,"
+        },
+        {
+          "id": "sent-155",
           "text": "la pena pesada de hombres vivos a quienes habían robado la luz del sol,",
           "translationRu": "тяжёлую скорбь живых людей, у которых украли солнечный свет,",
           "original": "the weary burden of live men robbed of the sunlight,"
         },
         {
-          "id": "sent-112",
+          "id": "sent-156",
           "text": "la pena de los esclavos.",
           "translationRu": "скорбь рабов.",
           "original": "the burden of slaves."
@@ -748,28 +1006,34 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-113",
+          "id": "sent-157",
           "text": "Así vivíamos nosotros, los veintiséis,",
           "translationRu": "Так и жили мы, двадцать шесть,",
           "original": "So we lived, we six-and-twenty,"
         },
         {
-          "id": "sent-114",
+          "id": "sent-158",
           "text": "en el sótano como una bóveda de una gran casa de piedra.",
           "translationRu": "в похожем на склеп подвале большого каменного дома.",
           "original": "in the vault-like cellar of a great stone house"
         },
         {
-          "id": "sent-115",
+          "id": "sent-159",
           "text": "Sufríamos cada uno de nosotros,",
           "translationRu": "Каждый из нас страдал так,",
           "original": "and we suffered each one of us,"
         },
         {
-          "id": "sent-116",
-          "text": "como si tuviéramos que cargar sobre los hombros los tres pisos enteros de esa casa.",
-          "translationRu": "словно должен был нести на плечах все три этажа того дома.",
-          "original": "as if we had to bear on our shoulders the whole three storys of that house."
+          "id": "sent-160",
+          "text": "como si tuviéramos que cargar sobre los hombros",
+          "translationRu": "словно должен был нести на плечах",
+          "original": "as if we had to bear on our shoulders"
+        },
+        {
+          "id": "sent-161",
+          "text": "los tres pisos enteros de esa casa.",
+          "translationRu": "все три этажа того дома.",
+          "original": "the whole three storys of that house."
         }
       ]
     },
@@ -777,13 +1041,18 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-117",
-          "text": "Pero teníamos algo bueno más, además del canto: algo que queríamos mucho",
-          "translationRu": "Но у нас было кое-что ещё хорошее, помимо пения: нечто, что мы очень любили",
+          "id": "sent-162",
+          "text": "Pero teníamos algo bueno más, además del canto:",
+          "translationRu": "Но у нас было кое-что ещё хорошее, помимо пения:",
           "original": "But we had something else good, besides the singing--something we loved,"
         },
         {
-          "id": "sent-118",
+          "id": "sent-163",
+          "text": "algo que queríamos mucho",
+          "translationRu": "нечто, что мы очень любили"
+        },
+        {
+          "id": "sent-164",
           "text": "y que quizás nos daba lo que el sol no podía darnos.",
           "translationRu": "и что, может быть, заменяло нам солнечный свет.",
           "original": "that perhaps took the place of the sunshine."
@@ -794,46 +1063,70 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-119",
-          "text": "En el segundo piso de nuestra casa había un taller de bordados en oro.",
-          "translationRu": "На втором этаже нашего дома находилась мастерская золотого шитья.",
-          "original": "In the second story of our house there was established a gold-embroiderer's shop"
+          "id": "sent-165",
+          "text": "En el segundo piso de nuestra casa",
+          "translationRu": "На втором этаже нашего дома",
+          "original": "In the second story of our house"
         },
         {
-          "id": "sent-120",
-          "text": "Allí, entre las otras bordadoras, vivía Tania,",
-          "translationRu": "Там, среди других вышивальщиц, жила Таня —",
-          "original": "and there, living among the other embroidery girls, was Tanya,"
+          "id": "sent-166",
+          "text": "había un taller de bordados en oro.",
+          "translationRu": "находилась мастерская золотого шитья.",
+          "original": "there was established a gold-embroiderer's shop"
         },
         {
-          "id": "sent-121",
+          "id": "sent-167",
+          "text": "Allí, entre las otras bordadoras,",
+          "translationRu": "Там, среди других вышивальщиц,",
+          "original": "and there, living among the other embroidery girls,"
+        },
+        {
+          "id": "sent-168",
+          "text": "vivía Tania,",
+          "translationRu": "жила Таня —",
+          "original": "was Tanya,"
+        },
+        {
+          "id": "sent-169",
           "text": "una jovencita criada de dieciséis años.",
           "translationRu": "молодая служанка шестнадцати лет.",
           "original": "a little maid-servant of sixteen."
         },
         {
-          "id": "sent-122",
-          "text": "Cada mañana aparecía en la puerta de cristal una carita rosada,",
-          "translationRu": "Каждое утро в стеклянной двери появлялось розовое личико",
-          "original": "Every morning there peeped in through the glass door a rosy little face,"
+          "id": "sent-170",
+          "text": "Cada mañana aparecía en la puerta de cristal",
+          "translationRu": "Каждое утро в стеклянной двери появлялось",
+          "original": "Every morning there peeped in through the glass door"
         },
         {
-          "id": "sent-123",
+          "id": "sent-171",
+          "text": "una carita rosada,",
+          "translationRu": "розовое личико",
+          "original": "a rosy little face,"
+        },
+        {
+          "id": "sent-172",
           "text": "con ojos azules y alegres.",
           "translationRu": "с весёлыми голубыми глазами.",
           "original": "with merry blue eyes"
         },
         {
-          "id": "sent-124",
+          "id": "sent-173",
           "text": "Una voz clara y tierna nos llamaba:",
           "translationRu": "Звонкий и нежный голос кричал нам:",
           "original": "while a ringing, tender voice called out to us:"
         },
         {
-          "id": "sent-125",
-          "text": "«¡Prisioneros! ¿Tienen rosquillas para mí, por favor?»",
-          "translationRu": "«Арестанты! У вас есть бублики для меня, пожалуйста?»",
-          "original": "\"Little prisoners! Have you any knugels, please, for me?\""
+          "id": "sent-174",
+          "text": "«¡Prisioneros!",
+          "translationRu": "«Арестанты!",
+          "original": "\"Little prisoners!"
+        },
+        {
+          "id": "sent-175",
+          "text": "¿Tienen rosquillas para mí, por favor?»",
+          "translationRu": "У вас есть бублики для меня, пожалуйста?»",
+          "original": "Have you any knugels, please, for me?\""
         }
       ]
     },
@@ -841,112 +1134,148 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-126",
+          "id": "sent-176",
           "text": "Al escuchar aquel sonido tan conocido,",
           "translationRu": "Услышав этот хорошо знакомый звук,",
           "original": "At that clear sound, we knew so well,"
         },
         {
-          "id": "sent-127",
-          "text": "nos girábamos todos y mirábamos con alegría sincera aquel rostro puro de muchacha",
-          "translationRu": "мы все оборачивались и с искренней радостью смотрели на то чистое девичье лицо,",
-          "original": "we all used to turn round, gazing with simple-hearted joy at the pure girlish face"
+          "id": "sent-177",
+          "text": "nos girábamos todos",
+          "translationRu": "мы все оборачивались",
+          "original": "we all used to turn round,"
         },
         {
-          "id": "sent-128",
+          "id": "sent-178",
+          "text": "y mirábamos con alegría sincera",
+          "translationRu": "и с искренней радостью смотрели",
+          "original": "gazing with simple-hearted joy"
+        },
+        {
+          "id": "sent-179",
+          "text": "aquel rostro puro de muchacha",
+          "translationRu": "на то чистое девичье лицо,",
+          "original": "at the pure girlish face"
+        },
+        {
+          "id": "sent-180",
           "text": "que nos sonreía con tanta dulzura.",
           "translationRu": "которое так нежно нам улыбалось.",
           "original": "which smiled at us so sweetly."
         },
         {
-          "id": "sent-129",
+          "id": "sent-181",
           "text": "La naricita apretada contra el cristal",
           "translationRu": "Носик, прижатый к стеклу,",
           "original": "The sight of the small nose pressed against the window-pane,"
         },
         {
-          "id": "sent-130",
+          "id": "sent-182",
           "text": "y los dientes blancos que brillaban entre los labios entreabiertos",
           "translationRu": "и белые зубы, блестевшие между полуоткрытыми губами,",
           "original": "and of the white teeth gleaming between the half-open lips,"
         },
         {
-          "id": "sent-131",
+          "id": "sent-183",
           "text": "se habían convertido para nosotros en un placer diario.",
           "translationRu": "стали для нас ежедневной радостью.",
           "original": "had become for us a daily pleasure."
         },
         {
-          "id": "sent-132",
-          "text": "Nos empujábamos para ser los primeros en abrir la puerta.",
-          "translationRu": "Мы толкались, чтобы первыми открыть дверь.",
-          "original": "Tumbling over each other we used to jump up to open the door"
+          "id": "sent-184",
+          "text": "Nos empujábamos",
+          "translationRu": "Мы толкались,",
+          "original": "Tumbling over each other"
         },
         {
-          "id": "sent-133",
+          "id": "sent-185",
+          "text": "para ser los primeros en abrir la puerta.",
+          "translationRu": "чтобы первыми открыть дверь.",
+          "original": "we used to jump up to open the door"
+        },
+        {
+          "id": "sent-186",
           "text": "Ella entraba alegre y luminosa,",
           "translationRu": "Она входила весёлая и светлая,",
           "original": "and she would step in, bright and cheerful,"
         },
         {
-          "id": "sent-134",
+          "id": "sent-187",
           "text": "sosteniendo el delantal con las manos,",
           "translationRu": "держа руками передник,",
           "original": "holding out her apron,"
         },
         {
-          "id": "sent-135",
+          "id": "sent-188",
           "text": "con la cabeza un poco inclinada",
           "translationRu": "слегка склонив голову",
           "original": "with her head thrown on one side,"
         },
         {
-          "id": "sent-136",
+          "id": "sent-189",
           "text": "y una sonrisa en los labios.",
           "translationRu": "и с улыбкой на губах.",
           "original": "and a smile on her lips."
         },
         {
-          "id": "sent-137",
-          "text": "Su larga y gruesa trenza castaña caía sobre su hombro y sobre su pecho.",
-          "translationRu": "Её длинная и густая каштановая коса падала на плечо и на грудь.",
-          "original": "Her thick, long chestnut hair fell over her shoulder and across her breast."
+          "id": "sent-190",
+          "text": "Su larga y gruesa trenza castaña",
+          "translationRu": "Её длинная и густая каштановая коса",
+          "original": "Her thick, long chestnut hair"
         },
         {
-          "id": "sent-138",
+          "id": "sent-191",
+          "text": "caía sobre su hombro y sobre su pecho.",
+          "translationRu": "падала на плечо и на грудь.",
+          "original": "fell over her shoulder and across her breast."
+        },
+        {
+          "id": "sent-192",
           "text": "Pero nosotros, feos, sucios y deformes,",
           "translationRu": "Но мы, уродливые, грязные и изуродованные,",
           "original": "But we, ugly, dirty and misshapen as we were,"
         },
         {
-          "id": "sent-139",
+          "id": "sent-193",
           "text": "la mirábamos desde abajo.",
           "translationRu": "смотрели на неё снизу вверх.",
           "original": "looked up at her"
         },
         {
-          "id": "sent-140",
-          "text": "El umbral de la puerta quedaba cuatro escalones más arriba que el suelo del sótano.",
-          "translationRu": "Порог двери был на четыре ступени выше пола подвала.",
-          "original": "the threshold door was four steps above the floor"
+          "id": "sent-194",
+          "text": "El umbral de la puerta quedaba cuatro escalones más arriba",
+          "translationRu": "Порог двери был на четыре ступени выше",
+          "original": "the threshold door was four steps above"
         },
         {
-          "id": "sent-141",
+          "id": "sent-195",
+          "text": "que el suelo del sótano.",
+          "translationRu": "пола подвала.",
+          "original": "the floor"
+        },
+        {
+          "id": "sent-196",
           "text": "La mirábamos con la cabeza echada hacia atrás,",
           "translationRu": "Мы смотрели на неё, запрокинув головы,",
           "original": "looked up at her with heads thrown back,"
         },
         {
-          "id": "sent-142",
+          "id": "sent-197",
           "text": "la deseábamos buenos días",
           "translationRu": "желали ей доброго утра",
           "original": "wishing her good-morning,"
         },
         {
-          "id": "sent-143",
-          "text": "y le decíamos palabras extrañas y poco acostumbradas que guardábamos sólo para ella.",
-          "translationRu": "и говорили ей странные, непривычные слова, которые берегли только для неё.",
-          "original": "and speaking strange, unaccustomed words, which we kept for her only."
+          "id": "sent-198",
+          "text": "y le decíamos palabras extrañas y poco acostumbradas",
+          "translationRu": "и говорили ей странные, непривычные слова,",
+          "original": "and speaking strange, unaccustomed words,"
+        },
+        {
+          "id": "sent-199",
+          "text": "que guardábamos sólo para ella.",
+          "translationRu": "которые берегли только для неё.",
+          "original": "which we kept for her only."
         }
       ]
     },
@@ -954,31 +1283,31 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-144",
+          "id": "sent-200",
           "text": "Nuestra voz se volvía más suave cuando le hablábamos,",
           "translationRu": "Наш голос становился мягче, когда мы с ней говорили,",
           "original": "Our voices became softer when we spoke to her,"
         },
         {
-          "id": "sent-145",
+          "id": "sent-201",
           "text": "y nuestras bromas eran más ligeras.",
           "translationRu": "и наши шутки были легче.",
           "original": "our jests were lighter."
         },
         {
-          "id": "sent-146",
+          "id": "sent-202",
           "text": "Con ella todo era diferente para nosotros.",
           "translationRu": "С ней всё было для нас другим.",
           "original": "For her--everything was different with us."
         },
         {
-          "id": "sent-147",
+          "id": "sent-203",
           "text": "El panadero sacaba del horno con su pala las mejores rosquillas, las más doradas,",
           "translationRu": "Пекарь брал из печи лопатой лучшие бублики, самые румяные,",
           "original": "The baker took from his oven a shovel of the best and the brownest kringels,"
         },
         {
-          "id": "sent-148",
+          "id": "sent-204",
           "text": "y las echaba con habilidad en el delantal de Tania.",
           "translationRu": "и ловко бросал их в передник Тани.",
           "original": "and threw them deftly into Tanya's apron."
@@ -989,31 +1318,37 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-149",
+          "id": "sent-205",
           "text": "«¡Corre, que el jefe te va a pillar!»,",
           "translationRu": "«Беги, а то хозяин поймает!» —",
           "original": "\"Be off with you now, or the boss will catch you!\""
         },
         {
-          "id": "sent-150",
+          "id": "sent-206",
           "text": "le avisábamos cada vez.",
           "translationRu": "предупреждали мы её каждый раз.",
           "original": "we warned her each time."
         },
         {
-          "id": "sent-151",
+          "id": "sent-207",
           "text": "Ella se reía con picardía",
           "translationRu": "Она лукаво смеялась",
           "original": "She laughed roguishly,"
         },
         {
-          "id": "sent-152",
-          "text": "y nos decía con alegría: «¡Adiós, pobres prisioneros!»",
-          "translationRu": "и весело говорила нам: «До свидания, бедные арестанты!»",
-          "original": "called out cheerfully: \"Good-bye, poor prisoners!\""
+          "id": "sent-208",
+          "text": "y nos decía con alegría:",
+          "translationRu": "и весело говорила нам:",
+          "original": "called out cheerfully:"
         },
         {
-          "id": "sent-153",
+          "id": "sent-209",
+          "text": "«¡Adiós, pobres prisioneros!»",
+          "translationRu": "«До свидания, бедные арестанты!»",
+          "original": "\"Good-bye, poor prisoners!\""
+        },
+        {
+          "id": "sent-210",
           "text": "Y se escabullía rápida como un ratón.",
           "translationRu": "И ускользала быстро, как мышка.",
           "original": "and slipped away as quick as a mouse."
@@ -1024,34 +1359,46 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-154",
+          "id": "sent-211",
           "text": "Eso era todo.",
           "translationRu": "Вот и всё.",
           "original": "That was all."
         },
         {
-          "id": "sent-155",
+          "id": "sent-212",
           "text": "Pero mucho tiempo después de que se iba,",
           "translationRu": "Но ещё долго после её ухода",
           "original": "But long after she had gone"
         },
         {
-          "id": "sent-156",
+          "id": "sent-213",
           "text": "seguíamos hablando de ella entre nosotros con gusto.",
           "translationRu": "мы с удовольствием говорили о ней друг с другом.",
           "original": "we talked about her to one another with pleasure."
         },
         {
-          "id": "sent-157",
+          "id": "sent-214",
           "text": "Siempre decíamos lo mismo que el día anterior y el de antes,",
           "translationRu": "Мы всегда говорили то же самое, что вчера и позавчера,",
           "original": "It was always the same thing as we had said yesterday and the day before,"
         },
         {
-          "id": "sent-158",
-          "text": "porque todo a nuestro alrededor, incluidos nosotros mismos y ella, seguía igual: como ayer, como siempre.",
-          "translationRu": "потому что всё вокруг нас, включая нас самих и её, оставалось прежним: как вчера, как всегда.",
-          "original": "because everything about us, including ourselves and her, remained the same--as yesterday-- and as always."
+          "id": "sent-215",
+          "text": "porque todo a nuestro alrededor,",
+          "translationRu": "потому что всё вокруг нас,",
+          "original": "because everything about us,"
+        },
+        {
+          "id": "sent-216",
+          "text": "incluidos nosotros mismos y ella,",
+          "translationRu": "включая нас самих и её,",
+          "original": "including ourselves and her,"
+        },
+        {
+          "id": "sent-217",
+          "text": "seguía igual: como ayer, como siempre.",
+          "translationRu": "оставалось прежним: как вчера, как всегда.",
+          "original": "remained the same--as yesterday-- and as always."
         }
       ]
     },
@@ -1059,94 +1406,118 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-159",
+          "id": "sent-218",
           "text": "Es doloroso y terrible cuando un hombre sigue viviendo",
           "translationRu": "Это больно и страшно, когда человек продолжает жить,",
           "original": "Painful and terrible it is when a man goes on living,"
         },
         {
-          "id": "sent-160",
+          "id": "sent-219",
           "text": "mientras nada cambia a su alrededor.",
           "translationRu": "а вокруг него ничего не меняется.",
           "original": "while nothing changes around him"
         },
         {
-          "id": "sent-161",
+          "id": "sent-220",
           "text": "Y cuando una existencia así no acaba por matar su alma,",
           "translationRu": "И когда такое существование в конце концов не убивает его душу,",
           "original": "and when such an existence does not finally kill his soul,"
         },
         {
-          "id": "sent-162",
+          "id": "sent-221",
           "text": "la monotonía se vuelve con el tiempo cada vez más dolorosa.",
           "translationRu": "однообразие со временем становится всё более мучительным.",
           "original": "then the monotony becomes with time, even more and more painful."
         },
         {
-          "id": "sent-163",
+          "id": "sent-222",
           "text": "Generalmente hablábamos de las mujeres de un modo",
           "translationRu": "Обычно мы говорили о женщинах так,",
           "original": "Generally we spoke about women in such a way,"
         },
         {
-          "id": "sent-164",
-          "text": "que a veces a nosotros mismos nos daba asco oír nuestras palabras groseras y descaradas.",
-          "translationRu": "что нам самим порой было противно слушать наши грубые и бесстыдные слова.",
-          "original": "that sometimes it was loathsome to us ourselves to hear our rude, shameless talk."
+          "id": "sent-223",
+          "text": "que a veces a nosotros mismos nos daba asco",
+          "translationRu": "что нам самим порой было противно",
+          "original": "that sometimes it was loathsome to us ourselves"
         },
         {
-          "id": "sent-165",
-          "text": "Quizás las mujeres que conocíamos no merecían nada mejor.",
-          "translationRu": "Возможно, женщины, которых мы знали, и не заслуживали лучшего.",
-          "original": "The women whom we knew deserved perhaps nothing better."
+          "id": "sent-224",
+          "text": "oír nuestras palabras groseras y descaradas.",
+          "translationRu": "слушать наши грубые и бесстыдные слова.",
+          "original": "to hear our rude, shameless talk."
         },
         {
-          "id": "sent-166",
+          "id": "sent-225",
+          "text": "Quizás las mujeres que conocíamos",
+          "translationRu": "Возможно, женщины, которых мы знали,",
+          "original": "The women whom we knew"
+        },
+        {
+          "id": "sent-226",
+          "text": "no merecían nada mejor.",
+          "translationRu": "и не заслуживали лучшего.",
+          "original": "deserved perhaps nothing better."
+        },
+        {
+          "id": "sent-227",
           "text": "Pero sobre Tania nunca dejábamos caer una mala palabra.",
           "translationRu": "Но о Тане мы никогда не говорили дурного слова.",
           "original": "But about Tanya we never let fall an evil word"
         },
         {
-          "id": "sent-167",
+          "id": "sent-228",
           "text": "Ninguno de nosotros se atrevía a poner una mano en ella,",
           "translationRu": "Никто из нас не смел и руку на неё положить,",
           "original": "none of us ever ventured so much as to lay a hand on her,"
         },
         {
-          "id": "sent-168",
+          "id": "sent-229",
           "text": "y de nosotros nunca escuchó una broma demasiado libre.",
           "translationRu": "и слишком вольной шутки от нас она никогда не слышала.",
           "original": "even too free a jest she never heard from us."
         },
         {
-          "id": "sent-169",
-          "text": "Quizás era así porque ella nunca se quedaba mucho tiempo con nosotros.",
-          "translationRu": "Может быть, так было потому, что она никогда не задерживалась у нас надолго.",
-          "original": "Maybe this was so because she never remained for long with us"
+          "id": "sent-230",
+          "text": "Quizás era así porque",
+          "translationRu": "Может быть, так было потому, что",
+          "original": "Maybe this was so because"
         },
         {
-          "id": "sent-170",
+          "id": "sent-231",
+          "text": "ella nunca se quedaba mucho tiempo con nosotros.",
+          "translationRu": "она никогда не задерживалась у нас надолго.",
+          "original": "she never remained for long with us"
+        },
+        {
+          "id": "sent-232",
           "text": "Aparecía ante nuestros ojos como una estrella que cae del cielo",
           "translationRu": "Она мелькала перед нашими глазами, как падающая звезда,",
           "original": "she flashed on our eyes like a star falling from the sky,"
         },
         {
-          "id": "sent-171",
+          "id": "sent-233",
           "text": "y desaparecía.",
           "translationRu": "и исчезала.",
           "original": "and vanished"
         },
         {
-          "id": "sent-172",
+          "id": "sent-234",
           "text": "Y quizás también porque era pequeña y muy hermosa,",
           "translationRu": "И, может быть, ещё и потому, что она была маленькая и очень красивая,",
           "original": "and maybe because she was little and very beautiful,"
         },
         {
-          "id": "sent-173",
-          "text": "y todo lo bello despierta respeto, incluso en las personas toscas.",
-          "translationRu": "а всё прекрасное вызывает уважение даже у грубых людей.",
-          "original": "and everything beautiful calls forth respect, even in coarse people."
+          "id": "sent-235",
+          "text": "y todo lo bello despierta respeto,",
+          "translationRu": "а всё прекрасное вызывает уважение",
+          "original": "and everything beautiful calls forth respect,"
+        },
+        {
+          "id": "sent-236",
+          "text": "incluso en las personas toscas.",
+          "translationRu": "даже у грубых людей.",
+          "original": "even in coarse people."
         }
       ]
     },
@@ -1154,136 +1525,171 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-174",
-          "text": "Y además, aunque la vida de trabajo forzado nos había vuelto animales torpes como bueyes,",
-          "translationRu": "И кроме того, хотя жизнь каторжного труда превратила нас в тупых животных, похожих на быков,",
-          "original": "And besides--though our life of penal labor had made us dull beasts, oxen,"
+          "id": "sent-237",
+          "text": "Y además, aunque la vida de trabajo forzado",
+          "translationRu": "И кроме того, хотя жизнь каторжного труда",
+          "original": "And besides--though our life of penal labor"
         },
         {
-          "id": "sent-175",
+          "id": "sent-238",
+          "text": "nos había vuelto animales torpes como bueyes,",
+          "translationRu": "превратила нас в тупых животных, похожих на быков,",
+          "original": "had made us dull beasts, oxen,"
+        },
+        {
+          "id": "sent-239",
           "text": "seguíamos siendo hombres.",
           "translationRu": "мы всё же оставались людьми.",
           "original": "we were still men"
         },
         {
-          "id": "sent-176",
+          "id": "sent-240",
           "text": "Como todos los hombres,",
           "translationRu": "Как все люди,",
           "original": "and, like all men,"
         },
         {
-          "id": "sent-177",
+          "id": "sent-241",
           "text": "no podíamos vivir sin adorar algo o a alguien.",
           "translationRu": "мы не могли жить, не поклоняясь чему-то или кому-то.",
           "original": "could not live without worshipping something or other."
         },
         {
-          "id": "sent-178",
+          "id": "sent-242",
           "text": "No teníamos a nadie mejor que ella,",
           "translationRu": "У нас не было никого лучше неё,",
           "original": "Better than her we had none,"
         },
         {
-          "id": "sent-179",
-          "text": "y nadie más que ella nos hacía caso, a nosotros, que vivíamos en el sótano.",
-          "translationRu": "и никто, кроме неё, не обращал на нас внимания — на нас, живущих в подвале.",
-          "original": "and none but her took any notice of us, living in the cellar"
+          "id": "sent-243",
+          "text": "y nadie más que ella nos hacía caso,",
+          "translationRu": "и никто, кроме неё, не обращал на нас внимания —",
+          "original": "and none but her took any notice of us,"
         },
         {
-          "id": "sent-180",
-          "text": "Nadie, aunque en la casa había docenas de personas.",
-          "translationRu": "Никто, хотя в доме было несколько десятков человек.",
-          "original": "no one, though there were dozens of people in the house."
+          "id": "sent-244",
+          "text": "a nosotros, que vivíamos en el sótano.",
+          "translationRu": "на нас, живущих в подвале.",
+          "original": "living in the cellar"
         },
         {
-          "id": "sent-181",
-          "text": "Y además, lo más probable es que esto fuera lo más importante: todos la veíamos como algo nuestro,",
-          "translationRu": "И кроме того, скорее всего именно это было главным: все мы воспринимали её как нечто своё,",
+          "id": "sent-245",
+          "text": "Nadie,",
+          "translationRu": "Никто,",
+          "original": "no one,"
+        },
+        {
+          "id": "sent-246",
+          "text": "aunque en la casa había docenas de personas.",
+          "translationRu": "хотя в доме было несколько десятков человек.",
+          "original": "though there were dozens of people in the house."
+        },
+        {
+          "id": "sent-247",
+          "text": "Y además, lo más probable es que esto fuera lo más importante:",
+          "translationRu": "И кроме того, скорее всего именно это было главным:",
           "original": "And then, to--most likely, this was the chief thing--we all regarded her as something of our own,"
         },
         {
-          "id": "sent-182",
+          "id": "sent-248",
+          "text": "todos la veíamos como algo nuestro,",
+          "translationRu": "все мы воспринимали её как нечто своё,"
+        },
+        {
+          "id": "sent-249",
           "text": "algo que existía como gracias a nuestras rosquillas.",
           "translationRu": "как нечто, что существовало словно благодаря нашим бубликам.",
           "original": "something existing as it were only by virtue of our kringels."
         },
         {
-          "id": "sent-183",
+          "id": "sent-250",
           "text": "Nos turnábamos para darle rosquillas calientes,",
           "translationRu": "Мы по очереди угощали её горячими бубликами,",
           "original": "We took on ourselves in turns the duty of providing her with hot kringels,"
         },
         {
-          "id": "sent-184",
+          "id": "sent-251",
           "text": "y esto se convirtió para nosotros en una especie de sacrificio diario a nuestra diosa,",
           "translationRu": "и это стало для нас своего рода ежедневной жертвой нашей богине,",
           "original": "and this became for us like a daily sacrifice to our idol,"
         },
         {
-          "id": "sent-185",
+          "id": "sent-252",
           "text": "casi un rito sagrado.",
           "translationRu": "почти священным обрядом.",
           "original": "it became almost a sacred rite"
         },
         {
-          "id": "sent-186",
+          "id": "sent-253",
           "text": "Cada día nos unía más a ella.",
           "translationRu": "Каждый день привязывал нас к ней всё сильнее.",
           "original": "and every day it bound us more closely to her."
         },
         {
-          "id": "sent-187",
-          "text": "Además de las rosquillas, le dábamos a Tania muchos consejos:",
-          "translationRu": "Помимо бубликов, мы давали Тане много советов:",
-          "original": "Besides kringels, we gave Tanya a great deal of advice"
+          "id": "sent-254",
+          "text": "Además de las rosquillas,",
+          "translationRu": "Помимо бубликов,",
+          "original": "Besides kringels,"
         },
         {
-          "id": "sent-188",
+          "id": "sent-255",
+          "text": "le dábamos a Tania muchos consejos:",
+          "translationRu": "мы давали Тане много советов:",
+          "original": "we gave Tanya a great deal of advice"
+        },
+        {
+          "id": "sent-256",
           "text": "que se pusiera ropa más abrigada,",
           "translationRu": "одеваться теплее,",
           "original": "to wear warmer clothes,"
         },
         {
-          "id": "sent-189",
+          "id": "sent-257",
           "text": "que no subiera las escaleras tan deprisa,",
           "translationRu": "не бегать так быстро по лестнице,",
           "original": "not to run upstairs too quickly,"
         },
         {
-          "id": "sent-190",
+          "id": "sent-258",
           "text": "que no llevara fardos pesados de leña.",
           "translationRu": "не носить тяжёлые вязанки дров.",
           "original": "not to carry heavy bundles of wood."
         },
         {
-          "id": "sent-191",
+          "id": "sent-259",
           "text": "Ella escuchaba todos nuestros consejos con una sonrisa,",
           "translationRu": "Она слушала все наши советы с улыбкой,",
           "original": "She listened to all our counsels with a smile,"
         },
         {
-          "id": "sent-192",
+          "id": "sent-260",
           "text": "respondía con una carcajada",
           "translationRu": "отвечала смехом",
           "original": "answered them by a laugh,"
         },
         {
-          "id": "sent-193",
+          "id": "sent-261",
           "text": "y nunca los seguía.",
           "translationRu": "и никогда им не следовала.",
           "original": "and never took our advice"
         },
         {
-          "id": "sent-194",
+          "id": "sent-262",
           "text": "Pero no nos molestábamos por eso;",
           "translationRu": "Но мы не обижались:",
           "original": "but we were not offended at that;"
         },
         {
-          "id": "sent-195",
-          "text": "todo lo que queríamos era mostrar cuánto nos preocupábamos por ella.",
-          "translationRu": "всё, что нам было нужно, — это показать, как сильно мы о ней заботимся.",
-          "original": "all we wanted was to show how much care we bestowed upon her."
+          "id": "sent-263",
+          "text": "todo lo que queríamos era mostrar",
+          "translationRu": "всё, что нам было нужно, — это показать,",
+          "original": "all we wanted was to show"
+        },
+        {
+          "id": "sent-264",
+          "text": "cuánto nos preocupábamos por ella.",
+          "translationRu": "как сильно мы о ней заботимся.",
+          "original": "how much care we bestowed upon her."
         }
       ]
     },
@@ -1291,25 +1697,31 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-196",
+          "id": "sent-265",
           "text": "A veces ella nos pedía ayuda con diferentes cosas:",
           "translationRu": "Иногда она просила нас о помощи в разных делах:",
-          "original": "Often she would apply to us with different requests,"
+          "original": "Often she would apply to us with different requests, she asked us, for instance;"
         },
         {
-          "id": "sent-197",
-          "text": "por ejemplo, abrir la pesada puerta del almacén o cortar leña.",
-          "translationRu": "например, открыть тяжёлую дверь склада или нарубить дров.",
-          "original": "she asked us, for instance; to open the heavy door into the store-cellar, and to chop wood"
+          "id": "sent-266",
+          "text": "por ejemplo, abrir la pesada puerta del almacén",
+          "translationRu": "например, открыть тяжёлую дверь склада",
+          "original": "to open the heavy door into the store-cellar,"
         },
         {
-          "id": "sent-198",
+          "id": "sent-267",
+          "text": "o cortar leña.",
+          "translationRu": "или нарубить дров.",
+          "original": "and to chop wood"
+        },
+        {
+          "id": "sent-268",
           "text": "Lo hacíamos con alegría y con una especie de orgullo,",
           "translationRu": "Мы делали это с радостью и с каким-то особым чувством гордости,",
           "original": "with delight and a sort of pride, we did this for her,"
         },
         {
-          "id": "sent-199",
+          "id": "sent-269",
           "text": "y también todo lo demás que ella quería.",
           "translationRu": "и вообще всё, чего она хотела.",
           "original": "and everything else she wanted."
@@ -1320,40 +1732,51 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-200",
+          "id": "sent-270",
           "text": "Pero cuando uno de nosotros le pidió que le remendara su única camisa,",
           "translationRu": "Но когда кто-то из нас попросил её починить его единственную рубашку,",
           "original": "But when one of us asked her to mend his solitary shirt for him,"
         },
         {
-          "id": "sent-201",
+          "id": "sent-271",
           "text": "ella respondió con una risa de desprecio:",
           "translationRu": "она ответила с презрительным смехом:",
           "original": "she said, with a laugh of contempt:"
         },
         {
-          "id": "sent-202",
+          "id": "sent-272",
           "text": "«¡Ni pensarlo! ¡Vaya idea!»",
           "translationRu": "«Ещё чего! Вот ещё идея!»",
           "original": "\"What next! A likely idea!\""
         },
         {
-          "id": "sent-203",
-          "text": "Nos reímos mucho de aquel compañero tan raro que se le podía ocurrir semejante cosa.",
-          "translationRu": "Мы долго смеялись над тем странным товарищем, которому могла прийти в голову такая мысль.",
-          "original": "We made great fun of the queer fellow who could entertain such an idea"
+          "id": "sent-273",
+          "text": "Nos reímos mucho de aquel compañero tan raro",
+          "translationRu": "Мы долго смеялись над тем странным товарищем,",
+          "original": "We made great fun of the queer fellow"
         },
         {
-          "id": "sent-204",
+          "id": "sent-274",
+          "text": "que se le podía ocurrir semejante cosa.",
+          "translationRu": "которому могла прийти в голову такая мысль.",
+          "original": "who could entertain such an idea"
+        },
+        {
+          "id": "sent-275",
           "text": "Y nunca más le pedimos otra cosa.",
           "translationRu": "И больше мы её ни о чём таком не просили.",
           "original": "and--never asked her to do anything else."
         },
         {
-          "id": "sent-205",
-          "text": "La queríamos, y con decir eso está dicho todo.",
-          "translationRu": "Мы её любили — и этим всё сказано.",
+          "id": "sent-276",
+          "text": "La queríamos,",
+          "translationRu": "Мы её любили —",
           "original": "We loved her--all is said in that."
+        },
+        {
+          "id": "sent-277",
+          "text": "y con decir eso está dicho todo.",
+          "translationRu": "и этим всё сказано."
         }
       ]
     }

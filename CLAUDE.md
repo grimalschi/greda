@@ -99,15 +99,21 @@ boundary** so the three stay aligned (concatenating the fragments reproduces the
 language). Concrete example (clean clause split): «El padre Andréi, arcipreste de la catedral, hablaba
 con la madre de Nadya.» / «Отец Андрей, протоиерей собора, разговаривал с матерью Нади.» →
 fragment 1 «El padre Andréi, arcipreste de la catedral,» / «Отец Андрей, протоиерей собора,» +
-fragment 2 «hablaba con la madre de Nadya.» / «разговаривал с матерью Нади.». **Prefer FINE
-granularity:** cut at EVERY boundary that exists in all three languages, yielding compact phrases — a
-speech tag becomes its own fragment («…», / dijo, / «…»), and a multi-clause period splits at each
-`que`/`o que`/`por`/`como`/`y`/`pero`/`:`/`;`. E.g. «Parecía completamente increíble | que alguien
-pudiera hacer tal testamento, | o que fueran a pagar tal suma | por algo tan simple | como copiar la
-Enciclopedia Británica.» → 5 fragments (RU and EN cut at the SAME 5 points). The hard rule: every cut
-must land at the same boundary in es, ru AND en so concatenation reproduces each verbatim; where word
-order diverges across languages, keep those parts together. First tested on `the-red-headed-league`,
-refined to finer granularity on `twenty-six-men-and-a-girl` (2026-06-24).
+fragment 2 «hablaba con la madre de Nadya.» / «разговаривал с матерью Нади.». **Prefer the FINEST
+granularity that stays perfectly aligned:** cut at EVERY boundary common to the **`text` (es) and
+`translationRu` (ru)** — they are tight parallel translations, so most boundaries align — not only
+clauses but also gerund/participle phrases, an adverbial head split from its verb, appositions, and a
+speech tag as its own fragment. Examples: «…en silencio | escuchando su canto solitario» / «…молча | и
+слушали его пение» / «…in silence | listening to his song»; «Parecía que siempre | nos vigilaba…» /
+«Казалось, она всегда | наблюдает…» / «it seemed to be ever | watching…»; the 5-way «Parecía
+completamente increíble | que alguien pudiera… | o que fueran… | por algo tan simple | como copiar…».
+**Alignment rule:** `text` and `translationRu` MUST cut at the same point (their concatenation = the
+sentence verbatim). The `original` (verbatim source) follows the same cuts where the source subdivides
+cleanly; where it can't (different word order, em-dash with no surrounding space), attach the spanning
+source to one fragment and leave the neighbour fragment's `original` empty — the concatenation of
+originals still reproduces the full source. **Never let the source's awkwardness block an es/ru split.**
+Tested on `the-red-headed-league` (clause-level), then `twenty-six-men-and-a-girl` (phrase-level);
+rolling out to all works short→long (2026-06-24).
 **The `original` field = VERBATIM source (CRITICAL, 2026-06-24).** It is the EXACT public-domain source
 text (English/German/Italian/…) — copied word-for-word, **never** a paraphrase and **never** "simple
 English at the same level as the translation". **Full-coverage / tiling rule:** within a level's chapter,
