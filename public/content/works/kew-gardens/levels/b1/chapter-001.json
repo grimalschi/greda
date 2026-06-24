@@ -13,81 +13,235 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Del macizo de flores ovalado salían quizá cien tallos.",
-          "translationRu": "Из овальной клумбы поднималось, наверное, сотня стеблей.",
-          "original": "From the oval-shaped flower-bed there rose perhaps a hundred stalks"
+          "text": "Del macizo de flores ovalado",
+          "translationRu": "Из овальной клумбы",
+          "original": "From the oval-shaped flower-bed"
         },
         {
           "id": "sent-002",
-          "text": "A mitad de su altura se abrían hojas en forma de corazón o de lengua.",
-          "translationRu": "На середине высоты они раскрывались листьями в форме сердца или языка.",
-          "original": "spreading into heart-shaped or tongue-shaped leaves half way up"
+          "text": "salían quizá cien tallos.",
+          "translationRu": "поднималось, наверное, сотня стеблей.",
+          "original": "there rose perhaps a hundred stalks"
         },
         {
           "id": "sent-003",
-          "text": "En la punta se desplegaban pétalos rojos, azules o amarillos con manchas de color en la superficie.",
-          "translationRu": "На кончиках раскрывались лепестки — красные, синие или жёлтые, с пятнами цвета на поверхности.",
-          "original": "and unfurling at the tip red or blue or yellow petals marked with spots of colour raised upon the surface"
+          "text": "A mitad de su altura",
+          "translationRu": "На середине высоты"
         },
         {
           "id": "sent-004",
-          "text": "Desde la oscuridad roja, azul o amarilla de la garganta de la flor salía una barra recta, áspera de polvo dorado y ligeramente engrosada en el extremo.",
-          "translationRu": "Из красной, синей или жёлтой глубины цветка выступала прямая полоска, шероховатая от золотой пыльцы и слегка утолщённая на конце.",
-          "original": "and from the red, blue or yellow gloom of the throat emerged a straight bar, rough with gold dust and slightly clubbed at the end"
+          "text": "se abrían hojas",
+          "translationRu": "они раскрывались листьями",
+          "original": "spreading into"
         },
         {
           "id": "sent-005",
-          "text": "Los pétalos eran tan grandes que la brisa de verano los movía.",
-          "translationRu": "Лепестки были такими крупными, что летний ветерок их колыхал.",
-          "original": "The petals were voluminous enough to be stirred by the summer breeze"
+          "text": "en forma de corazón o de lengua.",
+          "translationRu": "в форме сердца или языка.",
+          "original": "heart-shaped or tongue-shaped leaves half way up"
         },
         {
           "id": "sent-006",
-          "text": "Cuando se movían, las luces rojas, azules y amarillas pasaban unas sobre otras.",
-          "translationRu": "Когда они двигались, красные, синие и жёлтые блики скользили один поверх другого.",
-          "original": "when they moved, the red, blue and yellow lights passed one over the other"
+          "text": "En la punta se desplegaban pétalos",
+          "translationRu": "На кончиках раскрывались лепестки —",
+          "original": "and unfurling at the tip red or blue or yellow petals"
         },
         {
           "id": "sent-007",
-          "text": "Teñían un trozo de tierra marrón debajo con un punto de color muy complejo.",
-          "translationRu": "Они окрашивали клочок бурой земли под собой пятном очень сложного цвета.",
-          "original": "staining an inch of the brown earth beneath with a spot of the most intricate colour"
+          "text": "rojos, azules o amarillos",
+          "translationRu": "красные, синие или жёлтые,"
         },
         {
           "id": "sent-008",
-          "text": "La luz caía sobre el dorso gris y liso de un guijarro, o sobre la concha de un caracol con sus venas marrones y circulares.",
-          "translationRu": "Свет падал на гладкую серую спинку камешка или на раковину улитки с её бурыми круговыми жилками.",
-          "original": "The light fell either upon the smooth, grey back of a pebble, or, the shell of a snail with its brown, circular veins"
+          "text": "con manchas de color en la superficie.",
+          "translationRu": "с пятнами цвета на поверхности.",
+          "original": "marked with spots of colour raised upon the surface"
         },
         {
           "id": "sent-009",
-          "text": "Cuando caía en una gota de lluvia, expandía con tal intensidad el rojo, el azul y el amarillo en las finas paredes de agua que uno esperaba que fueran a estallar y desaparecer.",
-          "translationRu": "Когда свет падал в каплю дождя, он с такой силой расширял красное, синее и жёлтое в тонких стенках воды, что, казалось, они вот-вот лопнут и исчезнут.",
-          "original": "or falling into a raindrop, it expanded with such intensity of red, blue and yellow the thin walls of water that one expected them to burst and disappear"
+          "text": "Desde la oscuridad roja, azul o amarilla de la garganta de la flor",
+          "translationRu": "Из красной, синей или жёлтой глубины цветка",
+          "original": "and from the red, blue or yellow gloom of the throat"
         },
         {
           "id": "sent-010",
-          "text": "Pero en cambio la gota quedaba de nuevo plateada y gris un segundo después.",
-          "translationRu": "Но вместо этого через секунду капля снова становилась серебристо-серой.",
-          "original": "Instead, the drop was left in a second silver grey once more"
+          "text": "salía una barra recta,",
+          "translationRu": "выступала прямая полоска,",
+          "original": "emerged a straight bar,"
         },
         {
           "id": "sent-011",
-          "text": "Entonces la luz se posaba sobre la carne de una hoja y mostraba los hilos de fibra que se ramificaban bajo la superficie.",
-          "translationRu": "Затем свет ложился на мякоть листа и обнаруживал разветвлённые нити волокна под поверхностью.",
-          "original": "and the light now settled upon the flesh of a leaf, revealing the branching thread of fibre beneath the surface"
+          "text": "áspera de polvo dorado",
+          "translationRu": "шероховатая от золотой пыльцы",
+          "original": "rough with gold dust"
         },
         {
           "id": "sent-012",
-          "text": "Y luego se movía de nuevo y esparcía su brillo por los grandes espacios verdes bajo la cúpula de las hojas en forma de corazón y de lengua.",
-          "translationRu": "А потом снова двигался и разливал свой блеск по огромным зелёным пространствам под куполом листьев в форме сердца и языка.",
-          "original": "and again it moved on and spread its illumination in the vast green spaces beneath the dome of the heart-shaped and tongue-shaped leaves"
+          "text": "y ligeramente engrosada en el extremo.",
+          "translationRu": "и слегка утолщённая на конце.",
+          "original": "and slightly clubbed at the end"
         },
         {
           "id": "sent-013",
-          "text": "Entonces la brisa sopló un poco más fuerte por encima y el color salió disparado al aire de arriba, hacia los ojos de los hombres y las mujeres que pasean por los jardines de Kew en julio.",
-          "translationRu": "Потом ветерок подул чуть сильнее наверху, и цвет взметнулся в воздух — прямо в глаза мужчинам и женщинам, гуляющим по садам Кью в июле.",
-          "original": "Then the breeze stirred rather more briskly overhead and the colour was flashed into the air above, into the eyes of the men and women who walk in Kew Gardens in July"
+          "text": "Los pétalos eran tan grandes",
+          "translationRu": "Лепестки были такими крупными,",
+          "original": "The petals were voluminous enough"
+        },
+        {
+          "id": "sent-014",
+          "text": "que la brisa de verano los movía.",
+          "translationRu": "что летний ветерок их колыхал.",
+          "original": "to be stirred by the summer breeze"
+        },
+        {
+          "id": "sent-015",
+          "text": "Cuando se movían,",
+          "translationRu": "Когда они двигались,",
+          "original": "when they moved,"
+        },
+        {
+          "id": "sent-016",
+          "text": "las luces rojas, azules y amarillas",
+          "translationRu": "красные, синие и жёлтые блики",
+          "original": "the red, blue and yellow lights"
+        },
+        {
+          "id": "sent-017",
+          "text": "pasaban unas sobre otras.",
+          "translationRu": "скользили один поверх другого.",
+          "original": "passed one over the other"
+        },
+        {
+          "id": "sent-018",
+          "text": "Teñían un trozo de tierra marrón debajo",
+          "translationRu": "Они окрашивали клочок бурой земли под собой",
+          "original": "staining an inch of the brown earth beneath"
+        },
+        {
+          "id": "sent-019",
+          "text": "con un punto de color muy complejo.",
+          "translationRu": "пятном очень сложного цвета.",
+          "original": "with a spot of the most intricate colour"
+        },
+        {
+          "id": "sent-020",
+          "text": "La luz caía",
+          "translationRu": "Свет падал",
+          "original": "The light fell"
+        },
+        {
+          "id": "sent-021",
+          "text": "sobre el dorso gris y liso de un guijarro,",
+          "translationRu": "на гладкую серую спинку камешка",
+          "original": "either upon the smooth, grey back of a pebble, or,"
+        },
+        {
+          "id": "sent-022",
+          "text": "o sobre la concha de un caracol",
+          "translationRu": "или на раковину улитки",
+          "original": "the shell of a snail"
+        },
+        {
+          "id": "sent-023",
+          "text": "con sus venas marrones y circulares.",
+          "translationRu": "с её бурыми круговыми жилками.",
+          "original": "with its brown, circular veins"
+        },
+        {
+          "id": "sent-024",
+          "text": "Cuando caía en una gota de lluvia,",
+          "translationRu": "Когда свет падал в каплю дождя,",
+          "original": "or falling into a raindrop,"
+        },
+        {
+          "id": "sent-025",
+          "text": "expandía con tal intensidad el rojo, el azul y el amarillo en las finas paredes de agua",
+          "translationRu": "он с такой силой расширял красное, синее и жёлтое в тонких стенках воды,",
+          "original": "it expanded with such intensity of red, blue and yellow the thin walls of water"
+        },
+        {
+          "id": "sent-026",
+          "text": "que uno esperaba",
+          "translationRu": "что, казалось,",
+          "original": "that one expected"
+        },
+        {
+          "id": "sent-027",
+          "text": "que fueran a estallar y desaparecer.",
+          "translationRu": "они вот-вот лопнут и исчезнут.",
+          "original": "them to burst and disappear"
+        },
+        {
+          "id": "sent-028",
+          "text": "Pero en cambio",
+          "translationRu": "Но вместо этого",
+          "original": "Instead,"
+        },
+        {
+          "id": "sent-029",
+          "text": "la gota quedaba de nuevo plateada y gris un segundo después.",
+          "translationRu": "через секунду капля снова становилась серебристо-серой.",
+          "original": "the drop was left in a second silver grey once more"
+        },
+        {
+          "id": "sent-030",
+          "text": "Entonces la luz se posaba sobre la carne de una hoja",
+          "translationRu": "Затем свет ложился на мякоть листа",
+          "original": "and the light now settled upon the flesh of a leaf,"
+        },
+        {
+          "id": "sent-031",
+          "text": "y mostraba los hilos de fibra",
+          "translationRu": "и обнаруживал разветвлённые нити волокна",
+          "original": "revealing the branching thread of fibre"
+        },
+        {
+          "id": "sent-032",
+          "text": "que se ramificaban bajo la superficie.",
+          "translationRu": "под поверхностью.",
+          "original": "beneath the surface"
+        },
+        {
+          "id": "sent-033",
+          "text": "Y luego se movía de nuevo",
+          "translationRu": "А потом снова двигался",
+          "original": "and again it moved on"
+        },
+        {
+          "id": "sent-034",
+          "text": "y esparcía su brillo por los grandes espacios verdes",
+          "translationRu": "и разливал свой блеск по огромным зелёным пространствам",
+          "original": "and spread its illumination in the vast green spaces"
+        },
+        {
+          "id": "sent-035",
+          "text": "bajo la cúpula de las hojas en forma de corazón y de lengua.",
+          "translationRu": "под куполом листьев в форме сердца и языка.",
+          "original": "beneath the dome of the heart-shaped and tongue-shaped leaves"
+        },
+        {
+          "id": "sent-036",
+          "text": "Entonces la brisa sopló un poco más fuerte por encima",
+          "translationRu": "Потом ветерок подул чуть сильнее наверху,",
+          "original": "Then the breeze stirred rather more briskly overhead"
+        },
+        {
+          "id": "sent-037",
+          "text": "y el color salió disparado al aire de arriba,",
+          "translationRu": "и цвет взметнулся в воздух —",
+          "original": "and the colour was flashed into the air above,"
+        },
+        {
+          "id": "sent-038",
+          "text": "hacia los ojos de los hombres y las mujeres",
+          "translationRu": "прямо в глаза мужчинам и женщинам,",
+          "original": "into the eyes of the men and women"
+        },
+        {
+          "id": "sent-039",
+          "text": "que pasean por los jardines de Kew en julio.",
+          "translationRu": "гуляющим по садам Кью в июле.",
+          "original": "who walk in Kew Gardens in July"
         }
       ]
     },
@@ -95,31 +249,73 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-014",
-          "text": "Las figuras de esos hombres y mujeres pasaban junto al macizo con un movimiento curiosamente irregular, parecido al de las mariposas blancas y azules que cruzaban el césped en vuelos en zigzag de un macizo a otro.",
-          "translationRu": "Фигуры этих мужчин и женщин проходили мимо клумбы с удивительно неровным движением — похожим на то, как белые и синие бабочки пересекали лужайку зигзагами от одной клумбы к другой.",
-          "original": "The figures of these men and women straggled past the flower-bed with a curiously irregular movement not unlike that of the white and blue butterflies who crossed the turf in zig-zag flights from bed to bed"
+          "id": "sent-040",
+          "text": "Las figuras de esos hombres y mujeres",
+          "translationRu": "Фигуры этих мужчин и женщин",
+          "original": "The figures of these men and women"
         },
         {
-          "id": "sent-015",
-          "text": "El hombre caminaba a unos quince centímetros por delante de la mujer, paseando sin prisa.",
-          "translationRu": "Мужчина шёл примерно в пятнадцати сантиметрах впереди женщины, прогуливаясь без спешки.",
-          "original": "The man was about six inches in front of the woman, strolling carelessly"
+          "id": "sent-041",
+          "text": "pasaban junto al macizo con un movimiento curiosamente irregular,",
+          "translationRu": "проходили мимо клумбы с удивительно неровным движением —",
+          "original": "straggled past the flower-bed with a curiously irregular movement"
         },
         {
-          "id": "sent-016",
-          "text": "Ella avanzaba con más determinación, volviendo la cabeza de vez en cuando para ver que los niños no se habían quedado demasiado atrás.",
-          "translationRu": "Она шла с большей целеустремлённостью, время от времени оборачиваясь, чтобы убедиться, что дети не отстали слишком далеко.",
-          "original": "while she bore on with greater purpose, only turning her head now and then to see that the children were not too far behind"
+          "id": "sent-042",
+          "text": "parecido al de las mariposas blancas y azules",
+          "translationRu": "похожим на то, как белые и синие бабочки",
+          "original": "not unlike that of the white and blue butterflies"
         },
         {
-          "id": "sent-017",
-          "text": "El hombre mantenía esa distancia delante de la mujer a propósito, aunque quizá sin ser consciente de ello.",
-          "translationRu": "Мужчина намеренно держал это расстояние впереди женщины, хотя, возможно, и не осознавал этого.",
-          "original": "The man kept this distance in front of the woman purposely, though perhaps unconsciously"
+          "id": "sent-043",
+          "text": "que cruzaban el césped en vuelos en zigzag de un macizo a otro.",
+          "translationRu": "пересекали лужайку зигзагами от одной клумбы к другой.",
+          "original": "who crossed the turf in zig-zag flights from bed to bed"
         },
         {
-          "id": "sent-018",
+          "id": "sent-044",
+          "text": "El hombre caminaba a unos quince centímetros por delante de la mujer,",
+          "translationRu": "Мужчина шёл примерно в пятнадцати сантиметрах впереди женщины,",
+          "original": "The man was about six inches in front of the woman,"
+        },
+        {
+          "id": "sent-045",
+          "text": "paseando sin prisa.",
+          "translationRu": "прогуливаясь без спешки.",
+          "original": "strolling carelessly"
+        },
+        {
+          "id": "sent-046",
+          "text": "Ella avanzaba con más determinación,",
+          "translationRu": "Она шла с большей целеустремлённостью,",
+          "original": "while she bore on with greater purpose,"
+        },
+        {
+          "id": "sent-047",
+          "text": "volviendo la cabeza de vez en cuando",
+          "translationRu": "время от времени оборачиваясь,",
+          "original": "only turning her head now and then"
+        },
+        {
+          "id": "sent-048",
+          "text": "para ver que los niños no se habían quedado demasiado atrás.",
+          "translationRu": "чтобы убедиться, что дети не отстали слишком далеко.",
+          "original": "to see that the children were not too far behind"
+        },
+        {
+          "id": "sent-049",
+          "text": "El hombre mantenía esa distancia delante de la mujer a propósito,",
+          "translationRu": "Мужчина намеренно держал это расстояние впереди женщины,",
+          "original": "The man kept this distance in front of the woman purposely,"
+        },
+        {
+          "id": "sent-050",
+          "text": "aunque quizá sin ser consciente de ello.",
+          "translationRu": "хотя, возможно, и не осознавал этого.",
+          "original": "though perhaps unconsciously"
+        },
+        {
+          "id": "sent-051",
           "text": "Quería seguir con sus pensamientos.",
           "translationRu": "Он хотел продолжать думать свои мысли.",
           "original": "for he wished to go on with his thoughts"
@@ -130,70 +326,160 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-019",
-          "text": "«Hace quince años vine aquí con Lily», pensó.",
-          "translationRu": "«Пятнадцать лет назад я приходил сюда с Лили», — думал он.",
-          "original": "\"Fifteen years ago I came here with Lily,\" he thought"
+          "id": "sent-052",
+          "text": "«Hace quince años vine aquí con Lily»,",
+          "translationRu": "«Пятнадцать лет назад я приходил сюда с Лили», —",
+          "original": "\"Fifteen years ago I came here with Lily,\""
         },
         {
-          "id": "sent-020",
-          "text": "«Nos sentamos en algún lugar de allí, junto a un lago, y le pedí que se casara conmigo durante toda aquella tarde calurosa.»",
-          "translationRu": "«Мы сидели где-то там, у озера, и я просил её выйти за меня замуж всю ту жаркую вторую половину дня.»",
-          "original": "\"We sat somewhere over there by a lake and I begged her to marry me all through the hot afternoon"
+          "id": "sent-053",
+          "text": "pensó.",
+          "translationRu": "думал он.",
+          "original": "he thought"
         },
         {
-          "id": "sent-021",
+          "id": "sent-054",
+          "text": "«Nos sentamos en algún lugar de allí, junto a un lago,",
+          "translationRu": "«Мы сидели где-то там, у озера,",
+          "original": "\"We sat somewhere over there by a lake"
+        },
+        {
+          "id": "sent-055",
+          "text": "y le pedí que se casara conmigo",
+          "translationRu": "и я просил её выйти за меня замуж",
+          "original": "and I begged her to marry me"
+        },
+        {
+          "id": "sent-056",
+          "text": "durante toda aquella tarde calurosa.»",
+          "translationRu": "всю ту жаркую вторую половину дня.»",
+          "original": "all through the hot afternoon"
+        },
+        {
+          "id": "sent-057",
           "text": "«Cómo daba vueltas a nuestro alrededor la libélula.»",
           "translationRu": "«Как кружила вокруг нас стрекоза.»",
           "original": "How the dragonfly kept circling round us"
         },
         {
-          "id": "sent-022",
-          "text": "«Qué clara veo la libélula, y su zapato con la hebilla cuadrada de plata en la punta.»",
-          "translationRu": "«Как ясно я вижу стрекозу и её туфлю с квадратной серебряной застёжкой на носке.»",
-          "original": "how clearly I see the dragonfly and her shoe with the square silver buckle at the toe"
+          "id": "sent-058",
+          "text": "«Qué clara veo la libélula,",
+          "translationRu": "«Как ясно я вижу стрекозу",
+          "original": "how clearly I see the dragonfly"
         },
         {
-          "id": "sent-023",
-          "text": "«Todo el tiempo que hablé vi su zapato, y cuando se movió con impaciencia supe, sin levantar la vista, lo que ella iba a decir.»",
-          "translationRu": "«Всё время, пока я говорил, я видел её туфлю, и когда она нетерпеливо шевельнулась, я понял, не поднимая глаз, что она собирается сказать.»",
-          "original": "All the time I spoke I saw her shoe and when it moved impatiently I knew without looking up what she was going to say"
+          "id": "sent-059",
+          "text": "y su zapato con la hebilla cuadrada de plata en la punta.»",
+          "translationRu": "и её туфлю с квадратной серебряной застёжкой на носке.»",
+          "original": "and her shoe with the square silver buckle at the toe"
         },
         {
-          "id": "sent-024",
+          "id": "sent-060",
+          "text": "«Todo el tiempo que hablé vi su zapato,",
+          "translationRu": "«Всё время, пока я говорил, я видел её туфлю,",
+          "original": "All the time I spoke I saw her shoe"
+        },
+        {
+          "id": "sent-061",
+          "text": "y cuando se movió con impaciencia",
+          "translationRu": "и когда она нетерпеливо шевельнулась,",
+          "original": "and when it moved impatiently"
+        },
+        {
+          "id": "sent-062",
+          "text": "supe, sin levantar la vista,",
+          "translationRu": "я понял, не поднимая глаз,",
+          "original": "I knew without looking up"
+        },
+        {
+          "id": "sent-063",
+          "text": "lo que ella iba a decir.»",
+          "translationRu": "что она собирается сказать.»",
+          "original": "what she was going to say"
+        },
+        {
+          "id": "sent-064",
           "text": "«Toda ella parecía estar en su zapato.»",
           "translationRu": "«Вся она, казалось, была в её туфле.»",
           "original": "the whole of her seemed to be in her shoe"
         },
         {
-          "id": "sent-025",
-          "text": "«Y mi amor, mi deseo, estaban en la libélula.»",
-          "translationRu": "«А моя любовь, моё желание — были в стрекозе.»",
-          "original": "And my love, my desire, were in the dragonfly"
+          "id": "sent-065",
+          "text": "«Y mi amor, mi deseo,",
+          "translationRu": "«А моя любовь, моё желание —",
+          "original": "And my love, my desire,"
         },
         {
-          "id": "sent-026",
-          "text": "«Por alguna razón pensé que si la libélula se posaba allí, sobre aquella hoja, la grande con la flor roja en el centro, si se posaba, ella diría 'sí' inmediatamente.»",
-          "translationRu": "«По какой-то причине я думал: если стрекоза сядет вон туда, на тот лист — большой, с красным цветком посередине, — если она сядет, Лили сразу скажет 'да'.»",
-          "original": "for some reason I thought that if it settled there, on that leaf, the broad one with the red flower in the middle of it, if the dragonfly settled on the leaf she would say \"Yes\" at once"
+          "id": "sent-066",
+          "text": "estaban en la libélula.»",
+          "translationRu": "были в стрекозе.»",
+          "original": "were in the dragonfly"
         },
         {
-          "id": "sent-027",
-          "text": "«Pero la libélula daba vueltas y vueltas y nunca se posaba en ningún sitio.»",
-          "translationRu": "«Но стрекоза кружила и кружила и нигде не садилась.»",
-          "original": "But the dragonfly went round and round: it never settled anywhere"
+          "id": "sent-067",
+          "text": "«Por alguna razón pensé",
+          "translationRu": "«По какой-то причине я думал:",
+          "original": "for some reason I thought"
         },
         {
-          "id": "sent-028",
-          "text": "«Claro que no, y menos mal, porque si no yo no estaría caminando aquí con Eleanor y los niños.»",
-          "translationRu": "«Конечно же нет — и хорошо, что не садилась, иначе я бы не шёл сейчас здесь с Элинор и детьми.»",
-          "original": "of course not, happily not, or I shouldn't be walking here with Eleanor and the children"
+          "id": "sent-068",
+          "text": "que si la libélula se posaba allí, sobre aquella hoja,",
+          "translationRu": "если стрекоза сядет вон туда, на тот лист —",
+          "original": "that if it settled there, on that leaf,"
         },
         {
-          "id": "sent-029",
-          "text": "«Dime, Eleanor, ¿piensas alguna vez en el pasado?»",
-          "translationRu": "«Скажи мне, Элинор, ты когда-нибудь думаешь о прошлом?»",
-          "original": "Tell me, Eleanor. D'you ever think of the past?"
+          "id": "sent-069",
+          "text": "la grande con la flor roja en el centro,",
+          "translationRu": "большой, с красным цветком посередине, —",
+          "original": "the broad one with the red flower in the middle of it,"
+        },
+        {
+          "id": "sent-070",
+          "text": "si se posaba,",
+          "translationRu": "если она сядет,",
+          "original": "if the dragonfly settled on the leaf"
+        },
+        {
+          "id": "sent-071",
+          "text": "ella diría 'sí' inmediatamente.»",
+          "translationRu": "Лили сразу скажет 'да'.»",
+          "original": "she would say \"Yes\" at once"
+        },
+        {
+          "id": "sent-072",
+          "text": "«Pero la libélula daba vueltas y vueltas",
+          "translationRu": "«Но стрекоза кружила и кружила",
+          "original": "But the dragonfly went round and round:"
+        },
+        {
+          "id": "sent-073",
+          "text": "y nunca se posaba en ningún sitio.»",
+          "translationRu": "и нигде не садилась.»",
+          "original": "it never settled anywhere"
+        },
+        {
+          "id": "sent-074",
+          "text": "«Claro que no, y menos mal,",
+          "translationRu": "«Конечно же нет — и хорошо, что не садилась,",
+          "original": "of course not, happily not,"
+        },
+        {
+          "id": "sent-075",
+          "text": "porque si no yo no estaría caminando aquí con Eleanor y los niños.»",
+          "translationRu": "иначе я бы не шёл сейчас здесь с Элинор и детьми.»",
+          "original": "or I shouldn't be walking here with Eleanor and the children"
+        },
+        {
+          "id": "sent-076",
+          "text": "«Dime, Eleanor,",
+          "translationRu": "«Скажи мне, Элинор,",
+          "original": "Tell me, Eleanor."
+        },
+        {
+          "id": "sent-077",
+          "text": "¿piensas alguna vez en el pasado?»",
+          "translationRu": "ты когда-нибудь думаешь о прошлом?»",
+          "original": "D'you ever think of the past?"
         }
       ]
     },
@@ -201,7 +487,7 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-030",
+          "id": "sent-078",
           "text": "«¿Por qué me preguntas eso, Simon?»",
           "translationRu": "«Зачем ты спрашиваешь, Саймон?»",
           "original": "\"Why do you ask, Simon?\""
@@ -212,25 +498,31 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-031",
+          "id": "sent-079",
           "text": "«Porque he estado pensando en el pasado.»",
           "translationRu": "«Потому что я думал о прошлом.»",
           "original": "\"Because I've been thinking of the past"
         },
         {
-          "id": "sent-032",
-          "text": "«He estado pensando en Lily, la mujer con quien podría haberme casado.»",
-          "translationRu": "«Я думал о Лили — женщине, на которой мог бы жениться.»",
-          "original": "I've been thinking of Lily, the woman I might have married"
+          "id": "sent-080",
+          "text": "«He estado pensando en Lily,",
+          "translationRu": "«Я думал о Лили —",
+          "original": "I've been thinking of Lily,"
         },
         {
-          "id": "sent-033",
+          "id": "sent-081",
+          "text": "la mujer con quien podría haberme casado.»",
+          "translationRu": "женщине, на которой мог бы жениться.»",
+          "original": "the woman I might have married"
+        },
+        {
+          "id": "sent-082",
           "text": "«Bien, ¿por qué estás callada?»",
           "translationRu": "«Ну, почему ты молчишь?»",
           "original": "Well, why are you silent?"
         },
         {
-          "id": "sent-034",
+          "id": "sent-083",
           "text": "«¿Te molesta que piense en el pasado?»",
           "translationRu": "«Тебе мешает, что я думаю о прошлом?»",
           "original": "Do you mind my thinking of the past?"
@@ -241,25 +533,43 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-035",
+          "id": "sent-084",
           "text": "«¿Por qué me iba a molestar, Simon?»",
           "translationRu": "«Почему это должно мне мешать, Саймон?»",
           "original": "\"Why should I mind, Simon?"
         },
         {
-          "id": "sent-036",
-          "text": "«¿No piensa todo el mundo siempre en el pasado, en un jardín donde los hombres y las mujeres están tumbados bajo los árboles?»",
-          "translationRu": "«Разве все не всегда думают о прошлом в саду, где мужчины и женщины лежат под деревьями?»",
-          "original": "Doesn't one always think of the past, in a garden with men and women lying under the trees?"
+          "id": "sent-085",
+          "text": "«¿No piensa todo el mundo siempre en el pasado,",
+          "translationRu": "«Разве все не всегда думают о прошлом",
+          "original": "Doesn't one always think of the past,"
         },
         {
-          "id": "sent-037",
-          "text": "«¿No son el pasado de uno esos hombres y mujeres, todo lo que queda de él, esos fantasmas tumbados bajo los árboles?»",
-          "translationRu": "«Разве не они — прошлое человека, всё, что от него осталось, эти призраки под деревьями?»",
-          "original": "Aren't they one's past, all that remains of it, those men and women, those ghosts lying under the trees"
+          "id": "sent-086",
+          "text": "en un jardín donde los hombres y las mujeres están tumbados bajo los árboles?»",
+          "translationRu": "в саду, где мужчины и женщины лежат под деревьями?»",
+          "original": "in a garden with men and women lying under the trees?"
         },
         {
-          "id": "sent-038",
+          "id": "sent-087",
+          "text": "«¿No son el pasado de uno esos hombres y mujeres,",
+          "translationRu": "«Разве не они — прошлое человека,",
+          "original": "Aren't they one's past,"
+        },
+        {
+          "id": "sent-088",
+          "text": "todo lo que queda de él,",
+          "translationRu": "всё, что от него осталось,",
+          "original": "all that remains of it,"
+        },
+        {
+          "id": "sent-089",
+          "text": "esos fantasmas tumbados bajo los árboles?»",
+          "translationRu": "эти призраки под деревьями?»",
+          "original": "those men and women, those ghosts lying under the trees"
+        },
+        {
+          "id": "sent-090",
           "text": "«¿La felicidad de uno, la realidad de uno?»",
           "translationRu": "«Счастье человека, его реальность?»",
           "original": "one's happiness, one's reality?"
@@ -270,10 +580,16 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-039",
-          "text": "«Para mí, una hebilla de zapato cuadrada de plata y una libélula.»",
-          "translationRu": "«Для меня — квадратная серебряная застёжка на туфле и стрекоза.»",
-          "original": "\"For me, a square silver shoe buckle and a dragonfly--\""
+          "id": "sent-091",
+          "text": "«Para mí,",
+          "translationRu": "«Для меня —",
+          "original": "\"For me,"
+        },
+        {
+          "id": "sent-092",
+          "text": "una hebilla de zapato cuadrada de plata y una libélula.»",
+          "translationRu": "квадратная серебряная застёжка на туфле и стрекоза.»",
+          "original": "a square silver shoe buckle and a dragonfly--\""
         }
       ]
     },
@@ -281,43 +597,103 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-040",
+          "id": "sent-093",
           "text": "«Para mí, un beso.»",
           "translationRu": "«Для меня — поцелуй.»",
           "original": "\"For me, a kiss"
         },
         {
-          "id": "sent-041",
-          "text": "«Imagina seis niñas pequeñas sentadas frente a sus caballetes hace veinte años, junto a la orilla de un lago, pintando nenúfares, los primeros nenúfares rojos que yo había visto.»",
-          "translationRu": "«Представь себе шестерых маленьких девочек, сидящих перед своими мольбертами двадцать лет назад у берега озера, рисующих кувшинки — первые красные кувшинки, которые я когда-либо видела.»",
-          "original": "Imagine six little girls sitting before their easels twenty years ago, down by the side of a lake, painting the water-lilies, the first red water-lilies I'd ever seen"
+          "id": "sent-094",
+          "text": "«Imagina seis niñas pequeñas",
+          "translationRu": "«Представь себе шестерых маленьких девочек,",
+          "original": "Imagine six little girls"
         },
         {
-          "id": "sent-042",
-          "text": "«Y de repente un beso, allí en la nuca.»",
-          "translationRu": "«И вдруг поцелуй — вот здесь, на затылке.»",
-          "original": "And suddenly a kiss, there on the back of my neck"
+          "id": "sent-095",
+          "text": "sentadas frente a sus caballetes hace veinte años,",
+          "translationRu": "сидящих перед своими мольбертами двадцать лет назад",
+          "original": "sitting before their easels twenty years ago,"
         },
         {
-          "id": "sent-043",
-          "text": "«Y mi mano tembló toda la tarde de tal manera que no pude pintar.»",
-          "translationRu": "«И моя рука дрожала весь день так, что я не могла рисовать.»",
-          "original": "And my hand shook all the afternoon so that I couldn't paint"
+          "id": "sent-096",
+          "text": "junto a la orilla de un lago,",
+          "translationRu": "у берега озера,",
+          "original": "down by the side of a lake,"
         },
         {
-          "id": "sent-044",
-          "text": "«Saqué mi reloj y marqué la hora en que me permitiría pensar en el beso durante cinco minutos solamente, pues era tan precioso.»",
-          "translationRu": "«Я достала часы и отметила час, когда позволю себе думать о поцелуе — всего пять минут, потому что он был таким драгоценным.»",
-          "original": "I took out my watch and marked the hour when I would allow myself to think of the kiss for five minutes only--it was so precious"
+          "id": "sent-097",
+          "text": "pintando nenúfares,",
+          "translationRu": "рисующих кувшинки —",
+          "original": "painting the water-lilies,"
         },
         {
-          "id": "sent-045",
-          "text": "«Era el beso de una anciana de pelo gris con una verruga en la nariz, la madre de todos mis besos a lo largo de toda mi vida.»",
-          "translationRu": "«То был поцелуй старой седоволосой женщины с бородавкой на носу — матери всех поцелуев моей жизни.»",
-          "original": "the kiss of an old grey-haired woman with a wart on her nose, the mother of all my kisses all my life"
+          "id": "sent-098",
+          "text": "los primeros nenúfares rojos que yo había visto.»",
+          "translationRu": "первые красные кувшинки, которые я когда-либо видела.»",
+          "original": "the first red water-lilies I'd ever seen"
         },
         {
-          "id": "sent-046",
+          "id": "sent-099",
+          "text": "«Y de repente un beso,",
+          "translationRu": "«И вдруг поцелуй —",
+          "original": "And suddenly a kiss,"
+        },
+        {
+          "id": "sent-100",
+          "text": "allí en la nuca.»",
+          "translationRu": "вот здесь, на затылке.»",
+          "original": "there on the back of my neck"
+        },
+        {
+          "id": "sent-101",
+          "text": "«Y mi mano tembló toda la tarde de tal manera",
+          "translationRu": "«И моя рука дрожала весь день так,",
+          "original": "And my hand shook all the afternoon"
+        },
+        {
+          "id": "sent-102",
+          "text": "que no pude pintar.»",
+          "translationRu": "что я не могла рисовать.»",
+          "original": "so that I couldn't paint"
+        },
+        {
+          "id": "sent-103",
+          "text": "«Saqué mi reloj",
+          "translationRu": "«Я достала часы",
+          "original": "I took out my watch"
+        },
+        {
+          "id": "sent-104",
+          "text": "y marqué la hora",
+          "translationRu": "и отметила час,",
+          "original": "and marked the hour"
+        },
+        {
+          "id": "sent-105",
+          "text": "en que me permitiría pensar en el beso durante cinco minutos solamente,",
+          "translationRu": "когда позволю себе думать о поцелуе — всего пять минут,",
+          "original": "when I would allow myself to think of the kiss for five minutes only--"
+        },
+        {
+          "id": "sent-106",
+          "text": "pues era tan precioso.»",
+          "translationRu": "потому что он был таким драгоценным.»",
+          "original": "it was so precious"
+        },
+        {
+          "id": "sent-107",
+          "text": "«Era el beso de una anciana de pelo gris con una verruga en la nariz,",
+          "translationRu": "«То был поцелуй старой седоволосой женщины с бородавкой на носу —",
+          "original": "the kiss of an old grey-haired woman with a wart on her nose,"
+        },
+        {
+          "id": "sent-108",
+          "text": "la madre de todos mis besos a lo largo de toda mi vida.»",
+          "translationRu": "матери всех поцелуев моей жизни.»",
+          "original": "the mother of all my kisses all my life"
+        },
+        {
+          "id": "sent-109",
           "text": "«Vamos, Caroline, vamos, Hubert.»",
           "translationRu": "«Идём, Кэролайн, идём, Хьюберт.»",
           "original": "Come, Caroline, come, Hubert"
@@ -328,16 +704,40 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-047",
-          "text": "Siguieron caminando junto al macizo de flores, ahora los cuatro en fila, y pronto se fueron haciendo más pequeños entre los árboles.",
-          "translationRu": "Они пошли дальше мимо клумбы — теперь уже вчетвером в ряд — и вскоре стали уменьшаться среди деревьев.",
-          "original": "They walked on past the flower-bed, now walking four abreast, and soon diminished in size among the trees"
+          "id": "sent-110",
+          "text": "Siguieron caminando junto al macizo de flores,",
+          "translationRu": "Они пошли дальше мимо клумбы —",
+          "original": "They walked on past the flower-bed,"
         },
         {
-          "id": "sent-048",
-          "text": "Parecían casi transparentes mientras la luz del sol y la sombra se movían sobre sus espaldas en grandes manchas temblorosas e irregulares.",
-          "translationRu": "Они казались почти прозрачными, пока солнечный свет и тень скользили по их спинам большими дрожащими неровными пятнами.",
-          "original": "and looked half transparent as the sunlight and shade swam over their backs in large trembling irregular patches"
+          "id": "sent-111",
+          "text": "ahora los cuatro en fila,",
+          "translationRu": "теперь уже вчетвером в ряд —",
+          "original": "now walking four abreast,"
+        },
+        {
+          "id": "sent-112",
+          "text": "y pronto se fueron haciendo más pequeños entre los árboles.",
+          "translationRu": "и вскоре стали уменьшаться среди деревьев.",
+          "original": "and soon diminished in size among the trees"
+        },
+        {
+          "id": "sent-113",
+          "text": "Parecían casi transparentes",
+          "translationRu": "Они казались почти прозрачными,",
+          "original": "and looked half transparent"
+        },
+        {
+          "id": "sent-114",
+          "text": "mientras la luz del sol y la sombra se movían sobre sus espaldas",
+          "translationRu": "пока солнечный свет и тень скользили по их спинам",
+          "original": "as the sunlight and shade swam over their backs"
+        },
+        {
+          "id": "sent-115",
+          "text": "en grandes manchas temblorosas e irregulares.",
+          "translationRu": "большими дрожащими неровными пятнами.",
+          "original": "in large trembling irregular patches"
         }
       ]
     },
@@ -345,46 +745,148 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-049",
-          "text": "En el macizo ovalado, el caracol cuya concha había sido teñida de rojo, azul y amarillo durante unos dos minutos parecía ahora moverse muy ligeramente dentro de su concha.",
-          "translationRu": "На овальной клумбе улитка, чья раковина была окрашена в красный, синий и жёлтый цвета в течение примерно двух минут, теперь, казалось, чуть двигалась внутри своей раковины.",
-          "original": "In the oval flower bed the snail, whose shell had been stained red, blue, and yellow for the space of two minutes or so, now appeared to be moving very slightly in its shell"
+          "id": "sent-116",
+          "text": "En el macizo ovalado,",
+          "translationRu": "На овальной клумбе",
+          "original": "In the oval flower bed"
         },
         {
-          "id": "sent-050",
-          "text": "Luego empezó a avanzar con esfuerzo por los trozos de tierra suelta que se rompían y rodaban cuando pasaba sobre ellos.",
-          "translationRu": "Затем она начала с трудом ползти по крошкам рыхлой земли, которые ломались и скатывались, когда она проползала по ним.",
-          "original": "and next began to labour over the crumbs of loose earth which broke away and rolled down as it passed over them"
+          "id": "sent-117",
+          "text": "el caracol cuya concha había sido teñida de rojo, azul y amarillo",
+          "translationRu": "улитка, чья раковина была окрашена в красный, синий и жёлтый цвета",
+          "original": "the snail, whose shell had been stained red, blue, and yellow"
         },
         {
-          "id": "sent-051",
+          "id": "sent-118",
+          "text": "durante unos dos minutos",
+          "translationRu": "в течение примерно двух минут,",
+          "original": "for the space of two minutes or so,"
+        },
+        {
+          "id": "sent-119",
+          "text": "parecía ahora moverse muy ligeramente dentro de su concha.",
+          "translationRu": "теперь, казалось, чуть двигалась внутри своей раковины.",
+          "original": "now appeared to be moving very slightly in its shell"
+        },
+        {
+          "id": "sent-120",
+          "text": "Luego empezó a avanzar con esfuerzo por los trozos de tierra suelta",
+          "translationRu": "Затем она начала с трудом ползти по крошкам рыхлой земли,",
+          "original": "and next began to labour over the crumbs of loose earth"
+        },
+        {
+          "id": "sent-121",
+          "text": "que se rompían y rodaban",
+          "translationRu": "которые ломались и скатывались,",
+          "original": "which broke away and rolled down"
+        },
+        {
+          "id": "sent-122",
+          "text": "cuando pasaba sobre ellos.",
+          "translationRu": "когда она проползала по ним.",
+          "original": "as it passed over them"
+        },
+        {
+          "id": "sent-123",
           "text": "Parecía tener un objetivo definido delante de ella.",
           "translationRu": "Казалось, у неё была определённая цель впереди.",
           "original": "It appeared to have a definite goal in front of it"
         },
         {
-          "id": "sent-052",
-          "text": "Esto la diferenciaba del extraño insecto verde de patas largas y angulosas que intentó cruzar delante de ella.",
-          "translationRu": "Это отличало её от странного угловатого зелёного насекомого на длинных ногах, которое попыталось пересечь путь перед ней.",
-          "original": "differing in this respect from the singular high stepping angular green insect who attempted to cross in front of it"
+          "id": "sent-124",
+          "text": "Esto la diferenciaba del extraño insecto verde de patas largas y angulosas",
+          "translationRu": "Это отличало её от странного угловатого зелёного насекомого на длинных ногах,",
+          "original": "differing in this respect from the singular high stepping angular green insect"
         },
         {
-          "id": "sent-053",
-          "text": "El insecto esperó un momento con las antenas temblando como si estuviera pensando qué hacer, y luego se alejó rápida y extrañamente en la dirección contraria.",
-          "translationRu": "Насекомое на мгновение замерло, шевеля усиками, словно раздумывая, и затем быстро и странно двинулось прочь в противоположном направлении.",
-          "original": "and waited for a second with its antennae trembling as if in deliberation, and then stepped off as rapidly and strangely in the opposite direction"
+          "id": "sent-125",
+          "text": "que intentó cruzar delante de ella.",
+          "translationRu": "которое попыталось пересечь путь перед ней.",
+          "original": "who attempted to cross in front of it"
         },
         {
-          "id": "sent-054",
-          "text": "Acantilados marrones con profundos lagos verdes en las hondonadas, árboles planos como hojas de cuchillo que se agitaban de raíz a punta, piedras redondas de roca gris, vastas superficies arrugadas de una textura fina y crujiente: todos estos objetos estaban en el camino del caracol entre un tallo y otro, hacia su destino.",
-          "translationRu": "Бурые скалы с глубокими зелёными озёрами во впадинах, плоские, похожие на лезвия ножа деревья, качавшиеся от корня до верхушки, круглые валуны из серого камня, огромные смятые поверхности тонкой хрустящей текстуры — всё это преграждало путь улитке между одним стеблем и другим к её цели.",
-          "original": "Brown cliffs with deep green lakes in the hollows, flat, blade-like trees that waved from root to tip, round boulders of grey stone, vast crumpled surfaces of a thin crackling texture--all these objects lay across the snail's progress between one stalk and another to his goal"
+          "id": "sent-126",
+          "text": "El insecto esperó un momento",
+          "translationRu": "Насекомое на мгновение замерло,",
+          "original": "and waited for a second"
         },
         {
-          "id": "sent-055",
-          "text": "Antes de que hubiera decidido si rodear la tienda arqueada de una hoja muerta o atravesarla, llegaron junto al macizo los pies de otras personas.",
-          "translationRu": "Прежде чем она успела решить, огибать ли арочный навес мёртвого листа или пробираться сквозь него, к клумбе подошли ноги других людей.",
-          "original": "Before he had decided whether to circumvent the arched tent of a dead leaf or to breast it there came past the bed the feet of other human beings"
+          "id": "sent-127",
+          "text": "con las antenas temblando",
+          "translationRu": "шевеля усиками,",
+          "original": "with its antennae trembling"
+        },
+        {
+          "id": "sent-128",
+          "text": "como si estuviera pensando qué hacer,",
+          "translationRu": "словно раздумывая,",
+          "original": "as if in deliberation,"
+        },
+        {
+          "id": "sent-129",
+          "text": "y luego se alejó rápida y extrañamente en la dirección contraria.",
+          "translationRu": "и затем быстро и странно двинулось прочь в противоположном направлении.",
+          "original": "and then stepped off as rapidly and strangely in the opposite direction"
+        },
+        {
+          "id": "sent-130",
+          "text": "Acantilados marrones con profundos lagos verdes en las hondonadas,",
+          "translationRu": "Бурые скалы с глубокими зелёными озёрами во впадинах,",
+          "original": "Brown cliffs with deep green lakes in the hollows,"
+        },
+        {
+          "id": "sent-131",
+          "text": "árboles planos como hojas de cuchillo",
+          "translationRu": "плоские, похожие на лезвия ножа деревья,",
+          "original": "flat, blade-like trees"
+        },
+        {
+          "id": "sent-132",
+          "text": "que se agitaban de raíz a punta,",
+          "translationRu": "качавшиеся от корня до верхушки,",
+          "original": "that waved from root to tip,"
+        },
+        {
+          "id": "sent-133",
+          "text": "piedras redondas de roca gris,",
+          "translationRu": "круглые валуны из серого камня,",
+          "original": "round boulders of grey stone,"
+        },
+        {
+          "id": "sent-134",
+          "text": "vastas superficies arrugadas de una textura fina y crujiente:",
+          "translationRu": "огромные смятые поверхности тонкой хрустящей текстуры —",
+          "original": "vast crumpled surfaces of a thin crackling texture--"
+        },
+        {
+          "id": "sent-135",
+          "text": "todos estos objetos estaban en el camino del caracol entre un tallo y otro,",
+          "translationRu": "всё это преграждало путь улитке между одним стеблем и другим",
+          "original": "all these objects lay across the snail's progress between one stalk and another"
+        },
+        {
+          "id": "sent-136",
+          "text": "hacia su destino.",
+          "translationRu": "к её цели.",
+          "original": "to his goal"
+        },
+        {
+          "id": "sent-137",
+          "text": "Antes de que hubiera decidido",
+          "translationRu": "Прежде чем она успела решить,",
+          "original": "Before he had decided"
+        },
+        {
+          "id": "sent-138",
+          "text": "si rodear la tienda arqueada de una hoja muerta o atravesarla,",
+          "translationRu": "огибать ли арочный навес мёртвого листа или пробираться сквозь него,",
+          "original": "whether to circumvent the arched tent of a dead leaf or to breast it"
+        },
+        {
+          "id": "sent-139",
+          "text": "llegaron junto al macizo los pies de otras personas.",
+          "translationRu": "к клумбе подошли ноги других людей.",
+          "original": "there came past the bed the feet of other human beings"
         }
       ]
     },
@@ -392,70 +894,142 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-056",
+          "id": "sent-140",
           "text": "Esta vez eran dos hombres.",
           "translationRu": "На этот раз это были двое мужчин.",
           "original": "This time they were both men"
         },
         {
-          "id": "sent-057",
+          "id": "sent-141",
           "text": "El más joven tenía una expresión de calma quizá poco natural.",
           "translationRu": "У молодого было выражение, пожалуй, неестественного спокойствия.",
           "original": "The younger of the two wore an expression of perhaps unnatural calm"
         },
         {
-          "id": "sent-058",
-          "text": "Levantaba los ojos y los fijaba muy firmemente delante de él mientras su compañero hablaba.",
-          "translationRu": "Он поднимал глаза и очень твёрдо устремлял их вперёд, пока говорил его спутник.",
-          "original": "he raised his eyes and fixed them very steadily in front of him while his companion spoke"
+          "id": "sent-142",
+          "text": "Levantaba los ojos y los fijaba muy firmemente delante de él",
+          "translationRu": "Он поднимал глаза и очень твёрдо устремлял их вперёд,",
+          "original": "he raised his eyes and fixed them very steadily in front of him"
         },
         {
-          "id": "sent-059",
-          "text": "En cuanto su compañero terminaba de hablar, él volvía a mirar al suelo.",
-          "translationRu": "Как только спутник заканчивал говорить, он снова смотрел в землю.",
-          "original": "and directly his companion had done speaking he looked on the ground again"
+          "id": "sent-143",
+          "text": "mientras su compañero hablaba.",
+          "translationRu": "пока говорил его спутник.",
+          "original": "while his companion spoke"
         },
         {
-          "id": "sent-060",
-          "text": "A veces abría los labios solo después de una larga pausa, y a veces no los abría en absoluto.",
-          "translationRu": "Иногда он разжимал губы лишь после долгой паузы, а иногда не разжимал их вовсе.",
-          "original": "and sometimes opened his lips only after a long pause and sometimes did not open them at all"
+          "id": "sent-144",
+          "text": "En cuanto su compañero terminaba de hablar,",
+          "translationRu": "Как только спутник заканчивал говорить,",
+          "original": "and directly his companion had done speaking"
         },
         {
-          "id": "sent-061",
+          "id": "sent-145",
+          "text": "él volvía a mirar al suelo.",
+          "translationRu": "он снова смотрел в землю.",
+          "original": "he looked on the ground again"
+        },
+        {
+          "id": "sent-146",
+          "text": "A veces abría los labios solo después de una larga pausa,",
+          "translationRu": "Иногда он разжимал губы лишь после долгой паузы,",
+          "original": "and sometimes opened his lips only after a long pause"
+        },
+        {
+          "id": "sent-147",
+          "text": "y a veces no los abría en absoluto.",
+          "translationRu": "а иногда не разжимал их вовсе.",
+          "original": "and sometimes did not open them at all"
+        },
+        {
+          "id": "sent-148",
           "text": "El hombre mayor tenía una forma de caminar curiosamente desigual y temblorosa.",
           "translationRu": "У пожилого мужчины была удивительно неровная и дрожащая походка.",
           "original": "The elder man had a curiously uneven and shaky method of walking"
         },
         {
-          "id": "sent-062",
-          "text": "Echaba la mano hacia delante con sacudidas y levantaba la cabeza de golpe, un poco a la manera de un impaciente caballo de carruaje cansado de esperar fuera de una casa.",
-          "translationRu": "Он рывками выбрасывал руку вперёд и резко вскидывал голову — немного на манер нетерпеливой лошади, устав­шей ждать у дома.",
-          "original": "jerking his hand forward and throwing up his head abruptly, rather in the manner of an impatient carriage horse tired of waiting outside a house"
+          "id": "sent-149",
+          "text": "Echaba la mano hacia delante con sacudidas",
+          "translationRu": "Он рывками выбрасывал руку вперёд",
+          "original": "jerking his hand forward"
         },
         {
-          "id": "sent-063",
+          "id": "sent-150",
+          "text": "y levantaba la cabeza de golpe,",
+          "translationRu": "и резко вскидывал голову —",
+          "original": "and throwing up his head abruptly,"
+        },
+        {
+          "id": "sent-151",
+          "text": "un poco a la manera de un impaciente caballo de carruaje",
+          "translationRu": "немного на манер нетерпеливой лошади,",
+          "original": "rather in the manner of an impatient carriage horse"
+        },
+        {
+          "id": "sent-152",
+          "text": "cansado de esperar fuera de una casa.",
+          "translationRu": "устав­шей ждать у дома.",
+          "original": "tired of waiting outside a house"
+        },
+        {
+          "id": "sent-153",
           "text": "Pero en el hombre estos gestos eran irresolutos y sin sentido.",
           "translationRu": "Но у этого человека такие жесты были нерешительными и бессмысленными.",
           "original": "but in the man these gestures were irresolute and pointless"
         },
         {
-          "id": "sent-064",
+          "id": "sent-154",
           "text": "Hablaba casi sin parar.",
           "translationRu": "Он говорил почти без остановки.",
           "original": "He talked almost incessantly"
         },
         {
-          "id": "sent-065",
-          "text": "Se sonreía a sí mismo y volvía a hablar, como si la sonrisa hubiera sido una respuesta.",
-          "translationRu": "Улыбался сам себе и снова начинал говорить, словно улыбка была ответом на что-то.",
-          "original": "he smiled to himself and again began to talk, as if the smile had been an answer"
+          "id": "sent-155",
+          "text": "Se sonreía a sí mismo",
+          "translationRu": "Улыбался сам себе",
+          "original": "he smiled to himself"
         },
         {
-          "id": "sent-066",
-          "text": "Hablaba de espíritus: los espíritus de los muertos que, según él, le estaban contando en ese momento todo tipo de cosas extrañas sobre sus experiencias en el Cielo.",
-          "translationRu": "Он говорил о духах — духах мёртвых, которые, по его словам, прямо сейчас рассказывали ему всякие странные вещи о своём опыте на Небесах.",
-          "original": "He was talking about spirits--the spirits of the dead, who, according to him, were even now telling him all sorts of odd things about their experiences in Heaven"
+          "id": "sent-156",
+          "text": "y volvía a hablar,",
+          "translationRu": "и снова начинал говорить,",
+          "original": "and again began to talk,"
+        },
+        {
+          "id": "sent-157",
+          "text": "como si la sonrisa hubiera sido una respuesta.",
+          "translationRu": "словно улыбка была ответом на что-то.",
+          "original": "as if the smile had been an answer"
+        },
+        {
+          "id": "sent-158",
+          "text": "Hablaba de espíritus:",
+          "translationRu": "Он говорил о духах —",
+          "original": "He was talking about spirits--"
+        },
+        {
+          "id": "sent-159",
+          "text": "los espíritus de los muertos que,",
+          "translationRu": "духах мёртвых, которые,",
+          "original": "the spirits of the dead, who,"
+        },
+        {
+          "id": "sent-160",
+          "text": "según él,",
+          "translationRu": "по его словам,",
+          "original": "according to him,"
+        },
+        {
+          "id": "sent-161",
+          "text": "le estaban contando en ese momento todo tipo de cosas extrañas",
+          "translationRu": "прямо сейчас рассказывали ему всякие странные вещи",
+          "original": "were even now telling him all sorts of odd things"
+        },
+        {
+          "id": "sent-162",
+          "text": "sobre sus experiencias en el Cielo.",
+          "translationRu": "о своём опыте на Небесах.",
+          "original": "about their experiences in Heaven"
         }
       ]
     },
@@ -463,43 +1037,109 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-067",
-          "text": "«El Cielo era conocido por los antiguos como Tesalia, William, y ahora, con esta guerra, la materia de los espíritus rueda entre las colinas como el trueno.»",
-          "translationRu": "«Небеса были известны древним как Фессалия, Уильям, и теперь, в эту войну, субстанция духов катится между холмами, как гром.»",
-          "original": "\"Heaven was known to the ancients as Thessaly, William, and now, with this war, the spirit matter is rolling between the hills like thunder\""
+          "id": "sent-163",
+          "text": "«El Cielo era conocido por los antiguos como Tesalia, William,",
+          "translationRu": "«Небеса были известны древним как Фессалия, Уильям,",
+          "original": "\"Heaven was known to the ancients as Thessaly, William,"
         },
         {
-          "id": "sent-068",
-          "text": "Hizo una pausa, pareció escuchar, sonrió, sacudió la cabeza y continuó:",
-          "translationRu": "Он сделал паузу, казалось, прислушался, улыбнулся, тряхнул головой и продолжил:",
-          "original": "He paused, seemed to listen, smiled, jerked his head and continued"
+          "id": "sent-164",
+          "text": "y ahora, con esta guerra,",
+          "translationRu": "и теперь, в эту войну,",
+          "original": "and now, with this war,"
         },
         {
-          "id": "sent-069",
-          "text": "«Tienes una pequeña batería eléctrica y un trozo de goma para aislar el cable, y la pequeña máquina se coloca en cualquier posición conveniente junto a la cabecera de la cama, digamos sobre una ordenada mesita de caoba.»",
-          "translationRu": "«У тебя есть маленькая электрическая батарея и кусочек резины, чтобы изолировать провод, и маленькая машина ставится в любом удобном месте у изголовья кровати — скажем, на аккуратном столике из красного дерева.»",
-          "original": "\"You have a small electric battery and a piece of rubber to insulate the wire--isolate?--insulate?--well, we'll skip the details, no good going into details that wouldn't be understood--and in short the little machine stands in any convenient position by the head of the bed, we will say, on a neat mahogany stand"
+          "id": "sent-165",
+          "text": "la materia de los espíritus rueda entre las colinas como el trueno.»",
+          "translationRu": "субстанция духов катится между холмами, как гром.»",
+          "original": "the spirit matter is rolling between the hills like thunder\""
         },
         {
-          "id": "sent-070",
-          "text": "«Una vez que los trabajadores bajo mi dirección han hecho todos los arreglos necesarios, la viuda acerca el oído y llama al espíritu mediante la señal acordada.»",
-          "translationRu": "«После того как рабочие под моим руководством сделали все необходимые приготовления, вдова прикладывает ухо и вызывает дух условным знаком.»",
-          "original": "All arrangements being properly fixed by workmen under my direction, the widow applies her ear and summons the spirit by sign as agreed"
+          "id": "sent-166",
+          "text": "Hizo una pausa,",
+          "translationRu": "Он сделал паузу,",
+          "original": "He paused,"
         },
         {
-          "id": "sent-071",
+          "id": "sent-167",
+          "text": "pareció escuchar,",
+          "translationRu": "казалось, прислушался,",
+          "original": "seemed to listen,"
+        },
+        {
+          "id": "sent-168",
+          "text": "sonrió,",
+          "translationRu": "улыбнулся,",
+          "original": "smiled,"
+        },
+        {
+          "id": "sent-169",
+          "text": "sacudió la cabeza",
+          "translationRu": "тряхнул головой",
+          "original": "jerked his head"
+        },
+        {
+          "id": "sent-170",
+          "text": "y continuó:",
+          "translationRu": "и продолжил:",
+          "original": "and continued"
+        },
+        {
+          "id": "sent-171",
+          "text": "«Tienes una pequeña batería eléctrica",
+          "translationRu": "«У тебя есть маленькая электрическая батарея",
+          "original": "\"You have a small electric battery"
+        },
+        {
+          "id": "sent-172",
+          "text": "y un trozo de goma para aislar el cable,",
+          "translationRu": "и кусочек резины, чтобы изолировать провод,",
+          "original": "and a piece of rubber to insulate the wire--isolate?--insulate?--well, we'll skip the details, no good going into details that wouldn't be understood--"
+        },
+        {
+          "id": "sent-173",
+          "text": "y la pequeña máquina se coloca en cualquier posición conveniente junto a la cabecera de la cama,",
+          "translationRu": "и маленькая машина ставится в любом удобном месте у изголовья кровати —",
+          "original": "and in short the little machine stands in any convenient position by the head of the bed,"
+        },
+        {
+          "id": "sent-174",
+          "text": "digamos sobre una ordenada mesita de caoba.»",
+          "translationRu": "скажем, на аккуратном столике из красного дерева.»",
+          "original": "we will say, on a neat mahogany stand"
+        },
+        {
+          "id": "sent-175",
+          "text": "«Una vez que los trabajadores bajo mi dirección han hecho todos los arreglos necesarios,",
+          "translationRu": "«После того как рабочие под моим руководством сделали все необходимые приготовления,",
+          "original": "All arrangements being properly fixed by workmen under my direction,"
+        },
+        {
+          "id": "sent-176",
+          "text": "la viuda acerca el oído",
+          "translationRu": "вдова прикладывает ухо",
+          "original": "the widow applies her ear"
+        },
+        {
+          "id": "sent-177",
+          "text": "y llama al espíritu mediante la señal acordada.»",
+          "translationRu": "и вызывает дух условным знаком.»",
+          "original": "and summons the spirit by sign as agreed"
+        },
+        {
+          "id": "sent-178",
           "text": "«¡Las mujeres!»",
           "translationRu": "«Женщины!»",
           "original": "Women!"
         },
         {
-          "id": "sent-072",
+          "id": "sent-179",
           "text": "«¡Las viudas!»",
           "translationRu": "«Вдовы!»",
           "original": "Widows!"
         },
         {
-          "id": "sent-073",
+          "id": "sent-180",
           "text": "«¡Las mujeres de negro!»",
           "translationRu": "«Женщины в чёрном!»",
           "original": "Women in black----"
@@ -510,46 +1150,136 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-074",
-          "text": "Aquí pareció ver a lo lejos el vestido de una mujer, que a la sombra parecía negro violáceo.",
-          "translationRu": "Тут он, казалось, заметил вдали платье женщины, которое в тени казалось тёмно-фиолетово-чёрным.",
-          "original": "Here he seemed to have caught sight of a woman's dress in the distance, which in the shade looked a purple black"
+          "id": "sent-181",
+          "text": "Aquí pareció ver a lo lejos el vestido de una mujer,",
+          "translationRu": "Тут он, казалось, заметил вдали платье женщины,",
+          "original": "Here he seemed to have caught sight of a woman's dress in the distance,"
         },
         {
-          "id": "sent-075",
-          "text": "Se quitó el sombrero, se puso la mano en el corazón y fue hacia ella murmurando y gesticulando con nerviosismo.",
-          "translationRu": "Он снял шляпу, приложил руку к сердцу и пошёл к ней, бормоча и нервно жестикулируя.",
-          "original": "He took off his hat, placed his hand upon his heart, and hurried towards her muttering and gesticulating feverishly"
+          "id": "sent-182",
+          "text": "que a la sombra parecía negro violáceo.",
+          "translationRu": "которое в тени казалось тёмно-фиолетово-чёрным.",
+          "original": "which in the shade looked a purple black"
         },
         {
-          "id": "sent-076",
-          "text": "Pero William lo sujetó por la manga y tocó una flor con la punta de su bastón para distraer la atención del anciano.",
-          "translationRu": "Но Уильям поймал его за рукав и коснулся цветка кончиком трости, чтобы отвлечь внимание старика.",
-          "original": "But William caught him by the sleeve and touched a flower with the tip of his walking-stick in order to divert the old man's attention"
+          "id": "sent-183",
+          "text": "Se quitó el sombrero,",
+          "translationRu": "Он снял шляпу,",
+          "original": "He took off his hat,"
         },
         {
-          "id": "sent-077",
-          "text": "Después de mirar la flor un momento algo confundido, el anciano acercó el oído a ella y pareció responder a una voz que salía de la flor.",
-          "translationRu": "После того как старик с минуту смотрел на цветок в некотором замешательстве, он наклонил к нему ухо и, казалось, ответил голосу, исходящему из цветка.",
-          "original": "After looking at it for a moment in some confusion the old man bent his ear to it and seemed to answer a voice speaking from it"
+          "id": "sent-184",
+          "text": "se puso la mano en el corazón",
+          "translationRu": "приложил руку к сердцу",
+          "original": "placed his hand upon his heart,"
         },
         {
-          "id": "sent-078",
-          "text": "Empezó a hablar de los bosques de Uruguay, que había visitado hacía cientos de años en compañía de la mujer más bella de Europa.",
-          "translationRu": "Он начал говорить о лесах Уругвая, которые посещал сотни лет назад в компании прекраснейшей женщины Европы.",
-          "original": "for he began talking about the forests of Uruguay which he had visited hundreds of years ago in company with the most beautiful young woman in Europe"
+          "id": "sent-185",
+          "text": "y fue hacia ella",
+          "translationRu": "и пошёл к ней,",
+          "original": "and hurried towards her"
         },
         {
-          "id": "sent-079",
-          "text": "Se le podía oír murmurar sobre bosques de Uruguay cubiertos con pétalos de cera de rosas tropicales, ruiseñores, playas del mar, sirenas y mujeres ahogadas en el mar.",
-          "translationRu": "Его можно было слышать бормочущим о лесах Уругвая, укрытых восковыми лепестками тропических роз, соловьях, морских берегах, русалках и женщинах, утонувших в море.",
-          "original": "He could be heard murmuring about forests of Uruguay blanketed with the wax petals of tropical roses, nightingales, sea beaches, mermaids, and women drowned at sea"
+          "id": "sent-186",
+          "text": "murmurando y gesticulando con nerviosismo.",
+          "translationRu": "бормоча и нервно жестикулируя.",
+          "original": "muttering and gesticulating feverishly"
         },
         {
-          "id": "sent-080",
-          "text": "Así se dejó llevar por William, en cuyo rostro la expresión de paciencia estoica se fue haciendo cada vez más profunda.",
-          "translationRu": "Так он позволил Уильяму вести себя, а на лице Уильяма выражение стоического терпения становилось всё глубже и глубже.",
-          "original": "as he suffered himself to be moved on by William, upon whose face the look of stoical patience grew slowly deeper and deeper"
+          "id": "sent-187",
+          "text": "Pero William lo sujetó por la manga",
+          "translationRu": "Но Уильям поймал его за рукав",
+          "original": "But William caught him by the sleeve"
+        },
+        {
+          "id": "sent-188",
+          "text": "y tocó una flor con la punta de su bastón",
+          "translationRu": "и коснулся цветка кончиком трости,",
+          "original": "and touched a flower with the tip of his walking-stick"
+        },
+        {
+          "id": "sent-189",
+          "text": "para distraer la atención del anciano.",
+          "translationRu": "чтобы отвлечь внимание старика.",
+          "original": "in order to divert the old man's attention"
+        },
+        {
+          "id": "sent-190",
+          "text": "Después de mirar la flor un momento algo confundido,",
+          "translationRu": "После того как старик с минуту смотрел на цветок в некотором замешательстве,",
+          "original": "After looking at it for a moment in some confusion"
+        },
+        {
+          "id": "sent-191",
+          "text": "el anciano acercó el oído a ella",
+          "translationRu": "он наклонил к нему ухо",
+          "original": "the old man bent his ear to it"
+        },
+        {
+          "id": "sent-192",
+          "text": "y pareció responder a una voz que salía de la flor.",
+          "translationRu": "и, казалось, ответил голосу, исходящему из цветка.",
+          "original": "and seemed to answer a voice speaking from it"
+        },
+        {
+          "id": "sent-193",
+          "text": "Empezó a hablar de los bosques de Uruguay,",
+          "translationRu": "Он начал говорить о лесах Уругвая,",
+          "original": "for he began talking about the forests of Uruguay"
+        },
+        {
+          "id": "sent-194",
+          "text": "que había visitado hacía cientos de años",
+          "translationRu": "которые посещал сотни лет назад",
+          "original": "which he had visited hundreds of years ago"
+        },
+        {
+          "id": "sent-195",
+          "text": "en compañía de la mujer más bella de Europa.",
+          "translationRu": "в компании прекраснейшей женщины Европы.",
+          "original": "in company with the most beautiful young woman in Europe"
+        },
+        {
+          "id": "sent-196",
+          "text": "Se le podía oír murmurar sobre bosques de Uruguay",
+          "translationRu": "Его можно было слышать бормочущим о лесах Уругвая,",
+          "original": "He could be heard murmuring about forests of Uruguay"
+        },
+        {
+          "id": "sent-197",
+          "text": "cubiertos con pétalos de cera de rosas tropicales,",
+          "translationRu": "укрытых восковыми лепестками тропических роз,",
+          "original": "blanketed with the wax petals of tropical roses,"
+        },
+        {
+          "id": "sent-198",
+          "text": "ruiseñores, playas del mar, sirenas",
+          "translationRu": "соловьях, морских берегах, русалках",
+          "original": "nightingales, sea beaches, mermaids,"
+        },
+        {
+          "id": "sent-199",
+          "text": "y mujeres ahogadas en el mar.",
+          "translationRu": "и женщинах, утонувших в море.",
+          "original": "and women drowned at sea"
+        },
+        {
+          "id": "sent-200",
+          "text": "Así se dejó llevar por William,",
+          "translationRu": "Так он позволил Уильяму вести себя,",
+          "original": "as he suffered himself to be moved on by William,"
+        },
+        {
+          "id": "sent-201",
+          "text": "en cuyo rostro la expresión de paciencia estoica",
+          "translationRu": "а на лице Уильяма выражение стоического терпения",
+          "original": "upon whose face the look of stoical patience"
+        },
+        {
+          "id": "sent-202",
+          "text": "se fue haciendo cada vez más profunda.",
+          "translationRu": "становилось всё глубже и глубже.",
+          "original": "grew slowly deeper and deeper"
         }
       ]
     },
@@ -557,34 +1287,130 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-081",
-          "text": "Siguiendo sus pasos tan de cerca que los gestos del anciano las desconcertaban un poco, llegaron dos mujeres mayores de clase media baja.",
-          "translationRu": "Следуя за ними так близко, что жесты старика немного их сбивали с толку, подошли две пожилые женщины из мелкобуржуазного сословия.",
-          "original": "Following his steps so closely as to be slightly puzzled by his gestures came two elderly women of the lower middle class"
+          "id": "sent-203",
+          "text": "Siguiendo sus pasos tan de cerca",
+          "translationRu": "Следуя за ними так близко,",
+          "original": "Following his steps so closely"
         },
         {
-          "id": "sent-082",
-          "text": "Una era gruesa y pesada, y la otra tenía las mejillas sonrosadas y era ágil.",
-          "translationRu": "Одна была полной и грузной, другая — розовощёкой и подвижной.",
-          "original": "one stout and ponderous, the other rosy cheeked and nimble"
+          "id": "sent-204",
+          "text": "que los gestos del anciano",
+          "translationRu": "что жесты старика",
+          "original": "as to be slightly"
         },
         {
-          "id": "sent-083",
-          "text": "Como la mayoría de las personas de su clase social, les fascinaban abiertamente los signos de excentricidad que indicaban una mente perturbada, especialmente en personas de posición acomodada.",
-          "translationRu": "Как большинство людей их общественного положения, они откровенно восхищались любыми признаками эксцентричности, указывающими на расстроенный рассудок, особенно у людей с достатком.",
-          "original": "Like most people of their station they were frankly fascinated by any signs of eccentricity betokening a disordered brain, especially in the well-to-do"
+          "id": "sent-205",
+          "text": "las desconcertaban un poco,",
+          "translationRu": "немного их сбивали с толку,",
+          "original": "puzzled by his gestures"
         },
         {
-          "id": "sent-084",
-          "text": "Pero estaban demasiado lejos para saber con certeza si los gestos eran simplemente excéntricos o verdaderamente propios de un loco.",
-          "translationRu": "Но они находились слишком далеко, чтобы с уверенностью сказать, были ли жесты просто эксцентричными или по-настоящему безумными.",
-          "original": "but they were too far off to be certain whether the gestures were merely eccentric or genuinely mad"
+          "id": "sent-206",
+          "text": "llegaron dos mujeres mayores",
+          "translationRu": "подошли две пожилые женщины",
+          "original": "came two elderly women"
         },
         {
-          "id": "sent-085",
-          "text": "Después de examinar en silencio la espalda del anciano un momento y de intercambiar una mirada extraña y socarrona, siguieron adelante con energía, enhebrando su diálogo muy complicado:",
-          "translationRu": "После того как они молча секунду изучили спину старика и обменялись странным хитроватым взглядом, они энергично пошли дальше, продолжая свой очень запутанный разговор:",
-          "original": "After they had scrutinised the old man's back in silence for a moment and given each other a queer, sly look, they went on energetically piecing together their very complicated dialogue"
+          "id": "sent-207",
+          "text": "de clase media baja.",
+          "translationRu": "из мелкобуржуазного сословия.",
+          "original": "of the lower middle class"
+        },
+        {
+          "id": "sent-208",
+          "text": "Una era gruesa y pesada,",
+          "translationRu": "Одна была полной и грузной,",
+          "original": "one stout and ponderous,"
+        },
+        {
+          "id": "sent-209",
+          "text": "y la otra tenía las mejillas sonrosadas",
+          "translationRu": "другая — розовощёкой",
+          "original": "the other rosy cheeked"
+        },
+        {
+          "id": "sent-210",
+          "text": "y era ágil.",
+          "translationRu": "и подвижной.",
+          "original": "and nimble"
+        },
+        {
+          "id": "sent-211",
+          "text": "Como la mayoría de las personas de su clase social,",
+          "translationRu": "Как большинство людей их общественного положения,",
+          "original": "Like most people of their station"
+        },
+        {
+          "id": "sent-212",
+          "text": "les fascinaban abiertamente",
+          "translationRu": "они откровенно восхищались",
+          "original": "they were frankly fascinated"
+        },
+        {
+          "id": "sent-213",
+          "text": "los signos de excentricidad",
+          "translationRu": "любыми признаками эксцентричности,",
+          "original": "by any signs of eccentricity"
+        },
+        {
+          "id": "sent-214",
+          "text": "que indicaban una mente perturbada,",
+          "translationRu": "указывающими на расстроенный рассудок,",
+          "original": "betokening a disordered brain,"
+        },
+        {
+          "id": "sent-215",
+          "text": "especialmente en personas de posición acomodada.",
+          "translationRu": "особенно у людей с достатком.",
+          "original": "especially in the well-to-do"
+        },
+        {
+          "id": "sent-216",
+          "text": "Pero estaban demasiado lejos",
+          "translationRu": "Но они находились слишком далеко,",
+          "original": "but they were too far off"
+        },
+        {
+          "id": "sent-217",
+          "text": "para saber con certeza",
+          "translationRu": "чтобы с уверенностью сказать,",
+          "original": "to be certain"
+        },
+        {
+          "id": "sent-218",
+          "text": "si los gestos eran simplemente excéntricos",
+          "translationRu": "были ли жесты просто эксцентричными",
+          "original": "whether the gestures were merely eccentric"
+        },
+        {
+          "id": "sent-219",
+          "text": "o verdaderamente propios de un loco.",
+          "translationRu": "или по-настоящему безумными.",
+          "original": "or genuinely mad"
+        },
+        {
+          "id": "sent-220",
+          "text": "Después de examinar en silencio la espalda del anciano un momento",
+          "translationRu": "После того как они молча секунду изучили спину старика",
+          "original": "After they had scrutinised the old man's back in silence for a moment"
+        },
+        {
+          "id": "sent-221",
+          "text": "y de intercambiar una mirada extraña y socarrona,",
+          "translationRu": "и обменялись странным хитроватым взглядом,",
+          "original": "and given each other a queer, sly look,"
+        },
+        {
+          "id": "sent-222",
+          "text": "siguieron adelante con energía,",
+          "translationRu": "они энергично пошли дальше,",
+          "original": "they went on energetically"
+        },
+        {
+          "id": "sent-223",
+          "text": "enhebrando su diálogo muy complicado:",
+          "translationRu": "продолжая свой очень запутанный разговор:",
+          "original": "piecing together their very complicated dialogue"
         }
       ]
     },
@@ -592,10 +1418,16 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-086",
-          "text": "«Nell, Bert, Lot, Cess, Phil, Pa, él dice, yo digo, ella dice, yo digo, yo digo, yo digo...»",
-          "translationRu": "«Нелл, Берт, Лот, Сесс, Фил, Па, он говорит, я говорю, она говорит, я говорю, я говорю, я говорю...»",
-          "original": "\"Nell, Bert, Lot, Cess, Phil, Pa, he says, I says, she says, I says, I says, I says----\""
+          "id": "sent-224",
+          "text": "«Nell, Bert, Lot, Cess, Phil, Pa,",
+          "translationRu": "«Нелл, Берт, Лот, Сесс, Фил, Па,",
+          "original": "\"Nell, Bert, Lot, Cess, Phil, Pa,"
+        },
+        {
+          "id": "sent-225",
+          "text": "él dice, yo digo, ella dice, yo digo, yo digo, yo digo...»",
+          "translationRu": "он говорит, я говорю, она говорит, я говорю, я говорю, я говорю...»",
+          "original": "he says, I says, she says, I says, I says, I says----\""
         }
       ]
     },
@@ -603,10 +1435,16 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-087",
-          "text": "«Mi Bert, Sis, Bill, el abuelo, el viejo, azúcar, azúcar, harina, arenques, verduras, azúcar, azúcar, azúcar.»",
-          "translationRu": "«Мой Берт, Сис, Билл, дедушка, старик, сахар, сахар, мука, килька, зелень, сахар, сахар, сахар.»",
-          "original": "\"My Bert, Sis, Bill, Grandad, the old man, sugar, Sugar, flour, kippers, greens, Sugar, sugar, sugar\""
+          "id": "sent-226",
+          "text": "«Mi Bert, Sis, Bill, el abuelo, el viejo,",
+          "translationRu": "«Мой Берт, Сис, Билл, дедушка, старик,",
+          "original": "\"My Bert, Sis, Bill, Grandad, the old man,"
+        },
+        {
+          "id": "sent-227",
+          "text": "azúcar, azúcar, harina, arenques, verduras, azúcar, azúcar, azúcar.»",
+          "translationRu": "сахар, сахар, мука, килька, зелень, сахар, сахар, сахар.»",
+          "original": "sugar, Sugar, flour, kippers, greens, Sugar, sugar, sugar\""
         }
       ]
     },
@@ -614,52 +1452,130 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-088",
-          "text": "La mujer gruesa miraba las flores a través del patrón de palabras que caían.",
-          "translationRu": "Грузная женщина смотрела на цветы сквозь узор падающих слов.",
-          "original": "The ponderous woman looked through the pattern of falling words at the flowers"
+          "id": "sent-228",
+          "text": "La mujer gruesa miraba las flores",
+          "translationRu": "Грузная женщина смотрела на цветы",
+          "original": "The ponderous woman looked"
         },
         {
-          "id": "sent-089",
+          "id": "sent-229",
+          "text": "a través del patrón de palabras que caían.",
+          "translationRu": "сквозь узор падающих слов.",
+          "original": "through the pattern of falling words at the flowers"
+        },
+        {
+          "id": "sent-230",
           "text": "Las flores estaban frescas, firmes y erguidas en la tierra.",
           "translationRu": "Цветы стояли свежими, крепкими и прямыми в земле.",
           "original": "standing cool, firm, and upright in the earth"
         },
         {
-          "id": "sent-090",
+          "id": "sent-231",
           "text": "Ella las miraba con una expresión curiosa.",
           "translationRu": "Она смотрела на них с каким-то странным выражением.",
           "original": "with a curious expression"
         },
         {
-          "id": "sent-091",
-          "text": "Las veía como las ve alguien que despierta de un sueño profundo y ve un candelabro de latón que refleja la luz de una forma desconocida.",
-          "translationRu": "Она видела их так, как видит медный подсвечник, отражающий свет непривычным образом, человек, пробуждающийся от глубокого сна.",
-          "original": "She saw them as a sleeper waking from a heavy sleep sees a brass candlestick reflecting the light in an unfamiliar way"
+          "id": "sent-232",
+          "text": "Las veía",
+          "translationRu": "Она видела их так,",
+          "original": "She saw them"
         },
         {
-          "id": "sent-092",
-          "text": "Cierra los ojos, los vuelve a abrir, y al ver de nuevo el candelabro de latón se despierta del todo y lo mira con toda su atención.",
-          "translationRu": "Он закрывает глаза, снова открывает, и, снова увидев подсвечник, окончательно просыпается и смотрит на него всем своим вниманием.",
-          "original": "and closes his eyes and opens them, and seeing the brass candlestick again, finally starts broad awake and stares at the candlestick with all his powers"
+          "id": "sent-233",
+          "text": "como las ve alguien que despierta de un sueño profundo y ve un candelabro de latón que refleja la luz de una forma desconocida.",
+          "translationRu": "как видит медный подсвечник, отражающий свет непривычным образом, человек, пробуждающийся от глубокого сна.",
+          "original": "as a sleeper waking from a heavy sleep sees a brass candlestick reflecting the light in an unfamiliar way"
         },
         {
-          "id": "sent-093",
-          "text": "Así, la mujer pesada se detuvo frente al macizo de flores ovalado y dejó de fingir que escuchaba lo que decía la otra mujer.",
-          "translationRu": "Так и грузная женщина остановилась напротив овальной клумбы и перестала делать вид, что слушает, что говорит другая.",
-          "original": "So the heavy woman came to a standstill opposite the oval-shaped flower bed, and ceased even to pretend to listen to what the other woman was saying"
+          "id": "sent-234",
+          "text": "Cierra los ojos, los vuelve a abrir,",
+          "translationRu": "Он закрывает глаза, снова открывает,",
+          "original": "and closes his eyes and opens them,"
         },
         {
-          "id": "sent-094",
-          "text": "Se quedó allí dejando que las palabras cayeran sobre ella, balanceando lentamente la parte superior del cuerpo hacia delante y hacia atrás, mirando las flores.",
-          "translationRu": "Она стояла, позволяя словам падать на неё, медленно покачивая верхней частью тела вперёд и назад, глядя на цветы.",
-          "original": "She stood there letting the words fall over her, swaying the top part of her body slowly backwards and forwards, looking at the flowers"
+          "id": "sent-235",
+          "text": "y al ver de nuevo el candelabro de latón",
+          "translationRu": "и, снова увидев подсвечник,",
+          "original": "and seeing the brass candlestick again,"
         },
         {
-          "id": "sent-095",
-          "text": "Luego sugirió que buscaran un asiento y tomaran el té.",
-          "translationRu": "Потом она предложила найти место и выпить чаю.",
-          "original": "Then she suggested that they should find a seat and have their tea"
+          "id": "sent-236",
+          "text": "se despierta del todo",
+          "translationRu": "окончательно просыпается",
+          "original": "finally starts broad awake"
+        },
+        {
+          "id": "sent-237",
+          "text": "y lo mira con toda su atención.",
+          "translationRu": "и смотрит на него всем своим вниманием.",
+          "original": "and stares at the candlestick with all his powers"
+        },
+        {
+          "id": "sent-238",
+          "text": "Así, la mujer pesada se detuvo",
+          "translationRu": "Так и грузная женщина остановилась",
+          "original": "So the heavy woman came to a standstill"
+        },
+        {
+          "id": "sent-239",
+          "text": "frente al macizo de flores ovalado",
+          "translationRu": "напротив овальной клумбы",
+          "original": "opposite the oval-shaped flower bed,"
+        },
+        {
+          "id": "sent-240",
+          "text": "y dejó de fingir que escuchaba",
+          "translationRu": "и перестала делать вид, что слушает,",
+          "original": "and ceased even to pretend to listen"
+        },
+        {
+          "id": "sent-241",
+          "text": "lo que decía la otra mujer.",
+          "translationRu": "что говорит другая.",
+          "original": "to what the other woman was saying"
+        },
+        {
+          "id": "sent-242",
+          "text": "Se quedó allí",
+          "translationRu": "Она стояла,",
+          "original": "She stood there"
+        },
+        {
+          "id": "sent-243",
+          "text": "dejando que las palabras cayeran sobre ella,",
+          "translationRu": "позволяя словам падать на неё,",
+          "original": "letting the words fall over her,"
+        },
+        {
+          "id": "sent-244",
+          "text": "balanceando lentamente la parte superior del cuerpo hacia delante y hacia atrás,",
+          "translationRu": "медленно покачивая верхней частью тела вперёд и назад,",
+          "original": "swaying the top part of her body slowly backwards and forwards,"
+        },
+        {
+          "id": "sent-245",
+          "text": "mirando las flores.",
+          "translationRu": "глядя на цветы.",
+          "original": "looking at the flowers"
+        },
+        {
+          "id": "sent-246",
+          "text": "Luego sugirió",
+          "translationRu": "Потом она предложила",
+          "original": "Then she suggested"
+        },
+        {
+          "id": "sent-247",
+          "text": "que buscaran un asiento",
+          "translationRu": "найти место",
+          "original": "that they should find a seat"
+        },
+        {
+          "id": "sent-248",
+          "text": "y tomaran el té.",
+          "translationRu": "и выпить чаю.",
+          "original": "and have their tea"
         }
       ]
     },
@@ -667,40 +1583,160 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-096",
-          "text": "El caracol había considerado ya todos los métodos posibles para llegar a su destino sin rodear la hoja muerta ni trepar por encima.",
-          "translationRu": "Улитка к этому времени уже рассмотрела все возможные способы добраться до цели, не огибая мёртвый лист и не взбираясь на него.",
-          "original": "The snail had now considered every possible method of reaching his goal without going round the dead leaf or climbing over it"
+          "id": "sent-249",
+          "text": "El caracol había considerado ya",
+          "translationRu": "Улитка к этому времени уже рассмотрела",
+          "original": "The snail had now considered"
         },
         {
-          "id": "sent-097",
-          "text": "Sin contar el esfuerzo que supondría trepar por una hoja, dudaba que la fina textura que vibraba con un crujido tan alarmante cuando se tocaba incluso con la punta de sus cuernos soportara su peso.",
-          "translationRu": "Не говоря уж об усилии, которое потребовал бы подъём на лист, — она сомневалась, что тонкая текстура, которая вибрировала с таким тревожным треском даже от лёгкого прикосновения кончиком рожек, выдержит её вес.",
-          "original": "Let alone the effort needed for climbing a leaf, he was doubtful whether the thin texture which vibrated with such an alarming crackle when touched even by the tip of his horns would bear his weight"
+          "id": "sent-250",
+          "text": "todos los métodos posibles",
+          "translationRu": "все возможные способы",
+          "original": "every possible method"
         },
         {
-          "id": "sent-098",
-          "text": "Esto la decidió finalmente a arrastrarse por debajo, pues había un punto donde la hoja se curvaba lo bastante alto sobre el suelo para dejarla pasar.",
-          "translationRu": "Это окончательно убедило её проползти снизу, потому что было место, где лист изгибался достаточно высоко над землёй, чтобы пропустить её.",
-          "original": "and this determined him finally to creep beneath it, for there was a point where the leaf curved high enough from the ground to admit him"
+          "id": "sent-251",
+          "text": "para llegar a su destino",
+          "translationRu": "добраться до цели,",
+          "original": "of reaching his goal"
         },
         {
-          "id": "sent-099",
-          "text": "Acababa de meter la cabeza en la abertura y estaba observando el alto techo marrón y acostumbrándose a la fresca luz marrón cuando otras dos personas pasaron por el exterior sobre el césped.",
-          "translationRu": "Она только что просунула голову в отверстие и осматривала высокий бурый свод, привыкая к прохладному бурому свету, когда снаружи по траве прошли ещё двое людей.",
-          "original": "He had just inserted his head in the opening and was taking stock of the high brown roof and was getting used to the cool brown light when two other people came past outside on the turf"
+          "id": "sent-252",
+          "text": "sin rodear la hoja muerta",
+          "translationRu": "не огибая мёртвый лист",
+          "original": "without going round the dead leaf"
         },
         {
-          "id": "sent-100",
-          "text": "Esta vez eran dos jóvenes, un hombre joven y una mujer joven.",
-          "translationRu": "На этот раз это были двое молодых — молодой мужчина и молодая женщина.",
-          "original": "This time they were both young, a young man and a young woman"
+          "id": "sent-253",
+          "text": "ni trepar por encima.",
+          "translationRu": "и не взбираясь на него.",
+          "original": "or climbing over it"
         },
         {
-          "id": "sent-101",
-          "text": "Ambos estaban en la flor de la juventud, o incluso en esa estación que precede a la flor de la juventud, la estación antes de que los suaves pliegues rosados de la flor hayan roto su estuche pegajoso, cuando las alas de la mariposa, aunque ya totalmente crecidas, están inmóviles al sol.",
-          "translationRu": "Оба были в расцвете юности, или даже в той поре, которая предшествует расцвету юности, — в то время, когда нежные розовые складки цветка ещё не прорвали своей клейкой оболочки, когда крылья бабочки, хотя и полностью выросшие, неподвижны на солнце.",
-          "original": "They were both in the prime of youth, or even in that season which precedes the prime of youth, the season before the smooth pink folds of the flower have burst their gummy case, when the wings of the butterfly, though fully grown, are motionless in the sun"
+          "id": "sent-254",
+          "text": "Sin contar el esfuerzo que supondría trepar por una hoja,",
+          "translationRu": "Не говоря уж об усилии, которое потребовал бы подъём на лист, —",
+          "original": "Let alone the effort needed for climbing a leaf,"
+        },
+        {
+          "id": "sent-255",
+          "text": "dudaba que la fina textura",
+          "translationRu": "она сомневалась, что тонкая текстура,",
+          "original": "he was doubtful whether the thin texture"
+        },
+        {
+          "id": "sent-256",
+          "text": "que vibraba con un crujido tan alarmante",
+          "translationRu": "которая вибрировала с таким тревожным треском",
+          "original": "which vibrated with such an alarming crackle"
+        },
+        {
+          "id": "sent-257",
+          "text": "cuando se tocaba incluso con la punta de sus cuernos",
+          "translationRu": "даже от лёгкого прикосновения кончиком рожек,",
+          "original": "when touched even by the tip of his horns"
+        },
+        {
+          "id": "sent-258",
+          "text": "soportara su peso.",
+          "translationRu": "выдержит её вес.",
+          "original": "would bear his weight"
+        },
+        {
+          "id": "sent-259",
+          "text": "Esto la decidió finalmente",
+          "translationRu": "Это окончательно убедило её",
+          "original": "and this determined him finally"
+        },
+        {
+          "id": "sent-260",
+          "text": "a arrastrarse por debajo,",
+          "translationRu": "проползти снизу,",
+          "original": "to creep beneath it,"
+        },
+        {
+          "id": "sent-261",
+          "text": "pues había un punto",
+          "translationRu": "потому что было место,",
+          "original": "for there was a point"
+        },
+        {
+          "id": "sent-262",
+          "text": "donde la hoja se curvaba lo bastante alto sobre el suelo",
+          "translationRu": "где лист изгибался достаточно высоко над землёй,",
+          "original": "where the leaf curved high enough from the ground"
+        },
+        {
+          "id": "sent-263",
+          "text": "para dejarla pasar.",
+          "translationRu": "чтобы пропустить её.",
+          "original": "to admit him"
+        },
+        {
+          "id": "sent-264",
+          "text": "Acababa de meter la cabeza en la abertura",
+          "translationRu": "Она только что просунула голову в отверстие",
+          "original": "He had just inserted his head in the opening"
+        },
+        {
+          "id": "sent-265",
+          "text": "y estaba observando el alto techo marrón",
+          "translationRu": "и осматривала высокий бурый свод,",
+          "original": "and was taking stock of the high brown roof"
+        },
+        {
+          "id": "sent-266",
+          "text": "y acostumbrándose a la fresca luz marrón",
+          "translationRu": "привыкая к прохладному бурому свету,",
+          "original": "and was getting used to the cool brown light"
+        },
+        {
+          "id": "sent-267",
+          "text": "cuando otras dos personas pasaron por el exterior sobre el césped.",
+          "translationRu": "когда снаружи по траве прошли ещё двое людей.",
+          "original": "when two other people came past outside on the turf"
+        },
+        {
+          "id": "sent-268",
+          "text": "Esta vez eran dos jóvenes,",
+          "translationRu": "На этот раз это были двое молодых —",
+          "original": "This time they were both young,"
+        },
+        {
+          "id": "sent-269",
+          "text": "un hombre joven y una mujer joven.",
+          "translationRu": "молодой мужчина и молодая женщина.",
+          "original": "a young man and a young woman"
+        },
+        {
+          "id": "sent-270",
+          "text": "Ambos estaban en la flor de la juventud,",
+          "translationRu": "Оба были в расцвете юности,",
+          "original": "They were both in the prime of youth,"
+        },
+        {
+          "id": "sent-271",
+          "text": "o incluso en esa estación que precede a la flor de la juventud,",
+          "translationRu": "или даже в той поре, которая предшествует расцвету юности, —",
+          "original": "or even in that season which precedes the prime of youth,"
+        },
+        {
+          "id": "sent-272",
+          "text": "la estación antes de que los suaves pliegues rosados de la flor hayan roto su estuche pegajoso,",
+          "translationRu": "в то время, когда нежные розовые складки цветка ещё не прорвали своей клейкой оболочки,",
+          "original": "the season before the smooth pink folds of the flower have burst their gummy case,"
+        },
+        {
+          "id": "sent-273",
+          "text": "cuando las alas de la mariposa, aunque ya totalmente crecidas,",
+          "translationRu": "когда крылья бабочки, хотя и полностью выросшие,",
+          "original": "when the wings of the butterfly, though fully grown,"
+        },
+        {
+          "id": "sent-274",
+          "text": "están inmóviles al sol.",
+          "translationRu": "неподвижны на солнце.",
+          "original": "are motionless in the sun"
         }
       ]
     },
@@ -708,10 +1744,16 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-102",
-          "text": "«Menos mal que no es viernes», observó él.",
-          "translationRu": "«Хорошо, что не пятница», — заметил он.",
-          "original": "\"Lucky it isn't Friday,\" he observed"
+          "id": "sent-275",
+          "text": "«Menos mal que no es viernes»,",
+          "translationRu": "«Хорошо, что не пятница», —",
+          "original": "\"Lucky it isn't Friday,\""
+        },
+        {
+          "id": "sent-276",
+          "text": "observó él.",
+          "translationRu": "заметил он.",
+          "original": "he observed"
         }
       ]
     },
@@ -719,13 +1761,13 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-103",
+          "id": "sent-277",
           "text": "«¿Por qué?»",
           "translationRu": "«Почему?»",
           "original": "\"Why?"
         },
         {
-          "id": "sent-104",
+          "id": "sent-278",
           "text": "«¿Crees en la suerte?»",
           "translationRu": "«Ты веришь в удачу?»",
           "original": "D'you believe in luck?\""
@@ -736,7 +1778,7 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-105",
+          "id": "sent-279",
           "text": "«Los viernes te cobran seis peniques.»",
           "translationRu": "«По пятницам берут шесть пенсов.»",
           "original": "\"They make you pay sixpence on Friday\""
@@ -747,13 +1789,13 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-106",
+          "id": "sent-280",
           "text": "«¿Y qué son seis peniques?»",
           "translationRu": "«И что такое шесть пенсов?»",
           "original": "\"What's sixpence anyway?"
         },
         {
-          "id": "sent-107",
+          "id": "sent-281",
           "text": "«¿No vale la pena seis peniques?»",
           "translationRu": "«Разве это не стоит шести пенсов?»",
           "original": "Isn't it worth sixpence?\""
@@ -764,13 +1806,13 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-108",
+          "id": "sent-282",
           "text": "«¿Qué es 'eso'?»",
           "translationRu": "«Что такое 'это'?»",
           "original": "\"What's 'it'--"
         },
         {
-          "id": "sent-109",
+          "id": "sent-283",
           "text": "«¿A qué te refieres con 'eso'?»",
           "translationRu": "«Что ты имеешь в виду под 'этим'?»",
           "original": "what do you mean by 'it'?\""
@@ -781,16 +1823,22 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-110",
+          "id": "sent-284",
           "text": "«Oh, cualquier cosa.»",
           "translationRu": "«О, что угодно.»",
           "original": "\"O, anything--"
         },
         {
-          "id": "sent-111",
-          "text": "«Quiero decir... ya sabes lo que quiero decir.»",
-          "translationRu": "«Я имею в виду... ты знаешь, что я имею в виду.»",
-          "original": "I mean--you know what I mean\""
+          "id": "sent-285",
+          "text": "«Quiero decir...",
+          "translationRu": "«Я имею в виду...",
+          "original": "I mean--you"
+        },
+        {
+          "id": "sent-286",
+          "text": "ya sabes lo que quiero decir.»",
+          "translationRu": "ты знаешь, что я имею в виду.»",
+          "original": "know what I mean\""
         }
       ]
     },
@@ -798,118 +1846,262 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-112",
+          "id": "sent-287",
           "text": "Entre cada una de estas palabras había largas pausas.",
           "translationRu": "Между каждой из этих реплик были долгие паузы.",
           "original": "Long pauses came between each of these remarks"
         },
         {
-          "id": "sent-113",
+          "id": "sent-288",
           "text": "Las pronunciaban con voces sin tono y monótonas.",
           "translationRu": "Они произносились безжизненными, монотонными голосами.",
           "original": "they were uttered in toneless and monotonous voices"
         },
         {
-          "id": "sent-114",
-          "text": "La pareja se detuvo en el borde del macizo de flores y juntos hundieron el extremo de la sombrilla de ella profundamente en la tierra blanda.",
-          "translationRu": "Молодые люди остановились у края клумбы и вместе воткнули конец её зонтика глубоко в мягкую землю.",
-          "original": "The couple stood still on the edge of the flower bed, and together pressed the end of her parasol deep down into the soft earth"
+          "id": "sent-289",
+          "text": "La pareja se detuvo en el borde del macizo de flores",
+          "translationRu": "Молодые люди остановились у края клумбы",
+          "original": "The couple stood still on the edge of the flower bed,"
         },
         {
-          "id": "sent-115",
-          "text": "Este gesto, y el hecho de que su mano descansara sobre la de ella, expresaban sus sentimientos de una manera extraña.",
-          "translationRu": "Этот жест, и то, что его рука лежала поверх её руки, выражали их чувства каким-то странным образом.",
-          "original": "The action and the fact that his hand rested on the top of hers expressed their feelings in a strange way"
+          "id": "sent-290",
+          "text": "y juntos hundieron el extremo de la sombrilla de ella",
+          "translationRu": "и вместе воткнули конец её зонтика",
+          "original": "and together pressed the end of her parasol"
         },
         {
-          "id": "sent-116",
-          "text": "Igual que esas cortas palabras insignificantes también expresaban algo: palabras con alas cortas para su pesada carga de significado.",
-          "translationRu": "Так же, как и эти короткие незначительные слова тоже выражали нечто: слова с короткими крыльями для их тяжёлого груза смысла.",
-          "original": "as these short insignificant words also expressed something, words with short wings for their heavy body of meaning"
+          "id": "sent-291",
+          "text": "profundamente en la tierra blanda.",
+          "translationRu": "глубоко в мягкую землю.",
+          "original": "deep down into the soft earth"
         },
         {
-          "id": "sent-117",
-          "text": "Esas alas eran insuficientes para llevarlas lejos, así que las palabras aterrizaban torpemente sobre los objetos muy comunes que los rodeaban.",
-          "translationRu": "Этих крыльев не хватало, чтобы унести слова далеко, и они неловко приземлялись на самые обычные предметы вокруг.",
-          "original": "inadequate to carry them far and thus alighting awkwardly upon the very common objects that surrounded them"
+          "id": "sent-292",
+          "text": "Este gesto,",
+          "translationRu": "Этот жест,",
+          "original": "The action"
         },
         {
-          "id": "sent-118",
-          "text": "Para su inexperto tacto esos objetos eran tan macizos.",
-          "translationRu": "Для их неопытного прикосновения эти предметы казались такими массивными.",
-          "original": "and were to their inexperienced touch so massive"
+          "id": "sent-293",
+          "text": "y el hecho de que su mano descansara sobre la de ella,",
+          "translationRu": "и то, что его рука лежала поверх её руки,",
+          "original": "and the fact that his hand rested on the top of hers"
         },
         {
-          "id": "sent-119",
-          "text": "Pero ¿quién sabe qué precipicios se ocultan en ellos, o qué laderas de hielo brillan al sol al otro lado?",
-          "translationRu": "Но кто знает, какие бездны скрыты в них или какие ледяные склоны сияют на солнце по другую сторону?",
-          "original": "but who knows (so they thought as they pressed the parasol into the earth) what precipices aren't concealed in them, or what slopes of ice don't shine in the sun on the other side?"
+          "id": "sent-294",
+          "text": "expresaban sus sentimientos de una manera extraña.",
+          "translationRu": "выражали их чувства каким-то странным образом.",
+          "original": "expressed their feelings in a strange way"
         },
         {
-          "id": "sent-120",
+          "id": "sent-295",
+          "text": "Igual que esas cortas palabras insignificantes también expresaban algo:",
+          "translationRu": "Так же, как и эти короткие незначительные слова тоже выражали нечто:",
+          "original": "as these short insignificant words also expressed something,"
+        },
+        {
+          "id": "sent-296",
+          "text": "palabras con alas cortas para su pesada carga de significado.",
+          "translationRu": "слова с короткими крыльями для их тяжёлого груза смысла.",
+          "original": "words with short wings for their heavy body of meaning"
+        },
+        {
+          "id": "sent-297",
+          "text": "Esas alas eran insuficientes para llevarlas lejos,",
+          "translationRu": "Этих крыльев не хватало, чтобы унести слова далеко,",
+          "original": "inadequate to carry them far"
+        },
+        {
+          "id": "sent-298",
+          "text": "así que las palabras aterrizaban torpemente",
+          "translationRu": "и они неловко приземлялись",
+          "original": "and thus alighting awkwardly"
+        },
+        {
+          "id": "sent-299",
+          "text": "sobre los objetos muy comunes que los rodeaban.",
+          "translationRu": "на самые обычные предметы вокруг.",
+          "original": "upon the very common objects that surrounded them"
+        },
+        {
+          "id": "sent-300",
+          "text": "Para su inexperto tacto",
+          "translationRu": "Для их неопытного прикосновения",
+          "original": "and were to their inexperienced touch"
+        },
+        {
+          "id": "sent-301",
+          "text": "esos objetos eran tan macizos.",
+          "translationRu": "эти предметы казались такими массивными.",
+          "original": "so massive"
+        },
+        {
+          "id": "sent-302",
+          "text": "Pero ¿quién sabe qué precipicios se ocultan en ellos,",
+          "translationRu": "Но кто знает, какие бездны скрыты в них",
+          "original": "but who knows (so they thought as they pressed the parasol into the earth) what precipices aren't concealed in them,"
+        },
+        {
+          "id": "sent-303",
+          "text": "o qué laderas de hielo brillan al sol al otro lado?",
+          "translationRu": "или какие ледяные склоны сияют на солнце по другую сторону?",
+          "original": "or what slopes of ice don't shine in the sun on the other side?"
+        },
+        {
+          "id": "sent-304",
           "text": "¿Quién sabe?",
           "translationRu": "Кто знает?",
           "original": "Who knows?"
         },
         {
-          "id": "sent-121",
+          "id": "sent-305",
           "text": "¿Quién ha visto esto alguna vez antes?",
           "translationRu": "Кто вообще видел это раньше?",
           "original": "Who has ever seen this before?"
         },
         {
-          "id": "sent-122",
-          "text": "Incluso cuando ella preguntó qué tipo de té daban en Kew, él sintió que algo enorme se alzaba detrás de sus palabras y permanecía vasto y sólido detrás de ellas.",
-          "translationRu": "Даже когда она спросила, какой чай подают в Кью, он почувствовал, что за её словами поднимается что-то огромное и стоит позади них — огромное и монолитное.",
-          "original": "Even when she wondered what sort of tea they gave you at Kew, he felt that something loomed up behind her words, and stood vast and solid behind them"
+          "id": "sent-306",
+          "text": "Incluso cuando ella preguntó",
+          "translationRu": "Даже когда она спросила,",
+          "original": "Even when she wondered"
         },
         {
-          "id": "sent-123",
-          "text": "La niebla se levantó muy lentamente y dejó al descubierto... ¡Dios mío!, ¿qué eran esas formas?",
-          "translationRu": "Туман очень медленно поднялся и открыл... Боже мой, что это были за образы?",
-          "original": "and the mist very slowly rose and uncovered--O, Heavens, what were those shapes?"
+          "id": "sent-307",
+          "text": "qué tipo de té daban en Kew,",
+          "translationRu": "какой чай подают в Кью,",
+          "original": "what sort of tea they gave you at Kew,"
         },
         {
-          "id": "sent-124",
-          "text": "Mesitas blancas y camareras que miraban primero a ella y luego a él.",
-          "translationRu": "Маленькие белые столики и официантки, которые смотрели сначала на неё, потом на него.",
-          "original": "little white tables, and waitresses who looked first at her and then at him"
+          "id": "sent-308",
+          "text": "él sintió que algo enorme se alzaba detrás de sus palabras",
+          "translationRu": "он почувствовал, что за её словами поднимается что-то огромное",
+          "original": "he felt that something loomed up behind her words,"
         },
         {
-          "id": "sent-125",
-          "text": "Y habría una cuenta que él pagaría con una moneda real de dos chelines.",
-          "translationRu": "И будет счёт, который он заплатит настоящей монетой в два шиллинга.",
-          "original": "and there was a bill that he would pay with a real two shilling piece"
+          "id": "sent-309",
+          "text": "y permanecía vasto y sólido detrás de ellas.",
+          "translationRu": "и стоит позади них — огромное и монолитное.",
+          "original": "and stood vast and solid behind them"
         },
         {
-          "id": "sent-126",
-          "text": "Era real, todo real, se aseguró a sí mismo tocando la moneda en el bolsillo.",
-          "translationRu": "Всё это было реальным, совершенно реальным, убеждал он себя, ощупывая монету в кармане.",
-          "original": "and it was real, all real, he assured himself, fingering the coin in his pocket"
+          "id": "sent-310",
+          "text": "La niebla se levantó muy lentamente",
+          "translationRu": "Туман очень медленно поднялся",
+          "original": "and the mist very slowly rose"
         },
         {
-          "id": "sent-127",
-          "text": "Real para todos menos para él y para ella.",
-          "translationRu": "Реальным для всех, кроме него и её.",
-          "original": "real to everyone except to him and to her"
+          "id": "sent-311",
+          "text": "y dejó al descubierto...",
+          "translationRu": "и открыл...",
+          "original": "and uncovered--O,"
         },
         {
-          "id": "sent-128",
+          "id": "sent-312",
+          "text": "¡Dios mío!, ¿qué eran esas formas?",
+          "translationRu": "Боже мой, что это были за образы?",
+          "original": "Heavens, what were those shapes?"
+        },
+        {
+          "id": "sent-313",
+          "text": "Mesitas blancas",
+          "translationRu": "Маленькие белые столики",
+          "original": "little white tables,"
+        },
+        {
+          "id": "sent-314",
+          "text": "y camareras que miraban primero a ella y luego a él.",
+          "translationRu": "и официантки, которые смотрели сначала на неё, потом на него.",
+          "original": "and waitresses who looked first at her and then at him"
+        },
+        {
+          "id": "sent-315",
+          "text": "Y habría una cuenta",
+          "translationRu": "И будет счёт,",
+          "original": "and there was a bill"
+        },
+        {
+          "id": "sent-316",
+          "text": "que él pagaría con una moneda real de dos chelines.",
+          "translationRu": "который он заплатит настоящей монетой в два шиллинга.",
+          "original": "that he would pay with a real two shilling piece"
+        },
+        {
+          "id": "sent-317",
+          "text": "Era real, todo real,",
+          "translationRu": "Всё это было реальным, совершенно реальным,",
+          "original": "and it was real, all real,"
+        },
+        {
+          "id": "sent-318",
+          "text": "se aseguró a sí mismo",
+          "translationRu": "убеждал он себя,",
+          "original": "he assured himself,"
+        },
+        {
+          "id": "sent-319",
+          "text": "tocando la moneda en el bolsillo.",
+          "translationRu": "ощупывая монету в кармане.",
+          "original": "fingering the coin in his pocket"
+        },
+        {
+          "id": "sent-320",
+          "text": "Real para todos",
+          "translationRu": "Реальным для всех,",
+          "original": "real to everyone"
+        },
+        {
+          "id": "sent-321",
+          "text": "menos para él y para ella.",
+          "translationRu": "кроме него и её.",
+          "original": "except to him and to her"
+        },
+        {
+          "id": "sent-322",
           "text": "Incluso para él empezaba a parecer real.",
           "translationRu": "Даже для него самого это начинало казаться реальным.",
           "original": "even to him it began to seem real"
         },
         {
-          "id": "sent-129",
-          "text": "Y luego... pero era demasiado emocionante para quedarse parado pensando más tiempo.",
-          "translationRu": "И потом... но это было слишком волнующе, чтобы стоять и думать дальше.",
-          "original": "and then--but it was too exciting to stand and think any longer"
+          "id": "sent-323",
+          "text": "Y luego...",
+          "translationRu": "И потом...",
+          "original": "and then--but"
         },
         {
-          "id": "sent-130",
-          "text": "Sacó la sombrilla de la tierra de un tirón e iba con impaciencia a encontrar el lugar donde se tomaba el té con otras personas, como las otras personas.",
-          "translationRu": "Он рывком вытащил зонтик из земли и нетерпеливо пошёл искать место, где пьют чай с другими людьми, как другие люди.",
-          "original": "and he pulled the parasol out of the earth with a jerk and was impatient to find the place where one had tea with other people, like other people"
+          "id": "sent-324",
+          "text": "pero era demasiado emocionante",
+          "translationRu": "но это было слишком волнующе,",
+          "original": "it was too exciting"
+        },
+        {
+          "id": "sent-325",
+          "text": "para quedarse parado pensando más tiempo.",
+          "translationRu": "чтобы стоять и думать дальше.",
+          "original": "to stand and think any longer"
+        },
+        {
+          "id": "sent-326",
+          "text": "Sacó la sombrilla de la tierra de un tirón",
+          "translationRu": "Он рывком вытащил зонтик из земли",
+          "original": "and he pulled the parasol out of the earth with a jerk"
+        },
+        {
+          "id": "sent-327",
+          "text": "e iba con impaciencia a encontrar el lugar",
+          "translationRu": "и нетерпеливо пошёл искать место,",
+          "original": "and was impatient to find the place"
+        },
+        {
+          "id": "sent-328",
+          "text": "donde se tomaba el té con otras personas,",
+          "translationRu": "где пьют чай с другими людьми,",
+          "original": "where one had tea with other people,"
+        },
+        {
+          "id": "sent-329",
+          "text": "como las otras personas.",
+          "translationRu": "как другие люди.",
+          "original": "like other people"
         }
       ]
     },
@@ -917,10 +2109,16 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-131",
-          "text": "«Vamos, Trissie, es hora de tomar el té.»",
-          "translationRu": "«Пойдём, Трисси, пора пить чай.»",
-          "original": "\"Come along, Trissie; it's time we had our tea\""
+          "id": "sent-330",
+          "text": "«Vamos, Trissie,",
+          "translationRu": "«Пойдём, Трисси,",
+          "original": "\"Come along, Trissie;"
+        },
+        {
+          "id": "sent-331",
+          "text": "es hora de tomar el té.»",
+          "translationRu": "пора пить чай.»",
+          "original": "it's time we had our tea\""
         }
       ]
     },
@@ -928,37 +2126,79 @@
       "id": "para-027",
       "sentences": [
         {
-          "id": "sent-132",
-          "text": "«¿Y dónde se toma el té exactamente?», preguntó ella con el más extraño entusiasmo en la voz.",
-          "translationRu": "«А где именно пьют чай?» — спросила она с самым странным волнением в голосе.",
-          "original": "\"Wherever does one have one's tea?\" she asked with the oddest thrill of excitement in her voice"
+          "id": "sent-332",
+          "text": "«¿Y dónde se toma el té exactamente?»,",
+          "translationRu": "«А где именно пьют чай?» —",
+          "original": "\"Wherever does one have one's tea?\""
         },
         {
-          "id": "sent-133",
-          "text": "Miraba vagamente a su alrededor y se dejaba llevar por el camino de hierba.",
-          "translationRu": "Она смотрела вокруг неопределённо и позволяла вести себя по травяной дорожке.",
-          "original": "looking vaguely round and letting herself be drawn on down the grass path"
+          "id": "sent-333",
+          "text": "preguntó ella",
+          "translationRu": "спросила она",
+          "original": "she asked"
         },
         {
-          "id": "sent-134",
-          "text": "Arrastraba la sombrilla y giraba la cabeza de un lado a otro.",
-          "translationRu": "Она волочила зонтик и поворачивала голову то в одну, то в другую сторону.",
-          "original": "trailing her parasol, turning her head this way and that way"
+          "id": "sent-334",
+          "text": "con el más extraño entusiasmo en la voz.",
+          "translationRu": "с самым странным волнением в голосе.",
+          "original": "with the oddest thrill of excitement in her voice"
         },
         {
-          "id": "sent-135",
-          "text": "Olvidaba el té y deseaba bajar por allí y luego por allá.",
-          "translationRu": "Она забывала о чае и хотела пойти вон туда, а потом вон туда.",
-          "original": "forgetting her tea, wishing to go down there and then down there"
+          "id": "sent-335",
+          "text": "Miraba vagamente a su alrededor",
+          "translationRu": "Она смотрела вокруг неопределённо",
+          "original": "looking vaguely round"
         },
         {
-          "id": "sent-136",
-          "text": "Recordaba orquídeas y grullas entre flores silvestres, una pagoda china y un pájaro con cresta escarlata.",
-          "translationRu": "Она вспоминала орхидеи и журавлей среди полевых цветов, китайскую пагоду и птицу с алым хохолком.",
-          "original": "remembering orchids and cranes among wild flowers, a Chinese pagoda and a crimson crested bird"
+          "id": "sent-336",
+          "text": "y se dejaba llevar por el camino de hierba.",
+          "translationRu": "и позволяла вести себя по травяной дорожке.",
+          "original": "and letting herself be drawn on down the grass path"
         },
         {
-          "id": "sent-137",
+          "id": "sent-337",
+          "text": "Arrastraba la sombrilla",
+          "translationRu": "Она волочила зонтик",
+          "original": "trailing her parasol,"
+        },
+        {
+          "id": "sent-338",
+          "text": "y giraba la cabeza de un lado a otro.",
+          "translationRu": "и поворачивала голову то в одну, то в другую сторону.",
+          "original": "turning her head this way and that way"
+        },
+        {
+          "id": "sent-339",
+          "text": "Olvidaba el té",
+          "translationRu": "Она забывала о чае",
+          "original": "forgetting her tea,"
+        },
+        {
+          "id": "sent-340",
+          "text": "y deseaba bajar por allí y luego por allá.",
+          "translationRu": "и хотела пойти вон туда, а потом вон туда.",
+          "original": "wishing to go down there and then down there"
+        },
+        {
+          "id": "sent-341",
+          "text": "Recordaba orquídeas y grullas entre flores silvestres,",
+          "translationRu": "Она вспоминала орхидеи и журавлей среди полевых цветов,",
+          "original": "remembering orchids and cranes among wild flowers,"
+        },
+        {
+          "id": "sent-342",
+          "text": "una pagoda china",
+          "translationRu": "китайскую пагоду",
+          "original": "a Chinese pagoda"
+        },
+        {
+          "id": "sent-343",
+          "text": "y un pájaro con cresta escarlata.",
+          "translationRu": "и птицу с алым хохолком.",
+          "original": "and a crimson crested bird"
+        },
+        {
+          "id": "sent-344",
           "text": "Pero él la llevaba hacia delante.",
           "translationRu": "Но он вёл её вперёд.",
           "original": "but he bore her on"
@@ -969,142 +2209,358 @@
       "id": "para-028",
       "sentences": [
         {
-          "id": "sent-138",
-          "text": "Así, una pareja tras otra con el mismo movimiento irregular y sin rumbo pasaba junto al macizo de flores.",
-          "translationRu": "Так одна пара за другой с тем же неровным и бесцельным движением проходила мимо клумбы.",
-          "original": "Thus one couple after another with much the same irregular and aimless movement passed the flower-bed"
+          "id": "sent-345",
+          "text": "Así, una pareja tras otra",
+          "translationRu": "Так одна пара за другой",
+          "original": "Thus one couple after another"
         },
         {
-          "id": "sent-139",
+          "id": "sent-346",
+          "text": "con el mismo movimiento irregular y sin rumbo",
+          "translationRu": "с тем же неровным и бесцельным движением",
+          "original": "with much the same irregular and aimless movement"
+        },
+        {
+          "id": "sent-347",
+          "text": "pasaba junto al macizo de flores.",
+          "translationRu": "проходила мимо клумбы.",
+          "original": "passed the flower-bed"
+        },
+        {
+          "id": "sent-348",
           "text": "Eran envueltos en capas de vapor verde-azulado.",
           "translationRu": "Их окутывали слои зелёно-синеватого пара.",
           "original": "and were enveloped in layer after layer of green blue vapour"
         },
         {
-          "id": "sent-140",
-          "text": "Al principio sus cuerpos tenían substancia y un toque de color, pero después tanto la substancia como el color se disolvían en la atmósfera verde-azulada.",
-          "translationRu": "Сначала их тела имели объём и каплю цвета, но потом и то и другое растворялось в зелёно-синей атмосфере.",
-          "original": "in which at first their bodies had substance and a dash of colour, but later both substance and colour dissolved in the green-blue atmosphere"
+          "id": "sent-349",
+          "text": "Al principio sus cuerpos tenían substancia y un toque de color,",
+          "translationRu": "Сначала их тела имели объём и каплю цвета,",
+          "original": "in which at first their bodies had substance and a dash of colour,"
         },
         {
-          "id": "sent-141",
+          "id": "sent-350",
+          "text": "pero después tanto la substancia como el color",
+          "translationRu": "но потом и то и другое",
+          "original": "but later both substance and colour"
+        },
+        {
+          "id": "sent-351",
+          "text": "se disolvían en la atmósfera verde-azulada.",
+          "translationRu": "растворялось в зелёно-синей атмосфере.",
+          "original": "dissolved in the green-blue atmosphere"
+        },
+        {
+          "id": "sent-352",
           "text": "¡Qué calor hacía!",
           "translationRu": "Как было жарко!",
           "original": "How hot it was!"
         },
         {
-          "id": "sent-142",
-          "text": "Tanto calor que incluso el tordo prefería saltar, como un pájaro mecánico, a la sombra de las flores, con largas pausas entre un movimiento y el siguiente.",
-          "translationRu": "Такой жаркий, что даже дрозд предпочитал прыгать — как механическая птица — в тени цветов, с долгими паузами между одним движением и следующим.",
-          "original": "So hot that even the thrush chose to hop, like a mechanical bird, in the shadow of the flowers, with long pauses between one movement and the next"
+          "id": "sent-353",
+          "text": "Tanto calor que incluso el tordo prefería saltar,",
+          "translationRu": "Такой жаркий, что даже дрозд предпочитал прыгать —",
+          "original": "So hot that even the thrush chose to hop,"
         },
         {
-          "id": "sent-143",
-          "text": "En lugar de revolotear vagamente, las mariposas blancas bailaban unas encima de otras.",
-          "translationRu": "Вместо того чтобы беспорядочно порхать, белые бабочки танцевали одна над другой.",
-          "original": "instead of rambling vaguely the white butterflies danced one above another"
+          "id": "sent-354",
+          "text": "como un pájaro mecánico,",
+          "translationRu": "как механическая птица —",
+          "original": "like a mechanical bird,"
         },
         {
-          "id": "sent-144",
-          "text": "Con sus copos blancos y cambiantes dibujaban el contorno de una columna de mármol rota sobre las flores más altas.",
-          "translationRu": "Своими белыми переменчивыми хлопьями они чертили контур разбитой мраморной колонны над самыми высокими цветами.",
-          "original": "making with their white shifting flakes the outline of a shattered marble column above the tallest flowers"
+          "id": "sent-355",
+          "text": "a la sombra de las flores,",
+          "translationRu": "в тени цветов,",
+          "original": "in the shadow of the flowers,"
         },
         {
-          "id": "sent-145",
-          "text": "Los techos de cristal del invernadero de palmeras brillaban como si todo un mercado lleno de brillantes paraguas verdes se hubiera abierto al sol.",
-          "translationRu": "Стеклянные крыши пальмового дома сверкали так, словно целый рынок ярких зелёных зонтиков раскрылся на солнце.",
-          "original": "the glass roofs of the palm house shone as if a whole market full of shiny green umbrellas had opened in the sun"
+          "id": "sent-356",
+          "text": "con largas pausas entre un movimiento y el siguiente.",
+          "translationRu": "с долгими паузами между одним движением и следующим.",
+          "original": "with long pauses between one movement and the next"
         },
         {
-          "id": "sent-146",
-          "text": "Y en el zumbido del aeroplano la voz del cielo de verano murmuraba su alma ardiente.",
-          "translationRu": "А в гуле аэроплана голос летнего неба бормотал свою пылкую душу.",
-          "original": "and in the drone of the aeroplane the voice of the summer sky murmured its fierce soul"
+          "id": "sent-357",
+          "text": "En lugar de revolotear vagamente,",
+          "translationRu": "Вместо того чтобы беспорядочно порхать,",
+          "original": "instead of rambling vaguely"
         },
         {
-          "id": "sent-147",
-          "text": "Amarillo y negro, rosa y blanco nieve: figuras de todos estos colores, hombres, mujeres y niños, aparecían un segundo en el horizonte.",
-          "translationRu": "Жёлтое и чёрное, розовое и снежно-белое: фигуры всех этих цветов — мужчины, женщины и дети — мелькали на секунду на горизонте.",
-          "original": "Yellow and black, pink and snow white, shapes of all these colours, men, women, and children were spotted for a second upon the horizon"
+          "id": "sent-358",
+          "text": "las mariposas blancas bailaban unas encima de otras.",
+          "translationRu": "белые бабочки танцевали одна над другой.",
+          "original": "the white butterflies danced one above another"
         },
         {
-          "id": "sent-148",
-          "text": "Luego, al ver la extensión de amarillo que cubría la hierba, vacilaban y buscaban la sombra bajo los árboles.",
-          "translationRu": "Затем, увидев пространство жёлтого, лежавшего на траве, они колебались и искали тени под деревьями.",
-          "original": "and then, seeing the breadth of yellow that lay upon the grass, they wavered and sought shade beneath the trees"
+          "id": "sent-359",
+          "text": "Con sus copos blancos y cambiantes",
+          "translationRu": "Своими белыми переменчивыми хлопьями",
+          "original": "making with their white shifting flakes"
         },
         {
-          "id": "sent-149",
-          "text": "Se disolvían como gotas de agua en la atmósfera amarilla y verde, tiñéndola débilmente de rojo y azul.",
-          "translationRu": "Они растворялись, как капли воды, в жёлто-зелёной атмосфере, слабо окрашивая её красным и синим.",
-          "original": "dissolving like drops of water in the yellow and green atmosphere, staining it faintly with red and blue"
+          "id": "sent-360",
+          "text": "dibujaban el contorno de una columna de mármol rota",
+          "translationRu": "они чертили контур разбитой мраморной колонны",
+          "original": "the outline of a shattered marble column"
         },
         {
-          "id": "sent-150",
-          "text": "Parecía como si todos los cuerpos pesados y torpes se hubieran hundido en el calor y yacieran inmóviles amontonados en el suelo.",
-          "translationRu": "Казалось, будто все грузные и тяжёлые тела опустились под жарой и лежали неподвижно, скучившись на земле.",
-          "original": "It seemed as if all gross and heavy bodies had sunk down in the heat motionless and lay huddled upon the ground"
+          "id": "sent-361",
+          "text": "sobre las flores más altas.",
+          "translationRu": "над самыми высокими цветами.",
+          "original": "above the tallest flowers"
         },
         {
-          "id": "sent-151",
-          "text": "Pero sus voces se alejaban de ellos ondulando, como si fueran llamas que se inclinaran desde los gruesos cuerpos de cera de las velas.",
-          "translationRu": "Но их голоса волнами уплывали от них прочь — словно пламя, клонящееся от толстых восковых тел свечей.",
-          "original": "but their voices went wavering from them as if they were flames lolling from the thick waxen bodies of candles"
+          "id": "sent-362",
+          "text": "Los techos de cristal del invernadero de palmeras brillaban",
+          "translationRu": "Стеклянные крыши пальмового дома сверкали",
+          "original": "the glass roofs of the palm house shone"
         },
         {
-          "id": "sent-152",
+          "id": "sent-363",
+          "text": "como si todo un mercado lleno de brillantes paraguas verdes",
+          "translationRu": "так, словно целый рынок ярких зелёных зонтиков",
+          "original": "as if a whole market full of shiny green umbrellas"
+        },
+        {
+          "id": "sent-364",
+          "text": "se hubiera abierto al sol.",
+          "translationRu": "раскрылся на солнце.",
+          "original": "had opened in the sun"
+        },
+        {
+          "id": "sent-365",
+          "text": "Y en el zumbido del aeroplano",
+          "translationRu": "А в гуле аэроплана",
+          "original": "and in the drone of the aeroplane"
+        },
+        {
+          "id": "sent-366",
+          "text": "la voz del cielo de verano",
+          "translationRu": "голос летнего неба",
+          "original": "the voice of the summer sky"
+        },
+        {
+          "id": "sent-367",
+          "text": "murmuraba su alma ardiente.",
+          "translationRu": "бормотал свою пылкую душу.",
+          "original": "murmured its fierce soul"
+        },
+        {
+          "id": "sent-368",
+          "text": "Amarillo y negro, rosa y blanco nieve:",
+          "translationRu": "Жёлтое и чёрное, розовое и снежно-белое:",
+          "original": "Yellow and black, pink and snow white,"
+        },
+        {
+          "id": "sent-369",
+          "text": "figuras de todos estos colores,",
+          "translationRu": "фигуры всех этих цветов —",
+          "original": "shapes of all these colours,"
+        },
+        {
+          "id": "sent-370",
+          "text": "hombres, mujeres y niños,",
+          "translationRu": "мужчины, женщины и дети —",
+          "original": "men, women, and children"
+        },
+        {
+          "id": "sent-371",
+          "text": "aparecían un segundo en el horizonte.",
+          "translationRu": "мелькали на секунду на горизонте.",
+          "original": "were spotted for a second upon the horizon"
+        },
+        {
+          "id": "sent-372",
+          "text": "Luego, al ver la extensión de amarillo que cubría la hierba,",
+          "translationRu": "Затем, увидев пространство жёлтого, лежавшего на траве,",
+          "original": "and then, seeing the breadth of yellow that lay upon the grass,"
+        },
+        {
+          "id": "sent-373",
+          "text": "vacilaban",
+          "translationRu": "они колебались",
+          "original": "they wavered"
+        },
+        {
+          "id": "sent-374",
+          "text": "y buscaban la sombra bajo los árboles.",
+          "translationRu": "и искали тени под деревьями.",
+          "original": "and sought shade beneath the trees"
+        },
+        {
+          "id": "sent-375",
+          "text": "Se disolvían como gotas de agua",
+          "translationRu": "Они растворялись, как капли воды,",
+          "original": "dissolving like drops of water"
+        },
+        {
+          "id": "sent-376",
+          "text": "en la atmósfera amarilla y verde,",
+          "translationRu": "в жёлто-зелёной атмосфере,",
+          "original": "in the yellow and green atmosphere,"
+        },
+        {
+          "id": "sent-377",
+          "text": "tiñéndola débilmente de rojo y azul.",
+          "translationRu": "слабо окрашивая её красным и синим.",
+          "original": "staining it faintly with red and blue"
+        },
+        {
+          "id": "sent-378",
+          "text": "Parecía como si todos los cuerpos pesados y torpes",
+          "translationRu": "Казалось, будто все грузные и тяжёлые тела",
+          "original": "It seemed as if all gross and heavy bodies"
+        },
+        {
+          "id": "sent-379",
+          "text": "se hubieran hundido en el calor",
+          "translationRu": "опустились под жарой",
+          "original": "had sunk down in the heat"
+        },
+        {
+          "id": "sent-380",
+          "text": "y yacieran inmóviles amontonados en el suelo.",
+          "translationRu": "и лежали неподвижно, скучившись на земле.",
+          "original": "motionless and lay huddled upon the ground"
+        },
+        {
+          "id": "sent-381",
+          "text": "Pero sus voces se alejaban de ellos ondulando,",
+          "translationRu": "Но их голоса волнами уплывали от них прочь —",
+          "original": "but their voices went wavering from them"
+        },
+        {
+          "id": "sent-382",
+          "text": "como si fueran llamas",
+          "translationRu": "словно пламя,",
+          "original": "as if they were flames"
+        },
+        {
+          "id": "sent-383",
+          "text": "que se inclinaran desde los gruesos cuerpos de cera de las velas.",
+          "translationRu": "клонящееся от толстых восковых тел свечей.",
+          "original": "lolling from the thick waxen bodies of candles"
+        },
+        {
+          "id": "sent-384",
           "text": "Voces.",
           "translationRu": "Голоса.",
           "original": "Voices"
         },
         {
-          "id": "sent-153",
+          "id": "sent-385",
           "text": "Sí, voces.",
           "translationRu": "Да, голоса.",
           "original": "Yes, voices"
         },
         {
-          "id": "sent-154",
-          "text": "Voces sin palabras que rompían de repente el silencio con tanta profundidad de satisfacción, tanta pasión de deseo.",
-          "translationRu": "Голоса без слов, которые вдруг разрывали тишину такой глубиной удовлетворения, такой страстью желания.",
-          "original": "Wordless voices, breaking the silence suddenly with such depth of contentment, such passion of desire"
+          "id": "sent-386",
+          "text": "Voces sin palabras",
+          "translationRu": "Голоса без слов,",
+          "original": "Wordless voices,"
         },
         {
-          "id": "sent-155",
-          "text": "O, en las voces de los niños, con tal frescor de sorpresa.",
-          "translationRu": "Или, в голосах детей, такой свежестью удивления.",
-          "original": "or, in the voices of children, such freshness of surprise"
+          "id": "sent-387",
+          "text": "que rompían de repente el silencio",
+          "translationRu": "которые вдруг разрывали тишину",
+          "original": "breaking the silence suddenly"
         },
         {
-          "id": "sent-156",
+          "id": "sent-388",
+          "text": "con tanta profundidad de satisfacción,",
+          "translationRu": "такой глубиной удовлетворения,",
+          "original": "with such depth of contentment,"
+        },
+        {
+          "id": "sent-389",
+          "text": "tanta pasión de deseo.",
+          "translationRu": "такой страстью желания.",
+          "original": "such passion of desire"
+        },
+        {
+          "id": "sent-390",
+          "text": "O, en las voces de los niños,",
+          "translationRu": "Или, в голосах детей,",
+          "original": "or, in the voices of children,"
+        },
+        {
+          "id": "sent-391",
+          "text": "con tal frescor de sorpresa.",
+          "translationRu": "такой свежестью удивления.",
+          "original": "such freshness of surprise"
+        },
+        {
+          "id": "sent-392",
           "text": "¿Rompían el silencio?",
           "translationRu": "Разрывали ли они тишину?",
           "original": "breaking the silence?"
         },
         {
-          "id": "sent-157",
+          "id": "sent-393",
           "text": "Pero no había silencio.",
           "translationRu": "Но тишины не было.",
           "original": "But there was no silence"
         },
         {
-          "id": "sent-158",
-          "text": "Todo el tiempo los autobuses de motor giraban sus ruedas y cambiaban de marcha.",
-          "translationRu": "Всё время моторные омнибусы вертели колёсами и меняли передачи.",
-          "original": "all the time the motor omnibuses were turning their wheels and changing their gear"
+          "id": "sent-394",
+          "text": "Todo el tiempo los autobuses de motor",
+          "translationRu": "Всё время моторные омнибусы",
+          "original": "all the time the motor omnibuses were"
         },
         {
-          "id": "sent-159",
-          "text": "Como un enorme nido de cajas chinas de acero forjado que giran sin cesar unas dentro de otras, la ciudad murmuraba.",
-          "translationRu": "Как огромное гнездо китайских шкатулок из кованой стали, бесконечно вращающихся одна внутри другой, город бормотал.",
-          "original": "like a vast nest of Chinese boxes all of wrought steel turning ceaselessly one within another the city murmured"
+          "id": "sent-395",
+          "text": "giraban sus ruedas",
+          "translationRu": "вертели колёсами",
+          "original": "turning their wheels"
         },
         {
-          "id": "sent-160",
-          "text": "Por encima de todo eso las voces clamaban en voz alta y los pétalos de millones de flores lanzaban sus colores al aire.",
-          "translationRu": "Поверх всего этого голоса кричали в полный голос и лепестки мириадов цветов бросали свои краски в воздух.",
-          "original": "on the top of which the voices cried aloud and the petals of myriads of flowers flashed their colours into the air"
+          "id": "sent-396",
+          "text": "y cambiaban de marcha.",
+          "translationRu": "и меняли передачи.",
+          "original": "and changing their gear"
+        },
+        {
+          "id": "sent-397",
+          "text": "Como un enorme nido de cajas chinas de acero forjado",
+          "translationRu": "Как огромное гнездо китайских шкатулок из кованой стали,",
+          "original": "like a vast nest of Chinese boxes all of wrought steel"
+        },
+        {
+          "id": "sent-398",
+          "text": "que giran sin cesar unas dentro de otras,",
+          "translationRu": "бесконечно вращающихся одна внутри другой,",
+          "original": "turning ceaselessly one within another"
+        },
+        {
+          "id": "sent-399",
+          "text": "la ciudad murmuraba.",
+          "translationRu": "город бормотал.",
+          "original": "the city murmured"
+        },
+        {
+          "id": "sent-400",
+          "text": "Por encima de todo eso",
+          "translationRu": "Поверх всего этого",
+          "original": "on the top of which"
+        },
+        {
+          "id": "sent-401",
+          "text": "las voces clamaban en voz alta",
+          "translationRu": "голоса кричали в полный голос",
+          "original": "the voices cried aloud"
+        },
+        {
+          "id": "sent-402",
+          "text": "y los pétalos de millones de flores",
+          "translationRu": "и лепестки мириадов цветов",
+          "original": "and the petals of myriads of flowers"
+        },
+        {
+          "id": "sent-403",
+          "text": "lanzaban sus colores al aire.",
+          "translationRu": "бросали свои краски в воздух.",
+          "original": "flashed their colours into the air"
         }
       ]
     }

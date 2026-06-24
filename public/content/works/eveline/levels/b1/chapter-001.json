@@ -13,24 +13,42 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Ella estaba sentada junto a la ventana y miraba cómo la tarde llegaba a la avenida.",
-          "translationRu": "Она сидела у окна и смотрела, как вечер опускается на авеню.",
-          "original": "She sat at the window watching the evening invade the avenue."
+          "text": "Ella estaba sentada junto a la ventana",
+          "translationRu": "Она сидела у окна",
+          "original": "She sat at the window"
         },
         {
           "id": "sent-002",
+          "text": "y miraba",
+          "translationRu": "и смотрела,",
+          "original": "watching"
+        },
+        {
+          "id": "sent-003",
+          "text": "cómo la tarde llegaba a la avenida.",
+          "translationRu": "как вечер опускается на авеню.",
+          "original": "the evening invade the avenue."
+        },
+        {
+          "id": "sent-004",
           "text": "Apoyó la cabeza contra la cortina de la ventana.",
           "translationRu": "Она прислонила голову к оконной занавеске.",
           "original": "Her head was leaned against the window curtains"
         },
         {
-          "id": "sent-003",
-          "text": "En su nariz sentía el olor del cretón polvoriento.",
-          "translationRu": "В её ноздрях стоял запах запылённого ситца.",
-          "original": "and in her nostrils was the odour of dusty cretonne."
+          "id": "sent-005",
+          "text": "En su nariz sentía",
+          "translationRu": "В её ноздрях стоял",
+          "original": "and in her nostrils was"
         },
         {
-          "id": "sent-004",
+          "id": "sent-006",
+          "text": "el olor del cretón polvoriento.",
+          "translationRu": "запах запылённого ситца.",
+          "original": "the odour of dusty cretonne."
+        },
+        {
+          "id": "sent-007",
           "text": "Estaba cansada.",
           "translationRu": "Она устала.",
           "original": "She was tired."
@@ -41,112 +59,237 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-005",
+          "id": "sent-008",
           "text": "Pocas personas pasaban por la calle.",
           "translationRu": "По улице проходило мало людей.",
           "original": "Few people passed."
         },
         {
-          "id": "sent-006",
-          "text": "El hombre de la última casa pasó camino a su casa.",
-          "translationRu": "Мужчина из последнего дома прошёл по дороге домой.",
-          "original": "The man out of the last house passed on his way home;"
-        },
-        {
-          "id": "sent-007",
-          "text": "Ella escuchó sus pasos sobre el pavimento de cemento y después sobre el camino de ceniza delante de las nuevas casas rojas.",
-          "translationRu": "Она слышала его шаги по цементному тротуару, а потом по гравийной дорожке перед новыми красными домами.",
-          "original": "she heard his footsteps clacking along the concrete pavement and afterwards crunching on the cinder path before the new red houses."
-        },
-        {
-          "id": "sent-008",
-          "text": "Antes había un campo allí donde solían jugar todas las tardes con los niños de otros vecinos.",
-          "translationRu": "Раньше там было поле, где они каждый вечер играли с соседскими детьми.",
-          "original": "One time there used to be a field there in which they used to play every evening with other people's children."
-        },
-        {
           "id": "sent-009",
-          "text": "Luego un hombre de Belfast compró el campo y construyó casas en él.",
-          "translationRu": "Потом какой-то человек из Белфаста купил это поле и построил на нём дома.",
-          "original": "Then a man from Belfast bought the field and built houses in it"
+          "text": "El hombre de la última casa",
+          "translationRu": "Мужчина из последнего дома",
+          "original": "The man out of the last house"
         },
         {
           "id": "sent-010",
-          "text": "No eran como sus pequeñas casas marrones, sino casas de ladrillo brillante con tejados relucientes.",
-          "translationRu": "Это были не такие маленькие коричневые дома, как у них, а яркие кирпичные дома с блестящими крышами.",
-          "original": "—not like their little brown houses but bright brick houses with shining roofs."
+          "text": "pasó camino a su casa.",
+          "translationRu": "прошёл по дороге домой.",
+          "original": "passed on his way home;"
         },
         {
           "id": "sent-011",
-          "text": "Los niños de la avenida jugaban juntos en aquel campo: los Devines, los Waters, los Dunns, el pequeño Keogh el cojo, ella y sus hermanos y hermanas.",
-          "translationRu": "Дети с авеню играли вместе на том поле: Дивайны, Уотерсы, Данны, маленький хромой Кио, она и её братья и сёстры.",
-          "original": "The children of the avenue used to play together in that field—the Devines, the Waters, the Dunns, little Keogh the cripple, she and her brothers and sisters."
+          "text": "Ella escuchó sus pasos",
+          "translationRu": "Она слышала его шаги",
+          "original": "she heard his footsteps"
         },
         {
           "id": "sent-012",
-          "text": "Ernest, sin embargo, nunca jugaba: ya era demasiado mayor.",
-          "translationRu": "Эрнест, однако, никогда не играл: он был слишком взрослым.",
-          "original": "Ernest, however, never played: he was too grown up."
+          "text": "sobre el pavimento de cemento",
+          "translationRu": "по цементному тротуару,",
+          "original": "clacking along the concrete pavement"
         },
         {
           "id": "sent-013",
-          "text": "Su padre solía echarlos del campo con su bastón de espino, pero normalmente el pequeño Keogh vigilaba y avisaba cuando veía llegar a su padre.",
-          "translationRu": "Отец часто выгонял их с поля своей боярышниковой тростью, но обычно маленький Кио стоял на страже и предупреждал, когда видел, что отец идёт.",
-          "original": "Her father used often to hunt them in out of the field with his blackthorn stick; but usually little Keogh used to keep _nix_ and call out when he saw her father coming."
+          "text": "y después sobre el camino de ceniza",
+          "translationRu": "а потом по гравийной дорожке",
+          "original": "and afterwards crunching on the cinder path"
         },
         {
           "id": "sent-014",
-          "text": "Aun así, en aquella época parecían haber sido bastante felices.",
-          "translationRu": "И всё же в то время они, кажется, были довольно счастливы.",
-          "original": "Still they seemed to have been rather happy then."
+          "text": "delante de las nuevas casas rojas.",
+          "translationRu": "перед новыми красными домами.",
+          "original": "before the new red houses."
         },
         {
           "id": "sent-015",
+          "text": "Antes había un campo allí",
+          "translationRu": "Раньше там было поле,",
+          "original": "One time there used to be a field there"
+        },
+        {
+          "id": "sent-016",
+          "text": "donde solían jugar todas las tardes",
+          "translationRu": "где они каждый вечер играли",
+          "original": "in which they used to play every evening"
+        },
+        {
+          "id": "sent-017",
+          "text": "con los niños de otros vecinos.",
+          "translationRu": "с соседскими детьми.",
+          "original": "with other people's children."
+        },
+        {
+          "id": "sent-018",
+          "text": "Luego un hombre de Belfast compró el campo",
+          "translationRu": "Потом какой-то человек из Белфаста купил это поле",
+          "original": "Then a man from Belfast bought the field"
+        },
+        {
+          "id": "sent-019",
+          "text": "y construyó casas en él.",
+          "translationRu": "и построил на нём дома.",
+          "original": "and built houses in it"
+        },
+        {
+          "id": "sent-020",
+          "text": "No eran como sus pequeñas casas marrones,",
+          "translationRu": "Это были не такие маленькие коричневые дома, как у них,",
+          "original": "—not like their little brown houses"
+        },
+        {
+          "id": "sent-021",
+          "text": "sino casas de ladrillo brillante",
+          "translationRu": "а яркие кирпичные дома",
+          "original": "but bright brick houses"
+        },
+        {
+          "id": "sent-022",
+          "text": "con tejados relucientes.",
+          "translationRu": "с блестящими крышами.",
+          "original": "with shining roofs."
+        },
+        {
+          "id": "sent-023",
+          "text": "Los niños de la avenida jugaban juntos en aquel campo:",
+          "translationRu": "Дети с авеню играли вместе на том поле:",
+          "original": "The children of the avenue used to play together in that field—the Devines, the Waters, the Dunns,"
+        },
+        {
+          "id": "sent-024",
+          "text": "los Devines, los Waters, los Dunns,",
+          "translationRu": "Дивайны, Уотерсы, Данны,"
+        },
+        {
+          "id": "sent-025",
+          "text": "el pequeño Keogh el cojo,",
+          "translationRu": "маленький хромой Кио,",
+          "original": "little Keogh the cripple,"
+        },
+        {
+          "id": "sent-026",
+          "text": "ella y sus hermanos y hermanas.",
+          "translationRu": "она и её братья и сёстры.",
+          "original": "she and her brothers and sisters."
+        },
+        {
+          "id": "sent-027",
+          "text": "Ernest, sin embargo, nunca jugaba:",
+          "translationRu": "Эрнест, однако, никогда не играл:",
+          "original": "Ernest, however, never played:"
+        },
+        {
+          "id": "sent-028",
+          "text": "ya era demasiado mayor.",
+          "translationRu": "он был слишком взрослым.",
+          "original": "he was too grown up."
+        },
+        {
+          "id": "sent-029",
+          "text": "Su padre solía echarlos del campo con su bastón de espino,",
+          "translationRu": "Отец часто выгонял их с поля своей боярышниковой тростью,",
+          "original": "Her father used often to hunt them in out of the field with his blackthorn stick;"
+        },
+        {
+          "id": "sent-030",
+          "text": "pero normalmente el pequeño Keogh vigilaba",
+          "translationRu": "но обычно маленький Кио стоял на страже",
+          "original": "but usually little Keogh used to keep _nix_"
+        },
+        {
+          "id": "sent-031",
+          "text": "y avisaba",
+          "translationRu": "и предупреждал,",
+          "original": "and call out"
+        },
+        {
+          "id": "sent-032",
+          "text": "cuando veía llegar a su padre.",
+          "translationRu": "когда видел, что отец идёт.",
+          "original": "when he saw her father coming."
+        },
+        {
+          "id": "sent-033",
+          "text": "Aun así, en aquella época",
+          "translationRu": "И всё же в то время",
+          "original": "Still"
+        },
+        {
+          "id": "sent-034",
+          "text": "parecían haber sido bastante felices.",
+          "translationRu": "они, кажется, были довольно счастливы.",
+          "original": "they seemed to have been rather happy then."
+        },
+        {
+          "id": "sent-035",
           "text": "Su padre no era tan malo entonces.",
           "translationRu": "Отец тогда не был таким плохим.",
           "original": "Her father was not so bad then;"
         },
         {
-          "id": "sent-016",
+          "id": "sent-036",
           "text": "Además, su madre estaba viva.",
           "translationRu": "К тому же мать была жива.",
           "original": "and besides, her mother was alive."
         },
         {
-          "id": "sent-017",
+          "id": "sent-037",
           "text": "Eso fue hace mucho tiempo.",
           "translationRu": "Это было так давно.",
           "original": "That was a long time ago;"
         },
         {
-          "id": "sent-018",
-          "text": "Ella y sus hermanos y hermanas ya eran todos adultos.",
-          "translationRu": "Она и её братья и сёстры уже выросли.",
-          "original": "she and her brothers and sisters were all grown up;"
+          "id": "sent-038",
+          "text": "Ella y sus hermanos y hermanas",
+          "translationRu": "Она и её братья и сёстры",
+          "original": "she and her brothers and sisters"
         },
         {
-          "id": "sent-019",
+          "id": "sent-039",
+          "text": "ya eran todos adultos.",
+          "translationRu": "уже выросли.",
+          "original": "were all grown up;"
+        },
+        {
+          "id": "sent-040",
           "text": "Su madre había muerto.",
           "translationRu": "Мать умерла.",
           "original": "her mother was dead."
         },
         {
-          "id": "sent-020",
-          "text": "Tizzie Dunn también había muerto, y los Waters habían vuelto a Inglaterra.",
-          "translationRu": "Тиззи Данн тоже умерла, а Уотерсы вернулись в Англию.",
-          "original": "Tizzie Dunn was dead, too, and the Waters had gone back to England."
+          "id": "sent-041",
+          "text": "Tizzie Dunn también había muerto,",
+          "translationRu": "Тиззи Данн тоже умерла,",
+          "original": "Tizzie Dunn was dead, too,"
         },
         {
-          "id": "sent-021",
+          "id": "sent-042",
+          "text": "y los Waters habían vuelto a Inglaterra.",
+          "translationRu": "а Уотерсы вернулись в Англию.",
+          "original": "and the Waters had gone back to England."
+        },
+        {
+          "id": "sent-043",
           "text": "Todo cambia.",
           "translationRu": "Всё меняется.",
           "original": "Everything changes."
         },
         {
-          "id": "sent-022",
-          "text": "Ahora ella también iba a irse, como los demás, y dejar su hogar.",
-          "translationRu": "Теперь и она собиралась уехать, как все остальные, и покинуть свой дом.",
-          "original": "Now she was going to go away like the others, to leave her home."
+          "id": "sent-044",
+          "text": "Ahora ella también iba a irse,",
+          "translationRu": "Теперь и она собиралась уехать,",
+          "original": "Now she was going to go away"
+        },
+        {
+          "id": "sent-045",
+          "text": "como los demás,",
+          "translationRu": "как все остальные,",
+          "original": "like the others,"
+        },
+        {
+          "id": "sent-046",
+          "text": "y dejar su hogar.",
+          "translationRu": "и покинуть свой дом.",
+          "original": "to leave her home."
         }
       ]
     },
@@ -154,55 +297,109 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-023",
+          "id": "sent-047",
           "text": "¡El hogar!",
           "translationRu": "Дом!",
           "original": "Home!"
         },
         {
-          "id": "sent-024",
-          "text": "Miró a su alrededor la habitación y observó todos los objetos familiares que había limpiado una vez por semana durante tantos años.",
-          "translationRu": "Она обвела взглядом комнату и посмотрела на все знакомые вещи, которые вытирала от пыли раз в неделю столько лет.",
-          "original": "She looked round the room, reviewing all its familiar objects which she had dusted once a week for so many years,"
+          "id": "sent-048",
+          "text": "Miró a su alrededor la habitación",
+          "translationRu": "Она обвела взглядом комнату",
+          "original": "She looked round the room,"
         },
         {
-          "id": "sent-025",
-          "text": "Se preguntó de dónde vendría todo ese polvo.",
-          "translationRu": "Она размышляла, откуда вообще берётся вся эта пыль.",
-          "original": "wondering where on earth all the dust came from."
+          "id": "sent-049",
+          "text": "y observó todos los objetos familiares",
+          "translationRu": "и посмотрела на все знакомые вещи,",
+          "original": "reviewing all its familiar objects"
         },
         {
-          "id": "sent-026",
-          "text": "Quizás nunca volvería a ver esos objetos familiares de los que nunca había pensado separarse.",
-          "translationRu": "Возможно, она никогда больше не увидит эти знакомые вещи, с которыми и не думала расставаться.",
-          "original": "Perhaps she would never see again those familiar objects from which she had never dreamed of being divided."
+          "id": "sent-050",
+          "text": "que había limpiado una vez por semana durante tantos años.",
+          "translationRu": "которые вытирала от пыли раз в неделю столько лет.",
+          "original": "which she had dusted once a week for so many years,"
         },
         {
-          "id": "sent-027",
-          "text": "Y sin embargo, durante todos esos años, nunca había descubierto el nombre del sacerdote cuya fotografía amarillenta colgaba en la pared encima del armonio roto.",
-          "translationRu": "И всё же за все эти годы она так и не узнала имени священника, чья пожелтевшая фотография висела на стене над сломанной фисгармонией.",
-          "original": "And yet during all those years she had never found out the name of the priest whose yellowing photograph hung on the wall above the broken harmonium"
+          "id": "sent-051",
+          "text": "Se preguntó",
+          "translationRu": "Она размышляла,",
+          "original": "wondering"
         },
         {
-          "id": "sent-028",
-          "text": "Junto a la fotografía había una estampa de colores con las promesas hechas a la Beata Margarita María Alacoque.",
-          "translationRu": "Рядом с фотографией висела цветная картинка с обетами блаженной Маргарите Марии Алакок.",
-          "original": "beside the coloured print of the promises made to Blessed Margaret Mary Alacoque."
+          "id": "sent-052",
+          "text": "de dónde vendría todo ese polvo.",
+          "translationRu": "откуда вообще берётся вся эта пыль.",
+          "original": "where on earth all the dust came from."
         },
         {
-          "id": "sent-029",
+          "id": "sent-053",
+          "text": "Quizás nunca volvería a ver esos objetos familiares",
+          "translationRu": "Возможно, она никогда больше не увидит эти знакомые вещи,",
+          "original": "Perhaps she would never see again those familiar objects"
+        },
+        {
+          "id": "sent-054",
+          "text": "de los que nunca había pensado separarse.",
+          "translationRu": "с которыми и не думала расставаться.",
+          "original": "from which she had never dreamed of being divided."
+        },
+        {
+          "id": "sent-055",
+          "text": "Y sin embargo, durante todos esos años,",
+          "translationRu": "И всё же за все эти годы",
+          "original": "And yet during all those years"
+        },
+        {
+          "id": "sent-056",
+          "text": "nunca había descubierto el nombre del sacerdote",
+          "translationRu": "она так и не узнала имени священника,",
+          "original": "she had never found out the name of the priest"
+        },
+        {
+          "id": "sent-057",
+          "text": "cuya fotografía amarillenta colgaba en la pared",
+          "translationRu": "чья пожелтевшая фотография висела на стене",
+          "original": "whose yellowing photograph hung on the wall"
+        },
+        {
+          "id": "sent-058",
+          "text": "encima del armonio roto.",
+          "translationRu": "над сломанной фисгармонией.",
+          "original": "above the broken harmonium"
+        },
+        {
+          "id": "sent-059",
+          "text": "Junto a la fotografía había una estampa de colores",
+          "translationRu": "Рядом с фотографией висела цветная картинка",
+          "original": "beside the coloured print"
+        },
+        {
+          "id": "sent-060",
+          "text": "con las promesas hechas a la Beata Margarita María Alacoque.",
+          "translationRu": "с обетами блаженной Маргарите Марии Алакок.",
+          "original": "of the promises made to Blessed Margaret Mary Alacoque."
+        },
+        {
+          "id": "sent-061",
           "text": "Ese sacerdote había sido amigo del colegio de su padre.",
           "translationRu": "Этот священник был школьным другом её отца.",
           "original": "He had been a school friend of her father."
         },
         {
-          "id": "sent-030",
-          "text": "Cada vez que su padre mostraba la fotografía a una visita, la señalaba con una palabra casual:",
-          "translationRu": "Каждый раз, когда отец показывал фотографию гостям, он говорил мимоходом:",
-          "original": "Whenever he showed the photograph to a visitor her father used to pass it with a casual word:"
+          "id": "sent-062",
+          "text": "Cada vez que su padre mostraba la fotografía a una visita,",
+          "translationRu": "Каждый раз, когда отец показывал фотографию гостям,",
+          "original": "Whenever he showed the photograph to a visitor"
         },
         {
-          "id": "sent-031",
+          "id": "sent-063",
+          "text": "la señalaba con una palabra casual:",
+          "translationRu": "он говорил мимоходом:",
+          "original": "her father used to pass it with a casual word:"
+        },
+        {
+          "id": "sent-064",
           "text": "—Ahora está en Melbourne.",
           "translationRu": "— Теперь он в Мельбурне.",
           "original": "'He is in Melbourne now.'"
@@ -213,79 +410,133 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-032",
-          "text": "Ella había decidido irse, dejar su hogar.",
-          "translationRu": "Она решила уехать, покинуть свой дом.",
-          "original": "She had consented to go away, to leave her home."
+          "id": "sent-065",
+          "text": "Ella había decidido irse,",
+          "translationRu": "Она решила уехать,",
+          "original": "She had consented to go away,"
         },
         {
-          "id": "sent-033",
+          "id": "sent-066",
+          "text": "dejar su hogar.",
+          "translationRu": "покинуть свой дом.",
+          "original": "to leave her home."
+        },
+        {
+          "id": "sent-067",
           "text": "¿Era eso lo correcto?",
           "translationRu": "Правильно ли это?",
           "original": "Was that wise?"
         },
         {
-          "id": "sent-034",
+          "id": "sent-068",
           "text": "Intentó considerar los dos lados de la cuestión.",
           "translationRu": "Она попыталась взвесить оба варианта.",
           "original": "She tried to weigh each side of the question."
         },
         {
-          "id": "sent-035",
-          "text": "En su casa, al menos, tenía refugio y comida.",
-          "translationRu": "В своём доме она, по крайней мере, имела кров и еду.",
-          "original": "In her home anyway she had shelter and food;"
+          "id": "sent-069",
+          "text": "En su casa, al menos,",
+          "translationRu": "В своём доме она, по крайней мере,",
+          "original": "In her home anyway"
         },
         {
-          "id": "sent-036",
-          "text": "Tenía a su alrededor a las personas que había conocido toda su vida.",
-          "translationRu": "Рядом с ней были люди, которых она знала всю жизнь.",
-          "original": "she had those whom she had known all her life about her."
+          "id": "sent-070",
+          "text": "tenía refugio y comida.",
+          "translationRu": "имела кров и еду.",
+          "original": "she had shelter and food;"
         },
         {
-          "id": "sent-037",
-          "text": "Claro que tenía que trabajar mucho, tanto en casa como en el trabajo.",
-          "translationRu": "Конечно, ей приходилось много работать — и дома, и на работе.",
-          "original": "Of course she had to work hard, both in the house and at business."
+          "id": "sent-071",
+          "text": "Tenía a su alrededor a las personas",
+          "translationRu": "Рядом с ней были люди,",
+          "original": "she had those"
         },
         {
-          "id": "sent-038",
-          "text": "¿Qué dirían de ella en los Almacenes cuando descubrieran que se había escapado con un hombre?",
-          "translationRu": "Что скажут о ней в Магазинах, когда узнают, что она сбежала с каким-то парнем?",
-          "original": "What would they say of her in the Stores when they found out that she had run away with a fellow?"
+          "id": "sent-072",
+          "text": "que había conocido toda su vida.",
+          "translationRu": "которых она знала всю жизнь.",
+          "original": "whom she had known all her life about her."
         },
         {
-          "id": "sent-039",
-          "text": "Dirían que era una tonta, quizás, y su puesto se llenaría con un anuncio.",
-          "translationRu": "Наверное, скажут, что она дура, и её место займут через объявление.",
-          "original": "Say she was a fool, perhaps; and her place would be filled up by advertisement."
+          "id": "sent-073",
+          "text": "Claro que tenía que trabajar mucho,",
+          "translationRu": "Конечно, ей приходилось много работать —",
+          "original": "Of course she had to work hard,"
         },
         {
-          "id": "sent-040",
+          "id": "sent-074",
+          "text": "tanto en casa como en el trabajo.",
+          "translationRu": "и дома, и на работе.",
+          "original": "both in the house and at business."
+        },
+        {
+          "id": "sent-075",
+          "text": "¿Qué dirían de ella en los Almacenes",
+          "translationRu": "Что скажут о ней в Магазинах,",
+          "original": "What would they say of her in the Stores"
+        },
+        {
+          "id": "sent-076",
+          "text": "cuando descubrieran",
+          "translationRu": "когда узнают,",
+          "original": "when they found out"
+        },
+        {
+          "id": "sent-077",
+          "text": "que se había escapado con un hombre?",
+          "translationRu": "что она сбежала с каким-то парнем?",
+          "original": "that she had run away with a fellow?"
+        },
+        {
+          "id": "sent-078",
+          "text": "Dirían que era una tonta, quizás,",
+          "translationRu": "Наверное, скажут, что она дура,",
+          "original": "Say she was a fool, perhaps;"
+        },
+        {
+          "id": "sent-079",
+          "text": "y su puesto se llenaría con un anuncio.",
+          "translationRu": "и её место займут через объявление.",
+          "original": "and her place would be filled up by advertisement."
+        },
+        {
+          "id": "sent-080",
           "text": "La señorita Gavan estaría contenta.",
           "translationRu": "Мисс Гаван будет рада.",
           "original": "Miss Gavan would be glad."
         },
         {
-          "id": "sent-041",
-          "text": "Siempre había tenido algo en contra de ella, especialmente cuando había personas escuchando.",
-          "translationRu": "Та всегда имела что-то против неё, особенно когда рядом были люди.",
-          "original": "She had always had an edge on her, especially whenever there were people listening."
+          "id": "sent-081",
+          "text": "Siempre había tenido algo en contra de ella,",
+          "translationRu": "Та всегда имела что-то против неё,",
+          "original": "She had always had an edge on her,"
         },
         {
-          "id": "sent-042",
-          "text": "—Señorita Hill, ¿no ve que estas señoras están esperando?",
-          "translationRu": "— Мисс Хилл, разве вы не видите, что эти дамы ждут?",
-          "original": "'Miss Hill, don't you see these ladies are waiting?'"
+          "id": "sent-082",
+          "text": "especialmente cuando había personas escuchando.",
+          "translationRu": "особенно когда рядом были люди.",
+          "original": "especially whenever there were people listening."
         },
         {
-          "id": "sent-043",
+          "id": "sent-083",
+          "text": "—Señorita Hill,",
+          "translationRu": "— Мисс Хилл,",
+          "original": "'Miss Hill,"
+        },
+        {
+          "id": "sent-084",
+          "text": "¿no ve que estas señoras están esperando?",
+          "translationRu": "разве вы не видите, что эти дамы ждут?",
+          "original": "don't you see these ladies are waiting?'"
+        },
+        {
+          "id": "sent-085",
           "text": "—Sea más rápida, señorita Hill, por favor.",
           "translationRu": "— Побыстрее, мисс Хилл, пожалуйста.",
           "original": "'Look lively, Miss Hill, please.'"
         },
         {
-          "id": "sent-044",
+          "id": "sent-086",
           "text": "No derramaría muchas lágrimas al dejar los Almacenes.",
           "translationRu": "Уходя из Магазинов, она не прольёт много слёз.",
           "original": "She would not cry many tears at leaving the Stores."
@@ -296,130 +547,355 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-045",
-          "text": "Pero en su nuevo hogar, en un país lejano y desconocido, no sería así.",
-          "translationRu": "Но в её новом доме, в далёкой незнакомой стране, всё будет иначе.",
-          "original": "But in her new home, in a distant unknown country, it would not be like that."
+          "id": "sent-087",
+          "text": "Pero en su nuevo hogar,",
+          "translationRu": "Но в её новом доме,",
+          "original": "But in her new home,"
         },
         {
-          "id": "sent-046",
-          "text": "Entonces estaría casada: ella, Eveline.",
-          "translationRu": "Тогда она будет замужем — она, Эвелина.",
+          "id": "sent-088",
+          "text": "en un país lejano y desconocido,",
+          "translationRu": "в далёкой незнакомой стране,",
+          "original": "in a distant unknown country,"
+        },
+        {
+          "id": "sent-089",
+          "text": "no sería así.",
+          "translationRu": "всё будет иначе.",
+          "original": "it would not be like that."
+        },
+        {
+          "id": "sent-090",
+          "text": "Entonces estaría casada:",
+          "translationRu": "Тогда она будет замужем —",
           "original": "Then she would be married—she, Eveline."
         },
         {
-          "id": "sent-047",
+          "id": "sent-091",
+          "text": "ella, Eveline.",
+          "translationRu": "она, Эвелина."
+        },
+        {
+          "id": "sent-092",
           "text": "La gente la trataría con respeto.",
           "translationRu": "Люди будут относиться к ней с уважением.",
           "original": "People would treat her with respect then."
         },
         {
-          "id": "sent-048",
-          "text": "No la tratarían como habían tratado a su madre.",
-          "translationRu": "С ней не будут обращаться так, как обращались с её матерью.",
-          "original": "She would not be treated as her mother had been."
+          "id": "sent-093",
+          "text": "No la tratarían",
+          "translationRu": "С ней не будут обращаться так,",
+          "original": "She would not be treated"
         },
         {
-          "id": "sent-049",
-          "text": "Incluso ahora, aunque ya tenía más de diecinueve años, a veces sentía miedo de la violencia de su padre.",
-          "translationRu": "Даже сейчас, несмотря на то что ей было уже больше девятнадцати, она порой боялась насилия отца.",
-          "original": "Even now, though she was over nineteen, she sometimes felt herself in danger of her father's violence."
+          "id": "sent-094",
+          "text": "como habían tratado a su madre.",
+          "translationRu": "как обращались с её матерью.",
+          "original": "as her mother had been."
         },
         {
-          "id": "sent-050",
-          "text": "Sabía que eso le había dado las palpitaciones.",
-          "translationRu": "Она знала, что именно это вызывало у неё сердцебиение.",
-          "original": "She knew it was that that had given her the palpitations."
+          "id": "sent-095",
+          "text": "Incluso ahora,",
+          "translationRu": "Даже сейчас,",
+          "original": "Even now,"
         },
         {
-          "id": "sent-051",
-          "text": "Cuando eran niños, él nunca la había atacado a ella como atacaba a Harry y a Ernest, porque era chica.",
-          "translationRu": "Когда они были детьми, он никогда не набрасывался на неё так, как на Гарри и Эрнеста, — потому что она была девочкой.",
-          "original": "When they were growing up he had never gone for her like he used to go for Harry and Ernest, because she was a girl;"
+          "id": "sent-096",
+          "text": "aunque ya tenía más de diecinueve años,",
+          "translationRu": "несмотря на то что ей было уже больше девятнадцати,",
+          "original": "though she was over nineteen,"
         },
         {
-          "id": "sent-052",
-          "text": "Pero últimamente había empezado a amenazarla y a decirle lo que le haría si no fuera por el recuerdo de su madre muerta.",
-          "translationRu": "Но в последнее время он начал угрожать ей и говорить, что сделал бы с ней, если бы не память о её покойной матери.",
-          "original": "but latterly he had begun to threaten her and say what he would do to her only for her dead mother's sake."
+          "id": "sent-097",
+          "text": "a veces sentía miedo de la violencia de su padre.",
+          "translationRu": "она порой боялась насилия отца.",
+          "original": "she sometimes felt herself in danger of her father's violence."
         },
         {
-          "id": "sent-053",
-          "text": "Y ahora no tenía a nadie que la protegiera.",
-          "translationRu": "И теперь у неё не было никого, кто бы её защитил.",
-          "original": "And now she had nobody to protect her."
+          "id": "sent-098",
+          "text": "Sabía",
+          "translationRu": "Она знала,",
+          "original": "She knew"
         },
         {
-          "id": "sent-054",
-          "text": "Ernest había muerto y Harry, que trabajaba en el negocio de decorar iglesias, casi siempre estaba en algún lugar del campo.",
-          "translationRu": "Эрнест умер, а Гарри, занимавшийся украшением церквей, почти всегда находился где-то в провинции.",
-          "original": "Ernest was dead and Harry, who was in the church decorating business, was nearly always down somewhere in the country."
+          "id": "sent-099",
+          "text": "que eso le había dado las palpitaciones.",
+          "translationRu": "что именно это вызывало у неё сердцебиение.",
+          "original": "it was that that had given her the palpitations."
         },
         {
-          "id": "sent-055",
-          "text": "Además, las peleas constantes por dinero los sábados por la noche habían empezado a cansarla terriblemente.",
-          "translationRu": "К тому же постоянные ссоры из-за денег по субботним вечерам стали невыносимо её утомлять.",
-          "original": "Besides, the invariable squabble for money on Saturday nights had begun to weary her unspeakably."
+          "id": "sent-100",
+          "text": "Cuando eran niños,",
+          "translationRu": "Когда они были детьми,",
+          "original": "When they were growing up"
         },
         {
-          "id": "sent-056",
-          "text": "Ella siempre daba todo su sueldo: siete chelines.",
-          "translationRu": "Она всегда отдавала весь свой заработок — семь шиллингов.",
+          "id": "sent-101",
+          "text": "él nunca la había atacado a ella",
+          "translationRu": "он никогда не набрасывался на неё так,",
+          "original": "he had never gone for her"
+        },
+        {
+          "id": "sent-102",
+          "text": "como atacaba a Harry y a Ernest,",
+          "translationRu": "как на Гарри и Эрнеста, —",
+          "original": "like he used to go for Harry and Ernest,"
+        },
+        {
+          "id": "sent-103",
+          "text": "porque era chica.",
+          "translationRu": "потому что она была девочкой.",
+          "original": "because she was a girl;"
+        },
+        {
+          "id": "sent-104",
+          "text": "Pero últimamente había empezado a amenazarla",
+          "translationRu": "Но в последнее время он начал угрожать ей",
+          "original": "but latterly he had begun to threaten her"
+        },
+        {
+          "id": "sent-105",
+          "text": "y a decirle lo que le haría",
+          "translationRu": "и говорить, что сделал бы с ней,",
+          "original": "and say what he would do to her"
+        },
+        {
+          "id": "sent-106",
+          "text": "si no fuera por el recuerdo de su madre muerta.",
+          "translationRu": "если бы не память о её покойной матери.",
+          "original": "only for her dead mother's sake."
+        },
+        {
+          "id": "sent-107",
+          "text": "Y ahora no tenía a nadie",
+          "translationRu": "И теперь у неё не было никого,",
+          "original": "And now she had nobody"
+        },
+        {
+          "id": "sent-108",
+          "text": "que la protegiera.",
+          "translationRu": "кто бы её защитил.",
+          "original": "to protect her."
+        },
+        {
+          "id": "sent-109",
+          "text": "Ernest había muerto",
+          "translationRu": "Эрнест умер,",
+          "original": "Ernest was dead"
+        },
+        {
+          "id": "sent-110",
+          "text": "y Harry,",
+          "translationRu": "а Гарри,",
+          "original": "and Harry,"
+        },
+        {
+          "id": "sent-111",
+          "text": "que trabajaba en el negocio de decorar iglesias,",
+          "translationRu": "занимавшийся украшением церквей,",
+          "original": "who was in the church decorating business,"
+        },
+        {
+          "id": "sent-112",
+          "text": "casi siempre estaba en algún lugar del campo.",
+          "translationRu": "почти всегда находился где-то в провинции.",
+          "original": "was nearly always down somewhere in the country."
+        },
+        {
+          "id": "sent-113",
+          "text": "Además, las peleas constantes por dinero los sábados por la noche",
+          "translationRu": "К тому же постоянные ссоры из-за денег по субботним вечерам",
+          "original": "Besides, the invariable squabble for money on Saturday nights"
+        },
+        {
+          "id": "sent-114",
+          "text": "habían empezado a cansarla terriblemente.",
+          "translationRu": "стали невыносимо её утомлять.",
+          "original": "had begun to weary her unspeakably."
+        },
+        {
+          "id": "sent-115",
+          "text": "Ella siempre daba todo su sueldo:",
+          "translationRu": "Она всегда отдавала весь свой заработок —",
           "original": "She always gave her entire wages—seven shillings—"
         },
         {
-          "id": "sent-057",
-          "text": "Harry siempre enviaba lo que podía, pero el problema era conseguir dinero de su padre.",
-          "translationRu": "Гарри всегда присылал что мог, но проблема была в том, чтобы получить деньги от отца.",
-          "original": "and Harry always sent up what he could but the trouble was to get any money from her father."
+          "id": "sent-116",
+          "text": "siete chelines.",
+          "translationRu": "семь шиллингов."
         },
         {
-          "id": "sent-058",
-          "text": "Su padre decía que ella malgastaba el dinero, que no tenía cabeza, que no iba a darle su dinero ganado con esfuerzo para que lo tirara por las calles, y mucho más.",
-          "translationRu": "Отец говорил, что она транжирит деньги, что у неё нет головы, что он не собирается отдавать ей деньги, заработанные с трудом, чтобы та их разбрасывала по улицам, и ещё много чего.",
-          "original": "He said she used to squander the money, that she had no head, that he wasn't going to give her his hard-earned money to throw about the streets, and much more,"
+          "id": "sent-117",
+          "text": "Harry siempre enviaba lo que podía,",
+          "translationRu": "Гарри всегда присылал что мог,",
+          "original": "and Harry always sent up what he could"
         },
         {
-          "id": "sent-059",
-          "text": "Porque los sábados por la noche él estaba generalmente bastante mal.",
-          "translationRu": "Потому что по субботним вечерам он, как правило, бывал в очень плохом состоянии.",
-          "original": "for he was usually fairly bad of a Saturday night."
+          "id": "sent-118",
+          "text": "pero el problema era",
+          "translationRu": "но проблема была в том,",
+          "original": "but the trouble was"
         },
         {
-          "id": "sent-060",
-          "text": "Al final le daba el dinero y le preguntaba si pensaba comprar la cena del domingo.",
-          "translationRu": "В конце концов он давал ей деньги и спрашивал, собирается ли она купить воскресный ужин.",
-          "original": "In the end he would give her the money and ask her had she any intention of buying Sunday's dinner."
+          "id": "sent-119",
+          "text": "conseguir dinero de su padre.",
+          "translationRu": "чтобы получить деньги от отца.",
+          "original": "to get any money from her father."
         },
         {
-          "id": "sent-061",
-          "text": "Entonces ella tenía que salir corriendo lo antes posible a hacer las compras, apretando su monedero negro de cuero en la mano mientras se abría paso entre la multitud.",
-          "translationRu": "Тогда ей нужно было как можно скорее выбежать за покупками, крепко сжимая в руке чёрный кожаный кошелёк, пробираясь сквозь толпу.",
-          "original": "Then she had to rush out as quickly as she could and do her marketing, holding her black leather purse tightly in her hand as she elbowed her way through the crowds"
+          "id": "sent-120",
+          "text": "Su padre decía",
+          "translationRu": "Отец говорил,",
+          "original": "He said"
         },
         {
-          "id": "sent-062",
-          "text": "Volvía tarde a casa cargada de provisiones.",
-          "translationRu": "Она возвращалась домой поздно, нагруженная продуктами.",
-          "original": "and returning home late under her load of provisions."
+          "id": "sent-121",
+          "text": "que ella malgastaba el dinero,",
+          "translationRu": "что она транжирит деньги,",
+          "original": "she used to squander the money,"
         },
         {
-          "id": "sent-063",
-          "text": "Era difícil mantener la casa unida y ver que los dos niños pequeños que habían quedado a su cargo iban al colegio con regularidad y comían bien.",
-          "translationRu": "Было нелегко держать дом в порядке и следить за тем, чтобы двое малолетних детей, которых ей поручили, регулярно ходили в школу и нормально питались.",
-          "original": "She had hard work to keep the house together and to see that the two young children who had been left to her charge went to school regularly and got their meals regularly."
+          "id": "sent-122",
+          "text": "que no tenía cabeza,",
+          "translationRu": "что у неё нет головы,",
+          "original": "that she had no head,"
         },
         {
-          "id": "sent-064",
-          "text": "Era un trabajo duro, una vida dura.",
-          "translationRu": "Это был тяжёлый труд — тяжёлая жизнь.",
+          "id": "sent-123",
+          "text": "que no iba a darle su dinero ganado con esfuerzo",
+          "translationRu": "что он не собирается отдавать ей деньги, заработанные с трудом,",
+          "original": "that he wasn't going to give her his hard-earned money"
+        },
+        {
+          "id": "sent-124",
+          "text": "para que lo tirara por las calles,",
+          "translationRu": "чтобы та их разбрасывала по улицам,",
+          "original": "to throw about the streets,"
+        },
+        {
+          "id": "sent-125",
+          "text": "y mucho más.",
+          "translationRu": "и ещё много чего.",
+          "original": "and much more,"
+        },
+        {
+          "id": "sent-126",
+          "text": "Porque los sábados por la noche",
+          "translationRu": "Потому что по субботним вечерам",
+          "original": "for"
+        },
+        {
+          "id": "sent-127",
+          "text": "él estaba generalmente bastante mal.",
+          "translationRu": "он, как правило, бывал в очень плохом состоянии.",
+          "original": "he was usually fairly bad of a Saturday night."
+        },
+        {
+          "id": "sent-128",
+          "text": "Al final le daba el dinero",
+          "translationRu": "В конце концов он давал ей деньги",
+          "original": "In the end he would give her the money"
+        },
+        {
+          "id": "sent-129",
+          "text": "y le preguntaba",
+          "translationRu": "и спрашивал,",
+          "original": "and ask her"
+        },
+        {
+          "id": "sent-130",
+          "text": "si pensaba comprar la cena del domingo.",
+          "translationRu": "собирается ли она купить воскресный ужин.",
+          "original": "had she any intention of buying Sunday's dinner."
+        },
+        {
+          "id": "sent-131",
+          "text": "Entonces ella tenía que salir corriendo lo antes posible",
+          "translationRu": "Тогда ей нужно было как можно скорее выбежать",
+          "original": "Then she had to rush out as quickly as she could"
+        },
+        {
+          "id": "sent-132",
+          "text": "a hacer las compras,",
+          "translationRu": "за покупками,",
+          "original": "and do her marketing,"
+        },
+        {
+          "id": "sent-133",
+          "text": "apretando su monedero negro de cuero en la mano",
+          "translationRu": "крепко сжимая в руке чёрный кожаный кошелёк,",
+          "original": "holding her black leather purse tightly in her hand"
+        },
+        {
+          "id": "sent-134",
+          "text": "mientras se abría paso entre la multitud.",
+          "translationRu": "пробираясь сквозь толпу.",
+          "original": "as she elbowed her way through the crowds"
+        },
+        {
+          "id": "sent-135",
+          "text": "Volvía tarde a casa",
+          "translationRu": "Она возвращалась домой поздно,",
+          "original": "and returning home late"
+        },
+        {
+          "id": "sent-136",
+          "text": "cargada de provisiones.",
+          "translationRu": "нагруженная продуктами.",
+          "original": "under her load of provisions."
+        },
+        {
+          "id": "sent-137",
+          "text": "Era difícil mantener la casa unida",
+          "translationRu": "Было нелегко держать дом в порядке",
+          "original": "She had hard work to keep the house together"
+        },
+        {
+          "id": "sent-138",
+          "text": "y ver que los dos niños pequeños",
+          "translationRu": "и следить за тем, чтобы двое малолетних детей,",
+          "original": "and to see that the two young children"
+        },
+        {
+          "id": "sent-139",
+          "text": "que habían quedado a su cargo",
+          "translationRu": "которых ей поручили,",
+          "original": "who had been left to her charge"
+        },
+        {
+          "id": "sent-140",
+          "text": "iban al colegio con regularidad",
+          "translationRu": "регулярно ходили в школу",
+          "original": "went to school regularly"
+        },
+        {
+          "id": "sent-141",
+          "text": "y comían bien.",
+          "translationRu": "и нормально питались.",
+          "original": "and got their meals regularly."
+        },
+        {
+          "id": "sent-142",
+          "text": "Era un trabajo duro,",
+          "translationRu": "Это был тяжёлый труд —",
           "original": "It was hard work—a hard life—"
         },
         {
-          "id": "sent-065",
-          "text": "Pero ahora que estaba a punto de dejarla, no le parecía una vida del todo indeseable.",
-          "translationRu": "Но теперь, когда она собиралась её покинуть, она не находила эту жизнь совсем уж невыносимой.",
-          "original": "but now that she was about to leave it she did not find it a wholly undesirable life."
+          "id": "sent-143",
+          "text": "una vida dura.",
+          "translationRu": "тяжёлая жизнь."
+        },
+        {
+          "id": "sent-144",
+          "text": "Pero ahora que estaba a punto de dejarla,",
+          "translationRu": "Но теперь, когда она собиралась её покинуть,",
+          "original": "but now that she was about to leave it"
+        },
+        {
+          "id": "sent-145",
+          "text": "no le parecía una vida del todo indeseable.",
+          "translationRu": "она не находила эту жизнь совсем уж невыносимой.",
+          "original": "she did not find it a wholly undesirable life."
         }
       ]
     },
@@ -427,136 +903,382 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-066",
-          "text": "Estaba a punto de explorar otra vida con Frank.",
-          "translationRu": "Она была готова начать другую жизнь вместе с Фрэнком.",
-          "original": "She was about to explore another life with Frank."
+          "id": "sent-146",
+          "text": "Estaba a punto de explorar otra vida",
+          "translationRu": "Она была готова начать другую жизнь",
+          "original": "She was about to explore another life"
         },
         {
-          "id": "sent-067",
+          "id": "sent-147",
+          "text": "con Frank.",
+          "translationRu": "вместе с Фрэнком.",
+          "original": "with Frank."
+        },
+        {
+          "id": "sent-148",
           "text": "Frank era muy bueno, masculino y de corazón abierto.",
           "translationRu": "Фрэнк был очень добрым, мужественным и открытым.",
           "original": "Frank was very kind, manly, open-hearted."
         },
         {
-          "id": "sent-068",
-          "text": "Ella iba a irse con él en el barco nocturno para ser su esposa y vivir con él en Buenos Aires, donde él tenía un hogar esperándola.",
-          "translationRu": "Она должна была уехать с ним на ночном пароходе, чтобы стать его женой и жить вместе с ним в Буэнос-Айресе, где у него был готов дом, ждавший её.",
-          "original": "She was to go away with him by the night-boat to be his wife and to live with him in Buenos Ayres where he had a home waiting for her."
+          "id": "sent-149",
+          "text": "Ella iba a irse con él en el barco nocturno",
+          "translationRu": "Она должна была уехать с ним на ночном пароходе,",
+          "original": "She was to go away with him by the night-boat"
         },
         {
-          "id": "sent-069",
-          "text": "¡Qué bien recordaba la primera vez que lo había visto!",
-          "translationRu": "Как хорошо она помнила первый раз, когда увидела его!",
-          "original": "How well she remembered the first time she had seen him;"
+          "id": "sent-150",
+          "text": "para ser su esposa",
+          "translationRu": "чтобы стать его женой",
+          "original": "to be his wife"
         },
         {
-          "id": "sent-070",
-          "text": "Él se hospedaba en una casa en la carretera principal donde ella solía ir de visita.",
-          "translationRu": "Он снимал комнату в доме на главной дороге, куда она часто ходила в гости.",
-          "original": "he was lodging in a house on the main road where she used to visit."
+          "id": "sent-151",
+          "text": "y vivir con él en Buenos Aires,",
+          "translationRu": "и жить вместе с ним в Буэнос-Айресе,",
+          "original": "and to live with him in Buenos Ayres"
         },
         {
-          "id": "sent-071",
+          "id": "sent-152",
+          "text": "donde él tenía un hogar esperándola.",
+          "translationRu": "где у него был готов дом, ждавший её.",
+          "original": "where he had a home waiting for her."
+        },
+        {
+          "id": "sent-153",
+          "text": "¡Qué bien recordaba",
+          "translationRu": "Как хорошо она помнила",
+          "original": "How well she remembered"
+        },
+        {
+          "id": "sent-154",
+          "text": "la primera vez que lo había visto!",
+          "translationRu": "первый раз, когда увидела его!",
+          "original": "the first time she had seen him;"
+        },
+        {
+          "id": "sent-155",
+          "text": "Él se hospedaba en una casa en la carretera principal",
+          "translationRu": "Он снимал комнату в доме на главной дороге,",
+          "original": "he was lodging in a house on the main road"
+        },
+        {
+          "id": "sent-156",
+          "text": "donde ella solía ir de visita.",
+          "translationRu": "куда она часто ходила в гости.",
+          "original": "where she used to visit."
+        },
+        {
+          "id": "sent-157",
           "text": "Parecía que fue hace pocas semanas.",
           "translationRu": "Казалось, это было всего несколько недель назад.",
           "original": "It seemed a few weeks ago."
         },
         {
-          "id": "sent-072",
-          "text": "Él estaba de pie junto al portón con la gorra inclinada hacia atrás y el pelo cayéndole sobre una cara de color bronce.",
-          "translationRu": "Он стоял у ворот, сдвинув кепку назад, и волосы падали ему на загорелое лицо.",
-          "original": "He was standing at the gate, his peaked cap pushed back on his head and his hair tumbled forward over a face of bronze."
+          "id": "sent-158",
+          "text": "Él estaba de pie junto al portón",
+          "translationRu": "Он стоял у ворот,",
+          "original": "He was standing at the gate,"
         },
         {
-          "id": "sent-073",
+          "id": "sent-159",
+          "text": "con la gorra inclinada hacia atrás",
+          "translationRu": "сдвинув кепку назад,",
+          "original": "his peaked cap pushed back on his head"
+        },
+        {
+          "id": "sent-160",
+          "text": "y el pelo cayéndole sobre una cara de color bronce.",
+          "translationRu": "и волосы падали ему на загорелое лицо.",
+          "original": "and his hair tumbled forward over a face of bronze."
+        },
+        {
+          "id": "sent-161",
           "text": "Luego se conocieron.",
           "translationRu": "Потом они познакомились.",
           "original": "Then they had come to know each other."
         },
         {
-          "id": "sent-074",
-          "text": "Él la esperaba delante de los Almacenes todas las tardes y la acompañaba a casa.",
-          "translationRu": "Он каждый вечер ждал её у Магазинов и провожал домой.",
-          "original": "He used to meet her outside the Stores every evening and see her home."
+          "id": "sent-162",
+          "text": "Él la esperaba delante de los Almacenes todas las tardes",
+          "translationRu": "Он каждый вечер ждал её у Магазинов",
+          "original": "He used to meet her outside the Stores every evening"
         },
         {
-          "id": "sent-075",
-          "text": "La llevó a ver La niña bohemia y ella se sintió feliz sentada en una parte del teatro donde nunca había estado antes.",
-          "translationRu": "Он повёл её на «Богемскую девушку», и она была счастлива, сидя в той части театра, где никогда раньше не бывала.",
-          "original": "He took her to see The Bohemian Girl and she felt elated as she sat in an unaccustomed part of the theatre with him."
+          "id": "sent-163",
+          "text": "y la acompañaba a casa.",
+          "translationRu": "и провожал домой.",
+          "original": "and see her home."
         },
         {
-          "id": "sent-076",
-          "text": "A él le gustaba mucho la música y cantaba un poco.",
-          "translationRu": "Он очень любил музыку и немного пел.",
-          "original": "He was awfully fond of music and sang a little."
+          "id": "sent-164",
+          "text": "La llevó a ver La niña bohemia",
+          "translationRu": "Он повёл её на «Богемскую девушку»,",
+          "original": "He took her to see The Bohemian Girl"
         },
         {
-          "id": "sent-077",
-          "text": "La gente sabía que se cortejaban, y cuando él cantaba sobre la joven que ama a un marinero, ella siempre se sentía agradablemente confundida.",
-          "translationRu": "Все знали, что они встречаются, и когда он пел о девушке, влюблённой в моряка, она всегда чувствовала приятное смущение.",
-          "original": "People knew that they were courting and, when he sang about the lass that loves a sailor, she always felt pleasantly confused."
+          "id": "sent-165",
+          "text": "y ella se sintió feliz",
+          "translationRu": "и она была счастлива,",
+          "original": "and she felt elated"
         },
         {
-          "id": "sent-078",
+          "id": "sent-166",
+          "text": "sentada en una parte del teatro",
+          "translationRu": "сидя в той части театра,",
+          "original": "as she sat in an unaccustomed part of the theatre"
+        },
+        {
+          "id": "sent-167",
+          "text": "donde nunca había estado antes.",
+          "translationRu": "где никогда раньше не бывала.",
+          "original": "with him."
+        },
+        {
+          "id": "sent-168",
+          "text": "A él le gustaba mucho la música",
+          "translationRu": "Он очень любил музыку",
+          "original": "He was awfully fond of music"
+        },
+        {
+          "id": "sent-169",
+          "text": "y cantaba un poco.",
+          "translationRu": "и немного пел.",
+          "original": "and sang a little."
+        },
+        {
+          "id": "sent-170",
+          "text": "La gente sabía",
+          "translationRu": "Все знали,",
+          "original": "People knew"
+        },
+        {
+          "id": "sent-171",
+          "text": "que se cortejaban,",
+          "translationRu": "что они встречаются,",
+          "original": "that they were courting and,"
+        },
+        {
+          "id": "sent-172",
+          "text": "y cuando él cantaba",
+          "translationRu": "и когда он пел",
+          "original": "when he sang"
+        },
+        {
+          "id": "sent-173",
+          "text": "sobre la joven",
+          "translationRu": "о девушке,",
+          "original": "about the lass"
+        },
+        {
+          "id": "sent-174",
+          "text": "que ama a un marinero,",
+          "translationRu": "влюблённой в моряка,",
+          "original": "that loves a sailor,"
+        },
+        {
+          "id": "sent-175",
+          "text": "ella siempre se sentía",
+          "translationRu": "она всегда чувствовала",
+          "original": "she always felt"
+        },
+        {
+          "id": "sent-176",
+          "text": "agradablemente confundida.",
+          "translationRu": "приятное смущение.",
+          "original": "pleasantly confused."
+        },
+        {
+          "id": "sent-177",
           "text": "Él la llamaba Poppens en broma.",
           "translationRu": "В шутку он называл её Поппенс.",
           "original": "He used to call her Poppens out of fun."
         },
         {
-          "id": "sent-079",
-          "text": "Al principio para ella fue emocionante tener un novio, y luego empezó a quererle.",
-          "translationRu": "Сначала для неё было захватывающим иметь ухажёра, а потом она начала его любить.",
-          "original": "First of all it had been an excitement for her to have a fellow and then she had begun to like him."
+          "id": "sent-178",
+          "text": "Al principio",
+          "translationRu": "Сначала",
+          "original": "First of all"
         },
         {
-          "id": "sent-080",
-          "text": "Él tenía historias de países lejanos.",
-          "translationRu": "У него были истории о далёких странах.",
-          "original": "He had tales of distant countries."
+          "id": "sent-179",
+          "text": "para ella fue emocionante",
+          "translationRu": "для неё было захватывающим",
+          "original": "it had been an excitement for her"
         },
         {
-          "id": "sent-081",
-          "text": "Había empezado a trabajar como grumete con una libra al mes en un barco de la Línea Allan que iba a Canadá.",
-          "translationRu": "Он начинал юнгой за фунт в месяц на корабле компании «Аллан», шедшем в Канаду.",
-          "original": "He had started as a deck boy at a pound a month on a ship of the Allan Line going out to Canada."
+          "id": "sent-180",
+          "text": "tener un novio,",
+          "translationRu": "иметь ухажёра,",
+          "original": "to have a fellow"
         },
         {
-          "id": "sent-082",
-          "text": "Le dijo los nombres de los barcos en los que había navegado y los nombres de los diferentes servicios.",
-          "translationRu": "Он называл ей названия кораблей, на которых плавал, и названия разных маршрутов.",
-          "original": "He told her the names of the ships he had been on and the names of the different services."
+          "id": "sent-181",
+          "text": "y luego",
+          "translationRu": "а потом",
+          "original": "and then"
         },
         {
-          "id": "sent-083",
-          "text": "Había navegado por el Estrecho de Magallanes y le contó historias de los terribles patagones.",
-          "translationRu": "Он проходил через Магелланов пролив и рассказывал ей истории об ужасных патагонцах.",
-          "original": "He had sailed through the Straits of Magellan and he told her stories of the terrible Patagonians."
+          "id": "sent-182",
+          "text": "empezó a quererle.",
+          "translationRu": "она начала его любить.",
+          "original": "she had begun to like him."
         },
         {
-          "id": "sent-084",
-          "text": "Dijo que le había ido bien en Buenos Aires y que había vuelto al viejo país solo de vacaciones.",
-          "translationRu": "Он говорил, что устроился в Буэнос-Айресе и приехал на родину просто в отпуск.",
-          "original": "He had fallen on his feet in Buenos Ayres, he said, and had come over to the old country just for a holiday."
+          "id": "sent-183",
+          "text": "Él tenía historias",
+          "translationRu": "У него были истории",
+          "original": "He had tales"
         },
         {
-          "id": "sent-085",
-          "text": "Naturalmente, su padre había descubierto la relación y le había prohibido tener cualquier trato con él.",
-          "translationRu": "Разумеется, отец узнал об их отношениях и запретил ей иметь с ним какие-либо дела.",
-          "original": "Of course, her father had found out the affair and had forbidden her to have anything to say to him."
+          "id": "sent-184",
+          "text": "de países lejanos.",
+          "translationRu": "о далёких странах.",
+          "original": "of distant countries."
         },
         {
-          "id": "sent-086",
-          "text": "—Conozco a esos marineros —dijo.",
-          "translationRu": "— Я знаю этих моряков, — сказал он.",
-          "original": "'I know these sailor chaps,' he said."
+          "id": "sent-185",
+          "text": "Había empezado a trabajar como grumete",
+          "translationRu": "Он начинал юнгой",
+          "original": "He had started as a deck boy"
         },
         {
-          "id": "sent-087",
-          "text": "Un día su padre se peleó con Frank y después de eso ella tuvo que encontrarse con su amado en secreto.",
-          "translationRu": "Однажды отец поссорился с Фрэнком, и после этого ей пришлось встречаться со своим возлюбленным тайно.",
-          "original": "One day he had quarrelled with Frank and after that she had to meet her lover secretly."
+          "id": "sent-186",
+          "text": "con una libra al mes",
+          "translationRu": "за фунт в месяц",
+          "original": "at a pound a month"
+        },
+        {
+          "id": "sent-187",
+          "text": "en un barco de la Línea Allan",
+          "translationRu": "на корабле компании «Аллан»,",
+          "original": "on a ship of the Allan Line"
+        },
+        {
+          "id": "sent-188",
+          "text": "que iba a Canadá.",
+          "translationRu": "шедшем в Канаду.",
+          "original": "going out to Canada."
+        },
+        {
+          "id": "sent-189",
+          "text": "Le dijo los nombres de los barcos",
+          "translationRu": "Он называл ей названия кораблей,",
+          "original": "He told her the names of the ships"
+        },
+        {
+          "id": "sent-190",
+          "text": "en los que había navegado",
+          "translationRu": "на которых плавал,",
+          "original": "he had been on"
+        },
+        {
+          "id": "sent-191",
+          "text": "y los nombres de los diferentes servicios.",
+          "translationRu": "и названия разных маршрутов.",
+          "original": "and the names of the different services."
+        },
+        {
+          "id": "sent-192",
+          "text": "Había navegado por el Estrecho de Magallanes",
+          "translationRu": "Он проходил через Магелланов пролив",
+          "original": "He had sailed through the Straits of Magellan"
+        },
+        {
+          "id": "sent-193",
+          "text": "y le contó historias",
+          "translationRu": "и рассказывал ей истории",
+          "original": "and he told her stories"
+        },
+        {
+          "id": "sent-194",
+          "text": "de los terribles patagones.",
+          "translationRu": "об ужасных патагонцах.",
+          "original": "of the terrible Patagonians."
+        },
+        {
+          "id": "sent-195",
+          "text": "Dijo que le había ido bien en Buenos Aires",
+          "translationRu": "Он говорил, что устроился в Буэнос-Айресе",
+          "original": "He had fallen on his feet in Buenos Ayres, he said,"
+        },
+        {
+          "id": "sent-196",
+          "text": "y que había vuelto al viejo país",
+          "translationRu": "и приехал на родину",
+          "original": "and had come over to the old country"
+        },
+        {
+          "id": "sent-197",
+          "text": "solo de vacaciones.",
+          "translationRu": "просто в отпуск.",
+          "original": "just for a holiday."
+        },
+        {
+          "id": "sent-198",
+          "text": "Naturalmente,",
+          "translationRu": "Разумеется,",
+          "original": "Of course,"
+        },
+        {
+          "id": "sent-199",
+          "text": "su padre había descubierto la relación",
+          "translationRu": "отец узнал об их отношениях",
+          "original": "her father had found out the affair"
+        },
+        {
+          "id": "sent-200",
+          "text": "y le había prohibido",
+          "translationRu": "и запретил ей",
+          "original": "and had forbidden her"
+        },
+        {
+          "id": "sent-201",
+          "text": "tener cualquier trato con él.",
+          "translationRu": "иметь с ним какие-либо дела.",
+          "original": "to have anything to say to him."
+        },
+        {
+          "id": "sent-202",
+          "text": "—Conozco a esos marineros",
+          "translationRu": "— Я знаю этих моряков,",
+          "original": "'I know these sailor chaps,'"
+        },
+        {
+          "id": "sent-203",
+          "text": "—dijo.",
+          "translationRu": "— сказал он.",
+          "original": "he said."
+        },
+        {
+          "id": "sent-204",
+          "text": "Un día",
+          "translationRu": "Однажды",
+          "original": "One day"
+        },
+        {
+          "id": "sent-205",
+          "text": "su padre se peleó con Frank",
+          "translationRu": "отец поссорился с Фрэнком,",
+          "original": "he had quarrelled with Frank"
+        },
+        {
+          "id": "sent-206",
+          "text": "y después de eso",
+          "translationRu": "и после этого",
+          "original": "and after that"
+        },
+        {
+          "id": "sent-207",
+          "text": "ella tuvo que encontrarse con su amado",
+          "translationRu": "ей пришлось встречаться со своим возлюбленным",
+          "original": "she had to meet her lover"
+        },
+        {
+          "id": "sent-208",
+          "text": "en secreto.",
+          "translationRu": "тайно.",
+          "original": "secretly."
         }
       ]
     },
@@ -564,64 +1286,160 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-088",
-          "text": "La tarde se hizo más oscura en la avenida.",
-          "translationRu": "Вечер сгустился над авеню.",
-          "original": "The evening deepened in the avenue."
+          "id": "sent-209",
+          "text": "La tarde se hizo más oscura",
+          "translationRu": "Вечер сгустился",
+          "original": "The evening deepened"
         },
         {
-          "id": "sent-089",
-          "text": "El blanco de dos cartas en su regazo se volvió borroso.",
-          "translationRu": "Белизна двух писем у неё на коленях стала расплываться.",
-          "original": "The white of two letters in her lap grew indistinct."
+          "id": "sent-210",
+          "text": "en la avenida.",
+          "translationRu": "над авеню.",
+          "original": "in the avenue."
         },
         {
-          "id": "sent-090",
-          "text": "Una era para Harry y la otra era para su padre.",
-          "translationRu": "Одно было для Гарри, другое — для отца.",
-          "original": "One was to Harry; the other was to her father."
+          "id": "sent-211",
+          "text": "El blanco de dos cartas",
+          "translationRu": "Белизна двух писем",
+          "original": "The white of two letters"
         },
         {
-          "id": "sent-091",
-          "text": "Ernest había sido su favorito, pero también quería a Harry.",
-          "translationRu": "Эрнест был её любимцем, но и Гарри она тоже любила.",
-          "original": "Ernest had been her favourite but she liked Harry too."
+          "id": "sent-212",
+          "text": "en su regazo",
+          "translationRu": "у неё на коленях",
+          "original": "in her lap"
         },
         {
-          "id": "sent-092",
-          "text": "Su padre estaba envejeciendo últimamente, ella lo notaba.",
-          "translationRu": "Отец в последнее время старел — она это замечала.",
-          "original": "Her father was becoming old lately, she noticed;"
+          "id": "sent-213",
+          "text": "se volvió borroso.",
+          "translationRu": "стала расплываться.",
+          "original": "grew indistinct."
         },
         {
-          "id": "sent-093",
+          "id": "sent-214",
+          "text": "Una era para Harry",
+          "translationRu": "Одно было для Гарри,",
+          "original": "One was to Harry;"
+        },
+        {
+          "id": "sent-215",
+          "text": "y la otra era para su padre.",
+          "translationRu": "другое — для отца.",
+          "original": "the other was to her father."
+        },
+        {
+          "id": "sent-216",
+          "text": "Ernest había sido su favorito,",
+          "translationRu": "Эрнест был её любимцем,",
+          "original": "Ernest had been her favourite"
+        },
+        {
+          "id": "sent-217",
+          "text": "pero también quería a Harry.",
+          "translationRu": "но и Гарри она тоже любила.",
+          "original": "but she liked Harry too."
+        },
+        {
+          "id": "sent-218",
+          "text": "Su padre estaba envejeciendo últimamente,",
+          "translationRu": "Отец в последнее время старел —",
+          "original": "Her father was becoming old lately,"
+        },
+        {
+          "id": "sent-219",
+          "text": "ella lo notaba.",
+          "translationRu": "она это замечала.",
+          "original": "she noticed;"
+        },
+        {
+          "id": "sent-220",
           "text": "Él la echaría de menos.",
           "translationRu": "Он будет скучать по ней.",
           "original": "he would miss her."
         },
         {
-          "id": "sent-094",
-          "text": "A veces él podía ser muy agradable.",
-          "translationRu": "Иногда он мог быть очень добрым.",
-          "original": "Sometimes he could be very nice."
+          "id": "sent-221",
+          "text": "A veces",
+          "translationRu": "Иногда",
+          "original": "Sometimes"
         },
         {
-          "id": "sent-095",
-          "text": "No hacía mucho, cuando ella estuvo enferma en cama un día, él le había leído un cuento de fantasmas y le había hecho tostadas junto al fuego.",
-          "translationRu": "Недавно, когда она целый день пролежала в постели больная, он читал ей рассказ о привидениях и делал для неё тосты у огня.",
-          "original": "Not long before, when she had been laid up for a day, he had read her out a ghost story and made toast for her at the fire."
+          "id": "sent-222",
+          "text": "él podía ser muy agradable.",
+          "translationRu": "он мог быть очень добрым.",
+          "original": "he could be very nice."
         },
         {
-          "id": "sent-096",
-          "text": "Otro día, cuando su madre estaba viva, todos habían ido de picnic a la Colina de Howth.",
-          "translationRu": "В другой раз, когда мать ещё была жива, все они ходили на пикник на холм Хоут.",
-          "original": "Another day, when their mother was alive, they had all gone for a picnic to the Hill of Howth."
+          "id": "sent-223",
+          "text": "No hacía mucho,",
+          "translationRu": "Недавно,",
+          "original": "Not long before,"
         },
         {
-          "id": "sent-097",
-          "text": "Ella recordaba a su padre poniéndose el sombrero de su madre para hacer reír a los niños.",
-          "translationRu": "Она помнила, как отец надел шляпу матери, чтобы рассмешить детей.",
-          "original": "She remembered her father putting on her mother's bonnet to make the children laugh."
+          "id": "sent-224",
+          "text": "cuando ella estuvo enferma en cama un día,",
+          "translationRu": "когда она целый день пролежала в постели больная,",
+          "original": "when she had been laid up for a day,"
+        },
+        {
+          "id": "sent-225",
+          "text": "él le había leído un cuento de fantasmas",
+          "translationRu": "он читал ей рассказ о привидениях",
+          "original": "he had read her out a ghost story"
+        },
+        {
+          "id": "sent-226",
+          "text": "y le había hecho tostadas",
+          "translationRu": "и делал для неё тосты",
+          "original": "and made toast for her"
+        },
+        {
+          "id": "sent-227",
+          "text": "junto al fuego.",
+          "translationRu": "у огня.",
+          "original": "at the fire."
+        },
+        {
+          "id": "sent-228",
+          "text": "Otro día,",
+          "translationRu": "В другой раз,",
+          "original": "Another day,"
+        },
+        {
+          "id": "sent-229",
+          "text": "cuando su madre estaba viva,",
+          "translationRu": "когда мать ещё была жива,",
+          "original": "when their mother was alive,"
+        },
+        {
+          "id": "sent-230",
+          "text": "todos habían ido de picnic",
+          "translationRu": "все они ходили на пикник",
+          "original": "they had all gone for a picnic"
+        },
+        {
+          "id": "sent-231",
+          "text": "a la Colina de Howth.",
+          "translationRu": "на холм Хоут.",
+          "original": "to the Hill of Howth."
+        },
+        {
+          "id": "sent-232",
+          "text": "Ella recordaba a su padre",
+          "translationRu": "Она помнила, как отец",
+          "original": "She remembered her father"
+        },
+        {
+          "id": "sent-233",
+          "text": "poniéndose el sombrero de su madre",
+          "translationRu": "надел шляпу матери,",
+          "original": "putting on her mother's bonnet"
+        },
+        {
+          "id": "sent-234",
+          "text": "para hacer reír a los niños.",
+          "translationRu": "чтобы рассмешить детей.",
+          "original": "to make the children laugh."
         }
       ]
     },
@@ -629,64 +1447,166 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-098",
-          "text": "Su tiempo se acababa, pero ella seguía sentada junto a la ventana, apoyando la cabeza contra la cortina e inhalando el olor del cretón polvoriento.",
-          "translationRu": "Время уходило, но она продолжала сидеть у окна, прислонившись головой к занавеске и вдыхая запах пыльного ситца.",
-          "original": "Her time was running out but she continued to sit by the window, leaning her head against the window curtain, inhaling the odour of dusty cretonne."
+          "id": "sent-235",
+          "text": "Su tiempo se acababa,",
+          "translationRu": "Время уходило,",
+          "original": "Her time was running out"
         },
         {
-          "id": "sent-099",
-          "text": "Desde lejos, en la avenida, escuchaba un organillo tocando.",
-          "translationRu": "Издалека, с авеню, доносился звук шарманки.",
-          "original": "Down far in the avenue she could hear a street organ playing."
+          "id": "sent-236",
+          "text": "pero ella seguía sentada junto a la ventana,",
+          "translationRu": "но она продолжала сидеть у окна,",
+          "original": "but she continued to sit by the window,"
         },
         {
-          "id": "sent-100",
+          "id": "sent-237",
+          "text": "apoyando la cabeza contra la cortina",
+          "translationRu": "прислонившись головой к занавеске",
+          "original": "leaning her head against the window curtain,"
+        },
+        {
+          "id": "sent-238",
+          "text": "e inhalando el olor del cretón polvoriento.",
+          "translationRu": "и вдыхая запах пыльного ситца.",
+          "original": "inhaling the odour of dusty cretonne."
+        },
+        {
+          "id": "sent-239",
+          "text": "Desde lejos, en la avenida,",
+          "translationRu": "Издалека, с авеню,",
+          "original": "Down far in the avenue"
+        },
+        {
+          "id": "sent-240",
+          "text": "escuchaba un organillo tocando.",
+          "translationRu": "доносился звук шарманки.",
+          "original": "she could hear a street organ playing."
+        },
+        {
+          "id": "sent-241",
           "text": "Conocía la melodía.",
           "translationRu": "Она узнала мелодию.",
           "original": "She knew the air."
         },
         {
-          "id": "sent-101",
-          "text": "Era extraño que llegara precisamente esa noche para recordarle la promesa que le había hecho a su madre: mantener el hogar unido mientras pudiera.",
-          "translationRu": "Странно, что именно этой ночью она пришла напомнить ей об обещании, данном матери: держать дом вместе так долго, как только сможет.",
-          "original": "Strange that it should come that very night to remind her of the promise to her mother, her promise to keep the home together as long as she could."
+          "id": "sent-242",
+          "text": "Era extraño",
+          "translationRu": "Странно,",
+          "original": "Strange"
         },
         {
-          "id": "sent-102",
-          "text": "Recordó la última noche de la enfermedad de su madre.",
-          "translationRu": "Она вспомнила последнюю ночь болезни матери.",
-          "original": "She remembered the last night of her mother's illness;"
+          "id": "sent-243",
+          "text": "que llegara precisamente esa noche",
+          "translationRu": "что именно этой ночью она пришла",
+          "original": "that it should come that very night"
         },
         {
-          "id": "sent-103",
-          "text": "Estaba de nuevo en la habitación oscura y cerrada al otro lado del pasillo.",
-          "translationRu": "Она снова была в тёмной душной комнате по ту сторону коридора.",
-          "original": "she was again in the close dark room at the other side of the hall"
+          "id": "sent-244",
+          "text": "para recordarle la promesa",
+          "translationRu": "напомнить ей об обещании,",
+          "original": "to remind her of the promise"
         },
         {
-          "id": "sent-104",
-          "text": "Desde fuera llegaba una melodía melancólica de Italia.",
-          "translationRu": "Снаружи доносилась меланхоличная итальянская мелодия.",
-          "original": "and outside she heard a melancholy air of Italy."
+          "id": "sent-245",
+          "text": "que le había hecho a su madre:",
+          "translationRu": "данном матери:",
+          "original": "to her mother, her promise"
         },
         {
-          "id": "sent-105",
-          "text": "Al organillero le habían dicho que se fuera y le habían dado seis peniques.",
-          "translationRu": "Шарманщику велели уйти и дали шесть пенсов.",
-          "original": "The organ-player had been ordered to go away and given sixpence."
+          "id": "sent-246",
+          "text": "mantener el hogar unido",
+          "translationRu": "держать дом вместе",
+          "original": "to keep the home together"
         },
         {
-          "id": "sent-106",
-          "text": "Recordó a su padre entrando orgulloso a la habitación del enfermo y diciendo:",
-          "translationRu": "Она вспомнила, как отец важно вошёл в комнату больной и сказал:",
-          "original": "She remembered her father strutting back into the sickroom saying:"
+          "id": "sent-247",
+          "text": "mientras pudiera.",
+          "translationRu": "так долго, как только сможет.",
+          "original": "as long as she could."
         },
         {
-          "id": "sent-107",
-          "text": "—¡Malditos italianos, viniendo aquí!",
-          "translationRu": "— Проклятые итальянцы, явились сюда!",
-          "original": "'Damned Italians! coming over here!'"
+          "id": "sent-248",
+          "text": "Recordó la última noche",
+          "translationRu": "Она вспомнила последнюю ночь",
+          "original": "She remembered the last night"
+        },
+        {
+          "id": "sent-249",
+          "text": "de la enfermedad de su madre.",
+          "translationRu": "болезни матери.",
+          "original": "of her mother's illness;"
+        },
+        {
+          "id": "sent-250",
+          "text": "Estaba de nuevo",
+          "translationRu": "Она снова была",
+          "original": "she was again"
+        },
+        {
+          "id": "sent-251",
+          "text": "en la habitación oscura y cerrada",
+          "translationRu": "в тёмной душной комнате",
+          "original": "in the close dark room"
+        },
+        {
+          "id": "sent-252",
+          "text": "al otro lado del pasillo.",
+          "translationRu": "по ту сторону коридора.",
+          "original": "at the other side of the hall"
+        },
+        {
+          "id": "sent-253",
+          "text": "Desde fuera llegaba",
+          "translationRu": "Снаружи доносилась",
+          "original": "and outside she heard"
+        },
+        {
+          "id": "sent-254",
+          "text": "una melodía melancólica de Italia.",
+          "translationRu": "меланхоличная итальянская мелодия.",
+          "original": "a melancholy air of Italy."
+        },
+        {
+          "id": "sent-255",
+          "text": "Al organillero le habían dicho que se fuera",
+          "translationRu": "Шарманщику велели уйти",
+          "original": "The organ-player had been ordered to go away"
+        },
+        {
+          "id": "sent-256",
+          "text": "y le habían dado seis peniques.",
+          "translationRu": "и дали шесть пенсов.",
+          "original": "and given sixpence."
+        },
+        {
+          "id": "sent-257",
+          "text": "Recordó a su padre",
+          "translationRu": "Она вспомнила, как отец",
+          "original": "She remembered her father"
+        },
+        {
+          "id": "sent-258",
+          "text": "entrando orgulloso a la habitación del enfermo",
+          "translationRu": "важно вошёл в комнату больной",
+          "original": "strutting back into the sickroom"
+        },
+        {
+          "id": "sent-259",
+          "text": "y diciendo:",
+          "translationRu": "и сказал:",
+          "original": "saying:"
+        },
+        {
+          "id": "sent-260",
+          "text": "—¡Malditos italianos,",
+          "translationRu": "— Проклятые итальянцы,",
+          "original": "'Damned Italians!"
+        },
+        {
+          "id": "sent-261",
+          "text": "viniendo aquí!",
+          "translationRu": "явились сюда!",
+          "original": "coming over here!'"
         }
       ]
     },
@@ -694,25 +1614,66 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-108",
-          "text": "Mientras pensaba en eso, la imagen triste de la vida de su madre cayó sobre ella con toda su fuerza: aquella vida de sacrificios ordinarios que terminó en locura.",
-          "translationRu": "Пока она думала об этом, жалкий образ жизни матери захлестнул её целиком: та жизнь обычных жертв, закончившаяся безумием.",
-          "original": "As she mused the pitiful vision of her mother's life laid its spell on the very quick of her being—that life of commonplace sacrifices closing in final craziness."
+          "id": "sent-262",
+          "text": "Mientras pensaba en eso,",
+          "translationRu": "Пока она думала об этом,",
+          "original": "As she mused"
         },
         {
-          "id": "sent-109",
-          "text": "Tembló cuando escuchó de nuevo la voz de su madre repitiendo constantemente con insistencia tonta:",
-          "translationRu": "Она задрожала, снова услышав голос матери, снова и снова повторявший с безумной настойчивостью:",
-          "original": "She trembled as she heard again her mother's voice saying constantly with foolish insistence:"
+          "id": "sent-263",
+          "text": "la imagen triste de la vida de su madre",
+          "translationRu": "жалкий образ жизни матери",
+          "original": "the pitiful vision of her mother's life"
         },
         {
-          "id": "sent-110",
+          "id": "sent-264",
+          "text": "cayó sobre ella con toda su fuerza:",
+          "translationRu": "захлестнул её целиком:",
+          "original": "laid its spell on the very quick of her being—that life of commonplace sacrifices"
+        },
+        {
+          "id": "sent-265",
+          "text": "aquella vida de sacrificios ordinarios",
+          "translationRu": "та жизнь обычных жертв,"
+        },
+        {
+          "id": "sent-266",
+          "text": "que terminó en locura.",
+          "translationRu": "закончившаяся безумием.",
+          "original": "closing in final craziness."
+        },
+        {
+          "id": "sent-267",
+          "text": "Tembló",
+          "translationRu": "Она задрожала,",
+          "original": "She trembled"
+        },
+        {
+          "id": "sent-268",
+          "text": "cuando escuchó de nuevo la voz de su madre",
+          "translationRu": "снова услышав голос матери,",
+          "original": "as she heard again her mother's voice"
+        },
+        {
+          "id": "sent-269",
+          "text": "repitiendo constantemente",
+          "translationRu": "снова и снова повторявший",
+          "original": "saying constantly"
+        },
+        {
+          "id": "sent-270",
+          "text": "con insistencia tonta:",
+          "translationRu": "с безумной настойчивостью:",
+          "original": "with foolish insistence:"
+        },
+        {
+          "id": "sent-271",
           "text": "—¡Derevaun Seraun!",
           "translationRu": "— Дереваун Сераун!",
           "original": "'Derevaun Seraun!"
         },
         {
-          "id": "sent-111",
+          "id": "sent-272",
           "text": "¡Derevaun Seraun!",
           "translationRu": "Дереваун Сераун!",
           "original": "Derevaun Seraun!'"
@@ -723,61 +1684,79 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-112",
-          "text": "Ella se levantó de repente, movida por un impulso de terror.",
-          "translationRu": "Она вскочила внезапно, движимая порывом ужаса.",
-          "original": "She stood up in a sudden impulse of terror."
+          "id": "sent-273",
+          "text": "Ella se levantó de repente,",
+          "translationRu": "Она вскочила внезапно,",
+          "original": "She stood up"
         },
         {
-          "id": "sent-113",
+          "id": "sent-274",
+          "text": "movida por un impulso de terror.",
+          "translationRu": "движимая порывом ужаса.",
+          "original": "in a sudden impulse of terror."
+        },
+        {
+          "id": "sent-275",
           "text": "¡Escapar!",
           "translationRu": "Бежать!",
           "original": "Escape!"
         },
         {
-          "id": "sent-114",
+          "id": "sent-276",
           "text": "¡Tenía que escapar!",
           "translationRu": "Она должна бежать!",
           "original": "She must escape!"
         },
         {
-          "id": "sent-115",
+          "id": "sent-277",
           "text": "Frank la salvaría.",
           "translationRu": "Фрэнк спасёт её.",
           "original": "Frank would save her."
         },
         {
-          "id": "sent-116",
-          "text": "Él le daría una vida, quizás también amor.",
-          "translationRu": "Он даст ей жизнь, а может быть, и любовь.",
-          "original": "He would give her life, perhaps love, too."
+          "id": "sent-278",
+          "text": "Él le daría una vida,",
+          "translationRu": "Он даст ей жизнь,",
+          "original": "He would give her life,"
         },
         {
-          "id": "sent-117",
+          "id": "sent-279",
+          "text": "quizás también amor.",
+          "translationRu": "а может быть, и любовь.",
+          "original": "perhaps love, too."
+        },
+        {
+          "id": "sent-280",
           "text": "Pero ella quería vivir.",
           "translationRu": "Но она хотела жить.",
           "original": "But she wanted to live."
         },
         {
-          "id": "sent-118",
+          "id": "sent-281",
           "text": "¿Por qué debería ser infeliz?",
           "translationRu": "Почему она должна быть несчастной?",
           "original": "Why should she be unhappy?"
         },
         {
-          "id": "sent-119",
+          "id": "sent-282",
           "text": "Tenía derecho a la felicidad.",
           "translationRu": "Она имела право на счастье.",
           "original": "She had a right to happiness."
         },
         {
-          "id": "sent-120",
-          "text": "Frank la tomaría en sus brazos, la estrecharía contra él.",
-          "translationRu": "Фрэнк возьмёт её в объятия, прижмёт к себе.",
-          "original": "Frank would take her in his arms, fold her in his arms."
+          "id": "sent-283",
+          "text": "Frank la tomaría en sus brazos,",
+          "translationRu": "Фрэнк возьмёт её в объятия,",
+          "original": "Frank would take her in his arms,"
         },
         {
-          "id": "sent-121",
+          "id": "sent-284",
+          "text": "la estrecharía contra él.",
+          "translationRu": "прижмёт к себе.",
+          "original": "fold her in his arms."
+        },
+        {
+          "id": "sent-285",
           "text": "Él la salvaría.",
           "translationRu": "Он спасёт её.",
           "original": "He would save her."
@@ -788,76 +1767,172 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-122",
-          "text": "Ella estaba entre la multitud que se movía en la estación de North Wall.",
-          "translationRu": "Она стояла среди волнующейся толпы на станции Норт-Уолл.",
-          "original": "She stood among the swaying crowd in the station at the North Wall."
+          "id": "sent-286",
+          "text": "Ella estaba entre la multitud que se movía",
+          "translationRu": "Она стояла среди волнующейся толпы",
+          "original": "She stood among the swaying crowd"
         },
         {
-          "id": "sent-123",
+          "id": "sent-287",
+          "text": "en la estación de North Wall.",
+          "translationRu": "на станции Норт-Уолл.",
+          "original": "in the station at the North Wall."
+        },
+        {
+          "id": "sent-288",
           "text": "Él le sostenía la mano y ella sabía que le estaba hablando, diciéndole algo sobre el viaje una y otra vez.",
           "translationRu": "Он держал её за руку, и она знала, что он что-то говорит ей, снова и снова повторяя что-то о переезде.",
           "original": "He held her hand and she knew that he was speaking to her, saying something about the passage over and over again."
         },
         {
-          "id": "sent-124",
-          "text": "La estación estaba llena de soldados con bolsas marrones.",
-          "translationRu": "Станция была заполнена солдатами с коричневыми вещмешками.",
-          "original": "The station was full of soldiers with brown baggages."
+          "id": "sent-289",
+          "text": "La estación estaba llena de soldados",
+          "translationRu": "Станция была заполнена солдатами",
+          "original": "The station was full of soldiers"
         },
         {
-          "id": "sent-125",
-          "text": "A través de las grandes puertas de los almacenes ella vio por un momento la masa negra del barco junto al muelle, con los ojos de buey iluminados.",
-          "translationRu": "Сквозь широкие ворота складов она на мгновение увидела чёрную массу корабля у причала с освещёнными иллюминаторами.",
-          "original": "Through the wide doors of the sheds she caught a glimpse of the black mass of the boat, lying in beside the quay wall, with illumined portholes."
+          "id": "sent-290",
+          "text": "con bolsas marrones.",
+          "translationRu": "с коричневыми вещмешками.",
+          "original": "with brown baggages."
         },
         {
-          "id": "sent-126",
+          "id": "sent-291",
+          "text": "A través de las grandes puertas de los almacenes",
+          "translationRu": "Сквозь широкие ворота складов",
+          "original": "Through the wide doors of the sheds"
+        },
+        {
+          "id": "sent-292",
+          "text": "ella vio por un momento",
+          "translationRu": "она на мгновение увидела",
+          "original": "she caught a glimpse of"
+        },
+        {
+          "id": "sent-293",
+          "text": "la masa negra del barco",
+          "translationRu": "чёрную массу корабля",
+          "original": "the black mass of the boat,"
+        },
+        {
+          "id": "sent-294",
+          "text": "junto al muelle,",
+          "translationRu": "у причала",
+          "original": "lying in beside the quay wall,"
+        },
+        {
+          "id": "sent-295",
+          "text": "con los ojos de buey iluminados.",
+          "translationRu": "с освещёнными иллюминаторами.",
+          "original": "with illumined portholes."
+        },
+        {
+          "id": "sent-296",
           "text": "Ella no respondió nada.",
           "translationRu": "Она не отвечала ни слова.",
           "original": "She answered nothing."
         },
         {
-          "id": "sent-127",
-          "text": "Sentía la mejilla pálida y fría.",
-          "translationRu": "Она чувствовала, как щека стала бледной и холодной.",
-          "original": "She felt her cheek pale and cold"
+          "id": "sent-297",
+          "text": "Sentía la mejilla",
+          "translationRu": "Она чувствовала, как щека стала",
+          "original": "She felt her cheek"
         },
         {
-          "id": "sent-128",
-          "text": "Desde un laberinto de angustia rezó a Dios para que la guiara, para que le mostrara cuál era su deber.",
-          "translationRu": "Из глубины смятения она молилась Богу, чтобы Он направил её, показал, в чём её долг.",
-          "original": "and, out of a maze of distress, she prayed to God to direct her, to show her what was her duty."
+          "id": "sent-298",
+          "text": "pálida y fría.",
+          "translationRu": "бледной и холодной.",
+          "original": "pale and cold"
         },
         {
-          "id": "sent-129",
-          "text": "El barco dio un silbido largo y triste en la niebla.",
-          "translationRu": "Корабль пронзительно и протяжно загудел в тумане.",
-          "original": "The boat blew a long mournful whistle into the mist."
+          "id": "sent-299",
+          "text": "Desde un laberinto de angustia",
+          "translationRu": "Из глубины смятения",
+          "original": "and, out of a maze of distress,"
         },
         {
-          "id": "sent-130",
-          "text": "Si ella se iba, mañana estaría en el mar con Frank, navegando hacia Buenos Aires.",
-          "translationRu": "Если она уедет, завтра она будет в море вместе с Фрэнком, плывя в Буэнос-Айрес.",
-          "original": "If she went, tomorrow she would be on the sea with Frank, steaming towards Buenos Ayres."
+          "id": "sent-300",
+          "text": "rezó a Dios",
+          "translationRu": "она молилась Богу,",
+          "original": "she prayed to God"
         },
         {
-          "id": "sent-131",
+          "id": "sent-301",
+          "text": "para que la guiara,",
+          "translationRu": "чтобы Он направил её,",
+          "original": "to direct her,"
+        },
+        {
+          "id": "sent-302",
+          "text": "para que le mostrara cuál era su deber.",
+          "translationRu": "показал, в чём её долг.",
+          "original": "to show her what was her duty."
+        },
+        {
+          "id": "sent-303",
+          "text": "El barco dio un silbido largo y triste",
+          "translationRu": "Корабль пронзительно и протяжно загудел",
+          "original": "The boat blew a long mournful whistle"
+        },
+        {
+          "id": "sent-304",
+          "text": "en la niebla.",
+          "translationRu": "в тумане.",
+          "original": "into the mist."
+        },
+        {
+          "id": "sent-305",
+          "text": "Si ella se iba,",
+          "translationRu": "Если она уедет,",
+          "original": "If she went,"
+        },
+        {
+          "id": "sent-306",
+          "text": "mañana estaría en el mar con Frank,",
+          "translationRu": "завтра она будет в море вместе с Фрэнком,",
+          "original": "tomorrow she would be on the sea with Frank,"
+        },
+        {
+          "id": "sent-307",
+          "text": "navegando hacia Buenos Aires.",
+          "translationRu": "плывя в Буэнос-Айрес.",
+          "original": "steaming towards Buenos Ayres."
+        },
+        {
+          "id": "sent-308",
           "text": "El billete ya estaba comprado.",
           "translationRu": "Билеты уже были куплены.",
           "original": "Their passage had been booked."
         },
         {
-          "id": "sent-132",
-          "text": "¿Podía echarse atrás después de todo lo que él había hecho por ella?",
-          "translationRu": "Могла ли она отступить после всего, что он сделал для неё?",
-          "original": "Could she still draw back after all he had done for her?"
+          "id": "sent-309",
+          "text": "¿Podía echarse atrás",
+          "translationRu": "Могла ли она отступить",
+          "original": "Could she still draw back"
         },
         {
-          "id": "sent-133",
-          "text": "Su angustia le provocó náuseas y ella seguía moviendo los labios en una oración silenciosa y fervorosa.",
-          "translationRu": "Её тревога вызвала тошноту, и она продолжала беззвучно шевелить губами в горячей молитве.",
-          "original": "Her distress awoke a nausea in her body and she kept moving her lips in silent fervent prayer."
+          "id": "sent-310",
+          "text": "después de todo lo que él había hecho por ella?",
+          "translationRu": "после всего, что он сделал для неё?",
+          "original": "after all he had done for her?"
+        },
+        {
+          "id": "sent-311",
+          "text": "Su angustia le provocó náuseas",
+          "translationRu": "Её тревога вызвала тошноту,",
+          "original": "Her distress awoke a nausea in her body"
+        },
+        {
+          "id": "sent-312",
+          "text": "y ella seguía moviendo los labios",
+          "translationRu": "и она продолжала беззвучно шевелить губами",
+          "original": "and she kept moving her lips"
+        },
+        {
+          "id": "sent-313",
+          "text": "en una oración silenciosa y fervorosa.",
+          "translationRu": "в горячей молитве.",
+          "original": "in silent fervent prayer."
         }
       ]
     },
@@ -865,19 +1940,19 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-134",
+          "id": "sent-314",
           "text": "Una campana resonó en su corazón.",
           "translationRu": "Колокол ударил у неё в сердце.",
           "original": "A bell clanged upon her heart."
         },
         {
-          "id": "sent-135",
+          "id": "sent-315",
           "text": "Sintió que él le agarraba la mano:",
           "translationRu": "Она почувствовала, как он схватил её за руку:",
           "original": "She felt him seize her hand:"
         },
         {
-          "id": "sent-136",
+          "id": "sent-316",
           "text": "—¡Ven!",
           "translationRu": "— Идём!",
           "original": "'Come!'"
@@ -888,73 +1963,103 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-137",
-          "text": "Todos los mares del mundo se agitaron alrededor de su corazón.",
-          "translationRu": "Все моря мира заволновались вокруг её сердца.",
-          "original": "All the seas of the world tumbled about her heart."
+          "id": "sent-317",
+          "text": "Todos los mares del mundo",
+          "translationRu": "Все моря мира",
+          "original": "All the seas of the world"
         },
         {
-          "id": "sent-138",
-          "text": "Él la arrastraba hacia ellos: la ahogaría.",
-          "translationRu": "Он тянул её к ним: он утопит её.",
-          "original": "He was drawing her into them: he would drown her."
+          "id": "sent-318",
+          "text": "se agitaron alrededor de su corazón.",
+          "translationRu": "заволновались вокруг её сердца.",
+          "original": "tumbled about her heart."
         },
         {
-          "id": "sent-139",
-          "text": "Ella agarró con las dos manos la barandilla de hierro.",
-          "translationRu": "Она схватилась обеими руками за железные перила.",
-          "original": "She gripped with both hands at the iron railing."
+          "id": "sent-319",
+          "text": "Él la arrastraba hacia ellos:",
+          "translationRu": "Он тянул её к ним:",
+          "original": "He was drawing her into them:"
         },
         {
-          "id": "sent-140",
+          "id": "sent-320",
+          "text": "la ahogaría.",
+          "translationRu": "он утопит её.",
+          "original": "he would drown her."
+        },
+        {
+          "id": "sent-321",
+          "text": "Ella agarró con las dos manos",
+          "translationRu": "Она схватилась обеими руками",
+          "original": "She gripped with both hands"
+        },
+        {
+          "id": "sent-322",
+          "text": "la barandilla de hierro.",
+          "translationRu": "за железные перила.",
+          "original": "at the iron railing."
+        },
+        {
+          "id": "sent-323",
           "text": "—¡Ven!",
           "translationRu": "— Идём!",
           "original": "'Come!'"
         },
         {
-          "id": "sent-141",
+          "id": "sent-324",
           "text": "¡No!",
           "translationRu": "Нет!",
           "original": "No!"
         },
         {
-          "id": "sent-142",
+          "id": "sent-325",
           "text": "¡No!",
           "translationRu": "Нет!",
           "original": "No!"
         },
         {
-          "id": "sent-143",
+          "id": "sent-326",
           "text": "¡No!",
           "translationRu": "Нет!",
           "original": "No!"
         },
         {
-          "id": "sent-144",
+          "id": "sent-327",
           "text": "Era imposible.",
           "translationRu": "Это было невозможно.",
           "original": "It was impossible."
         },
         {
-          "id": "sent-145",
-          "text": "Sus manos se aferraron al hierro con frenesí.",
-          "translationRu": "Её руки вцепились в железо в отчаянии.",
-          "original": "Her hands clutched the iron in frenzy."
+          "id": "sent-328",
+          "text": "Sus manos se aferraron al hierro",
+          "translationRu": "Её руки вцепились в железо",
+          "original": "Her hands clutched the iron"
         },
         {
-          "id": "sent-146",
-          "text": "En medio de los mares ella lanzó un grito de angustia.",
-          "translationRu": "Среди морей она издала крик отчаяния.",
-          "original": "Amid the seas she sent a cry of anguish!"
+          "id": "sent-329",
+          "text": "con frenesí.",
+          "translationRu": "в отчаянии.",
+          "original": "in frenzy."
         },
         {
-          "id": "sent-147",
+          "id": "sent-330",
+          "text": "En medio de los mares",
+          "translationRu": "Среди морей",
+          "original": "Amid the seas"
+        },
+        {
+          "id": "sent-331",
+          "text": "ella lanzó un grito de angustia.",
+          "translationRu": "она издала крик отчаяния.",
+          "original": "she sent a cry of anguish!"
+        },
+        {
+          "id": "sent-332",
           "text": "—¡Eveline!",
           "translationRu": "— Эвелина!",
           "original": "'Eveline!"
         },
         {
-          "id": "sent-148",
+          "id": "sent-333",
           "text": "¡Evvy!",
           "translationRu": "Эвви!",
           "original": "Evvy!'"
@@ -965,28 +2070,70 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-149",
-          "text": "Él corrió más allá de la barrera y la llamó para que le siguiera.",
-          "translationRu": "Он бросился за барьер и позвал её следовать за ним.",
-          "original": "He rushed beyond the barrier and called to her to follow."
+          "id": "sent-334",
+          "text": "Él corrió más allá de la barrera",
+          "translationRu": "Он бросился за барьер",
+          "original": "He rushed beyond the barrier"
         },
         {
-          "id": "sent-150",
-          "text": "Le gritaron que siguiera, pero él la seguía llamando.",
-          "translationRu": "Ему кричали, чтобы шёл, но он продолжал звать её.",
-          "original": "He was shouted at to go on but he still called to her."
+          "id": "sent-335",
+          "text": "y la llamó para que le siguiera.",
+          "translationRu": "и позвал её следовать за ним.",
+          "original": "and called to her to follow."
         },
         {
-          "id": "sent-151",
-          "text": "Ella le mostró su rostro blanco, pasivo, como un animal indefenso.",
-          "translationRu": "Она обратила к нему своё белое, безжизненное лицо — как беспомощное животное.",
-          "original": "She set her white face to him, passive, like a helpless animal."
+          "id": "sent-336",
+          "text": "Le gritaron que siguiera,",
+          "translationRu": "Ему кричали, чтобы шёл,",
+          "original": "He was shouted at to go on"
         },
         {
-          "id": "sent-152",
-          "text": "Sus ojos no le dieron ninguna señal de amor, ni de despedida, ni de reconocimiento.",
-          "translationRu": "Её глаза не выразили ни любви, ни прощания, ни узнавания.",
-          "original": "Her eyes gave him no sign of love or farewell or recognition."
+          "id": "sent-337",
+          "text": "pero él la seguía llamando.",
+          "translationRu": "но он продолжал звать её.",
+          "original": "but he still called to her."
+        },
+        {
+          "id": "sent-338",
+          "text": "Ella le mostró su rostro",
+          "translationRu": "Она обратила к нему своё",
+          "original": "She set her white face to him,"
+        },
+        {
+          "id": "sent-339",
+          "text": "blanco, pasivo,",
+          "translationRu": "белое, безжизненное лицо —",
+          "original": "passive,"
+        },
+        {
+          "id": "sent-340",
+          "text": "como un animal indefenso.",
+          "translationRu": "как беспомощное животное.",
+          "original": "like a helpless animal."
+        },
+        {
+          "id": "sent-341",
+          "text": "Sus ojos no le dieron ninguna señal",
+          "translationRu": "Её глаза не выразили",
+          "original": "Her eyes gave him no sign"
+        },
+        {
+          "id": "sent-342",
+          "text": "de amor,",
+          "translationRu": "ни любви,",
+          "original": "of love"
+        },
+        {
+          "id": "sent-343",
+          "text": "ni de despedida,",
+          "translationRu": "ни прощания,",
+          "original": "or farewell"
+        },
+        {
+          "id": "sent-344",
+          "text": "ni de reconocimiento.",
+          "translationRu": "ни узнавания.",
+          "original": "or recognition."
         }
       ]
     }
