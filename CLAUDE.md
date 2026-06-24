@@ -99,8 +99,15 @@ boundary** so the three stay aligned (concatenating the fragments reproduces the
 language). Concrete example (clean clause split): «El padre Andréi, arcipreste de la catedral, hablaba
 con la madre de Nadya.» / «Отец Андрей, протоиерей собора, разговаривал с матерью Нади.» →
 fragment 1 «El padre Andréi, arcipreste de la catedral,» / «Отец Андрей, протоиерей собора,» +
-fragment 2 «hablaba con la madre de Nadya.» / «разговаривал с матерью Нади.». First done as a test on
-`the-red-headed-league` (2026-06-24).
+fragment 2 «hablaba con la madre de Nadya.» / «разговаривал с матерью Нади.». **Prefer FINE
+granularity:** cut at EVERY boundary that exists in all three languages, yielding compact phrases — a
+speech tag becomes its own fragment («…», / dijo, / «…»), and a multi-clause period splits at each
+`que`/`o que`/`por`/`como`/`y`/`pero`/`:`/`;`. E.g. «Parecía completamente increíble | que alguien
+pudiera hacer tal testamento, | o que fueran a pagar tal suma | por algo tan simple | como copiar la
+Enciclopedia Británica.» → 5 fragments (RU and EN cut at the SAME 5 points). The hard rule: every cut
+must land at the same boundary in es, ru AND en so concatenation reproduces each verbatim; where word
+order diverges across languages, keep those parts together. First tested on `the-red-headed-league`,
+refined to finer granularity on `twenty-six-men-and-a-girl` (2026-06-24).
 **The `original` field = VERBATIM source (CRITICAL, 2026-06-24).** It is the EXACT public-domain source
 text (English/German/Italian/…) — copied word-for-word, **never** a paraphrase and **never** "simple
 English at the same level as the translation". **Full-coverage / tiling rule:** within a level's chapter,
