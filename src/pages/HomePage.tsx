@@ -36,7 +36,8 @@ export function HomePage() {
   const [level, setLevel] = useState<Level | 'all'>('all')
   const [lang, setLang] = useState<Language | 'all'>('all')
   const [status, setStatus] = useState<ReadingStatus | 'all'>('all')
-  const [sort, setSort] = useState<Sort>('default')
+  // По умолчанию показываем сначала короткие рассказы (по числу слов, по возрастанию).
+  const [sort, setSort] = useState<Sort>('wordsAsc')
 
   const cont = store.lastOpened
   const contWork = cont ? catalog?.works.find((w) => w.id === cont.workId) : undefined
@@ -211,9 +212,9 @@ export function HomePage() {
                   onChange={(e) => setSort(e.target.value as Sort)}
                   aria-label="Сортировка"
                 >
+                  <option value="wordsAsc">сначала короткие</option>
+                  <option value="wordsDesc">сначала длинные</option>
                   <option value="default">по автору</option>
-                  <option value="wordsAsc">слов ↑</option>
-                  <option value="wordsDesc">слов ↓</option>
                 </select>
               </label>
             </div>
