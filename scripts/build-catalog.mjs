@@ -68,6 +68,7 @@ for (const id of readdirSync(WORKS)) {
     genres: w.genres,
     synopsisRu: w.synopsisRu,
     ...(w.proofread ? { proofread: w.proofread } : {}),
+    ...(w.source ? { source: w.source } : {}),
     levels,
   }
   const normStr = JSON.stringify(norm, null, 2) + '\n'
@@ -96,6 +97,7 @@ for (const id of readdirSync(WORKS)) {
     availableLevels,
     chapters,
     words,
+    ...(w.source ? { source: w.source } : {}),
   })
 }
 

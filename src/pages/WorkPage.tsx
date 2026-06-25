@@ -126,6 +126,14 @@ export function WorkPage() {
                   ))}
                 </div>
               ) : null}
+              {work.source ? (
+                <div className="muted work-head__source">
+                  Источник:{' '}
+                  <a href={work.source.url} target="_blank" rel="noopener noreferrer">
+                    {work.source.name} ↗
+                  </a>
+                </div>
+              ) : null}
             </header>
 
             <section className="block">

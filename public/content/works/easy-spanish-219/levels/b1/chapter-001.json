@@ -1,0 +1,5440 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "easy-spanish-219",
+  "level": "b1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "¿Eres bueno en matemáticas?"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-002",
+          "text": "Hola, Harry.",
+          "translationRu": "Привет, Гарри."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-003",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-004",
+          "text": "Hola, Pau.",
+          "translationRu": "Привет, Пау."
+        },
+        {
+          "id": "sent-005",
+          "text": "¿Cómo estás?",
+          "translationRu": "Как ты?"
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-007",
+          "text": "Bien,",
+          "translationRu": "Хорошо,"
+        },
+        {
+          "id": "sent-008",
+          "text": "hace tiempo que no hacemos un podcast,",
+          "translationRu": "мы давно не записывали подкаст,"
+        },
+        {
+          "id": "sent-009",
+          "text": "¿no?",
+          "translationRu": "правда?"
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-010",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-011",
+          "text": "Sí, hace tiempo.",
+          "translationRu": "Да, давно."
+        },
+        {
+          "id": "sent-012",
+          "text": "Y hola a todo el mundo.",
+          "translationRu": "И всем привет."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-013",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-014",
+          "text": "Pues, a mí, me encanta estar contigo",
+          "translationRu": "Ну, мне очень нравится быть с тобой,"
+        },
+        {
+          "id": "sent-015",
+          "text": "porque ya ha pasado mucho tiempo.",
+          "translationRu": "потому что прошло уже много времени."
+        },
+        {
+          "id": "sent-016",
+          "text": "Hola a todos.",
+          "translationRu": "Всем привет."
+        },
+        {
+          "id": "sent-017",
+          "text": "Estábamos hablando acerca de diferentes temas del podcast",
+          "translationRu": "Мы говорили о разных темах для подкаста,"
+        },
+        {
+          "id": "sent-018",
+          "text": "y este tema surgió",
+          "translationRu": "и эта тема возникла,"
+        },
+        {
+          "id": "sent-019",
+          "text": "porque Harry decía",
+          "translationRu": "потому что Гарри сказал,"
+        },
+        {
+          "id": "sent-020",
+          "text": "que no hemos hablado en matemáticas.",
+          "translationRu": "что мы не говорили о математике."
+        },
+        {
+          "id": "sent-021",
+          "text": "¿Cierto, Harry?",
+          "translationRu": "Верно, Гарри?"
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-022",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-023",
+          "text": "Sí, es que estaba mirando los temas del podcast",
+          "translationRu": "Да, я просто просматривал темы для подкаста,"
+        },
+        {
+          "id": "sent-024",
+          "text": "y hay muchos temas muy interesantes,",
+          "translationRu": "и там очень много интересных тем,"
+        },
+        {
+          "id": "sent-025",
+          "text": "pero no hay tantos.",
+          "translationRu": "но их не так уж много."
+        },
+        {
+          "id": "sent-026",
+          "text": "No tocamos mucho las ciencias,",
+          "translationRu": "Мы мало затрагиваем науки,"
+        },
+        {
+          "id": "sent-027",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-028",
+          "text": "y, quizás, hay mucha gente que nos escucha",
+          "translationRu": "и, возможно, есть много людей, которые нас слушают,"
+        },
+        {
+          "id": "sent-029",
+          "text": "que trabajan con ciencias",
+          "translationRu": "которые работают в науках,"
+        },
+        {
+          "id": "sent-030",
+          "text": "o que son matemáticos a lo mejor.",
+          "translationRu": "или, может быть, математики."
+        },
+        {
+          "id": "sent-031",
+          "text": "Sé que hay algunos que conozco.",
+          "translationRu": "Знаю, что некоторых из них я знаю лично."
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-032",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-033",
+          "text": "Hay programadores,",
+          "translationRu": "Есть программисты,"
+        },
+        {
+          "id": "sent-034",
+          "text": "esto lo sé.",
+          "translationRu": "это я знаю."
+        },
+        {
+          "id": "sent-035",
+          "text": "Por alguna razón,",
+          "translationRu": "По какой-то причине,"
+        },
+        {
+          "id": "sent-036",
+          "text": "hay varios programadores en la comunidad de Easy Spanish.",
+          "translationRu": "в сообществе Easy Spanish есть несколько программистов."
+        },
+        {
+          "id": "sent-037",
+          "text": "Seguro, ellos son buenos en matemáticas.",
+          "translationRu": "Наверняка они хорошо разбираются в математике."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-038",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-039",
+          "text": "Seguro que son mejores que nosotros en matemáticas,",
+          "translationRu": "Наверняка они разбираются в математике лучше нас,"
+        },
+        {
+          "id": "sent-040",
+          "text": "la audiencia.",
+          "translationRu": "слушатели."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-041",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-042",
+          "text": "Pues, sí, supongo que,",
+          "translationRu": "Ну да, наверное,"
+        },
+        {
+          "id": "sent-043",
+          "text": "pues, no sé, hay, bueno,",
+          "translationRu": "ну, не знаю, есть, в общем,"
+        },
+        {
+          "id": "sent-044",
+          "text": "sabemos que hay diferentes formas",
+          "translationRu": "мы знаем, что есть разные способы,"
+        },
+        {
+          "id": "sent-045",
+          "text": "en las que funcionan los cerebros,",
+          "translationRu": "которыми работает мозг,"
+        },
+        {
+          "id": "sent-046",
+          "text": "y, pues, creo que el mío no funciona,",
+          "translationRu": "и, ну, я думаю, мой не работает,"
+        },
+        {
+          "id": "sent-047",
+          "text": "tampoco soy tan mala,",
+          "translationRu": "хотя я и не такая уж плохая,"
+        },
+        {
+          "id": "sent-048",
+          "text": "pero, pues, no es mi fuerte,",
+          "translationRu": "но, в общем, это не мой конёк,"
+        },
+        {
+          "id": "sent-049",
+          "text": "así, el más fuerte,",
+          "translationRu": "ну то есть не самая сильная сторона,"
+        },
+        {
+          "id": "sent-050",
+          "text": "tengo otro tipo de inteligencia, tal vez.",
+          "translationRu": "у меня, может быть, другой тип интеллекта."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-051",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-052",
+          "text": "Sí, hay mucha gente,",
+          "translationRu": "Да, есть много людей,"
+        },
+        {
+          "id": "sent-053",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-054",
+          "text": "que dice,",
+          "translationRu": "которые говорят,"
+        },
+        {
+          "id": "sent-055",
+          "text": "y bueno, tú no eres una de estas personas,",
+          "translationRu": "и, ну, ты не из таких людей,"
+        },
+        {
+          "id": "sent-056",
+          "text": "pero hay muchísimas personas que dicen,",
+          "translationRu": "но есть огромное количество людей, которые говорят:"
+        },
+        {
+          "id": "sent-057",
+          "text": "ah, es que no se me dan bien las matemáticas.",
+          "translationRu": "ах, мне просто не даётся математика."
+        },
+        {
+          "id": "sent-058",
+          "text": "Para nada, soy, bueno, contando...",
+          "translationRu": "Совсем нет, я, ну, когда считаю..."
+        },
+        {
+          "id": "sent-059",
+          "text": "o no, las cifras y todo esto.",
+          "translationRu": "или нет, цифры и всё такое."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-060",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-061",
+          "text": "Y es muy común,",
+          "translationRu": "И это очень распространено,"
+        },
+        {
+          "id": "sent-062",
+          "text": "¿no?",
+          "translationRu": "правда?"
+        },
+        {
+          "id": "sent-063",
+          "text": "Desde la escuela.",
+          "translationRu": "Ещё со школы."
+        },
+        {
+          "id": "sent-064",
+          "text": "¿Tú eras bueno en matemáticas en la escuela?",
+          "translationRu": "А ты хорошо разбирался в математике в школе?"
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-065",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-066",
+          "text": "La verdad es que no me gustaba mucho estudiar matemáticas en la escuela,",
+          "translationRu": "По правде говоря, мне не очень нравилось учить математику в школе,"
+        },
+        {
+          "id": "sent-067",
+          "text": "pero... ahora, me gusta más, creo.",
+          "translationRu": "но... сейчас она мне нравится больше, наверное."
+        },
+        {
+          "id": "sent-068",
+          "text": "Sí, tengo un par de amigos que son matemáticos profesionales ahora",
+          "translationRu": "Да, у меня есть пара друзей, которые сейчас профессиональные математики,"
+        },
+        {
+          "id": "sent-069",
+          "text": "y siempre es interesante hablar con ellos",
+          "translationRu": "и с ними всегда интересно поговорить"
+        },
+        {
+          "id": "sent-070",
+          "text": "acerca de lo que hacen y esto.",
+          "translationRu": "о том, чем они занимаются, и обо всём таком."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-071",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-072",
+          "text": "Claro, porque es muy interesante,",
+          "translationRu": "Конечно, потому что это очень интересно,"
+        },
+        {
+          "id": "sent-073",
+          "text": "pero la forma en la cual se enseña en la escuela genera mucha resistencia,",
+          "translationRu": "но то, как её преподают в школе, вызывает большое сопротивление,"
+        },
+        {
+          "id": "sent-074",
+          "text": "porque es como este idioma que no entiendes",
+          "translationRu": "потому что это как язык, который ты не понимаешь,"
+        },
+        {
+          "id": "sent-075",
+          "text": "y parece muy complicado",
+          "translationRu": "и кажется очень сложным,"
+        },
+        {
+          "id": "sent-076",
+          "text": "porque nada más hay símbolos",
+          "translationRu": "потому что там одни только символы,"
+        },
+        {
+          "id": "sent-077",
+          "text": "y no te dan un acceso que se sienta más cercano,",
+          "translationRu": "и тебе не дают подход, который ощущался бы ближе,"
+        },
+        {
+          "id": "sent-078",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-079",
+          "text": "Bueno, yo no tuve profesores",
+          "translationRu": "Ну, у меня не было учителей,"
+        },
+        {
+          "id": "sent-080",
+          "text": "que me dieran un acceso que yo pudiera entender en mi universo.",
+          "translationRu": "которые дали бы мне подход, понятный в моём мире."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-081",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-082",
+          "text": "Es verdad",
+          "translationRu": "Это правда,"
+        },
+        {
+          "id": "sent-083",
+          "text": "y tiene esto en común,",
+          "translationRu": "и у неё есть кое-что общее,"
+        },
+        {
+          "id": "sent-084",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-085",
+          "text": "con los idiomas extranjeros,",
+          "translationRu": "с иностранными языками,"
+        },
+        {
+          "id": "sent-086",
+          "text": "que, también, es otra asignatura de la escuela",
+          "translationRu": "которые тоже ещё один школьный предмет,"
+        },
+        {
+          "id": "sent-087",
+          "text": "que mucha gente dice",
+          "translationRu": "о котором многие говорят:"
+        },
+        {
+          "id": "sent-088",
+          "text": "no se me dan bien,",
+          "translationRu": "мне это не даётся,"
+        },
+        {
+          "id": "sent-089",
+          "text": "no me gustan.",
+          "translationRu": "мне это не нравится."
+        },
+        {
+          "id": "sent-090",
+          "text": "Mucha gente dice",
+          "translationRu": "Многие говорят,"
+        },
+        {
+          "id": "sent-091",
+          "text": "que hay que amarlo o odiarlo.",
+          "translationRu": "что это надо либо любить, либо ненавидеть."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-092",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-093",
+          "text": "Pues, yo creo que es difícil,",
+          "translationRu": "Ну, я думаю, что это сложно,"
+        },
+        {
+          "id": "sent-094",
+          "text": "bueno, por lo menos, en mi experiencia,",
+          "translationRu": "ну, по крайней мере, по моему опыту,"
+        },
+        {
+          "id": "sent-095",
+          "text": "lo que me sucede es",
+          "translationRu": "со мной происходит то,"
+        },
+        {
+          "id": "sent-096",
+          "text": "que me es difícil acceder a cierto conocimiento",
+          "translationRu": "что мне трудно подступиться к определённым знаниям,"
+        },
+        {
+          "id": "sent-097",
+          "text": "porque necesito un camino muy particular",
+          "translationRu": "потому что мне нужен очень особый путь,"
+        },
+        {
+          "id": "sent-098",
+          "text": "y, si no lo encuentro,",
+          "translationRu": "и, если я его не нахожу,"
+        },
+        {
+          "id": "sent-099",
+          "text": "es difícil acceder.",
+          "translationRu": "подступиться к ним сложно."
+        },
+        {
+          "id": "sent-100",
+          "text": "Por ejemplo, para la música,",
+          "translationRu": "Например, с музыкой,"
+        },
+        {
+          "id": "sent-101",
+          "text": "hay algo que me bloquea de entender",
+          "translationRu": "есть что-то, что мешает мне понять,"
+        },
+        {
+          "id": "sent-102",
+          "text": "cuando me lo explican muy en forma de teoría,",
+          "translationRu": "когда мне объясняют это слишком в виде теории,"
+        },
+        {
+          "id": "sent-103",
+          "text": "¿no?, como muy mental,",
+          "translationRu": "да?, как-то слишком умозрительно,"
+        },
+        {
+          "id": "sent-104",
+          "text": "a mí no me entra.",
+          "translationRu": "у меня это не укладывается."
+        },
+        {
+          "id": "sent-105",
+          "text": "No me entra la información de esa forma,",
+          "translationRu": "Информация в таком виде у меня не укладывается,"
+        },
+        {
+          "id": "sent-106",
+          "text": "sino que necesito algo más sensorial,",
+          "translationRu": "мне нужно что-то более чувственное,"
+        },
+        {
+          "id": "sent-107",
+          "text": "por ejemplo, yo necesito escuchar,",
+          "translationRu": "например, мне нужно слушать,"
+        },
+        {
+          "id": "sent-108",
+          "text": "confiar más en mi, por ejemplo, en mi escucha,",
+          "translationRu": "больше доверять себе, например, своему слуху,"
+        },
+        {
+          "id": "sent-109",
+          "text": "y, a partir de ahí, a lo mejor, puede entrar la teoría.",
+          "translationRu": "и уже оттуда, может быть, теория сможет уложиться."
+        },
+        {
+          "id": "sent-110",
+          "text": "Y creo que sí,",
+          "translationRu": "И я думаю, что да,"
+        },
+        {
+          "id": "sent-111",
+          "text": "las mentes necesitan diferentes caminos,",
+          "translationRu": "разным умам нужны разные пути,"
+        },
+        {
+          "id": "sent-112",
+          "text": "¿no?",
+          "translationRu": "правда?"
+        },
+        {
+          "id": "sent-113",
+          "text": "Y hay cosas que son difíciles de acceder.",
+          "translationRu": "И есть вещи, к которым трудно подступиться."
+        },
+        {
+          "id": "sent-114",
+          "text": "Y, cuando te ponen en un pizarrón en la escuela,",
+          "translationRu": "И когда тебя ставят к доске в школе,"
+        },
+        {
+          "id": "sent-115",
+          "text": "paréntesis y un millón de números",
+          "translationRu": "скобки и миллион чисел,"
+        },
+        {
+          "id": "sent-116",
+          "text": "y, luego, la presión de ahora resuelve,",
+          "translationRu": "а потом давление: давай решай,"
+        },
+        {
+          "id": "sent-117",
+          "text": "es mucho,",
+          "translationRu": "это слишком,"
+        },
+        {
+          "id": "sent-118",
+          "text": "¿no?",
+          "translationRu": "правда?"
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-119",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-120",
+          "text": "Claro, creo que la pizarra está con,",
+          "translationRu": "Конечно, я думаю, доска бывает с,"
+        },
+        {
+          "id": "sent-121",
+          "text": "¿cómo se dice la cosa blanca con que escribes?",
+          "translationRu": "как называется та белая штука, которой пишешь?"
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-122",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-123",
+          "text": "Yo lo llamo gis,",
+          "translationRu": "Я называю это «gis»,"
+        },
+        {
+          "id": "sent-124",
+          "text": "pero hay otra palabra que creo que es tiza.",
+          "translationRu": "но есть другое слово, кажется, «tiza»."
+        },
+        {
+          "id": "sent-125",
+          "text": "En México, se le llama gis, gises.",
+          "translationRu": "В Мексике это называют «gis», «gises»."
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-126",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-127",
+          "text": "Ajá, gises o tizas.",
+          "translationRu": "Ага, «gises» или «tizas»."
+        },
+        {
+          "id": "sent-128",
+          "text": "Okey, tiza o gis o clarión también tengo aquí.",
+          "translationRu": "Окей, «tiza», или «gis», или «clarión» — тут у меня тоже есть."
+        },
+        {
+          "id": "sent-129",
+          "text": "Pero, bueno, con este gis, vamos a decir,",
+          "translationRu": "Но, в общем, этим мелком, скажем,"
+        },
+        {
+          "id": "sent-130",
+          "text": "escribiendo en una pizarra",
+          "translationRu": "когда пишешь на доске,"
+        },
+        {
+          "id": "sent-131",
+          "text": "casi es un símbolo,",
+          "translationRu": "это почти символ,"
+        },
+        {
+          "id": "sent-132",
+          "text": "¿no?, de lo complicado.",
+          "translationRu": "да?, чего-то сложного."
+        },
+        {
+          "id": "sent-133",
+          "text": "Si buscas una manera de visualizar, complicado, rompecabezas,",
+          "translationRu": "Если ищешь способ представить себе сложное, головоломку,"
+        },
+        {
+          "id": "sent-134",
+          "text": "casi puede ser alguien",
+          "translationRu": "это почти что кто-то,"
+        },
+        {
+          "id": "sent-135",
+          "text": "escribiendo un formulario súper complicado en una pizarra.",
+          "translationRu": "пишущий жутко сложную формулу на доске."
+        }
+      ]
+    },
+    {
+      "id": "para-019",
+      "sentences": [
+        {
+          "id": "sent-136",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-137",
+          "text": "Y, pues, bueno, en realidad,",
+          "translationRu": "И, ну, в общем, на самом деле,"
+        },
+        {
+          "id": "sent-138",
+          "text": "las matemáticas están en nuestra vida cotidiana.",
+          "translationRu": "математика присутствует в нашей повседневной жизни."
+        },
+        {
+          "id": "sent-139",
+          "text": "En las cosas más sencillas.",
+          "translationRu": "В самых простых вещах."
+        },
+        {
+          "id": "sent-140",
+          "text": "Y, bueno, yo no tengo problema en este aspecto",
+          "translationRu": "И, ну, у меня нет проблем в этом плане,"
+        },
+        {
+          "id": "sent-141",
+          "text": "porque sí he notado",
+          "translationRu": "потому что я и правда заметила,"
+        },
+        {
+          "id": "sent-142",
+          "text": "que vas a un restaurante",
+          "translationRu": "что приходишь в ресторан,"
+        },
+        {
+          "id": "sent-143",
+          "text": "y se tiene que dividir la cuenta entre siete personas.",
+          "translationRu": "и счёт нужно разделить на семерых."
+        },
+        {
+          "id": "sent-144",
+          "text": "Y, por ejemplo, mi mamá nunca tomaría esta responsabilidad",
+          "translationRu": "И, например, моя мама никогда бы не взяла на себя эту ответственность —"
+        },
+        {
+          "id": "sent-145",
+          "text": "de agarrar el ticket y dividir las cuentas.",
+          "translationRu": "взять чек и разделить счёт."
+        },
+        {
+          "id": "sent-146",
+          "text": "Pero yo sí lo disfruto.",
+          "translationRu": "А мне это в радость."
+        },
+        {
+          "id": "sent-147",
+          "text": "O sea, yo sí tomo esto",
+          "translationRu": "То есть я берусь за это,"
+        },
+        {
+          "id": "sent-148",
+          "text": "y cuentas sencillas.",
+          "translationRu": "и за простые подсчёты."
+        },
+        {
+          "id": "sent-149",
+          "text": "Me parece entretenido.",
+          "translationRu": "Мне это кажется занятным."
+        },
+        {
+          "id": "sent-150",
+          "text": "Es algo así como tomarte un momento",
+          "translationRu": "Это что-то вроде того, чтобы выделить минутку,"
+        },
+        {
+          "id": "sent-151",
+          "text": "para utilizar esta parte de tu cerebro",
+          "translationRu": "чтобы задействовать эту часть мозга,"
+        },
+        {
+          "id": "sent-152",
+          "text": "y lo disfruto a este nivel,",
+          "translationRu": "и мне это нравится на таком уровне,"
+        },
+        {
+          "id": "sent-153",
+          "text": "¿no?",
+          "translationRu": "да?"
+        }
+      ]
+    },
+    {
+      "id": "para-020",
+      "sentences": [
+        {
+          "id": "sent-154",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-155",
+          "text": "¿Y en México la gente hace eso muy a menudo",
+          "translationRu": "А в Мексике люди так делают часто,"
+        },
+        {
+          "id": "sent-156",
+          "text": "o suelen simplemente invitar a todo el mundo?",
+          "translationRu": "или обычно просто угощают всех?"
+        },
+        {
+          "id": "sent-157",
+          "text": "Como, no, invito yo esta vez",
+          "translationRu": "Типа: нет, в этот раз угощаю я,"
+        },
+        {
+          "id": "sent-158",
+          "text": "porque no quiero hacer las cuentas.",
+          "translationRu": "потому что не хочу заниматься подсчётами."
+        }
+      ]
+    },
+    {
+      "id": "para-021",
+      "sentences": [
+        {
+          "id": "sent-159",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-160",
+          "text": "Pues, seguramente,",
+          "translationRu": "Ну, наверняка,"
+        },
+        {
+          "id": "sent-161",
+          "text": "dependiendo de las personalidades.",
+          "translationRu": "в зависимости от характеров."
+        },
+        {
+          "id": "sent-162",
+          "text": "Pero, muchas veces, divido la cuenta",
+          "translationRu": "Но часто я делю счёт,"
+        },
+        {
+          "id": "sent-163",
+          "text": "o tengo en la mente, tal vez, con amigos,",
+          "translationRu": "или держу в уме, может быть, с друзьями,"
+        },
+        {
+          "id": "sent-164",
+          "text": "pero que dividimos la cuenta.",
+          "translationRu": "но мы делим счёт."
+        },
+        {
+          "id": "sent-165",
+          "text": "Y, a mí, me gusta pensar a veces, sin calculadora",
+          "translationRu": "И мне иногда нравится считать в уме, без калькулятора,"
+        },
+        {
+          "id": "sent-166",
+          "text": "porque me divierte.",
+          "translationRu": "потому что меня это забавляет."
+        },
+        {
+          "id": "sent-167",
+          "text": "Me divierte hacer sumas de este tipo:",
+          "translationRu": "Меня забавляет складывать что-то вроде:"
+        },
+        {
+          "id": "sent-168",
+          "text": "como 68 más 34,",
+          "translationRu": "например, 68 плюс 34,"
+        },
+        {
+          "id": "sent-169",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-170",
+          "text": "Como que me gusta observar",
+          "translationRu": "Мне как бы нравится наблюдать,"
+        },
+        {
+          "id": "sent-171",
+          "text": "como qué hace mi mente en estas cosas",
+          "translationRu": "что делает мой ум в таких вещах,"
+        },
+        {
+          "id": "sent-172",
+          "text": "porque creo que cada quien tiene un camino diferente para,",
+          "translationRu": "потому что я думаю, что у каждого свой путь, чтобы,"
+        },
+        {
+          "id": "sent-173",
+          "text": "bueno, no cada quien,",
+          "translationRu": "ну, не у каждого,"
+        },
+        {
+          "id": "sent-174",
+          "text": "pero hay diferentes caminos para llegar al resultado",
+          "translationRu": "но есть разные пути, чтобы прийти к результату,"
+        },
+        {
+          "id": "sent-175",
+          "text": "y cada quien piensa un poco diferente.",
+          "translationRu": "и каждый думает немного по-разному."
+        },
+        {
+          "id": "sent-176",
+          "text": "Entonces, por eso, Harry,",
+          "translationRu": "Так что поэтому, Гарри,"
+        },
+        {
+          "id": "sent-177",
+          "text": "pensé que podríamos jugar a esto, tú y yo.",
+          "translationRu": "я подумала, что мы могли бы в это поиграть, ты и я."
+        }
+      ]
+    },
+    {
+      "id": "para-022",
+      "sentences": [
+        {
+          "id": "sent-178",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-179",
+          "text": "Como una pequeña prueba de matemáticas,",
+          "translationRu": "Типа маленький тест по математике,"
+        },
+        {
+          "id": "sent-180",
+          "text": "dices.",
+          "translationRu": "говоришь ты."
+        }
+      ]
+    },
+    {
+      "id": "para-023",
+      "sentences": [
+        {
+          "id": "sent-181",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-182",
+          "text": "Sí,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-183",
+          "text": "con cosas muy sencillas,",
+          "translationRu": "с совсем простыми вещами,"
+        },
+        {
+          "id": "sent-184",
+          "text": "pero podrías decir,",
+          "translationRu": "но ты мог бы сказать,"
+        },
+        {
+          "id": "sent-185",
+          "text": "bueno,",
+          "translationRu": "ну,"
+        },
+        {
+          "id": "sent-186",
+          "text": "te digo una pregunta,",
+          "translationRu": "я задаю тебе вопрос,"
+        },
+        {
+          "id": "sent-187",
+          "text": "me respondes",
+          "translationRu": "ты мне отвечаешь"
+        },
+        {
+          "id": "sent-188",
+          "text": "y podemos como platicar",
+          "translationRu": "и мы можем типа поболтать"
+        },
+        {
+          "id": "sent-189",
+          "text": "acerca de cómo llegaste a este resultado.",
+          "translationRu": "о том, как ты пришёл к этому результату."
+        },
+        {
+          "id": "sent-190",
+          "text": "Y, tal vez,",
+          "translationRu": "И, может быть,"
+        },
+        {
+          "id": "sent-191",
+          "text": "cómo llegué yo,",
+          "translationRu": "как пришла я,"
+        },
+        {
+          "id": "sent-192",
+          "text": "y ver,",
+          "translationRu": "и посмотреть,"
+        },
+        {
+          "id": "sent-193",
+          "text": "pues,",
+          "translationRu": "ну,"
+        },
+        {
+          "id": "sent-194",
+          "text": "estas diferentes formas",
+          "translationRu": "на эти разные способы,"
+        },
+        {
+          "id": "sent-195",
+          "text": "en las que hacemos matemáticas",
+          "translationRu": "которыми мы делаем математику"
+        },
+        {
+          "id": "sent-196",
+          "text": "en nuestra cabeza.",
+          "translationRu": "у себя в голове."
+        }
+      ]
+    },
+    {
+      "id": "para-024",
+      "sentences": [
+        {
+          "id": "sent-197",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-198",
+          "text": "Como matemáticas",
+          "translationRu": "Типа математика"
+        },
+        {
+          "id": "sent-199",
+          "text": "de la vida cotidiana.",
+          "translationRu": "из повседневной жизни."
+        }
+      ]
+    },
+    {
+      "id": "para-025",
+      "sentences": [
+        {
+          "id": "sent-200",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-201",
+          "text": "Exacto.",
+          "translationRu": "Именно."
+        }
+      ]
+    },
+    {
+      "id": "para-026",
+      "sentences": [
+        {
+          "id": "sent-202",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-203",
+          "text": "Okey.",
+          "translationRu": "Окей."
+        }
+      ]
+    },
+    {
+      "id": "para-027",
+      "sentences": [
+        {
+          "id": "sent-204",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-205",
+          "text": "A ver,",
+          "translationRu": "Так,"
+        },
+        {
+          "id": "sent-206",
+          "text": "va la primera.",
+          "translationRu": "поехали с первым."
+        },
+        {
+          "id": "sent-207",
+          "text": "Empecemos fácil.",
+          "translationRu": "Начнём с лёгкого."
+        },
+        {
+          "id": "sent-208",
+          "text": "Tienes un kilo de manzanas,",
+          "translationRu": "У тебя есть кило яблок,"
+        },
+        {
+          "id": "sent-209",
+          "text": "cuesta tres euros,",
+          "translationRu": "оно стоит три евро,"
+        },
+        {
+          "id": "sent-210",
+          "text": "¿cuánto pagas",
+          "translationRu": "сколько ты заплатишь"
+        },
+        {
+          "id": "sent-211",
+          "text": "por kilo y medio?",
+          "translationRu": "за полтора кило?"
+        }
+      ]
+    },
+    {
+      "id": "para-028",
+      "sentences": [
+        {
+          "id": "sent-212",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-213",
+          "text": "Un kilo y medio.",
+          "translationRu": "Полтора кило."
+        },
+        {
+          "id": "sent-214",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-215",
+          "text": "3 por 1.5.",
+          "translationRu": "3 на 1,5."
+        },
+        {
+          "id": "sent-216",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-217",
+          "text": "4.5 euros.",
+          "translationRu": "4,5 евро."
+        },
+        {
+          "id": "sent-218",
+          "text": "4 euros 50.",
+          "translationRu": "4 евро 50."
+        }
+      ]
+    },
+    {
+      "id": "para-029",
+      "sentences": [
+        {
+          "id": "sent-219",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-220",
+          "text": "Sí.",
+          "translationRu": "Да."
+        }
+      ]
+    },
+    {
+      "id": "para-030",
+      "sentences": [
+        {
+          "id": "sent-221",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-222",
+          "text": "Okey.",
+          "translationRu": "Окей."
+        }
+      ]
+    },
+    {
+      "id": "para-031",
+      "sentences": [
+        {
+          "id": "sent-223",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-224",
+          "text": "Y yo lo que hago con esto",
+          "translationRu": "А я с этим вот что делаю,"
+        },
+        {
+          "id": "sent-225",
+          "text": "porque me parece parecido",
+          "translationRu": "потому что мне это кажется похожим на то,"
+        },
+        {
+          "id": "sent-226",
+          "text": "a cuando tienes que dar",
+          "translationRu": "когда нужно дать"
+        },
+        {
+          "id": "sent-227",
+          "text": "el 15 por ciento de la cuenta.",
+          "translationRu": "15 процентов от счёта."
+        },
+        {
+          "id": "sent-228",
+          "text": "Lo que hace mi mente",
+          "translationRu": "Мой мозг делает вот что:"
+        },
+        {
+          "id": "sent-229",
+          "text": "es que pienso,",
+          "translationRu": "я думаю,"
+        },
+        {
+          "id": "sent-230",
+          "text": "okey,",
+          "translationRu": "окей,"
+        },
+        {
+          "id": "sent-231",
+          "text": "3 es un kilo",
+          "translationRu": "3 — это кило,"
+        },
+        {
+          "id": "sent-232",
+          "text": "y, entonces,",
+          "translationRu": "и, значит,"
+        },
+        {
+          "id": "sent-233",
+          "text": "medio kilo son 1.50,",
+          "translationRu": "полкило — это 1,50,"
+        },
+        {
+          "id": "sent-234",
+          "text": "la mitad de 3.",
+          "translationRu": "половина от 3."
+        },
+        {
+          "id": "sent-235",
+          "text": "Y sumo 1.50 al 3.",
+          "translationRu": "И прибавляю 1,50 к 3."
+        }
+      ]
+    },
+    {
+      "id": "para-032",
+      "sentences": [
+        {
+          "id": "sent-236",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-237",
+          "text": "Wow,",
+          "translationRu": "Вау,"
+        },
+        {
+          "id": "sent-238",
+          "text": "esto me parece súper complicado.",
+          "translationRu": "мне это кажется супер сложным."
+        },
+        {
+          "id": "sent-239",
+          "text": "No pienso igual.",
+          "translationRu": "Я думаю не так."
+        }
+      ]
+    },
+    {
+      "id": "para-033",
+      "sentences": [
+        {
+          "id": "sent-240",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-241",
+          "text": "No,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-242",
+          "text": "me lo imaginé",
+          "translationRu": "я так и представляла,"
+        },
+        {
+          "id": "sent-243",
+          "text": "porque, en general,",
+          "translationRu": "потому что в целом,"
+        },
+        {
+          "id": "sent-244",
+          "text": "creo que,",
+          "translationRu": "я думаю,"
+        },
+        {
+          "id": "sent-245",
+          "text": "de lo que te conozco,",
+          "translationRu": "из того, что я тебя знаю,"
+        },
+        {
+          "id": "sent-246",
+          "text": "creo que nuestros cerebros",
+          "translationRu": "я думаю, наши мозги"
+        },
+        {
+          "id": "sent-247",
+          "text": "funcionan diferente",
+          "translationRu": "работают по-разному,"
+        },
+        {
+          "id": "sent-248",
+          "text": "y, por eso,",
+          "translationRu": "и поэтому"
+        },
+        {
+          "id": "sent-249",
+          "text": "es divertido esto.",
+          "translationRu": "это и интересно."
+        },
+        {
+          "id": "sent-250",
+          "text": "Ahora,",
+          "translationRu": "А теперь,"
+        },
+        {
+          "id": "sent-251",
+          "text": "vamos a ver otra.",
+          "translationRu": "давай посмотрим следующую."
+        },
+        {
+          "id": "sent-252",
+          "text": "¿Cuánto tiempo tardas",
+          "translationRu": "Сколько времени у тебя уйдёт,"
+        },
+        {
+          "id": "sent-253",
+          "text": "en recorrer treinta kilómetros",
+          "translationRu": "чтобы проехать тридцать километров"
+        },
+        {
+          "id": "sent-254",
+          "text": "a sesenta kilómetros por hora?",
+          "translationRu": "со скоростью шестьдесят километров в час?"
+        }
+      ]
+    },
+    {
+      "id": "para-034",
+      "sentences": [
+        {
+          "id": "sent-255",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-256",
+          "text": "Eso sería súper rápido,",
+          "translationRu": "Это было бы супер быстро,"
+        },
+        {
+          "id": "sent-257",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-258",
+          "text": "Si puedes correr",
+          "translationRu": "Если ты можешь бежать"
+        },
+        {
+          "id": "sent-259",
+          "text": "sesenta kilómetros por hora,",
+          "translationRu": "шестьдесят километров в час,"
+        },
+        {
+          "id": "sent-260",
+          "text": "no me parece muy realista.",
+          "translationRu": "это не кажется мне очень реалистичным."
+        }
+      ]
+    },
+    {
+      "id": "para-035",
+      "sentences": [
+        {
+          "id": "sent-261",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-262",
+          "text": "O sea,",
+          "translationRu": "То есть,"
+        },
+        {
+          "id": "sent-263",
+          "text": "el coche va",
+          "translationRu": "машина едет"
+        },
+        {
+          "id": "sent-264",
+          "text": "a sesenta kilómetros,",
+          "translationRu": "шестьдесят километров в час,"
+        },
+        {
+          "id": "sent-265",
+          "text": "¿cuánto tardas",
+          "translationRu": "сколько у тебя уйдёт,"
+        },
+        {
+          "id": "sent-266",
+          "text": "en recorrer treinta kilómetros?",
+          "translationRu": "чтобы проехать тридцать километров?"
+        }
+      ]
+    },
+    {
+      "id": "para-036",
+      "sentences": [
+        {
+          "id": "sent-267",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-268",
+          "text": "Entonces,",
+          "translationRu": "Тогда"
+        },
+        {
+          "id": "sent-269",
+          "text": "una media hora.",
+          "translationRu": "полчаса."
+        }
+      ]
+    },
+    {
+      "id": "para-037",
+      "sentences": [
+        {
+          "id": "sent-270",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-271",
+          "text": "Exacto,",
+          "translationRu": "Именно,"
+        },
+        {
+          "id": "sent-272",
+          "text": "o sea,",
+          "translationRu": "то есть"
+        },
+        {
+          "id": "sent-273",
+          "text": "la mitad,",
+          "translationRu": "половина,"
+        },
+        {
+          "id": "sent-274",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-275",
+          "text": "Porque son sesenta",
+          "translationRu": "Потому что шестьдесят"
+        },
+        {
+          "id": "sent-276",
+          "text": "por una hora.",
+          "translationRu": "за один час."
+        },
+        {
+          "id": "sent-277",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-278",
+          "text": "treinta, pues,",
+          "translationRu": "тридцать, ну,"
+        },
+        {
+          "id": "sent-279",
+          "text": "en media hora.",
+          "translationRu": "за полчаса."
+        },
+        {
+          "id": "sent-280",
+          "text": "Si duplicas un número",
+          "translationRu": "Если ты удвоишь число"
+        },
+        {
+          "id": "sent-281",
+          "text": "y luego le sumas diez,",
+          "translationRu": "и потом прибавишь к нему десять,"
+        },
+        {
+          "id": "sent-282",
+          "text": "obtienes treinta.",
+          "translationRu": "получишь тридцать."
+        },
+        {
+          "id": "sent-283",
+          "text": "¿Cuál es el número original?",
+          "translationRu": "Какое исходное число?"
+        }
+      ]
+    },
+    {
+      "id": "para-038",
+      "sentences": [
+        {
+          "id": "sent-284",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-285",
+          "text": "Ok,",
+          "translationRu": "Окей,"
+        },
+        {
+          "id": "sent-286",
+          "text": "entonces tenemos que restar",
+          "translationRu": "тогда нам надо вычесть"
+        },
+        {
+          "id": "sent-287",
+          "text": "diez de treinta,",
+          "translationRu": "десять из тридцати,"
+        },
+        {
+          "id": "sent-288",
+          "text": "tenemos veinte.",
+          "translationRu": "получаем двадцать."
+        },
+        {
+          "id": "sent-289",
+          "text": "Y, luego,",
+          "translationRu": "А потом"
+        },
+        {
+          "id": "sent-290",
+          "text": "dividirlo por la mitad",
+          "translationRu": "разделить это пополам"
+        },
+        {
+          "id": "sent-291",
+          "text": "o dividirlo por dos.",
+          "translationRu": "или разделить на два."
+        },
+        {
+          "id": "sent-292",
+          "text": "Entonces,",
+          "translationRu": "Тогда"
+        },
+        {
+          "id": "sent-293",
+          "text": "diez.",
+          "translationRu": "десять."
+        }
+      ]
+    },
+    {
+      "id": "para-039",
+      "sentences": [
+        {
+          "id": "sent-294",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-295",
+          "text": "Sí, eso,",
+          "translationRu": "Да, вот,"
+        },
+        {
+          "id": "sent-296",
+          "text": "creo que yo hice lo mismo,",
+          "translationRu": "думаю, я сделала то же самое,"
+        },
+        {
+          "id": "sent-297",
+          "text": "como pensando,",
+          "translationRu": "типа думая,"
+        },
+        {
+          "id": "sent-298",
+          "text": "sí,",
+          "translationRu": "да,"
+        },
+        {
+          "id": "sent-299",
+          "text": "duplicas el número",
+          "translationRu": "удваиваешь число"
+        },
+        {
+          "id": "sent-300",
+          "text": "y le sumas diez,",
+          "translationRu": "и прибавляешь к нему десять,"
+        },
+        {
+          "id": "sent-301",
+          "text": "obtienes treinta.",
+          "translationRu": "получаешь тридцать."
+        },
+        {
+          "id": "sent-302",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-303",
+          "text": "yo resté diez",
+          "translationRu": "я вычла десять"
+        },
+        {
+          "id": "sent-304",
+          "text": "y, después,",
+          "translationRu": "и потом"
+        },
+        {
+          "id": "sent-305",
+          "text": "dividí entre dos.",
+          "translationRu": "разделила на два."
+        }
+      ]
+    },
+    {
+      "id": "para-040",
+      "sentences": [
+        {
+          "id": "sent-306",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-307",
+          "text": "Sí,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-308",
+          "text": "eso está bien.",
+          "translationRu": "это правильно."
+        },
+        {
+          "id": "sent-309",
+          "text": "También,",
+          "translationRu": "А ещё,"
+        },
+        {
+          "id": "sent-310",
+          "text": "hacer estas calculaciones...",
+          "translationRu": "делать эти вычисления…"
+        },
+        {
+          "id": "sent-311",
+          "text": "¿cálculos mentales se dice?",
+          "translationRu": "устный счёт так говорится?"
+        }
+      ]
+    },
+    {
+      "id": "para-041",
+      "sentences": [
+        {
+          "id": "sent-312",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-313",
+          "text": "Cálculos mentales,",
+          "translationRu": "Устный счёт,"
+        },
+        {
+          "id": "sent-314",
+          "text": "sí.",
+          "translationRu": "да."
+        },
+        {
+          "id": "sent-315",
+          "text": "A mí me parecen divertido",
+          "translationRu": "Мне он кажется забавным"
+        },
+        {
+          "id": "sent-316",
+          "text": "y seguramente es un buen ejercicio",
+          "translationRu": "и наверняка это хорошая тренировка"
+        },
+        {
+          "id": "sent-317",
+          "text": "para la mente,",
+          "translationRu": "для ума,"
+        },
+        {
+          "id": "sent-318",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-319",
+          "text": "Aunque son cosas bien sencillas,",
+          "translationRu": "Хотя это совсем простые вещи,"
+        },
+        {
+          "id": "sent-320",
+          "text": "pero lo hacemos todo el tiempo.",
+          "translationRu": "но мы делаем это всё время."
+        },
+        {
+          "id": "sent-321",
+          "text": "Estas cosas se presentan",
+          "translationRu": "Такие вещи возникают"
+        },
+        {
+          "id": "sent-322",
+          "text": "en nuestra vida todo el tiempo.",
+          "translationRu": "в нашей жизни всё время."
+        }
+      ]
+    },
+    {
+      "id": "para-042",
+      "sentences": [
+        {
+          "id": "sent-323",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-324",
+          "text": "Claro,",
+          "translationRu": "Конечно,"
+        },
+        {
+          "id": "sent-325",
+          "text": "a veces,",
+          "translationRu": "иногда"
+        },
+        {
+          "id": "sent-326",
+          "text": "me encuentro,",
+          "translationRu": "я ловлю себя,"
+        },
+        {
+          "id": "sent-327",
+          "text": "para dormir",
+          "translationRu": "чтобы уснуть,"
+        },
+        {
+          "id": "sent-328",
+          "text": "si me cuesta dormir,",
+          "translationRu": "если мне трудно уснуть,"
+        },
+        {
+          "id": "sent-329",
+          "text": "me encuentro haciendo",
+          "translationRu": "я ловлю себя на том, что делаю"
+        },
+        {
+          "id": "sent-330",
+          "text": "un poco de aritmética mental,",
+          "translationRu": "немного устной арифметики,"
+        },
+        {
+          "id": "sent-331",
+          "text": "calculando cosas",
+          "translationRu": "считаю всякое,"
+        },
+        {
+          "id": "sent-332",
+          "text": "para ayudarme a dormir.",
+          "translationRu": "чтобы помочь себе уснуть."
+        }
+      ]
+    },
+    {
+      "id": "para-043",
+      "sentences": [
+        {
+          "id": "sent-333",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-334",
+          "text": "¿Pero por dónde empiezas?",
+          "translationRu": "Но с чего ты начинаешь?"
+        },
+        {
+          "id": "sent-335",
+          "text": "¿Cómo construyes estos ejercicios?",
+          "translationRu": "Как ты составляешь эти задачки?"
+        }
+      ]
+    },
+    {
+      "id": "para-044",
+      "sentences": [
+        {
+          "id": "sent-336",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-337",
+          "text": "No sé,",
+          "translationRu": "Не знаю,"
+        },
+        {
+          "id": "sent-338",
+          "text": "como me vienen como cosas:",
+          "translationRu": "ко мне как бы приходят всякие штуки:"
+        },
+        {
+          "id": "sent-339",
+          "text": "Si tengo un año,",
+          "translationRu": "если у меня есть год,"
+        },
+        {
+          "id": "sent-340",
+          "text": "¿cuántos días serán",
+          "translationRu": "сколько это будет дней,"
+        },
+        {
+          "id": "sent-341",
+          "text": "para, por ejemplo,",
+          "translationRu": "например,"
+        },
+        {
+          "id": "sent-342",
+          "text": "cuándo cumples diez mil días,",
+          "translationRu": "когда тебе исполнится десять тысяч дней,"
+        },
+        {
+          "id": "sent-343",
+          "text": "Pau?",
+          "translationRu": "Пау?"
+        }
+      ]
+    },
+    {
+      "id": "para-045",
+      "sentences": [
+        {
+          "id": "sent-344",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-345",
+          "text": "¡Guau!",
+          "translationRu": "Ого!"
+        },
+        {
+          "id": "sent-346",
+          "text": "O sea,",
+          "translationRu": "То есть,"
+        },
+        {
+          "id": "sent-347",
+          "text": "pensando en que,",
+          "translationRu": "если подумать,"
+        },
+        {
+          "id": "sent-348",
+          "text": "bueno,",
+          "translationRu": "ну,"
+        },
+        {
+          "id": "sent-349",
+          "text": "yo solo sé que,",
+          "translationRu": "я только знаю, что"
+        },
+        {
+          "id": "sent-350",
+          "text": "más o menos,",
+          "translationRu": "примерно"
+        },
+        {
+          "id": "sent-351",
+          "text": "treinta días al mes.",
+          "translationRu": "тридцать дней в месяце."
+        },
+        {
+          "id": "sent-352",
+          "text": "Así lo haría yo.",
+          "translationRu": "Вот так бы я сделала."
+        },
+        {
+          "id": "sent-353",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-354",
+          "text": "tratar de dividir.",
+          "translationRu": "попробовать поделить."
+        },
+        {
+          "id": "sent-355",
+          "text": "Ay, no sé,",
+          "translationRu": "Ой, не знаю,"
+        },
+        {
+          "id": "sent-356",
+          "text": "ya me hice bolas.",
+          "translationRu": "я уже запуталась."
+        },
+        {
+          "id": "sent-357",
+          "text": "A ver,",
+          "translationRu": "Так,"
+        },
+        {
+          "id": "sent-358",
+          "text": "me hice bolas.",
+          "translationRu": "я запуталась."
+        },
+        {
+          "id": "sent-359",
+          "text": "¿Qué tal esta expresión?",
+          "translationRu": "Как тебе это выражение?"
+        }
+      ]
+    },
+    {
+      "id": "para-046",
+      "sentences": [
+        {
+          "id": "sent-360",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-361",
+          "text": "¿Qué es esto,",
+          "translationRu": "Что это такое,"
+        },
+        {
+          "id": "sent-362",
+          "text": "me hice bolas?",
+          "translationRu": "«me hice bolas»?"
+        }
+      ]
+    },
+    {
+      "id": "para-047",
+      "sentences": [
+        {
+          "id": "sent-363",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-364",
+          "text": "Me hice bolas.",
+          "translationRu": "«Me hice bolas» (я запуталась)."
+        },
+        {
+          "id": "sent-365",
+          "text": "Cuando te enredas en la cabeza,",
+          "translationRu": "Когда у тебя путаница в голове,"
+        },
+        {
+          "id": "sent-366",
+          "text": "dices,",
+          "translationRu": "ты говоришь:"
+        },
+        {
+          "id": "sent-367",
+          "text": "ay, ya,",
+          "translationRu": "ой, всё,"
+        },
+        {
+          "id": "sent-368",
+          "text": "me hice bolas.",
+          "translationRu": "я запуталась."
+        },
+        {
+          "id": "sent-369",
+          "text": "Como que ya no tienes",
+          "translationRu": "Как будто у тебя больше нет"
+        },
+        {
+          "id": "sent-370",
+          "text": "un hilo de pensamiento ordenado.",
+          "translationRu": "упорядоченной нити мысли."
+        },
+        {
+          "id": "sent-371",
+          "text": "Okey, entonces,",
+          "translationRu": "Окей, итак,"
+        },
+        {
+          "id": "sent-372",
+          "text": "¿tú quieres saber",
+          "translationRu": "ты хочешь узнать,"
+        },
+        {
+          "id": "sent-373",
+          "text": "llegar a diez mil meses",
+          "translationRu": "дойти до десяти тысяч месяцев"
+        },
+        {
+          "id": "sent-374",
+          "text": "o cuántos meses?",
+          "translationRu": "или сколько месяцев?"
+        }
+      ]
+    },
+    {
+      "id": "para-048",
+      "sentences": [
+        {
+          "id": "sent-375",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-376",
+          "text": "Diez mil días.",
+          "translationRu": "Десять тысяч дней."
+        },
+        {
+          "id": "sent-377",
+          "text": "Si has cumplido",
+          "translationRu": "Исполнилось ли тебе"
+        },
+        {
+          "id": "sent-378",
+          "text": "diez mil días ya o no.",
+          "translationRu": "десять тысяч дней уже или нет."
+        },
+        {
+          "id": "sent-379",
+          "text": "¿Ya cumpliste diez mil?",
+          "translationRu": "Тебе уже исполнилось десять тысяч?"
+        }
+      ]
+    },
+    {
+      "id": "para-049",
+      "sentences": [
+        {
+          "id": "sent-380",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-381",
+          "text": "Okey, entonces,",
+          "translationRu": "Окей, итак,"
+        },
+        {
+          "id": "sent-382",
+          "text": "más o menos,",
+          "translationRu": "примерно"
+        },
+        {
+          "id": "sent-383",
+          "text": "treinta días al mes,",
+          "translationRu": "тридцать дней в месяце,"
+        },
+        {
+          "id": "sent-384",
+          "text": "trataría de descubrir",
+          "translationRu": "я бы попробовала выяснить,"
+        },
+        {
+          "id": "sent-385",
+          "text": "cuántos meses he vivido primero.",
+          "translationRu": "сколько месяцев я прожила, сначала."
+        },
+        {
+          "id": "sent-386",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-387",
+          "text": "tengo...",
+          "translationRu": "у меня…"
+        },
+        {
+          "id": "sent-388",
+          "text": "¡Ay!",
+          "translationRu": "Ой!"
+        },
+        {
+          "id": "sent-389",
+          "text": "Pero, igual,",
+          "translationRu": "Но всё равно,"
+        },
+        {
+          "id": "sent-390",
+          "text": "es una gran cosa,",
+          "translationRu": "это большое дело,"
+        },
+        {
+          "id": "sent-391",
+          "text": "tengo que multiplicar treinta y seis.",
+          "translationRu": "мне надо умножить тридцать шесть."
+        },
+        {
+          "id": "sent-392",
+          "text": "¡Ay, no sé",
+          "translationRu": "Ой, не знаю,"
+        },
+        {
+          "id": "sent-393",
+          "text": "si lo quiero hacer ahorita,",
+          "translationRu": "хочу ли я делать это прямо сейчас,"
+        },
+        {
+          "id": "sent-394",
+          "text": "Harry,",
+          "translationRu": "Гарри,"
+        },
+        {
+          "id": "sent-395",
+          "text": "me va a tomar la mitad del podcast!",
+          "translationRu": "у меня на это уйдёт половина подкаста!"
+        },
+        {
+          "id": "sent-396",
+          "text": "Pero, bueno,",
+          "translationRu": "Но ладно,"
+        },
+        {
+          "id": "sent-397",
+          "text": "haría treinta y seis por doce",
+          "translationRu": "я бы сделала тридцать шесть на двенадцать,"
+        },
+        {
+          "id": "sent-398",
+          "text": "para descubrir los meses.",
+          "translationRu": "чтобы узнать месяцы."
+        },
+        {
+          "id": "sent-399",
+          "text": "Y, después de eso,",
+          "translationRu": "А после этого"
+        },
+        {
+          "id": "sent-400",
+          "text": "dividir entre treinta,",
+          "translationRu": "поделить на тридцать,"
+        },
+        {
+          "id": "sent-401",
+          "text": "más o menos.",
+          "translationRu": "примерно."
+        },
+        {
+          "id": "sent-402",
+          "text": "Es lo primero que me viene,",
+          "translationRu": "Это первое, что приходит мне в голову,"
+        },
+        {
+          "id": "sent-403",
+          "text": "pero me tardaría un rato,",
+          "translationRu": "но у меня бы это заняло какое-то время,"
+        },
+        {
+          "id": "sent-404",
+          "text": "ya me quedaría dormida.",
+          "translationRu": "я бы уже уснула."
+        }
+      ]
+    },
+    {
+      "id": "para-050",
+      "sentences": [
+        {
+          "id": "sent-405",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-406",
+          "text": "Exacto.",
+          "translationRu": "Именно."
+        },
+        {
+          "id": "sent-407",
+          "text": "Exacto.",
+          "translationRu": "Именно."
+        },
+        {
+          "id": "sent-408",
+          "text": "Y no queremos",
+          "translationRu": "И мы не хотим,"
+        },
+        {
+          "id": "sent-409",
+          "text": "que la gente se quede dormida,",
+          "translationRu": "чтобы люди засыпали,"
+        },
+        {
+          "id": "sent-410",
+          "text": "pero, bueno,",
+          "translationRu": "но, в общем,"
+        },
+        {
+          "id": "sent-411",
+          "text": "es un buen cálculo.",
+          "translationRu": "это хороший пример для счёта."
+        }
+      ]
+    },
+    {
+      "id": "para-051",
+      "sentences": [
+        {
+          "id": "sent-412",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-413",
+          "text": "Guau.",
+          "translationRu": "Ого."
+        },
+        {
+          "id": "sent-414",
+          "text": "Te toma un tiempo,",
+          "translationRu": "На это уходит время,"
+        },
+        {
+          "id": "sent-415",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-416",
+          "text": "unos minutos,",
+          "translationRu": "пара минут,"
+        },
+        {
+          "id": "sent-417",
+          "text": "de estar ahí",
+          "translationRu": "сидеть вот так,"
+        },
+        {
+          "id": "sent-418",
+          "text": "como haciendo la multiplicación",
+          "translationRu": "типа делая умножение"
+        },
+        {
+          "id": "sent-419",
+          "text": "en la mente.",
+          "translationRu": "в уме."
+        }
+      ]
+    },
+    {
+      "id": "para-052",
+      "sentences": [
+        {
+          "id": "sent-420",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-421",
+          "text": "Sí,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-422",
+          "text": "multiplicaciones.",
+          "translationRu": "умножения."
+        }
+      ]
+    },
+    {
+      "id": "para-053",
+      "sentences": [
+        {
+          "id": "sent-423",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-424",
+          "text": "No,",
+          "translationRu": "Нет,"
+        },
+        {
+          "id": "sent-425",
+          "text": "las mías estaban más fáciles,",
+          "translationRu": "мои были полегче,"
+        },
+        {
+          "id": "sent-426",
+          "text": "Harry.",
+          "translationRu": "Гарри."
+        },
+        {
+          "id": "sent-427",
+          "text": "O sea,",
+          "translationRu": "То есть,"
+        },
+        {
+          "id": "sent-428",
+          "text": "esta ya me sonaba",
+          "translationRu": "эта мне уже звучала"
+        },
+        {
+          "id": "sent-429",
+          "text": "un poco complicada.",
+          "translationRu": "немного сложновато."
+        },
+        {
+          "id": "sent-430",
+          "text": "Por ejemplo,",
+          "translationRu": "Например,"
+        },
+        {
+          "id": "sent-431",
+          "text": "una gallina pone un huevo",
+          "translationRu": "курица несёт яйцо"
+        },
+        {
+          "id": "sent-432",
+          "text": "cada dos días.",
+          "translationRu": "раз в два дня."
+        },
+        {
+          "id": "sent-433",
+          "text": "Yo creo que me voy a tardar un rato.",
+          "translationRu": "Думаю, у меня это займёт какое-то время."
+        },
+        {
+          "id": "sent-434",
+          "text": "Pero una gallina,",
+          "translationRu": "Но курица,"
+        },
+        {
+          "id": "sent-435",
+          "text": "o sea,",
+          "translationRu": "то есть,"
+        },
+        {
+          "id": "sent-436",
+          "text": "cada gallina pone un huevo",
+          "translationRu": "каждая курица несёт яйцо"
+        },
+        {
+          "id": "sent-437",
+          "text": "cada dos días",
+          "translationRu": "раз в два дня."
+        },
+        {
+          "id": "sent-438",
+          "text": "¿Cuántos huevos ponen",
+          "translationRu": "Сколько яиц снесут"
+        },
+        {
+          "id": "sent-439",
+          "text": "tres gallinas",
+          "translationRu": "три курицы"
+        },
+        {
+          "id": "sent-440",
+          "text": "en una semana?",
+          "translationRu": "за неделю?"
+        }
+      ]
+    },
+    {
+      "id": "para-054",
+      "sentences": [
+        {
+          "id": "sent-441",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-442",
+          "text": "Entonces,",
+          "translationRu": "Итак,"
+        },
+        {
+          "id": "sent-443",
+          "text": "siete días,",
+          "translationRu": "семь дней,"
+        },
+        {
+          "id": "sent-444",
+          "text": "tres gallinas,",
+          "translationRu": "три курицы,"
+        },
+        {
+          "id": "sent-445",
+          "text": "y han empezado a poner huevos",
+          "translationRu": "и они начали нести яйца"
+        },
+        {
+          "id": "sent-446",
+          "text": "el primer día o el segundo.",
+          "translationRu": "в первый день или во второй."
+        }
+      ]
+    },
+    {
+      "id": "para-055",
+      "sentences": [
+        {
+          "id": "sent-447",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-448",
+          "text": "Bueno,",
+          "translationRu": "Ну,"
+        },
+        {
+          "id": "sent-449",
+          "text": "vamos a pensar",
+          "translationRu": "давай будем считать,"
+        },
+        {
+          "id": "sent-450",
+          "text": "que dice",
+          "translationRu": "что тут сказано,"
+        },
+        {
+          "id": "sent-451",
+          "text": "que cada dos días ponen.",
+          "translationRu": "что они несутся раз в два дня."
+        },
+        {
+          "id": "sent-452",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-453",
+          "text": "pongamos que tres veces ponen,",
+          "translationRu": "положим, что они несутся три раза,"
+        },
+        {
+          "id": "sent-454",
+          "text": "¿no?",
+          "translationRu": "да?"
+        }
+      ]
+    },
+    {
+      "id": "para-056",
+      "sentences": [
+        {
+          "id": "sent-455",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-456",
+          "text": "Tres por seis,",
+          "translationRu": "Три на шесть,"
+        },
+        {
+          "id": "sent-457",
+          "text": "nueve.",
+          "translationRu": "девять."
+        }
+      ]
+    },
+    {
+      "id": "para-057",
+      "sentences": [
+        {
+          "id": "sent-458",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-459",
+          "text": "Ah, bueno,",
+          "translationRu": "А, ну,"
+        },
+        {
+          "id": "sent-460",
+          "text": "la respuesta dice",
+          "translationRu": "в ответе сказано"
+        },
+        {
+          "id": "sent-461",
+          "text": "diez o once",
+          "translationRu": "десять или одиннадцать,"
+        },
+        {
+          "id": "sent-462",
+          "text": "según empiezas el conteo,",
+          "translationRu": "смотря как начинаешь отсчёт,"
+        },
+        {
+          "id": "sent-463",
+          "text": "pero creo que depende de la semana",
+          "translationRu": "но, думаю, это зависит от недели"
+        },
+        {
+          "id": "sent-464",
+          "text": "y así.",
+          "translationRu": "и тому подобного."
+        },
+        {
+          "id": "sent-465",
+          "text": "Pero creo que lo hicimos bien,",
+          "translationRu": "Но, думаю, мы сделали правильно,"
+        },
+        {
+          "id": "sent-466",
+          "text": "Harry.",
+          "translationRu": "Гарри."
+        },
+        {
+          "id": "sent-467",
+          "text": "O sea...",
+          "translationRu": "То есть…"
+        }
+      ]
+    },
+    {
+      "id": "para-058",
+      "sentences": [
+        {
+          "id": "sent-468",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-469",
+          "text": "Okey.",
+          "translationRu": "Окей."
+        }
+      ]
+    },
+    {
+      "id": "para-059",
+      "sentences": [
+        {
+          "id": "sent-470",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-471",
+          "text": "Si cada dos días,",
+          "translationRu": "Если раз в два дня,"
+        },
+        {
+          "id": "sent-472",
+          "text": "ponte que,",
+          "translationRu": "положим, что"
+        },
+        {
+          "id": "sent-473",
+          "text": "en una semana,",
+          "translationRu": "за неделю"
+        },
+        {
+          "id": "sent-474",
+          "text": "ponen tres veces.",
+          "translationRu": "они несутся три раза."
+        },
+        {
+          "id": "sent-475",
+          "text": "Y, si son tres gallinas,",
+          "translationRu": "И если это три курицы,"
+        },
+        {
+          "id": "sent-476",
+          "text": "tres por tres,",
+          "translationRu": "три на три,"
+        },
+        {
+          "id": "sent-477",
+          "text": "nueve.",
+          "translationRu": "девять."
+        }
+      ]
+    },
+    {
+      "id": "para-060",
+      "sentences": [
+        {
+          "id": "sent-478",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-479",
+          "text": "Yo diría que sí.",
+          "translationRu": "Я бы сказал, что да."
+        }
+      ]
+    },
+    {
+      "id": "para-061",
+      "sentences": [
+        {
+          "id": "sent-480",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-481",
+          "text": "Sí,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-482",
+          "text": "o, al menos que,",
+          "translationRu": "ну, разве что,"
+        },
+        {
+          "id": "sent-483",
+          "text": "bueno,",
+          "translationRu": "ну,"
+        },
+        {
+          "id": "sent-484",
+          "text": "si cuentas",
+          "translationRu": "если считать,"
+        },
+        {
+          "id": "sent-485",
+          "text": "que ponen cada dos días,",
+          "translationRu": "что они несутся раз в два дня,"
+        },
+        {
+          "id": "sent-486",
+          "text": "no sé.",
+          "translationRu": "не знаю."
+        }
+      ]
+    },
+    {
+      "id": "para-062",
+      "sentences": [
+        {
+          "id": "sent-487",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-488",
+          "text": "También este problema",
+          "translationRu": "А ещё эта задачка"
+        },
+        {
+          "id": "sent-489",
+          "text": "está empezando a mezclar",
+          "translationRu": "начинает смешивать"
+        },
+        {
+          "id": "sent-490",
+          "text": "las matemáticas con la realidad,",
+          "translationRu": "математику с реальностью,"
+        },
+        {
+          "id": "sent-491",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-492",
+          "text": "Si ponen...",
+          "translationRu": "Если они несутся…"
+        },
+        {
+          "id": "sent-493",
+          "text": "Bueno,",
+          "translationRu": "Ну,"
+        },
+        {
+          "id": "sent-494",
+          "text": "empiezan a poner",
+          "translationRu": "они начинают нестись"
+        },
+        {
+          "id": "sent-495",
+          "text": "el primer día o el segundo",
+          "translationRu": "в первый день или во второй,"
+        },
+        {
+          "id": "sent-496",
+          "text": "y hay una buena broma",
+          "translationRu": "и есть хорошая шутка"
+        },
+        {
+          "id": "sent-497",
+          "text": "acerca de un matemático",
+          "translationRu": "про математика,"
+        },
+        {
+          "id": "sent-498",
+          "text": "que quiere llegar",
+          "translationRu": "который хочет дойти,"
+        },
+        {
+          "id": "sent-499",
+          "text": "y tiene un amigo",
+          "translationRu": "и у него есть друг,"
+        },
+        {
+          "id": "sent-500",
+          "text": "que suele estudiar otra ciencia",
+          "translationRu": "который обычно изучает другую науку,"
+        },
+        {
+          "id": "sent-501",
+          "text": "como física o algo así.",
+          "translationRu": "типа физики или что-то в этом роде."
+        },
+        {
+          "id": "sent-502",
+          "text": "Y dice,",
+          "translationRu": "И он говорит:"
+        },
+        {
+          "id": "sent-503",
+          "text": "bueno,",
+          "translationRu": "ну,"
+        },
+        {
+          "id": "sent-504",
+          "text": "tú puedes llegar",
+          "translationRu": "ты можешь дойти"
+        },
+        {
+          "id": "sent-505",
+          "text": "a otro lado del cuarto",
+          "translationRu": "до другого конца комнаты"
+        },
+        {
+          "id": "sent-506",
+          "text": "en cuántos pasos,",
+          "translationRu": "за сколько шагов,"
+        },
+        {
+          "id": "sent-507",
+          "text": "¿okey?",
+          "translationRu": "окей?"
+        },
+        {
+          "id": "sent-508",
+          "text": "Pero, una regla,",
+          "translationRu": "Но одно правило:"
+        },
+        {
+          "id": "sent-509",
+          "text": "cada paso que tomas,",
+          "translationRu": "каждый шаг, который ты делаешь,"
+        },
+        {
+          "id": "sent-510",
+          "text": "el paso siguiente",
+          "translationRu": "следующий шаг"
+        },
+        {
+          "id": "sent-511",
+          "text": "tiene que ser la mitad de la distancia",
+          "translationRu": "должен быть вдвое короче расстояния"
+        },
+        {
+          "id": "sent-512",
+          "text": "de este paso.",
+          "translationRu": "этого шага."
+        },
+        {
+          "id": "sent-513",
+          "text": "Entonces,",
+          "translationRu": "Значит,"
+        },
+        {
+          "id": "sent-514",
+          "text": "el primer paso es un metro,",
+          "translationRu": "первый шаг — это метр,"
+        },
+        {
+          "id": "sent-515",
+          "text": "luego el segundo paso",
+          "translationRu": "потом второй шаг —"
+        },
+        {
+          "id": "sent-516",
+          "text": "es 50 centímetros.",
+          "translationRu": "это 50 сантиметров."
+        },
+        {
+          "id": "sent-517",
+          "text": "Entonces,",
+          "translationRu": "И вот,"
+        },
+        {
+          "id": "sent-518",
+          "text": "¿con cuántos pasos",
+          "translationRu": "за сколько шагов"
+        },
+        {
+          "id": "sent-519",
+          "text": "vas a llegar al otro lado?",
+          "translationRu": "ты доберёшься до другого конца?"
+        },
+        {
+          "id": "sent-520",
+          "text": "¿Y qué dice el matemático?",
+          "translationRu": "И что говорит математик?"
+        },
+        {
+          "id": "sent-521",
+          "text": "Dice que, bueno,",
+          "translationRu": "Он говорит: ну,"
+        },
+        {
+          "id": "sent-522",
+          "text": "nunca voy a llegar",
+          "translationRu": "я никогда не дойду,"
+        },
+        {
+          "id": "sent-523",
+          "text": "porque es imposible matemáticamente.",
+          "translationRu": "потому что математически это невозможно."
+        },
+        {
+          "id": "sent-524",
+          "text": "Nunca voy a llegar",
+          "translationRu": "Я никогда не дойду,"
+        },
+        {
+          "id": "sent-525",
+          "text": "porque,",
+          "translationRu": "потому что,"
+        },
+        {
+          "id": "sent-526",
+          "text": "aunque esté a un centímetro menos,",
+          "translationRu": "пусть даже останется на сантиметр меньше,"
+        },
+        {
+          "id": "sent-527",
+          "text": "es imposible",
+          "translationRu": "это невозможно,"
+        },
+        {
+          "id": "sent-528",
+          "text": "porque,",
+          "translationRu": "потому что"
+        },
+        {
+          "id": "sent-529",
+          "text": "cada distancia",
+          "translationRu": "каждое расстояние"
+        },
+        {
+          "id": "sent-530",
+          "text": "se vuelve menor y menor y menor.",
+          "translationRu": "становится всё меньше, и меньше, и меньше."
+        },
+        {
+          "id": "sent-531",
+          "text": "Aunque, obviamente,",
+          "translationRu": "Хотя, очевидно,"
+        },
+        {
+          "id": "sent-532",
+          "text": "en la realidad,",
+          "translationRu": "в реальности,"
+        },
+        {
+          "id": "sent-533",
+          "text": "cuando llegas al otro lado,",
+          "translationRu": "когда доходишь до другого конца,"
+        },
+        {
+          "id": "sent-534",
+          "text": "ya.",
+          "translationRu": "всё."
+        },
+        {
+          "id": "sent-535",
+          "text": "Puedes tocar la pared",
+          "translationRu": "Можешь коснуться стены,"
+        },
+        {
+          "id": "sent-536",
+          "text": "y ya está.",
+          "translationRu": "и готово."
+        }
+      ]
+    },
+    {
+      "id": "para-063",
+      "sentences": [
+        {
+          "id": "sent-537",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-538",
+          "text": "Y ya llegaste.",
+          "translationRu": "И вот ты уже дошёл."
+        },
+        {
+          "id": "sent-539",
+          "text": "Claro,",
+          "translationRu": "Ну да,"
+        },
+        {
+          "id": "sent-540",
+          "text": "o sea,",
+          "translationRu": "то есть,"
+        },
+        {
+          "id": "sent-541",
+          "text": "vas a llegar,",
+          "translationRu": "ты дойдёшь,"
+        },
+        {
+          "id": "sent-542",
+          "text": "vas a llegar.",
+          "translationRu": "ты дойдёшь."
+        }
+      ]
+    },
+    {
+      "id": "para-064",
+      "sentences": [
+        {
+          "id": "sent-543",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-544",
+          "text": "Sí, hay una manera,",
+          "translationRu": "Да, способ есть,"
+        },
+        {
+          "id": "sent-545",
+          "text": "¿no?",
+          "translationRu": "правда же?"
+        },
+        {
+          "id": "sent-546",
+          "text": "Si piensas muy como un matemático en la vida,",
+          "translationRu": "Если ты смотришь на жизнь очень по-матемашически,"
+        },
+        {
+          "id": "sent-547",
+          "text": "hay como problemas",
+          "translationRu": "то есть как бы задачи,"
+        },
+        {
+          "id": "sent-548",
+          "text": "que son, en teoría, muy grandes",
+          "translationRu": "которые в теории очень большие,"
+        },
+        {
+          "id": "sent-549",
+          "text": "que tienen, también, posiblemente,",
+          "translationRu": "но у которых тоже, возможно, есть"
+        },
+        {
+          "id": "sent-550",
+          "text": "soluciones prácticas.",
+          "translationRu": "практические решения."
+        },
+        {
+          "id": "sent-551",
+          "text": "Quizás,",
+          "translationRu": "Может быть,"
+        },
+        {
+          "id": "sent-552",
+          "text": "eso es lo que dices,",
+          "translationRu": "ты именно это и имеешь в виду,"
+        },
+        {
+          "id": "sent-553",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-554",
+          "text": "Hay gente",
+          "translationRu": "Есть люди,"
+        },
+        {
+          "id": "sent-555",
+          "text": "que piensa más como matemáticamente",
+          "translationRu": "которые мыслят скорее математически,"
+        },
+        {
+          "id": "sent-556",
+          "text": "y otras",
+          "translationRu": "и другие,"
+        },
+        {
+          "id": "sent-557",
+          "text": "que son mucho más...",
+          "translationRu": "которые гораздо более..."
+        }
+      ]
+    },
+    {
+      "id": "para-065",
+      "sentences": [
+        {
+          "id": "sent-558",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-559",
+          "text": "Por eso,",
+          "translationRu": "Вот поэтому"
+        },
+        {
+          "id": "sent-560",
+          "text": "es maravilloso",
+          "translationRu": "это прекрасно,"
+        },
+        {
+          "id": "sent-561",
+          "text": "que haya tanta diversidad de cerebros",
+          "translationRu": "что есть такое разнообразие умов,"
+        },
+        {
+          "id": "sent-562",
+          "text": "para poder resolver cosas de diferentes formas",
+          "translationRu": "чтобы решать задачи по-разному"
+        },
+        {
+          "id": "sent-563",
+          "text": "y hacer equipo,",
+          "translationRu": "и работать в команде,"
+        },
+        {
+          "id": "sent-564",
+          "text": "¿no?",
+          "translationRu": "правда?"
+        },
+        {
+          "id": "sent-565",
+          "text": "A mí me encanta",
+          "translationRu": "Мне очень нравится"
+        },
+        {
+          "id": "sent-566",
+          "text": "conocer a gente",
+          "translationRu": "знакомиться с людьми,"
+        },
+        {
+          "id": "sent-567",
+          "text": "que me sorprende su mente,",
+          "translationRu": "чей ум меня удивляет,"
+        },
+        {
+          "id": "sent-568",
+          "text": "que yo como,",
+          "translationRu": "когда я такая:"
+        },
+        {
+          "id": "sent-569",
+          "text": "¡guau!,",
+          "translationRu": "ого!,"
+        },
+        {
+          "id": "sent-570",
+          "text": "piensas así,",
+          "translationRu": "ты вот так мыслишь,"
+        },
+        {
+          "id": "sent-571",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-572",
+          "text": "Muy práctico y lineal,",
+          "translationRu": "Очень практично и линейно,"
+        },
+        {
+          "id": "sent-573",
+          "text": "por ejemplo.",
+          "translationRu": "например."
+        },
+        {
+          "id": "sent-574",
+          "text": "Yo no pienso nada lineal.",
+          "translationRu": "Я мыслю совсем не линейно."
+        },
+        {
+          "id": "sent-575",
+          "text": "Creo",
+          "translationRu": "Мне кажется,"
+        },
+        {
+          "id": "sent-576",
+          "text": "que mi cerebro se abre como...",
+          "translationRu": "что мой мозг как бы раскрывается..."
+        },
+        {
+          "id": "sent-577",
+          "text": "siempre pienso",
+          "translationRu": "я всегда думаю,"
+        },
+        {
+          "id": "sent-578",
+          "text": "que son como estas ventanas",
+          "translationRu": "что это как такие окна,"
+        },
+        {
+          "id": "sent-579",
+          "text": "que se abren todas al mismo tiempo.",
+          "translationRu": "которые открываются все сразу."
+        },
+        {
+          "id": "sent-580",
+          "text": "Y, luego,",
+          "translationRu": "А потом"
+        },
+        {
+          "id": "sent-581",
+          "text": "empiezo a generar conexiones,",
+          "translationRu": "я начинаю выстраивать связи,"
+        },
+        {
+          "id": "sent-582",
+          "text": "pero veo muchas cosas al mismo tiempo.",
+          "translationRu": "но я вижу много всего одновременно."
+        },
+        {
+          "id": "sent-583",
+          "text": "Y, después,",
+          "translationRu": "И затем"
+        },
+        {
+          "id": "sent-584",
+          "text": "conecto,",
+          "translationRu": "я соединяю,"
+        },
+        {
+          "id": "sent-585",
+          "text": "pero no siento",
+          "translationRu": "но я не чувствую,"
+        },
+        {
+          "id": "sent-586",
+          "text": "que tengo un camino en línea,",
+          "translationRu": "что у меня есть путь по прямой,"
+        },
+        {
+          "id": "sent-587",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-588",
+          "text": "Curioso esto.",
+          "translationRu": "Любопытная штука."
+        },
+        {
+          "id": "sent-589",
+          "text": "Pero, bueno,",
+          "translationRu": "Но ладно,"
+        },
+        {
+          "id": "sent-590",
+          "text": "estuvo divertido, Harry.",
+          "translationRu": "было весело, Гарри."
+        },
+        {
+          "id": "sent-591",
+          "text": "Ahora,",
+          "translationRu": "А теперь"
+        },
+        {
+          "id": "sent-592",
+          "text": "pienso",
+          "translationRu": "я думаю,"
+        },
+        {
+          "id": "sent-593",
+          "text": "que les voy a decir a ustedes",
+          "translationRu": "что скажу вам,"
+        },
+        {
+          "id": "sent-594",
+          "text": "que nos escuchan",
+          "translationRu": "тем, кто нас слушает,"
+        },
+        {
+          "id": "sent-595",
+          "text": "y, si son científicos",
+          "translationRu": "и, если вы учёные"
+        },
+        {
+          "id": "sent-596",
+          "text": "o si les gustaría",
+          "translationRu": "или если вам бы хотелось,"
+        },
+        {
+          "id": "sent-597",
+          "text": "que habláramos de algún tema,",
+          "translationRu": "чтобы мы поговорили на какую-то тему,"
+        },
+        {
+          "id": "sent-598",
+          "text": "tal vez, con un poco de investigación",
+          "translationRu": "может быть, с небольшим исследованием,"
+        },
+        {
+          "id": "sent-599",
+          "text": "para que conozcan vocabulario en español",
+          "translationRu": "чтобы вы узнали лексику на испанском"
+        },
+        {
+          "id": "sent-600",
+          "text": "acerca de esto,",
+          "translationRu": "на эту тему,"
+        },
+        {
+          "id": "sent-601",
+          "text": "pueden ir a easyspanish.fm",
+          "translationRu": "вы можете зайти на easyspanish.fm"
+        },
+        {
+          "id": "sent-602",
+          "text": "y, ahí,",
+          "translationRu": "и там"
+        },
+        {
+          "id": "sent-603",
+          "text": "pueden dejar un mensaje de audio,",
+          "translationRu": "можете оставить голосовое сообщение,"
+        },
+        {
+          "id": "sent-604",
+          "text": "diciéndonos",
+          "translationRu": "сказав нам,"
+        },
+        {
+          "id": "sent-605",
+          "text": "qué tema les gustaría escuchar.",
+          "translationRu": "какую тему вам хотелось бы услышать."
+        },
+        {
+          "id": "sent-606",
+          "text": "Para aprender palabras,",
+          "translationRu": "Чтобы выучить слова,"
+        },
+        {
+          "id": "sent-607",
+          "text": "porque yo no les voy a enseñar mucho,",
+          "translationRu": "потому что я вас многому не научу,"
+        },
+        {
+          "id": "sent-608",
+          "text": "pero español,",
+          "translationRu": "но испанский,"
+        },
+        {
+          "id": "sent-609",
+          "text": "escucharlas en español.",
+          "translationRu": "услышать их на испанском."
+        }
+      ]
+    },
+    {
+      "id": "para-066",
+      "sentences": [
+        {
+          "id": "sent-610",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-611",
+          "text": "Pero, antes de terminar, Pau,",
+          "translationRu": "Но, прежде чем закончить, Пау,"
+        },
+        {
+          "id": "sent-612",
+          "text": "yo te quería (okey) hacer una pregunta más",
+          "translationRu": "я хотел задать тебе (окей) ещё один вопрос,"
+        },
+        {
+          "id": "sent-613",
+          "text": "que es interesante, quizás.",
+          "translationRu": "который, пожалуй, интересный."
+        },
+        {
+          "id": "sent-614",
+          "text": "Que otro campo de nuestra vida",
+          "translationRu": "Ещё одна сфера нашей жизни,"
+        },
+        {
+          "id": "sent-615",
+          "text": "que le toca mucho matemáticas",
+          "translationRu": "которой сильно касается математика,"
+        },
+        {
+          "id": "sent-616",
+          "text": "es nuestra vida virtual",
+          "translationRu": "это наша виртуальная жизнь"
+        },
+        {
+          "id": "sent-617",
+          "text": "o nuestra vida por internet",
+          "translationRu": "или наша жизнь в интернете,"
+        },
+        {
+          "id": "sent-618",
+          "text": "porque hablamos mucho de los algoritmos,",
+          "translationRu": "потому что мы много говорим об алгоритмах,"
+        },
+        {
+          "id": "sent-619",
+          "text": "que usan Google o Meta",
+          "translationRu": "которые используют Google или Meta"
+        },
+        {
+          "id": "sent-620",
+          "text": "o estas empresas grandes",
+          "translationRu": "или эти крупные компании,"
+        },
+        {
+          "id": "sent-621",
+          "text": "que tienen un gran impacto",
+          "translationRu": "которые сильно влияют"
+        },
+        {
+          "id": "sent-622",
+          "text": "en nuestro día a día.",
+          "translationRu": "на нашу повседневную жизнь."
+        },
+        {
+          "id": "sent-623",
+          "text": "Pero, Pau,",
+          "translationRu": "Но, Пау,"
+        },
+        {
+          "id": "sent-624",
+          "text": "¿qué es un algoritmo?",
+          "translationRu": "что такое алгоритм?"
+        },
+        {
+          "id": "sent-625",
+          "text": "¿Y de dónde viene la palabra algoritmo?",
+          "translationRu": "И откуда взялось слово «алгоритм»?"
+        }
+      ]
+    },
+    {
+      "id": "para-067",
+      "sentences": [
+        {
+          "id": "sent-626",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-627",
+          "text": "No tengo ni idea, Harry.",
+          "translationRu": "Понятия не имею, Гарри."
+        },
+        {
+          "id": "sent-628",
+          "text": "Así que creo",
+          "translationRu": "Так что, думаю,"
+        },
+        {
+          "id": "sent-629",
+          "text": "que nos podemos quedar con esta pregunta.",
+          "translationRu": "мы можем оставить этот вопрос открытым."
+        },
+        {
+          "id": "sent-630",
+          "text": "Tal vez,",
+          "translationRu": "Может быть,"
+        },
+        {
+          "id": "sent-631",
+          "text": "podemos tratar de resolverla",
+          "translationRu": "мы попробуем разобраться с ним"
+        },
+        {
+          "id": "sent-632",
+          "text": "en el After Show.",
+          "translationRu": "в After Show."
+        }
+      ]
+    },
+    {
+      "id": "para-068",
+      "sentences": [
+        {
+          "id": "sent-633",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-634",
+          "text": "Sí,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-635",
+          "text": "y la gente en casa",
+          "translationRu": "и слушатели дома"
+        },
+        {
+          "id": "sent-636",
+          "text": "puede pensar",
+          "translationRu": "могут задуматься:"
+        },
+        {
+          "id": "sent-637",
+          "text": "¿qué es un algoritmo?,",
+          "translationRu": "что такое алгоритм?,"
+        },
+        {
+          "id": "sent-638",
+          "text": "de verdad,",
+          "translationRu": "правда,"
+        },
+        {
+          "id": "sent-639",
+          "text": "nos puede escribir, quizás (sí),",
+          "translationRu": "могут нам написать, может быть (да),"
+        },
+        {
+          "id": "sent-640",
+          "text": "cuál es su respuesta.",
+          "translationRu": "какой у них ответ."
+        },
+        {
+          "id": "sent-641",
+          "text": "Y, si saben",
+          "translationRu": "И, если вы знаете,"
+        },
+        {
+          "id": "sent-642",
+          "text": "de dónde viene la palabra,",
+          "translationRu": "откуда взялось это слово,"
+        },
+        {
+          "id": "sent-643",
+          "text": "tiene una buena etimología.",
+          "translationRu": "у него хорошая этимология."
+        }
+      ]
+    },
+    {
+      "id": "para-069",
+      "sentences": [
+        {
+          "id": "sent-644",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-645",
+          "text": "¡Ah, mira!",
+          "translationRu": "А, смотри-ка!"
+        },
+        {
+          "id": "sent-646",
+          "text": "No sé,",
+          "translationRu": "Не знаю,"
+        },
+        {
+          "id": "sent-647",
+          "text": "pero, bueno",
+          "translationRu": "но ладно,"
+        },
+        {
+          "id": "sent-648",
+          "text": "si pueden,",
+          "translationRu": "если можете,"
+        },
+        {
+          "id": "sent-649",
+          "text": "si están en Discord,",
+          "translationRu": "если вы в Discord,"
+        },
+        {
+          "id": "sent-650",
+          "text": "en Discord o, ahí,",
+          "translationRu": "в Discord или вон там,"
+        },
+        {
+          "id": "sent-651",
+          "text": "en los mensajes de audio",
+          "translationRu": "в голосовых сообщениях,"
+        },
+        {
+          "id": "sent-652",
+          "text": "que están abiertos para todos",
+          "translationRu": "которые открыты для всех,"
+        },
+        {
+          "id": "sent-653",
+          "text": "los que nos escuchan.",
+          "translationRu": "кто нас слушает."
+        },
+        {
+          "id": "sent-654",
+          "text": "Entonces,",
+          "translationRu": "Так что"
+        },
+        {
+          "id": "sent-655",
+          "text": "pueden ahí comunicarse con nosotros.",
+          "translationRu": "там вы можете с нами связаться."
+        },
+        {
+          "id": "sent-656",
+          "text": "Y, bueno, ahora,",
+          "translationRu": "И, ну, сейчас"
+        },
+        {
+          "id": "sent-657",
+          "text": "seguimos platicando, Harry,",
+          "translationRu": "мы продолжаем болтать, Гарри,"
+        },
+        {
+          "id": "sent-658",
+          "text": "pero nos despedimos de ustedes.",
+          "translationRu": "но с вами мы прощаемся."
+        },
+        {
+          "id": "sent-659",
+          "text": "¡Adiós!",
+          "translationRu": "Пока!"
+        }
+      ]
+    },
+    {
+      "id": "para-070",
+      "sentences": [
+        {
+          "id": "sent-660",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-661",
+          "text": "¡Adiós!",
+          "translationRu": "Пока!"
+        }
+      ]
+    },
+    {
+      "id": "para-071",
+      "sentences": [
+        {
+          "id": "sent-662",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-663",
+          "text": "Ya tú,",
+          "translationRu": "Вот ты,"
+        },
+        {
+          "id": "sent-664",
+          "text": "o sea,",
+          "translationRu": "то есть,"
+        },
+        {
+          "id": "sent-665",
+          "text": "hiciste una investigación",
+          "translationRu": "ты провёл исследование,"
+        },
+        {
+          "id": "sent-666",
+          "text": "de qué es el algoritmo.",
+          "translationRu": "что такое алгоритм."
+        }
+      ]
+    },
+    {
+      "id": "para-072",
+      "sentences": [
+        {
+          "id": "sent-667",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-668",
+          "text": "Sí.",
+          "translationRu": "Да."
+        }
+      ]
+    },
+    {
+      "id": "para-073",
+      "sentences": [
+        {
+          "id": "sent-669",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-670",
+          "text": "¿Qué es?",
+          "translationRu": "И что же это?"
+        }
+      ]
+    },
+    {
+      "id": "para-074",
+      "sentences": [
+        {
+          "id": "sent-671",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-672",
+          "text": "Es muy interesante.",
+          "translationRu": "Это очень интересно."
+        },
+        {
+          "id": "sent-673",
+          "text": "Entonces,",
+          "translationRu": "Так вот,"
+        },
+        {
+          "id": "sent-674",
+          "text": "hay muchos matemáticos",
+          "translationRu": "есть много математиков,"
+        },
+        {
+          "id": "sent-675",
+          "text": "que dicen",
+          "translationRu": "которые говорят,"
+        },
+        {
+          "id": "sent-676",
+          "text": "que no tiene una buena definición",
+          "translationRu": "что у него нет хорошего определения"
+        },
+        {
+          "id": "sent-677",
+          "text": "y que es algo muy difícil de explicar, de hecho.",
+          "translationRu": "и что это, на самом деле, очень трудно объяснить."
+        },
+        {
+          "id": "sent-678",
+          "text": "Aunque sea un término",
+          "translationRu": "Хотя это термин,"
+        },
+        {
+          "id": "sent-679",
+          "text": "que usamos tanto al cotidiano,",
+          "translationRu": "который мы так часто используем в повседневности,"
+        },
+        {
+          "id": "sent-680",
+          "text": "pero, obviamente,",
+          "translationRu": "но, очевидно,"
+        },
+        {
+          "id": "sent-681",
+          "text": "se entiende como un cálculo,",
+          "translationRu": "он понимается как некий расчёт,"
+        },
+        {
+          "id": "sent-682",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-683",
+          "text": "una especie de cálculo, quizás,",
+          "translationRu": "что-то вроде расчёта, пожалуй,"
+        },
+        {
+          "id": "sent-684",
+          "text": "que hace un ordenador o una computadora,",
+          "translationRu": "который делает компьютер,"
+        },
+        {
+          "id": "sent-685",
+          "text": "esto de algoritmo.",
+          "translationRu": "вот этот самый алгоритм."
+        },
+        {
+          "id": "sent-686",
+          "text": "Bueno,",
+          "translationRu": "Ну,"
+        },
+        {
+          "id": "sent-687",
+          "text": "o hay gente, también,",
+          "translationRu": "или есть и люди,"
+        },
+        {
+          "id": "sent-688",
+          "text": "que dice",
+          "translationRu": "которые говорят,"
+        },
+        {
+          "id": "sent-689",
+          "text": "que es como una receta,",
+          "translationRu": "что это как рецепт,"
+        },
+        {
+          "id": "sent-690",
+          "text": "como una receta de cocina,",
+          "translationRu": "как кулинарный рецепт,"
+        },
+        {
+          "id": "sent-691",
+          "text": "técnicamente,",
+          "translationRu": "технически"
+        },
+        {
+          "id": "sent-692",
+          "text": "es un algoritmo.",
+          "translationRu": "это алгоритм."
+        }
+      ]
+    },
+    {
+      "id": "para-075",
+      "sentences": [
+        {
+          "id": "sent-693",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-694",
+          "text": "O sea,",
+          "translationRu": "То есть,"
+        },
+        {
+          "id": "sent-695",
+          "text": "como una combinación de diferentes cosas,",
+          "translationRu": "как сочетание разных вещей,"
+        },
+        {
+          "id": "sent-696",
+          "text": "¿o qué?",
+          "translationRu": "или как?"
+        }
+      ]
+    },
+    {
+      "id": "para-076",
+      "sentences": [
+        {
+          "id": "sent-697",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-698",
+          "text": "Exacto.",
+          "translationRu": "Именно."
+        },
+        {
+          "id": "sent-699",
+          "text": "Entonces,",
+          "translationRu": "Так вот,"
+        },
+        {
+          "id": "sent-700",
+          "text": "tienes que cocinar algo,",
+          "translationRu": "тебе нужно что-то приготовить,"
+        },
+        {
+          "id": "sent-701",
+          "text": "hervir el agua,",
+          "translationRu": "вскипятить воду,"
+        },
+        {
+          "id": "sent-702",
+          "text": "luego, añadir el huevo.",
+          "translationRu": "потом добавить яйцо."
+        },
+        {
+          "id": "sent-703",
+          "text": "Entonces,",
+          "translationRu": "Так вот,"
+        },
+        {
+          "id": "sent-704",
+          "text": "estos pasos",
+          "translationRu": "эти шаги"
+        },
+        {
+          "id": "sent-705",
+          "text": "podemos comparar a un algoritmo de hecho.",
+          "translationRu": "мы и правда можем сравнить с алгоритмом."
+        },
+        {
+          "id": "sent-706",
+          "text": "Entonces,",
+          "translationRu": "И вот,"
+        },
+        {
+          "id": "sent-707",
+          "text": "si pones el huevo",
+          "translationRu": "если ты положишь яйцо"
+        },
+        {
+          "id": "sent-708",
+          "text": "antes de tener el agua lista...",
+          "translationRu": "до того, как вода будет готова..."
+        },
+        {
+          "id": "sent-709",
+          "text": "lista,",
+          "translationRu": "готова,"
+        },
+        {
+          "id": "sent-710",
+          "text": "difícil el 'agua',",
+          "translationRu": "трудное слово — «вода»,"
+        },
+        {
+          "id": "sent-711",
+          "text": "no funciona.",
+          "translationRu": "не сработает."
+        },
+        {
+          "id": "sent-712",
+          "text": "Obviamente,",
+          "translationRu": "Очевидно,"
+        },
+        {
+          "id": "sent-713",
+          "text": "tienes que volver al primer paso.",
+          "translationRu": "тебе придётся вернуться к первому шагу."
+        },
+        {
+          "id": "sent-714",
+          "text": "Entonces,",
+          "translationRu": "Так вот,"
+        },
+        {
+          "id": "sent-715",
+          "text": "los algoritmos suelen funcionar así.",
+          "translationRu": "алгоритмы обычно работают именно так."
+        },
+        {
+          "id": "sent-716",
+          "text": "Como...",
+          "translationRu": "Как..."
+        }
+      ]
+    },
+    {
+      "id": "para-077",
+      "sentences": [
+        {
+          "id": "sent-717",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-718",
+          "text": "Pero, también,",
+          "translationRu": "Но ещё"
+        },
+        {
+          "id": "sent-719",
+          "text": "se habla de este algoritmo,",
+          "translationRu": "говорят об этом алгоритме,"
+        },
+        {
+          "id": "sent-720",
+          "text": "por ejemplo, no sé,",
+          "translationRu": "например, не знаю,"
+        },
+        {
+          "id": "sent-721",
+          "text": "en Instagram,",
+          "translationRu": "в Instagram,"
+        },
+        {
+          "id": "sent-722",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-723",
+          "text": "que el algoritmo sabe de tus gustos.",
+          "translationRu": "что алгоритм знает о твоих вкусах."
+        },
+        {
+          "id": "sent-724",
+          "text": "Y es porque, pues,",
+          "translationRu": "И это потому, что, ну,"
+        },
+        {
+          "id": "sent-725",
+          "text": "tú le das like a cierto contenido",
+          "translationRu": "ты ставишь лайк определённому контенту,"
+        },
+        {
+          "id": "sent-726",
+          "text": "y no tengo ni idea, exactamente,",
+          "translationRu": "и я понятия не имею, как именно"
+        },
+        {
+          "id": "sent-727",
+          "text": "cómo funciona.",
+          "translationRu": "это работает."
+        },
+        {
+          "id": "sent-728",
+          "text": "Pero, o sea,",
+          "translationRu": "Но, то есть,"
+        },
+        {
+          "id": "sent-729",
+          "text": "hay una forma",
+          "translationRu": "есть способ,"
+        },
+        {
+          "id": "sent-730",
+          "text": "en la que esta información se recopila",
+          "translationRu": "которым эта информация собирается,"
+        },
+        {
+          "id": "sent-731",
+          "text": "porque la computadora sabe",
+          "translationRu": "потому что компьютер знает,"
+        },
+        {
+          "id": "sent-732",
+          "text": "qué temas entran dentro de una categoría.",
+          "translationRu": "какие темы входят в ту или иную категорию."
+        },
+        {
+          "id": "sent-733",
+          "text": "Entonces,",
+          "translationRu": "И вот,"
+        },
+        {
+          "id": "sent-734",
+          "text": "cuando tú le das like varias veces a algún tema",
+          "translationRu": "когда ты несколько раз ставишь лайк какой-то теме"
+        },
+        {
+          "id": "sent-735",
+          "text": "o te metes a ver ciertos temas,",
+          "translationRu": "или заходишь смотреть определённые темы,"
+        },
+        {
+          "id": "sent-736",
+          "text": "entonces,",
+          "translationRu": "то"
+        },
+        {
+          "id": "sent-737",
+          "text": "te va soltando más de esto,",
+          "translationRu": "тебе подкидывают ещё такого же,"
+        },
+        {
+          "id": "sent-738",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-739",
+          "text": "Como,",
+          "translationRu": "Типа,"
+        },
+        {
+          "id": "sent-740",
+          "text": "ah, esto es lo que te gusta,",
+          "translationRu": "ага, вот это тебе и нравится,"
+        },
+        {
+          "id": "sent-741",
+          "text": "¿no?",
+          "translationRu": "да?"
+        },
+        {
+          "id": "sent-742",
+          "text": "Y empiezas como a soltarte más",
+          "translationRu": "И тебе начинают как бы подкидывать больше"
+        },
+        {
+          "id": "sent-743",
+          "text": "de lo que tú consumes,",
+          "translationRu": "того, что ты потребляешь,"
+        },
+        {
+          "id": "sent-744",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-745",
+          "text": "que es la forma",
+          "translationRu": "вот так вот"
+        },
+        {
+          "id": "sent-746",
+          "text": "en la que yo escucho lo del algoritmo,",
+          "translationRu": "я и слышала про этот алгоритм,"
+        },
+        {
+          "id": "sent-747",
+          "text": "no sé.",
+          "translationRu": "не знаю."
+        }
+      ]
+    },
+    {
+      "id": "para-078",
+      "sentences": [
+        {
+          "id": "sent-748",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-749",
+          "text": "Ajá, sí,",
+          "translationRu": "Ага, да,"
+        },
+        {
+          "id": "sent-750",
+          "text": "es como, quizás,",
+          "translationRu": "это как бы, наверное,"
+        },
+        {
+          "id": "sent-751",
+          "text": "lo que ves en tu página",
+          "translationRu": "то, что ты видишь у себя на странице,"
+        },
+        {
+          "id": "sent-752",
+          "text": "es como una...",
+          "translationRu": "это как..."
+        },
+        {
+          "id": "sent-753",
+          "text": "Es definida por una receta o un algoritmo",
+          "translationRu": "Это определяется рецептом или алгоритмом,"
+        },
+        {
+          "id": "sent-754",
+          "text": "y cuáles son los ingredientes,",
+          "translationRu": "а ингредиенты,"
+        },
+        {
+          "id": "sent-755",
+          "text": "son las acciones",
+          "translationRu": "это те действия,"
+        },
+        {
+          "id": "sent-756",
+          "text": "que has tomado tú.",
+          "translationRu": "которые совершил ты."
+        },
+        {
+          "id": "sent-757",
+          "text": "Pero empezamos,",
+          "translationRu": "Но мы начинаем,"
+        },
+        {
+          "id": "sent-758",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-759",
+          "text": "a hablar de los algoritmos",
+          "translationRu": "говорить об алгоритмах так,"
+        },
+        {
+          "id": "sent-760",
+          "text": "como si tuvieran pensamientos,",
+          "translationRu": "будто у них есть мысли,"
+        },
+        {
+          "id": "sent-761",
+          "text": "como si fuera una persona",
+          "translationRu": "будто это человек"
+        },
+        {
+          "id": "sent-762",
+          "text": "o un ser",
+          "translationRu": "или существо,"
+        },
+        {
+          "id": "sent-763",
+          "text": "que está calculando.",
+          "translationRu": "которое что-то вычисляет."
+        }
+      ]
+    },
+    {
+      "id": "para-079",
+      "sentences": [
+        {
+          "id": "sent-764",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-765",
+          "text": "Que sabe todo sobre ti.",
+          "translationRu": "Которое знает о тебе всё."
+        },
+        {
+          "id": "sent-766",
+          "text": "Y sí,",
+          "translationRu": "И да,"
+        },
+        {
+          "id": "sent-767",
+          "text": "un poco.",
+          "translationRu": "немного так и есть."
+        }
+      ]
+    },
+    {
+      "id": "para-080",
+      "sentences": [
+        {
+          "id": "sent-768",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-769",
+          "text": "Y, un poco,",
+          "translationRu": "И отчасти"
+        },
+        {
+          "id": "sent-770",
+          "text": "es verdad.",
+          "translationRu": "это правда."
+        },
+        {
+          "id": "sent-771",
+          "text": "Y, cuando las cosas se vuelven muy complejas,",
+          "translationRu": "И когда всё становится очень сложным,"
+        },
+        {
+          "id": "sent-772",
+          "text": "también,",
+          "translationRu": "мы тоже"
+        },
+        {
+          "id": "sent-773",
+          "text": "empezamos a ponerlo,",
+          "translationRu": "начинаем это представлять,"
+        },
+        {
+          "id": "sent-774",
+          "text": "hablamos,",
+          "translationRu": "говорим,"
+        },
+        {
+          "id": "sent-775",
+          "text": "¿no?,",
+          "translationRu": "да?,"
+        },
+        {
+          "id": "sent-776",
+          "text": "de una caja negra",
+          "translationRu": "о чёрном ящике,"
+        },
+        {
+          "id": "sent-777",
+          "text": "que no puedes ver dentro",
+          "translationRu": "внутрь которого нельзя заглянуть,"
+        },
+        {
+          "id": "sent-778",
+          "text": "lo que está pasando.",
+          "translationRu": "что там происходит."
+        }
+      ]
+    },
+    {
+      "id": "para-081",
+      "sentences": [
+        {
+          "id": "sent-779",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-780",
+          "text": "Porque es tan difícil de entender.",
+          "translationRu": "Потому что это так трудно понять."
+        }
+      ]
+    },
+    {
+      "id": "para-082",
+      "sentences": [
+        {
+          "id": "sent-781",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-782",
+          "text": "Claro,",
+          "translationRu": "Ну да,"
+        },
+        {
+          "id": "sent-783",
+          "text": "y el formular,",
+          "translationRu": "и эта формула,"
+        },
+        {
+          "id": "sent-784",
+          "text": "¿el fórmula o la fórmula?",
+          "translationRu": "«el fórmula» или «la fórmula»?"
+        }
+      ]
+    },
+    {
+      "id": "para-083",
+      "sentences": [
+        {
+          "id": "sent-785",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-786",
+          "text": "La fórmula.",
+          "translationRu": "La fórmula."
+        }
+      ]
+    },
+    {
+      "id": "para-084",
+      "sentences": [
+        {
+          "id": "sent-787",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-788",
+          "text": "La fórmula",
+          "translationRu": "Формула,"
+        },
+        {
+          "id": "sent-789",
+          "text": "que usan las grandes empresas",
+          "translationRu": "которую используют крупные компании,"
+        },
+        {
+          "id": "sent-790",
+          "text": "es secreta.",
+          "translationRu": "секретна."
+        },
+        {
+          "id": "sent-791",
+          "text": "Entonces, también,",
+          "translationRu": "Так что тут ещё"
+        },
+        {
+          "id": "sent-792",
+          "text": "hay un elemento de misterio",
+          "translationRu": "есть элемент тайны"
+        },
+        {
+          "id": "sent-793",
+          "text": "alrededor de esto.",
+          "translationRu": "вокруг всего этого."
+        },
+        {
+          "id": "sent-794",
+          "text": "Pero, Pau,",
+          "translationRu": "Но, Пау,"
+        },
+        {
+          "id": "sent-795",
+          "text": "¿de dónde viene el término?",
+          "translationRu": "откуда взялся этот термин?"
+        },
+        {
+          "id": "sent-796",
+          "text": "¿Por qué los llamamos algoritmos?",
+          "translationRu": "Почему мы называем их алгоритмами?"
+        }
+      ]
+    },
+    {
+      "id": "para-085",
+      "sentences": [
+        {
+          "id": "sent-797",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-798",
+          "text": "No tengo",
+          "translationRu": "У меня нет"
+        },
+        {
+          "id": "sent-799",
+          "text": "ni la menor idea.",
+          "translationRu": "ни малейшего понятия."
+        }
+      ]
+    },
+    {
+      "id": "para-086",
+      "sentences": [
+        {
+          "id": "sent-800",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-801",
+          "text": "¿Lo quieres adivinar?",
+          "translationRu": "Хочешь угадать?"
+        },
+        {
+          "id": "sent-802",
+          "text": "Bueno,",
+          "translationRu": "Ну,"
+        },
+        {
+          "id": "sent-803",
+          "text": "adivina ahora.",
+          "translationRu": "давай угадывай."
+        }
+      ]
+    },
+    {
+      "id": "para-087",
+      "sentences": [
+        {
+          "id": "sent-804",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-805",
+          "text": "Se me vienen",
+          "translationRu": "Мне в голову лезут"
+        },
+        {
+          "id": "sent-806",
+          "text": "cosas súper bobas,",
+          "translationRu": "всякие супердурацкие штуки,"
+        },
+        {
+          "id": "sent-807",
+          "text": "así como de algo ritmo.",
+          "translationRu": "типа что-то про ритм."
+        }
+      ]
+    },
+    {
+      "id": "para-088",
+      "sentences": [
+        {
+          "id": "sent-808",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-809",
+          "text": "Sí,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-810",
+          "text": "suena como ritmo,",
+          "translationRu": "звучит как ритм,"
+        },
+        {
+          "id": "sent-811",
+          "text": "¿no?",
+          "translationRu": "правда?"
+        }
+      ]
+    },
+    {
+      "id": "para-089",
+      "sentences": [
+        {
+          "id": "sent-812",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-813",
+          "text": "Como algo con ritmo.",
+          "translationRu": "Типа что-то с ритмом."
+        },
+        {
+          "id": "sent-814",
+          "text": "Algoritmo.",
+          "translationRu": "Алгоритм."
+        },
+        {
+          "id": "sent-815",
+          "text": "No,",
+          "translationRu": "Нет,"
+        },
+        {
+          "id": "sent-816",
+          "text": "no tengo ni la menor idea",
+          "translationRu": "у меня нет ни малейшего понятия,"
+        },
+        {
+          "id": "sent-817",
+          "text": "de dónde viene.",
+          "translationRu": "откуда оно взялось."
+        }
+      ]
+    },
+    {
+      "id": "para-090",
+      "sentences": [
+        {
+          "id": "sent-818",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-819",
+          "text": "Viene de un nombre.",
+          "translationRu": "Оно произошло от имени."
+        },
+        {
+          "id": "sent-820",
+          "text": "Algoritmo",
+          "translationRu": "Алгоритм —"
+        },
+        {
+          "id": "sent-821",
+          "text": "es la forma latín",
+          "translationRu": "это латинская форма"
+        },
+        {
+          "id": "sent-822",
+          "text": "de un hombre,",
+          "translationRu": "имени одного человека,"
+        },
+        {
+          "id": "sent-823",
+          "text": "de un matemático perso",
+          "translationRu": "математика-перса"
+        },
+        {
+          "id": "sent-824",
+          "text": "o de habla árabe,",
+          "translationRu": "или арабоязычного,"
+        },
+        {
+          "id": "sent-825",
+          "text": "muy, muy antiguo.",
+          "translationRu": "очень-очень древнего."
+        },
+        {
+          "id": "sent-826",
+          "text": "Entonces,",
+          "translationRu": "В общем,"
+        },
+        {
+          "id": "sent-827",
+          "text": "su nombre era",
+          "translationRu": "его звали"
+        },
+        {
+          "id": "sent-828",
+          "text": "como Al-Khwarizmi",
+          "translationRu": "вроде Аль-Хорезми"
+        },
+        {
+          "id": "sent-829",
+          "text": "o algo así.",
+          "translationRu": "или как-то так."
+        },
+        {
+          "id": "sent-830",
+          "text": "Y, entonces,",
+          "translationRu": "И, в общем,"
+        },
+        {
+          "id": "sent-831",
+          "text": "es un nombre",
+          "translationRu": "это имя"
+        },
+        {
+          "id": "sent-832",
+          "text": "de un matemático",
+          "translationRu": "одного математика,"
+        },
+        {
+          "id": "sent-833",
+          "text": "básicamente.",
+          "translationRu": "по сути."
+        }
+      ]
+    },
+    {
+      "id": "para-091",
+      "sentences": [
+        {
+          "id": "sent-834",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-835",
+          "text": "Y álgebra.",
+          "translationRu": "И алгебра."
+        }
+      ]
+    },
+    {
+      "id": "para-092",
+      "sentences": [
+        {
+          "id": "sent-836",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-837",
+          "text": "Álgebra,",
+          "translationRu": "Алгебра —"
+        },
+        {
+          "id": "sent-838",
+          "text": "no sé.",
+          "translationRu": "не знаю."
+        }
+      ]
+    },
+    {
+      "id": "para-093",
+      "sentences": [
+        {
+          "id": "sent-839",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-840",
+          "text": "A ver,",
+          "translationRu": "Так,"
+        },
+        {
+          "id": "sent-841",
+          "text": "vamos a ver",
+          "translationRu": "давай посмотрим,"
+        },
+        {
+          "id": "sent-842",
+          "text": "de dónde viene",
+          "translationRu": "откуда взялось"
+        },
+        {
+          "id": "sent-843",
+          "text": "la palabra álgebra",
+          "translationRu": "слово 'алгебра',"
+        },
+        {
+          "id": "sent-844",
+          "text": "porque, ahora,",
+          "translationRu": "потому что мне сейчас"
+        },
+        {
+          "id": "sent-845",
+          "text": "me vino eso también.",
+          "translationRu": "и это в голову пришло."
+        }
+      ]
+    },
+    {
+      "id": "para-094",
+      "sentences": [
+        {
+          "id": "sent-846",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-847",
+          "text": "Es del árabe.",
+          "translationRu": "Оно из арабского."
+        },
+        {
+          "id": "sent-848",
+          "text": "Sé que",
+          "translationRu": "Я знаю, что"
+        },
+        {
+          "id": "sent-849",
+          "text": "es otra palabra árabe,",
+          "translationRu": "это ещё одно арабское слово —"
+        },
+        {
+          "id": "sent-850",
+          "text": "álgebra.",
+          "translationRu": "алгебра."
+        }
+      ]
+    },
+    {
+      "id": "para-095",
+      "sentences": [
+        {
+          "id": "sent-851",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-852",
+          "text": "Sí.",
+          "translationRu": "Да."
+        },
+        {
+          "id": "sent-853",
+          "text": "Por eso,",
+          "translationRu": "Поэтому"
+        },
+        {
+          "id": "sent-854",
+          "text": "me da curiosidad",
+          "translationRu": "мне любопытно,"
+        },
+        {
+          "id": "sent-855",
+          "text": "porque como que siento que...",
+          "translationRu": "потому что я как будто чувствую, что…"
+        },
+        {
+          "id": "sent-856",
+          "text": "álgebra viene",
+          "translationRu": "алгебра происходит"
+        },
+        {
+          "id": "sent-857",
+          "text": "del árabe al-jabr,",
+          "translationRu": "от арабского аль-джабр,"
+        },
+        {
+          "id": "sent-858",
+          "text": "que significa",
+          "translationRu": "что означает"
+        },
+        {
+          "id": "sent-859",
+          "text": "reunir las partes rotas",
+          "translationRu": "соединять сломанные части"
+        },
+        {
+          "id": "sent-860",
+          "text": "o restaurar.",
+          "translationRu": "или восстанавливать."
+        },
+        {
+          "id": "sent-861",
+          "text": "Un libro,",
+          "translationRu": "Книга,"
+        },
+        {
+          "id": "sent-862",
+          "text": "por el matemático",
+          "translationRu": "написанная математиком"
+        },
+        {
+          "id": "sent-863",
+          "text": "Muhammad Ibn Musa Al-Khwarizmi.",
+          "translationRu": "Мухаммадом ибн Мусой аль-Хорезми."
+        },
+        {
+          "id": "sent-864",
+          "text": "Ahí está.",
+          "translationRu": "Вот оно."
+        },
+        {
+          "id": "sent-865",
+          "text": "En latín,",
+          "translationRu": "На латыни —"
+        },
+        {
+          "id": "sent-866",
+          "text": "algoritmi.",
+          "translationRu": "алгоритми."
+        }
+      ]
+    },
+    {
+      "id": "para-096",
+      "sentences": [
+        {
+          "id": "sent-867",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-868",
+          "text": "Algoritmi,",
+          "translationRu": "Алгоритми,"
+        },
+        {
+          "id": "sent-869",
+          "text": "exacto.",
+          "translationRu": "точно."
+        }
+      ]
+    },
+    {
+      "id": "para-097",
+      "sentences": [
+        {
+          "id": "sent-870",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-871",
+          "text": "O sea,",
+          "translationRu": "То есть,"
+        },
+        {
+          "id": "sent-872",
+          "text": "sí tiene que ver algo",
+          "translationRu": "всё-таки есть какая-то связь:"
+        },
+        {
+          "id": "sent-873",
+          "text": "álgebra y algoritmo.",
+          "translationRu": "алгебра и алгоритм."
+        }
+      ]
+    },
+    {
+      "id": "para-098",
+      "sentences": [
+        {
+          "id": "sent-874",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-875",
+          "text": "Bueno",
+          "translationRu": "Ну в том смысле,"
+        },
+        {
+          "id": "sent-876",
+          "text": "que los dos",
+          "translationRu": "что оба"
+        },
+        {
+          "id": "sent-877",
+          "text": "vienen del árabe,",
+          "translationRu": "происходят из арабского,"
+        },
+        {
+          "id": "sent-878",
+          "text": "de alguna manera.",
+          "translationRu": "так или иначе."
+        }
+      ]
+    },
+    {
+      "id": "para-099",
+      "sentences": [
+        {
+          "id": "sent-879",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-880",
+          "text": "Pero ¿y por qué dice",
+          "translationRu": "Но почему тут говорится,"
+        },
+        {
+          "id": "sent-881",
+          "text": "que se llamaba",
+          "translationRu": "что его звали"
+        },
+        {
+          "id": "sent-882",
+          "text": "Al-Khwarizmi?",
+          "translationRu": "Аль-Хорезми?"
+        },
+        {
+          "id": "sent-883",
+          "text": "Guau,",
+          "translationRu": "Ого,"
+        },
+        {
+          "id": "sent-884",
+          "text": "si alguien sabe",
+          "translationRu": "если кто-то знает"
+        },
+        {
+          "id": "sent-885",
+          "text": "esa historia,",
+          "translationRu": "эту историю,"
+        },
+        {
+          "id": "sent-886",
+          "text": "por favor,",
+          "translationRu": "пожалуйста,"
+        },
+        {
+          "id": "sent-887",
+          "text": "díganosla mejor.",
+          "translationRu": "расскажите нам её получше."
+        },
+        {
+          "id": "sent-888",
+          "text": "Porque",
+          "translationRu": "Потому что"
+        },
+        {
+          "id": "sent-889",
+          "text": "nuestra breve investigación.",
+          "translationRu": "наше небольшое расследование."
+        }
+      ]
+    },
+    {
+      "id": "para-100",
+      "sentences": [
+        {
+          "id": "sent-890",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-891",
+          "text": "Fue su nombre,",
+          "translationRu": "Это было его имя,"
+        },
+        {
+          "id": "sent-892",
+          "text": "simplemente.",
+          "translationRu": "просто и всё."
+        }
+      ]
+    },
+    {
+      "id": "para-101",
+      "sentences": [
+        {
+          "id": "sent-893",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-894",
+          "text": "Sí,",
+          "translationRu": "Да,"
+        },
+        {
+          "id": "sent-895",
+          "text": "pero aquí dice",
+          "translationRu": "но тут как раз"
+        },
+        {
+          "id": "sent-896",
+          "text": "justo el nombre.",
+          "translationRu": "написано имя."
+        },
+        {
+          "id": "sent-897",
+          "text": "Pero ¿por qué",
+          "translationRu": "Но почему"
+        },
+        {
+          "id": "sent-898",
+          "text": "lo relacionan aquí",
+          "translationRu": "его тут связывают"
+        },
+        {
+          "id": "sent-899",
+          "text": "con álgebra?",
+          "translationRu": "с алгеброй?"
+        },
+        {
+          "id": "sent-900",
+          "text": "Yo no pregunté nada",
+          "translationRu": "Я ничего не спрашивала"
+        },
+        {
+          "id": "sent-901",
+          "text": "del algoritmo.",
+          "translationRu": "про алгоритм."
+        },
+        {
+          "id": "sent-902",
+          "text": "Solamente dije",
+          "translationRu": "Я только сказала"
+        },
+        {
+          "id": "sent-903",
+          "text": "álgebra",
+          "translationRu": "'алгебра',"
+        },
+        {
+          "id": "sent-904",
+          "text": "y me apareció",
+          "translationRu": "и мне выскочило"
+        },
+        {
+          "id": "sent-905",
+          "text": "esto del algoritmo.",
+          "translationRu": "вот это про алгоритм."
+        },
+        {
+          "id": "sent-906",
+          "text": "Entonces,",
+          "translationRu": "Так что"
+        },
+        {
+          "id": "sent-907",
+          "text": "no sé si hay una relación,",
+          "translationRu": "не знаю, есть ли связь,"
+        },
+        {
+          "id": "sent-908",
+          "text": "pues.",
+          "translationRu": "ну."
+        }
+      ]
+    },
+    {
+      "id": "para-102",
+      "sentences": [
+        {
+          "id": "sent-909",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-910",
+          "text": "No,",
+          "translationRu": "Нет,"
+        },
+        {
+          "id": "sent-911",
+          "text": "creo que,",
+          "translationRu": "думаю,"
+        },
+        {
+          "id": "sent-912",
+          "text": "simplemente,",
+          "translationRu": "просто"
+        },
+        {
+          "id": "sent-913",
+          "text": "fue un matemático",
+          "translationRu": "это был математик,"
+        },
+        {
+          "id": "sent-914",
+          "text": "que trabajaba con esto",
+          "translationRu": "который этим занимался"
+        },
+        {
+          "id": "sent-915",
+          "text": "y describió",
+          "translationRu": "и описал"
+        },
+        {
+          "id": "sent-916",
+          "text": "el concepto de un algoritmo.",
+          "translationRu": "понятие алгоритма."
+        }
+      ]
+    },
+    {
+      "id": "para-103",
+      "sentences": [
+        {
+          "id": "sent-917",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-918",
+          "text": "Dice",
+          "translationRu": "Тут написано:"
+        },
+        {
+          "id": "sent-919",
+          "text": "Al-Khwarizmi",
+          "translationRu": "Аль-Хорезми —"
+        },
+        {
+          "id": "sent-920",
+          "text": "es el primero en sistematizar",
+          "translationRu": "первый, кто систематизировал"
+        },
+        {
+          "id": "sent-921",
+          "text": "reglas generales",
+          "translationRu": "общие правила"
+        },
+        {
+          "id": "sent-922",
+          "text": "para resolver",
+          "translationRu": "для решения"
+        },
+        {
+          "id": "sent-923",
+          "text": "ecuaciones lineales y cuadráticas.",
+          "translationRu": "линейных и квадратных уравнений."
+        },
+        {
+          "id": "sent-924",
+          "text": "Bueno,",
+          "translationRu": "Ну вот,"
+        },
+        {
+          "id": "sent-925",
+          "text": "ahí hay algo,",
+          "translationRu": "тут что-то есть,"
+        },
+        {
+          "id": "sent-926",
+          "text": "como una investigación más profunda",
+          "translationRu": "вроде как нужно более глубокое исследование,"
+        },
+        {
+          "id": "sent-927",
+          "text": "que se tendría que hacer,",
+          "translationRu": "которое стоило бы провести,"
+        },
+        {
+          "id": "sent-928",
+          "text": "pero creo que",
+          "translationRu": "но я думаю, что"
+        },
+        {
+          "id": "sent-929",
+          "text": "hay alguna relación",
+          "translationRu": "какая-то связь есть"
+        },
+        {
+          "id": "sent-930",
+          "text": "entre el álgebra y el algoritmo.",
+          "translationRu": "между алгеброй и алгоритмом."
+        }
+      ]
+    },
+    {
+      "id": "para-104",
+      "sentences": [
+        {
+          "id": "sent-931",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-932",
+          "text": "Pero, bueno,",
+          "translationRu": "Но, в общем,"
+        },
+        {
+          "id": "sent-933",
+          "text": "me pareció interesante o curioso,",
+          "translationRu": "мне показалось интересным или забавным,"
+        },
+        {
+          "id": "sent-934",
+          "text": "que hablamos tanto",
+          "translationRu": "что мы столько говорим"
+        },
+        {
+          "id": "sent-935",
+          "text": "de algoritmos hoy en día,",
+          "translationRu": "об алгоритмах в наши дни,"
+        },
+        {
+          "id": "sent-936",
+          "text": "que viene",
+          "translationRu": "а оно происходит"
+        },
+        {
+          "id": "sent-937",
+          "text": "de un nombre de un científico",
+          "translationRu": "от имени учёного,"
+        },
+        {
+          "id": "sent-938",
+          "text": "que no supe.",
+          "translationRu": "которого я не знал."
+        }
+      ]
+    },
+    {
+      "id": "para-105",
+      "sentences": [
+        {
+          "id": "sent-939",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-940",
+          "text": "Pues,",
+          "translationRu": "Ну,"
+        },
+        {
+          "id": "sent-941",
+          "text": "muchas gracias,",
+          "translationRu": "большое спасибо,"
+        },
+        {
+          "id": "sent-942",
+          "text": "Harry,",
+          "translationRu": "Гарри,"
+        },
+        {
+          "id": "sent-943",
+          "text": "por traer este tema",
+          "translationRu": "что поднял эту тему,"
+        },
+        {
+          "id": "sent-944",
+          "text": "porque, a mí,",
+          "translationRu": "потому что мне"
+        },
+        {
+          "id": "sent-945",
+          "text": "no se me hubiera ocurrido.",
+          "translationRu": "такое и в голову бы не пришло."
+        },
+        {
+          "id": "sent-946",
+          "text": "Y estuvo divertido.",
+          "translationRu": "И было весело."
+        }
+      ]
+    },
+    {
+      "id": "para-106",
+      "sentences": [
+        {
+          "id": "sent-947",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-948",
+          "text": "Bueno,",
+          "translationRu": "Ну,"
+        },
+        {
+          "id": "sent-949",
+          "text": "gracias por invitarme",
+          "translationRu": "спасибо, что снова"
+        },
+        {
+          "id": "sent-950",
+          "text": "de nuevo,",
+          "translationRu": "меня позвала,"
+        },
+        {
+          "id": "sent-951",
+          "text": "Pau.",
+          "translationRu": "Пау."
+        }
+      ]
+    },
+    {
+      "id": "para-107",
+      "sentences": [
+        {
+          "id": "sent-952",
+          "text": "Paulina:",
+          "translationRu": "Paulina:",
+          "heading": true
+        },
+        {
+          "id": "sent-953",
+          "text": "¡Bye!",
+          "translationRu": "Пока!"
+        }
+      ]
+    },
+    {
+      "id": "para-108",
+      "sentences": [
+        {
+          "id": "sent-954",
+          "text": "Harry:",
+          "translationRu": "Harry:",
+          "heading": true
+        },
+        {
+          "id": "sent-955",
+          "text": "Chao,",
+          "translationRu": "Чао,"
+        },
+        {
+          "id": "sent-956",
+          "text": "chao.",
+          "translationRu": "чао."
+        }
+      ]
+    }
+  ]
+}

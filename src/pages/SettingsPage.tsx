@@ -189,7 +189,7 @@ export function SettingsPage() {
         </section>
 
         <section className="block">
-          <p className="muted">Greda · офлайн-ридер · версия 0.3.0</p>
+          <p className="muted">Greda · офлайн-ридер · версия 0.3.1</p>
         </section>
       </main>
     </div>

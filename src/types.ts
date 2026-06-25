@@ -54,6 +54,8 @@ export interface CatalogWork {
   words?: Partial<Record<Level, number>>
   /** Количество глав в произведении. */
   chapters?: number
+  /** Источник (для подкастов и т.п.): название + ссылка на оригинал. */
+  source?: { name: string; url: string }
 }
 
 export interface Catalog {
@@ -83,6 +85,8 @@ export interface Work {
   author: { id: string; name: string }
   genres: string[]
   synopsisRu: string
+  /** Источник (для подкастов и т.п.): название + ссылка на оригинал. */
+  source?: { name: string; url: string }
   levels: Record<Level, WorkLevelInfo>
 }
 

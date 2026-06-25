@@ -53,6 +53,15 @@
               "c1": { "type": "integer", "minimum": 0 },
               "c2": { "type": "integer", "minimum": 0 }
             }
+          },
+          "source": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "url"],
+            "properties": {
+              "name": { "type": "string", "minLength": 1 },
+              "url": { "type": "string", "minLength": 1 }
+            }
           }
         }
       }
