@@ -7,7 +7,7 @@
   --border: #e1e5ea;
   --accent: #1f6feb;
   --accent-contrast: #ffffff;
-  --sent-active-bg: #fff3c4;
+  --sent-active-bg: #ffe08a;
   --translation-bg: #eef4ff;
   --translation-text: #28406b;
   --danger: #c4314b;
@@ -27,7 +27,7 @@
   --border: #2a313c;
   --accent: #4d8bf0;
   --accent-contrast: #0d1117;
-  --sent-active-bg: #3b3417;
+  --sent-active-bg: #5c4f1d;
   --translation-bg: #16212f;
   --translation-text: #bcd0e6;
   --danger: #f0697f;
@@ -522,7 +522,8 @@ button {
 .sent:focus-visible {
   box-shadow: 0 0 0 2px var(--accent);
 }
-.sent--active {
+.sent--active,
+.sent--active:hover {
   background: var(--sent-active-bg);
 }
 .translation {
