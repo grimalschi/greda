@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { TopBar } from '../components/TopBar'
 import { useAppState } from '../state/store'
 import { checkForAppUpdate } from '../lib/offline'
+import { DEFAULT_EXPLAIN_PROMPT } from '../lib/storage'
 import type { AiProvider, FontSize, Theme, TranslationMode } from '../lib/storage'
 
 const PROVIDER_OPTIONS: { value: AiProvider; label: string }[] = [
@@ -142,18 +143,27 @@ export function SettingsPage() {
             />
           </label>
           <label className="field">
-            <span className="field__label">Промпт (плейсхолдер __SENTENCE__)</span>
+            <span className="field__label">Промпт объяснения</span>
             <textarea
               className="field__input field__textarea"
-              rows={3}
+              rows={8}
               value={s.explainPrompt}
               onChange={(e) => updateSettings({ explainPrompt: e.target.value })}
             />
           </label>
+          <button
+            type="button"
+            className="btn btn--sm"
+            onClick={() => updateSettings({ explainPrompt: DEFAULT_EXPLAIN_PROMPT })}
+            disabled={s.explainPrompt === DEFAULT_EXPLAIN_PROMPT}
+          >
+            Сбросить промпт к стандартному
+          </button>
           <p className="muted" style={{ fontSize: '0.85em' }}>
             Ключ хранится только в этом браузере; запрос идёт напрямую к провайдеру при открытии
-            вкладки «Объяснение» (режимы «Панель снизу» и «Поповер»). <code>__SENTENCE__</code>{' '}
-            заменяется на предложение.{' '}
+            вкладки «Объяснение» (режимы «Панель снизу» и «Поповер»). Плейсхолдеры:{' '}
+            <code>__SENTENCE__</code> — предложение, <code>__TRANSLATION__</code> — его перевод,{' '}
+            <code>__CONTEXT__</code> — 2 предложения до и после.{' '}
             {provider === 'openrouter' ? (
               <>
                 <b>OpenRouter</b> работает из браузера надёжнее (видны ошибки, есть бесплатные модели —
@@ -220,7 +230,7 @@ export function SettingsPage() {
         </section>
 
         <section className="block">
-          <p className="muted">Greda · офлайн-ридер · версия 0.3.2</p>
+          <p className="muted">Greda · офлайн-ридер · версия 0.3.3</p>
         </section>
       </main>
     </div>

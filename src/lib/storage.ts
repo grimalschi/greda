@@ -25,12 +25,30 @@ export interface Settings {
   /** Модели на каждого провайдера. */
   openaiModel: string
   openrouterModel: string
-  /** Шаблон промпта; __SENTENCE__ заменяется на предложение. */
+  /** Шаблон промпта объяснения. Плейсхолдеры: __SENTENCE__ → предложение,
+   * __TRANSLATION__ → его перевод, __CONTEXT__ → 2 предложения до и после. */
   explainPrompt: string
 }
 
-export const DEFAULT_EXPLAIN_PROMPT =
-  'Кратко объясни грамматику и структуру предложения на испанском: __SENTENCE__'
+export const DEFAULT_EXPLAIN_PROMPT = `Текст: __SENTENCE__
+Перевод: __TRANSLATION__
+Контекст __CONTEXT__
+
+Максимально кратко разбери испанское предложение по частям. Формат строго:
+
+* часть — перевод/функция (2–5 слов)
+
+Без схем, без общих объяснений, без грамматической теории. Если есть важная грамматика внутри фразы, кратко раскрой её отдельными подпунктами - если раскрытие не будет дублировать исходный пункт.
+
+Ответ должен быть максимально сжатым и удобным для быстрого чтения.
+
+Не используй грамматические или лингвистические термины. Используй простой язык. Очевидные вещи можешь опускать чтобы сократить ответ.`
+
+// Прошлые значения промпта по умолчанию — чтобы при обновлении подменить новый стандарт
+// ТОЛЬКО у тех, кто не редактировал свой промпт (кастомные промпты не трогаем).
+const LEGACY_DEFAULT_PROMPTS = [
+  'Кратко объясни грамматику и структуру предложения на испанском: __SENTENCE__',
+]
 
 export interface LastOpened {
   workId: string
@@ -62,7 +80,7 @@ export interface Store {
 }
 
 const STORAGE_KEY = 'greda:v1'
-const STORE_VERSION = 2
+const STORE_VERSION = 3
 
 export const DEFAULT_SETTINGS: Settings = {
   theme: 'system',
@@ -87,16 +105,24 @@ export function loadStore(): Store {
     const parsed = JSON.parse(raw) as Partial<Store> & { v?: number }
     const settings = { ...DEFAULT_SETTINGS, ...(parsed.settings ?? {}) }
     const works = parsed.works ?? {}
-    if (parsed.v !== STORE_VERSION) {
-      // Одноразовая миграция: ранний баг прогресса помечал главы «прочитано» уже при
-      // открытии. Снимаем ложные отметки завершения, сохраняя позицию чтения и настройки.
-      for (const wid in works) {
-        const byLevel = works[wid]
-        if (!byLevel) continue
-        for (const lv of Object.keys(byLevel) as Level[]) {
-          const p = byLevel[lv]
-          if (p) p.completedChapterIds = []
+    const fromV = parsed.v ?? 0
+    if (fromV !== STORE_VERSION) {
+      // v<2: ранний баг прогресса помечал главы «прочитано» уже при открытии —
+      // снимаем ложные отметки завершения (позиция чтения и настройки сохраняются).
+      if (fromV < 2) {
+        for (const wid in works) {
+          const byLevel = works[wid]
+          if (!byLevel) continue
+          for (const lv of Object.keys(byLevel) as Level[]) {
+            const p = byLevel[lv]
+            if (p) p.completedChapterIds = []
+          }
         }
+      }
+      // v<3: подхватываем новый промпт по умолчанию, но только если пользователь
+      // не редактировал свой (его текст всё ещё совпадает с прежним стандартом).
+      if (fromV < 3 && LEGACY_DEFAULT_PROMPTS.includes(settings.explainPrompt)) {
+        settings.explainPrompt = DEFAULT_EXPLAIN_PROMPT
       }
     }
     return {

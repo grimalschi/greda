@@ -33,10 +33,12 @@ type ExplainState = { loading: boolean; text: string; error: string }
 /** Содержимое панели/поповера: вкладки «Перевод», «Объяснение» (GPT) и «Оригинал» (если есть). */
 function PanelContent({
   sentence,
+  context,
   settings,
   onClose,
 }: {
   sentence: Sentence
+  context: string
   settings: Settings
   onClose: () => void
 }) {
@@ -56,7 +58,15 @@ function PanelContent({
 
   useEffect(() => {
     if (!explainRequested) return
-    const args = { text: sentence.text, prompt: settings.explainPrompt, provider, apiKey, model }
+    const args = {
+      text: sentence.text,
+      translation: sentence.translationRu,
+      context,
+      prompt: settings.explainPrompt,
+      provider,
+      apiKey,
+      model,
+    }
     if (!apiKey.trim()) {
       setEx({ loading: false, text: '', error: 'no-key' })
       return
@@ -88,7 +98,16 @@ function PanelContent({
       cancelled = true
       ctrl.abort()
     }
-  }, [explainRequested, sentence.text, provider, apiKey, model, settings.explainPrompt])
+  }, [
+    explainRequested,
+    sentence.text,
+    sentence.translationRu,
+    context,
+    provider,
+    apiKey,
+    model,
+    settings.explainPrompt,
+  ])
 
   return (
     <>
@@ -211,6 +230,24 @@ export function ReaderPage() {
     sentenceIds.forEach((id, i) => m.set(id, i))
     return m
   }, [sentenceIds])
+  // Плоский список предложений по порядку — для окна контекста (__CONTEXT__).
+  const flatSentences = useMemo(() => {
+    const arr: Sentence[] = []
+    if (chapter) for (const p of chapter.paragraphs) for (const s of p.sentences) arr.push(s)
+    return arr
+  }, [chapter])
+  // Контекст для объяснения: 2 предложения до + это + 2 после (исп. текст, через пробел).
+  const contextFor = useCallback(
+    (id: string): string => {
+      const i = indexOf.get(id)
+      if (i == null) return ''
+      return flatSentences
+        .slice(Math.max(0, i - 2), i + 3)
+        .map((s) => s.text)
+        .join(' ')
+    },
+    [flatSentences, indexOf],
+  )
 
   useEffect(() => {
     const prog = storeRef.current.works[workId]?.[level]
@@ -424,6 +461,7 @@ export function ReaderPage() {
           <PanelContent
             key={panelSent.id}
             sentence={panelSent}
+            context={contextFor(panelSent.id)}
             settings={store.settings}
             onClose={closePanel}
           />
@@ -443,6 +481,7 @@ export function ReaderPage() {
             <PanelContent
               key={panelSent.id}
               sentence={panelSent}
+              context={contextFor(panelSent.id)}
               settings={store.settings}
               onClose={closePanel}
             />

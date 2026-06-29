@@ -4,6 +4,10 @@ import type { AiProvider } from './storage'
 
 interface ExplainOpts {
   text: string
+  /** Русский перевод этого предложения (плейсхолдер __TRANSLATION__). */
+  translation: string
+  /** Окно контекста: 2 предложения до + это + 2 после (плейсхолдер __CONTEXT__). */
+  context: string
   prompt: string
   provider: AiProvider
   apiKey: string
@@ -17,15 +21,21 @@ const ENDPOINTS: Record<AiProvider, string> = {
 
 const cache = new Map<string, string>()
 
-function fillPrompt(prompt: string, text: string): string {
-  // Функция-замена, чтобы $ в тексте (напр. «$30,000») не толковался как спецсимвол.
-  return prompt.includes('__SENTENCE__')
-    ? prompt.replace(/__SENTENCE__/g, () => text)
-    : `${prompt}\n\n${text}`
+function fillPrompt(
+  prompt: string,
+  { text, translation, context }: { text: string; translation: string; context: string },
+): string {
+  // Замены через функцию, чтобы $ в тексте (напр. «$30,000») не толковался как спецсимвол.
+  const hasPlaceholder = /__SENTENCE__|__TRANSLATION__|__CONTEXT__/.test(prompt)
+  const out = prompt
+    .replace(/__SENTENCE__/g, () => text)
+    .replace(/__TRANSLATION__/g, () => translation)
+    .replace(/__CONTEXT__/g, () => context)
+  return hasPlaceholder ? out : `${out}\n\n${text}`
 }
 
-function cacheKey({ provider, text, prompt, model }: ExplainOpts): string {
-  return `${provider} ${model} ${fillPrompt(prompt, text)}`
+function cacheKey(opts: ExplainOpts): string {
+  return `${opts.provider} ${opts.model} ${fillPrompt(opts.prompt, opts)}`
 }
 
 /** Синхронно отдаёт закэшированный ответ, если он уже есть (чтобы не стримить заново). */
@@ -58,7 +68,7 @@ export async function explainSentenceStream(
       signal,
       body: JSON.stringify({
         model: opts.model,
-        messages: [{ role: 'user', content: fillPrompt(opts.prompt, opts.text) }],
+        messages: [{ role: 'user', content: fillPrompt(opts.prompt, opts) }],
         temperature: 0.3,
         stream: true,
       }),
