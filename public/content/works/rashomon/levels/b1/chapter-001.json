@@ -13,21 +13,17 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Era por la tarde.",
-          "translationRu": "Был вечер.",
-          "original": "It was evening."
+          "text": "Era el atardecer de un día.",
+          "translationRu": "Был вечер одного дня.",
+          "original": "ある日の暮方の事である。",
+          "originalRu": "Это случилось однажды под вечер."
         },
         {
           "id": "sent-002",
-          "text": "Un sirviente estaba solo bajo la gran puerta de Rashōmon,",
-          "translationRu": "Слуга сидел один под большими воротами Расёмон,",
-          "original": "A solitary lackey sat under Rashōmon"
-        },
-        {
-          "id": "sent-003",
-          "text": "esperando que dejara de llover.",
-          "translationRu": "ожидая, когда прекратится дождь.",
-          "original": "waiting for the rain to clear."
+          "text": "Un sirviente esperaba a que terminara la lluvia bajo la puerta Rashōmon.",
+          "translationRu": "Один слуга ждал под воротами Расёмон, пока кончится дождь.",
+          "original": "一人の下人が、羅生門の下で雨やみを待っていた。",
+          "originalRu": "Некий слуга пережидал дождь под воротами Расёмон."
         }
       ]
     },
@@ -35,58 +31,32 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-003",
+          "text": "Bajo la ancha puerta no había nadie más que este hombre.",
+          "translationRu": "Под широкими воротами не было никого, кроме этого человека.",
+          "original": "広い門の下には、この男のほかに誰もいない。",
+          "originalRu": "Под широкими воротами, кроме этого человека, не было никого."
+        },
+        {
           "id": "sent-004",
-          "text": "Bajo la ancha puerta no había nadie más.",
-          "translationRu": "Под широкими воротами больше никого не было.",
-          "original": "Beneath the broad gate, there was not another soul."
+          "text": "Solo un grillo estaba posado en una gran columna redonda, cuya pintura roja se había caído en algunas partes.",
+          "translationRu": "Лишь один сверчок сидел на большой круглой колонне, с которой местами осыпалась красная краска.",
+          "original": "ただ、所々丹塗の剥げた、大きな円柱に、蟋蟀が一匹とまっている。",
+          "originalRu": "Только на большой круглой колонне, с которой местами облупился багряный лак, сидел сверчок."
         },
         {
           "id": "sent-005",
-          "text": "Solo había un grillo solitario,",
-          "translationRu": "Лишь одинокий сверчок сидел",
-          "original": "Only,"
+          "text": "Como la puerta Rashōmon se encontraba en la avenida Suzaku, era de esperar que, además de este hombre, hubiera otras dos o tres personas con sombreros de mujer o gorros blandos, esperando también a que parara la lluvia.",
+          "translationRu": "Поскольку ворота Расёмон стояли на проспекте Судзаку, можно было бы ожидать, что, кроме этого человека, там окажутся ещё двое-трое в женских шляпах или мягких шапках, тоже пережидающих дождь.",
+          "original": "羅生門が、朱雀大路にある以上は、この男のほかにも、雨やみをする市女笠や揉烏帽子が、もう二三人はありそうなものである。",
+          "originalRu": "Раз ворота Расёмон стоят на улице Судзаку, то, кроме этого человека, под ними могли бы пережидать дождь ещё двое-трое прохожих в женских плетёных шляпах или в мягких чёрных шапках."
         },
         {
           "id": "sent-006",
-          "text": "sentado en una columna grande y redonda,",
-          "translationRu": "на большой круглой колонне,",
-          "original": "on a big round pillar,"
-        },
-        {
-          "id": "sent-007",
-          "text": "de la que se había caído la pintura roja en varios lugares.",
-          "translationRu": "с которой кое-где облупился красный лак.",
-          "original": "from which the vermilion lacquer had peeled off here and there, sat one lone cricket."
-        },
-        {
-          "id": "sent-008",
-          "text": "Rashōmon estaba en la gran avenida Sujaku Ōji.",
-          "translationRu": "Расёмон стоял на большом проспекте Судзяку Одзи.",
-          "original": "Since Rashōmon was in the great thoroughfare Sujaku Ōji,"
-        },
-        {
-          "id": "sent-009",
-          "text": "Parecía que debería haber dos o tres vendedoras con sombreros de paja anchos y hombres con gorras de ciudadano refugiándose allí de la lluvia.",
-          "translationRu": "Казалось, там должны были бы укрываться от дождя две-три торговки в широких соломенных шляпах и мужчины в горожанских шапках.",
-          "original": "it would seem that there should also have been two or three tradeswomen in wide straw hats and men in citizen's caps sheltering there from the rain."
-        },
-        {
-          "id": "sent-010",
-          "text": "Sin embargo,",
-          "translationRu": "Однако,",
-          "original": "All the same,"
-        },
-        {
-          "id": "sent-011",
-          "text": "además de este hombre,",
-          "translationRu": "кроме этого мужчины,",
-          "original": "besides this single man,"
-        },
-        {
-          "id": "sent-012",
-          "text": "no había nadie más.",
-          "translationRu": "там не было никого.",
-          "original": "there was no one."
+          "text": "Sin embargo, aparte de este hombre, no había nadie.",
+          "translationRu": "Однако, кроме этого человека, не было никого.",
+          "original": "それが、この男のほかには誰もいない。",
+          "originalRu": "А между тем, кроме этого человека, не было никого."
         }
       ]
     },
@@ -94,148 +64,67 @@
       "id": "para-003",
       "sentences": [
         {
+          "id": "sent-007",
+          "text": "El motivo era el siguiente.",
+          "translationRu": "Причина была вот какая.",
+          "original": "何故かと云うと、",
+          "originalRu": "Дело в том, что"
+        },
+        {
+          "id": "sent-008",
+          "text": "Durante estos dos o tres años, en Kioto habían ocurrido, una tras otra, desgracias como terremotos, torbellinos, incendios y hambrunas.",
+          "translationRu": "За эти два-три года в Киото одно за другим случались бедствия: землетрясения, вихри, пожары, голод.",
+          "original": "この二三年、京都には、地震とか辻風とか火事とか饑饉とか云う災がつづいて起った。",
+          "originalRu": "за эти два-три года на Киото одно за другим обрушивались бедствия — то землетрясение, то ураган, то пожар, то голод."
+        },
+        {
+          "id": "sent-009",
+          "text": "Por eso la decadencia de la capital no era poca cosa.",
+          "translationRu": "Поэтому запустение столицы было нешуточным.",
+          "original": "そこで洛中のさびれ方は一通りではない。",
+          "originalRu": "Вот почему запустение в столице было поистине необычайным."
+        },
+        {
+          "id": "sent-010",
+          "text": "Según los antiguos registros, se rompían las imágenes y los objetos de culto budistas, y la madera, que todavía conservaba el rojo de la pintura o el oro y la plata de las láminas, se amontonaba al borde del camino y se vendía como leña.",
+          "translationRu": "Если верить старым записям, разбивали будды́ и утварь для богослужений, а дерево, на котором ещё держался красный лак или золотая и серебряная фольга, складывали грудами у дороги и продавали на дрова.",
+          "original": "旧記によると、仏像や仏具を打砕いて、その丹がついたり、金銀の箔がついたりした木を、路ばたにつみ重ねて、薪の料に売っていたと云う事である。",
+          "originalRu": "В старых записях говорится, что будды́ и священную утварь разбивали в куски и дерево, ещё хранившее на себе багряный лак или накладки из золота и серебра, складывали грудами у дороги и продавали на дрова."
+        },
+        {
+          "id": "sent-011",
+          "text": "Como la capital estaba en ese estado, era natural que nadie se ocupara de reparar la puerta Rashōmon, y todos la habían abandonado.",
+          "translationRu": "Раз столица была в таком состоянии, то понятно, что починкой ворот Расёмон уже никто и не думал заниматься, и все их забросили.",
+          "original": "洛中がその始末であるから、羅生門の修理などは、元より誰も捨てて顧る者がなかった。",
+          "originalRu": "Раз уж столица пришла в такое состояние, то о починке ворот Расёмон, само собой, никто и не помышлял, всеми покинутых."
+        },
+        {
+          "id": "sent-012",
+          "text": "Entonces, aprovechando ese abandono, vinieron a vivir allí zorros y tejones.",
+          "translationRu": "И вот, пользуясь этим запустением, в них поселились лисы и барсуки.",
+          "original": "するとその荒れ果てたのをよい事にして、狐狸が棲む。",
+          "originalRu": "И тогда, пользуясь этим запустением, здесь стали селиться лисицы и барсуки."
+        },
+        {
           "id": "sent-013",
-          "text": "La razón era que durante los últimos dos o tres años en Kiōto",
-          "translationRu": "Причина была в том, что за последние два-три года в Киото",
-          "original": "This was because for the past two or three years in Kyōto"
+          "text": "Vinieron a vivir ladrones.",
+          "translationRu": "Поселились воры.",
+          "original": "盗人が棲む。",
+          "originalRu": "Стали селиться разбойники."
         },
         {
           "id": "sent-014",
-          "text": "habían ocurrido muchas calamidades seguidas:",
-          "translationRu": "одно за другим следовали бедствия:",
-          "original": "one calamity after another--"
+          "text": "Y al final llegó incluso a haber la costumbre de traer a esta puerta los cadáveres que nadie reclamaba, y abandonarlos aquí.",
+          "translationRu": "И в конце концов завелся даже обычай приносить к этим воротам трупы, которые некому было забрать, и бросать их здесь.",
+          "original": "とうとうしまいには、引取り手のない死人を、この門へ持って来て、棄てて行くと云う習慣さえ出来た。",
+          "originalRu": "В конце концов дошло до того, что вошло в обычай приносить к этим воротам никем не востребованных покойников и бросать их здесь."
         },
         {
           "id": "sent-015",
-          "text": "terremotos, ciclones, incendios y hambres.",
-          "translationRu": "землетрясения, ураганы, пожары и голод.",
-          "original": "earthquakes, cyclones, fires and famines--had followed each other in rapid succession."
-        },
-        {
-          "id": "sent-016",
-          "text": "Por eso,",
-          "translationRu": "Поэтому",
-          "original": "Wherefore,"
-        },
-        {
-          "id": "sent-017",
-          "text": "en toda la capital había una desolación extraordinaria.",
-          "translationRu": "по всей столице царило необычайное запустение.",
-          "original": "throughout the capital the desolation was extraordinary."
-        },
-        {
-          "id": "sent-018",
-          "text": "Según los viejos documentos,",
-          "translationRu": "Согласно старым записям,",
-          "original": "According to the old records,"
-        },
-        {
-          "id": "sent-019",
-          "text": "las cosas habían llegado a tal punto",
-          "translationRu": "дела дошли до того,",
-          "original": "things had come to such a pass"
-        },
-        {
-          "id": "sent-020",
-          "text": "que rompían estatuas budistas y muebles de templos.",
-          "translationRu": "что разбивали буддийские статуи и храмовую утварь.",
-          "original": "that Buddhist images and temple furniture were broken up"
-        },
-        {
-          "id": "sent-021",
-          "text": "Estos objetos,",
-          "translationRu": "Эти предметы",
-          "original": "and,"
-        },
-        {
-          "id": "sent-022",
-          "text": "con sus restos de laca roja, oro y láminas de plata,",
-          "translationRu": "с остатками красного лака, золота и серебряных листков",
-          "original": "with their red lacquer and gold and silver foil clinging to them,"
-        },
-        {
-          "id": "sent-023",
-          "text": "se amontonaban en las calles",
-          "translationRu": "складывали на улицах",
-          "original": "were heaped along the streets"
-        },
-        {
-          "id": "sent-024",
-          "text": "y se vendían como leña.",
-          "translationRu": "и продавали как дрова.",
-          "original": "and sold for fire wood."
-        },
-        {
-          "id": "sent-025",
-          "text": "Con toda la ciudad en ese estado,",
-          "translationRu": "При таком состоянии всего города,",
-          "original": "With the whole town in such a state,"
-        },
-        {
-          "id": "sent-026",
-          "text": "por supuesto nadie pensaba en mantener Rashōmon.",
-          "translationRu": "разумеется, никто не думал о содержании Расёмон.",
-          "original": "of course no one took the least thought for the upkeep of Rashōmon."
-        },
-        {
-          "id": "sent-027",
-          "text": "Así que zorros y tejones aprovecharon el abandono",
-          "translationRu": "Так что лисы и барсуки воспользовались запустением",
-          "original": "So turning its abandonment to their profit, foxes and badgers"
-        },
-        {
-          "id": "sent-028",
-          "text": "y encontraron allí un hogar.",
-          "translationRu": "и нашли там себе жилище.",
-          "original": "found habitation there."
-        },
-        {
-          "id": "sent-029",
-          "text": "También vivían allí ladrones.",
-          "translationRu": "Там же обитали воры.",
-          "original": "Thieves abode there."
-        },
-        {
-          "id": "sent-030",
-          "text": "Y al final se convirtió en costumbre",
-          "translationRu": "В конце концов вошло в обычай",
-          "original": "And finally it even became a custom with men"
-        },
-        {
-          "id": "sent-031",
-          "text": "traer allí los cadáveres sin dueño",
-          "translationRu": "приносить туда невостребованные тела",
-          "original": "to bring unclaimed bodies there"
-        },
-        {
-          "id": "sent-032",
-          "text": "y dejarlos dentro de la puerta.",
-          "translationRu": "и оставлять их в воротах.",
-          "original": "and leave them in the gate."
-        },
-        {
-          "id": "sent-033",
-          "text": "Por eso,",
-          "translationRu": "Поэтому,",
-          "original": "Whence,"
-        },
-        {
-          "id": "sent-034",
-          "text": "cuando caía la noche,",
-          "translationRu": "когда наступала ночь,",
-          "original": "when day had closed his eye,"
-        },
-        {
-          "id": "sent-035",
-          "text": "el lugar daba miedo",
-          "translationRu": "это место наводило ужас",
-          "original": "the place was abhorred of all,"
-        },
-        {
-          "id": "sent-036",
-          "text": "y nadie se acercaba a esa zona.",
-          "translationRu": "и никто не приближался к той округе.",
-          "original": "and no man would set foot in the neighborhood."
+          "text": "Por eso, cuando dejaba de verse la luz del día, todos sentían miedo y ya nadie ponía un pie cerca de esta puerta.",
+          "translationRu": "Поэтому, как только переставал виднеться дневной свет, всем становилось жутко, и никто уже не ступал близко к этим воротам.",
+          "original": "そこで、日の目が見えなくなると、誰でも気味を悪るがって、この門の近所へは足ぶみをしない事になってしまったのである。",
+          "originalRu": "Вот почему, едва меркнул дневной свет, всякого охватывал суеверный страх, и никто уже не отваживался ступить близ этих ворот."
         }
       ]
     },
@@ -243,135 +132,53 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-037",
-          "text": "En cambio,",
-          "translationRu": "Зато",
-          "original": "Instead,"
+          "id": "sent-016",
+          "text": "En cambio, en lugar de la gente, llegaron de algún sitio muchos cuervos.",
+          "translationRu": "Зато вместо людей откуда-то слетелось множество воронов.",
+          "original": "その代りまた鴉がどこからか、たくさん集って来た。",
+          "originalRu": "Зато откуда-то слеталось во множестве вороньё."
         },
         {
-          "id": "sent-038",
-          "text": "allí se reunían muchos cuervos",
-          "translationRu": "там собирались стаи воронов,",
-          "original": "swarms of ravens"
+          "id": "sent-017",
+          "text": "Si se miraba de día, esos cuervos, en gran número, trazaban círculos y volaban alrededor de las altas crestas del tejado, graznando.",
+          "translationRu": "Если посмотреть днём, эти вороны во множестве чертили круги и кружили с криком вокруг высоких коньков крыши.",
+          "original": "昼間見ると、その鴉が何羽となく輪を描いて、高い鴟尾のまわりを啼きながら、飛びまわっている。",
+          "originalRu": "Днём было видно, как бесчисленное вороньё, выписывая круги, с криком носится вокруг высоких загнутых концов кровли."
         },
         {
-          "id": "sent-039",
-          "text": "que venían de quién sabe dónde.",
-          "translationRu": "прилетавших неизвестно откуда.",
-          "original": "from nobody knows where congregated there."
+          "id": "sent-018",
+          "text": "Sobre todo cuando el cielo encima de la puerta se ponía rojo con el crepúsculo, se los veía con claridad, como granos de sésamo esparcidos.",
+          "translationRu": "Особенно когда небо над воротами краснело на закате, их было отчётливо видно, словно рассыпанные зёрна кунжута.",
+          "original": "ことに門の上の空が、夕焼けであかくなる時には、それが胡麻をまいたようにはっきり見えた。",
+          "originalRu": "Особенно же когда небо над воротами рдело от вечерней зари, вороны выступали отчётливо, точно рассыпанные зёрнышки кунжута."
         },
         {
-          "id": "sent-040",
-          "text": "De día,",
-          "translationRu": "Днём",
-          "original": "By day"
+          "id": "sent-019",
+          "text": "Los cuervos, por supuesto, venían a picotear la carne de los muertos que había sobre la puerta.",
+          "translationRu": "Вороны, разумеется, прилетали клевать мясо мертвецов, лежавших на воротах.",
+          "original": "鴉は、勿論、門の上にある死人の肉を、啄みに来るのである。",
+          "originalRu": "Вороньё, разумеется, слеталось клевать трупы, лежавшие наверху ворот."
         },
         {
-          "id": "sent-041",
-          "text": "el gran grupo describía círculos",
-          "translationRu": "огромная стая описывала круги",
-          "original": "the innumerable rout described a circle"
+          "id": "sent-020",
+          "text": "—Aunque hoy, quizá porque la hora era ya tardía, no se veía ni uno solo.",
+          "translationRu": "— Впрочем, сегодня, должно быть оттого, что час был уже поздний, не видно было ни одного.",
+          "original": "――もっとも今日は、刻限が遅いせいか、一羽も見えない。",
+          "originalRu": "— Правда, сегодня, оттого ли, что час был поздний, не видно было ни единого."
         },
         {
-          "id": "sent-042",
-          "text": "y volaba graznando alrededor de las figuras decorativas en lo alto del tejado.",
-          "translationRu": "и летала с криком вокруг декоративных фигур высоко на крыше.",
-          "original": "and wheeled crying about the ornamental grampuses high on the roof."
+          "id": "sent-021",
+          "text": "Solo se veían, aquí y allá, los excrementos blancos de los cuervos, pegados en manchas sobre los peldaños de piedra que empezaban a desmoronarse y en cuyas grietas crecía la hierba alta.",
+          "translationRu": "Видно было лишь, как кое-где белеет, прилипнув пятнами, вороний помёт на каменных ступенях, которые начали обрушиваться и в трещинах которых росла высокая трава.",
+          "original": "ただ、所々、崩れかかった、そうしてその崩れ目に長い草のはえた石段の上に、鴉の糞が、点々と白くこびりついているのが見える。",
+          "originalRu": "Только кое-где на каменных ступенях, уже осыпавшихся и поросших в трещинах длинной травой, белел приставшими пятнами вороний помёт."
         },
         {
-          "id": "sent-043",
-          "text": "Sobre todo cuando el cielo sobre la puerta ardía con el brillo del atardecer,",
-          "translationRu": "Особенно когда небо над воротами пылало закатным заревом,",
-          "original": "Especially when the sky above the gate was aflare with the sunset glow,"
-        },
-        {
-          "id": "sent-044",
-          "text": "los cuervos se destacaban claramente",
-          "translationRu": "вороны выделялись отчётливо,",
-          "original": "did they stand out distinctly"
-        },
-        {
-          "id": "sent-045",
-          "text": "como semillas de sésamo esparcidas.",
-          "translationRu": "словно рассыпанные семена кунжута.",
-          "original": "like a scattering of sesamum seeds."
-        },
-        {
-          "id": "sent-046",
-          "text": "Por supuesto,",
-          "translationRu": "Разумеется,",
-          "original": "Of course,"
-        },
-        {
-          "id": "sent-047",
-          "text": "venían a comer la carne de los cadáveres en lo alto de la puerta.",
-          "translationRu": "они прилетали клевать мясо с трупов наверху ворот.",
-          "original": "they were there to pick the flesh from the corpses up in the gate."
-        },
-        {
-          "id": "sent-048",
-          "text": "Sin embargo, ese día,",
-          "translationRu": "Однако в тот день,",
-          "original": "However, on this day,"
-        },
-        {
-          "id": "sent-049",
-          "text": "quizás por lo avanzado de la hora,",
-          "translationRu": "возможно из-за позднего часа,",
-          "original": "perhaps because of the lateness of the hour,"
-        },
-        {
-          "id": "sent-050",
-          "text": "no se veía ni un pájaro.",
-          "translationRu": "не было видно ни одной птицы.",
-          "original": "not a bird was to be seen."
-        },
-        {
-          "id": "sent-051",
-          "text": "Solo aquí y allá,",
-          "translationRu": "Лишь кое-где",
-          "original": "Only here and there"
-        },
-        {
-          "id": "sent-052",
-          "text": "en los escalones de piedra desmoronados",
-          "translationRu": "на обвалившихся каменных ступенях,",
-          "original": "on the crumbling stone steps,"
-        },
-        {
-          "id": "sent-053",
-          "text": "donde el pasto crecía en las grietas,",
-          "translationRu": "где трава росла в трещинах,",
-          "original": "where grass grew long in the crevices,"
-        },
-        {
-          "id": "sent-054",
-          "text": "sus excrementos brillaban en manchas blancas.",
-          "translationRu": "их помёт белел пятнами.",
-          "original": "their droppings shone in white splashes."
-        },
-        {
-          "id": "sent-055",
-          "text": "El sirviente estaba sentado en el peldaño más alto de los siete,",
-          "translationRu": "Слуга сидел на верхней из семи ступеней",
-          "original": "The lackey sat in a threadbare coat of dark blue on the topmost of the seven steps"
-        },
-        {
-          "id": "sent-056",
-          "text": "con un abrigo gastado de azul oscuro.",
-          "translationRu": "в потрёпанном тёмно-синем пальто."
-        },
-        {
-          "id": "sent-057",
-          "text": "Se tocaba un gran carbúnculo rojo en la mejilla derecha",
-          "translationRu": "Он трогал большой красный нарыв на правой щеке",
-          "original": "and, fingering a great carbuncle on his right cheek,"
-        },
-        {
-          "id": "sent-058",
-          "text": "y miraba sin ver la lluvia que caía.",
-          "translationRu": "и бесцельно смотрел на падающий дождь.",
-          "original": "looked vacantly at the falling rain."
+          "id": "sent-022",
+          "text": "El sirviente, con el trasero de su gastada chaqueta azul oscuro apoyado en el peldaño más alto de los siete escalones de piedra, miraba distraídamente caer la lluvia, mientras se preocupaba por un gran grano que le había salido en la mejilla derecha.",
+          "translationRu": "Слуга, опустив зад в полинялой тёмно-синей куртке на самую верхнюю из семи каменных ступеней, рассеянно глядел, как идёт дождь, и при этом всё трогал большой прыщ, вскочивший у него на правой щеке.",
+          "original": "下人は七段ある石段の一番上の段に、洗いざらした紺の襖の尻を据えて、右の頬に出来た、大きな面皰を気にしながら、ぼんやり、雨のふるのを眺めていた。",
+          "originalRu": "Слуга, опустившись в своём вылинявшем синем платье на верхнюю из семи каменных ступеней и теребя большой прыщ, вскочивший у него на правой щеке, рассеянно глядел на падающий дождь."
         }
       ]
     },
@@ -379,148 +186,74 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-059",
-          "text": "He dicho que esperaba que la lluvia parara,",
-          "translationRu": "Я сказал, что он ждал конца дождя,",
-          "original": "I have said that he was waiting for the rain to clear."
+          "id": "sent-023",
+          "text": "Hace un momento, el autor escribió: «El sirviente esperaba a que terminara la lluvia».",
+          "translationRu": "Только что автор написал: «Слуга ждал, пока кончится дождь».",
+          "original": "作者はさっき、「下人が雨やみを待っていた」と書いた。",
+          "originalRu": "Автор выше написал: «Слуга пережидал дождь»."
         },
         {
-          "id": "sent-060",
-          "text": "pero aunque parara,",
-          "translationRu": "но даже если бы дождь прекратился,",
-          "original": "But even if it did clear,"
+          "id": "sent-024",
+          "text": "Pero, aunque la lluvia parara, el sirviente no tenía ningún plan concreto de qué hacer.",
+          "translationRu": "Но, даже если бы дождь и перестал, у слуги не было никакого определённого плана, что делать.",
+          "original": "しかし、下人は雨がやんでも、格別どうしようと云う当てはない。",
+          "originalRu": "Однако, даже если бы дождь и перестал, слуге, собственно, некуда было идти."
         },
         {
-          "id": "sent-061",
-          "text": "no tenía nada en particular que hacer.",
-          "translationRu": "ему нечего было делать.",
-          "original": "he had nothing in particular he wished to do."
+          "id": "sent-025",
+          "text": "En tiempos normales, por supuesto, lo lógico sería que volviera a casa de su amo.",
+          "translationRu": "В обычное время ему, конечно, следовало бы вернуться в дом своего хозяина.",
+          "original": "ふだんなら、勿論、主人の家へ帰る可き筈である。",
+          "originalRu": "В обычное время ему, само собой, надлежало бы вернуться в дом хозяина."
         },
         {
-          "id": "sent-062",
-          "text": "Normalmente, claro,",
-          "translationRu": "Обычно, конечно,",
-          "original": "Ordinarily, of course,"
+          "id": "sent-026",
+          "text": "Pero ese amo lo había despedido cuatro o cinco días antes.",
+          "translationRu": "Но этот хозяин дня четыре-пять назад его уволил.",
+          "original": "所がその主人からは、四五日前に暇を出された。",
+          "originalRu": "Но этот хозяин дня четыре или пять назад отпустил его со службы."
         },
         {
-          "id": "sent-063",
-          "text": "debería haber vuelto a la casa de su amo.",
-          "translationRu": "ему следовало бы вернуться в дом своего господина.",
-          "original": "he must have gone back to his master's house."
+          "id": "sent-027",
+          "text": "Como ya he escrito antes, en aquel tiempo la ciudad de Kioto estaba decayendo de una manera nada común.",
+          "translationRu": "Как я уже писал раньше, в то время город Киото приходил в упадок самым необычайным образом.",
+          "original": "前にも書いたように、当時京都の町は一通りならず衰微していた。",
+          "originalRu": "Как уже было сказано выше, в ту пору город Киото пришёл в необычайный упадок."
         },
         {
-          "id": "sent-064",
-          "text": "Pero cuatro o cinco días antes",
-          "translationRu": "Но четыре или пять дней назад",
-          "original": "But four or five days before,"
+          "id": "sent-028",
+          "text": "Que a este sirviente lo despidiera ahora el amo al que había servido durante muchos años no era, en realidad, más que una pequeña secuela de esa decadencia.",
+          "translationRu": "То, что этого слугу теперь уволил хозяин, у которого он служил долгие годы, на деле было всего лишь маленьким отголоском этого упадка.",
+          "original": "今この下人が、永年、使われていた主人から、暇を出されたのも、実はこの衰微の小さな余波にほかならない。",
+          "originalRu": "И то, что этот слуга, многие годы служивший своему хозяину, ныне был им отпущен, в сущности, было лишь малым отголоском этого упадка."
         },
         {
-          "id": "sent-065",
-          "text": "lo habían despedido.",
-          "translationRu": "его уволили.",
-          "original": "he had been turned out."
+          "id": "sent-029",
+          "text": "Por eso, más que decir «el sirviente esperaba a que terminara la lluvia», sería más adecuado decir «el sirviente, encerrado por la lluvia, no tenía adónde ir y estaba perdido, sin saber qué hacer».",
+          "translationRu": "Поэтому, чем сказать «слуга ждал, пока кончится дождь», уместнее было бы сказать «запертый дождём слуга, которому некуда было деться, растерянно не знал, что делать».",
+          "original": "だから「下人が雨やみを待っていた」と云うよりも「雨にふりこめられた下人が、行き所がなくて、途方にくれていた」と云う方が、適当である。",
+          "originalRu": "Поэтому вернее было бы сказать не «слуга пережидал дождь», а «запертый дождём слуга, которому некуда было деться, не знал, как ему быть»."
         },
         {
-          "id": "sent-066",
-          "text": "Como ya he dicho,",
-          "translationRu": "Как я уже сказал,",
-          "original": "As I have already said,"
+          "id": "sent-030",
+          "text": "Además, también el aspecto del cielo de aquel día influyó no poco en el Sentimentalisme de este sirviente de la época Heian.",
+          "translationRu": "Вдобавок и вид неба в тот день немало повлиял на Sentimentalisme этого слуги эпохи Хэйан.",
+          "original": "その上、今日の空模様も少からず、この平安朝の下人の Sentimentalisme に影響した。",
+          "originalRu": "К тому же и сама погода в этот день немало повлияла на Sentimentalisme этого слуги эпохи Хэйан."
         },
         {
-          "id": "sent-067",
-          "text": "Kiōto estaba en una decadencia sin precedentes.",
-          "translationRu": "Киото переживал небывалый упадок.",
-          "original": "Kyōto was in unprecedented decay."
+          "id": "sent-031",
+          "text": "La lluvia, que había empezado a caer pasada la hora del Mono, todavía no daba señales de cesar.",
+          "translationRu": "Дождь, начавшийся после часа Обезьяны, всё ещё не выказывал признаков того, что прекратится.",
+          "original": "申の刻下りからふり出した雨は、いまだに上るけしきがない。",
+          "originalRu": "Дождь, заладивший с конца часа Обезьяны, и поныне не выказывал намерения утихнуть."
         },
         {
-          "id": "sent-068",
-          "text": "Y el despido de este hombre por un amo al que había servido durante años",
-          "translationRu": "А увольнение этого человека господином, которому он служил долгие годы,",
-          "original": "And the dismissal of this man by a master whom he had served for years"
-        },
-        {
-          "id": "sent-069",
-          "text": "era solo una pequeña ola en ese mar de problemas.",
-          "translationRu": "было лишь маленькой волной в этом море невзгод.",
-          "original": "was one small ripple on this sea of troubles."
-        },
-        {
-          "id": "sent-070",
-          "text": "Por eso, más que esperar que la lluvia parara, era más exacto decir que este sirviente sin lugar a donde ir estaba perdido, sin saber qué hacer, refugiado en ese lugar por la tormenta.",
-          "translationRu": "Поэтому точнее было бы сказать, что этот слуга, которому некуда было идти, не знал, что делать, и просто укрылся от непогоды в этом месте.",
-          "original": "Wherefore, rather than that he was waiting for the rain to clear, it would be more to the point to say that, driven to shelter by the storm, this lackey who had no place to go was at a loss what to do."
-        },
-        {
-          "id": "sent-071",
-          "text": "Además,",
-          "translationRu": "Вдобавок",
-          "original": "Besides,"
-        },
-        {
-          "id": "sent-072",
-          "text": "el cielo gris de ese día tenía un efecto considerable",
-          "translationRu": "пасмурное небо того дня немало влияло",
-          "original": "the gloomy sky that day had no small effect"
-        },
-        {
-          "id": "sent-073",
-          "text": "en el sentimentalismo de este hombre del período Heian.",
-          "translationRu": "на чувствительность этого человека эпохи Хэйан.",
-          "original": "on the sentimentalism of this man of the Heian period."
-        },
-        {
-          "id": "sent-074",
-          "text": "La lluvia,",
-          "translationRu": "Дождь,",
-          "original": "The rain,"
-        },
-        {
-          "id": "sent-075",
-          "text": "que había empezado a caer un poco después de la hora del mono,",
-          "translationRu": "начавшийся чуть после часа обезьяны,",
-          "original": "which had been falling since a little after the hour of the monkey,"
-        },
-        {
-          "id": "sent-076",
-          "text": "todavía no daba señales de parar.",
-          "translationRu": "всё ещё не собирался прекращаться.",
-          "original": "still showed no sign of letting up."
-        },
-        {
-          "id": "sent-077",
-          "text": "Así que el sirviente seguía dando vueltas en su mente",
-          "translationRu": "Так что слуга продолжал кружить мыслями",
-          "original": "So the servant sat following a rambling train of thought"
-        },
-        {
-          "id": "sent-078",
-          "text": "al único problema vital e inmediato:",
-          "translationRu": "вокруг единственного насущного вопроса:",
-          "original": "on the one vital and immediate question of"
-        },
-        {
-          "id": "sent-079",
-          "text": "cómo podría sobrevivir el día siguiente —",
-          "translationRu": "как пережить следующий день —",
-          "original": "how he could ever manage to live through the morrow--"
-        },
-        {
-          "id": "sent-080",
-          "text": "es decir, cómo podría hacer lo imposible.",
-          "translationRu": "то есть как сделать невозможное.",
-          "original": "that is, how he could ever do the impossible--"
-        },
-        {
-          "id": "sent-081",
-          "text": "Y escuchaba sin interés la larga lluvia",
-          "translationRu": "И безучастно слушал долгий дождь,",
-          "original": "and listened listlessly to the long rain"
-        },
-        {
-          "id": "sent-082",
-          "text": "que golpeaba sin parar en Sujaku Ōji.",
-          "translationRu": "без конца барабанивший по Судзяку Одзи.",
-          "original": "that kept pounding down in Sujaku Ōji."
+          "id": "sent-032",
+          "text": "Y así, el sirviente, tratando ante todo de arreglar de algún modo su sustento del día siguiente —es decir, tratando de arreglar de algún modo algo que no tenía arreglo—, seguía un hilo de pensamientos inconexos y, desde hacía un rato, escuchaba sin escuchar el sonido de la lluvia que caía sobre la avenida Suzaku.",
+          "translationRu": "И вот слуга, стараясь прежде всего хоть как-нибудь устроить своё завтрашнее пропитание — то есть стараясь хоть как-нибудь уладить то, что уладить было нельзя, — следуя за обрывками бессвязных мыслей, уже давно слушал, сам того не слыша, шум дождя, падавшего на проспект Судзаку.",
+          "original": "そこで、下人は、何をおいても差当り明日の暮しをどうにかしようとして――云わばどうにもならない事を、どうにかしようとして、とりとめもない考えをたどりながら、さっきから朱雀大路にふる雨の音を、聞くともなく聞いていたのである。",
+          "originalRu": "И вот слуга, силясь прежде всего как-нибудь устроить своё завтрашнее существование — иными словами, силясь как-нибудь уладить то, чего уладить нельзя, — и следуя за вереницей бессвязных мыслей, уже давно безотчётно вслушивался в шум дождя, падавшего на улицу Судзаку."
         }
       ]
     },
@@ -528,40 +261,33 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-083",
-          "text": "La lluvia envolvía Rashōmon",
-          "translationRu": "Дождь окутывал Расёмон",
-          "original": "The rain, enveloping Rashōmon,"
+          "id": "sent-033",
+          "text": "La lluvia envolvía la puerta Rashōmon.",
+          "translationRu": "Дождь окутывал ворота Расёмон.",
+          "original": "雨は、羅生門をつつんで、遠くから、ざあっと云う音をあつめて来る。",
+          "originalRu": "Дождь, окутывая Расёмон, нёс издалека собранный воедино шумный гул своих струй."
         },
         {
-          "id": "sent-084",
-          "text": "y producía un ruido fuerte que venía de lejos.",
-          "translationRu": "и издавал громкий шум, доносившийся издалека.",
-          "original": "mustered a rattling roar from afar."
+          "id": "sent-034",
+          "text": "Desde lejos traía su ruido, ese «zaaa» que llegaba de todas partes.",
+          "translationRu": "Издалека он нёс свой шум — этот «зааа», что доносился отовсюду."
         },
         {
-          "id": "sent-085",
-          "text": "La oscuridad bajaba poco a poco del cielo",
-          "translationRu": "Темнота постепенно спускалась с неба,",
-          "original": "Darkness gradually lowered in the sky,"
+          "id": "sent-035",
+          "text": "La oscuridad del anochecer bajaba poco a poco el cielo.",
+          "translationRu": "Вечерняя тьма мало-помалу опускала небо ниже.",
+          "original": "夕闇は次第に空を低くして、見上げると、門の屋根が、斜につき出した甍の先に、重たくうす暗い雲を支えている。",
+          "originalRu": "Вечерний сумрак мало-помалу опускал небо всё ниже, и, если поднять взгляд, крыша ворот концом косо торчащей черепицы поддерживала тяжёлые, тускло-тёмные тучи."
         },
         {
-          "id": "sent-086",
-          "text": "y, sobre la puerta,",
-          "translationRu": "и над воротами",
-          "original": "and overhead"
+          "id": "sent-036",
+          "text": "Si uno alzaba la vista, veía el tejado de la puerta.",
+          "translationRu": "Если поднять взгляд, виднелась крыша ворот."
         },
         {
-          "id": "sent-087",
-          "text": "el tejado sostenía una pesada nube gris",
-          "translationRu": "крыша удерживала тяжёлую серую тучу",
-          "original": "the roof of the gate supported a heavy leaden cloud"
-        },
-        {
-          "id": "sent-088",
-          "text": "en la punta de sus tejas que sobresalían en ángulo.",
-          "translationRu": "на остриях своих черепиц, торчавших под углом.",
-          "original": "on a point of its obliquely projecting tiles."
+          "id": "sent-037",
+          "text": "En la punta de sus tejas, que sobresalían torcidas, el tejado sostenía unas nubes pesadas y oscuras.",
+          "translationRu": "На концах её черепиц, что торчали косо, крыша держала тяжёлые, тёмные тучи."
         }
       ]
     },
@@ -569,100 +295,71 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-089",
-          "text": "Para hacer lo imposible,",
-          "translationRu": "Чтобы сделать невозможное,",
-          "original": "For the accomplishment of the impossible,"
+          "id": "sent-038",
+          "text": "Para resolver de algún modo lo que no tenía solución, no había tiempo de elegir los medios.",
+          "translationRu": "Чтобы хоть как-то решить то, что решить нельзя, не было времени выбирать средства.",
+          "original": "どうにもならない事を、どうにかするためには、手段を選んでいる遑はない。",
+          "originalRu": "Чтобы как-нибудь справиться с тем, с чем справиться нельзя, не было досуга разбираться в средствах."
         },
         {
-          "id": "sent-090",
-          "text": "no quedaba tiempo de elegir un plan.",
-          "translationRu": "времени выбирать план уже не оставалось.",
-          "original": "there was no time left in which to choose a plan."
+          "id": "sent-039",
+          "text": "Si se ponía a elegir, sólo le esperaba morir de hambre.",
+          "translationRu": "Если бы он принялся выбирать, его ждала бы лишь голодная смерть.",
+          "original": "選んでいれば、築土の下か、道ばたの土の上で、饑死をするばかりである。",
+          "originalRu": "Если разбираться, то оставалось только умереть с голоду — под глинобитной оградой или на земле у обочины дороги."
         },
         {
-          "id": "sent-091",
-          "text": "Si tardaba en elegir,",
-          "translationRu": "Если он медлил с выбором,",
-          "original": "If he took time,"
+          "id": "sent-040",
+          "text": "Moriría bajo un muro de barro o sobre la tierra del borde del camino.",
+          "translationRu": "Он умер бы под глинобитной стеной или на земле у края дороги."
         },
         {
-          "id": "sent-092",
-          "text": "solo podía optar entre morir de hambre bajo un muro",
-          "translationRu": "ему оставалось лишь умереть от голода под какой-нибудь стеной",
-          "original": "he could but choose between starvation under some wall"
+          "id": "sent-041",
+          "text": "Y luego lo traerían sobre esta puerta y lo arrojarían como a un perro.",
+          "translationRu": "А потом его принесли бы на эти ворота и бросили бы, как собаку.",
+          "original": "そうして、この門の上へ持って来て、犬のように棄てられてしまうばかりである。",
+          "originalRu": "И затем оставалось только одно: быть принесённым сюда, на верх этих ворот, и брошенным, словно собака."
         },
         {
-          "id": "sent-093",
-          "text": "o morir de hambre al lado de un camino.",
-          "translationRu": "или умереть от голода у обочины дороги.",
-          "original": "and starvation by some road."
+          "id": "sent-042",
+          "text": "Y si decidía no elegir los medios… El pensamiento del criado recorrió muchas veces el mismo camino.",
+          "translationRu": "А если решить не выбирать средства… Мысль слуги много раз проходила по одному и тому же пути.",
+          "original": "選ばないとすれば――下人の考えは、何度も同じ道を低徊した揚句に、やっとこの局所へ逢着した。",
+          "originalRu": "«А если не разбираться…» — мысль слуги, много раз побродив по одному и тому же кругу, наконец пришла к этому самому месту."
         },
         {
-          "id": "sent-094",
-          "text": "Y entonces lo llevarían al piso de arriba de esta puerta",
-          "translationRu": "А тогда его принесут на верхний этаж этих ворот",
-          "original": "And then he would simply be brought to the loft in this gate"
+          "id": "sent-043",
+          "text": "Después de dar muchas vueltas, por fin llegó a este punto.",
+          "translationRu": "Поплутав, она наконец дошла до этого места."
         },
         {
-          "id": "sent-095",
-          "text": "y lo tirarían allí como a un perro.",
-          "translationRu": "и бросят там, как собаку.",
-          "original": "and thrown away like a dog."
+          "id": "sent-044",
+          "text": "Pero este «si» seguía siendo, por más que pasara el tiempo, sólo un «si».",
+          "translationRu": "Но это «если», сколько бы ни прошло времени, в конце концов оставалось лишь «если».",
+          "original": "しかしこの「すれば」は、いつまでたっても、結局「すれば」であった。",
+          "originalRu": "Однако это «если» сколько бы времени ни прошло, в конце концов так и оставалось только «если»."
         },
         {
-          "id": "sent-096",
-          "text": "Si no elegía ningún plan,",
-          "translationRu": "Если же он не выбирал никакого плана,",
-          "original": "If he did not choose,--"
+          "id": "sent-045",
+          "text": "El criado aceptaba la idea de no elegir los medios.",
+          "translationRu": "Слуга соглашался с мыслью, что не надо выбирать средства.",
+          "original": "下人は、手段を選ばないという事を肯定しながらも、この「すれば」のかたをつけるために、当然、その後に来る可き「盗人になるよりほかに仕方がない」と云う事を、積極的に肯定するだけの、勇気が出ずにいたのである。",
+          "originalRu": "Слуга, хотя и принимал то, что средств выбирать не приходится, всё же, чтобы покончить с этим «если», не находил в себе мужества решительно признать неизбежно следовавшее за ним: «не остаётся ничего другого, кроме как стать вором»."
         },
         {
-          "id": "sent-097",
-          "text": "los pensamientos del hombre seguían el mismo camino de siempre",
-          "translationRu": "мысли мужчины шли всё тем же привычным путём",
-          "original": "again and again the man's thoughts went over the same winding way"
+          "id": "sent-046",
+          "text": "Pero, para cerrar ese «si», debía aceptar lo que venía después.",
+          "translationRu": "Но, чтобы закрыть это «если», он должен был признать то, что шло следом."
         },
         {
-          "id": "sent-098",
-          "text": "y llegaban siempre al mismo punto.",
-          "translationRu": "и всегда приходили к тому же.",
-          "original": "and arrived finally at this same place."
+          "id": "sent-047",
+          "text": "Lo que venía después era esto: «No me queda otro camino que hacerme ladrón».",
+          "translationRu": "А следом шло вот что: «Мне не остаётся другого пути, кроме как стать вором»."
         },
         {
-          "id": "sent-099",
-          "text": "Pero no importaba cuántas veces aparecía ese «si»,",
-          "translationRu": "Но сколько бы раз это «если» ни появлялось,",
-          "original": "But no matter how often this 'if' came up,"
-        },
-        {
-          "id": "sent-100",
-          "text": "siempre se quedaba como un «si».",
-          "translationRu": "оно так и оставалось «если».",
-          "original": "it remained still in the end but 'if.'"
-        },
-        {
-          "id": "sent-101",
-          "text": "Aunque no elegía ningún plan,",
-          "translationRu": "Хотя он и не выбирал никакого плана,",
-          "original": "Even though he did not choose any plan,"
-        },
-        {
-          "id": "sent-102",
-          "text": "tampoco tenía el valor de admitir claramente",
-          "translationRu": "у него не было смелости прямо признать",
-          "original": "yet he had not the courage to make the positive admission"
-        },
-        {
-          "id": "sent-103",
-          "text": "lo que necesitaba admitir para resolver ese «si»:",
-          "translationRu": "то, что нужно было признать, чтобы разрешить это «если»:",
-          "original": "naturally necessary to the settlement of the 'if,'"
-        },
-        {
-          "id": "sent-104",
-          "text": "que no le quedaba otra opción que convertirse en ladrón.",
-          "translationRu": "что ему не оставалось ничего, кроме как стать вором.",
-          "original": "that there was nothing for it but to turn thief."
+          "id": "sent-048",
+          "text": "Y no tenía el valor de aceptar eso con decisión.",
+          "translationRu": "И у него не хватало смелости решительно с этим согласиться."
         }
       ]
     },
@@ -670,51 +367,32 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-105",
-          "text": "Dio un gran estornudo",
-          "translationRu": "Он громко чихнул,",
-          "original": "He sneezed a great sneeze"
+          "id": "sent-049",
+          "text": "El criado dio un gran estornudo y luego se levantó con esfuerzo.",
+          "translationRu": "Слуга громко чихнул, а потом с трудом поднялся.",
+          "original": "下人は、大きな嚔をして、それから、大儀そうに立上った。",
+          "originalRu": "Слуга громко чихнул и затем, словно через силу, поднялся на ноги."
         },
         {
-          "id": "sent-106",
-          "text": "y luego se levantó con dificultad.",
-          "translationRu": "а затем с трудом поднялся.",
-          "original": "and then got up laboriously."
+          "id": "sent-050",
+          "text": "Kioto, frío al anochecer, tenía ya un frío como para desear un brasero.",
+          "translationRu": "В Киото, холодном по вечерам, уже было так зябко, что хотелось жаровни.",
+          "original": "夕冷えのする京都は、もう火桶が欲しいほどの寒さである。",
+          "originalRu": "Киото, где по вечерам веяло холодом, был уже так студён, что хотелось жаровни с углями."
         },
         {
-          "id": "sent-107",
-          "text": "Kiōto, fría por la noche,",
-          "translationRu": "Ночной Киото был холодным —",
-          "original": "Night-chilled Kyōto was cold enough"
+          "id": "sent-051",
+          "text": "El viento, junto con la oscuridad del anochecer, soplaba sin reparo entre las columnas de la puerta.",
+          "translationRu": "Ветер вместе с вечерней тьмой без стеснения дул между колоннами ворот.",
+          "original": "風は門の柱と柱との間を、夕闇と共に遠慮なく、吹きぬける。",
+          "originalRu": "Ветер вместе с вечерним сумраком без всякого стеснения продувал пространство между столбами ворот."
         },
         {
-          "id": "sent-108",
-          "text": "tenía una temperatura que hacía pensar en el consuelo de una hoguera.",
-          "translationRu": "таким, что невольно думалось о тепле огня.",
-          "original": "to suggest the comfort of a fire."
-        },
-        {
-          "id": "sent-109",
-          "text": "El viento sin piedad soplaba entre las columnas de la puerta",
-          "translationRu": "Безжалостный ветер свистел между столбами ворот",
-          "original": "The pitiless wind swept with the deepening darkness between the pillars of the gate."
-        },
-        {
-          "id": "sent-110",
-          "text": "con la oscuridad que se hacía más profunda.",
-          "translationRu": "по мере того, как темнота сгущалась."
-        },
-        {
-          "id": "sent-111",
-          "text": "Y el grillo que había estado agarrado a la laca roja de una de las columnas",
-          "translationRu": "А сверчок, цеплявшийся за красный лак одной из колонн,",
-          "original": "And the cricket that had clung to the red lacquer of one of them"
-        },
-        {
-          "id": "sent-112",
-          "text": "había desaparecido.",
-          "translationRu": "исчез.",
-          "original": "had disappeared."
+          "id": "sent-052",
+          "text": "Hasta el grillo que estaba posado en una columna pintada de rojo ya se había ido a alguna parte.",
+          "translationRu": "Даже сверчок, что сидел на крашенной киноварью колонне, уже куда-то исчез.",
+          "original": "丹塗の柱にとまっていた蟋蟀も、もうどこかへ行ってしまった。",
+          "originalRu": "Даже сверчок, сидевший на покрытом киноварью столбе, уже куда-то ушёл."
         }
       ]
     },
@@ -722,100 +400,54 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-113",
-          "text": "El sirviente metió la cabeza en el cuello del abrigo",
-          "translationRu": "Слуга втянул голову в воротник",
-          "original": "Drawing in his neck"
+          "id": "sent-053",
+          "text": "El criado encogió el cuello y levantó los hombros.",
+          "translationRu": "Слуга втянул шею и поднял плечи.",
+          "original": "下人は、頸をちぢめながら、山吹の汗袗に重ねた、紺の襖の肩を高くして門のまわりを見まわした。",
+          "originalRu": "Слуга, втягивая шею, высоко подняв плечи синего тёплого кафтана, надетого поверх жёлтой нижней рубахи, оглядел всё вокруг ворот."
         },
         {
-          "id": "sent-114",
-          "text": "y levantó los hombros bajo la camisa amarilla brillante",
-          "translationRu": "и поднял плечи под ярко-жёлтой рубахой,",
-          "original": "and lifting his shoulders high in the bright yellow shirt"
+          "id": "sent-054",
+          "text": "Llevaba un manto azul oscuro sobre una camisa color amarillo dorado, y miró a su alrededor por toda la puerta.",
+          "translationRu": "На нём был тёмно-синий кафтан поверх жёлто-золотистой рубахи, и он огляделся вокруг ворот."
         },
         {
-          "id": "sent-115",
-          "text": "que llevaba debajo de su abrigo azul oscuro.",
-          "translationRu": "которую носил под тёмно-синим пальто.",
-          "original": "which he wore under his dark blue coat, the lackey looked all about the gate."
+          "id": "sent-055",
+          "text": "Buscaba un lugar donde no le molestaran ni la lluvia ni el viento, donde nadie pudiera verlo, y donde pudiera dormir tranquilo una noche.",
+          "translationRu": "Он искал место, где ему не мешали бы ни дождь, ни ветер, где никто бы его не увидел и где он мог бы спокойно проспать одну ночь.",
+          "original": "雨風の患のない、人目にかかる惧のない、一晩楽にねられそうな所があれば、そこでともかくも、夜を明かそうと思ったからである。",
+          "originalRu": "Ведь он подумал, что, если найдётся такое место — без напасти дождя и ветра, без опасности попасться на глаза людям, где можно спокойно проспать ночь, — то там он, во всяком случае, и скоротает до утра."
         },
         {
-          "id": "sent-116",
-          "text": "Miró a su alrededor por toda la puerta.",
-          "translationRu": "Он огляделся по всей площади ворот.",
-          "original": "the lackey looked all about the gate."
+          "id": "sent-056",
+          "text": "Si encontraba un sitio así, pensaba pasar allí la noche de algún modo.",
+          "translationRu": "Если бы он нашёл такое место, то думал кое-как провести там ночь."
         },
         {
-          "id": "sent-117",
-          "text": "Si encontraba un lugar fuera del viento y la lluvia,",
-          "translationRu": "Если бы он нашёл место, защищённое от ветра и дождя,",
-          "original": "If he could find a place, out of the wind and rain"
+          "id": "sent-057",
+          "text": "Entonces, por suerte, vio una escalera ancha que subía a la torre sobre la puerta, también pintada de rojo.",
+          "translationRu": "И тут, к счастью, он заметил широкую лестницу, что вела на башню над воротами, тоже выкрашенную киноварью.",
+          "original": "すると、幸い門の上の楼へ上る、幅の広い、これも丹を塗った梯子が眼についた。",
+          "originalRu": "И тут, к счастью, ему попалась на глаза широкая, тоже покрытая киноварью лестница, что вела на башню над воротами."
         },
         {
-          "id": "sent-118",
-          "text": "lejos de la vista de las personas,",
-          "translationRu": "вдали от посторонних взглядов,",
-          "original": "and free from the gaze of men,"
+          "id": "sent-058",
+          "text": "Arriba, aunque hubiera gente, de todos modos serían sólo muertos.",
+          "translationRu": "Наверху, даже если бы и были люди, всё равно это были бы только мертвецы.",
+          "original": "上なら、人がいたにしても、どうせ死人ばかりである。",
+          "originalRu": "Наверху, даже если бы там кто и был, всё равно это были бы одни мертвецы."
         },
         {
-          "id": "sent-119",
-          "text": "donde pudiera pasar una noche durmiendo tranquilo,",
-          "translationRu": "где можно переночевать в спокойном сне,",
-          "original": "where he could pass one night in peaceful sleep,"
+          "id": "sent-059",
+          "text": "El criado llevaba al costado una espada de empuñadura sencilla, y tuvo cuidado de que no se saliera de la vaina.",
+          "translationRu": "У слуги на боку висел меч с простой рукоятью, и он следил, чтобы тот не выскользнул из ножен.",
+          "original": "下人はそこで、腰にさげた聖柄の太刀が鞘走らないように気をつけながら、藁草履をはいた足を、その梯子の一番下の段へふみかけた。",
+          "originalRu": "Тогда слуга, следя за тем, чтобы висевший на поясе меч с простой деревянной рукоятью не выскользнул из ножен, поставил обутую в соломенную сандалию ногу на самую нижнюю ступень этой лестницы."
         },
         {
-          "id": "sent-120",
-          "text": "estaría contento de descansar allí hasta el amanecer.",
-          "translationRu": "он был бы рад отдохнуть там до рассвета.",
-          "original": "there anyway, he fain would rest until the dawn."
-        },
-        {
-          "id": "sent-121",
-          "text": "Entonces, con suerte,",
-          "translationRu": "Тут, к счастью,",
-          "original": "Then fortunately"
-        },
-        {
-          "id": "sent-122",
-          "text": "sus ojos cayeron sobre una escalera ancha, también roja,",
-          "translationRu": "его взгляд упал на широкую лестницу, тоже красную,",
-          "original": "his eyes fell upon a wide ladder, likewise red,"
-        },
-        {
-          "id": "sent-123",
-          "text": "que subía a la torre de la puerta.",
-          "translationRu": "ведущую на башню ворот.",
-          "original": "mounting up into the tower of the gate."
-        },
-        {
-          "id": "sent-124",
-          "text": "Arriba, si había alguien,",
-          "translationRu": "Наверху, если там кто и был, —",
-          "original": "Above, though there might be men,"
-        },
-        {
-          "id": "sent-125",
-          "text": "solo eran muertos.",
-          "translationRu": "только мертвецы.",
-          "original": "they were but dead men after all."
-        },
-        {
-          "id": "sent-126",
-          "text": "Entonces, con cuidado de que la gran espada lisa que llevaba al costado",
-          "translationRu": "Тогда, стараясь, чтобы большой меч с простой рукоятью, висевший у бока,",
-          "original": "Then, taking heed lest the great plain-handled sword swinging at his side"
-        },
-        {
-          "id": "sent-127",
-          "text": "no se saliera de su vaina,",
-          "translationRu": "не выскользнул из ножен,",
-          "original": "should slip in its scabbard,"
-        },
-        {
-          "id": "sent-128",
-          "text": "puso un pie con sandalia de paja en el peldaño más bajo de la escalera.",
-          "translationRu": "он поставил ногу в соломенной сандалии на нижнюю ступеньку лестницы.",
-          "original": "he planted a straw-sandaled foot on the bottom step of the ladder."
+          "id": "sent-060",
+          "text": "Entonces puso el pie, calzado con una sandalia de paja, en el peldaño más bajo de aquella escalera.",
+          "translationRu": "И тогда он поставил ногу в соломенной сандалии на самую нижнюю ступень той лестницы."
         }
       ]
     },
@@ -823,124 +455,65 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-129",
-          "text": "Pasaron unos minutos.",
-          "translationRu": "Прошло несколько минут.",
-          "original": "A few minutes elapsed."
+          "id": "sent-061",
+          "text": "Pasaron luego algunos minutos.",
+          "translationRu": "Затем прошло несколько минут.",
+          "original": "それから、何分かの後である。",
+          "originalRu": "Затем — это было несколько минут спустя."
         },
         {
-          "id": "sent-130",
-          "text": "En el centro de la ancha escalera que llevaba a la torre de Rashōmon,",
-          "translationRu": "В середине широкой лестницы, ведущей к башне Расёмон,",
-          "original": "In the middle of the wide ladder leading to the tower of Rashōmon"
+          "id": "sent-062",
+          "text": "En el escalón de en medio de la ancha escalera que sube a la torre del Rashōmon, un hombre, encogido como un gato, conteniendo la respiración, espiaba lo que pasaba arriba.",
+          "translationRu": "На средней ступени широкой лестницы, что ведёт на башню Расёмон, какой-то человек, сжавшись, как кошка, затаив дыхание, следил за тем, что творилось наверху.",
+          "original": "羅生門の楼の上へ出る、幅の広い梯子の中段に、一人の男が、猫のように身をちぢめて、息を殺しながら、上の容子を窺っていた。",
+          "originalRu": "На средней ступени широкой лестницы, что выводит на верх башни Расёмон, какой-то человек, сжавшись, словно кошка, и затаив дыхание, следил за тем, что происходит наверху."
         },
         {
-          "id": "sent-131",
-          "text": "el hombre estaba agachado como un gato,",
-          "translationRu": "мужчина присел, как кот,",
-          "original": "the man crouched like a cat"
+          "id": "sent-063",
+          "text": "La luz del fuego que venía de lo alto de la torre mojaba débilmente la mejilla derecha de aquel hombre.",
+          "translationRu": "Свет огня, шедший с верха башни, слабо озарял правую щёку того человека.",
+          "original": "楼の上からさす火の光が、かすかに、その男の右の頬をぬらしている。",
+          "originalRu": "Свет огня, падавший с верха башни, слабо увлажнял светом правую щёку этого человека."
         },
         {
-          "id": "sent-132",
-          "text": "conteniendo la respiración,",
-          "translationRu": "задержав дыхание",
-          "original": "and, holding his breath,"
+          "id": "sent-064",
+          "text": "Era una mejilla con un grano rojo y lleno de pus entre la barba corta.",
+          "translationRu": "Это была щека с красным гнойным прыщом среди короткой бороды.",
+          "original": "短い鬚の中に、赤く膿を持った面皰のある頬である。",
+          "originalRu": "Это была щека с прыщом, что краснел нагноением среди короткой бороды."
         },
         {
-          "id": "sent-133",
-          "text": "mirando lo que pasaba arriba.",
-          "translationRu": "и разглядывая, что происходит наверху.",
-          "original": "took in the state of affairs above."
+          "id": "sent-065",
+          "text": "El criado, desde el principio, había dado por seguro que arriba sólo había muertos.",
+          "translationRu": "Слуга с самого начала был уверен, что наверху одни мертвецы.",
+          "original": "下人は、始めから、この上にいる者は、死人ばかりだと高を括っていた。",
+          "originalRu": "Слуга с самого начала был твёрдо уверен, что находящиеся наверху — это одни лишь мертвецы."
         },
         {
-          "id": "sent-134",
-          "text": "Un rayo de luz que venía de la torre",
-          "translationRu": "Луч света из башни",
-          "original": "A ray of light shining from the tower"
+          "id": "sent-066",
+          "text": "Pero, al subir dos o tres peldaños de la escalera, vio que arriba alguien había encendido un fuego.",
+          "translationRu": "Но, поднявшись на две-три ступени лестницы, он увидел, что наверху кто-то зажёг огонь.",
+          "original": "それが、梯子を二三段上って見ると、上では誰か火をとぼして、しかもその火をそこここと動かしているらしい。",
+          "originalRu": "Но, поднявшись на две-три ступени по лестнице, он понял, что наверху кто-то затеплил огонь и к тому же, по всему судя, переносит этот огонь то туда, то сюда."
         },
         {
-          "id": "sent-135",
-          "text": "iluminaba débilmente su mejilla derecha.",
-          "translationRu": "слабо освещал его правую щеку.",
-          "original": "faintly illumined his right cheek."
+          "id": "sent-067",
+          "text": "Y, además, parecía que movía ese fuego de un lado a otro.",
+          "translationRu": "И к тому же, похоже, он двигал этот огонь то туда, то сюда."
         },
         {
-          "id": "sent-136",
-          "text": "Era la mejilla donde el carbúnculo rojo brillaba infectado",
-          "translationRu": "Это была та самая щека, где красный нарыв, воспалённый, блестел",
-          "original": "It was the cheek on which the festering red carbuncle gleamed"
+          "id": "sent-068",
+          "text": "Lo supo enseguida porque aquella luz turbia y amarilla se reflejaba temblando en el techo, lleno de telarañas en los rincones.",
+          "translationRu": "Он сразу это понял, потому что тот мутный, жёлтый свет, дрожа, отражался на потолке, по углам затянутом паутиной.",
+          "original": "これは、その濁った、黄いろい光が、隅々に蜘蛛の巣をかけた天井裏に、揺れながら映ったので、すぐにそれと知れたのである。",
+          "originalRu": "Это стало ему сразу понятно оттого, что тот мутный, жёлтый свет, колеблясь, отражался на изнанке потолка, по углам затянутого паутиной."
         },
         {
-          "id": "sent-137",
-          "text": "entre su barba corta.",
-          "translationRu": "в его короткой бороде.",
-          "original": "in his short beard."
-        },
-        {
-          "id": "sent-138",
-          "text": "Desde el principio había calculado tranquilamente",
-          "translationRu": "С самого начала он спокойно рассудил,",
-          "original": "He had lightly calculated from the first"
-        },
-        {
-          "id": "sent-139",
-          "text": "que todos los que estaban arriba estarían muertos.",
-          "translationRu": "что все, кто наверху, мертвы.",
-          "original": "that everybody up there was dead."
-        },
-        {
-          "id": "sent-140",
-          "text": "Pero cuando había subido dos o tres peldaños,",
-          "translationRu": "Но когда он поднялся на две-три ступеньки,",
-          "original": "But when he had climbed up two or three steps,"
-        },
-        {
-          "id": "sent-141",
-          "text": "parecía que alguien no solo había encendido una luz arriba,",
-          "translationRu": "оказалось, что кто-то наверху не только зажёг свет,",
-          "original": "it appeared that not only had some one above struck a light"
-        },
-        {
-          "id": "sent-142",
-          "text": "sino que la movía de un lado a otro.",
-          "translationRu": "но и двигал им туда-сюда.",
-          "original": "but that he was moving it to and fro."
-        },
-        {
-          "id": "sent-143",
-          "text": "Esto se hacía evidente",
-          "translationRu": "Об этом говорило",
-          "original": "This was at once made evident"
-        },
-        {
-          "id": "sent-144",
-          "text": "por el brillo amarillo apagado",
-          "translationRu": "тусклое жёлтое мерцание,",
-          "original": "by the dull yellow gleam"
-        },
-        {
-          "id": "sent-145",
-          "text": "que brillaba en las telarañas",
-          "translationRu": "отражавшееся в паутине",
-          "original": "that danced in reflection on the cobwebs"
-        },
-        {
-          "id": "sent-146",
-          "text": "que colgaban en los rincones del techo.",
-          "translationRu": "по углам потолка.",
-          "original": "hanging in the corners of the ceiling."
-        },
-        {
-          "id": "sent-147",
-          "text": "Quien hubiera encendido esta luz en Rashōmon en esta noche lluviosa",
-          "translationRu": "Тот, кто зажёг этот свет в Расёмон в такую дождливую ночь,",
-          "original": "Whoever had struck this light in Rashōmon on this rainy night"
-        },
-        {
-          "id": "sent-148",
-          "text": "seguramente no era un ser normal.",
-          "translationRu": "наверняка был не обычным существом.",
-          "original": "was surely no ordinary being!"
+          "id": "sent-069",
+          "text": "Quien encendía un fuego en lo alto del Rashōmon, en una noche de lluvia como ésta, no podía ser una persona cualquiera.",
+          "translationRu": "Тот, кто зажигал огонь на верху Расёмон в такую дождливую ночь, не мог быть обычным человеком.",
+          "original": "この雨の夜に、この羅生門の上で、火をともしているからは、どうせただの者ではない。",
+          "originalRu": "Раз кто-то в эту дождливую ночь, здесь, на верху Расёмон, зажигает огонь, — это, во всяком случае, не простой человек."
         }
       ]
     },
@@ -948,46 +521,33 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-149",
-          "text": "Al final,",
-          "translationRu": "Наконец,",
-          "original": "At last,"
+          "id": "sent-070",
+          "text": "El sirviente subió la escalera empinada,",
+          "translationRu": "Слуга поднялся по крутой лестнице,",
+          "original": "下人は、守宮のように足音をぬすんで、やっと急な梯子を、一番上の段まで這うようにして上りつめた。",
+          "originalRu": "Слуга, скрадывая шаги, словно геккон, наконец почти ползком взобрался по крутой лестнице до самой верхней ступени."
         },
         {
-          "id": "sent-150",
-          "text": "moviéndose con pasos silenciosos como un lagarto,",
-          "translationRu": "двигаясь бесшумными шагами, словно ящерица,",
-          "original": "stealing up with muffled steps like a gecko,"
+          "id": "sent-071",
+          "text": "callando sus pasos como un geco, y por fin llegó casi a rastras hasta el último escalón.",
+          "translationRu": "приглушая шаги, словно геккон, и наконец добрался почти ползком до последней ступени."
         },
         {
-          "id": "sent-151",
-          "text": "el sirviente, agachado,",
-          "translationRu": "слуга пригнулся и",
-          "original": "the lackey, crouching,"
+          "id": "sent-072",
+          "text": "Entonces aplanó su cuerpo todo lo que pudo,",
+          "translationRu": "Затем он распластал тело как только мог,",
+          "original": "そうして体を出来るだけ、平にしながら、頸を出来るだけ、前へ出して、恐る恐る、楼の内を覗いて見た。",
+          "originalRu": "И, прижавшись телом как можно ниже, вытянув шею как можно дальше вперёд, со страхом заглянул внутрь башни."
         },
         {
-          "id": "sent-152",
-          "text": "subió la escalera hasta el peldaño más alto.",
-          "translationRu": "поднялся по лестнице до самой верхней ступеньки.",
-          "original": "scaled the ladder to the topmost step."
+          "id": "sent-073",
+          "text": "estiró el cuello todo lo posible hacia delante",
+          "translationRu": "вытянул шею как можно дальше вперёд"
         },
         {
-          "id": "sent-153",
-          "text": "Luego, tumbándose tan plano como podía",
-          "translationRu": "Затем он лёг как можно ровнее,",
-          "original": "Then lying as flat as he could"
-        },
-        {
-          "id": "sent-154",
-          "text": "y estirando el cuello hacia adelante todo lo que le llegaba,",
-          "translationRu": "вытянул шею вперёд насколько хватало сил",
-          "original": "and craning his neck forward as far as it would go,"
-        },
-        {
-          "id": "sent-155",
-          "text": "miró con miedo dentro del desván.",
-          "translationRu": "и со страхом заглянул внутрь чердака.",
-          "original": "he peered with dread into the loft."
+          "id": "sent-074",
+          "text": "y, con miedo, miró dentro de la torre.",
+          "translationRu": "и со страхом заглянул внутрь башни."
         }
       ]
     },
@@ -995,130 +555,81 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-156",
-          "text": "Miró,",
-          "translationRu": "Он смотрел:",
-          "original": "He peered,"
+          "id": "sent-075",
+          "text": "Al mirar, vio que dentro de la torre, tal como decían los rumores, había varios cadáveres tirados sin cuidado.",
+          "translationRu": "Заглянув, он увидел, что внутри башни, как и говорили слухи, валялось несколько трупов, брошенных как попало.",
+          "original": "見ると、楼の内には、噂に聞いた通り、幾つかの死骸が、無造作に棄ててあるが、",
+          "originalRu": "Заглянув, он увидел, что внутри башни, как и слышал из молвы, валялось несколько трупов, брошенных без всякого порядка,"
         },
         {
-          "id": "sent-157",
-          "text": "y el desván, como decían los rumores,",
-          "translationRu": "чердак, как гласили слухи,",
-          "original": "and the loft, as rumor had it,"
+          "id": "sent-076",
+          "text": "Pero la luz del fuego llegaba a una zona más pequeña de lo que pensaba,",
+          "translationRu": "Но свет огня доставал до места меньшего, чем он думал,",
+          "original": "火の光の及ぶ範囲が、思ったより狭いので、数は幾つともわからない。",
+          "originalRu": "но свет огня доставал лишь до места уже, чем он предполагал, так что числа их было не разобрать."
         },
         {
-          "id": "sent-158",
-          "text": "estaba lleno de cadáveres tirados sin cuidado.",
-          "translationRu": "был полон небрежно брошенных трупов.",
-          "original": "was full of corpses flung carelessly away,"
+          "id": "sent-077",
+          "text": "y por eso no podía saber cuántos eran.",
+          "translationRu": "и поэтому он не мог понять, сколько их было."
         },
         {
-          "id": "sent-159",
-          "text": "Pero el círculo iluminado por la luz",
-          "translationRu": "Но освещённый светом круг",
-          "original": "but, the circle illuminated by the light"
+          "id": "sent-078",
+          "text": "Solo distinguía vagamente una cosa:",
+          "translationRu": "Смутно он различал лишь одно:",
+          "original": "ただ、おぼろげながら、知れるのは、その中に裸の死骸と、着物を着た死骸とがあるという事である。",
+          "originalRu": "Лишь смутно ему было ясно одно: что среди них были и нагие трупы, и трупы в одеждах."
         },
         {
-          "id": "sent-160",
-          "text": "era más pequeño de lo que parecía al principio,",
-          "translationRu": "был меньше, чем казалось поначалу,",
-          "original": "being smaller than had at first seemed apparent,"
+          "id": "sent-079",
+          "text": "que entre ellos había cadáveres desnudos y cadáveres vestidos.",
+          "translationRu": "что среди них были нагие трупы и трупы в одеждах."
         },
         {
-          "id": "sent-161",
-          "text": "así que no podía saber cuántos eran.",
-          "translationRu": "и потому он не мог понять, сколько их.",
-          "original": "he was not able to judge how many there might be."
+          "id": "sent-080",
+          "text": "Por supuesto, parecía que entre ellos se mezclaban mujeres y hombres.",
+          "translationRu": "Конечно, среди них, похоже, были вперемешку и женщины, и мужчины.",
+          "original": "勿論、中には女も男もまじっているらしい。",
+          "originalRu": "Разумеется, среди них, по-видимому, были вперемешку и женщины, и мужчины."
         },
         {
-          "id": "sent-162",
-          "text": "Solo podía distinguir vagamente",
-          "translationRu": "Он лишь смутно различал,",
-          "original": "Only, he could make out vaguely"
+          "id": "sent-081",
+          "text": "Y todos esos cadáveres estaban tan cambiados",
+          "translationRu": "И все эти трупы были настолько изменившимися,",
+          "original": "そうして、その死骸は皆、それが、かつて、生きていた人間だと云う事実さえ疑われるほど、土を捏ねて造った人形のように、口を開いたり手を延ばしたりして、ごろごろ床の上にころがっていた。",
+          "originalRu": "И все эти трупы — настолько, что можно было усомниться даже в том, что некогда они были живыми людьми, — словно куклы, слепленные из глины, с раскрытыми ртами и протянутыми руками, валялись как попало на полу."
         },
         {
-          "id": "sent-163",
-          "text": "que entre ellos había cadáveres con ropa y sin ropa.",
-          "translationRu": "что среди них были трупы одетые и раздетые.",
-          "original": "that there were among them both clothed and unclothed cadavers."
+          "id": "sent-082",
+          "text": "que costaba creer que alguna vez hubieran sido personas vivas.",
+          "translationRu": "что трудно было поверить, что когда-то они были живыми людьми."
         },
         {
-          "id": "sent-164",
-          "text": "Por supuesto,",
-          "translationRu": "Разумеется,",
-          "original": "Of course,"
+          "id": "sent-083",
+          "text": "Como muñecos hechos de barro, con la boca abierta y los brazos estirados,",
+          "translationRu": "Словно куклы, слепленные из глины, с раскрытым ртом и протянутыми руками,"
         },
         {
-          "id": "sent-165",
-          "text": "hombres y mujeres parecían estar todos mezclados.",
-          "translationRu": "мужчины и женщины, похоже, были перемешаны вместе.",
-          "original": "men and women appeared all to be jumbled up together."
+          "id": "sent-084",
+          "text": "rodaban tirados por el suelo.",
+          "translationRu": "они валялись, раскиданные по полу."
         },
         {
-          "id": "sent-166",
-          "text": "Y como muñecos de barro amasado,",
-          "translationRu": "И словно куклы из мятой глины,",
-          "original": "And like so many dolls of kneaded clay,"
+          "id": "sent-085",
+          "text": "Además, las partes altas, como los hombros o el pecho, recibían la luz tenue del fuego,",
+          "translationRu": "К тому же высокие части, как плечи или грудь, ловили тусклый свет огня,",
+          "original": "しかも、肩とか胸とかの高くなっている部分に、ぼんやりした火の光をうけて、低くなっている部分の影を一層暗くしながら、永久に唖の如く黙っていた。",
+          "originalRu": "Притом части, что выступали выше, — плечи и грудь, — принимая на себя смутный свет огня, делали тени более низких частей ещё темнее и хранили вечное молчание, словно немые."
         },
         {
-          "id": "sent-167",
-          "text": "esos cuerpos estaban esparcidos por el suelo",
-          "translationRu": "эти тела лежали на полу",
-          "original": "these bodies sprawled on the floor"
+          "id": "sent-086",
+          "text": "y volvían aún más oscuras las sombras de las partes bajas,",
+          "translationRu": "и делали ещё темнее тени низких частей,"
         },
         {
-          "id": "sent-168",
-          "text": "con las bocas abiertas y los brazos extendidos",
-          "translationRu": "с открытыми ртами и раскинутыми руками",
-          "original": "with open mouths and out-thrown arms"
-        },
-        {
-          "id": "sent-169",
-          "text": "con tal confusión",
-          "translationRu": "в таком беспорядке,",
-          "original": "in such confusion"
-        },
-        {
-          "id": "sent-170",
-          "text": "que uno dudaba de que alguna vez hubieran sido seres vivos.",
-          "translationRu": "что трудно было поверить, будто они когда-то были живыми существами.",
-          "original": "as to make one doubt even that they had once been living beings."
-        },
-        {
-          "id": "sent-171",
-          "text": "Además,",
-          "translationRu": "Вдобавок,",
-          "original": "Moreover,"
-        },
-        {
-          "id": "sent-172",
-          "text": "mientras la pálida luz jugaba sobre sus hombros, pechos y partes más elevadas,",
-          "translationRu": "пока бледный свет играл на их плечах, груди и выступающих частях тела,",
-          "original": "while the wan light played on their shoulders, breasts and more elevated parts,"
-        },
-        {
-          "id": "sent-173",
-          "text": "las sombras de las depresiones se hacían más intensas.",
-          "translationRu": "тени в углублениях становились глубже.",
-          "original": "the shadows of their depressions were intensified,"
-        },
-        {
-          "id": "sent-174",
-          "text": "Y yacían en silencio",
-          "translationRu": "И они лежали в тишине,",
-          "original": "and they lay in silence"
-        },
-        {
-          "id": "sent-175",
-          "text": "como mudos eternos",
-          "translationRu": "словно вечные немые,",
-          "original": "like eternal mutes"
-        },
-        {
-          "id": "sent-176",
-          "text": "que nunca habían conocido el habla.",
-          "translationRu": "никогда не знавшие речи.",
-          "original": "that had never known speech."
+          "id": "sent-087",
+          "text": "mientras callaban para siempre, como si fueran mudos.",
+          "translationRu": "пока молчали вечно, словно были немыми."
         }
       ]
     },
@@ -1126,40 +637,25 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-177",
-          "text": "Con el hedor de carne podrida,",
-          "translationRu": "От зловония гниющей плоти",
-          "original": "In the stench of decaying flesh,"
+          "id": "sent-088",
+          "text": "El sirviente, sin querer, se tapó la nariz por el olor a podrido de esos cadáveres.",
+          "translationRu": "Слуга невольно зажал нос от запаха гниения этих трупов.",
+          "original": "下人は、それらの死骸の腐爛した臭気に思わず、鼻を掩った。",
+          "originalRu": "Слуга невольно прикрыл нос от гнилостного смрада этих трупов."
         },
         {
-          "id": "sent-178",
-          "text": "el sirviente involuntariamente se tapó la nariz.",
-          "translationRu": "слуга невольно прикрыл нос.",
-          "original": "the lackey involuntarily covered his nose."
+          "id": "sent-089",
+          "text": "Pero, al instante siguiente, esa mano ya había olvidado tapar la nariz.",
+          "translationRu": "Но уже в следующий миг эта рука забыла зажимать нос.",
+          "original": "しかし、その手は、次の瞬間には、もう鼻を掩う事を忘れていた。",
+          "originalRu": "Однако в следующее же мгновение эта рука уже забыла о том, чтобы прикрывать нос."
         },
         {
-          "id": "sent-179",
-          "text": "Pero al momento siguiente",
-          "translationRu": "Но уже в следующий миг",
-          "original": "But the next moment"
-        },
-        {
-          "id": "sent-180",
-          "text": "su mano olvidó lo que hacía.",
-          "translationRu": "его рука забыла о своём деле.",
-          "original": "his hand had forgotten its work."
-        },
-        {
-          "id": "sent-181",
-          "text": "El exceso de emociones",
-          "translationRu": "Избыток чувств",
-          "original": "Excess of feeling"
-        },
-        {
-          "id": "sent-182",
-          "text": "le había quitado casi por completo el sentido del olfato.",
-          "translationRu": "почти полностью лишил его обоняния.",
-          "original": "had almost completely deprived him of his olfactory sense."
+          "id": "sent-090",
+          "text": "Fue porque un sentimiento fuerte le quitó casi por completo el sentido del olfato a este hombre.",
+          "translationRu": "Это потому, что сильное чувство почти целиком отняло у этого человека обоняние.",
+          "original": "ある強い感情が、ほとんどことごとくこの男の嗅覚を奪ってしまったからだ。",
+          "originalRu": "Ибо некое сильное чувство почти всецело отняло у этого человека обоняние."
         }
       ]
     },
@@ -1167,58 +663,37 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-183",
-          "text": "Por primera vez",
-          "translationRu": "Впервые",
-          "original": "For the first time"
+          "id": "sent-091",
+          "text": "En ese momento, los ojos del sirviente vieron por primera vez a una persona agachada entre esos cadáveres.",
+          "translationRu": "В этот миг глаза слуги впервые увидели человека, сидевшего на корточках среди этих трупов.",
+          "original": "下人の眼は、その時、はじめてその死骸の中に蹲っている人間を見た。",
+          "originalRu": "Глаза слуги в это мгновение впервые увидели человека, что сидел на корточках среди трупов."
         },
         {
-          "id": "sent-184",
-          "text": "acababa de ver a un ser vivo agachado entre los muertos.",
-          "translationRu": "он только что заметил живое существо, присевшее среди мертвецов.",
-          "original": "he had just caught sight of a living mortal squatting down among the dead."
+          "id": "sent-092",
+          "text": "Era una vieja parecida a un mono: vestida con ropa de color de corteza de ciprés, baja, flaca y de pelo blanco.",
+          "translationRu": "Это была старуха, похожая на обезьяну: в одежде цвета кипарисовой коры, низкорослая, тощая и седая.",
+          "original": "檜皮色の着物を着た、背の低い、痩せた、白髪頭の、猿のような老婆である。",
+          "originalRu": "Это была старуха, похожая на обезьяну, — в одежде цвета кипарисовой коры, низкорослая, тощая, с седой головой."
         },
         {
-          "id": "sent-185",
-          "text": "Era una vieja parecida a un mono,",
-          "translationRu": "Это была похожая на обезьяну старуха",
-          "original": "It was a monkey-like old hag"
+          "id": "sent-093",
+          "text": "Esa vieja sostenía en la mano derecha una astilla de pino encendida",
+          "translationRu": "Эта старуха держала в правой руке зажжённую сосновую щепку",
+          "original": "その老婆は、右の手に火をともした松の木片を持って、その死骸の一つの顔を覗きこむように眺めていた。",
+          "originalRu": "Эта старуха, держа в правой руке зажжённую сосновую лучину, всматривалась в лицо одного из трупов, словно заглядывая в него."
         },
         {
-          "id": "sent-186",
-          "text": "con un kimono marrón oscuro,",
-          "translationRu": "в тёмно-коричневом кимоно —",
-          "original": "in a dark brown kimono,"
+          "id": "sent-094",
+          "text": "y miraba el rostro de uno de los cadáveres como si quisiera asomarse a él.",
+          "translationRu": "и вглядывалась в лицо одного из трупов, словно желая в него заглянуть."
         },
         {
-          "id": "sent-187",
-          "text": "baja, delgada y de pelo blanco.",
-          "translationRu": "низкая, тощая, с белыми волосами.",
-          "original": "short, skinny and white-headed."
-        },
-        {
-          "id": "sent-188",
-          "text": "Con una astilla de pino encendida en la mano derecha,",
-          "translationRu": "Держа в правой руке горящую щепку сосны,",
-          "original": "With a blazing splinter of pine in her right hand,"
-        },
-        {
-          "id": "sent-189",
-          "text": "miraba fijamente la cara de uno de los cadáveres.",
-          "translationRu": "она пристально смотрела в лицо одного из трупов.",
-          "original": "she was peering fixedly into the face of one of the corpses."
-        },
-        {
-          "id": "sent-190",
-          "text": "Por su pelo largo,",
-          "translationRu": "По длинным волосам",
-          "original": "From its long hair,"
-        },
-        {
-          "id": "sent-191",
-          "text": "parecía ser el cuerpo de una mujer.",
-          "translationRu": "можно было судить, что это тело женщины.",
-          "original": "it seemed to be the body of a woman."
+          "id": "sent-095",
+          "text": "Por lo largo del cabello, seguramente era el cadáver de una mujer.",
+          "translationRu": "Судя по длине волос, это, верно, был труп женщины.",
+          "original": "髪の毛の長い所を見ると、多分女の死骸であろう。",
+          "originalRu": "Судя по тому, что волосы были длинны, это, должно быть, был труп женщины."
         }
       ]
     },
@@ -1226,70 +701,57 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-192",
-          "text": "Por un momento,",
-          "translationRu": "На мгновение",
-          "original": "For a space,"
+          "id": "sent-096",
+          "text": "El sirviente, movido por seis partes de terror y cuatro de curiosidad,",
+          "translationRu": "Слуга, движимый на шесть долей ужасом и на четыре любопытством,",
+          "original": "下人は、六分の恐怖と四分の好奇心とに動かされて、暫時は呼吸をするのさえ忘れていた。",
+          "originalRu": "Слуга, движимый на шесть долей страхом и на четыре долей любопытством, на короткое время забыл даже дышать."
         },
         {
-          "id": "sent-193",
-          "text": "el criado sintió seis partes de horror",
-          "translationRu": "слуга почувствовал шесть частей ужаса",
-          "original": "the lackey, moved by six parts of horror"
+          "id": "sent-097",
+          "text": "por un momento se olvidó hasta de respirar.",
+          "translationRu": "на миг забыл даже дышать."
         },
         {
-          "id": "sent-194",
-          "text": "y cuatro de curiosidad.",
-          "translationRu": "и четыре — любопытства.",
-          "original": "and four of curiosity,"
+          "id": "sent-098",
+          "text": "Si tomo prestadas las palabras del cronista de los registros antiguos,",
+          "translationRu": "Если позаимствовать слова летописца старинных записей,",
+          "original": "旧記の記者の語を借りれば、「頭身の毛も太る」ように感じたのである。",
+          "originalRu": "Если позаимствовать слова летописца старинных хроник, он почувствовал, как «волосы на голове и теле встают дыбом»."
         },
         {
-          "id": "sent-195",
-          "text": "Olvidó incluso respirar.",
-          "translationRu": "Он даже забыл дышать.",
-          "original": "forgot even to breathe."
+          "id": "sent-099",
+          "text": "sintió como si «el vello del cuerpo y la cabeza se le erizara».",
+          "translationRu": "он почувствовал, будто «волосы на голове и теле у него встают дыбом»."
         },
         {
-          "id": "sent-196",
-          "text": "Como decía un escritor antiguo,",
-          "translationRu": "Как говорил один старинный писатель,",
-          "original": "To borrow the words of an old writer,"
+          "id": "sent-100",
+          "text": "Entonces la vieja clavó la astilla de pino entre las tablas del suelo,",
+          "translationRu": "Тут старуха воткнула сосновую щепку между половицами,",
+          "original": "すると老婆は、松の木片を、床板の間に挿して、それから、今まで眺めていた死骸の首に両手をかけると、丁度、猿の親が猿の子の虱をとるように、その長い髪の毛を一本ずつ抜きはじめた。",
+          "originalRu": "Тогда старуха воткнула сосновую лучину между половицами и, положив обе руки на голову трупа, в который до сих пор вглядывалась, словно обезьяна-мать, выбирающая вшей у своего детёныша, принялась выдёргивать длинные волосы по одному."
         },
         {
-          "id": "sent-197",
-          "text": "«el pelo de su cabeza y de su cuerpo se erizó».",
-          "translationRu": "«волосы на его голове и теле встали дыбом».",
-          "original": "he felt that 'the hair on his head and body swelled.'"
+          "id": "sent-101",
+          "text": "y después puso ambas manos sobre la cabeza del cadáver que hasta entonces miraba.",
+          "translationRu": "а затем положила обе руки на голову трупа, в который до того вглядывалась."
         },
         {
-          "id": "sent-198",
-          "text": "Entonces la vieja clavó el trozo de pino en una grieta del suelo.",
-          "translationRu": "Затем старуха воткнула щепку сосны в щель в полу.",
-          "original": "Then sticking the pine splinter into a crack in the floor,"
+          "id": "sent-102",
+          "text": "Igual que una mona que quita los piojos a su cría,",
+          "translationRu": "Точно обезьяна, выбирающая вшей у своего детёныша,"
         },
         {
-          "id": "sent-199",
-          "text": "Tomó la cabeza que había estado mirando",
-          "translationRu": "Она взяла голову, на которую смотрела,",
-          "original": "the hag took the head at which she had been gazing and, just like an old monkey picking lice from its young,"
+          "id": "sent-103",
+          "text": "empezó a arrancar uno a uno aquellos cabellos largos.",
+          "translationRu": "она принялась выдёргивать по одному эти длинные волосы."
         },
         {
-          "id": "sent-200",
-          "text": "y comenzó a arrancar los cabellos largos uno por uno.",
-          "translationRu": "и начала вырывать длинные волосы один за другим.",
-          "original": "began to pull out the long hairs one by one."
-        },
-        {
-          "id": "sent-201",
-          "text": "Lo hacía como un mono viejo que busca piojos en su cría.",
-          "translationRu": "Она делала это, как старая обезьяна, выискивающая вшей у своего детёныша.",
-          "original": "just like an old monkey picking lice from its young,"
-        },
-        {
-          "id": "sent-202",
-          "text": "Los cabellos salían fácilmente con cada tirón.",
-          "translationRu": "Волосы легко поддавались при каждом рывке.",
-          "original": "They seemed to yield to her pull."
+          "id": "sent-104",
+          "text": "Parecía que el pelo se soltaba siguiendo el movimiento de su mano.",
+          "translationRu": "Похоже, волосы поддавались вслед за движением её руки.",
+          "original": "髪は手に従って抜けるらしい。",
+          "originalRu": "Волосы, видимо, выдёргивались послушно её руке."
         }
       ]
     },
@@ -1297,128 +759,66 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-203",
-          "text": "Con cada cabello que salía,",
-          "translationRu": "С каждым вырванным волосом",
-          "original": "With every hair that came out,"
+          "id": "sent-105",
+          "text": "A medida que aquellos cabellos se arrancaban uno a uno,",
+          "translationRu": "По мере того как эти волосы выдёргивались один за другим,",
+          "original": "その髪の毛が、一本ずつ抜けるのに従って、下人の心からは、恐怖が少しずつ消えて行った。",
+          "originalRu": "По мере того как эти волосы выдёргивались по одному, из сердца слуги мало-помалу исчезал страх."
         },
         {
-          "id": "sent-204",
-          "text": "el miedo en el corazón del criado disminuía un poco.",
-          "translationRu": "страх в сердце слуги немного уменьшался.",
-          "original": "the dread seemed to depart appreciably from the heart of the lackey."
+          "id": "sent-106",
+          "text": "del corazón del sirviente el terror desaparecía poco a poco.",
+          "translationRu": "из сердца слуги ужас мало-помалу уходил."
         },
         {
-          "id": "sent-205",
-          "text": "Al mismo tiempo,",
-          "translationRu": "В то же время",
-          "original": "And at the same time,"
+          "id": "sent-107",
+          "text": "Y, al mismo tiempo, un odio violento hacia esta vieja empezó a moverse poco a poco.",
+          "translationRu": "И в то же время яростная ненависть к этой старухе понемногу начала шевелиться.",
+          "original": "そうして、それと同時に、この老婆に対するはげしい憎悪が、少しずつ動いて来た。",
+          "originalRu": "И вместе с тем мало-помалу зашевелилась жгучая ненависть к этой старухе."
         },
         {
-          "id": "sent-206",
-          "text": "un odio intenso hacia la vieja crecía en su interior.",
-          "translationRu": "в нём нарастала сильная ненависть к старухе.",
-          "original": "intense hatred of the old hag was little by little engendered."
+          "id": "sent-108",
+          "text": "—No, decir «hacia esta vieja» quizá no sea del todo exacto.",
+          "translationRu": "— Нет, сказать «к этой старухе», пожалуй, было бы не совсем точно.",
+          "original": "――いや、この老婆に対すると云っては、語弊があるかも知れない。",
+          "originalRu": "— Нет, сказать «к этой старухе», пожалуй, было бы не совсем верно."
         },
         {
-          "id": "sent-207",
-          "text": "No,",
-          "translationRu": "Нет,",
-          "original": "No,"
+          "id": "sent-109",
+          "text": "Más bien, la repugnancia hacia toda clase de maldad aumentaba en fuerza a cada minuto.",
+          "translationRu": "Скорее, отвращение ко всякому злу с каждой минутой росло в силе.",
+          "original": "むしろ、あらゆる悪に対する反感が、一分毎に強さを増して来たのである。",
+          "originalRu": "Вернее, отвращение ко всякому злу с каждой минутой нарастало в своей силе."
         },
         {
-          "id": "sent-208",
-          "text": "quizás no era odio solo",
-          "translationRu": "пожалуй, это была не только ненависть"
+          "id": "sent-110",
+          "text": "En ese momento, si alguien le hubiera planteado de nuevo a este sirviente",
+          "translationRu": "В этот миг, если бы кто-то снова поставил перед этим слугой",
+          "original": "この時、誰かがこの下人に、さっき門の下でこの男が考えていた、饑死をするか盗人になるかと云う問題を、改めて持出したら、恐らく下人は、何の未練もなく、饑死を選んだ事であろう。",
+          "originalRu": "В это время, если бы кто-нибудь вновь поставил перед этим слугой тот вопрос, над которым этот человек только что раздумывал под воротами, — умереть ли с голоду или сделаться вором, — слуга, вероятно, без всякого сожаления выбрал бы голодную смерть."
         },
         {
-          "id": "sent-209",
-          "text": "hacia la vieja.",
-          "translationRu": "к старухе.",
-          "original": "'of the old hag' may not be just the right words."
+          "id": "sent-111",
+          "text": "el problema que hacía un rato pensaba bajo la puerta —morir de hambre o hacerse ladrón—,",
+          "translationRu": "тот вопрос, над которым он недавно раздумывал под воротами, — умереть с голоду или стать вором, —"
         },
         {
-          "id": "sent-210",
-          "text": "Era más bien su odio",
-          "translationRu": "Скорее, это была его ненависть",
-          "original": "Rather his antipathy to all evil"
+          "id": "sent-112",
+          "text": "seguramente el sirviente, sin ninguna pena, habría elegido morir de hambre.",
+          "translationRu": "слуга, верно, без всякого сожаления выбрал бы голодную смерть."
         },
         {
-          "id": "sent-211",
-          "text": "hacia todo el mal del mundo,",
-          "translationRu": "ко всему злу в мире,"
+          "id": "sent-113",
+          "text": "Hasta tal punto el ánimo de este hombre que odiaba el mal",
+          "translationRu": "Настолько дух этого человека, ненавидевшего зло,",
+          "original": "それほど、この男の悪を憎む心は、老婆の床に挿した松の木片のように、勢いよく燃え上り出していたのである。",
+          "originalRu": "Настолько сердце этого человека, ненавидевшее зло, разгоралось ярким пламенем, подобно сосновой лучине, что старуха воткнула в пол."
         },
         {
-          "id": "sent-212",
-          "text": "que se hacía más fuerte",
-          "translationRu": "которая с каждой минутой"
-        },
-        {
-          "id": "sent-213",
-          "text": "cada minuto.",
-          "translationRu": "усиливалась.",
-          "original": "grew stronger every minute."
-        },
-        {
-          "id": "sent-214",
-          "text": "Si alguien le hubiera preguntado",
-          "translationRu": "Если бы кто-то спросил его",
-          "original": "If some one at that time had broached afresh the question which this man had been considering under the gate a little while before,"
-        },
-        {
-          "id": "sent-215",
-          "text": "en ese momento",
-          "translationRu": "в тот момент,"
-        },
-        {
-          "id": "sent-216",
-          "text": "qué prefería",
-          "translationRu": "что он предпочитает —",
-          "original": "whether he should starve or turn thief,"
-        },
-        {
-          "id": "sent-217",
-          "text": "— morir de hambre",
-          "translationRu": "умереть с голоду"
-        },
-        {
-          "id": "sent-218",
-          "text": "o convertirse en ladrón —,",
-          "translationRu": "или стать вором, —"
-        },
-        {
-          "id": "sent-219",
-          "text": "sin duda habría elegido",
-          "translationRu": "он без колебаний выбрал бы"
-        },
-        {
-          "id": "sent-220",
-          "text": "morir de hambre.",
-          "translationRu": "смерть от голода.",
-          "original": "in all likelihood he would have unhesitatingly chosen starvation."
-        },
-        {
-          "id": "sent-221",
-          "text": "Así ardía su odio al mal,",
-          "translationRu": "Так пылала его ненависть ко злу —",
-          "original": "Thus fiercely,"
-        },
-        {
-          "id": "sent-222",
-          "text": "tan intenso como la llama",
-          "translationRu": "такая же сильная, как пламя",
-          "original": "like the splint of pine"
-        },
-        {
-          "id": "sent-223",
-          "text": "de la astilla de pino",
-          "translationRu": "сосновой щепки,"
-        },
-        {
-          "id": "sent-224",
-          "text": "que la vieja había clavado en el suelo.",
-          "translationRu": "воткнутой старухой в пол.",
-          "original": "the old hag had stuck in the floor, blazed up this man's detestation of evil."
+          "id": "sent-114",
+          "text": "ardía con fuerza, como la astilla de pino que la vieja había clavado en el suelo.",
+          "translationRu": "разгорался с силой, словно сосновая щепка, которую старуха воткнула в пол."
         }
       ]
     },
@@ -1426,88 +826,32 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-225",
-          "text": "El criado no sabía, claro,",
-          "translationRu": "Слуга, конечно, не знал,",
-          "original": "The lackey, of course, did not know"
+          "id": "sent-115",
+          "text": "El criado, por supuesto, no entendía por qué la vieja arrancaba los cabellos de los muertos.",
+          "translationRu": "Слуга, конечно, не понимал, зачем старуха выдёргивает волосы у мёртвых.",
+          "original": "下人には、勿論、何故老婆が死人の髪の毛を抜くかわからなかった。",
+          "originalRu": "Слуга, разумеется, не понимал, зачем старуха выдёргивает волосы у мертвеца."
         },
         {
-          "id": "sent-226",
-          "text": "por qué la vieja arrancaba el pelo",
-          "translationRu": "почему старуха вырывала волосы",
-          "original": "why the old hag was pulling out the hair"
+          "id": "sent-116",
+          "text": "Por eso, de manera razonable, no sabía si aquello era bueno o malo.",
+          "translationRu": "Поэтому, рассуждая здраво, он не знал, к добру это отнести или ко злу.",
+          "original": "従って、合理的には、それを善悪のいずれに片づけてよいか知らなかった。",
+          "originalRu": "А потому, рассуждая здраво, он не знал, к чему это причислить — к добру или ко злу."
         },
         {
-          "id": "sent-227",
-          "text": "de los muertos.",
-          "translationRu": "у мертвецов.",
-          "original": "of the dead."
+          "id": "sent-117",
+          "text": "Pero para el criado, en esta noche de lluvia, arriba en este Rashomon, arrancar los cabellos de los muertos ya era, sólo por eso, un mal imperdonable.",
+          "translationRu": "Но для слуги в эту дождливую ночь, здесь, наверху, на этих воротах Расёмон, само то, что кто-то выдёргивает волосы у мёртвых, уже было непростительным злом.",
+          "original": "しかし下人にとっては、この雨の夜に、この羅生門の上で、死人の髪の毛を抜くと云う事が、それだけで既に許すべからざる悪であった。",
+          "originalRu": "Но для слуги в эту дождливую ночь, здесь, на верху этих ворот Расёмон, само выдёргивание волос у мертвеца уже одним этим было непростительным злом."
         },
         {
-          "id": "sent-228",
-          "text": "Por eso tampoco podía juzgar racionalmente",
-          "translationRu": "Поэтому он не мог рационально судить о том,",
-          "original": "Consequently, he did not know, rationally,"
-        },
-        {
-          "id": "sent-229",
-          "text": "si su acción era buena o mala.",
-          "translationRu": "было ли её поведение добрым или злым.",
-          "original": "whether her conduct should be set down as good or evil."
-        },
-        {
-          "id": "sent-230",
-          "text": "Pero para él,",
-          "translationRu": "Но для него",
-          "original": "But to him"
-        },
-        {
-          "id": "sent-231",
-          "text": "arrancar pelo de los muertos",
-          "translationRu": "вырывать волосы у мертвецов",
-          "original": "the pulling of hair from the heads of the dead"
-        },
-        {
-          "id": "sent-232",
-          "text": "en esa noche de lluvia,",
-          "translationRu": "в эту дождливую ночь",
-          "original": "on that rainy night"
-        },
-        {
-          "id": "sent-233",
-          "text": "allá arriba en Rashōmon,",
-          "translationRu": "там, наверху в Расёмоне,",
-          "original": "up in Rashōmon"
-        },
-        {
-          "id": "sent-234",
-          "text": "era sin duda un crimen imperdonable.",
-          "translationRu": "было безусловно непростительным преступлением.",
-          "original": "was, on the face of it, an unpardonable crime."
-        },
-        {
-          "id": "sent-235",
-          "text": "Y ya había olvidado",
-          "translationRu": "И он уже забыл,",
-          "original": "Naturally he had already forgot"
-        },
-        {
-          "id": "sent-236",
-          "text": "que hacía poco",
-          "translationRu": "что совсем недавно",
-          "original": "that a little before"
-        },
-        {
-          "id": "sent-237",
-          "text": "él mismo había pensado",
-          "translationRu": "сам думал о том,",
-          "original": "he had had half a mind"
-        },
-        {
-          "id": "sent-238",
-          "text": "en convertirse en ladrón.",
-          "translationRu": "чтобы стать вором.",
-          "original": "to turn thief himself."
+          "id": "sent-118",
+          "text": "Por supuesto, el criado ya había olvidado hacía rato que, poco antes, él mismo había tenido la intención de hacerse ladrón.",
+          "translationRu": "Разумеется, слуга уже давно забыл о том, что ещё недавно сам собирался стать вором.",
+          "original": "勿論、下人は、さっきまで自分が、盗人になる気でいた事なぞは、とうに忘れていたのである。",
+          "originalRu": "Разумеется, слуга уже давно забыл о том, что ещё совсем недавно сам намеревался сделаться вором."
         }
       ]
     },
@@ -1515,52 +859,25 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-239",
-          "text": "Entonces apoyó bien los dos pies en el suelo",
-          "translationRu": "Тогда он крепко упёрся обеими ногами",
-          "original": "So, bracing his two feet firmly,"
+          "id": "sent-119",
+          "text": "Entonces el criado puso fuerza en las dos piernas y, de pronto, saltó de la escalera hacia arriba.",
+          "translationRu": "Тогда слуга напряг обе ноги и вдруг прыгнул с лестницы наверх.",
+          "original": "そこで、下人は、両足に力を入れて、いきなり、梯子から上へ飛び上った。",
+          "originalRu": "И вот слуга, упёршись изо всех сил обеими ногами, внезапно прыгнул с лестницы вверх."
         },
         {
-          "id": "sent-240",
-          "text": "y saltó de la escalera",
-          "translationRu": "и прыгнул с лестницы",
-          "original": "he suddenly sprang from the ladder"
+          "id": "sent-120",
+          "text": "Y, mientras ponía la mano en la empuñadura de su espada, se acercó a la vieja a grandes pasos.",
+          "translationRu": "И, положив руку на рукоять меча, большими шагами подошёл к старухе.",
+          "original": "そうして聖柄の太刀に手をかけながら、大股に老婆の前へ歩みよった。",
+          "originalRu": "И, держа руку на простой деревянной рукояти меча, широкими шагами подступил к старухе."
         },
         {
-          "id": "sent-241",
-          "text": "hacia el interior de la sala.",
-          "translationRu": "внутрь зала.",
-          "original": "up into the room."
-        },
-        {
-          "id": "sent-242",
-          "text": "Agarró el mango liso de su espada",
-          "translationRu": "Он схватился за простую рукоять меча",
-          "original": "Then, grasping the plain handle of his sword,"
-        },
-        {
-          "id": "sent-243",
-          "text": "y avanzó con grandes pasos",
-          "translationRu": "и широкими шагами двинулся",
-          "original": "he advanced with great strides"
-        },
-        {
-          "id": "sent-244",
-          "text": "hacia la vieja.",
-          "translationRu": "к старухе.",
-          "original": "up to the hag."
-        },
-        {
-          "id": "sent-245",
-          "text": "Naturalmente,",
-          "translationRu": "Естественно,",
-          "original": "Naturally"
-        },
-        {
-          "id": "sent-246",
-          "text": "ella se asustó muchísimo.",
-          "translationRu": "она перепугалась до смерти.",
-          "original": "she was startled out of her wits."
+          "id": "sent-121",
+          "text": "No hace falta decir que la vieja se asustó.",
+          "translationRu": "Незачем и говорить, что старуха испугалась.",
+          "original": "老婆が驚いたのは云うまでもない。",
+          "originalRu": "Само собой разумеется, что старуха испугалась."
         }
       ]
     },
@@ -1568,22 +885,11 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-247",
-          "text": "La vieja miró al criado",
-          "translationRu": "Старуха взглянула на слугу",
-          "original": "With a glance at the lackey,"
-        },
-        {
-          "id": "sent-248",
-          "text": "y saltó de su lugar",
-          "translationRu": "и вскочила,",
-          "original": "she sprang up"
-        },
-        {
-          "id": "sent-249",
-          "text": "como disparada por una catapulta.",
-          "translationRu": "словно выпущенная из катапульты.",
-          "original": "as if shot from a catapult."
+          "id": "sent-122",
+          "text": "La vieja, en cuanto vio al criado, saltó hacia arriba, como si la hubiera disparado una ballesta.",
+          "translationRu": "Старуха, едва увидев слугу, подскочила, словно её выбросило тетивой самострела.",
+          "original": "老婆は、一目下人を見ると、まるで弩にでも弾かれたように、飛び上った。",
+          "originalRu": "Старуха, едва бросив взгляд на слугу, подскочила, точно её отбросило тетивой самострела."
         }
       ]
     },
@@ -1591,40 +897,11 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-250",
-          "text": "— ¡Miserable! —",
-          "translationRu": "— Негодяй! —",
-          "original": "'Wretch! Where are you going?'"
-        },
-        {
-          "id": "sent-251",
-          "text": "gritó el hombre,",
-          "translationRu": "крикнул мужчина,",
-          "original": "cursed the man,"
-        },
-        {
-          "id": "sent-252",
-          "text": "bloqueándole el paso.",
-          "translationRu": "загораживая ей дорогу.",
-          "original": "blocking her way,"
-        },
-        {
-          "id": "sent-253",
-          "text": "— ¿Adónde crees que vas?",
-          "translationRu": "— Куда думаешь идти?",
-          "original": "Where are you going?"
-        },
-        {
-          "id": "sent-254",
-          "text": "Ella tropezaba con los cadáveres",
-          "translationRu": "Она спотыкалась о трупы",
-          "original": "as she stumbled among the corpses"
-        },
-        {
-          "id": "sent-255",
-          "text": "en su pánico por escapar.",
-          "translationRu": "в своей панике, пытаясь убежать.",
-          "original": "in a panic-stricken effort to escape."
+          "id": "sent-123",
+          "text": "— ¡Tú! ¿Adónde vas?",
+          "translationRu": "— Ты! Куда ты?",
+          "original": "「おのれ、どこへ行く。」",
+          "originalRu": "— Ты, негодная! Куда?"
         }
       ]
     },
@@ -1632,58 +909,53 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-256",
-          "text": "Pero la vieja intentó apartarlo",
-          "translationRu": "Но старуха попыталась оттолкнуть его",
-          "original": "All the same, she struggled to push him aside"
+          "id": "sent-124",
+          "text": "El criado, mientras la vieja tropezaba con los cadáveres y trataba de huir aterrada, le cerró el paso y la insultó así.",
+          "translationRu": "Слуга, когда старуха, спотыкаясь о трупы, в ужасе бросилась бежать, преградил ей дорогу и так выругался.",
+          "original": "下人は、老婆が死骸につまずきながら、慌てふためいて逃げようとする行手を塞いで、こう罵った。",
+          "originalRu": "Слуга, преградив дорогу старухе, которая, спотыкаясь о трупы, в смятении пыталась убежать, выкрикнул эту брань."
         },
         {
-          "id": "sent-257",
-          "text": "y pasar.",
-          "translationRu": "и пройти.",
-          "original": "and get by."
+          "id": "sent-125",
+          "text": "Aun así, la vieja intentaba apartar al criado de un empujón y seguir adelante.",
+          "translationRu": "Но старуха всё равно пыталась оттолкнуть слугу и пройти.",
+          "original": "老婆は、それでも下人をつきのけて行こうとする。",
+          "originalRu": "Старуха всё же норовила оттолкнуть слугу и прорваться."
         },
         {
-          "id": "sent-258",
-          "text": "Él la empujó de vuelta",
-          "translationRu": "Он решительно оттолкнул её",
-          "original": "But peremptorily he forced her"
+          "id": "sent-126",
+          "text": "El criado, otra vez, para no dejarla pasar, la empujaba hacia atrás.",
+          "translationRu": "Слуга же, чтобы не пустить её, толкал её назад.",
+          "original": "下人はまた、それを行かすまいとして、押しもどす。",
+          "originalRu": "Слуга, в свою очередь, стараясь её не пропустить, отталкивал её назад."
         },
         {
-          "id": "sent-259",
-          "text": "con fuerza.",
-          "translationRu": "назад.",
-          "original": "back."
+          "id": "sent-127",
+          "text": "Los dos, en medio de los cadáveres, lucharon un rato, agarrados y en silencio.",
+          "translationRu": "Вдвоём, среди трупов, они какое-то время молча боролись, вцепившись друг в друга.",
+          "original": "二人は死骸の中で、しばらく、無言のまま、つかみ合った。",
+          "originalRu": "Оба они среди трупов некоторое время молча сцепились в схватке."
         },
         {
-          "id": "sent-260",
-          "text": "Por un momento,",
-          "translationRu": "На мгновение",
-          "original": "For a moment,"
+          "id": "sent-128",
+          "text": "Pero quién iba a ganar estaba claro desde el principio.",
+          "translationRu": "Но кто победит, было ясно с самого начала.",
+          "original": "しかし勝敗は、はじめからわかっている。",
+          "originalRu": "Однако исход борьбы был ясен с самого начала."
         },
         {
-          "id": "sent-261",
-          "text": "los dos forcejaron en silencio",
-          "translationRu": "они вдвоём боролись молча",
-          "original": "the pair scuffled in silence"
+          "id": "sent-129",
+          "text": "El criado, al fin, agarró el brazo de la vieja y, por la fuerza, la derribó allí mismo.",
+          "translationRu": "Слуга наконец схватил старуху за руку и силой повалил её прямо там.",
+          "original": "下人はとうとう、老婆の腕をつかんで、無理にそこへじ倒した。",
+          "originalRu": "Слуга в конце концов схватил старуху за руку и силой швырнул её наземь."
         },
         {
-          "id": "sent-262",
-          "text": "entre los cadáveres.",
-          "translationRu": "среди трупов.",
-          "original": "among the corpses."
-        },
-        {
-          "id": "sent-263",
-          "text": "Pero desde el principio",
-          "translationRu": "Но с самого начала",
-          "original": "But from the first"
-        },
-        {
-          "id": "sent-264",
-          "text": "no hubo duda sobre quién ganaría.",
-          "translationRu": "не было сомнений, кто победит.",
-          "original": "there was no doubt of the victor."
+          "id": "sent-130",
+          "text": "Era justo un brazo de puro hueso y piel, como la pata de una gallina.",
+          "translationRu": "Это была рука из одних костей да кожи, точь-в-точь как куриная лапа.",
+          "original": "丁度、鶏の脚のような、骨と皮ばかりの腕である。",
+          "originalRu": "Это была рука — кости да кожа, совсем как куриная лапа."
         }
       ]
     },
@@ -1691,40 +963,11 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-265",
-          "text": "Al final,",
-          "translationRu": "В конце концов",
-          "original": "In the end,"
-        },
-        {
-          "id": "sent-266",
-          "text": "el criado le agarró un brazo,",
-          "translationRu": "слуга схватил её за руку,",
-          "original": "seizing one of her arms,"
-        },
-        {
-          "id": "sent-267",
-          "text": "lo retorció",
-          "translationRu": "вывернул её",
-          "original": "the lackey twisted it"
-        },
-        {
-          "id": "sent-268",
-          "text": "y la tiró con fuerza al suelo.",
-          "translationRu": "и с силой бросил старуху на пол.",
-          "original": "and threw her violently down."
-        },
-        {
-          "id": "sent-269",
-          "text": "Ella era puro hueso y piel,",
-          "translationRu": "Она была сплошные кости и кожа —",
-          "original": "It was nothing but skin and bone,"
-        },
-        {
-          "id": "sent-270",
-          "text": "como la pata de una gallina.",
-          "translationRu": "как куриная лапа.",
-          "original": "just like the leg of a hen."
+          "id": "sent-131",
+          "text": "— ¿Qué estabas haciendo? Dilo. Si no lo dices, mira esto.",
+          "translationRu": "— Что ты делала? Говори. Не скажешь — вот тебе это.",
+          "original": "「何をしていた。云え。云わぬと、これだぞよ。」",
+          "originalRu": "— Что ты делала? Говори. А не скажешь — вот тебе!"
         }
       ]
     },
@@ -1732,33 +975,53 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-271",
-          "text": "— ¿Qué estás haciendo?",
-          "translationRu": "— Что ты делаешь?",
-          "original": "'What are you up to? Look you, what are you up to?"
+          "id": "sent-132",
+          "text": "El criado, al apartar de un empujón a la vieja, de pronto sacó la espada de su vaina y le puso ante los ojos el color blanco del acero.",
+          "translationRu": "Слуга, оттолкнув старуху, вдруг выхватил меч из ножен и поднёс к её глазам белый блеск стали.",
+          "original": "下人は、老婆をつき放すと、いきなり、太刀の鞘を払って、白い鋼の色をその眼の前へつきつけた。",
+          "originalRu": "Слуга, оттолкнув старуху, вдруг сорвал ножны с меча и поднёс к её глазам белый цвет стали."
         },
         {
-          "id": "sent-272",
-          "text": "— ¡Dímelo!",
-          "translationRu": "— Говори!",
-          "original": "Out with it!"
+          "id": "sent-133",
+          "text": "Pero la vieja callaba.",
+          "translationRu": "Но старуха молчала.",
+          "original": "けれども、老婆は黙っている。",
+          "originalRu": "Однако старуха молчит."
         },
         {
-          "id": "sent-273",
-          "text": "— ¡Habla,",
-          "translationRu": "— Скажи,",
-          "original": "If you don't speak,"
+          "id": "sent-134",
+          "text": "Con las dos manos temblándole sin parar, jadeando con los hombros, los ojos tan abiertos que casi se le salían las pupilas, callaba con terquedad, como una muda.",
+          "translationRu": "Обе её руки тряслись без остановки, она задыхалась, поводя плечами, а глаза раскрыла так широко, что зрачки чуть не выскакивали наружу, и упрямо молчала, словно немая.",
+          "original": "両手をわなわなふるわせて、肩で息を切りながら、眼を、眼球がの外へ出そうになるほど、見開いて、唖のように執拗く黙っている。",
+          "originalRu": "Тряся без устали обеими руками, задыхаясь так, что ходили плечи, выпучив глаза так, что зрачки готовы были выскочить наружу, она упрямо молчала, точно немая."
         },
         {
-          "id": "sent-274",
-          "text": "o te va a pasar algo muy malo! —",
-          "translationRu": "или тебе будет очень плохо! —"
+          "id": "sent-135",
+          "text": "Al ver esto, el criado, por primera vez, fue consciente con claridad de que la vida y la muerte de aquella vieja estaban del todo bajo su voluntad.",
+          "translationRu": "Увидев это, слуга впервые ясно осознал, что жизнь и смерть этой старухи целиком в его власти.",
+          "original": "これを見ると、下人は始めて明白にこの老婆の生死が、全然、自分の意志に支配されていると云う事を意識した。",
+          "originalRu": "Видя это, слуга впервые отчётливо осознал, что жизнь и смерть этой старухи всецело подвластны его воле."
         },
         {
-          "id": "sent-275",
-          "text": "le gritó.",
-          "translationRu": "крикнул он ей.",
-          "original": "you get this, see!'"
+          "id": "sent-136",
+          "text": "Y esta conciencia, sin que él lo notara, enfrió el odio que hasta entonces ardía con fuerza.",
+          "translationRu": "И это сознание, незаметно для него самого, остудило ненависть, что до тех пор пылала в нём так яростно.",
+          "original": "そうしてこの意識は、今までけわしく燃えていた憎悪の心を、いつの間にか冷ましてしまった。",
+          "originalRu": "И это сознание неприметно остудило в нём ненависть, что до сих пор пылала так свирепо."
+        },
+        {
+          "id": "sent-137",
+          "text": "Lo que quedó después fue sólo la tranquila satisfacción y el orgullo que se sienten cuando se ha hecho un trabajo y ha salido del todo bien.",
+          "translationRu": "А осталось после этого лишь спокойное довольство и гордость, какие бывают, когда сделаешь некое дело и оно благополучно удастся.",
+          "original": "後に残ったのは、ただ、ある仕事をして、それが円満に成就した時の、安らかな得意と満足とがあるばかりである。",
+          "originalRu": "После же осталось одно — то спокойное самодовольство и удовлетворение, какие бывают, когда совершишь некое дело и оно благополучно увенчается успехом."
+        },
+        {
+          "id": "sent-138",
+          "text": "Por eso el criado, mirando a la vieja desde arriba, suavizó un poco la voz y dijo así.",
+          "translationRu": "Поэтому слуга, глядя на старуху сверху вниз, немного смягчил голос и сказал так.",
+          "original": "そこで、下人は、老婆を見下しながら、少し声を柔らげてこう云った。",
+          "originalRu": "И вот слуга, глядя на старуху сверху вниз, чуть смягчив голос, проговорил такие слова."
         }
       ]
     },
@@ -1766,148 +1029,32 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-276",
-          "text": "La apartó de un empujón",
-          "translationRu": "Он оттолкнул её",
-          "original": "And casting her away,"
+          "id": "sent-139",
+          "text": "— Yo no soy ningún funcionario de la oficina de la guardia imperial.",
+          "translationRu": "— Я вовсе не чиновник из управы городской стражи.",
+          "original": "「己は検非違使の庁の役人などではない。",
+          "originalRu": "— Я не какой-нибудь чиновник из ведомства кэбииси."
         },
         {
-          "id": "sent-277",
-          "text": "y de repente desenvainó la espada.",
-          "translationRu": "и внезапно выхватил меч.",
-          "original": "he suddenly unsheathed his sword"
+          "id": "sent-140",
+          "text": "Soy un viajero que, hace un momento, pasaba justo por debajo de esta puerta.",
+          "translationRu": "Я путник, что минуту назад как раз проходил под этими воротами.",
+          "original": "今し方この門の下を通りかかった旅の者だ。",
+          "originalRu": "Я странник, что только что проходил под этими воротами."
         },
         {
-          "id": "sent-278",
-          "text": "La hoja brilló con un destello blanco",
-          "translationRu": "Лезвие сверкнуло белым блеском",
-          "original": "and brandished the white flash of steel"
+          "id": "sent-141",
+          "text": "Así que no tengo intención de atarte con una cuerda ni de hacerte nada parecido.",
+          "translationRu": "Так что я не собираюсь ни вязать тебя верёвкой, ни делать с тобой ничего такого.",
+          "original": "だからお前に縄をかけて、どうしようと云うような事はない。",
+          "originalRu": "А потому я не намерен ни связывать тебя верёвкой, ни творить с тобою что бы то ни было."
         },
         {
-          "id": "sent-279",
-          "text": "ante los ojos de la vieja.",
-          "translationRu": "перед глазами старухи.",
-          "original": "before her eyes."
-        },
-        {
-          "id": "sent-280",
-          "text": "Pero la vieja se quedó callada.",
-          "translationRu": "Но старуха молчала.",
-          "original": "But the old hag held her tongue."
-        },
-        {
-          "id": "sent-281",
-          "text": "Le temblaban las manos",
-          "translationRu": "У неё дрожали руки,",
-          "original": "Her hands trembling,"
-        },
-        {
-          "id": "sent-282",
-          "text": "y los hombros subían y bajaban",
-          "translationRu": "плечи поднимались и опускались,",
-          "original": "her shoulders heaving"
-        },
-        {
-          "id": "sent-283",
-          "text": "mientras jadeaba.",
-          "translationRu": "пока она задыхалась.",
-          "original": "as she gasped for breath,"
-        },
-        {
-          "id": "sent-284",
-          "text": "Sus ojos estaban abiertos de par en par,",
-          "translationRu": "Её глаза были широко открыты —",
-          "original": "and her eyes so wide open"
-        },
-        {
-          "id": "sent-285",
-          "text": "como si fueran a salir de sus cuencas.",
-          "translationRu": "казалось, они вот-вот выскочат из орбит.",
-          "original": "that it seemed the balls must burst from their sockets,"
-        },
-        {
-          "id": "sent-286",
-          "text": "Pero persistía en su silencio.",
-          "translationRu": "Но она упорно молчала.",
-          "original": "she persisted in her silence like a mute."
-        },
-        {
-          "id": "sent-287",
-          "text": "En ese momento,",
-          "translationRu": "В этот момент",
-          "original": "At this,"
-        },
-        {
-          "id": "sent-288",
-          "text": "el criado comprendió claramente por primera vez",
-          "translationRu": "слуга впервые ясно понял,",
-          "original": "the lackey realized clearly for the first time"
-        },
-        {
-          "id": "sent-289",
-          "text": "que la vida y la muerte de esa vieja",
-          "translationRu": "что жизнь и смерть этой старухи",
-          "original": "that this old woman's life and death"
-        },
-        {
-          "id": "sent-290",
-          "text": "dependían completamente de su voluntad.",
-          "translationRu": "полностью зависят от его воли.",
-          "original": "depended entirely upon his will."
-        },
-        {
-          "id": "sent-291",
-          "text": "Y sin darse cuenta,",
-          "translationRu": "И, не осознавая того,",
-          "original": "And before he was aware,"
-        },
-        {
-          "id": "sent-292",
-          "text": "esa comprensión apagó el fuego de su odio,",
-          "translationRu": "это понимание погасило огонь его ненависти,",
-          "original": "this realization had cooled the fires of detestation"
-        },
-        {
-          "id": "sent-293",
-          "text": "que hasta entonces había ardido tan intensamente.",
-          "translationRu": "горевший до этого так сильно.",
-          "original": "that up to this time had blazed so fiercely in his heart."
-        },
-        {
-          "id": "sent-294",
-          "text": "Lo que quedó fue solamente",
-          "translationRu": "Осталась лишь",
-          "original": "What remained was simply"
-        },
-        {
-          "id": "sent-295",
-          "text": "un orgullo tranquilo",
-          "translationRu": "спокойная гордость",
-          "original": "that comfortable pride"
-        },
-        {
-          "id": "sent-296",
-          "text": "y la satisfacción",
-          "translationRu": "и удовлетворение",
-          "original": "and satisfaction"
-        },
-        {
-          "id": "sent-297",
-          "text": "de haber terminado algo por completo.",
-          "translationRu": "от полностью выполненного дела.",
-          "original": "that follow upon a piece of work wholly carried to completion."
-        },
-        {
-          "id": "sent-298",
-          "text": "Entonces la miró desde arriba",
-          "translationRu": "Затем он посмотрел на неё сверху вниз",
-          "original": "Then, looking down upon her,"
-        },
-        {
-          "id": "sent-299",
-          "text": "y le dijo en un tono un poco más suave:",
-          "translationRu": "и сказал более мягким тоном:",
-          "original": "he said in a slightly milder tone:"
+          "id": "sent-142",
+          "text": "Sólo tienes que contarme qué hacías a estas horas arriba de esta puerta, y con eso basta.",
+          "translationRu": "Тебе нужно только рассказать мне, что ты делала в такой час наверху этих ворот, — и довольно.",
+          "original": "ただ、今時分この門の上で、何をして居たのだか、それを己に話しさえすればいいのだ。」",
+          "originalRu": "Лишь расскажи мне, что ты делала в такую пору на верху этих ворот, — и этого довольно."
         }
       ]
     },
@@ -1915,57 +1062,39 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-300",
-          "text": "— No soy ningún oficial de la policía.",
-          "translationRu": "— Я не чиновник полиции.",
-          "original": "'I'm no official from the police commissioner's office."
+          "id": "sent-143",
+          "text": "Entonces la vieja abrió todavía más los ojos, que ya tenía muy abiertos, y se quedó mirando fijamente la cara del sirviente.",
+          "translationRu": "Тогда старуха раскрыла ещё шире свои и без того широко раскрытые глаза и пристально, не отрываясь, стала смотреть в лицо слуге.",
+          "original": "すると、老婆は、見開いていた眼を、一層大きくして、じっとその下人の顔を見守った。",
+          "originalRu": "Тогда старуха ещё больше расширила свои широко раскрытые глаза и пристально стала вглядываться в лицо слуги."
         },
         {
-          "id": "sent-301",
-          "text": "Soy un vagabundo",
-          "translationRu": "Я бродяга,",
-          "original": "I'm a wanderer"
+          "id": "sent-144",
+          "text": "Lo miró con unos ojos agudos y enrojecidos, como los de un ave de presa.",
+          "translationRu": "Она смотрела на него острыми, покрасневшими глазами, похожими на глаза хищной птицы.",
+          "original": "の赤くなった、肉食鳥のような、鋭い眼で見たのである。",
+          "originalRu": "Смотрела она покрасневшими, как у хищной птицы, острыми глазами."
         },
         {
-          "id": "sent-302",
-          "text": "que pasó por esta puerta hace un rato.",
-          "translationRu": "который проходил мимо этих ворот совсем недавно.",
-          "original": "who happened to pass under this gate a little while ago."
+          "id": "sent-145",
+          "text": "Después movió los labios, tan arrugados que casi se juntaban con la nariz, como si masticara algo.",
+          "translationRu": "Затем она задвигала губами — такими сморщенными, что они почти сливались с носом, — словно что-то жевала.",
+          "original": "それから、皺で、ほとんど、鼻と一つになった唇を、何か物でも噛んでいるように動かした。",
+          "originalRu": "Затем она шевельнула губами, которые от морщин почти слились с носом, словно пережёвывая что-то."
         },
         {
-          "id": "sent-303",
-          "text": "No te voy a atar",
-          "translationRu": "Я не собираюсь тебя связывать",
-          "original": "So you won't be tied with a rope"
+          "id": "sent-146",
+          "text": "En su garganta delgada se veía moverse la nuez puntiaguda.",
+          "translationRu": "На её тонкой шее было видно, как движется заострённый кадык.",
+          "original": "細い喉で、尖った喉仏の動いているのが見える。",
+          "originalRu": "На тонкой шее было видно, как движется острый кадык."
         },
         {
-          "id": "sent-304",
-          "text": "ni a arrestar.",
-          "translationRu": "или арестовывать.",
-          "original": "and arrested."
-        },
-        {
-          "id": "sent-305",
-          "text": "Solo quiero que me digas",
-          "translationRu": "Мне только нужно, чтобы ты рассказала,",
-          "original": "All I demand is that you tell me"
-        },
-        {
-          "id": "sent-306",
-          "text": "qué estás haciendo aquí arriba,",
-          "translationRu": "что делаешь здесь наверху,"
-        },
-        {
-          "id": "sent-307",
-          "text": "en esta puerta,",
-          "translationRu": "в этих воротах,",
-          "original": "what you're doing up in this gate"
-        },
-        {
-          "id": "sent-308",
-          "text": "a estas horas.",
-          "translationRu": "в такое время.",
-          "original": "at this hour.'"
+          "id": "sent-147",
+          "text": "En ese momento, desde aquella garganta, una voz parecida al graznido de un cuervo llegó al oído del sirviente entre jadeos.",
+          "translationRu": "В этот миг из этого горла, прерываясь, словно задыхаясь, до слуха слуги донёсся голос, похожий на карканье вороны.",
+          "original": "その時、その喉から、鴉の啼くような声が、喘ぎ喘ぎ、下人の耳へ伝わって来た。",
+          "originalRu": "В этот миг из этого горла, задыхаясь и хрипя, до ушей слуги донёсся голос, похожий на карканье вороны."
         }
       ]
     },
@@ -1973,106 +1102,11 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-309",
-          "text": "Con esas palabras,",
-          "translationRu": "После этих слов",
-          "original": "At this,"
-        },
-        {
-          "id": "sent-310",
-          "text": "los grandes ojos de la vieja",
-          "translationRu": "широко открытые глаза старухи",
-          "original": "the old hag's wide-staring eyes"
-        },
-        {
-          "id": "sent-311",
-          "text": "se abrieron aún más.",
-          "translationRu": "стали ещё больше.",
-          "original": "grew all the larger,"
-        },
-        {
-          "id": "sent-312",
-          "text": "Los fijó intensamente",
-          "translationRu": "Она пристально уставилась",
-          "original": "and she fastened them intently"
-        },
-        {
-          "id": "sent-313",
-          "text": "en la cara del criado.",
-          "translationRu": "в лицо слуги.",
-          "original": "on the face of the lackey."
-        },
-        {
-          "id": "sent-314",
-          "text": "Eran unos ojos rojos y afilados,",
-          "translationRu": "Это были острые красноватые глаза —",
-          "original": "They were sharp red-lidded eyes"
-        },
-        {
-          "id": "sent-315",
-          "text": "como los de un ave rapaz.",
-          "translationRu": "как у хищной птицы.",
-          "original": "like those of some bird of prey."
-        },
-        {
-          "id": "sent-316",
-          "text": "Luego movió los labios,",
-          "translationRu": "Затем она зашевелила губами —",
-          "original": "Then she moved her lips,"
-        },
-        {
-          "id": "sent-317",
-          "text": "que casi se unían con su nariz",
-          "translationRu": "они почти сливались с носом",
-          "original": "practically one with her nose"
-        },
-        {
-          "id": "sent-318",
-          "text": "entre las arrugas,",
-          "translationRu": "среди морщин, —",
-          "original": "among the wrinkles,"
-        },
-        {
-          "id": "sent-319",
-          "text": "como si masticara algo.",
-          "translationRu": "как будто жевала что-то.",
-          "original": "as if she were chewing something."
-        },
-        {
-          "id": "sent-320",
-          "text": "Una nuez prominente",
-          "translationRu": "Острый кадык",
-          "original": "A sharply projecting Adam's apple"
-        },
-        {
-          "id": "sent-321",
-          "text": "subió y bajó",
-          "translationRu": "поднялся и опустился",
-          "original": "slid up and down"
-        },
-        {
-          "id": "sent-322",
-          "text": "en su garganta delgada.",
-          "translationRu": "на её худой шее.",
-          "original": "in her skinny throat."
-        },
-        {
-          "id": "sent-323",
-          "text": "Y entonces de esa garganta salió una voz",
-          "translationRu": "И тогда из этой глотки вырвался голос —",
-          "original": "And at the same time, a voice"
-        },
-        {
-          "id": "sent-324",
-          "text": "como el graznido de un cuervo.",
-          "translationRu": "как карканье ворона.",
-          "original": "like the croak of a raven came pantingly from that throat"
-        },
-        {
-          "id": "sent-325",
-          "text": "La voz golpeó los oídos del criado de manera áspera.",
-          "translationRu": "Голос неприятно ударил по ушам слуги.",
-          "original": "and struck harshly upon his ears."
+          "id": "sent-148",
+          "text": "—Arrancaba estos cabellos, mira, arrancaba estos cabellos, pensaba hacerme con ellos una peluca.",
+          "translationRu": "— Я выдёргивала эти волосы, понимаешь, выдёргивала эти волосы, думала сделать из них парик.",
+          "original": "「この髪を抜いてな、この髪を抜いてな、鬘にしようと思うたのじゃ。」",
+          "originalRu": "«Я выдёргивала эти волосы, да, выдёргивала эти волосы, думала сделать из них парик»."
         }
       ]
     },
@@ -2080,27 +1114,32 @@
       "id": "para-027",
       "sentences": [
         {
-          "id": "sent-326",
-          "text": "— Arranco los cabellos,",
-          "translationRu": "— Вырываю волосы,",
-          "original": "'I'm pulling out hair,"
+          "id": "sent-149",
+          "text": "El sirviente se sintió decepcionado al ver que la respuesta de la vieja era, contra lo que esperaba, tan vulgar.",
+          "translationRu": "Слуга почувствовал разочарование, увидев, что ответ старухи оказался, против его ожиданий, таким заурядным.",
+          "original": "下人は、老婆の答が存外、平凡なのに失望した。",
+          "originalRu": "Слуга был разочарован тем, что ответ старухи оказался неожиданно обыкновенным."
         },
         {
-          "id": "sent-327",
-          "text": "arranco los cabellos de esta mujer,",
-          "translationRu": "вырываю волосы у этой женщины,",
-          "original": "pulling out this woman's hair,"
+          "id": "sent-150",
+          "text": "Y al mismo tiempo que se sentía decepcionado, su antiguo odio volvió a entrar en su corazón, junto con un frío desprecio.",
+          "translationRu": "И в тот же миг, как он разочаровался, прежняя ненависть снова вошла в его сердце вместе с холодным презрением.",
+          "original": "そうして失望すると同時に、また前の憎悪が、冷やかな侮蔑と一しょに、心の中へはいって来た。",
+          "originalRu": "И вместе с разочарованием прежняя ненависть, вместе с холодным презрением, снова вошла в его сердце."
         },
         {
-          "id": "sent-328",
-          "text": "para hacer pelucas —",
-          "translationRu": "чтобы сделать парики, —"
+          "id": "sent-151",
+          "text": "Y, sin duda, ese estado de ánimo se transmitió también a la otra persona.",
+          "translationRu": "И, по-видимому, это его состояние передалось и старухе.",
+          "original": "すると、その気色が、先方へも通じたのであろう。",
+          "originalRu": "И, должно быть, это его настроение передалось и собеседнице."
         },
         {
-          "id": "sent-329",
-          "text": "dijo la vieja.",
-          "translationRu": "сказала старуха.",
-          "original": "because I'm going to make wigs.'"
+          "id": "sent-152",
+          "text": "La vieja, que todavía tenía en una mano los largos cabellos arrancados de la cabeza del cadáver, dijo lo siguiente con voz como el murmullo de un sapo, balbuceando.",
+          "translationRu": "Старуха, всё ещё держа в одной руке длинные волосы, выдернутые из головы мертвеца, запинаясь, проговорила вот что голосом, похожим на бормотание жабы.",
+          "original": "老婆は、片手に、まだ死骸の頭から奪った長い抜け毛を持ったなり、蟇のつぶやくような声で、口ごもりながら、こんな事を云った。",
+          "originalRu": "Старуха, всё ещё держа в одной руке длинные выдранные волосы, отнятые у головы мертвеца, голосом, похожим на бормотание жабы, запинаясь, сказала вот что."
         }
       ]
     },
@@ -2108,75 +1147,74 @@
       "id": "para-028",
       "sentences": [
         {
-          "id": "sent-330",
-          "text": "El criado sintió decepción",
-          "translationRu": "Слуга почувствовал разочарование",
-          "original": "The servant was disappointed"
+          "id": "sent-153",
+          "text": "—Ya veo, arrancarle el pelo a un muerto quizá sea algo muy malo.",
+          "translationRu": "— Что ж, выдёргивать волосы у мертвеца, пожалуй, и впрямь дурное дело.",
+          "original": "「成程な、死人の髪の毛を抜くと云う事は、何ぼう悪い事かも知れぬ。",
+          "originalRu": "«Так-то оно так, выдёргивать волосы у мертвеца, может, и большой грех."
         },
         {
-          "id": "sent-331",
-          "text": "ante la respuesta tan ordinaria e inesperada.",
-          "translationRu": "от такого обыденного и неожиданного ответа.",
-          "original": "at the unexpected ordinariness of her answer."
+          "id": "sent-154",
+          "text": "Pero todos estos muertos que están aquí son personas que bien merecen que les hagan cosas así.",
+          "translationRu": "Но все эти мертвецы, что лежат здесь, — люди, которые вполне заслужили, чтобы с ними так поступали.",
+          "original": "じゃが、ここにいる死人どもは、皆、そのくらいな事を、されてもいい人間ばかりだぞよ。",
+          "originalRu": "Однако все мертвецы, что лежат здесь, — это сплошь люди, с которыми не грех и так обойтись."
         },
         {
-          "id": "sent-332",
-          "text": "Al mismo tiempo,",
-          "translationRu": "В то же время",
-          "original": "And at the same time,"
+          "id": "sent-155",
+          "text": "Mira, esta mujer a la que ahora mismo le arrancaba el pelo cortaba serpientes en trozos de unos cuatro pulgadas, las secaba y las vendía en el cuartel de la guardia diciendo que era pescado seco.",
+          "translationRu": "Вот, эта женщина, у которой я сейчас выдёргивала волосы, резала змей на куски примерно по четыре сун, сушила их и продавала в казарме стражи, выдавая за сушёную рыбу.",
+          "original": "現在、わしが今、髪を抜いた女などはな、蛇を四寸ばかりずつに切って干したのを、干魚だと云うて、太刀帯の陣へ売りに往んだわ。",
+          "originalRu": "Да вот хоть эта женщина, у которой я сейчас выдёргивала волосы, резала змей на куски вершка по четыре, сушила и носила продавать в казармы тативаки, выдавая за сушёную рыбу."
         },
         {
-          "id": "sent-333",
-          "text": "el odio que había sentido antes",
-          "translationRu": "ненависть, которую он чувствовал раньше,",
-          "original": "the hatred he had felt before,"
+          "id": "sent-156",
+          "text": "Si no hubiera muerto de la peste, seguramente todavía hoy seguiría yendo a venderlo.",
+          "translationRu": "Если бы она не умерла от мора, то, верно, и по сей день ходила бы продавать.",
+          "original": "疫病にかかって死ななんだら、今でも売りに往んでいた事であろ。",
+          "originalRu": "Не помри она от поветрия, и поныне бы носила продавать."
         },
         {
-          "id": "sent-334",
-          "text": "volvió a su corazón,",
-          "translationRu": "снова вернулась в его сердце,"
+          "id": "sent-157",
+          "text": "Y además, dicen que el pescado seco que vendía esta mujer tenía buen sabor, y que los guardias lo compraban sin falta para acompañar la comida.",
+          "translationRu": "Да к тому же говорят, будто сушёная рыба, которую продавала эта женщина, была вкусной, и стражники всегда брали её к столу.",
+          "original": "それもよ、この女の売る干魚は、味がよいと云うて、太刀帯どもが、欠かさず菜料に買っていたそうな。",
+          "originalRu": "И вот ведь что: сушёная рыба, что продавала эта женщина, говорят, была хороша на вкус, и тативаки неизменно покупали её себе на закуску."
         },
         {
-          "id": "sent-335",
-          "text": "mezclado ahora con un frío desdén.",
-          "translationRu": "смешавшись теперь с холодным презрением.",
-          "original": "mingled with a cold disdain, crept back into his heart again."
+          "id": "sent-158",
+          "text": "Yo no creo que lo que hizo esta mujer fuera malo.",
+          "translationRu": "Я не считаю, что то, что делала эта женщина, было дурным.",
+          "original": "わしは、この女のした事が悪いとは思うていぬ。",
+          "originalRu": "Я не думаю, что то, что делала эта женщина, было дурно."
         },
         {
-          "id": "sent-336",
-          "text": "Probablemente la vieja lo notó.",
-          "translationRu": "Старуха, вероятно, это почувствовала.",
-          "original": "And its manifestations probably transmitted themselves to the hag."
+          "id": "sent-159",
+          "text": "Si no lo hubiera hecho, se habría muerto de hambre; lo hizo porque no le quedaba más remedio.",
+          "translationRu": "Не делай она этого, умерла бы с голоду; делала, потому что иначе было нельзя.",
+          "original": "せねば、饑死をするのじゃて、仕方がなくした事であろ。",
+          "originalRu": "Не делай она этого — умерла бы с голоду, вот и делала поневоле."
         },
         {
-          "id": "sent-337",
-          "text": "Pues todavía sostenía en una mano",
-          "translationRu": "Ведь она всё ещё держала в одной руке",
-          "original": "For still holding in one hand"
+          "id": "sent-160",
+          "text": "Por eso, tampoco creo que sea malo lo que yo estaba haciendo ahora.",
+          "translationRu": "Так что и то, что я сейчас делала, я тоже не считаю дурным.",
+          "original": "されば、今また、わしのしていた事も悪い事とは思わぬぞよ。",
+          "originalRu": "А значит, и то, что вот сейчас делала я, тоже не считаю дурным делом."
         },
         {
-          "id": "sent-338",
-          "text": "los cabellos largos",
-          "translationRu": "длинные волосы,",
-          "original": "the long hair"
+          "id": "sent-161",
+          "text": "Esto también es algo que, si no lo hago, me moriré de hambre, así que lo hago porque no me queda más remedio.",
+          "translationRu": "Ведь и это — то, чего, не сделай я, я умру с голоду, а потому делаю поневоле.",
+          "original": "これとてもやはりせねば、饑死をするじゃて、仕方がなくする事じゃわいの。",
+          "originalRu": "И это ведь точно так же: не сделай я этого — умру с голоду, а потому делаю поневоле."
         },
         {
-          "id": "sent-339",
-          "text": "arrancados de la cabeza del cadáver.",
-          "translationRu": "вырванные из головы покойника.",
-          "original": "she had pulled from the corpse's head,"
-        },
-        {
-          "id": "sent-340",
-          "text": "Y comenzó a explicar su caso",
-          "translationRu": "И она принялась объяснять свою ситуацию",
-          "original": "she mumbled her case"
-        },
-        {
-          "id": "sent-341",
-          "text": "en esa voz ronca y croante.",
-          "translationRu": "тем же хриплым, каркающим голосом.",
-          "original": "in the croaking voice of a toad."
+          "id": "sent-162",
+          "text": "Por eso, esta mujer, que conocía bien esa necesidad, seguramente también pasaría por alto lo que yo hago.",
+          "translationRu": "А раз так, эта женщина, которая хорошо знала, что такое «иначе нельзя», наверное, и на мои дела посмотрела бы снисходительно.",
+          "original": "じゃて、その仕方がない事を、よく知っていたこの女は、大方わしのする事も大目に見てくれるであろ。」",
+          "originalRu": "А потому эта женщина, которая хорошо знала, что значит поступать поневоле, наверное, и на то, что делаю я, посмотрела бы сквозь пальцы»."
         }
       ]
     },
@@ -2184,178 +1222,11 @@
       "id": "para-029",
       "sentences": [
         {
-          "id": "sent-342",
-          "text": "Quizás era malo arrancar el pelo de los muertos,",
-          "translationRu": "Может, вырывать волосы у мертвецов — это нехорошо,",
-          "original": "To be sure, it might be wicked to pull hair from dead bodies,"
-        },
-        {
-          "id": "sent-343",
-          "text": "reconocía ella.",
-          "translationRu": "признавала она.",
-          "original": "for all she knew."
-        },
-        {
-          "id": "sent-344",
-          "text": "Pero esos muertos eran personas",
-          "translationRu": "Но эти мертвецы были людьми,",
-          "original": "But these dead were mostly people"
-        },
-        {
-          "id": "sent-345",
-          "text": "que merecían ese trato, en su mayoría.",
-          "translationRu": "которые в большинстве своём заслуживали подобного обращения.",
-          "original": "who could well be treated in such a way."
-        },
-        {
-          "id": "sent-346",
-          "text": "Por ejemplo,",
-          "translationRu": "Например,",
-          "original": "For instance,"
-        },
-        {
-          "id": "sent-347",
-          "text": "esta mujer a quien le arrancaba los cabellos",
-          "translationRu": "эта женщина, у которой она вырывала волосы,",
-          "original": "this woman from whose head she had just been pulling hair"
-        },
-        {
-          "id": "sent-348",
-          "text": "había cortado serpientes en trozos de cuatro pulgadas",
-          "translationRu": "резала змей на куски длиной в четыре дюйма",
-          "original": "had cut snakes up into four-inch lengths"
-        },
-        {
-          "id": "sent-349",
-          "text": "y las vendía como pescado seco",
-          "translationRu": "и продавала их как вяленую рыбу",
-          "original": "and sold them for dried fish"
-        },
-        {
-          "id": "sent-350",
-          "text": "en los campamentos militares.",
-          "translationRu": "в военных лагерях.",
-          "original": "in the military camps."
-        },
-        {
-          "id": "sent-351",
-          "text": "Si la epidemia no la hubiera matado,",
-          "translationRu": "Если бы эпидемия не убила её,",
-          "original": "Had she not fallen prey to the epidemic and died,"
-        },
-        {
-          "id": "sent-352",
-          "text": "todavía las estaría vendiendo.",
-          "translationRu": "она продавала бы их и до сих пор.",
-          "original": "she might have been selling them yet."
-        },
-        {
-          "id": "sent-353",
-          "text": "Es más,",
-          "translationRu": "Более того,",
-          "original": "What was more,"
-        },
-        {
-          "id": "sent-354",
-          "text": "los samuráis encontraban ese pescado seco sabroso",
-          "translationRu": "самураи находили эту вяленую рыбу вкусной",
-          "original": "the samurai had found her dried fish tasty"
-        },
-        {
-          "id": "sent-355",
-          "text": "y lo compraban todo",
-          "translationRu": "и покупали её всю,",
-          "original": "and bought them all up"
-        },
-        {
-          "id": "sent-356",
-          "text": "para comerlo con su arroz.",
-          "translationRu": "чтобы есть с рисом.",
-          "original": "to eat with their rice."
-        },
-        {
-          "id": "sent-357",
-          "text": "La vieja no consideraba mala la conducta de esa mujer.",
-          "translationRu": "Старуха не считала поведение этой женщины дурным.",
-          "original": "The hag did not find the woman's conduct blameworthy."
-        },
-        {
-          "id": "sent-358",
-          "text": "Si no lo hubiera hecho,",
-          "translationRu": "Если бы та этого не делала,",
-          "original": "Since she must otherwise have starved to death,"
-        },
-        {
-          "id": "sent-359",
-          "text": "habría muerto de hambre.",
-          "translationRu": "она умерла бы с голоду.",
-          "original": "she could not well have helped it."
-        },
-        {
-          "id": "sent-360",
-          "text": "No tenía otra elección.",
-          "translationRu": "У неё не было другого выбора.",
-          "original": "she could not well have helped it."
-        },
-        {
-          "id": "sent-361",
-          "text": "Por eso,",
-          "translationRu": "Поэтому",
-          "original": "Therefore,"
-        },
-        {
-          "id": "sent-362",
-          "text": "lo que ella misma hacía ahora",
-          "translationRu": "и то, что она сама делала сейчас,",
-          "original": "what she herself now did"
-        },
-        {
-          "id": "sent-363",
-          "text": "tampoco podía llamarse malo.",
-          "translationRu": "тоже нельзя было назвать плохим.",
-          "original": "could not be called bad either."
-        },
-        {
-          "id": "sent-364",
-          "text": "También ella tendría que morir de hambre",
-          "translationRu": "Она тоже умерла бы с голоду,",
-          "original": "Since this, too, must be done or she would starve,"
-        },
-        {
-          "id": "sent-365",
-          "text": "si no lo hacía.",
-          "translationRu": "если бы не делала этого.",
-          "original": "it could not well be helped,"
-        },
-        {
-          "id": "sent-366",
-          "text": "Y pensaba que esa mujer muerta,",
-          "translationRu": "И она думала, что та мёртвая женщина,",
-          "original": "and she thought this woman,"
-        },
-        {
-          "id": "sent-367",
-          "text": "que conocía bien su dilema,",
-          "translationRu": "которая хорошо понимала её положение,",
-          "original": "who well knew her dilemma,"
-        },
-        {
-          "id": "sent-368",
-          "text": "la perdonaría por lo que hacía.",
-          "translationRu": "простила бы её за это.",
-          "original": "would surely forgive her for what she did."
-        },
-        {
-          "id": "sent-369",
-          "text": "Así era, en general,",
-          "translationRu": "Такова была, в общих чертах,",
-          "original": "Thus, by the large, ran"
-        },
-        {
-          "id": "sent-370",
-          "text": "la explicación de la vieja.",
-          "translationRu": "объяснение старухи.",
-          "original": "the old hag's explanation."
+          "id": "sent-163",
+          "text": "La vieja dijo, más o menos, algo con este sentido.",
+          "translationRu": "Старуха сказала, в общих чертах, нечто в этом смысле.",
+          "original": "老婆は、大体こんな意味の事を云った。",
+          "originalRu": "Старуха сказала примерно нечто в таком смысле."
         }
       ]
     },
@@ -2363,123 +1234,53 @@
       "id": "para-030",
       "sentences": [
         {
-          "id": "sent-371",
-          "text": "El criado envainó la espada",
-          "translationRu": "Слуга вложил меч в ножны",
-          "original": "The lackey sheathed his sword and,"
+          "id": "sent-164",
+          "text": "El sirviente, tras envainar su espada y sujetar la empuñadura con la mano izquierda, escuchaba este relato con frialdad.",
+          "translationRu": "Слуга, вложив меч в ножны и придерживая левой рукой его рукоять, холодно слушал этот рассказ.",
+          "original": "下人は、太刀を鞘におさめて、その太刀の柄を左の手でおさえながら、冷然として、この話を聞いていた。",
+          "originalRu": "Слуга, вложив меч в ножны и придерживая левой рукой рукоять меча, бесстрастно слушал этот рассказ."
         },
         {
-          "id": "sent-372",
-          "text": "y la escuchó",
-          "translationRu": "и слушал её"
+          "id": "sent-165",
+          "text": "Por supuesto, lo escuchaba mientras con la mano derecha se tocaba, preocupado, un gran grano lleno de pus rojo en la mejilla.",
+          "translationRu": "Разумеется, слушал он, теребя правой рукой большой прыщ на щеке, набухший красным гноем.",
+          "original": "勿論、右の手では、赤く頬に膿を持った大きな面皰を気にしながら、聞いているのである。",
+          "originalRu": "Разумеется, слушал он, теребя правой рукой большой прыщ на щеке, что налился красным гноем."
         },
         {
-          "id": "sent-373",
-          "text": "con la mano izquierda sobre el mango.",
-          "translationRu": "с левой рукой на рукояти.",
-          "original": "with his left hand on the hilt, listened in cold blood to her recital."
+          "id": "sent-166",
+          "text": "Pero, mientras escuchaba esto, en el corazón del sirviente nació cierto valor.",
+          "translationRu": "Но, пока он это слушал, в сердце слуги родилась некая смелость.",
+          "original": "しかし、これを聞いている中に、下人の心には、ある勇気が生まれて来た。",
+          "originalRu": "Однако, пока он слушал это, в сердце слуги родилась некая смелость."
         },
         {
-          "id": "sent-374",
-          "text": "La mano derecha tocaba el grano con pus",
-          "translationRu": "Правая рука касалась гнойного нарыва",
-          "original": "Of course, his right hand was busy fingering the festering carbuncle"
+          "id": "sent-167",
+          "text": "Era el valor que a este hombre le había faltado hacía un rato, abajo, bajo la puerta.",
+          "translationRu": "Это была та смелость, которой этому человеку недоставало незадолго до того, внизу, под воротами.",
+          "original": "それは、さっき門の下で、この男には欠けていた勇気である。",
+          "originalRu": "Это была та смелость, которой недавно недоставало этому человеку внизу, под воротами."
         },
         {
-          "id": "sent-375",
-          "text": "que tenía en su mejilla ardiente.",
-          "translationRu": "на его пылающей щеке.",
-          "original": "on his fiery cheek."
+          "id": "sent-168",
+          "text": "Y, además, era un valor que se disponía a moverse en una dirección completamente opuesta a la del valor que había sentido hacía un rato, al subir a lo alto de esta puerta y atrapar a esta vieja.",
+          "translationRu": "И к тому же это была смелость, готовая двинуться в совершенно противоположную сторону по сравнению с той смелостью, что он испытал недавно, когда поднялся наверх этих ворот и схватил старуху.",
+          "original": "そうして、またさっきこの門の上へ上って、この老婆を捕えた時の勇気とは、全然、反対な方向に動こうとする勇気である。",
+          "originalRu": "И к тому же это была смелость, направленная в совершенно противоположную сторону по сравнению с той смелостью, с какой он недавно поднялся наверх этих ворот и схватил эту старуху."
         },
         {
-          "id": "sent-376",
-          "text": "Mientras escuchaba,",
-          "translationRu": "Пока он слушал,",
-          "original": "But as he listened,"
+          "id": "sent-169",
+          "text": "El sirviente no solo había dejado de dudar entre morir de hambre o hacerse ladrón.",
+          "translationRu": "Слуга не только перестал колебаться между тем, умереть ли с голоду или сделаться вором.",
+          "original": "下人は、饑死をするか盗人になるかに、迷わなかったばかりではない。",
+          "originalRu": "Слуга не только не колебался более, умереть ли с голоду или стать вором."
         },
         {
-          "id": "sent-377",
-          "text": "nació en él cierto valor.",
-          "translationRu": "в нём родилась особая смелость.",
-          "original": "a certain courage was born within him."
-        },
-        {
-          "id": "sent-378",
-          "text": "Era el valor que le había faltado",
-          "translationRu": "Это была та смелость, которой ему не хватало",
-          "original": "It was the courage he had lacked"
-        },
-        {
-          "id": "sent-379",
-          "text": "bajo la puerta poco antes.",
-          "translationRu": "под воротами немного раньше.",
-          "original": "under the gate a while before."
-        },
-        {
-          "id": "sent-380",
-          "text": "Y además era un valor",
-          "translationRu": "И к тому же это была смелость,",
-          "original": "And, moreover, it was a courage"
-        },
-        {
-          "id": "sent-381",
-          "text": "que tendía a moverse",
-          "translationRu": "которая толкала его",
-          "original": "tending to move"
-        },
-        {
-          "id": "sent-382",
-          "text": "exactamente en la dirección opuesta",
-          "translationRu": "в направлении, прямо противоположном тому,",
-          "original": "in just the opposite direction from the courage"
-        },
-        {
-          "id": "sent-383",
-          "text": "a la que le había llevado",
-          "translationRu": "что привело его",
-          "original": "with which he had a little before"
-        },
-        {
-          "id": "sent-384",
-          "text": "a subir a la puerta",
-          "translationRu": "подняться к воротам",
-          "original": "mounted up into the gate"
-        },
-        {
-          "id": "sent-385",
-          "text": "y agarrar a la vieja.",
-          "translationRu": "и схватить старуху.",
-          "original": "and seized the old woman."
-        },
-        {
-          "id": "sent-386",
-          "text": "Ya no se preguntaba",
-          "translationRu": "Он больше не спрашивал себя:",
-          "original": "It was not only that he was no longer at a loss"
-        },
-        {
-          "id": "sent-387",
-          "text": "si morir de hambre",
-          "translationRu": "умереть от голода",
-          "original": "whether to starve"
-        },
-        {
-          "id": "sent-388",
-          "text": "o convertirse en ladrón.",
-          "translationRu": "или стать вором.",
-          "original": "or turn thief."
-        },
-        {
-          "id": "sent-389",
-          "text": "La idea de morir de hambre",
-          "translationRu": "Мысль о смерти от голода",
-          "original": "His emotions were now such that the idea of starving to death"
-        },
-        {
-          "id": "sent-390",
-          "text": "casi había desaparecido de su mente.",
-          "translationRu": "почти исчезла из его сознания.",
-          "original": "had been driven from his consciousness as well-nigh unthinkable."
+          "id": "sent-170",
+          "text": "Según el estado de ánimo de este hombre en aquel momento, la idea de morir de hambre estaba expulsada fuera de su conciencia hasta tal punto que apenas podía siquiera pensar en ella.",
+          "translationRu": "Если судить по состоянию этого человека в ту минуту, мысль о голодной смерти была изгнана за пределы его сознания настолько, что он почти и помыслить о ней не мог.",
+          "original": "その時のこの男の心もちから云えば、饑死などと云う事は、ほとんど、考える事さえ出来ないほど、意識の外に追い出されていた。",
+          "originalRu": "Если судить по тому, что было на душе у этого человека в тот миг, то мысль о голодной смерти была вытеснена за пределы сознания настолько, что он почти не мог даже думать о ней."
         }
       ]
     },
@@ -2487,79 +1288,11 @@
       "id": "para-031",
       "sentences": [
         {
-          "id": "sent-391",
-          "text": "— ¿De verdad?",
-          "translationRu": "— Правда?",
-          "original": "'Really?"
-        },
-        {
-          "id": "sent-392",
-          "text": "— ¿Es eso cierto? —",
-          "translationRu": "— Это правда? —",
-          "original": "Is that true?'"
-        },
-        {
-          "id": "sent-393",
-          "text": "le preguntó en un tono burlón",
-          "translationRu": "спросил он насмешливым тоном,"
-        },
-        {
-          "id": "sent-394",
-          "text": "cuando la vieja terminó su historia.",
-          "translationRu": "когда старуха закончила свой рассказ.",
-          "original": "When the old woman had finished her tale, he questioned her in a sneering voice."
-        },
-        {
-          "id": "sent-395",
-          "text": "Luego dio un paso adelante.",
-          "translationRu": "Затем он сделал шаг вперёд.",
-          "original": "Then advancing one step forward,"
-        },
-        {
-          "id": "sent-396",
-          "text": "Retiró la mano derecha del grano",
-          "translationRu": "Он убрал правую руку от нарыва",
-          "original": "he suddenly removed his right hand from his carbuncle and,"
-        },
-        {
-          "id": "sent-397",
-          "text": "y agarró a la vieja por el cuello.",
-          "translationRu": "и схватил старуху за шиворот.",
-          "original": "seizing the hag by the collar, said,"
-        },
-        {
-          "id": "sent-398",
-          "text": "— Entonces supongo que no me culparás",
-          "translationRu": "— Тогда, думаю, ты не осудишь меня",
-          "original": "'Then I guess you won't blame me"
-        },
-        {
-          "id": "sent-399",
-          "text": "por convertirme en bandido,",
-          "translationRu": "за то, что я стану разбойником,",
-          "original": "for turning highwayman,"
-        },
-        {
-          "id": "sent-400",
-          "text": "¿verdad? —",
-          "translationRu": "верно? —"
-        },
-        {
-          "id": "sent-401",
-          "text": "dijo.",
-          "translationRu": "сказал он.",
-          "original": "will you?"
-        },
-        {
-          "id": "sent-402",
-          "text": "— Yo también moriría de hambre",
-          "translationRu": "— Я тоже умру от голода,"
-        },
-        {
-          "id": "sent-403",
-          "text": "si no lo hago.",
-          "translationRu": "если не сделаю этого.",
-          "original": "I, too, must starve else.'"
+          "id": "sent-171",
+          "text": "—Seguro que es así, ¿verdad?",
+          "translationRu": "— Наверняка ведь так, да?",
+          "original": "「きっと、そうか。」",
+          "originalRu": "— Так, стало быть, верно?"
         }
       ]
     },
@@ -2567,69 +1300,46 @@
       "id": "para-032",
       "sentences": [
         {
-          "id": "sent-404",
-          "text": "En un instante",
-          "translationRu": "В мгновение ока",
-          "original": "Like a flash"
+          "id": "sent-172",
+          "text": "Cuando la vieja terminó de hablar,",
+          "translationRu": "Когда старуха закончила говорить,",
+          "original": "老婆の話が完ると、",
+          "originalRu": "Когда рассказ старухи был окончен,"
         },
         {
-          "id": "sent-405",
-          "text": "le quitó el kimono.",
-          "translationRu": "он сорвал с неё кимоно.",
-          "original": "he stripped off her kimono."
+          "id": "sent-173",
+          "text": "el criado, con voz burlona, insistió en sus palabras.",
+          "translationRu": "слуга насмешливым голосом ещё раз подтвердил свои слова.",
+          "original": "下人は嘲るような声で念を押した。",
+          "originalRu": "слуга насмешливым голосом ещё раз переспросил, словно подтверждая."
         },
         {
-          "id": "sent-406",
-          "text": "Luego,",
-          "translationRu": "Затем,",
-          "original": "Then,"
+          "id": "sent-174",
+          "text": "Entonces dio un paso hacia delante,",
+          "translationRu": "Затем он сделал шаг вперёд,",
+          "original": "そうして、一足前へ出ると、",
+          "originalRu": "И затем, шагнув вперёд,"
         },
         {
-          "id": "sent-407",
-          "text": "cuando ella intentó aferrarse a sus piernas,",
-          "translationRu": "когда она попыталась вцепиться в его ноги,",
-          "original": "as she tried to cling to his legs,"
+          "id": "sent-175",
+          "text": "y de pronto apartó la mano derecha del grano de su cara.",
+          "translationRu": "и вдруг отнял правую руку от прыща на лице.",
+          "original": "不意に右の手を面皰から離して、",
+          "originalRu": "вдруг отняв правую руку от прыща,"
         },
         {
-          "id": "sent-408",
-          "text": "la empujó violentamente hacia abajo,",
-          "translationRu": "он с силой толкнул её вниз,",
-          "original": "he violently kicked her down"
+          "id": "sent-176",
+          "text": "Mientras agarraba a la vieja por el cuello del vestido,",
+          "translationRu": "Схватив старуху за ворот платья,",
+          "original": "老婆の襟上をつかみながら、",
+          "originalRu": "и, ухватив старуху за ворот,"
         },
         {
-          "id": "sent-409",
-          "text": "sobre los cadáveres.",
-          "translationRu": "на трупы.",
-          "original": "upon the corpses."
-        },
-        {
-          "id": "sent-410",
-          "text": "La cabeza de la escalera",
-          "translationRu": "До верха лестницы"
-        },
-        {
-          "id": "sent-411",
-          "text": "estaba a solo cinco pasos.",
-          "translationRu": "было всего пять шагов.",
-          "original": "It was but five paces to the head of the ladder."
-        },
-        {
-          "id": "sent-412",
-          "text": "Con el kimono oscuro y marrón bajo el brazo,",
-          "translationRu": "С тёмно-коричневым кимоно под мышкой",
-          "original": "With the dark brown kimono under his arm,"
-        },
-        {
-          "id": "sent-413",
-          "text": "corrió en un instante escaleras abajo,",
-          "translationRu": "он в мгновение ока сбежал по крутым ступеням",
-          "original": "he ran in a twinkling down the steep steps"
-        },
-        {
-          "id": "sent-414",
-          "text": "hacia la oscuridad de la noche.",
-          "translationRu": "в ночную темноту.",
-          "original": "into the depths of the night."
+          "id": "sent-177",
+          "text": "le dijo así, como si fuera a morderla:",
+          "translationRu": "он сказал ей так, будто вот-вот укусит:",
+          "original": "噛みつくようにこう云った。",
+          "originalRu": "сказал так, словно готов был вцепиться зубами:"
         }
       ]
     },
@@ -2637,99 +1347,18 @@
       "id": "para-033",
       "sentences": [
         {
-          "id": "sent-415",
-          "text": "No pasó mucho tiempo",
-          "translationRu": "Прошло немного времени,",
-          "original": "It was not long before"
+          "id": "sent-178",
+          "text": "—Entonces no me guardarás rencor si te robo lo que llevas, ¿verdad?",
+          "translationRu": "— Тогда ты не затаишь на меня злобы, если я тебя обдеру, верно?",
+          "original": "「では、己が引剥をしようと恨むまいな。",
+          "originalRu": "— Ну так не пеняй же, коли я тебя оберу."
         },
         {
-          "id": "sent-416",
-          "text": "antes de que la vieja,",
-          "translationRu": "прежде чем старуха,",
-          "original": "the old woman,"
-        },
-        {
-          "id": "sent-417",
-          "text": "que había quedado tendida como muerta",
-          "translationRu": "лежавшая без движения, как мёртвая,",
-          "original": "who had lain for a space like one dead,"
-        },
-        {
-          "id": "sent-418",
-          "text": "entre los cadáveres,",
-          "translationRu": "среди трупов,"
-        },
-        {
-          "id": "sent-419",
-          "text": "levantara su cuerpo desnudo.",
-          "translationRu": "подняла своё нагое тело.",
-          "original": "raised her naked body up from among the corpses."
-        },
-        {
-          "id": "sent-420",
-          "text": "Murmurando y gimiendo,",
-          "translationRu": "Бормоча и стеная,",
-          "original": "Murmuring and groaning,"
-        },
-        {
-          "id": "sent-421",
-          "text": "gateó con ayuda de la luz",
-          "translationRu": "она доползла при помощи",
-          "original": "she crawled by the help of the light"
-        },
-        {
-          "id": "sent-422",
-          "text": "que aún ardía",
-          "translationRu": "ещё горевшего огня",
-          "original": "that still burned"
-        },
-        {
-          "id": "sent-423",
-          "text": "hasta lo alto de la escalera.",
-          "translationRu": "до верха лестницы.",
-          "original": "to the top of the ladder."
-        },
-        {
-          "id": "sent-424",
-          "text": "Desde allí,",
-          "translationRu": "Оттуда,",
-          "original": "And from there,"
-        },
-        {
-          "id": "sent-425",
-          "text": "con sus cabellos blancos y cortos",
-          "translationRu": "с короткими белыми волосами,",
-          "original": "with her short white hair"
-        },
-        {
-          "id": "sent-426",
-          "text": "colgando sobre su cara,",
-          "translationRu": "свисавшими на лицо,",
-          "original": "hanging about her face,"
-        },
-        {
-          "id": "sent-427",
-          "text": "se asomó hacia abajo,",
-          "translationRu": "она выглянула вниз,",
-          "original": "she peered down"
-        },
-        {
-          "id": "sent-428",
-          "text": "bajo la puerta.",
-          "translationRu": "под ворота.",
-          "original": "under the gate."
-        },
-        {
-          "id": "sent-429",
-          "text": "Afuera no había nada más",
-          "translationRu": "Снаружи не было ничего, кроме",
-          "original": "Outside there was nothing but"
-        },
-        {
-          "id": "sent-430",
-          "text": "que la noche negra y vacía.",
-          "translationRu": "чёрной пустой ночи.",
-          "original": "black and cavernous night."
+          "id": "sent-179",
+          "text": "Yo también, si no hago esto, soy hombre que se morirá de hambre.",
+          "translationRu": "Я ведь тоже, если так не сделаю, — человек, которому суждено умереть с голоду.",
+          "original": "己もそうしなければ、饑死をする体なのだ。」",
+          "originalRu": "Ведь и мне, если не поступлю так, придётся умереть с голоду."
         }
       ]
     },
@@ -2737,27 +1366,131 @@
       "id": "para-034",
       "sentences": [
         {
-          "id": "sent-431",
-          "text": "El criado ya se había marchado",
-          "translationRu": "Слуга уже ушёл",
-          "original": "The lackey had already braved the rain and hurried away"
+          "id": "sent-180",
+          "text": "El criado, con rapidez, le arrancó el vestido a la vieja.",
+          "translationRu": "Слуга быстро сорвал с старухи платье.",
+          "original": "下人は、すばやく、老婆の着物を剥ぎとった。",
+          "originalRu": "Слуга проворно сорвал со старухи её одежду."
         },
         {
-          "id": "sent-432",
-          "text": "bajo la lluvia",
-          "translationRu": "под дождём"
+          "id": "sent-181",
+          "text": "Después, la vieja intentó aferrarse a sus pies,",
+          "translationRu": "Потом старуха попыталась вцепиться ему в ноги,",
+          "original": "それから、足にしがみつこうとする老婆を、",
+          "originalRu": "Затем старуху, что пыталась уцепиться за его ноги,"
         },
         {
-          "id": "sent-433",
-          "text": "hacia las calles de Kioto",
-          "translationRu": "на улицы Киото —",
-          "original": "into the streets of Kyōto"
+          "id": "sent-182",
+          "text": "y él la derribó con violencia sobre los cadáveres de una patada.",
+          "translationRu": "а он грубо пинком повалил её на трупы.",
+          "original": "手荒く死骸の上へ蹴倒した。",
+          "originalRu": "он грубо пинком повалил на мертвецов."
         },
         {
-          "id": "sent-434",
-          "text": "para robar.",
-          "translationRu": "грабить.",
-          "original": "to rob."
+          "id": "sent-183",
+          "text": "Hasta la boca de la escalera apenas se contaban cinco pasos.",
+          "translationRu": "До входа на лестницу было всего-то шагов пять, не больше.",
+          "original": "梯子の口までは、僅に五歩を数えるばかりである。",
+          "originalRu": "До устья лестницы оставалось каких-нибудь пять шагов, не более."
+        },
+        {
+          "id": "sent-184",
+          "text": "El criado, llevando bajo el brazo el vestido color de corteza de ciprés que había arrancado,",
+          "translationRu": "Слуга, неся под мышкой содранное платье цвета кипарисовой коры,",
+          "original": "下人は、剥ぎとった檜皮色の着物をわきにかかえて、",
+          "originalRu": "Слуга, держа под мышкой содранную одежду цвета кипарисовой коры,"
+        },
+        {
+          "id": "sent-185",
+          "text": "en un abrir y cerrar de ojos bajó corriendo la empinada escalera hacia el fondo de la noche.",
+          "translationRu": "в мгновение ока сбежал по крутой лестнице на дно ночи.",
+          "original": "またたく間に急な梯子を夜の底へかけ下りた。",
+          "originalRu": "в мгновение ока сбежал по крутой лестнице на дно ночи."
+        }
+      ]
+    },
+    {
+      "id": "para-035",
+      "sentences": [
+        {
+          "id": "sent-186",
+          "text": "Durante un rato la vieja había quedado caída como muerta.",
+          "translationRu": "Какое-то время старуха лежала, словно мёртвая.",
+          "original": "しばらく、死んだように倒れていた老婆が、",
+          "originalRu": "Старуха, что некоторое время лежала как мёртвая,"
+        },
+        {
+          "id": "sent-187",
+          "text": "Poco después de aquello, levantó su cuerpo desnudo de entre los cadáveres.",
+          "translationRu": "Вскоре после этого она подняла своё нагое тело из груды трупов.",
+          "original": "死骸の中から、その裸の体を起したのは、それから間もなくの事である。",
+          "originalRu": "приподняла своё обнажённое тело из груды мертвецов — случилось это вскоре после того."
+        },
+        {
+          "id": "sent-188",
+          "text": "Mientras emitía una voz que era como un murmullo, como un gemido,",
+          "translationRu": "Издавая голос, похожий не то на бормотание, не то на стон,",
+          "original": "老婆はつぶやくような、うめくような声を立てながら、",
+          "originalRu": "Старуха, издавая голос, не то бормочущий, не то стонущий,"
+        },
+        {
+          "id": "sent-189",
+          "text": "guiándose por la luz del fuego que aún ardía,",
+          "translationRu": "при свете ещё горевшего огня,",
+          "original": "まだ燃えている火の光をたよりに、",
+          "originalRu": "полагаясь на свет ещё горевшего огня,"
+        },
+        {
+          "id": "sent-190",
+          "text": "se arrastró hasta la boca de la escalera.",
+          "translationRu": "доползла до входа на лестницу.",
+          "original": "梯子の口まで、這って行った。",
+          "originalRu": "доползла до устья лестницы."
+        },
+        {
+          "id": "sent-191",
+          "text": "Entonces, desde allí, con sus cortos cabellos blancos colgando hacia abajo,",
+          "translationRu": "Затем оттуда, свесив вниз свои короткие седые волосы,",
+          "original": "そうして、そこから、短い白髪を倒にして、",
+          "originalRu": "И затем оттуда, опрокинув вниз короткие седые волосы,"
+        },
+        {
+          "id": "sent-192",
+          "text": "se asomó a mirar hacia abajo, bajo la puerta.",
+          "translationRu": "заглянула вниз, под ворота.",
+          "original": "門の下を覗きこんだ。",
+          "originalRu": "заглянула вниз, под ворота."
+        },
+        {
+          "id": "sent-193",
+          "text": "Fuera no había más que la noche, negra y profunda como un abismo.",
+          "translationRu": "Снаружи была лишь ночь — чёрная и бездонная, как пропасть.",
+          "original": "外には、ただ、黒洞々たる夜があるばかりである。",
+          "originalRu": "Снаружи была лишь чёрная, бездонно-непроглядная ночь."
+        }
+      ]
+    },
+    {
+      "id": "para-036",
+      "sentences": [
+        {
+          "id": "sent-194",
+          "text": "Adónde fue el criado, nadie lo sabe.",
+          "translationRu": "Куда ушёл слуга, никто не знает.",
+          "original": "下人の行方は、誰も知らない。",
+          "originalRu": "О том, куда делся слуга, не знает никто."
+        }
+      ]
+    },
+    {
+      "id": "para-037",
+      "sentences": [
+        {
+          "id": "sent-195",
+          "text": "(Septiembre del cuarto año de la era Taishō.)",
+          "translationRu": "(Сентябрь четвёртого года эпохи Тайсё.)",
+          "original": "（大正四年九月）",
+          "originalRu": "(Сентябрь четвёртого года Тайсё.)"
         }
       ]
     }
