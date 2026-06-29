@@ -112,6 +112,8 @@ export interface Sentence {
   heading?: boolean
   /** Оригинальный текст источника, соответствующий этому предложению (вкладка «Оригинал»). */
   original?: string
+  /** Перевод оригинала на русский — показывается в «Оригинале», если язык автора ≠ русский. */
+  originalRu?: string
 }
 
 export interface Paragraph {

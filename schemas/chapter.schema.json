@@ -40,7 +40,8 @@
                 "text": { "type": "string", "minLength": 1 },
                 "translationRu": { "type": "string", "minLength": 1 },
                 "heading": { "type": "boolean" },
-                "original": { "type": "string" }
+                "original": { "type": "string" },
+                "originalRu": { "type": "string" }
               }
             }
           }

@@ -143,7 +143,14 @@ function PanelContent({
         {tab === 'translation' ? (
           <div className="tpanel__ru">{sentence.translationRu}</div>
         ) : tab === 'original' ? (
-          <div className="tpanel__og">{sentence.original}</div>
+          <div className="tpanel__og">
+            <div className="tpanel__og-text">{sentence.original}</div>
+            {sentence.originalRu ? (
+              <div className="tpanel__og-ru" lang="ru">
+                {sentence.originalRu}
+              </div>
+            ) : null}
+          </div>
         ) : ex.loading ? (
           <div className="muted">Загружаем…</div>
         ) : ex.error === 'no-key' ? (

@@ -690,6 +690,13 @@ button {
   line-height: 1.6;
   font-size: 1.02em;
 }
+.tpanel__og-ru {
+  margin-top: 0.6em;
+  padding-top: 0.6em;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.95em;
+}
 .tpanel__explain {
   color: var(--text);
   line-height: 1.6;

@@ -230,7 +230,7 @@ export function SettingsPage() {
         </section>
 
         <section className="block">
-          <p className="muted">Greda · офлайн-ридер · версия 0.3.3</p>
+          <p className="muted">Greda · офлайн-ридер · версия 0.3.4</p>
         </section>
       </main>
     </div>
