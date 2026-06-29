@@ -1,10 +1,11 @@
-import { useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { TopBar } from '../components/TopBar'
 import { WorkCard } from '../components/WorkCard'
 import { ErrorView, Loading, ProgressBar } from '../components/ui'
 import { useAsync } from '../hooks/useAsync'
 import { fetchCatalog } from '../lib/content'
+import { downloadAllForOffline, getCachedWorkIds, offlineSupported } from '../lib/offline'
 import { useAppState } from '../state/store'
 import { workReadingStatus } from '../lib/progress'
 import type { ReadingStatus } from '../lib/progress'
@@ -38,6 +39,10 @@ export function HomePage() {
   const [status, setStatus] = useState<ReadingStatus | 'all'>('all')
   // По умолчанию показываем сначала короткие рассказы (по числу слов, по возрастанию).
   const [sort, setSort] = useState<Sort>('wordsAsc')
+  // Офлайн: какие работы уже в кэше + прогресс «Скачать всё».
+  const [cachedIds, setCachedIds] = useState<Set<string>>(new Set())
+  const [cacheReady, setCacheReady] = useState(false)
+  const [dl, setDl] = useState<{ done: number; total: number } | null>(null)
 
   const cont = store.lastOpened
   const contWork = cont ? catalog?.works.find((w) => w.id === cont.workId) : undefined
@@ -69,6 +74,31 @@ export function HomePage() {
     for (const w of catalog?.works ?? []) s[workReadingStatus(store, w)]++
     return s
   }, [catalog, store])
+
+  // Узнаём, что уже сохранено офлайн (для пометок на карточках и счётчика).
+  useEffect(() => {
+    if (!catalog || !offlineSupported()) return
+    let cancelled = false
+    getCachedWorkIds(catalog.works).then((ids) => {
+      if (!cancelled) {
+        setCachedIds(ids)
+        setCacheReady(true)
+      }
+    })
+    return () => {
+      cancelled = true
+    }
+  }, [catalog])
+
+  const downloadAll = useCallback(async () => {
+    if (!catalog || dl) return
+    setDl({ done: 0, total: catalog.works.length })
+    await downloadAllForOffline(catalog.works, (done, total) => setDl({ done, total }))
+    const ids = await getCachedWorkIds(catalog.works)
+    setCachedIds(ids)
+    setCacheReady(true)
+    setDl(null)
+  }, [catalog, dl])
 
   const q = query.trim().toLowerCase()
   const refLevel: Level = level !== 'all' ? level : 'b1'
@@ -125,6 +155,25 @@ export function HomePage() {
             <div className="muted lib-stats">
               Прочитано {stats.done} · читаю {stats.started} · впереди {stats.new}
             </div>
+
+            {offlineSupported() ? (
+              <div className="offline-bar">
+                <span className="muted">
+                  Офлайн: {cachedIds.size}/{catalog.works.length}
+                </span>
+                {dl ? (
+                  <span className="muted">
+                    Скачивание… {dl.done}/{dl.total}
+                  </span>
+                ) : cacheReady && cachedIds.size >= catalog.works.length ? (
+                  <span className="muted">всё сохранено ✓</span>
+                ) : (
+                  <button className="btn btn--sm" onClick={downloadAll}>
+                    Скачать всё для офлайна
+                  </button>
+                )}
+              </div>
+            ) : null}
 
             <input
               className="search"
@@ -223,7 +272,11 @@ export function HomePage() {
               <ul className="work-list">
                 {works.map((w) => (
                   <li key={w.id}>
-                    <WorkCard work={w} status={workReadingStatus(store, w)} />
+                    <WorkCard
+                      work={w}
+                      status={workReadingStatus(store, w)}
+                      cached={cacheReady ? cachedIds.has(w.id) : undefined}
+                    />
                   </li>
                 ))}
               </ul>

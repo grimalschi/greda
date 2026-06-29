@@ -3,7 +3,16 @@ import { LEVELS, LEVEL_ORDER, LEVEL_LABELS, LANGUAGE_LABELS } from '../types'
 import type { CatalogWork } from '../types'
 import type { ReadingStatus } from '../lib/progress'
 
-export function WorkCard({ work, status = 'new' }: { work: CatalogWork; status?: ReadingStatus }) {
+export function WorkCard({
+  work,
+  status = 'new',
+  cached,
+}: {
+  work: CatalogWork
+  status?: ReadingStatus
+  /** true — файлы лежат офлайн; false — нет; undefined — ещё не проверено. */
+  cached?: boolean
+}) {
   return (
     <Link className="card" to={`/work/${work.id}`}>
       <div className="card__title">{work.title}</div>
@@ -21,6 +30,16 @@ export function WorkCard({ work, status = 'new' }: { work: CatalogWork; status?:
       <div className="card__meta">
         {status === 'done' ? <span className="card__status card__status--done">✓ прочитано</span> : null}
         {status === 'started' ? <span className="card__status card__status--started">● читаю</span> : null}
+        {cached === true ? (
+          <span className="card__status card__status--offline" title="Текст сохранён, доступен офлайн">
+            ⤓ офлайн
+          </span>
+        ) : null}
+        {cached === false ? (
+          <span className="card__status card__status--cloud" title="Не загружен — откроется при наличии сети">
+            ☁ не загружено
+          </span>
+        ) : null}
       </div>
 
       <div className="levels">

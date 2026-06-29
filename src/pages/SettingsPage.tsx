@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { TopBar } from '../components/TopBar'
 import { useAppState } from '../state/store'
+import { checkForAppUpdate } from '../lib/offline'
 import type { AiProvider, FontSize, Theme, TranslationMode } from '../lib/storage'
 
 const PROVIDER_OPTIONS: { value: AiProvider; label: string }[] = [
@@ -31,6 +32,12 @@ export function SettingsPage() {
   const { store, setTheme, setFontSize, setTranslationMode, updateSettings, resetProgress } =
     useAppState()
   const [confirming, setConfirming] = useState(false)
+  const [upd, setUpd] = useState<'idle' | 'checking' | 'updating' | 'current' | 'unsupported'>('idle')
+  const checkUpdate = async () => {
+    setUpd('checking')
+    // При 'updating' страницу перезагрузит main.tsx по событию 'controllerchange'.
+    setUpd(await checkForAppUpdate())
+  }
   const tMode = store.settings.translationMode
   const s = store.settings
   const provider = s.aiProvider
@@ -189,7 +196,31 @@ export function SettingsPage() {
         </section>
 
         <section className="block">
-          <p className="muted">Greda · офлайн-ридер · версия 0.3.1</p>
+          <h2 className="section-title">Обновление приложения</h2>
+          <button
+            className="btn"
+            onClick={checkUpdate}
+            disabled={upd === 'checking' || upd === 'updating'}
+          >
+            {upd === 'checking'
+              ? 'Проверяю…'
+              : upd === 'updating'
+                ? 'Обновление найдено, перезагрузка…'
+                : 'Проверить обновление'}
+          </button>
+          <p className="muted" style={{ marginTop: '0.5em', fontSize: '0.85em' }}>
+            {upd === 'current'
+              ? 'У вас последняя версия.'
+              : upd === 'unsupported'
+                ? 'Недоступно в этой среде — откройте установленное приложение (PWA).'
+                : upd === 'updating'
+                  ? 'Загружается новая версия, страница сейчас перезагрузится.'
+                  : 'Принудительно проверить и применить свежую версию кода. Тексты обновляются сами при открытии в онлайне.'}
+          </p>
+        </section>
+
+        <section className="block">
+          <p className="muted">Greda · офлайн-ридер · версия 0.3.2</p>
         </section>
       </main>
     </div>

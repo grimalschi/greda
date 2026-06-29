@@ -300,6 +300,21 @@ button {
 .card__status--started {
   color: var(--muted);
 }
+.card__status--offline {
+  color: #2da44e;
+}
+.card__status--cloud {
+  color: var(--muted);
+  font-weight: 600;
+}
+.offline-bar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 2px 0 4px;
+  font-size: 0.85rem;
+}
 
 .lib-stats {
   margin: -4px 0 10px;
@@ -822,6 +837,11 @@ button.chapter-nav__btn {
 .btn--danger {
   border-color: var(--danger);
   color: var(--danger);
+}
+.btn--sm {
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  border-radius: 8px;
 }
 .confirm {
   display: grid;
