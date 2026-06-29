@@ -114,8 +114,31 @@ source to one fragment and leave the neighbour fragment's `original` empty — t
 originals still reproduces the full source. **Never let the source's awkwardness block an es/ru split.**
 Tested on `the-red-headed-league` (clause-level), then `twenty-six-men-and-a-girl` (phrase-level);
 rolling out to all works short→long (2026-06-24).
+**Translate from the AUTHOR'S ORIGINAL language — NEVER via a bridge language (CRITICAL, 2026-06-25).**
+Every level's `text` (study language) and its `translationRu` MUST be produced **directly from the text in
+the language the author actually wrote in** — never from an intermediate translation. Gorky, Chekhov,
+Tolstoy, Bunin, Andreyev wrote in **Russian**; Kafka in **German**; Pirandello in **Italian**; Akutagawa
+in **Japanese**; Tagore in **Bengali**. You may **not** take an English translation of them and render the
+Spanish/Russian from it — that distorts the author's words. Project Gutenberg usually carries only the
+**English** translation for non-English authors; that is **NOT** an acceptable source — fetch the TRUE
+original (ru.wikisource.org for Russian, Aozora Bunko for Japanese, the original-language Gutenberg for
+DE/IT, etc.). English-language authors (Doyle, Joyce, Woolf, Lovecraft, Conrad, Saki, Christie, …) are
+unaffected — English **is** their original.
+**«Оригинал» tab = author's verbatim original + a Russian rendering when the original isn't Russian.** The
+`original` field holds the author's words in their own language. **If that language ≠ Russian**, also give
+a faithful Russian translation of the original (field `originalRu`), shown together in the «Оригинал» tab;
+**if the author wrote in Russian**, the tab shows the Russian original alone (no Russian→Russian). Examples:
+Gorky → Russian only; Conan Doyle / Christie → English + Russian; Akutagawa → Japanese + Russian; Kafka →
+German + Russian.
+**Audit 2026-06-25 — 12 works built from English bridges, must be regenerated from the true original:**
+Russian — `the-bishop` `in-the-ravine` `the-lady-with-the-dog` `betrothed` (Chekhov),
+`the-gentleman-from-san-francisco` (Bunin), `alyosha-the-pot` `after-the-ball` (Tolstoy), `lazarus`
+(Andreyev), `twenty-six-men-and-a-girl` (Gorky); Japanese — `rashomon` `the-spiders-thread` (Akutagawa);
+Bengali — `the-hungry-stones` (Tagore). Kafka (German) & Pirandello (Italian) already use the real original
+(clean; only `the-judgment` has a stray Gutenberg "Produced by…" header line in its first `original`).
 **The `original` field = VERBATIM source (CRITICAL, 2026-06-24).** It is the EXACT public-domain source
-text (English/German/Italian/…) — copied word-for-word, **never** a paraphrase and **never** "simple
+text **in the author's own language** (English/German/Italian/Russian/Japanese/Bengali/… — NEVER a bridge
+translation; see the rule above) — copied word-for-word, **never** a paraphrase and **never** "simple
 English at the same level as the translation". **Full-coverage / tiling rule:** within a level's chapter,
 the `original` fields read in order must reconstruct the ENTIRE source text — **every source sentence
 belongs to exactly one fragment; nothing is dropped, summarised, or invented.** Each fragment's `original`
