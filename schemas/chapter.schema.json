@@ -44,7 +44,9 @@
                 "originalRu": { "type": "string" }
               }
             }
-          }
+          },
+          "source": { "type": "string" },
+          "sourceRu": { "type": "string" }
         }
       }
     }

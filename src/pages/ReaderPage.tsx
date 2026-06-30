@@ -33,15 +33,23 @@ type ExplainState = { loading: boolean; text: string; error: string }
 /** Содержимое панели/поповера: вкладки «Перевод», «Объяснение» (GPT) и «Оригинал» (если есть). */
 function PanelContent({
   sentence,
+  paraSource,
+  paraSourceRu,
   context,
   settings,
   onClose,
 }: {
   sentence: Sentence
+  paraSource?: string
+  paraSourceRu?: string
   context: string
   settings: Settings
   onClose: () => void
 }) {
+  // Источник для вкладки «Оригинал»: предпочитаем источник абзаца (source-юнит),
+  // иначе — пофрагментный `original` предложения (совместимость со старыми работами).
+  const ogText = paraSource ?? sentence.original
+  const ogRu = paraSourceRu ?? sentence.originalRu
   const [tab, setTab] = useState<'translation' | 'original' | 'explain'>('translation')
   const [ex, setEx] = useState<ExplainState>({ loading: false, text: '', error: '' })
   // Запрос объяснения «липкий»: как только вкладку открыли — генерация идёт и продолжается,
@@ -126,7 +134,7 @@ function PanelContent({
         >
           Объяснение
         </button>
-        {sentence.original ? (
+        {ogText ? (
           <button
             type="button"
             className={`tpanel__tab ${tab === 'original' ? 'is-active' : ''}`}
@@ -144,10 +152,10 @@ function PanelContent({
           <div className="tpanel__ru">{sentence.translationRu}</div>
         ) : tab === 'original' ? (
           <div className="tpanel__og">
-            <div className="tpanel__og-text">{sentence.original}</div>
-            {sentence.originalRu ? (
+            <div className="tpanel__og-text">{ogText}</div>
+            {ogRu ? (
               <div className="tpanel__og-ru" lang="ru">
-                {sentence.originalRu}
+                {ogRu}
               </div>
             ) : null}
           </div>
@@ -242,6 +250,15 @@ export function ReaderPage() {
     const arr: Sentence[] = []
     if (chapter) for (const p of chapter.paragraphs) for (const s of p.sentences) arr.push(s)
     return arr
+  }, [chapter])
+  // Источник абзаца по id предложения — для вкладки «Оригинал» (source-юнит).
+  const paraSourceById = useMemo(() => {
+    const m = new Map<string, { source?: string; sourceRu?: string }>()
+    if (chapter)
+      for (const p of chapter.paragraphs)
+        if (p.source || p.sourceRu)
+          for (const s of p.sentences) m.set(s.id, { source: p.source, sourceRu: p.sourceRu })
+    return m
   }, [chapter])
   // Контекст для объяснения: 2 предложения до + это + 2 после (исп. текст, через пробел).
   const contextFor = useCallback(
@@ -468,6 +485,8 @@ export function ReaderPage() {
           <PanelContent
             key={panelSent.id}
             sentence={panelSent}
+            paraSource={paraSourceById.get(panelSent.id)?.source}
+            paraSourceRu={paraSourceById.get(panelSent.id)?.sourceRu}
             context={contextFor(panelSent.id)}
             settings={store.settings}
             onClose={closePanel}
@@ -488,6 +507,8 @@ export function ReaderPage() {
             <PanelContent
               key={panelSent.id}
               sentence={panelSent}
+              paraSource={paraSourceById.get(panelSent.id)?.source}
+              paraSourceRu={paraSourceById.get(panelSent.id)?.sourceRu}
               context={contextFor(panelSent.id)}
               settings={store.settings}
               onClose={closePanel}

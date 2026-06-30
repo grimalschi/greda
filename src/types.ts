@@ -119,6 +119,11 @@ export interface Sentence {
 export interface Paragraph {
   id: string
   sentences: Sentence[]
+  /** Источник всего абзаца (вкладка «Оригинал»). Свойство source-юнита: если задан, ридер
+   *  показывает его для любого предложения абзаца вместо пофрагментного `Sentence.original`. */
+  source?: string
+  /** Перевод источника абзаца на русский (если язык автора ≠ русский). */
+  sourceRu?: string
 }
 
 export interface Chapter {
