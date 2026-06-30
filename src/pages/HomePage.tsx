@@ -119,12 +119,13 @@ export function HomePage() {
   return (
     <div className="page">
       <TopBar
-        title="Greda"
+        title="Библиотека"
         subtitle={
           presentLangs.length
             ? `Чтение на ${presentLangs.map((l) => LANGUAGE_LABELS_PREP[l]).join(' и ')}`
             : 'Чтение на испанском'
         }
+        backTo="/"
         showSettings
       />
       <main className="container">
