@@ -13,99 +13,73 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Un dólar con ochenta y siete centavos.",
+          "text": "Un dólar y ochenta y siete centavos.",
           "translationRu": "Один доллар и восемьдесят семь центов.",
           "original": "One dollar and eighty-seven cents.",
           "originalRu": "Один доллар и восемьдесят семь центов."
         },
         {
           "id": "sent-002",
-          "text": "Eso era todo lo que tenía Della.",
-          "translationRu": "Вот и всё, что было у Деллы.",
+          "text": "Eso era todo.",
+          "translationRu": "Это было всё.",
           "original": "That was all.",
           "originalRu": "Это было всё."
         },
         {
           "id": "sent-003",
-          "text": "Sesenta centavos eran monedas de un centavo.",
-          "translationRu": "Шестьдесят центов были монетами по одному центу.",
+          "text": "Y sesenta centavos de esa suma eran en monedas de un centavo.",
+          "translationRu": "И шестьдесят центов из этой суммы были монетками по одному центу.",
           "original": "And sixty cents of it was in pennies.",
-          "originalRu": "И шестьдесят центов из них — медяками."
+          "originalRu": "И шестьдесят центов из этого были в монетках по одному центу."
         },
         {
           "id": "sent-004",
-          "text": "Ella había ahorrado esas monedas",
-          "translationRu": "Она копила эти монеты",
-          "original": "Pennies saved",
-          "originalRu": "Медяками, скопленными"
+          "text": "Eran monedas ahorradas de una en una y de dos en dos,",
+          "translationRu": "Это были монетки, накопленные по одной и по две,",
+          "original": "Pennies saved one and two at a time",
+          "originalRu": "Монетки, накопленные по одной и по две за раз,"
         },
         {
           "id": "sent-005",
-          "text": "de una en una y de dos en dos.",
-          "translationRu": "по одной и по две.",
-          "original": "one and two at a time",
-          "originalRu": "по одному, по два за раз"
+          "text": "regateando con el tendero, el verdulero y el carnicero",
+          "translationRu": "торгуясь с бакалейщиком, зеленщиком и мясником",
+          "original": "by bulldozing the grocer and the vegetable man and the butcher",
+          "originalRu": "напирая на бакалейщика, зеленщика и мясника"
         },
         {
           "id": "sent-006",
-          "text": "Para ahorrarlas, había regateado",
-          "translationRu": "Ради этого она торговалась",
-          "original": "by bulldozing",
-          "originalRu": "путём беспощадного торга"
+          "text": "hasta que a una le ardían las mejillas de vergüenza,",
+          "translationRu": "до тех пор, пока не начинали гореть щёки от стыда,",
+          "original": "until one's cheeks burned with the silent imputation of parsimony",
+          "originalRu": "пока щёки не вспыхивали от молчаливого упрёка в скупости,"
         },
         {
           "id": "sent-007",
-          "text": "con el tendero,",
-          "translationRu": "с бакалейщиком,",
-          "original": "the grocer and",
-          "originalRu": "с бакалейщиком, и"
+          "text": "por el mudo reproche de tacañería que suponía un trato tan mezquino.",
+          "translationRu": "от немого упрёка в мелочности, который подразумевала такая скаредная торговля.",
+          "original": "that such close dealing implied.",
+          "originalRu": "который подразумевала такая прижимистая торговля."
         },
         {
           "id": "sent-008",
-          "text": "el vendedor de verduras",
-          "translationRu": "овощником",
-          "original": "the vegetable man and",
-          "originalRu": "с зеленщиком, и"
+          "text": "Della lo contó tres veces.",
+          "translationRu": "Делла пересчитала эти деньги три раза.",
+          "original": "Three times Della counted it.",
+          "originalRu": "Три раза Делла пересчитала их."
         },
         {
           "id": "sent-009",
-          "text": "y el carnicero.",
-          "translationRu": "и мясником.",
-          "original": "the butcher",
-          "originalRu": "с мясником,"
-        },
-        {
-          "id": "sent-010",
-          "text": "Cada vez que regateaba,",
-          "translationRu": "Каждый раз, торгуясь,"
-        },
-        {
-          "id": "sent-011",
-          "text": "sus mejillas se ponían rojas de vergüenza.",
-          "translationRu": "она краснела от стыда.",
-          "original": "until one's cheeks burned with the silent imputation of parsimony that such close dealing implied.",
-          "originalRu": "пока щёки не начинали гореть от безмолвного укора в скупости, какой подразумевала подобная мелочная торговля."
-        },
-        {
-          "id": "sent-012",
-          "text": "Della contó el dinero tres veces.",
-          "translationRu": "Делла пересчитала деньги трижды.",
-          "original": "Three times Della counted it.",
-          "originalRu": "Трижды Делла пересчитала эти деньги."
-        },
-        {
-          "id": "sent-013",
-          "text": "Un dólar con ochenta y siete centavos.",
+          "text": "Un dólar y ochenta y siete centavos.",
           "translationRu": "Один доллар и восемьдесят семь центов.",
           "original": "One dollar and eighty-seven cents.",
           "originalRu": "Один доллар и восемьдесят семь центов."
         },
         {
-          "id": "sent-014",
-          "text": "Y al día siguiente sería Navidad.",
+          "id": "sent-010",
+          "text": "Y al día siguiente era Navidad.",
           "translationRu": "А на следующий день было Рождество.",
           "original": "And the next day would be Christmas.",
-          "originalRu": "А назавтра было Рождество."
+          "originalRu": "А на следующий день было Рождество."
         }
       ]
     },
@@ -113,39 +87,39 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-015",
-          "text": "No había nada que hacer.",
-          "translationRu": "Делать было нечего.",
+          "id": "sent-011",
+          "text": "Estaba claro que no había nada que hacer,",
+          "translationRu": "Было ясно, что делать нечего,",
           "original": "There was clearly nothing to do",
-          "originalRu": "Тут явно ничего не оставалось,"
+          "originalRu": "Было ясно, что делать нечего,"
         },
         {
-          "id": "sent-016",
-          "text": "Della se dejó caer en el pequeño y viejo sofá",
-          "translationRu": "Делла упала на маленький потрёпанный диванчик",
+          "id": "sent-012",
+          "text": "salvo dejarse caer en el viejo y pobre sofá y llorar a gritos.",
+          "translationRu": "кроме как рухнуть на старенькую убогую кушетку и разрыдаться в голос.",
           "original": "but flop down on the shabby little couch and howl.",
-          "originalRu": "кроме как рухнуть на потёртую маленькую кушетку и зарыдать."
+          "originalRu": "кроме как повалиться на потрёпанную маленькую кушетку и завыть."
         },
         {
-          "id": "sent-017",
-          "text": "y se puso a llorar.",
-          "translationRu": "и расплакалась.",
+          "id": "sent-013",
+          "text": "Y eso fue lo que hizo Della.",
+          "translationRu": "Именно так Делла и поступила.",
           "original": "So Della did it.",
           "originalRu": "Так Делла и сделала."
         },
         {
-          "id": "sent-018",
-          "text": "Esto nos recuerda que la vida está hecha de sollozos, mocos y sonrisas,",
-          "translationRu": "Это напоминает нам, что жизнь состоит из рыданий, шмыганья носом и улыбок,",
+          "id": "sent-014",
+          "text": "La vida se compone de sollozos, lloriqueos y sonrisas,",
+          "translationRu": "Жизнь состоит из рыданий, всхлипываний и улыбок,",
           "original": "life is made up of sobs, sniffles, and smiles,",
-          "originalRu": "жизнь складывается из всхлипов, шмыганья носом и улыбок,"
+          "originalRu": "жизнь состоит из рыданий, всхлипываний и улыбок,"
         },
         {
-          "id": "sent-019",
-          "text": "y que los mocos predominan.",
-          "translationRu": "и шмыганье преобладает.",
+          "id": "sent-015",
+          "text": "y de los tres, los lloriqueos son los que más abundan.",
+          "translationRu": "и из этих трёх больше всего в ней всхлипываний.",
           "original": "with sniffles predominating.",
-          "originalRu": "причём шмыганье преобладает."
+          "originalRu": "причём всхлипывания преобладают."
         }
       ]
     },
@@ -153,46 +127,39 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Mientras Della lloraba,",
-          "translationRu": "Пока Делла плакала,",
+          "id": "sent-016",
+          "text": "Mientras la señora de la casa pasa poco a poco de la primera fase a la segunda,",
+          "translationRu": "Пока хозяйка дома постепенно переходит из первой стадии во вторую,",
           "original": "While the mistress of the home is gradually subsiding from the first stage to the second,",
-          "originalRu": "Пока хозяйка дома постепенно переходит от первой стадии ко второй,"
+          "originalRu": "Пока хозяйка дома постепенно переходит из первой стадии во вторую,"
         },
         {
-          "id": "sent-021",
-          "text": "veamos cómo era la casa.",
-          "translationRu": "посмотрим, каким был их дом.",
+          "id": "sent-017",
+          "text": "echemos un vistazo a la casa.",
+          "translationRu": "давайте оглядим саму квартиру.",
           "original": "take a look at the home.",
-          "originalRu": "оглядим само жилище."
+          "originalRu": "оглядим дом."
         },
         {
-          "id": "sent-022",
-          "text": "Era un apartamento amueblado",
-          "translationRu": "Это была меблированная квартира",
-          "original": "A furnished flat",
-          "originalRu": "Меблированная квартирка"
+          "id": "sent-018",
+          "text": "Un piso amueblado por ocho dólares a la semana.",
+          "translationRu": "Меблированная квартирка за восемь долларов в неделю.",
+          "original": "A furnished flat at $8 per week.",
+          "originalRu": "Меблированная квартира за восемь долларов в неделю."
         },
         {
-          "id": "sent-023",
-          "text": "que costaba ocho dólares por semana.",
-          "translationRu": "за восемь долларов в неделю.",
-          "original": "at $8 per week.",
-          "originalRu": "за восемь долларов в неделю."
-        },
-        {
-          "id": "sent-024",
-          "text": "No era exactamente una miseria,",
-          "translationRu": "Нищетой её назвать нельзя,",
+          "id": "sent-019",
+          "text": "No era exactamente algo indescriptible por lo pobre,",
+          "translationRu": "Нельзя сказать, что бедность её была прямо-таки неописуемой,",
           "original": "It did not exactly beggar description,",
-          "originalRu": "Нельзя сказать, что она была совсем уж нищенски убогой,"
+          "originalRu": "Она не то чтобы не поддавалась описанию,"
         },
         {
-          "id": "sent-025",
-          "text": "pero se acercaba bastante.",
-          "translationRu": "но очень близко к тому.",
+          "id": "sent-020",
+          "text": "pero desde luego rozaba la miseria.",
+          "translationRu": "но нищетой от неё веяло вполне явно.",
           "original": "but it certainly had that word on the lookout for the mendicancy squad.",
-          "originalRu": "но, право, так и просилась на учёт к отряду по борьбе с нищенством."
+          "originalRu": "но она определённо была на грани того, чтобы попасть под надзор для нищих."
         }
       ]
     },
@@ -200,107 +167,88 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-026",
-          "text": "En la entrada del edificio había un buzón",
-          "translationRu": "В вестибюле здания был почтовый ящик,",
-          "original": "In the vestibule below was a letter-box",
-          "originalRu": "В подъезде внизу был почтовый ящик,"
+          "id": "sent-021",
+          "text": "En el portal de abajo había un buzón donde no cabía ninguna carta,",
+          "translationRu": "Внизу, в передней, был почтовый ящик, в который не влезало ни одно письмо,",
+          "original": "In the vestibule below was a letter-box into which no letter would go,",
+          "originalRu": "Внизу в передней был почтовый ящик, в который не пролезало ни одно письмо,"
         },
         {
-          "id": "sent-027",
-          "text": "en el que nunca llegaba ninguna carta.",
-          "translationRu": "в который никогда не приходило ни одного письма.",
-          "original": "into which no letter would go,",
-          "originalRu": "в который не пролезло бы ни одно письмо,"
+          "id": "sent-022",
+          "text": "y un timbre eléctrico del que ningún dedo humano lograba sacar un sonido.",
+          "translationRu": "и электрический звонок, из которого ни один смертный палец не мог выжать ни звука.",
+          "original": "and an electric button from which no mortal finger could coax a ring.",
+          "originalRu": "и электрическая кнопка, из которой ни один смертный палец не мог выманить звонка."
         },
         {
-          "id": "sent-028",
-          "text": "También había un timbre eléctrico",
-          "translationRu": "Был и электрический звонок,",
-          "original": "and an electric button",
-          "originalRu": "и кнопка электрического звонка,"
+          "id": "sent-023",
+          "text": "Junto a todo esto había también una tarjeta con el nombre «Sr. James Dillingham Young».",
+          "translationRu": "К этому прилагалась ещё и карточка с именем «Мистер Джеймс Диллингем Янг».",
+          "original": "Also appertaining thereunto was a card bearing the name \"Mr. James Dillingham Young.\"",
+          "originalRu": "К этому же относилась карточка с именем «Мистер Джеймс Диллингем Янг»."
         },
         {
-          "id": "sent-029",
-          "text": "que nunca sonaba cuando alguien lo pulsaba.",
-          "translationRu": "который никогда не звонил, когда кто-то нажимал на кнопку.",
-          "original": "from which no mortal finger could coax a ring.",
-          "originalRu": "из которой ни единому смертному пальцу не удалось бы выманить звонок."
-        },
-        {
-          "id": "sent-030",
-          "text": "Junto al timbre había una tarjeta",
-          "translationRu": "Рядом со звонком висела карточка",
-          "original": "Also appertaining thereunto was a card",
-          "originalRu": "К сему прилагалась также карточка"
-        },
-        {
-          "id": "sent-031",
-          "text": "con el nombre «Sr. James Dillingham Young».",
-          "translationRu": "с именем «Мистер Джеймс Диллингем Янг».",
-          "original": "bearing the name \"Mr. James Dillingham Young.\"",
-          "originalRu": "с именем «мистер Джеймс Диллингем Янг»."
-        },
-        {
-          "id": "sent-032",
-          "text": "El nombre «Dillingham» había llegado en tiempos mejores,",
-          "translationRu": "Имя «Диллингем» появилось в лучшие времена,",
+          "id": "sent-024",
+          "text": "La palabra «Dillingham» se había desplegado al viento en una época anterior de bonanza,",
+          "translationRu": "Слово «Диллингем» гордо развевалось на ветру в былую пору достатка,",
           "original": "The \"Dillingham\" had been flung to the breeze during a former period of prosperity",
-          "originalRu": "Это «Диллингем» развернулось по ветру в былую пору благоденствия,"
+          "originalRu": "«Диллингем» было выброшено на ветер в прежнюю пору благополучия,"
         },
         {
-          "id": "sent-033",
-          "text": "cuando su dueño ganaba treinta dólares por semana.",
-          "translationRu": "когда его владелец зарабатывал тридцать долларов в неделю.",
+          "id": "sent-025",
+          "text": "cuando a su dueño le pagaban treinta dólares a la semana.",
+          "translationRu": "когда его владельцу платили тридцать долларов в неделю.",
           "original": "when its possessor was being paid $30 per week.",
           "originalRu": "когда его обладателю платили тридцать долларов в неделю."
         },
         {
-          "id": "sent-034",
-          "text": "Ahora ganaba sólo veinte dólares,",
-          "translationRu": "Теперь он зарабатывал лишь двадцать долларов,",
+          "id": "sent-026",
+          "text": "Ahora, cuando los ingresos se habían reducido a veinte dólares,",
+          "translationRu": "Теперь, когда доход сократился до двадцати долларов,",
           "original": "Now, when the income was shrunk to $20,",
-          "originalRu": "Теперь же, когда доход съёжился до двадцати,"
+          "originalRu": "Теперь, когда доход усох до двадцати долларов,"
         },
         {
-          "id": "sent-035",
-          "text": "y las letras de «Dillingham» parecían encogerse,",
-          "translationRu": "и буквы «Диллингем», казалось, съёживались,",
+          "id": "sent-027",
+          "text": "las letras de «Dillingham» se veían borrosas,",
+          "translationRu": "буквы слова «Диллингем» выглядели поблёкшими,",
           "original": "the letters of \"Dillingham\" looked blurred,",
-          "originalRu": "буквы «Диллингема» выглядели размытыми,"
+          "originalRu": "буквы «Диллингем» выглядели расплывчатыми,"
         },
         {
-          "id": "sent-036",
-          "text": "como si pensaran en reducirse a una simple «D».",
-          "translationRu": "словно подумывали сократиться до простой «Д».",
+          "id": "sent-028",
+          "text": "como si pensaran en serio en encogerse hasta una modesta y humilde D.",
+          "translationRu": "словно всерьёз подумывали ужаться до скромной и непритязательной буквы «Д».",
           "original": "as though they were thinking seriously of contracting to a modest and unassuming D.",
-          "originalRu": "словно всерьёз подумывали ужаться до скромного и непритязательного «Д.»."
+          "originalRu": "как будто всерьёз задумались сжаться до скромной и непритязательной «Д»."
         },
         {
-          "id": "sent-037",
-          "text": "Pero cuando el señor James Dillingham Young llegaba a casa,",
-          "translationRu": "Но когда мистер Джеймс Диллингем Янг возвращался домой,",
+          "id": "sent-029",
+          "text": "Pero cada vez que el Sr. James Dillingham Young volvía a casa y subía a su piso,",
+          "translationRu": "Но всякий раз, когда мистер Джеймс Диллингем Янг приходил домой и поднимался к себе наверх,",
           "original": "But whenever Mr. James Dillingham Young came home and reached his flat above",
-          "originalRu": "Но всякий раз, как мистер Джеймс Диллингем Янг приходил домой и поднимался к себе в квартиру наверху,"
+          "originalRu": "Но всякий раз, когда мистер Джеймс Диллингем Янг приходил домой и поднимался в свою квартиру наверху,"
         },
         {
-          "id": "sent-038",
-          "text": "Della lo abrazaba con fuerza",
-          "translationRu": "Делла крепко его обнимала",
-          "original": "he was called \"Jim\" and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della.",
-          "originalRu": "его звали просто «Джим» и горячо обнимали в лице миссис Джеймс Диллингем Янг, уже представленной вам как Делла."
+          "id": "sent-030",
+          "text": "lo llamaban «Jim» y lo abrazaba con fuerza la Sra. James Dillingham Young,",
+          "translationRu": "его называли «Джим» и крепко обнимала миссис Джеймс Диллингем Янг,",
+          "original": "he was called \"Jim\" and greatly hugged by Mrs. James Dillingham Young,",
+          "originalRu": "его звали «Джим» и крепко обнимала миссис Джеймс Диллингем Янг,"
         },
         {
-          "id": "sent-039",
-          "text": "y lo llamaba simplemente «Jim».",
-          "translationRu": "и называла просто «Джим»."
+          "id": "sent-031",
+          "text": "a quien ya les he presentado como Della.",
+          "translationRu": "с которой я вас уже познакомил под именем Делла.",
+          "original": "already introduced to you as Della.",
+          "originalRu": "уже представленная вам как Делла."
         },
         {
-          "id": "sent-040",
-          "text": "Eso estaba muy bien.",
-          "translationRu": "И это было прекрасно.",
+          "id": "sent-032",
+          "text": "Lo cual está muy bien.",
+          "translationRu": "И это очень хорошо.",
           "original": "Which is all very good.",
-          "originalRu": "А это всё очень хорошо."
+          "originalRu": "Что весьма отрадно."
         }
       ]
     },
@@ -308,163 +256,109 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-041",
-          "text": "Della terminó de llorar",
-          "translationRu": "Делла перестала плакать",
-          "original": "Della finished her cry",
-          "originalRu": "Делла отплакалась"
+          "id": "sent-033",
+          "text": "Della terminó de llorar y se arregló las mejillas con la borla de los polvos.",
+          "translationRu": "Делла кончила плакать и привела в порядок щёки пуховкой с пудрой.",
+          "original": "Della finished her cry and attended to her cheeks with the powder rag.",
+          "originalRu": "Делла кончила плакать и занялась своими щеками пуховкой с пудрой."
         },
         {
-          "id": "sent-042",
-          "text": "y se limpió las mejillas con los polvos.",
-          "translationRu": "и вытерла щёки пудрой.",
-          "original": "and attended to her cheeks with the powder rag.",
-          "originalRu": "и привела щёки в порядок пуховкой."
-        },
-        {
-          "id": "sent-043",
-          "text": "Se quedó de pie junto a la ventana",
+          "id": "sent-034",
+          "text": "Se quedó junto a la ventana",
           "translationRu": "Она встала у окна",
           "original": "She stood by the window",
-          "originalRu": "Она встала у окна"
+          "originalRu": "Она стояла у окна"
         },
         {
-          "id": "sent-044",
-          "text": "y miró afuera sin ver nada.",
-          "translationRu": "и бессмысленно смотрела наружу.",
-          "original": "and looked out dully",
-          "originalRu": "и уныло поглядела"
+          "id": "sent-035",
+          "text": "y miró sin ánimo a un gato gris que caminaba por una valla gris en un patio gris.",
+          "translationRu": "и уныло смотрела на серую кошку, шагавшую по серому забору в сером дворе.",
+          "original": "and looked out dully at a grey cat walking a grey fence in a grey backyard.",
+          "originalRu": "и тускло глядела на серую кошку, шагавшую по серому забору на сером заднем дворе."
         },
         {
-          "id": "sent-045",
-          "text": "Había un gato gris",
-          "translationRu": "Серая кошка",
-          "original": "at a grey cat",
-          "originalRu": "на серую кошку,"
-        },
-        {
-          "id": "sent-046",
-          "text": "caminando sobre una valla gris",
-          "translationRu": "шла по серому забору",
-          "original": "walking a grey fence",
-          "originalRu": "шагавшую по серому забору"
-        },
-        {
-          "id": "sent-047",
-          "text": "en un patio gris.",
-          "translationRu": "над серым двором.",
-          "original": "in a grey backyard.",
-          "originalRu": "на сером заднем дворе."
-        },
-        {
-          "id": "sent-048",
-          "text": "Al día siguiente sería Navidad,",
-          "translationRu": "Завтра было Рождество,",
+          "id": "sent-036",
+          "text": "Al día siguiente era Navidad,",
+          "translationRu": "На следующий день было Рождество,",
           "original": "Tomorrow would be Christmas Day,",
-          "originalRu": "Завтра наступало Рождество,"
+          "originalRu": "Завтра было Рождество,"
         },
         {
-          "id": "sent-049",
-          "text": "y ella sólo tenía un dólar con ochenta y siete centavos",
-          "translationRu": "а у неё было только один доллар и восемьдесят семь центов,",
-          "original": "and she had only $1.87",
-          "originalRu": "а у неё было всего-навсего доллар восемьдесят семь,"
+          "id": "sent-037",
+          "text": "y ella solo tenía un dólar con ochenta y siete para comprarle un regalo a Jim.",
+          "translationRu": "а у неё был всего один доллар восемьдесят семь центов, чтобы купить Джиму подарок.",
+          "original": "and she had only $1.87 with which to buy Jim a present.",
+          "originalRu": "и у неё был всего 1 доллар 87 центов, чтобы купить Джиму подарок."
         },
         {
-          "id": "sent-050",
-          "text": "para comprarle un regalo a Jim.",
-          "translationRu": "чтобы купить Джиму подарок.",
-          "original": "with which to buy Jim a present.",
-          "originalRu": "чтобы купить Джиму подарок."
-        },
-        {
-          "id": "sent-051",
-          "text": "Durante meses había ahorrado cada centavo que podía,",
-          "translationRu": "Месяцами она копила каждую монетку —",
+          "id": "sent-038",
+          "text": "Había estado ahorrando cada centavo posible durante meses,",
+          "translationRu": "Она месяцами копила каждый центик, какой могла,",
           "original": "She had been saving every penny she could for months,",
           "originalRu": "Она месяцами откладывала каждый цент, какой только могла,"
         },
         {
-          "id": "sent-052",
-          "text": "y ese era el resultado.",
-          "translationRu": "и вот результат.",
+          "id": "sent-039",
+          "text": "y este era el resultado.",
+          "translationRu": "и вот таков был итог.",
           "original": "with this result.",
-          "originalRu": "и вот с таким исходом."
+          "originalRu": "с таким вот итогом."
         },
         {
-          "id": "sent-053",
-          "text": "Veinte dólares por semana no alcanzan para mucho.",
-          "translationRu": "Двадцать долларов в неделю — немного.",
+          "id": "sent-040",
+          "text": "Veinte dólares a la semana no dan para mucho.",
+          "translationRu": "На двадцать долларов в неделю далеко не уедешь.",
           "original": "Twenty dollars a week doesn't go far.",
-          "originalRu": "На двадцать долларов в неделю далеко не уедешь."
+          "originalRu": "Двадцать долларов в неделю — это ненадолго хватает."
         },
         {
-          "id": "sent-054",
-          "text": "Los gastos habían sido mayores",
-          "translationRu": "Расходы оказались больше,",
-          "original": "Expenses had been greater",
-          "originalRu": "Расходы оказались больше,"
+          "id": "sent-041",
+          "text": "Los gastos habían sido mayores de lo que había calculado.",
+          "translationRu": "Расходы оказались больше, чем она рассчитывала.",
+          "original": "Expenses had been greater than she had calculated.",
+          "originalRu": "Расходы оказались больше, чем она подсчитала."
         },
         {
-          "id": "sent-055",
-          "text": "de lo que ella había calculado.",
-          "translationRu": "чем она рассчитывала.",
-          "original": "than she had calculated.",
-          "originalRu": "чем она рассчитывала."
-        },
-        {
-          "id": "sent-056",
-          "text": "Siempre pasa así.",
-          "translationRu": "Так всегда бывает.",
+          "id": "sent-042",
+          "text": "Siempre lo son.",
+          "translationRu": "Так всегда и бывает.",
           "original": "They always are.",
-          "originalRu": "Они всегда таковы."
+          "originalRu": "Так всегда и бывает."
         },
         {
-          "id": "sent-057",
-          "text": "Sólo un dólar con ochenta y siete centavos",
-          "translationRu": "Всего один доллар и восемьдесят семь центов,",
-          "original": "Only $1.87",
-          "originalRu": "Всего доллар восемьдесят семь,"
+          "id": "sent-043",
+          "text": "Solo un dólar con ochenta y siete para comprarle un regalo a Jim.",
+          "translationRu": "Всего один доллар восемьдесят семь центов, чтобы купить подарок Джиму.",
+          "original": "Only $1.87 to buy a present for Jim.",
+          "originalRu": "Всего 1 доллар 87 центов, чтобы купить подарок Джиму."
         },
         {
-          "id": "sent-058",
-          "text": "para comprarle un regalo a su Jim.",
-          "translationRu": "чтобы купить подарок её Джиму.",
-          "original": "to buy a present for Jim.",
-          "originalRu": "чтобы купить подарок Джиму."
-        },
-        {
-          "id": "sent-059",
+          "id": "sent-044",
           "text": "Su Jim.",
           "translationRu": "Её Джиму.",
           "original": "Her Jim.",
           "originalRu": "Её Джиму."
         },
         {
-          "id": "sent-060",
-          "text": "Hacía muchas horas felices",
-          "translationRu": "Она провела немало счастливых часов,",
-          "original": "Many a happy hour she had spent",
-          "originalRu": "Не один счастливый час провела она,"
+          "id": "sent-045",
+          "text": "Había pasado muchas horas felices pensando en algo bonito para él.",
+          "translationRu": "Немало счастливых часов она провела, придумывая что-нибудь красивое для него.",
+          "original": "Many a happy hour she had spent planning for something nice for him.",
+          "originalRu": "Много счастливых часов она провела, задумывая что-нибудь хорошее для него."
         },
         {
-          "id": "sent-061",
-          "text": "pensando en algo bonito para él.",
-          "translationRu": "придумывая что-нибудь хорошее для него.",
-          "original": "planning for something nice for him.",
-          "originalRu": "придумывая для него что-нибудь хорошее."
+          "id": "sent-046",
+          "text": "Algo fino, especial y de verdad valioso,",
+          "translationRu": "Что-нибудь изящное, редкое и по-настоящему ценное —",
+          "original": "Something fine and rare and sterling—",
+          "originalRu": "Что-нибудь изящное, редкое и подлинное —"
         },
         {
-          "id": "sent-062",
-          "text": "Algo hermoso, fino y raro,",
-          "translationRu": "Что-то красивое, изысканное и редкое —",
-          "original": "Something fine and rare and sterling—something just a little bit near to being worthy of the honour of being owned by Jim.",
-          "originalRu": "Что-нибудь изящное, редкое и неподдельное — что-нибудь хоть чуть-чуть достойное чести принадлежать Джиму."
-        },
-        {
-          "id": "sent-063",
-          "text": "algo casi digno del honor de pertenecer a Jim.",
-          "translationRu": "что-то почти достойное чести принадлежать Джиму."
+          "id": "sent-047",
+          "text": "algo que estuviera un poco cerca de ser digno del honor de pertenecer a Jim.",
+          "translationRu": "что-нибудь хоть немного достойное чести принадлежать Джиму.",
+          "original": "something just a little bit near to being worthy of the honour of being owned by Jim.",
+          "originalRu": "что-нибудь хоть чуть-чуть близкое к тому, чтобы быть достойным чести принадлежать Джиму."
         }
       ]
     },
@@ -472,58 +366,39 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-064",
-          "text": "Entre las ventanas del cuarto",
-          "translationRu": "Между окнами комнаты",
+          "id": "sent-048",
+          "text": "Entre las ventanas de la habitación había un espejo de pie.",
+          "translationRu": "Между окнами комнаты стояло трюмо.",
           "original": "There was a pier-glass between the windows of the room.",
-          "originalRu": "Между окнами комнаты стояло трюмо."
+          "originalRu": "Между окнами комнаты было трюмо."
         },
         {
-          "id": "sent-065",
-          "text": "había un espejo largo y estrecho.",
-          "translationRu": "висело длинное узкое зеркало."
+          "id": "sent-049",
+          "text": "Quizá hayan visto alguna vez un espejo así en un piso de ocho dólares.",
+          "translationRu": "Вы, наверное, видели такие зеркала в квартире за восемь долларов.",
+          "original": "Perhaps you have seen a pier-glass in an $8 flat.",
+          "originalRu": "Возможно, вы видели трюмо в квартире за восемь долларов."
         },
         {
-          "id": "sent-066",
-          "text": "Quizás haya visto usted un espejo así",
-          "translationRu": "Возможно, вы видели такое зеркало",
-          "original": "Perhaps you have seen a pier-glass",
-          "originalRu": "Возможно, вам случалось видеть трюмо"
-        },
-        {
-          "id": "sent-067",
-          "text": "en un apartamento de ocho dólares.",
-          "translationRu": "в квартире за восемь долларов.",
-          "original": "in an $8 flat.",
-          "originalRu": "в восьмидолларовой квартире."
-        },
-        {
-          "id": "sent-068",
-          "text": "Una persona muy delgada podía ver su reflejo en tiras, de arriba abajo,",
-          "translationRu": "Очень стройный человек мог видеть своё отражение полосами сверху вниз",
+          "id": "sent-050",
+          "text": "Una persona muy delgada y muy ágil puede, mirando su reflejo en franjas verticales seguidas,",
+          "translationRu": "Человек очень худой и очень ловкий может, наблюдая своё отражение в быстрой смене продольных полос,",
           "original": "A very thin and very agile person may, by observing his reflection in a rapid sequence of longitudinal strips,",
-          "originalRu": "Человек очень худой и очень проворный, наблюдая своё отражение в быстрой череде продольных полос,"
+          "originalRu": "Очень худой и очень проворный человек может, разглядывая своё отражение в быстрой череде продольных полос,"
         },
         {
-          "id": "sent-069",
-          "text": "y así hacerse una idea de su aspecto.",
-          "translationRu": "и составить представление о своей внешности.",
+          "id": "sent-051",
+          "text": "hacerse una idea bastante exacta de su aspecto.",
+          "translationRu": "составить довольно точное представление о своей внешности.",
           "original": "obtain a fairly accurate conception of his looks.",
-          "originalRu": "может составить себе довольно точное представление о собственной наружности."
+          "originalRu": "получить довольно точное представление о своей внешности."
         },
         {
-          "id": "sent-070",
-          "text": "Della era delgada",
-          "translationRu": "Делла была стройной",
-          "original": "Della, being slender,",
-          "originalRu": "Делла, будучи тоненькой,"
-        },
-        {
-          "id": "sent-071",
-          "text": "y había aprendido ese arte.",
-          "translationRu": "и освоила это искусство.",
-          "original": "had mastered the art.",
-          "originalRu": "в совершенстве овладела этим искусством."
+          "id": "sent-052",
+          "text": "Della, que era delgada, dominaba ese arte.",
+          "translationRu": "Делла, будучи стройной, овладела этим искусством.",
+          "original": "Della, being slender, had mastered the art.",
+          "originalRu": "Делла, будучи стройной, овладела этим искусством."
         }
       ]
     },
@@ -531,46 +406,32 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-072",
-          "text": "De repente, Della se dio la vuelta desde la ventana",
-          "translationRu": "Вдруг Делла резко отвернулась от окна",
-          "original": "Suddenly she whirled from the window",
-          "originalRu": "Вдруг она отпрянула от окна"
+          "id": "sent-053",
+          "text": "De pronto se apartó de la ventana y se plantó ante el espejo.",
+          "translationRu": "Вдруг она отпрянула от окна и встала перед зеркалом.",
+          "original": "Suddenly she whirled from the window and stood before the glass.",
+          "originalRu": "Внезапно она резко отвернулась от окна и встала перед зеркалом."
         },
         {
-          "id": "sent-073",
-          "text": "y se puso delante del espejo.",
-          "translationRu": "и встала перед зеркалом.",
-          "original": "and stood before the glass.",
-          "originalRu": "и встала перед зеркалом."
-        },
-        {
-          "id": "sent-074",
-          "text": "Sus ojos brillaban,",
-          "translationRu": "Глаза её сверкали,",
+          "id": "sent-054",
+          "text": "Los ojos le brillaban intensamente,",
+          "translationRu": "Глаза у неё ярко блестели,",
           "original": "Her eyes were shining brilliantly,",
-          "originalRu": "Глаза её сияли,"
+          "originalRu": "Глаза её сияли ослепительно,"
         },
         {
-          "id": "sent-075",
-          "text": "pero en veinte segundos su cara perdió el color.",
-          "translationRu": "но за двадцать секунд лицо побледнело.",
+          "id": "sent-055",
+          "text": "pero en veinte segundos la cara había perdido el color.",
+          "translationRu": "но за двадцать секунд лицо её потеряло краску.",
           "original": "but her face had lost its colour within twenty seconds.",
-          "originalRu": "но лицо за двадцать секунд утратило краску."
+          "originalRu": "но лицо её за двадцать секунд утратило краски."
         },
         {
-          "id": "sent-076",
-          "text": "Rápidamente se soltó el pelo",
-          "translationRu": "Она быстро распустила волосы",
-          "original": "Rapidly she pulled down her hair",
-          "originalRu": "Она поспешно распустила волосы"
-        },
-        {
-          "id": "sent-077",
-          "text": "y lo dejó caer hasta su longitud completa.",
-          "translationRu": "и дала им упасть во всю длину.",
-          "original": "and let it fall to its full length.",
-          "originalRu": "и дала им рассыпаться во всю длину."
+          "id": "sent-056",
+          "text": "Con rapidez se soltó el pelo y lo dejó caer en toda su longitud.",
+          "translationRu": "Быстрым движением она распустила волосы и дала им упасть во всю длину.",
+          "original": "Rapidly she pulled down her hair and let it fall to its full length.",
+          "originalRu": "Быстро она распустила волосы и дала им упасть во всю длину."
         }
       ]
     },
@@ -578,88 +439,74 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-078",
-          "text": "Los esposos Dillingham Young tenían dos posesiones",
-          "translationRu": "У супругов Диллингем Янг было два сокровища,",
-          "original": "Now, there were two possessions of the James Dillingham Youngs",
-          "originalRu": "А надо сказать, у четы Джеймсов Диллингемов Янгов было два достояния,"
+          "id": "sent-057",
+          "text": "Los James Dillingham Young tenían dos posesiones de las que ambos se sentían muy orgullosos.",
+          "translationRu": "У четы Джеймс Диллингем Янг было два сокровища, которыми оба они очень гордились.",
+          "original": "Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride.",
+          "originalRu": "Итак, у четы Джеймс Диллингем Янг было два владения, которыми оба они безмерно гордились."
         },
         {
-          "id": "sent-079",
-          "text": "de las que estaban muy orgullosos.",
-          "translationRu": "которыми они очень гордились.",
-          "original": "in which they both took a mighty pride.",
-          "originalRu": "которыми оба несказанно гордились."
-        },
-        {
-          "id": "sent-080",
+          "id": "sent-058",
           "text": "Una era el reloj de oro de Jim,",
-          "translationRu": "Первым были золотые часы Джима,",
+          "translationRu": "Одно — золотые часы Джима,",
           "original": "One was Jim's gold watch",
           "originalRu": "Одно — золотые часы Джима,"
         },
         {
-          "id": "sent-081",
-          "text": "que había pertenecido a su padre y a su abuelo.",
-          "translationRu": "которые принадлежали его отцу и деду.",
+          "id": "sent-059",
+          "text": "que había sido de su padre y de su abuelo.",
+          "translationRu": "которые прежде принадлежали его отцу и деду.",
           "original": "that had been his father's and his grandfather's.",
-          "originalRu": "что принадлежали ещё его отцу и деду."
+          "originalRu": "которые были часами его отца и деда."
         },
         {
-          "id": "sent-082",
-          "text": "La otra era el cabello de Della.",
-          "translationRu": "Вторым были волосы Деллы.",
+          "id": "sent-060",
+          "text": "La otra era el pelo de Della.",
+          "translationRu": "Другое — волосы Деллы.",
           "original": "The other was Della's hair.",
           "originalRu": "Другое — волосы Деллы."
         },
         {
-          "id": "sent-083",
+          "id": "sent-061",
           "text": "Si la Reina de Saba hubiera vivido en el piso de enfrente,",
           "translationRu": "Если бы царица Савская жила в квартире напротив,",
           "original": "Had the Queen of Sheba lived in the flat across the airshaft,",
-          "originalRu": "Живи царица Савская в квартире напротив, через вентиляционную шахту,"
+          "originalRu": "Живи царица Савская в квартире по ту сторону светового колодца,"
         },
         {
-          "id": "sent-084",
-          "text": "Della habría sacado su pelo por la ventana algún día,",
-          "translationRu": "Делла однажды высунула бы волосы из окна,",
+          "id": "sent-062",
+          "text": "Della habría dejado caer su pelo por la ventana algún día para secarlo,",
+          "translationRu": "Делла как-нибудь высушила бы свои волосы, свесив их из окна,",
           "original": "Della would have let her hair hang out the window some day to dry",
-          "originalRu": "Делла как-нибудь свесила бы свои волосы из окна сушиться,"
+          "originalRu": "Делла как-нибудь высушила бы волосы, свесив их из окна,"
         },
         {
-          "id": "sent-085",
-          "text": "sólo para que las joyas de la Reina parecieran menos hermosas.",
-          "translationRu": "только чтобы украшения царицы казались менее красивыми.",
+          "id": "sent-063",
+          "text": "solo para eclipsar las joyas y los regalos de Su Majestad.",
+          "translationRu": "просто чтобы затмить драгоценности и дары её величества.",
           "original": "just to depreciate Her Majesty's jewels and gifts.",
-          "originalRu": "просто чтобы затмить все драгоценности и наряды её величества."
+          "originalRu": "лишь бы принизить драгоценности и дары её величества."
         },
         {
-          "id": "sent-086",
-          "text": "Si el rey Salomón hubiera sido el portero,",
-          "translationRu": "Если бы царь Соломон был швейцаром,",
-          "original": "Had King Solomon been the janitor,",
-          "originalRu": "Служи царь Соломон швейцаром при этом доме,"
+          "id": "sent-064",
+          "text": "Si el rey Salomón hubiera sido el portero, con todos sus tesoros amontonados en el sótano,",
+          "translationRu": "Будь царь Соломон швейцаром, со всеми своими сокровищами, сваленными в подвале,",
+          "original": "Had King Solomon been the janitor, with all his treasures piled up in the basement,",
+          "originalRu": "Будь царь Соломон швейцаром, со всеми своими сокровищами, сваленными в подвале,"
         },
         {
-          "id": "sent-087",
-          "text": "con todos sus tesoros en el sótano,",
-          "translationRu": "со всеми своими сокровищами в подвале,",
-          "original": "with all his treasures piled up in the basement,",
-          "originalRu": "со всеми его сокровищами, сваленными в подвале,"
-        },
-        {
-          "id": "sent-088",
+          "id": "sent-065",
           "text": "Jim habría sacado su reloj cada vez que pasara,",
-          "translationRu": "Джим каждый раз вытаскивал бы часы,",
+          "translationRu": "Джим всякий раз, проходя мимо, доставал бы свои часы,",
           "original": "Jim would have pulled out his watch every time he passed,",
-          "originalRu": "Джим всякий раз, проходя мимо, доставал бы свои часы,"
+          "originalRu": "Джим всякий раз, проходя мимо, вытаскивал бы часы,"
         },
         {
-          "id": "sent-089",
-          "text": "sólo para verlo retorcerse de envidia.",
-          "translationRu": "лишь чтобы видеть, как тот щиплет бороду от зависти.",
+          "id": "sent-066",
+          "text": "solo para verlo tirarse de la barba de envidia.",
+          "translationRu": "просто чтобы поглядеть, как тот рвёт себе бороду от зависти.",
           "original": "just to see him pluck at his beard from envy.",
-          "originalRu": "просто чтобы поглядеть, как тот рвёт бороду от зависти."
+          "originalRu": "просто чтобы увидеть, как он дёргает бороду от зависти."
         }
       ]
     },
@@ -667,53 +514,46 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-090",
-          "text": "El hermoso cabello de Della cayó alrededor de ella,",
-          "translationRu": "Прекрасные волосы Деллы рассыпались вокруг неё,",
+          "id": "sent-067",
+          "text": "Y ahora el hermoso pelo de Della caía a su alrededor,",
+          "translationRu": "И вот прекрасные волосы Деллы рассыпались вокруг неё,",
           "original": "So now Della's beautiful hair fell about her,",
-          "originalRu": "И вот теперь прекрасные волосы Деллы рассыпались вокруг неё,"
+          "originalRu": "И вот прекрасные волосы Деллы рассыпались вокруг неё,"
         },
         {
-          "id": "sent-091",
-          "text": "ondulado y brillante como una cascada de agua marrón.",
-          "translationRu": "волнистые и блестящие, как каскад коричневой воды.",
+          "id": "sent-068",
+          "text": "ondulando y brillando como una cascada de aguas castañas.",
+          "translationRu": "струясь и блестя, точно каскад каштановых вод.",
           "original": "rippling and shining like a cascade of brown waters.",
-          "originalRu": "струясь и поблёскивая, точно каскад бурых вод."
+          "originalRu": "струясь и сияя, как каскад каштановых вод."
         },
         {
-          "id": "sent-092",
-          "text": "Le llegaban por debajo de las rodillas",
-          "translationRu": "Они доходили ниже колен",
-          "original": "It reached below her knee",
-          "originalRu": "Они спускались ниже колен"
+          "id": "sent-069",
+          "text": "Le llegaba por debajo de las rodillas y era casi como un vestido para ella.",
+          "translationRu": "Они доходили ей ниже колен и были ей почти как одеяние.",
+          "original": "It reached below her knee and made itself almost a garment for her.",
+          "originalRu": "Они доходили ниже колен и служили ей почти одеянием."
         },
         {
-          "id": "sent-093",
-          "text": "y casi la cubrían como una prenda de vestir.",
-          "translationRu": "и почти покрывали её, как одеяние.",
-          "original": "and made itself almost a garment for her.",
-          "originalRu": "и облекали её почти как одеяние."
-        },
-        {
-          "id": "sent-094",
-          "text": "Luego ella los recogió de nuevo, rápida y nerviosa.",
-          "translationRu": "Потом она снова быстро и нервно собрала их.",
+          "id": "sent-070",
+          "text": "Y entonces se lo recogió de nuevo, nerviosa y deprisa.",
+          "translationRu": "А потом она снова заколола их, нервно и торопливо.",
           "original": "And then she did it up again nervously and quickly.",
-          "originalRu": "А потом она снова, нервно и торопливо, подобрала их кверху."
+          "originalRu": "А потом она снова собрала их, нервно и быстро."
         },
         {
-          "id": "sent-095",
-          "text": "Por un momento dudó y se quedó inmóvil",
-          "translationRu": "На мгновение она заколебалась и застыла,",
+          "id": "sent-071",
+          "text": "Por un momento vaciló y se quedó quieta,",
+          "translationRu": "На минуту она замешкалась и застыла неподвижно,",
           "original": "Once she faltered for a minute and stood still",
-          "originalRu": "Раз она замешкалась на минуту и застыла,"
+          "originalRu": "Раз она заколебалась на минуту и застыла,"
         },
         {
-          "id": "sent-096",
-          "text": "mientras una o dos lágrimas caían sobre la alfombra roja y gastada.",
-          "translationRu": "пока одна-две слезинки падали на потёртый красный ковёр.",
+          "id": "sent-072",
+          "text": "mientras una lágrima o dos caían sobre la gastada alfombra roja.",
+          "translationRu": "а одна-две слезинки упали на потёртый красный ковёр.",
           "original": "while a tear or two splashed on the worn red carpet.",
-          "originalRu": "пока две-три слезинки падали на истёртый красный ковёр."
+          "originalRu": "пока слеза или две падали на изношенный красный ковёр."
         }
       ]
     },
@@ -721,46 +561,25 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-097",
-          "text": "Se puso su vieja chaqueta marrón",
-          "translationRu": "Она надела старую коричневую куртку",
-          "original": "On went her old brown jacket;",
-          "originalRu": "Старый бурый жакет — на плечи;"
+          "id": "sent-073",
+          "text": "Se puso su vieja chaqueta marrón; se puso su viejo sombrero marrón.",
+          "translationRu": "Она надела свой старый коричневый жакет; надела свою старую коричневую шляпку.",
+          "original": "On went her old brown jacket; on went her old brown hat.",
+          "originalRu": "На неё пошёл старый коричневый жакет; на неё пошла старая коричневая шляпка."
         },
         {
-          "id": "sent-098",
-          "text": "y su viejo sombrero marrón.",
-          "translationRu": "и старую коричневую шляпу.",
-          "original": "on went her old brown hat.",
-          "originalRu": "старая бурая шляпка — на голову."
+          "id": "sent-074",
+          "text": "Con un revuelo de faldas y con el brillo aún vivo en los ojos,",
+          "translationRu": "С шелестом юбок и с ещё живым блеском в глазах",
+          "original": "With a whirl of skirts and with the brilliant sparkle still in her eyes,",
+          "originalRu": "С вихрем юбок и с ярким блеском, всё ещё горевшим в глазах,"
         },
         {
-          "id": "sent-099",
-          "text": "Con un giro de falda",
-          "translationRu": "Взметнув юбку",
-          "original": "With a whirl of skirts",
-          "originalRu": "Взметнув юбками"
-        },
-        {
-          "id": "sent-100",
-          "text": "y con los ojos todavía brillantes,",
-          "translationRu": "и не погасив блеска в глазах,",
-          "original": "and with the brilliant sparkle still in her eyes,",
-          "originalRu": "и всё с тем же блистательным огоньком в глазах,"
-        },
-        {
-          "id": "sent-101",
-          "text": "salió por la puerta",
-          "translationRu": "она вышла за дверь",
-          "original": "she fluttered out the door",
-          "originalRu": "она выпорхнула за дверь"
-        },
-        {
-          "id": "sent-102",
-          "text": "y bajó las escaleras a la calle.",
-          "translationRu": "и сбежала по лестнице на улицу.",
-          "original": "and down the stairs to the street.",
-          "originalRu": "и вниз по лестнице, на улицу."
+          "id": "sent-075",
+          "text": "salió volando por la puerta y bajó las escaleras hasta la calle.",
+          "translationRu": "она выпорхнула за дверь и сбежала по лестнице на улицу.",
+          "original": "she fluttered out the door and down the stairs to the street.",
+          "originalRu": "она выпорхнула за дверь и вниз по лестнице на улицу."
         }
       ]
     },
@@ -768,46 +587,32 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-103",
-          "text": "Se detuvo donde un letrero decía:",
-          "translationRu": "Она остановилась там, где вывеска гласила:",
+          "id": "sent-076",
+          "text": "Donde se detuvo, el letrero decía así:",
+          "translationRu": "Там, где она остановилась, вывеска гласила:",
           "original": "Where she stopped the sign read:",
           "originalRu": "Там, где она остановилась, вывеска гласила:"
         },
         {
-          "id": "sent-104",
-          "text": "«Madame Sofronie. Artículos para el cabello de todo tipo».",
-          "translationRu": "«Мадам Сорфони. Все виды товаров для волос».",
+          "id": "sent-077",
+          "text": "«Madame Sofronie: toda clase de artículos de cabello».",
+          "translationRu": "«Мадам Софрони: всевозможные изделия из волос».",
           "original": "\"Mme. Sofronie. Hair Goods of All Kinds.\"",
           "originalRu": "«Мадам Софрони. Всевозможные изделия из волос»."
         },
         {
-          "id": "sent-105",
-          "text": "Della subió corriendo un piso",
-          "translationRu": "Делла взбежала на один пролёт",
-          "original": "One flight up Della ran,",
-          "originalRu": "Одним духом взбежала Делла на второй этаж"
+          "id": "sent-078",
+          "text": "Della subió corriendo un piso y se recompuso, jadeando.",
+          "translationRu": "Делла взбежала на один этаж и перевела дух, тяжело дыша.",
+          "original": "One flight up Della ran, and collected herself, panting.",
+          "originalRu": "На один пролёт вверх взбежала Делла и, задыхаясь, взяла себя в руки."
         },
         {
-          "id": "sent-106",
-          "text": "y se detuvo, sin aliento.",
-          "translationRu": "и остановилась, переводя дыхание.",
-          "original": "and collected herself, panting.",
-          "originalRu": "и, запыхавшись, перевела дух."
-        },
-        {
-          "id": "sent-107",
-          "text": "Madame Sofronie era grande, demasiado blanca y fría,",
-          "translationRu": "Мадам Сорфони была крупной, чрезмерно бледной, холодной",
-          "original": "Madame, large, too white, chilly,",
-          "originalRu": "Мадам — крупная, чересчур бледная, холодная —"
-        },
-        {
-          "id": "sent-108",
-          "text": "y no parecía llamarse Sofronie.",
-          "translationRu": "и совсем не похожей на «Сорфони».",
-          "original": "hardly looked the \"Sofronie.\"",
-          "originalRu": "мало походила на «Софрони»."
+          "id": "sent-079",
+          "text": "Madame, grande, demasiado blanca y fría, poco tenía de «Sofronie».",
+          "translationRu": "Мадам — крупная, слишком белая, холодная — мало походила на «Софрони».",
+          "original": "Madame, large, too white, chilly, hardly looked the \"Sofronie.\"",
+          "originalRu": "Мадам — крупная, слишком белая, холодная — едва ли походила на «Софрони»."
         }
       ]
     },
@@ -815,39 +620,39 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-109",
-          "text": "«¿Me compraría usted el pelo?»,",
-          "translationRu": "«Вы купите у меня волосы?» —",
+          "id": "sent-080",
+          "text": "—¿Me compra el pelo?",
+          "translationRu": "— Вы купите мои волосы?",
           "original": "\"Will you buy my hair?\"",
-          "originalRu": "— Купите мои волосы? —"
+          "originalRu": "— Вы купите мои волосы?"
         },
         {
-          "id": "sent-110",
-          "text": "preguntó Della.",
-          "translationRu": "спросила Делла.",
+          "id": "sent-081",
+          "text": "—preguntó Della.",
+          "translationRu": "— спросила Делла.",
           "original": "asked Della.",
-          "originalRu": "спросила Делла."
+          "originalRu": "— спросила Делла."
         },
         {
-          "id": "sent-111",
-          "text": "«Compro pelo»,",
-          "translationRu": "«Покупаю волосы», —",
-          "original": "\"I buy hair,\"",
-          "originalRu": "— Я покупаю волосы, —"
+          "id": "sent-082",
+          "text": "—Compro pelo —dijo Madame—.",
+          "translationRu": "— Я покупаю волосы, — сказала мадам. —",
+          "original": "\"I buy hair,\" said Madame.",
+          "originalRu": "— Я покупаю волосы, — сказала мадам."
         },
         {
-          "id": "sent-112",
-          "text": "dijo Madame.",
-          "translationRu": "сказала мадам.",
-          "original": "said Madame.",
-          "originalRu": "сказала мадам. —"
+          "id": "sent-083",
+          "text": "Quítese el sombrero",
+          "translationRu": "Снимите-ка шляпу",
+          "original": "\"Take yer hat off",
+          "originalRu": "— Снимите шляпу"
         },
         {
-          "id": "sent-113",
-          "text": "«Quítese el sombrero y déjeme verlos.»",
-          "translationRu": "«Снимите шляпу и дайте мне взглянуть.»",
-          "original": "\"Take yer hat off and let's have a sight at the looks of it.\"",
-          "originalRu": "Снимите-ка шляпу да дайте на них взглянуть."
+          "id": "sent-084",
+          "text": "y déjeme ver cómo es.",
+          "translationRu": "и дайте взглянуть, какие они.",
+          "original": "and let's have a sight at the looks of it.\"",
+          "originalRu": "и дайте посмотреть, как они выглядят."
         }
       ]
     },
@@ -855,46 +660,32 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-114",
-          "text": "La cascada marrón cayó hacia abajo.",
-          "translationRu": "Коричневый каскад упал вниз.",
+          "id": "sent-085",
+          "text": "La cascada castaña cayó ondulando.",
+          "translationRu": "Каштановый каскад волной хлынул вниз.",
           "original": "Down rippled the brown cascade.",
-          "originalRu": "Заструился вниз бурый каскад."
+          "originalRu": "Каштановый каскад волнами хлынул вниз."
         },
         {
-          "id": "sent-115",
-          "text": "«Veinte dólares»,",
-          "translationRu": "«Двадцать долларов», —",
-          "original": "\"Twenty dollars,\"",
-          "originalRu": "— Двадцать долларов, —"
+          "id": "sent-086",
+          "text": "—Veinte dólares —dijo Madame,",
+          "translationRu": "— Двадцать долларов, — сказала мадам,",
+          "original": "\"Twenty dollars,\" said Madame,",
+          "originalRu": "— Двадцать долларов, — сказала мадам,"
         },
         {
-          "id": "sent-116",
-          "text": "dijo Madame,",
-          "translationRu": "сказала мадам,",
-          "original": "said Madame,",
-          "originalRu": "сказала мадам,"
-        },
-        {
-          "id": "sent-117",
-          "text": "levantando la masa con mano experta.",
-          "translationRu": "поднимая копну привычной рукой.",
+          "id": "sent-087",
+          "text": "levantando la masa de pelo con mano experta.",
+          "translationRu": "поднимая тяжёлую копну волос привычной рукой.",
           "original": "lifting the mass with a practised hand.",
-          "originalRu": "привычной рукой взвешивая всю эту массу."
+          "originalRu": "поднимая эту массу опытной рукой."
         },
         {
-          "id": "sent-118",
-          "text": "«Dámelos rápido»,",
-          "translationRu": "«Давайте скорее», —",
-          "original": "\"Give it to me quick,\"",
-          "originalRu": "— Давайте поскорее, —"
-        },
-        {
-          "id": "sent-119",
-          "text": "dijo Della.",
-          "translationRu": "сказала Делла.",
-          "original": "said Della.",
-          "originalRu": "сказала Делла."
+          "id": "sent-088",
+          "text": "—Démelos rápido —dijo Della.",
+          "translationRu": "— Давайте скорее, — сказала Делла.",
+          "original": "\"Give it to me quick,\" said Della.",
+          "originalRu": "— Дайте мне их скорее, — сказала Делла."
         }
       ]
     },
@@ -902,25 +693,18 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-120",
-          "text": "Las dos horas siguientes pasaron rápido.",
-          "translationRu": "Следующие два часа пролетели быстро.",
+          "id": "sent-089",
+          "text": "Ah, y las dos horas siguientes pasaron volando sobre alas rosadas.",
+          "translationRu": "Ах, и следующие два часа пролетели на розовых крыльях.",
           "original": "Oh, and the next two hours tripped by on rosy wings.",
-          "originalRu": "Ах, и следующие два часа пролетели на розовых крыльях."
+          "originalRu": "Ах, и следующие два часа промелькнули на розовых крыльях."
         },
         {
-          "id": "sent-121",
-          "text": "Della recorrió todas las tiendas",
-          "translationRu": "Делла обошла все магазины",
-          "original": "She was ransacking the stores",
-          "originalRu": "Она обшаривала лавку за лавкой"
-        },
-        {
-          "id": "sent-122",
-          "text": "buscando el regalo para Jim.",
-          "translationRu": "в поисках подарка для Джима.",
-          "original": "for Jim's present.",
-          "originalRu": "в поисках подарка для Джима."
+          "id": "sent-090",
+          "text": "Della revolvía las tiendas en busca del regalo de Jim.",
+          "translationRu": "Делла обшаривала магазины в поисках подарка для Джима.",
+          "original": "She was ransacking the stores for Jim's present.",
+          "originalRu": "Она обыскивала магазины в поисках подарка для Джима."
         }
       ]
     },
@@ -928,156 +712,165 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-123",
+          "id": "sent-091",
           "text": "Por fin lo encontró.",
-          "translationRu": "Наконец она нашла его.",
+          "translationRu": "Наконец она его нашла.",
           "original": "She found it at last.",
           "originalRu": "Наконец она его нашла."
         },
         {
-          "id": "sent-124",
-          "text": "Era exactamente para Jim",
-          "translationRu": "Это было именно для Джима",
-          "original": "It surely had been made for Jim",
-          "originalRu": "Эта вещь, несомненно, была создана для Джима"
+          "id": "sent-092",
+          "text": "Sin duda había sido hecho para Jim y para nadie más.",
+          "translationRu": "Без сомнения, он был создан для Джима и ни для кого другого.",
+          "original": "It surely had been made for Jim and no one else.",
+          "originalRu": "Он несомненно был сделан для Джима и ни для кого другого."
         },
         {
-          "id": "sent-125",
-          "text": "y para nadie más.",
-          "translationRu": "и ни для кого другого.",
-          "original": "and no one else.",
-          "originalRu": "и ни для кого иного."
-        },
-        {
-          "id": "sent-126",
-          "text": "No había nada igual en ninguna tienda,",
-          "translationRu": "Нигде в магазинах не было ничего подобного,",
+          "id": "sent-093",
+          "text": "No había otro igual en ninguna tienda,",
+          "translationRu": "Другого такого не было ни в одном магазине,",
           "original": "There was no other like it in any of the stores,",
-          "originalRu": "Подобной не нашлось ни в одной из лавок,"
+          "originalRu": "Другого такого не было ни в одном из магазинов,"
         },
         {
-          "id": "sent-127",
-          "text": "y ella había revisado todas.",
-          "translationRu": "а она обыскала все.",
+          "id": "sent-094",
+          "text": "y ella las había revuelto todas de arriba abajo.",
+          "translationRu": "а она перерыла их все сверху донизу.",
           "original": "and she had turned all of them inside out.",
-          "originalRu": "а она перевернула их все вверх дном."
+          "originalRu": "и она перевернула их все вверх дном."
         },
         {
-          "id": "sent-128",
-          "text": "Era una leontina de platino,",
+          "id": "sent-095",
+          "text": "Era una cadena de platino para reloj,",
           "translationRu": "Это была платиновая цепочка для часов,",
           "original": "It was a platinum fob chain",
-          "originalRu": "То была платиновая цепочка для часов,"
+          "originalRu": "Это была платиновая цепочка для карманных часов,"
         },
         {
-          "id": "sent-129",
-          "text": "sencilla y elegante en su diseño.",
-          "translationRu": "простая и изящная по дизайну.",
+          "id": "sent-096",
+          "text": "sencilla y sobria en su diseño,",
+          "translationRu": "простая и строгая по своему рисунку,",
           "original": "simple and chaste in design,",
-          "originalRu": "простая и строгая в рисунке,"
+          "originalRu": "простая и целомудренная в своём дизайне,"
         },
         {
-          "id": "sent-130",
-          "text": "Su valor se notaba sólo por su material,",
-          "translationRu": "Её ценность выражалась только в материале,",
+          "id": "sent-097",
+          "text": "que mostraba su valor solo por su calidad",
+          "translationRu": "которая заявляла о своей ценности лишь самим материалом",
           "original": "properly proclaiming its value by substance alone",
-          "originalRu": "должным образом возвещавшая о своей ценности одним лишь материалом,"
+          "originalRu": "должным образом провозглашающая свою ценность одним лишь материалом,"
         },
         {
-          "id": "sent-131",
-          "text": "sin ningún adorno pretencioso,",
-          "translationRu": "без всяких претенциозных украшений —",
-          "original": "and not by meretricious ornamentation—as all good things should do.",
-          "originalRu": "а не показной мишурой, — как и подобает всякой хорошей вещи."
+          "id": "sent-098",
+          "text": "y no por adornos llamativos,",
+          "translationRu": "а не крикливыми украшениями,",
+          "original": "and not by meretricious ornamentation—",
+          "originalRu": "а не показной мишурой, —"
         },
         {
-          "id": "sent-132",
-          "text": "como debe ser con las cosas buenas.",
-          "translationRu": "как и должно быть у хороших вещей."
+          "id": "sent-099",
+          "text": "como deben ser todas las cosas buenas.",
+          "translationRu": "как и должно быть со всеми хорошими вещами.",
+          "original": "as all good things should do.",
+          "originalRu": "как и подобает всем хорошим вещам."
         },
         {
-          "id": "sent-133",
-          "text": "Era digna del Reloj.",
-          "translationRu": "Она была достойна Часов.",
+          "id": "sent-100",
+          "text": "Era digna incluso de El Reloj.",
+          "translationRu": "Она была достойна даже Тех Самых Часов.",
           "original": "It was even worthy of The Watch.",
-          "originalRu": "Она была достойна даже Тех Самых Часов."
+          "originalRu": "Она была достойна даже Тех Часов."
         },
         {
-          "id": "sent-134",
+          "id": "sent-101",
           "text": "En cuanto la vio,",
-          "translationRu": "Как только она увидела её,",
+          "translationRu": "Как только она её увидела,",
           "original": "As soon as she saw it",
-          "originalRu": "Едва завидев её,"
+          "originalRu": "Как только она её увидела,"
         },
         {
-          "id": "sent-135",
-          "text": "Della supo que tenía que ser para Jim.",
-          "translationRu": "Делла поняла: это должно быть для Джима.",
+          "id": "sent-102",
+          "text": "supo que tenía que ser de Jim.",
+          "translationRu": "она поняла, что цепочка должна принадлежать Джиму.",
           "original": "she knew that it must be Jim's.",
-          "originalRu": "Делла поняла, что цепочка должна принадлежать Джиму."
+          "originalRu": "она поняла, что она должна быть Джима."
         },
         {
-          "id": "sent-136",
-          "text": "Era como él:",
-          "translationRu": "Она была похожа на него:",
+          "id": "sent-103",
+          "text": "Era como él.",
+          "translationRu": "Она была как он.",
           "original": "It was like him.",
-          "originalRu": "Она была вся в него."
+          "originalRu": "Она была похожа на него."
         },
         {
-          "id": "sent-137",
-          "text": "tranquila y valiosa.",
-          "translationRu": "спокойная и ценная.",
-          "original": "Quietness and value—the description applied to both.",
-          "originalRu": "Сдержанность и достоинство — это описание подходило обоим."
+          "id": "sent-104",
+          "text": "Serenidad y valor:",
+          "translationRu": "Спокойствие и ценность —",
+          "original": "Quietness and value—",
+          "originalRu": "Спокойствие и ценность —"
         },
         {
-          "id": "sent-138",
-          "text": "Della pagó veintiún dólares por ella",
-          "translationRu": "Делла заплатила за неё двадцать один доллар",
+          "id": "sent-105",
+          "text": "la descripción valía para ambos.",
+          "translationRu": "это описание подходило обоим.",
+          "original": "the description applied to both.",
+          "originalRu": "это описание подходило им обоим."
+        },
+        {
+          "id": "sent-106",
+          "text": "Le cobraron veintiún dólares por ella,",
+          "translationRu": "С неё взяли за неё двадцать один доллар,",
           "original": "Twenty-one dollars they took from her for it,",
-          "originalRu": "Двадцать один доллар взяли с неё за цепочку,"
+          "originalRu": "Двадцать один доллар с неё за неё взяли,"
         },
         {
-          "id": "sent-139",
-          "text": "y volvió a casa con los ochenta y siete centavos que le quedaban.",
-          "translationRu": "и вернулась домой с оставшимися восьмьюдесятью семью центами.",
+          "id": "sent-107",
+          "text": "y ella corrió a casa con los 87 centavos.",
+          "translationRu": "и она поспешила домой с восемьюдесятью семью центами.",
           "original": "and she hurried home with the 87 cents.",
-          "originalRu": "и она поспешила домой с восьмьюдесятью семью центами."
+          "originalRu": "и она поспешила домой с 87 центами."
         },
         {
-          "id": "sent-140",
-          "text": "Con esa leontina,",
-          "translationRu": "С такой цепочкой",
+          "id": "sent-108",
+          "text": "Con esa cadena en su reloj,",
+          "translationRu": "С такой цепочкой на часах",
           "original": "With that chain on his watch",
-          "originalRu": "С такой цепочкой при часах"
+          "originalRu": "С такой цепочкой на его часах"
         },
         {
-          "id": "sent-141",
-          "text": "Jim podría sacar su reloj con orgullo en cualquier compañía.",
-          "translationRu": "Джим мог бы с гордостью вынимать часы в любой компании.",
+          "id": "sent-109",
+          "text": "Jim podría mirar la hora sin apuro en cualquier compañía.",
+          "translationRu": "Джим мог бы без стеснения смотреть на время в любом обществе.",
           "original": "Jim might be properly anxious about the time in any company.",
-          "originalRu": "Джим в любом обществе мог бы преспокойно поинтересоваться, который час."
+          "originalRu": "Джим мог бы, как подобает, беспокоиться о времени в любом обществе."
         },
         {
-          "id": "sent-142",
-          "text": "El reloj era magnífico,",
-          "translationRu": "Часы были великолепны,",
+          "id": "sent-110",
+          "text": "Por magnífico que fuera el reloj,",
+          "translationRu": "Как ни великолепны были часы,",
           "original": "Grand as the watch was,",
-          "originalRu": "Как ни великолепны были эти часы,"
+          "originalRu": "Как ни великолепны были часы,"
         },
         {
-          "id": "sent-143",
-          "text": "pero a veces Jim lo miraba a escondidas",
-          "translationRu": "но иногда Джим смотрел на них украдкой,",
+          "id": "sent-111",
+          "text": "a veces lo miraba a escondidas",
+          "translationRu": "иногда он смотрел на них украдкой",
           "original": "he sometimes looked at it on the sly",
-          "originalRu": "он порой поглядывал на них украдкой,"
+          "originalRu": "он иногда смотрел на них украдкой"
         },
         {
-          "id": "sent-144",
-          "text": "porque usaba una vieja correa de cuero en lugar de una cadena.",
-          "translationRu": "потому что вместо цепочки использовал старый кожаный ремешок.",
-          "original": "on account of the old leather strap that he used in place of a chain.",
-          "originalRu": "из-за старого кожаного ремешка, который служил ему вместо цепочки."
+          "id": "sent-112",
+          "text": "por la vieja correa de cuero",
+          "translationRu": "из-за старого кожаного ремешка,",
+          "original": "on account of the old leather strap",
+          "originalRu": "из-за старого кожаного ремешка,"
+        },
+        {
+          "id": "sent-113",
+          "text": "que usaba en lugar de una cadena.",
+          "translationRu": "который он носил вместо цепочки.",
+          "original": "that he used in place of a chain.",
+          "originalRu": "который он использовал вместо цепочки."
         }
       ]
     },
@@ -1085,60 +878,60 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-145",
+          "id": "sent-114",
           "text": "Cuando Della llegó a casa,",
-          "translationRu": "Когда Делла пришла домой,",
+          "translationRu": "Когда Делла добралась до дома,",
           "original": "When Della reached home",
-          "originalRu": "Когда Делла добралась домой,"
+          "originalRu": "Когда Делла добралась до дома,"
         },
         {
-          "id": "sent-146",
-          "text": "su alegría dio paso a la prudencia y a la razón.",
-          "translationRu": "радость уступила место осторожности и рассудку.",
+          "id": "sent-115",
+          "text": "su embriaguez cedió un poco ante la prudencia y la razón.",
+          "translationRu": "её восторг слегка уступил осторожности и рассудку.",
           "original": "her intoxication gave way a little to prudence and reason.",
-          "originalRu": "её упоение слегка уступило место благоразумию и рассудку."
+          "originalRu": "её опьянение немного уступило благоразумию и рассудку."
         },
         {
-          "id": "sent-147",
-          "text": "Sacó los rizadores,",
+          "id": "sent-116",
+          "text": "Sacó las tenacillas de rizar,",
           "translationRu": "Она достала щипцы для завивки,",
           "original": "She got out her curling irons",
-          "originalRu": "Она достала щипцы для завивки,"
+          "originalRu": "Она достала свои щипцы для завивки,"
         },
         {
-          "id": "sent-148",
+          "id": "sent-117",
           "text": "encendió el gas",
           "translationRu": "зажгла газ",
           "original": "and lighted the gas",
           "originalRu": "зажгла газ"
         },
         {
-          "id": "sent-149",
-          "text": "y se puso a arreglar el daño",
-          "translationRu": "и принялась устранять ущерб,",
+          "id": "sent-118",
+          "text": "y se puso a reparar los estragos",
+          "translationRu": "и принялась исправлять разрушения,",
           "original": "and went to work repairing the ravages",
           "originalRu": "и принялась исправлять опустошения,"
         },
         {
-          "id": "sent-150",
-          "text": "que el amor y la generosidad habían causado.",
-          "translationRu": "который нанесли любовь и щедрость.",
+          "id": "sent-119",
+          "text": "hechos por la generosidad unida al amor.",
+          "translationRu": "причинённые щедростью в союзе с любовью.",
           "original": "made by generosity added to love.",
-          "originalRu": "причинённые щедростью вкупе с любовью."
+          "originalRu": "причинённые щедростью, прибавленной к любви."
         },
         {
-          "id": "sent-151",
-          "text": "Eso es siempre una tarea enorme,",
-          "translationRu": "Это всегда огромная задача,",
-          "original": "Which is always a tremendous task,",
-          "originalRu": "А это всегда непомерный труд,"
+          "id": "sent-120",
+          "text": "Lo cual es siempre una tarea enorme, queridos amigos:",
+          "translationRu": "А это всегда огромный труд, дорогие друзья, —",
+          "original": "Which is always a tremendous task, dear friends—",
+          "originalRu": "А это всегда громадная задача, дорогие друзья, —"
         },
         {
-          "id": "sent-152",
-          "text": "queridos amigos.",
-          "translationRu": "дорогие друзья.",
-          "original": "dear friends—a mammoth task.",
-          "originalRu": "дорогие друзья, — труд исполинский."
+          "id": "sent-121",
+          "text": "una tarea colosal.",
+          "translationRu": "поистине колоссальный труд.",
+          "original": "a mammoth task.",
+          "originalRu": "исполинская задача."
         }
       ]
     },
@@ -1146,46 +939,32 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-153",
-          "text": "En cuarenta minutos,",
-          "translationRu": "За сорок минут",
-          "original": "Within forty minutes",
-          "originalRu": "Минут за сорок"
+          "id": "sent-122",
+          "text": "En cuarenta minutos su cabeza quedó cubierta de ricitos pequeños y pegados,",
+          "translationRu": "За сорок минут её голова покрылась крошечными, плотно лежащими кудряшками,",
+          "original": "Within forty minutes her head was covered with tiny, close-lying curls",
+          "originalRu": "За сорок минут её голова покрылась крошечными, плотно лежащими кудряшками,"
         },
         {
-          "id": "sent-154",
-          "text": "su cabeza estaba cubierta de pequeños rizos apretados",
-          "translationRu": "её голова покрылась маленькими тугими кудряшками,",
-          "original": "her head was covered with tiny, close-lying curls",
-          "originalRu": "голова её покрылась тугими мелкими завитками,"
-        },
-        {
-          "id": "sent-155",
-          "text": "que la hacían parecer un chico travieso.",
-          "translationRu": "которые делали её похожей на шалуна-мальчишку.",
+          "id": "sent-123",
+          "text": "que la hacían parecer asombrosamente un colegial que hace novillos.",
+          "translationRu": "которые делали её удивительно похожей на прогуливающего уроки школьника.",
           "original": "that made her look wonderfully like a truant schoolboy.",
-          "originalRu": "от которых она удивительно стала похожа на сбежавшего с уроков школьника."
+          "originalRu": "которые делали её удивительно похожей на школьника-прогульщика."
         },
         {
-          "id": "sent-156",
-          "text": "Se miró al espejo durante mucho tiempo,",
-          "translationRu": "Она долго смотрела на себя в зеркало —",
+          "id": "sent-124",
+          "text": "Se miró en el espejo largo rato,",
+          "translationRu": "Она смотрела на своё отражение в зеркале долго,",
           "original": "She looked at her reflection in the mirror long,",
-          "originalRu": "Она оглядела своё отражение в зеркале долго,"
+          "originalRu": "Она смотрела на своё отражение в зеркале долго,"
         },
         {
-          "id": "sent-157",
-          "text": "con cuidado",
-          "translationRu": "внимательно",
-          "original": "carefully,",
-          "originalRu": "внимательно"
-        },
-        {
-          "id": "sent-158",
-          "text": "y de manera crítica.",
-          "translationRu": "и критически.",
-          "original": "and critically.",
-          "originalRu": "и придирчиво."
+          "id": "sent-125",
+          "text": "con cuidado y de forma crítica.",
+          "translationRu": "внимательно и придирчиво.",
+          "original": "carefully, and critically.",
+          "originalRu": "тщательно и критически."
         }
       ]
     },
@@ -1193,46 +972,39 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-159",
-          "text": "«Si Jim no me mata»,",
-          "translationRu": "«Если Джим не убьёт меня, —",
-          "original": "\"If Jim doesn't kill me,\"",
-          "originalRu": "«Если Джим не убьёт меня, —"
+          "id": "sent-126",
+          "text": "—Si Jim no me mata —se dijo—",
+          "translationRu": "— Если Джим меня не убьёт, — сказала она себе, —",
+          "original": "\"If Jim doesn't kill me,\" she said to herself,",
+          "originalRu": "— Если Джим меня не убьёт, — сказала она себе, —"
         },
         {
-          "id": "sent-160",
-          "text": "se dijo,",
-          "translationRu": "сказала она себе, —",
-          "original": "she said to herself,",
-          "originalRu": "сказала она себе, —"
-        },
-        {
-          "id": "sent-161",
-          "text": "«antes de darme una segunda mirada,",
-          "translationRu": "прежде чем взглянет второй раз,",
+          "id": "sent-127",
+          "text": "antes de mirarme por segunda vez,",
+          "translationRu": "прежде чем взглянуть на меня второй раз,",
           "original": "\"before he takes a second look at me,",
-          "originalRu": "прежде чем взглянет на меня во второй раз,"
+          "originalRu": "прежде чем взглянуть на меня второй раз,"
         },
         {
-          "id": "sent-162",
-          "text": "dirá que parezco una chica de coro de Coney Island.»",
-          "translationRu": "он скажет, что я похожа на хористку с Кони-Айленда.»",
+          "id": "sent-128",
+          "text": "dirá que parezco una corista de Coney Island.",
+          "translationRu": "он скажет, что я похожа на хористку из Кони-Айленда.",
           "original": "he'll say I look like a Coney Island chorus girl.\"",
-          "originalRu": "он скажет, что я похожа на хористку с Кони-Айленда»."
+          "originalRu": "он скажет, что я выгляжу как хористка с Кони-Айленда."
         },
         {
-          "id": "sent-163",
-          "text": "«Pero, ¿qué podía hacer yo, oh!,",
-          "translationRu": "«Но что я могла сделать, о!,",
-          "original": "\"But what could I do—oh!",
-          "originalRu": "«Но что мне было делать — ах,"
+          "id": "sent-129",
+          "text": "Pero ¿qué podía hacer, ay, qué podía hacer",
+          "translationRu": "Но что я могла поделать, ах, что я могла поделать",
+          "original": "\"But what could I do—oh! what could I do",
+          "originalRu": "Но что я могла сделать — ах! что я могла сделать"
         },
         {
-          "id": "sent-164",
-          "text": "¿qué podía hacer con un dólar con ochenta y siete centavos?»",
-          "translationRu": "что я могла сделать с одним долларом и восьмьюдесятью семью центами?»",
-          "original": "what could I do with a dollar and eighty-seven cents?\"",
-          "originalRu": "что мне было делать с одним долларом и восемьюдесятью семью центами?»"
+          "id": "sent-130",
+          "text": "con un dólar y ochenta y siete centavos?",
+          "translationRu": "с одним долларом и восемьюдесятью семью центами?",
+          "original": "with a dollar and eighty-seven cents?\"",
+          "originalRu": "с одним долларом и восемьюдесятью семью центами?"
         }
       ]
     },
@@ -1240,39 +1012,25 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-165",
-          "text": "A las siete",
-          "translationRu": "В семь часов",
-          "original": "At 7 o'clock",
-          "originalRu": "В семь часов"
+          "id": "sent-131",
+          "text": "A las siete el café estaba hecho,",
+          "translationRu": "В семь часов кофе был готов,",
+          "original": "At 7 o'clock the coffee was made",
+          "originalRu": "В семь часов кофе был сварен,"
         },
         {
-          "id": "sent-166",
-          "text": "el café estaba listo",
-          "translationRu": "кофе был готов,",
-          "original": "the coffee was made",
-          "originalRu": "кофе был сварен,"
-        },
-        {
-          "id": "sent-167",
-          "text": "y la sartén estaba en la estufa,",
-          "translationRu": "а сковородка стояла на плите,",
+          "id": "sent-132",
+          "text": "y la sartén estaba al fondo del fogón,",
+          "translationRu": "а сковорода стояла на задней части плиты,",
           "original": "and the frying-pan was on the back of the stove",
-          "originalRu": "а сковорода стояла на дальнем краю плиты,"
+          "originalRu": "а сковорода стояла на задней части плиты,"
         },
         {
-          "id": "sent-168",
-          "text": "caliente y lista",
-          "translationRu": "горячая и готовая",
-          "original": "hot and ready",
-          "originalRu": "раскалённая и готовая"
-        },
-        {
-          "id": "sent-169",
-          "text": "para cocinar las chuletas.",
-          "translationRu": "жарить отбивные.",
-          "original": "to cook the chops.",
-          "originalRu": "жарить котлеты."
+          "id": "sent-133",
+          "text": "caliente y lista para freír las chuletas.",
+          "translationRu": "горячая и готовая жарить отбивные.",
+          "original": "hot and ready to cook the chops.",
+          "originalRu": "горячая и готовая жарить отбивные."
         }
       ]
     },
@@ -1280,95 +1038,74 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-170",
+          "id": "sent-134",
           "text": "Jim nunca llegaba tarde.",
           "translationRu": "Джим никогда не опаздывал.",
           "original": "Jim was never late.",
           "originalRu": "Джим никогда не опаздывал."
         },
         {
-          "id": "sent-171",
-          "text": "Della dobló la leontina en su mano",
-          "translationRu": "Делла сложила цепочку в руке",
+          "id": "sent-135",
+          "text": "Della dobló la cadena en la mano",
+          "translationRu": "Делла сложила цепочку вдвое в руке",
           "original": "Della doubled the fob chain in her hand",
-          "originalRu": "Делла зажала сложенную вдвое цепочку в руке"
+          "originalRu": "Делла сложила цепочку для часов вдвое в руке"
         },
         {
-          "id": "sent-172",
-          "text": "y se sentó en la esquina de la mesa",
-          "translationRu": "и села на угол стола",
+          "id": "sent-136",
+          "text": "y se sentó en la esquina de la mesa,",
+          "translationRu": "и села на угол стола,",
           "original": "and sat on the corner of the table",
-          "originalRu": "и села на угол стола"
+          "originalRu": "и села на угол стола,"
         },
         {
-          "id": "sent-173",
-          "text": "cerca de la puerta",
-          "translationRu": "у двери,",
-          "original": "near the door",
-          "originalRu": "возле двери,"
+          "id": "sent-137",
+          "text": "junto a la puerta por la que él siempre entraba.",
+          "translationRu": "у двери, через которую он всегда входил.",
+          "original": "near the door that he always entered.",
+          "originalRu": "возле двери, в которую он всегда входил."
         },
         {
-          "id": "sent-174",
-          "text": "por donde él siempre entraba.",
-          "translationRu": "через которую он всегда входил.",
-          "original": "that he always entered.",
-          "originalRu": "в которую он всегда входил."
+          "id": "sent-138",
+          "text": "Entonces oyó sus pasos en la escalera, allá abajo, en el primer tramo,",
+          "translationRu": "Потом она услышала его шаги на лестнице, там внизу, на первом пролёте,",
+          "original": "Then she heard his step on the stair away down on the first flight,",
+          "originalRu": "Затем она услышала его шаги на лестнице, далеко внизу, на первом пролёте,"
         },
         {
-          "id": "sent-175",
-          "text": "Luego oyó sus pasos en la escalera,",
-          "translationRu": "Затем она услышала его шаги на лестнице,",
-          "original": "Then she heard his step on the stair",
-          "originalRu": "И вот она услышала на лестнице его шаги,"
-        },
-        {
-          "id": "sent-176",
-          "text": "abajo en el primer tramo,",
-          "translationRu": "внизу на первом пролёте,",
-          "original": "away down on the first flight,",
-          "originalRu": "ещё внизу, на первом пролёте,"
-        },
-        {
-          "id": "sent-177",
-          "text": "y se puso blanca por un momento.",
-          "translationRu": "и на мгновение побледнела.",
+          "id": "sent-139",
+          "text": "y palideció por un instante.",
+          "translationRu": "и на миг побледнела.",
           "original": "and she turned white for just a moment.",
-          "originalRu": "и на мгновение побледнела."
+          "originalRu": "и она на мгновение побелела."
         },
         {
-          "id": "sent-178",
-          "text": "Tenía la costumbre de decir pequeñas oraciones silenciosas",
-          "translationRu": "У неё была привычка шептать про себя маленькие молитвы",
+          "id": "sent-140",
+          "text": "Tenía la costumbre de rezar pequeñas oraciones en silencio",
+          "translationRu": "У неё была привычка тихо произносить короткие молитвы",
           "original": "She had a habit for saying little silent prayers",
-          "originalRu": "У неё была привычка шептать коротенькие безмолвные молитвы"
+          "originalRu": "У неё была привычка произносить маленькие безмолвные молитвы"
         },
         {
-          "id": "sent-179",
-          "text": "sobre las cosas más simples de la vida cotidiana.",
-          "translationRu": "о самых простых повседневных вещах.",
+          "id": "sent-141",
+          "text": "por las cosas más sencillas de cada día,",
+          "translationRu": "о самых простых повседневных вещах,",
           "original": "about the simplest everyday things,",
-          "originalRu": "о самых простых, обыденных вещах,"
+          "originalRu": "о самых простых повседневных вещах,"
         },
         {
-          "id": "sent-180",
-          "text": "Y ahora susurró:",
-          "translationRu": "И сейчас она прошептала:",
+          "id": "sent-142",
+          "text": "y ahora susurró:",
+          "translationRu": "и теперь она прошептала:",
           "original": "and now she whispered:",
           "originalRu": "и теперь она прошептала:"
         },
         {
-          "id": "sent-181",
-          "text": "«Por favor, Dios mío,",
-          "translationRu": "«Пожалуйста, Господи,",
-          "original": "\"Please God,",
-          "originalRu": "— Господи, прошу,"
-        },
-        {
-          "id": "sent-182",
-          "text": "haz que él piense que todavía soy bonita.»",
-          "translationRu": "сделай так, чтобы он думал, что я всё ещё красива.»",
-          "original": "make him think I am still pretty.\"",
-          "originalRu": "пусть он подумает, что я всё ещё хорошенькая."
+          "id": "sent-143",
+          "text": "«Por favor, Dios, haz que siga pareciéndole bonita.»",
+          "translationRu": "«Прошу Тебя, Боже, пусть он подумает, что я всё ещё красива.»",
+          "original": "\"Please God, make him think I am still pretty.\"",
+          "originalRu": "«Прошу Тебя, Боже, сделай так, чтобы он думал, что я всё ещё красива.»"
         }
       ]
     },
@@ -1376,72 +1113,53 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-183",
-          "text": "La puerta se abrió",
-          "translationRu": "Дверь открылась,",
+          "id": "sent-144",
+          "text": "La puerta se abrió,",
+          "translationRu": "Дверь отворилась,",
           "original": "The door opened",
           "originalRu": "Дверь отворилась,"
         },
         {
-          "id": "sent-184",
-          "text": "y Jim entró",
-          "translationRu": "Джим вошёл",
-          "original": "and Jim stepped in",
-          "originalRu": "Джим вошёл"
+          "id": "sent-145",
+          "text": "y Jim entró y la cerró.",
+          "translationRu": "и Джим вошёл и закрыл её.",
+          "original": "and Jim stepped in and closed it.",
+          "originalRu": "и Джим вошёл и закрыл её."
         },
         {
-          "id": "sent-185",
-          "text": "y la cerró.",
-          "translationRu": "и закрыл её.",
-          "original": "and closed it.",
-          "originalRu": "и закрыл её за собой."
+          "id": "sent-146",
+          "text": "Se veía delgado y muy serio.",
+          "translationRu": "Он выглядел худым и очень серьёзным.",
+          "original": "He looked thin and very serious.",
+          "originalRu": "Он выглядел худым и очень серьёзным."
         },
         {
-          "id": "sent-186",
-          "text": "Parecía delgado",
-          "translationRu": "Он выглядел худым",
-          "original": "He looked thin",
-          "originalRu": "Он был худой"
+          "id": "sent-147",
+          "text": "Pobre muchacho, solo tenía veintidós años,",
+          "translationRu": "Бедняга, ему было всего двадцать два года —",
+          "original": "Poor fellow, he was only twenty-two—",
+          "originalRu": "Бедняга, ему было всего двадцать два —"
         },
         {
-          "id": "sent-187",
-          "text": "y muy serio.",
-          "translationRu": "и очень серьёзным.",
-          "original": "and very serious.",
-          "originalRu": "и очень серьёзный."
+          "id": "sent-148",
+          "text": "¡y ya cargaba con una familia!",
+          "translationRu": "и уже обременён семьёй!",
+          "original": "and to be burdened with a family!",
+          "originalRu": "и уже обременён семьёй!"
         },
         {
-          "id": "sent-188",
-          "text": "Pobre hombre,",
-          "translationRu": "Бедняга,",
-          "original": "Poor fellow,",
-          "originalRu": "Бедняга,"
-        },
-        {
-          "id": "sent-189",
-          "text": "sólo tenía veintidós años,",
-          "translationRu": "ему было всего двадцать два года,",
-          "original": "he was only twenty-two—and to be burdened with a family!",
-          "originalRu": "ему было всего двадцать два — и уже обременён семьёй!"
-        },
-        {
-          "id": "sent-190",
-          "text": "y ya tenía una familia que mantener.",
-          "translationRu": "а он уже содержал семью."
-        },
-        {
-          "id": "sent-191",
+          "id": "sent-149",
           "text": "Necesitaba un abrigo nuevo",
           "translationRu": "Ему нужно было новое пальто,",
           "original": "He needed a new overcoat",
           "originalRu": "Ему нужно было новое пальто,"
         },
         {
-          "id": "sent-192",
+          "id": "sent-150",
           "text": "y no tenía guantes.",
-          "translationRu": "и у него не было перчаток.",
+          "translationRu": "а перчаток у него не было.",
           "original": "and he was without gloves.",
-          "originalRu": "и он ходил без перчаток."
+          "originalRu": "и он был без перчаток."
         }
       ]
     },
@@ -1449,109 +1167,67 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-193",
-          "text": "Jim se detuvo dentro de la puerta,",
-          "translationRu": "Джим остановился у двери,",
+          "id": "sent-151",
+          "text": "Jim se detuvo junto a la puerta,",
+          "translationRu": "Джим замер у двери,",
           "original": "Jim stopped inside the door,",
-          "originalRu": "Джим замер у двери,"
+          "originalRu": "Джим остановился у двери,"
         },
         {
-          "id": "sent-194",
-          "text": "tan inmóvil como un perro de caza",
-          "translationRu": "неподвижный, как охотничья собака",
-          "original": "as immovable as a setter",
-          "originalRu": "неподвижный, как сеттер,"
+          "id": "sent-152",
+          "text": "tan inmóvil como un perro de caza al olfatear una codorniz.",
+          "translationRu": "неподвижный, как сеттер, почуявший перепела.",
+          "original": "as immovable as a setter at the scent of quail.",
+          "originalRu": "неподвижный, как сеттер, учуявший запах перепела."
         },
         {
-          "id": "sent-195",
-          "text": "ante una perdiz.",
-          "translationRu": "перед перепёлкой.",
-          "original": "at the scent of quail.",
-          "originalRu": "учуявший перепела."
-        },
-        {
-          "id": "sent-196",
+          "id": "sent-153",
           "text": "Sus ojos estaban fijos en Della,",
-          "translationRu": "Его глаза были устремлены на Деллу,",
+          "translationRu": "Его глаза были прикованы к Делле,",
           "original": "His eyes were fixed upon Della,",
-          "originalRu": "Глаза его были устремлены на Деллу,"
+          "originalRu": "Его глаза были устремлены на Деллу,"
         },
         {
-          "id": "sent-197",
-          "text": "y había una expresión en ellos",
-          "translationRu": "и в них было выражение,",
-          "original": "and there was an expression in them",
-          "originalRu": "и в них было выражение,"
+          "id": "sent-154",
+          "text": "y había en ellos una expresión que ella no supo entender,",
+          "translationRu": "и в них было выражение, которое она не смогла прочесть,",
+          "original": "and there was an expression in them that she could not read,",
+          "originalRu": "и в них было выражение, которое она не могла разгадать,"
         },
         {
-          "id": "sent-198",
-          "text": "que ella no podía leer,",
-          "translationRu": "которое она не могла прочесть,",
-          "original": "that she could not read,",
-          "originalRu": "которого она не могла разгадать,"
-        },
-        {
-          "id": "sent-199",
-          "text": "y eso la aterrorizó.",
-          "translationRu": "и это её пугало.",
+          "id": "sent-155",
+          "text": "y eso la aterró.",
+          "translationRu": "и это привело её в ужас.",
           "original": "and it terrified her.",
           "originalRu": "и оно её ужаснуло."
         },
         {
-          "id": "sent-200",
-          "text": "No era ira,",
-          "translationRu": "Это не был гнев,",
-          "original": "It was not anger,",
-          "originalRu": "Это не был гнев,"
+          "id": "sent-156",
+          "text": "No era ira, ni sorpresa, ni desaprobación, ni horror,",
+          "translationRu": "Это не был ни гнев, ни удивление, ни осуждение, ни ужас,",
+          "original": "It was not anger, nor surprise, nor disapproval, nor horror,",
+          "originalRu": "Это не был ни гнев, ни удивление, ни неодобрение, ни ужас,"
         },
         {
-          "id": "sent-201",
-          "text": "ni sorpresa,",
-          "translationRu": "ни удивление,",
-          "original": "nor surprise,",
-          "originalRu": "ни удивление,"
+          "id": "sent-157",
+          "text": "ni ninguno de los sentimientos para los que ella se había preparado.",
+          "translationRu": "ни одно из тех чувств, к которым она себя приготовила.",
+          "original": "nor any of the sentiments that she had been prepared for.",
+          "originalRu": "ни одно из чувств, к которым она была готова."
         },
         {
-          "id": "sent-202",
-          "text": "ni desaprobación,",
-          "translationRu": "ни неодобрение,",
-          "original": "nor disapproval,",
-          "originalRu": "ни упрёк,"
-        },
-        {
-          "id": "sent-203",
-          "text": "ni horror,",
-          "translationRu": "ни ужас,",
-          "original": "nor horror,",
-          "originalRu": "ни ужас,"
-        },
-        {
-          "id": "sent-204",
-          "text": "ni ninguno de los sentimientos",
-          "translationRu": "ни что-либо из того,",
-          "original": "nor any of the sentiments",
-          "originalRu": "ни одно из тех чувств,"
-        },
-        {
-          "id": "sent-205",
-          "text": "para los que ella se había preparado.",
-          "translationRu": "к чему она готовилась.",
-          "original": "that she had been prepared for.",
-          "originalRu": "к которым она приготовилась."
-        },
-        {
-          "id": "sent-206",
+          "id": "sent-158",
           "text": "Simplemente la miraba fijamente",
           "translationRu": "Он просто пристально смотрел на неё",
           "original": "He simply stared at her fixedly",
           "originalRu": "Он просто пристально смотрел на неё"
         },
         {
-          "id": "sent-207",
-          "text": "con esa extraña expresión en la cara.",
-          "translationRu": "с этим странным выражением на лице.",
+          "id": "sent-159",
+          "text": "con aquella expresión tan extraña en el rostro.",
+          "translationRu": "с тем странным выражением на лице.",
           "original": "with that peculiar expression on his face.",
-          "originalRu": "с этим странным выражением на лице."
+          "originalRu": "с тем особенным выражением на лице."
         }
       ]
     },
@@ -1559,18 +1235,18 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-208",
-          "text": "Della se levantó de la mesa",
-          "translationRu": "Делла поднялась со стола",
+          "id": "sent-160",
+          "text": "Della se deslizó de la mesa",
+          "translationRu": "Делла соскользнула со стола",
           "original": "Della wriggled off the table",
           "originalRu": "Делла соскользнула со стола"
         },
         {
-          "id": "sent-209",
+          "id": "sent-161",
           "text": "y fue hacia él.",
-          "translationRu": "и пошла к нему.",
+          "translationRu": "и бросилась к нему.",
           "original": "and went for him.",
-          "originalRu": "и бросилась к нему."
+          "originalRu": "и кинулась к нему."
         }
       ]
     },
@@ -1578,105 +1254,67 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-210",
-          "text": "«Jim, querido»,",
-          "translationRu": "«Джим, дорогой», —",
-          "original": "\"Jim, darling,\"",
-          "originalRu": "— Джим, милый, —"
+          "id": "sent-162",
+          "text": "—Jim, cariño —exclamó—,",
+          "translationRu": "— Джим, милый, — воскликнула она, —",
+          "original": "\"Jim, darling,\" she cried,",
+          "originalRu": "— Джим, дорогой, — воскликнула она, —"
         },
         {
-          "id": "sent-211",
-          "text": "exclamó ella,",
-          "translationRu": "воскликнула она, —",
-          "original": "she cried,",
-          "originalRu": "вскрикнула она, —"
-        },
-        {
-          "id": "sent-212",
-          "text": "«no me mires así.»",
-          "translationRu": "«не смотри на меня так.»",
+          "id": "sent-163",
+          "text": "no me mires así.",
+          "translationRu": "не смотри на меня так.",
           "original": "\"don't look at me that way.",
           "originalRu": "не смотри на меня так."
         },
         {
-          "id": "sent-213",
-          "text": "«Me corté el pelo y lo vendí",
-          "translationRu": "«Я отрезала волосы и продала их,",
+          "id": "sent-164",
+          "text": "Me corté el pelo y lo vendí",
+          "translationRu": "Я обрезала волосы и продала их,",
           "original": "I had my hair cut off and sold",
-          "originalRu": "Я остригла волосы и продала их,"
+          "originalRu": "Я обрезала волосы и продала их,"
         },
         {
-          "id": "sent-214",
-          "text": "porque no podía pasar la Navidad",
-          "translationRu": "потому что не могла пережить Рождество,",
-          "original": "because I couldn't have lived through Christmas",
-          "originalRu": "потому что я не пережила бы Рождества,"
+          "id": "sent-165",
+          "text": "porque no habría podido pasar la Navidad sin hacerte un regalo.",
+          "translationRu": "потому что не смогла бы пережить Рождество, не подарив тебе подарка.",
+          "original": "because I couldn't have lived through Christmas without giving you a present.",
+          "originalRu": "потому что не смогла бы пережить Рождество, не сделав тебе подарка."
         },
         {
-          "id": "sent-215",
-          "text": "sin darte un regalo.»",
-          "translationRu": "не подарив тебе подарок.»",
-          "original": "without giving you a present.",
-          "originalRu": "не сделав тебе подарка."
-        },
-        {
-          "id": "sent-216",
-          "text": "«Volverán a crecer,",
-          "translationRu": "«Они снова вырастут,",
+          "id": "sent-166",
+          "text": "Volverá a crecer, no te importa, ¿verdad?",
+          "translationRu": "Они снова отрастут — ты ведь не рассердишься, правда?",
           "original": "It'll grow out again—you won't mind, will you?",
-          "originalRu": "Они снова отрастут — ты ведь не рассердишься, правда?"
+          "originalRu": "Они снова отрастут — ты ведь не будешь против, правда?"
         },
         {
-          "id": "sent-217",
-          "text": "no te importará, ¿verdad?»",
-          "translationRu": "тебе же не будет важно, правда?»"
-        },
-        {
-          "id": "sent-218",
-          "text": "«Tenía que hacerlo.»",
-          "translationRu": "«Мне пришлось так поступить.»",
+          "id": "sent-167",
+          "text": "Tenía que hacerlo.",
+          "translationRu": "Я просто должна была это сделать.",
           "original": "I just had to do it.",
-          "originalRu": "Я просто не могла иначе."
+          "originalRu": "Я просто должна была это сделать."
         },
         {
-          "id": "sent-219",
-          "text": "«Mi pelo crece muy rápido.»",
-          "translationRu": "«Мои волосы растут очень быстро.»",
+          "id": "sent-168",
+          "text": "El pelo me crece muy rápido.",
+          "translationRu": "Волосы у меня растут ужасно быстро.",
           "original": "My hair grows awfully fast.",
-          "originalRu": "У меня волосы растут ужасно быстро."
+          "originalRu": "Волосы у меня растут ужасно быстро."
         },
         {
-          "id": "sent-220",
-          "text": "«¡Di 'Feliz Navidad', Jim,",
-          "translationRu": "«Скажи 'Счастливого Рождества', Джим,",
-          "original": "Say 'Merry Christmas!' Jim,",
-          "originalRu": "Скажи же «С Рождеством!», Джим,"
+          "id": "sent-169",
+          "text": "¡Di «Feliz Navidad», Jim, y seamos felices!",
+          "translationRu": "Скажи «Счастливого Рождества», Джим, и давай будем счастливы!",
+          "original": "Say 'Merry Christmas!' Jim, and let's be happy.",
+          "originalRu": "Скажи «Счастливого Рождества!», Джим, и давай будем счастливы."
         },
         {
-          "id": "sent-221",
-          "text": "y seamos felices!»",
-          "translationRu": "и будем счастливы!»",
-          "original": "and let's be happy.",
-          "originalRu": "и давай будем счастливы."
-        },
-        {
-          "id": "sent-222",
-          "text": "«No sabes qué regalo tan bonito,",
-          "translationRu": "«Ты не представляешь, какой красивый,",
-          "original": "You don't know what a nice—what a beautiful, nice",
-          "originalRu": "Ты ведь не знаешь, какой милый — какой чудесный, прелестный"
-        },
-        {
-          "id": "sent-223",
-          "text": "tan hermoso,",
-          "translationRu": "какой замечательный"
-        },
-        {
-          "id": "sent-224",
-          "text": "te he comprado.»",
-          "translationRu": "подарок я тебе купила.»",
-          "original": "gift I've got for you.\"",
-          "originalRu": "подарок я для тебя приготовила."
+          "id": "sent-170",
+          "text": "No sabes qué regalo tan bonito, tan hermoso, tan lindo tengo para ti.",
+          "translationRu": "Ты и не знаешь, какой хороший — какой чудесный, хороший подарок у меня для тебя.",
+          "original": "You don't know what a nice—what a beautiful, nice gift I've got for you.\"",
+          "originalRu": "Ты не знаешь, какой хороший — какой прекрасный, хороший подарок у меня есть для тебя."
         }
       ]
     },
@@ -1684,25 +1322,25 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-225",
-          "text": "«¿Te cortaste el pelo?»,",
-          "translationRu": "«Ты отрезала волосы?» —",
-          "original": "\"You've cut off your hair?\"",
-          "originalRu": "— Ты остригла волосы? —"
+          "id": "sent-171",
+          "text": "—¿Te has cortado el pelo? —preguntó Jim con esfuerzo,",
+          "translationRu": "— Ты обрезала волосы? — спросил Джим с трудом,",
+          "original": "\"You've cut off your hair?\" asked Jim, laboriously,",
+          "originalRu": "— Ты обрезала волосы? — спросил Джим с трудом,"
         },
         {
-          "id": "sent-226",
-          "text": "preguntó Jim, lentamente,",
-          "translationRu": "спросил Джим медленно,",
-          "original": "asked Jim, laboriously,",
-          "originalRu": "с трудом спросил Джим,"
+          "id": "sent-172",
+          "text": "como si aún no hubiera captado ese hecho evidente,",
+          "translationRu": "будто он всё ещё не постиг этого очевидного факта,",
+          "original": "as if he had not arrived at that patent fact yet",
+          "originalRu": "как будто он ещё не дошёл до этого очевидного факта"
         },
         {
-          "id": "sent-227",
-          "text": "como si todavía no pudiera creerlo.",
-          "translationRu": "словно ещё не мог в это поверить.",
-          "original": "as if he had not arrived at that patent fact yet even after the hardest mental labor.",
-          "originalRu": "словно, даже после тяжелейшей работы мысли, всё ещё не мог осознать этот очевидный факт."
+          "id": "sent-173",
+          "text": "ni siquiera tras el mayor esfuerzo mental.",
+          "translationRu": "даже после самой тяжкой работы ума.",
+          "original": "even after the hardest mental labor.",
+          "originalRu": "даже после тяжелейшего умственного труда."
         }
       ]
     },
@@ -1710,39 +1348,25 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-228",
-          "text": "«Los corté y los vendí»,",
-          "translationRu": "«Отрезала и продала», —",
-          "original": "\"Cut it off and sold it,\"",
-          "originalRu": "— Остригла и продала, —"
+          "id": "sent-174",
+          "text": "—Me lo corté y lo vendí —dijo Della—.",
+          "translationRu": "— Обрезала и продала, — сказала Делла. —",
+          "original": "\"Cut it off and sold it,\" said Della.",
+          "originalRu": "— Обрезала и продала, — сказала Делла."
         },
         {
-          "id": "sent-229",
-          "text": "dijo Della.",
-          "translationRu": "сказала Делла.",
-          "original": "said Della.",
-          "originalRu": "сказала Делла. —"
-        },
-        {
-          "id": "sent-230",
-          "text": "«¿Acaso no me quieres igual?",
-          "translationRu": "«Разве ты любишь меня не так же?",
+          "id": "sent-175",
+          "text": "¿No te gusto igual, de todos modos?",
+          "translationRu": "Разве я тебе всё равно не нравлюсь?",
           "original": "\"Don't you like me just as well, anyhow?",
-          "originalRu": "Разве я тебе всё равно не нравлюсь?"
+          "originalRu": "Разве я всё равно тебе не так же нравлюсь?"
         },
         {
-          "id": "sent-231",
-          "text": "Sigo siendo yo sin el pelo,",
-          "translationRu": "Я ведь по-прежнему я, пусть и без волос,",
-          "original": "I'm me without my hair,",
-          "originalRu": "Я ведь я и без волос,"
-        },
-        {
-          "id": "sent-232",
-          "text": "¿verdad?»",
-          "translationRu": "правда?»",
-          "original": "ain't I?\"",
-          "originalRu": "разве нет?"
+          "id": "sent-176",
+          "text": "Sigo siendo yo sin mi pelo, ¿no?",
+          "translationRu": "Я ведь всё та же и без волос, разве нет?",
+          "original": "I'm me without my hair, ain't I?\"",
+          "originalRu": "Я — это я и без волос, ведь так?"
         }
       ]
     },
@@ -1750,8 +1374,8 @@
       "id": "para-027",
       "sentences": [
         {
-          "id": "sent-233",
-          "text": "Jim miró el cuarto con curiosidad.",
+          "id": "sent-177",
+          "text": "Jim miró por la habitación con curiosidad.",
           "translationRu": "Джим с любопытством оглядел комнату.",
           "original": "Jim looked about the room curiously.",
           "originalRu": "Джим с любопытством оглядел комнату."
@@ -1762,25 +1386,18 @@
       "id": "para-028",
       "sentences": [
         {
-          "id": "sent-234",
-          "text": "«¿Dices que tu pelo se ha ido?»,",
-          "translationRu": "«Ты говоришь, что волосы исчезли?» —",
-          "original": "\"You say your hair is gone?\"",
-          "originalRu": "— Так ты говоришь, волос больше нет? —"
+          "id": "sent-178",
+          "text": "—¿Dices que ya no tienes el pelo? —preguntó,",
+          "translationRu": "— Ты говоришь, волос больше нет? — сказал он,",
+          "original": "\"You say your hair is gone?\" he said,",
+          "originalRu": "— Ты говоришь, твои волосы исчезли? — сказал он,"
         },
         {
-          "id": "sent-235",
-          "text": "dijo él,",
-          "translationRu": "сказал он",
-          "original": "he said,",
-          "originalRu": "проговорил он"
-        },
-        {
-          "id": "sent-236",
-          "text": "con una expresión casi ausente.",
-          "translationRu": "с почти отсутствующим видом.",
+          "id": "sent-179",
+          "text": "con un aire casi de idiotez.",
+          "translationRu": "с почти дурацким видом.",
           "original": "with an air almost of idiocy.",
-          "originalRu": "с почти бессмысленным видом."
+          "originalRu": "с видом почти идиотским."
         }
       ]
     },
@@ -1788,79 +1405,74 @@
       "id": "para-029",
       "sentences": [
         {
-          "id": "sent-237",
-          "text": "«No los busques»,",
-          "translationRu": "«Не ищи их», —",
-          "original": "\"You needn't look for it,\"",
-          "originalRu": "— Нечего их искать, —"
+          "id": "sent-180",
+          "text": "—No lo busques —dijo Della—.",
+          "translationRu": "— Не ищи их, — сказала Делла. —",
+          "original": "\"You needn't look for it,\" said Della.",
+          "originalRu": "— Тебе незачем их искать, — сказала Делла."
         },
         {
-          "id": "sent-238",
-          "text": "dijo Della.",
-          "translationRu": "сказала Делла.",
-          "original": "said Della.",
-          "originalRu": "сказала Делла. —"
+          "id": "sent-181",
+          "text": "Lo he vendido, te digo,",
+          "translationRu": "Я их продала, говорю тебе,",
+          "original": "\"It's sold, I tell you—",
+          "originalRu": "Они проданы, говорю тебе, —"
         },
         {
-          "id": "sent-239",
-          "text": "«Están vendidos, te digo,",
-          "translationRu": "«Они проданы, говорю тебе, —",
-          "original": "\"It's sold, I tell you—sold and gone, too.",
-          "originalRu": "Продала, говорю тебе, — продала, и всё тут."
+          "id": "sent-182",
+          "text": "vendido y ya no está.",
+          "translationRu": "продала, и их больше нет.",
+          "original": "sold and gone, too.",
+          "originalRu": "проданы, и их тоже больше нет."
         },
         {
-          "id": "sent-240",
-          "text": "vendidos y ya no están.»",
-          "translationRu": "проданы и исчезли.»"
-        },
-        {
-          "id": "sent-241",
-          "text": "«Es Nochebuena, chico.»",
-          "translationRu": "«Сегодня Сочельник, мальчик мой.»",
+          "id": "sent-183",
+          "text": "Es Nochebuena, muchacho.",
+          "translationRu": "Ведь Сочельник, мальчик мой.",
           "original": "It's Christmas Eve, boy.",
-          "originalRu": "Сегодня сочельник, мальчик мой."
+          "originalRu": "Ведь канун Рождества, мальчик мой."
         },
         {
-          "id": "sent-242",
-          "text": "«Sé bueno conmigo,",
-          "translationRu": "«Будь добр ко мне,",
+          "id": "sent-184",
+          "text": "Sé bueno conmigo,",
+          "translationRu": "Будь ко мне добр,",
           "original": "Be good to me,",
-          "originalRu": "Будь со мной добр,"
+          "originalRu": "Будь ко мне добр,"
         },
         {
-          "id": "sent-243",
-          "text": "porque lo hice por ti.»",
-          "translationRu": "потому что я сделала это ради тебя.»",
+          "id": "sent-185",
+          "text": "porque lo hice por ti.",
+          "translationRu": "ведь это было ради тебя.",
           "original": "for it went for you.",
-          "originalRu": "ведь это всё ради тебя."
+          "originalRu": "ведь это ушло ради тебя."
         },
         {
-          "id": "sent-244",
-          "text": "«Quizás se podían contar los pelos de mi cabeza»,",
-          "translationRu": "«Может, волосы на моей голове можно было сосчитать», —",
+          "id": "sent-186",
+          "text": "Quizá los pelos de mi cabeza estén contados",
+          "translationRu": "Может, волосы у меня на голове и сочтены, —",
           "original": "Maybe the hairs of my head were numbered,\"",
-          "originalRu": "Может, волосы на моей голове и сочтены, —"
+          "originalRu": "Может, волосы у меня на голове и сочтены, —"
         },
         {
-          "id": "sent-245",
-          "text": "continuó ella con dulzura repentina,",
-          "translationRu": "продолжила она с внезапной нежной серьёзностью, —",
+          "id": "sent-187",
+          "text": "—siguió con una dulzura de pronto seria—,",
+          "translationRu": "продолжала она с внезапной серьёзной нежностью, —",
           "original": "she went on with sudden serious sweetness,",
           "originalRu": "продолжала она с внезапной серьёзной нежностью, —"
         },
         {
-          "id": "sent-246",
-          "text": "«pero nadie podría contar jamás mi amor por ti.»",
-          "translationRu": "«но никто никогда не смог бы сосчитать мою любовь к тебе.»",
+          "id": "sent-188",
+          "text": "pero nadie podría contar nunca mi amor por ti.",
+          "translationRu": "но никто никогда не смог бы сосчитать мою любовь к тебе.",
           "original": "\"but nobody could ever count my love for you.",
-          "originalRu": "но мою любовь к тебе никому не счесть."
+          "originalRu": "но никто никогда не смог бы сосчитать мою любовь к тебе."
         },
         {
-          "id": "sent-247",
-          "text": "«¿Pongo las chuletas, Jim?»",
-          "translationRu": "«Положить отбивные, Джим?»",
+          "id": "sent-189",
+          "text": "¿Pongo las chuletas, Jim?",
+          "translationRu": "Ставить отбивные, Джим?",
           "original": "Shall I put the chops on, Jim?\"",
-          "originalRu": "Жарить котлеты, Джим?"
+          "originalRu": "Ставить отбивные, Джим?"
         }
       ]
     },
@@ -1868,93 +1480,74 @@
       "id": "para-030",
       "sentences": [
         {
-          "id": "sent-248",
-          "text": "Jim salió rápido de su trance",
-          "translationRu": "Джим быстро вышел из оцепенения",
+          "id": "sent-190",
+          "text": "Jim pareció despertar rápido de su trance.",
+          "translationRu": "Джим, казалось, быстро очнулся от своего оцепенения.",
           "original": "Out of his trance Jim seemed quickly to wake.",
-          "originalRu": "Джим словно очнулся от оцепенения."
+          "originalRu": "Из своего оцепенения Джим, казалось, быстро очнулся."
         },
         {
-          "id": "sent-249",
-          "text": "y abrazó a su Della.",
-          "translationRu": "и обнял свою Деллу.",
+          "id": "sent-191",
+          "text": "Estrechó a su Della entre los brazos.",
+          "translationRu": "Он обнял свою Деллу.",
           "original": "He enfolded his Della.",
-          "originalRu": "Он обнял свою Деллу."
+          "originalRu": "Он заключил в объятия свою Деллу."
         },
         {
-          "id": "sent-250",
-          "text": "Por diez segundos",
-          "translationRu": "На десять секунд",
-          "original": "For ten seconds",
-          "originalRu": "А мы на десять секунд"
+          "id": "sent-192",
+          "text": "Durante diez segundos miremos con discreto disimulo",
+          "translationRu": "На десять секунд посмотрим со сдержанным вниманием",
+          "original": "For ten seconds let us regard with discreet scrutiny",
+          "originalRu": "На десять секунд обратим сдержанно-внимательный взгляд"
         },
         {
-          "id": "sent-251",
-          "text": "miremos discretamente a otra parte.",
-          "translationRu": "скромно отведём взгляд в сторону.",
-          "original": "let us regard with discreet scrutiny some inconsequential object in the other direction.",
-          "originalRu": "со скромным вниманием рассмотрим какой-нибудь незначительный предмет в стороне."
+          "id": "sent-193",
+          "text": "algún objeto sin importancia en la otra dirección.",
+          "translationRu": "на какой-нибудь неважный предмет в другой стороне.",
+          "original": "some inconsequential object in the other direction.",
+          "originalRu": "на какой-нибудь несущественный предмет в другой стороне."
         },
         {
-          "id": "sent-252",
-          "text": "Ocho dólares por semana",
-          "translationRu": "Восемь долларов в неделю",
-          "original": "Eight dollars a week",
-          "originalRu": "Восемь долларов в неделю"
+          "id": "sent-194",
+          "text": "Ocho dólares a la semana o un millón al año:",
+          "translationRu": "Восемь долларов в неделю или миллион в год —",
+          "original": "Eight dollars a week or a million a year—",
+          "originalRu": "Восемь долларов в неделю или миллион в год —"
         },
         {
-          "id": "sent-253",
-          "text": "o un millón al año,",
-          "translationRu": "или миллион в год —",
-          "original": "or a million a year—what is the difference?",
-          "originalRu": "или миллион в год — велика ли разница?"
-        },
-        {
-          "id": "sent-254",
+          "id": "sent-195",
           "text": "¿qué diferencia hay?",
-          "translationRu": "какая разница?"
+          "translationRu": "какая разница?",
+          "original": "what is the difference?",
+          "originalRu": "в чём разница?"
         },
         {
-          "id": "sent-255",
-          "text": "Un matemático o un ingenioso",
-          "translationRu": "Математик или остряк",
-          "original": "A mathematician or a wit",
-          "originalRu": "Математик или остряк"
+          "id": "sent-196",
+          "text": "Un matemático o un hombre ingenioso te daría la respuesta equivocada.",
+          "translationRu": "Математик или остроумец дал бы тебе неверный ответ.",
+          "original": "A mathematician or a wit would give you the wrong answer.",
+          "originalRu": "Математик или остряк дал бы тебе неверный ответ."
         },
         {
-          "id": "sent-256",
-          "text": "podrían darte la respuesta equivocada.",
-          "translationRu": "дали бы вам неверный ответ.",
-          "original": "would give you the wrong answer.",
-          "originalRu": "дали бы вам неверный ответ."
-        },
-        {
-          "id": "sent-257",
+          "id": "sent-197",
           "text": "Los Reyes Magos trajeron regalos valiosos,",
           "translationRu": "Волхвы принесли ценные дары,",
           "original": "The magi brought valuable gifts,",
-          "originalRu": "Волхвы принесли драгоценные дары,"
+          "originalRu": "Волхвы принесли ценные дары,"
         },
         {
-          "id": "sent-258",
+          "id": "sent-198",
           "text": "pero ese no estaba entre ellos.",
-          "translationRu": "но этого среди них не было.",
+          "translationRu": "но этого дара среди них не было.",
           "original": "but that was not among them.",
-          "originalRu": "но этого среди них не было."
+          "originalRu": "но того среди них не было."
         },
         {
-          "id": "sent-259",
-          "text": "Esta afirmación oscura",
-          "translationRu": "Это тёмное утверждение",
-          "original": "This dark assertion",
-          "originalRu": "Это тёмное утверждение"
-        },
-        {
-          "id": "sent-260",
-          "text": "se aclarará más adelante.",
-          "translationRu": "прояснится позже.",
-          "original": "will be illuminated later on.",
-          "originalRu": "прояснится несколько позже."
+          "id": "sent-199",
+          "text": "Esta afirmación oscura se aclarará más adelante.",
+          "translationRu": "Это тёмное утверждение прояснится чуть позже.",
+          "original": "This dark assertion will be illuminated later on.",
+          "originalRu": "Это тёмное утверждение будет прояснено позже."
         }
       ]
     },
@@ -1962,16 +1555,16 @@
       "id": "para-031",
       "sentences": [
         {
-          "id": "sent-261",
+          "id": "sent-200",
           "text": "Jim sacó un paquete del bolsillo de su abrigo",
-          "translationRu": "Джим вытащил пакет из кармана пальто",
+          "translationRu": "Джим достал свёрток из кармана пальто",
           "original": "Jim drew a package from his overcoat pocket",
-          "originalRu": "Джим достал из кармана пальто свёрток"
+          "originalRu": "Джим вытащил свёрток из кармана своего пальто"
         },
         {
-          "id": "sent-262",
-          "text": "y lo puso sobre la mesa.",
-          "translationRu": "и положил его на стол.",
+          "id": "sent-201",
+          "text": "y lo tiró sobre la mesa.",
+          "translationRu": "и бросил его на стол.",
           "original": "and threw it upon the table.",
           "originalRu": "и бросил его на стол."
         }
@@ -1981,58 +1574,46 @@
       "id": "para-032",
       "sentences": [
         {
-          "id": "sent-263",
-          "text": "«No te equivoques sobre mí, Dell»,",
-          "translationRu": "«Не ошибись насчёт меня, Делл», —",
-          "original": "\"Don't make any mistake, Dell,\"",
-          "originalRu": "— Не пойми меня неправильно, Делл, —"
+          "id": "sent-202",
+          "text": "—No te equivoques, Dell —dijo—.",
+          "translationRu": "— Не пойми меня неправильно, Делл, — сказал он. —",
+          "original": "\"Don't make any mistake, Dell,\" he said,",
+          "originalRu": "— Не ошибись, Делл, — сказал он. —"
         },
         {
-          "id": "sent-264",
-          "text": "dijo.",
-          "translationRu": "сказал он.",
-          "original": "he said,",
-          "originalRu": "сказал он. —"
+          "id": "sent-203",
+          "text": "No creo que haya nada,",
+          "translationRu": "Не думаю, что есть на свете",
+          "original": "\"I don't think there's anything",
+          "originalRu": "Я не думаю, что есть что-либо"
         },
         {
-          "id": "sent-265",
-          "text": "«No creo que ningún corte de pelo,",
-          "translationRu": "«Я не думаю, что какая-либо стрижка",
-          "original": "\"I don't think there's anything in the way of a haircut or a shave or a shampoo",
-          "originalRu": "Я думаю, что никакая стрижка, бритьё или мытьё головы"
+          "id": "sent-204",
+          "text": "ni un corte de pelo, ni un afeitado, ni un champú,",
+          "translationRu": "какая-нибудь стрижка, бритьё или мытьё головы,",
+          "original": "in the way of a haircut or a shave or a shampoo",
+          "originalRu": "вроде стрижки, бритья или мытья головы,"
         },
         {
-          "id": "sent-266",
-          "text": "ni ningún cambio de aspecto,",
-          "translationRu": "или перемена внешности"
-        },
-        {
-          "id": "sent-267",
-          "text": "pueda hacerme quererte menos.»",
-          "translationRu": "может заставить меня любить тебя меньше.»",
+          "id": "sent-205",
+          "text": "que pueda hacerme querer menos a mi chica.",
+          "translationRu": "из-за чего я мог бы полюбить мою девочку хоть чуточку меньше.",
           "original": "that could make me like my girl any less.",
-          "originalRu": "не заставили бы меня хоть сколько-нибудь меньше любить мою девочку."
+          "originalRu": "что могло бы заставить меня любить мою девочку хоть немного меньше."
         },
         {
-          "id": "sent-268",
-          "text": "«Pero si abres ese paquete,",
-          "translationRu": "«Но если откроешь этот пакет,",
+          "id": "sent-206",
+          "text": "Pero si desenvuelves ese paquete,",
+          "translationRu": "Но если ты развернёшь этот свёрток,",
           "original": "But if you'll unwrap that package",
           "originalRu": "Но если ты развернёшь этот свёрток,"
         },
         {
-          "id": "sent-269",
-          "text": "puede que entiendas",
-          "translationRu": "может, поймёшь,",
-          "original": "you may see",
-          "originalRu": "то поймёшь,"
-        },
-        {
-          "id": "sent-270",
-          "text": "por qué me quedé parado al principio.»",
-          "translationRu": "почему я сначала застыл.»",
-          "original": "why you had me going a while at first.\"",
-          "originalRu": "почему я сперва немного оторопел."
+          "id": "sent-207",
+          "text": "verás por qué al principio me quedé un rato así.",
+          "translationRu": "то поймёшь, почему я сперва на минуту так застыл.",
+          "original": "you may see why you had me going a while at first.\"",
+          "originalRu": "ты, может быть, поймёшь, почему я сначала на время так растерялся."
         }
       ]
     },
@@ -2040,51 +1621,39 @@
       "id": "para-033",
       "sentences": [
         {
-          "id": "sent-271",
-          "text": "Unos dedos blancos y ágiles",
-          "translationRu": "Белые и ловкие пальцы",
-          "original": "White fingers and nimble",
-          "originalRu": "Белые проворные пальцы"
+          "id": "sent-208",
+          "text": "Unos dedos blancos y ágiles rasgaron la cuerda y el papel.",
+          "translationRu": "Белые проворные пальцы разорвали бечёвку и бумагу.",
+          "original": "White fingers and nimble tore at the string and paper.",
+          "originalRu": "Белые проворные пальцы рвали бечёвку и бумагу."
         },
         {
-          "id": "sent-272",
-          "text": "desataron el cordón y el papel.",
-          "translationRu": "развязали верёвку и бумагу.",
-          "original": "tore at the string and paper.",
-          "originalRu": "рванули бечёвку и бумагу."
-        },
-        {
-          "id": "sent-273",
-          "text": "Y luego un grito de alegría,",
-          "translationRu": "А затем восторженный крик радости,",
+          "id": "sent-209",
+          "text": "Y luego un grito de dicha, extasiado;",
+          "translationRu": "А потом восторженный крик радости;",
           "original": "And then an ecstatic scream of joy;",
-          "originalRu": "А затем — восторженный крик радости;"
+          "originalRu": "А потом восторженный крик радости;"
         },
         {
-          "id": "sent-274",
-          "text": "y luego, ay,",
-          "translationRu": "и потом, увы,",
+          "id": "sent-210",
+          "text": "y luego, ¡ay!,",
+          "translationRu": "а потом, увы! —",
           "original": "and then, alas!",
-          "originalRu": "а затем, увы! —"
+          "originalRu": "а потом, увы! —"
         },
         {
-          "id": "sent-275",
-          "text": "un rápido cambio a lágrimas histéricas y gemidos.",
-          "translationRu": "стремительный переход к истерическим слезам и рыданиям.",
+          "id": "sent-211",
+          "text": "un rápido cambio femenino a lágrimas y sollozos histéricos,",
+          "translationRu": "быстрая женская перемена к истерическим слезам и рыданиям,",
           "original": "a quick feminine change to hysterical tears and wails,",
-          "originalRu": "чисто женский быстрый переход к истерическим слезам и причитаниям,"
+          "originalRu": "быстрая женская перемена к истерическим слезам и воплям,"
         },
         {
-          "id": "sent-276",
-          "text": "Jim tuvo que usar todos sus poderes",
-          "translationRu": "Джиму пришлось использовать все свои силы,",
+          "id": "sent-212",
+          "text": "que exigió emplear de inmediato todo el poder de consuelo del señor del piso.",
+          "translationRu": "потребовавшая немедленно пустить в ход всю утешительную силу хозяина квартиры.",
           "original": "necessitating the immediate employment of all the comforting powers of the lord of the flat.",
-          "originalRu": "потребовавший, чтобы хозяин квартиры немедля пустил в ход все свои утешительные силы."
-        },
-        {
-          "id": "sent-277",
-          "text": "para consolarla.",
-          "translationRu": "чтобы успокоить её."
+          "originalRu": "потребовавшая немедленного применения всей утешительной силы господина этой квартиры."
         }
       ]
     },
@@ -2092,98 +1661,81 @@
       "id": "para-034",
       "sentences": [
         {
-          "id": "sent-278",
-          "text": "Porque allí estaban los peines:",
-          "translationRu": "Потому что там лежали гребни:",
-          "original": "For there lay The Combs—the set of combs, side and back,",
-          "originalRu": "Ибо там лежали Гребни — тот самый набор гребней, боковые и задний,"
+          "id": "sent-213",
+          "text": "Pues allí estaban Las Peinetas:",
+          "translationRu": "Ибо там лежали Те Самые Гребни —",
+          "original": "For there lay The Combs—",
+          "originalRu": "Ибо там лежали Те Самые Гребни —"
         },
         {
-          "id": "sent-279",
-          "text": "el juego de peines, de lado y de atrás,",
-          "translationRu": "набор гребней, боковых и заднего,"
+          "id": "sent-214",
+          "text": "el juego de peinetas, laterales y de atrás,",
+          "translationRu": "тот набор гребней, боковых и заднего,",
+          "original": "the set of combs, side and back,",
+          "originalRu": "тот набор гребней, боковых и заднего,"
         },
         {
-          "id": "sent-280",
-          "text": "que Della había admirado durante mucho tiempo",
-          "translationRu": "которыми Делла давно восхищалась",
-          "original": "that Della had worshipped long",
-          "originalRu": "на которые Делла давно с обожанием засматривалась"
+          "id": "sent-215",
+          "text": "que Della había adorado durante mucho tiempo en un escaparate de Broadway.",
+          "translationRu": "которым Делла давно любовалась в витрине на Бродвее.",
+          "original": "that Della had worshipped long in a Broadway window.",
+          "originalRu": "которым Делла долго восхищалась в витрине на Бродвее."
         },
         {
-          "id": "sent-281",
-          "text": "en un escaparate de Broadway.",
-          "translationRu": "в витрине магазина на Бродвее.",
-          "original": "in a Broadway window.",
-          "originalRu": "в одной витрине на Бродвее."
-        },
-        {
-          "id": "sent-282",
-          "text": "Hermosos peines de carey puro,",
-          "translationRu": "Прекрасные гребни из чистой черепахи,",
+          "id": "sent-216",
+          "text": "Peinetas preciosas, de auténtico carey,",
+          "translationRu": "Прекрасные гребни, из чистого черепахового панциря,",
           "original": "Beautiful combs, pure tortoise shell,",
-          "originalRu": "Чудесные гребни из чистой черепаховой кости,"
+          "originalRu": "Прекрасные гребни, из чистого черепахового панциря,"
         },
         {
-          "id": "sent-283",
-          "text": "con bordes de joyas,",
-          "translationRu": "с ювелирной отделкой по краям,",
-          "original": "with jewelled rims—just the shade",
-          "originalRu": "с усыпанными самоцветами краями — как раз того оттенка,"
+          "id": "sent-217",
+          "text": "con los bordes cubiertos de piedras,",
+          "translationRu": "с усыпанными камнями краями —",
+          "original": "with jewelled rims—",
+          "originalRu": "с украшенными самоцветами краями —"
         },
         {
-          "id": "sent-284",
-          "text": "exactamente del tono",
-          "translationRu": "именно того оттенка,"
+          "id": "sent-218",
+          "text": "justo del tono para lucir en el hermoso pelo desaparecido.",
+          "translationRu": "как раз того оттенка, чтобы носить их в тех прекрасных, теперь исчезнувших волосах.",
+          "original": "just the shade to wear in the beautiful vanished hair.",
+          "originalRu": "как раз того оттенка, чтобы носить в прекрасных исчезнувших волосах."
         },
         {
-          "id": "sent-285",
-          "text": "para llevar en el hermoso pelo desaparecido.",
-          "translationRu": "чтобы носить в красивых исчезнувших волосах.",
-          "original": "to wear in the beautiful vanished hair.",
-          "originalRu": "чтобы носить их в прекрасных, ныне исчезнувших волосах."
-        },
-        {
-          "id": "sent-286",
-          "text": "Eran peines caros, ella lo sabía,",
-          "translationRu": "Это были дорогие гребни, она знала,",
+          "id": "sent-219",
+          "text": "Eran peinetas caras, ella lo sabía,",
+          "translationRu": "Это были дорогие гребни, она это знала,",
           "original": "They were expensive combs, she knew,",
-          "originalRu": "Это были дорогие гребни, она это знала,"
+          "originalRu": "Это были дорогие гребни, она знала,"
         },
         {
-          "id": "sent-287",
-          "text": "y su corazón los había deseado",
-          "translationRu": "и сердце её томилось по ним",
+          "id": "sent-220",
+          "text": "y su corazón simplemente las había ansiado y deseado",
+          "translationRu": "и её сердце просто жаждало и томилось по ним,",
           "original": "and her heart had simply craved and yearned over them",
-          "originalRu": "и сердце её просто изнывало и томилось по ним,"
+          "originalRu": "и её сердце просто страстно желало их и томилось по ним"
         },
         {
-          "id": "sent-288",
-          "text": "sin ninguna esperanza de poseerlos.",
-          "translationRu": "без малейшей надежды когда-нибудь иметь их.",
+          "id": "sent-221",
+          "text": "sin la menor esperanza de tenerlas.",
+          "translationRu": "без малейшей надежды завладеть ими.",
           "original": "without the least hope of possession.",
-          "originalRu": "без малейшей надежды когда-нибудь ими обладать."
+          "originalRu": "без малейшей надежды на обладание."
         },
         {
-          "id": "sent-289",
-          "text": "Y ahora eran suyos,",
-          "translationRu": "И вот они были её,",
+          "id": "sent-222",
+          "text": "Y ahora eran suyas,",
+          "translationRu": "И вот теперь они были её,",
           "original": "And now, they were hers,",
           "originalRu": "И вот теперь они были её,"
         },
         {
-          "id": "sent-290",
-          "text": "pero el pelo que debía adornarlos",
-          "translationRu": "но волосы, которые должны были их украшать,",
-          "original": "but the tresses that should have adorned the coveted adornments",
-          "originalRu": "но кудрей, которые должны были украсить это вожделенное украшение,"
-        },
-        {
-          "id": "sent-291",
-          "text": "había desaparecido.",
-          "translationRu": "исчезли.",
-          "original": "were gone.",
-          "originalRu": "уже не было."
+          "id": "sent-223",
+          "text": "pero los cabellos que debían adornar los codiciados adornos ya no estaban.",
+          "translationRu": "но локонов, которым надлежало украсить эти желанные украшения, больше не было.",
+          "original": "but the tresses that should have adorned the coveted adornments were gone.",
+          "originalRu": "но кос, которым следовало бы украсить эти вожделенные украшения, больше не было."
         }
       ]
     },
@@ -2191,39 +1743,32 @@
       "id": "para-035",
       "sentences": [
         {
-          "id": "sent-292",
-          "text": "Pero los apretó contra su pecho,",
-          "translationRu": "Но она прижала их к груди,",
+          "id": "sent-224",
+          "text": "Pero ella las apretó contra su pecho,",
+          "translationRu": "Но она прижала их к груди",
           "original": "But she hugged them to her bosom,",
-          "originalRu": "Но она прижала их к груди"
+          "originalRu": "Но она прижала их к своей груди"
         },
         {
-          "id": "sent-293",
-          "text": "y al final pudo levantar los ojos",
-          "translationRu": "и наконец смогла поднять глаза",
+          "id": "sent-225",
+          "text": "y al fin logró alzar los ojos empañados,",
+          "translationRu": "и наконец сумела поднять затуманенные глаза,",
           "original": "and at length she was able to look up with dim eyes",
-          "originalRu": "и наконец сумела поднять затуманенные глаза,"
+          "originalRu": "и наконец смогла поднять затуманенные глаза"
         },
         {
-          "id": "sent-294",
-          "text": "con una sonrisa entre las lágrimas",
-          "translationRu": "с улыбкой сквозь слёзы",
-          "original": "and a smile",
-          "originalRu": "улыбнуться"
+          "id": "sent-226",
+          "text": "con una sonrisa, y decir:",
+          "translationRu": "с улыбкой и сказать:",
+          "original": "and a smile and say:",
+          "originalRu": "с улыбкой и сказать:"
         },
         {
-          "id": "sent-295",
-          "text": "y decir:",
-          "translationRu": "и сказать:",
-          "original": "and say:",
-          "originalRu": "и сказать:"
-        },
-        {
-          "id": "sent-296",
-          "text": "«Mi pelo crece muy rápido, Jim.»",
-          "translationRu": "«Мои волосы растут очень быстро, Джим.»",
+          "id": "sent-227",
+          "text": "«¡Mi pelo crece muy rápido, Jim!»",
+          "translationRu": "«Волосы у меня растут так быстро, Джим!»",
           "original": "\"My hair grows so fast, Jim!\"",
-          "originalRu": "— У меня волосы так быстро растут, Джим!"
+          "originalRu": "«Мои волосы растут так быстро, Джим!»"
         }
       ]
     },
@@ -2231,18 +1776,18 @@
       "id": "para-036",
       "sentences": [
         {
-          "id": "sent-297",
-          "text": "Y entonces Della saltó como un gatito",
-          "translationRu": "И тут Делла вскочила, как котёнок,",
+          "id": "sent-228",
+          "text": "Y entonces Della saltó como un gatito chamuscado",
+          "translationRu": "А потом Делла подскочила, как ошпаренная кошечка,",
           "original": "And then Della leaped up like a little singed cat",
-          "originalRu": "А затем Делла подскочила, точно ошпаренная кошечка,"
+          "originalRu": "А потом Делла подскочила, как маленькая опалённая кошка,"
         },
         {
-          "id": "sent-298",
-          "text": "y exclamó: «¡Oh, oh!»",
-          "translationRu": "и воскликнула: «Ах, ах!»",
+          "id": "sent-229",
+          "text": "y gritó: «¡Oh, oh!»",
+          "translationRu": "и вскрикнула: «Ах, ах!»",
           "original": "and cried, \"Oh, oh!\"",
-          "originalRu": "и вскрикнула: — Ах, ах!"
+          "originalRu": "и вскрикнула: «Ах, ах!»"
         }
       ]
     },
@@ -2250,46 +1795,32 @@
       "id": "para-037",
       "sentences": [
         {
-          "id": "sent-299",
-          "text": "Jim todavía no había visto su hermoso regalo.",
-          "translationRu": "Джим ещё не видел её прекрасного подарка.",
+          "id": "sent-230",
+          "text": "Jim aún no había visto su hermoso regalo.",
+          "translationRu": "Джим ещё не видел своего прекрасного подарка.",
           "original": "Jim had not yet seen his beautiful present.",
           "originalRu": "Джим ещё не видел своего прекрасного подарка."
         },
         {
-          "id": "sent-300",
-          "text": "Ella se lo tendió con entusiasmo",
-          "translationRu": "Она протянула его с воодушевлением",
-          "original": "She held it out to him eagerly",
-          "originalRu": "Она нетерпеливо протянула его ему"
+          "id": "sent-231",
+          "text": "Ella se lo tendió con ansia en la palma abierta.",
+          "translationRu": "Она нетерпеливо протянула ему его на раскрытой ладони.",
+          "original": "She held it out to him eagerly upon her open palm.",
+          "originalRu": "Она с жаром протянула ему его на раскрытой ладони."
         },
         {
-          "id": "sent-301",
-          "text": "en la palma abierta de la mano.",
-          "translationRu": "на раскрытой ладони.",
-          "original": "upon her open palm.",
-          "originalRu": "на раскрытой ладони."
+          "id": "sent-232",
+          "text": "El metal precioso y opaco pareció brillar",
+          "translationRu": "Тусклый драгоценный металл словно вспыхнул,",
+          "original": "The dull precious metal seemed to flash",
+          "originalRu": "Тусклый драгоценный металл, казалось, сверкнул"
         },
         {
-          "id": "sent-302",
-          "text": "El metal apagado y precioso",
-          "translationRu": "Тусклый драгоценный металл,",
-          "original": "The dull precious metal",
-          "originalRu": "Тусклый драгоценный металл"
-        },
-        {
-          "id": "sent-303",
-          "text": "parecía brillar",
-          "translationRu": "казалось, сиял",
-          "original": "seemed to flash",
-          "originalRu": "словно вспыхнул,"
-        },
-        {
-          "id": "sent-304",
-          "text": "con el reflejo de su espíritu brillante y ardiente.",
-          "translationRu": "отражением её яркого и пылкого духа.",
+          "id": "sent-233",
+          "text": "con un reflejo de su espíritu vivo y ardiente.",
+          "translationRu": "отразив её живую и пылкую душу.",
           "original": "with a reflection of her bright and ardent spirit.",
-          "originalRu": "отразив её светлый и пылкий дух."
+          "originalRu": "отражением её светлого и пылкого духа."
         }
       ]
     },
@@ -2297,53 +1828,39 @@
       "id": "para-038",
       "sentences": [
         {
-          "id": "sent-305",
-          "text": "«¿No es precioso, Jim?",
-          "translationRu": "«Разве это не прелесть, Джим?",
+          "id": "sent-234",
+          "text": "—¿Verdad que es una maravilla, Jim?",
+          "translationRu": "— Ну разве не прелесть, Джим?",
           "original": "\"Isn't it a dandy, Jim?",
-          "originalRu": "— Ну разве не прелесть, Джим?"
+          "originalRu": "— Разве не прелесть, Джим?"
         },
         {
-          "id": "sent-306",
-          "text": "Busqué por toda la ciudad",
-          "translationRu": "Я искала по всему городу,",
-          "original": "I hunted all over town",
-          "originalRu": "Я обегала весь город,"
+          "id": "sent-235",
+          "text": "Recorrí toda la ciudad para encontrarla.",
+          "translationRu": "Я обшарила весь город, чтобы её найти.",
+          "original": "I hunted all over town to find it.",
+          "originalRu": "Я обыскала весь город, чтобы её найти."
         },
         {
-          "id": "sent-307",
-          "text": "para encontrarlo.»",
-          "translationRu": "чтобы найти его.»",
-          "original": "to find it.",
-          "originalRu": "пока её отыскала."
+          "id": "sent-236",
+          "text": "Ahora tendrás que mirar la hora cien veces al día.",
+          "translationRu": "Теперь тебе придётся смотреть на время по сто раз в день.",
+          "original": "You'll have to look at the time a hundred times a day now.",
+          "originalRu": "Теперь тебе придётся смотреть на время по сто раз в день."
         },
         {
-          "id": "sent-308",
-          "text": "«Ahora tendrás que mirar la hora",
-          "translationRu": "«Теперь тебе придётся смотреть на время",
-          "original": "You'll have to look at the time",
-          "originalRu": "Теперь тебе придётся смотреть на время"
-        },
-        {
-          "id": "sent-309",
-          "text": "cien veces al día.»",
-          "translationRu": "сто раз в день.»",
-          "original": "a hundred times a day now.",
-          "originalRu": "по сто раз на дню."
-        },
-        {
-          "id": "sent-310",
-          "text": "«Dame tu reloj.",
-          "translationRu": "«Дай мне часы.",
+          "id": "sent-237",
+          "text": "Dame tu reloj.",
+          "translationRu": "Дай-ка твои часы.",
           "original": "Give me your watch.",
-          "originalRu": "Дай-ка мне твои часы."
+          "originalRu": "Дай мне твои часы."
         },
         {
-          "id": "sent-311",
-          "text": "Quiero ver cómo queda.»",
-          "translationRu": "Хочу посмотреть, как это смотрится.»",
+          "id": "sent-238",
+          "text": "Quiero ver cómo le queda.",
+          "translationRu": "Хочу посмотреть, как она на них смотрится.",
           "original": "I want to see how it looks on it.\"",
-          "originalRu": "Хочу посмотреть, как она будет на них смотреться."
+          "originalRu": "Я хочу посмотреть, как она на них выглядит."
         }
       ]
     },
@@ -2351,28 +1868,28 @@
       "id": "para-039",
       "sentences": [
         {
-          "id": "sent-312",
+          "id": "sent-239",
           "text": "En lugar de obedecer,",
-          "translationRu": "Вместо того чтобы выполнить просьбу,",
+          "translationRu": "Вместо того чтобы послушаться,",
           "original": "Instead of obeying,",
-          "originalRu": "Но вместо того чтобы послушаться,"
+          "originalRu": "Вместо того чтобы послушаться,"
         },
         {
-          "id": "sent-313",
+          "id": "sent-240",
           "text": "Jim se dejó caer en el sofá,",
-          "translationRu": "Джим опустился на диван,",
+          "translationRu": "Джим повалился на кушетку,",
           "original": "Jim tumbled down on the couch",
           "originalRu": "Джим повалился на кушетку,"
         },
         {
-          "id": "sent-314",
-          "text": "puso las manos detrás de la cabeza",
+          "id": "sent-241",
+          "text": "puso las manos bajo la nuca",
           "translationRu": "заложил руки за голову",
           "original": "and put his hands under the back of his head",
-          "originalRu": "заложил руки за голову"
+          "originalRu": "и заложил руки за голову"
         },
         {
-          "id": "sent-315",
+          "id": "sent-242",
           "text": "y sonrió.",
           "translationRu": "и улыбнулся.",
           "original": "and smiled.",
@@ -2384,60 +1901,46 @@
       "id": "para-040",
       "sentences": [
         {
-          "id": "sent-316",
-          "text": "«Dell», dijo él,",
-          "translationRu": "«Делл», — сказал он, —",
+          "id": "sent-243",
+          "text": "—Dell —dijo—,",
+          "translationRu": "— Делл, — сказал он, —",
           "original": "\"Dell,\" said he,",
           "originalRu": "— Делл, — сказал он, —"
         },
         {
-          "id": "sent-317",
-          "text": "«guardemos nuestros regalos de Navidad por un tiempo.»",
-          "translationRu": "«давай спрячем наши рождественские подарки на время.»",
-          "original": "\"let's put our Christmas presents away and keep 'em a while.",
-          "originalRu": "давай-ка уберём наши рождественские подарки и подержим их пока в стороне."
+          "id": "sent-244",
+          "text": "guardemos nuestros regalos de Navidad",
+          "translationRu": "давай уберём наши рождественские подарки",
+          "original": "\"let's put our Christmas presents away",
+          "originalRu": "давай отложим наши рождественские подарки"
         },
         {
-          "id": "sent-318",
-          "text": "«Son demasiado bonitos",
-          "translationRu": "«Они слишком красивы,",
-          "original": "They're too nice",
-          "originalRu": "Они слишком хороши,"
+          "id": "sent-245",
+          "text": "y dejémoslos un tiempo.",
+          "translationRu": "и приберём их на время.",
+          "original": "and keep 'em a while.",
+          "originalRu": "и попридержим их какое-то время."
         },
         {
-          "id": "sent-319",
-          "text": "para usarlos ahora mismo.»",
-          "translationRu": "чтобы пользоваться ими прямо сейчас.»",
-          "original": "to use just at present.",
-          "originalRu": "чтобы пускать их в ход прямо сейчас."
+          "id": "sent-246",
+          "text": "Son demasiado buenos para usarlos justo ahora.",
+          "translationRu": "Они слишком хороши, чтобы пользоваться ими прямо сейчас.",
+          "original": "They're too nice to use just at present.",
+          "originalRu": "Они слишком хороши, чтобы пользоваться ими прямо сейчас."
         },
         {
-          "id": "sent-320",
-          "text": "«Vendí el reloj",
-          "translationRu": "«Я продал часы,",
-          "original": "I sold the watch",
-          "originalRu": "Я продал часы,"
+          "id": "sent-247",
+          "text": "Vendí el reloj para tener el dinero de tus peinetas.",
+          "translationRu": "Я продал часы, чтобы достать денег на твои гребни.",
+          "original": "I sold the watch to get the money to buy your combs.",
+          "originalRu": "Я продал часы, чтобы добыть денег на покупку твоих гребней."
         },
         {
-          "id": "sent-321",
-          "text": "para conseguir el dinero",
-          "translationRu": "чтобы получить деньги",
-          "original": "to get the money",
-          "originalRu": "чтобы добыть денег"
-        },
-        {
-          "id": "sent-322",
-          "text": "para comprar tus peines.»",
-          "translationRu": "на твои гребни.»",
-          "original": "to buy your combs.",
-          "originalRu": "на твои гребни."
-        },
-        {
-          "id": "sent-323",
-          "text": "«Y ahora pon las chuletas.»",
-          "translationRu": "«А теперь поставь отбивные.»",
+          "id": "sent-248",
+          "text": "Y ahora, ¿por qué no pones las chuletas?",
+          "translationRu": "А теперь, может, поставишь отбивные?",
           "original": "And now suppose you put the chops on.\"",
-          "originalRu": "А теперь, пожалуй, ставь котлеты."
+          "originalRu": "А теперь, может, ты поставишь отбивные."
         }
       ]
     },
@@ -2445,143 +1948,105 @@
       "id": "para-041",
       "sentences": [
         {
-          "id": "sent-324",
-          "text": "Los Reyes Magos, como saben,",
-          "translationRu": "Волхвы, как вы знаете,",
-          "original": "The magi, as you know,",
-          "originalRu": "Волхвы, как вы знаете,"
+          "id": "sent-249",
+          "text": "Los Reyes Magos, como sabes, eran hombres sabios,",
+          "translationRu": "Волхвы, как ты знаешь, были мудрецы —",
+          "original": "The magi, as you know, were wise men—",
+          "originalRu": "Волхвы, как ты знаешь, были мудрецы —"
         },
         {
-          "id": "sent-325",
-          "text": "eran hombres sabios,",
-          "translationRu": "были мудрыми людьми —",
-          "original": "were wise men—wonderfully wise men—who brought gifts to the Babe in the manger.",
-          "originalRu": "были мудрецы — на удивление мудрые люди, — что принесли дары Младенцу в яслях."
-        },
-        {
-          "id": "sent-326",
+          "id": "sent-250",
           "text": "hombres maravillosamente sabios,",
-          "translationRu": "удивительно мудрыми людьми, —"
+          "translationRu": "удивительно мудрые люди, —",
+          "original": "wonderfully wise men—",
+          "originalRu": "удивительно мудрые люди, —"
         },
         {
-          "id": "sent-327",
-          "text": "que trajeron regalos al Niño en el pesebre.",
-          "translationRu": "которые принесли дары Младенцу в яслях."
+          "id": "sent-251",
+          "text": "que llevaron regalos al Niño en el pesebre.",
+          "translationRu": "которые принесли дары Младенцу в яслях.",
+          "original": "who brought gifts to the Babe in the manger.",
+          "originalRu": "которые принесли дары Младенцу в яслях."
         },
         {
-          "id": "sent-328",
-          "text": "Ellos inventaron el arte",
-          "translationRu": "Они изобрели искусство",
-          "original": "They invented the art",
-          "originalRu": "Они-то и изобрели искусство"
+          "id": "sent-252",
+          "text": "Ellos inventaron el arte de hacer regalos de Navidad.",
+          "translationRu": "Они изобрели искусство дарить рождественские подарки.",
+          "original": "They invented the art of giving Christmas presents.",
+          "originalRu": "Они изобрели искусство дарить рождественские подарки."
         },
         {
-          "id": "sent-329",
-          "text": "de dar regalos de Navidad.",
-          "translationRu": "дарить рождественские подарки.",
-          "original": "of giving Christmas presents.",
-          "originalRu": "дарить рождественские подарки."
+          "id": "sent-253",
+          "text": "Como eran sabios, sus regalos sin duda eran sabios,",
+          "translationRu": "Будучи мудрыми, они, без сомнения, приносили и мудрые дары,",
+          "original": "Being wise, their gifts were no doubt wise ones,",
+          "originalRu": "Будучи мудрыми, их дары, без сомнения, были мудрыми дарами,"
         },
         {
-          "id": "sent-330",
-          "text": "Siendo sabios,",
-          "translationRu": "Будучи мудрыми,",
-          "original": "Being wise,",
-          "originalRu": "Будучи мудры,"
+          "id": "sent-254",
+          "text": "quizá con el derecho a cambiarlos en caso de repetición.",
+          "translationRu": "быть может, с правом обменять их, если случится повтор.",
+          "original": "possibly bearing the privilege of exchange in case of duplication.",
+          "originalRu": "возможно, дававшими право обмена в случае повторения."
         },
         {
-          "id": "sent-331",
-          "text": "sus regalos eran sin duda sabios también,",
-          "translationRu": "их дары были, без сомнения, тоже мудрыми,",
-          "original": "their gifts were no doubt wise ones,",
-          "originalRu": "они, без сомнения, и дары приносили мудрые,"
-        },
-        {
-          "id": "sent-332",
-          "text": "y quizás se podían cambiar",
-          "translationRu": "и, возможно, их можно было обменять",
-          "original": "possibly bearing the privilege of exchange",
-          "originalRu": "возможно, с правом обмена"
-        },
-        {
-          "id": "sent-333",
-          "text": "en caso de repetición.",
-          "translationRu": "в случае дублирования.",
-          "original": "in case of duplication.",
-          "originalRu": "на случай повторения."
-        },
-        {
-          "id": "sent-334",
-          "text": "Y aquí les he contado la historia sin grandes eventos",
-          "translationRu": "И вот я рассказал вам безыскусную историю",
+          "id": "sent-255",
+          "text": "Y aquí os he contado con torpeza la crónica sin sucesos",
+          "translationRu": "И вот я неумело поведал вам ничем не примечательную историю",
           "original": "And here I have lamely related to you the uneventful chronicle",
-          "originalRu": "И вот я нескладно поведал вам ничем не примечательную историю"
+          "originalRu": "И вот я неуклюже поведал вам небогатую событиями летопись"
         },
         {
-          "id": "sent-335",
-          "text": "de dos niños tontos en un apartamento",
-          "translationRu": "двух глупых детей в квартире,",
+          "id": "sent-256",
+          "text": "de dos niños tontos en un piso",
+          "translationRu": "о двух глупых детях в квартирке,",
           "original": "of two foolish children in a flat",
-          "originalRu": "о двух глупых детях в квартирке,"
+          "originalRu": "о двух глупых детях в квартире,"
         },
         {
-          "id": "sent-336",
-          "text": "que sacrificaron el uno por el otro",
-          "translationRu": "которые пожертвовали ради друг друга",
+          "id": "sent-257",
+          "text": "que, muy poco sabiamente, sacrificaron el uno por el otro",
+          "translationRu": "которые самым неразумным образом пожертвовали друг для друга",
           "original": "who most unwisely sacrificed for each other",
-          "originalRu": "которые самым неразумным образом пожертвовали друг ради друга"
+          "originalRu": "которые самым неразумным образом пожертвовали друг для друга"
         },
         {
-          "id": "sent-337",
-          "text": "los mayores tesoros de su hogar.",
+          "id": "sent-258",
+          "text": "los mayores tesoros de su casa.",
           "translationRu": "величайшими сокровищами своего дома.",
           "original": "the greatest treasures of their house.",
-          "originalRu": "величайшие сокровища своего дома."
+          "originalRu": "величайшими сокровищами своего дома."
         },
         {
-          "id": "sent-338",
-          "text": "Pero una última palabra para los sabios de estos días:",
-          "translationRu": "Но последнее слово для мудрых наших дней:",
+          "id": "sent-259",
+          "text": "Pero, como última palabra a los sabios de hoy,",
+          "translationRu": "Но да будет сказано, в последнее слово нынешним мудрецам,",
           "original": "But in a last word to the wise of these days let it be said",
-          "originalRu": "Но да будет сказано в назидание мудрецам наших дней,"
+          "originalRu": "Но в последнем слове к мудрецам наших дней да будет сказано,"
         },
         {
-          "id": "sent-339",
-          "text": "de todos los que dan regalos,",
-          "translationRu": "из всех, кто дарит подарки,",
-          "original": "that of all who give gifts",
-          "originalRu": "что из всех, кто подносит дары,"
+          "id": "sent-260",
+          "text": "que de todos los que hacen regalos, estos dos fueron los más sabios.",
+          "translationRu": "что из всех, кто дарит подарки, эти двое были мудрее всех.",
+          "original": "that of all who give gifts these two were the wisest.",
+          "originalRu": "что из всех, кто дарит подарки, эти двое были мудрейшими."
         },
         {
-          "id": "sent-340",
-          "text": "estos dos fueron los más sabios.",
-          "translationRu": "эти двое были самыми мудрыми.",
-          "original": "these two were the wisest.",
-          "originalRu": "эти двое были мудрее всех."
+          "id": "sent-261",
+          "text": "De todos los que dan y reciben regalos, los que son como ellos son los más sabios.",
+          "translationRu": "Из всех, кто дарит и принимает подарки, такие, как они, мудрее всех.",
+          "original": "Of all who give and receive gifts, such as they are wisest.",
+          "originalRu": "Из всех, кто дарит и принимает подарки, такие, как они, мудрейшие."
         },
         {
-          "id": "sent-341",
-          "text": "De todos los que dan y reciben regalos,",
-          "translationRu": "Из всех, кто дарит и получает подарки,",
-          "original": "Of all who give and receive gifts,",
-          "originalRu": "Из всех, кто дарит и принимает дары,"
-        },
-        {
-          "id": "sent-342",
-          "text": "como ellos son los más sabios.",
-          "translationRu": "такие, как они, — мудрейшие.",
-          "original": "such as they are wisest.",
-          "originalRu": "мудрее всех такие, как они."
-        },
-        {
-          "id": "sent-343",
+          "id": "sent-262",
           "text": "En todas partes son los más sabios.",
-          "translationRu": "Везде они мудрейшие.",
+          "translationRu": "Везде и всюду они мудрее всех.",
           "original": "Everywhere they are wisest.",
-          "originalRu": "Везде и всюду они мудрее всех."
+          "originalRu": "Повсюду они мудрейшие."
         },
         {
-          "id": "sent-344",
+          "id": "sent-263",
           "text": "Ellos son los Reyes Magos.",
           "translationRu": "Они и есть волхвы.",
           "original": "They are the magi.",

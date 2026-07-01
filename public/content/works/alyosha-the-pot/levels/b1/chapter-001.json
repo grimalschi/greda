@@ -13,38 +13,44 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Alioshka era el hermano menor.",
-          "translationRu": "Алёшка был младшим братом.",
+          "text": "Aliosha era el hermano menor.",
+          "translationRu": "Алёшка был меньшой брат.",
           "original": "Алешка был меньшой брат."
         },
         {
           "id": "sent-002",
-          "text": "Le pusieron el apodo de Pucherito.",
-          "translationRu": "Ему дали прозвище Горшок.",
-          "original": "Прозвали его Горшком за то,"
+          "text": "Lo llamaron «Puchero»",
+          "translationRu": "Прозвали его Горшком",
+          "original": "Прозвали его Горшком"
         },
         {
           "id": "sent-003",
-          "text": "Una vez su madre lo mandó a llevar un puchero de leche a la mujer del diácono.",
-          "translationRu": "Однажды мать послала его отнести горшок молока жене дьякона.",
-          "original": "что мать послала его снести горшок молока дьяконице,"
+          "text": "porque su madre lo mandó a llevar un puchero de leche a la mujer del diácono,",
+          "translationRu": "за то, что мать послала его снести горшок молока дьяконице,",
+          "original": "за то, что мать послала его снести горшок молока дьяконице,"
         },
         {
           "id": "sent-004",
-          "text": "Pero él tropezó y rompió el puchero.",
-          "translationRu": "Но он споткнулся и разбил горшок.",
+          "text": "pero él tropezó y rompió el puchero.",
+          "translationRu": "а он споткнулся и разбил горшок.",
           "original": "а он споткнулся и разбил горшок."
         },
         {
           "id": "sent-005",
-          "text": "La madre le pegó, y los otros niños empezaron a burlarse de él llamándolo «Pucherito».",
-          "translationRu": "Мать побила его, а другие дети стали дразнить его «Горшком».",
-          "original": "Мать побила его, а ребята стали дразнить его «Горшком»."
+          "text": "La madre le pegó,",
+          "translationRu": "Мать побила его,",
+          "original": "Мать побила его,"
         },
         {
           "id": "sent-006",
-          "text": "Alioshka Pucherito: así le quedó el apodo.",
-          "translationRu": "Алёшка Горшок — так и осталось за ним это прозвище.",
+          "text": "y los chicos empezaron a burlarse de él llamándolo «Puchero».",
+          "translationRu": "а ребята стали дразнить его «Горшком».",
+          "original": "а ребята стали дразнить его «Горшком»."
+        },
+        {
+          "id": "sent-007",
+          "text": "Aliosha el Puchero: así le quedó el apodo.",
+          "translationRu": "Алёшка Горшок — так и пошло ему прозвище.",
           "original": "Алешка Горшок — так и пошло ему прозвище."
         }
       ]
@@ -53,82 +59,130 @@
       "id": "para-002",
       "sentences": [
         {
-          "id": "sent-007",
-          "text": "Alioshka era un muchacho delgado y orejudo.",
-          "translationRu": "Алёшка был худой и лопоухий мальчишка.",
+          "id": "sent-008",
+          "text": "Aliosha era un muchacho flaco, con las orejas de soplillo",
+          "translationRu": "Алёшка был малый худощавый, лопоухий",
           "original": "Алешка был малый худощавый, лопоухий"
         },
         {
-          "id": "sent-008",
-          "text": "Sus orejas sobresalían como alas, y tenía la nariz grande.",
-          "translationRu": "Уши у него торчали, как крылья, и нос был большой.",
-          "original": "(уши торчали, как крылья), и нос был большой."
-        },
-        {
           "id": "sent-009",
-          "text": "Los niños se burlaban: «¡La nariz de Alioshka es como un perro en una loma!».",
-          "translationRu": "Дети дразнили: «Нос у Алёшки, как пёс на бугре!».",
-          "original": "Ребята дразнили: «У Алешки нос, как кобель на бугре»."
+          "text": "(las orejas le sobresalían como alas),",
+          "translationRu": "(уши торчали, как крылья),",
+          "original": "(уши торчали, как крылья),"
         },
         {
           "id": "sent-010",
-          "text": "En el pueblo había una escuela, pero a Aliosha no se le dio la lectura, y además no tenía tiempo para estudiar.",
-          "translationRu": "В деревне была школа, но грамота не далась Алёше, да и времени учиться не было.",
-          "original": "В деревне была школа, но грамота не далась Алеше, да и некогда было учиться."
+          "text": "y tenía la nariz grande.",
+          "translationRu": "и нос был большой.",
+          "original": "и нос был большой."
         },
         {
           "id": "sent-011",
-          "text": "Su hermano mayor vivía en la ciudad con un comerciante, y Alioshka, desde muy pequeño, empezó a ayudar a su padre.",
-          "translationRu": "Старший брат жил в городе у купца, и Алёшка с малых лет начал помогать отцу.",
-          "original": "Старший брат жил у купца в городе, и Алешка сызмальства стал помогать отцу."
+          "text": "Los chicos lo provocaban:",
+          "translationRu": "Ребята дразнили:",
+          "original": "Ребята дразнили:"
         },
         {
           "id": "sent-012",
-          "text": "Tenía seis años, y ya cuidaba en el pastizal las ovejas y la vaca con su hermanita.",
-          "translationRu": "Ему было шесть лет, а он уже на выгоне стерёг овец и корову вместе с сестрёнкой.",
-          "original": "Ему было шесть лет, уж он с девчонкой-сестрой овец и корову стерег на выгоне,"
+          "text": "«La nariz de Aliosha es como un perro en una loma».",
+          "translationRu": "«У Алёшки нос, как кобель на бугре».",
+          "original": "«У Алешки нос, как кобель на бугре»."
         },
         {
           "id": "sent-013",
-          "text": "Y cuando creció un poco, empezó a cuidar los caballos de día y de noche.",
-          "translationRu": "А когда подрос, стал стеречь лошадей и днём, и ночью.",
-          "original": "а еще подрос, стал лошадей стеречь и в денном и в ночном."
+          "text": "En el pueblo había una escuela,",
+          "translationRu": "В деревне была школа,",
+          "original": "В деревне была школа,"
         },
         {
           "id": "sent-014",
-          "text": "Desde los doce años ya araba y acarreaba.",
-          "translationRu": "С двенадцати лет он уже пахал и возил.",
-          "original": "С двенадцати лет уж он пахал и возил."
+          "text": "pero a Aliosha no se le dio la lectura,",
+          "translationRu": "но грамота не далась Алёше,",
+          "original": "но грамота не далась Алеше,"
         },
         {
           "id": "sent-015",
-          "text": "No tenía fuerza, pero tenía maña.",
-          "translationRu": "Силы у него не было, но была сноровка.",
-          "original": "Силы не было, а ухватка была."
+          "text": "y además no había tiempo para estudiar.",
+          "translationRu": "да и некогда было учиться.",
+          "original": "да и некогда было учиться."
         },
         {
           "id": "sent-016",
-          "text": "Siempre estaba alegre.",
-          "translationRu": "Он всегда был весёлый.",
-          "original": "Всегда он был весел."
+          "text": "El hermano mayor vivía en la ciudad, en casa de un comerciante,",
+          "translationRu": "Старший брат жил у купца в городе,",
+          "original": "Старший брат жил у купца в городе,"
         },
         {
           "id": "sent-017",
-          "text": "Los niños se reían de él; él callaba o se reía también.",
-          "translationRu": "Дети смеялись над ним; он молчал или тоже смеялся.",
-          "original": "Ребята смеялись над ним; он молчал либо смеялся."
+          "text": "y Aliosha, desde pequeño, empezó a ayudar a su padre.",
+          "translationRu": "и Алёшка сызмальства стал помогать отцу.",
+          "original": "и Алешка сызмальства стал помогать отцу."
         },
         {
           "id": "sent-018",
-          "text": "Si el padre lo regañaba, él callaba y escuchaba.",
-          "translationRu": "Если отец ругал его, он молчал и слушал.",
-          "original": "Если отец ругал, он молчал и слушал."
+          "text": "Tenía seis años",
+          "translationRu": "Ему было шесть лет,",
+          "original": "Ему было шесть лет,"
         },
         {
           "id": "sent-019",
-          "text": "Y en cuanto dejaban de regañarlo, sonreía y se ponía a hacer el trabajo que tenía delante.",
-          "translationRu": "И как только переставали его ругать, он улыбался и брался за работу, которая была перед ним.",
-          "original": "И как только переставали его ругать, он улыбался и брался за то дело, которое было перед ним."
+          "text": "y ya cuidaba, con su hermanita, las ovejas y la vaca en el pastizal;",
+          "translationRu": "уж он с девчонкой-сестрой овец и корову стерёг на выгоне,",
+          "original": "уж он с девчонкой-сестрой овец и корову стерег на выгоне,"
+        },
+        {
+          "id": "sent-020",
+          "text": "y cuando creció un poco más, empezó a cuidar los caballos, de día y de noche.",
+          "translationRu": "а ещё подрос, стал лошадей стеречь и в денном и в ночном.",
+          "original": "а еще подрос, стал лошадей стеречь и в денном и в ночном."
+        },
+        {
+          "id": "sent-021",
+          "text": "Desde los doce años ya araba y acarreaba.",
+          "translationRu": "С двенадцати лет уж он пахал и возил.",
+          "original": "С двенадцати лет уж он пахал и возил."
+        },
+        {
+          "id": "sent-022",
+          "text": "Fuerza no tenía, pero maña sí.",
+          "translationRu": "Силы не было, а ухватка была.",
+          "original": "Силы не было, а ухватка была."
+        },
+        {
+          "id": "sent-023",
+          "text": "Siempre estaba alegre.",
+          "translationRu": "Всегда он был весел.",
+          "original": "Всегда он был весел."
+        },
+        {
+          "id": "sent-024",
+          "text": "Los chicos se reían de él;",
+          "translationRu": "Ребята смеялись над ним;",
+          "original": "Ребята смеялись над ним;"
+        },
+        {
+          "id": "sent-025",
+          "text": "él callaba o se reía.",
+          "translationRu": "он молчал либо смеялся.",
+          "original": "он молчал либо смеялся."
+        },
+        {
+          "id": "sent-026",
+          "text": "Si el padre lo reñía, él callaba y escuchaba.",
+          "translationRu": "Если отец ругал, он молчал и слушал.",
+          "original": "Если отец ругал, он молчал и слушал."
+        },
+        {
+          "id": "sent-027",
+          "text": "Y en cuanto dejaban de reñirlo, sonreía",
+          "translationRu": "И как только переставали его ругать, он улыбался",
+          "original": "И как только переставали его ругать, он улыбался"
+        },
+        {
+          "id": "sent-028",
+          "text": "y se ponía a hacer la tarea que tenía delante.",
+          "translationRu": "и брался за то дело, которое было перед ним.",
+          "original": "и брался за то дело, которое было перед ним."
         }
       ]
     },
@@ -136,28 +190,40 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-020",
-          "text": "Aliosha tenía diecinueve años cuando se llevaron a su hermano al ejército.",
-          "translationRu": "Алёше было девятнадцать лет, когда его брата взяли в солдаты.",
+          "id": "sent-029",
+          "text": "Aliosha tenía diecinueve años cuando a su hermano lo llevaron al servicio militar.",
+          "translationRu": "Алёше было девятнадцать лет, когда брата его взяли в солдаты.",
           "original": "Алеше было девятнадцать лет, когда брата его взяли в солдаты."
         },
         {
-          "id": "sent-021",
-          "text": "Y el padre puso a Aliosha en el lugar del hermano, como portero en casa del comerciante.",
-          "translationRu": "И отец поставил Алёшу на место брата дворником у купца.",
+          "id": "sent-030",
+          "text": "Y el padre puso a Aliosha en el lugar del hermano, de portero, en casa del comerciante.",
+          "translationRu": "И отец поставил Алёшу на место брата к купцу в дворники.",
           "original": "И отец поставил Алешу на место брата к купцу в дворники."
         },
         {
-          "id": "sent-022",
-          "text": "A Aliosha le dieron las botas viejas de su hermano, el gorro de su padre y una chaqueta, y lo llevaron a la ciudad.",
-          "translationRu": "Алёше дали старые братнины сапоги, отцовский картуз и поддёвку и повезли в город.",
-          "original": "Алеше дали сапоги братнины старые, шапку отцовскую и поддевку и повезли в город."
+          "id": "sent-031",
+          "text": "A Aliosha le dieron las viejas botas del hermano, la gorra del padre y un caftán,",
+          "translationRu": "Алёше дали сапоги братнины старые, шапку отцовскую и поддёвку",
+          "original": "Алеше дали сапоги братнины старые, шапку отцовскую и поддевку"
         },
         {
-          "id": "sent-023",
-          "text": "Aliosha no cabía de alegría con su ropa, pero el comerciante quedó descontento con su aspecto.",
-          "translationRu": "Алёша не мог нарадоваться на свою одежду, но купец остался недоволен его видом.",
-          "original": "Алеша не мог нарадоваться на свою одежду, но купец остался недоволен видом Алеши."
+          "id": "sent-032",
+          "text": "y lo llevaron a la ciudad.",
+          "translationRu": "и повезли в город.",
+          "original": "и повезли в город."
+        },
+        {
+          "id": "sent-033",
+          "text": "Aliosha no cabía de gozo con su ropa,",
+          "translationRu": "Алёша не мог нарадоваться на свою одежду,",
+          "original": "Алеша не мог нарадоваться на свою одежду,"
+        },
+        {
+          "id": "sent-034",
+          "text": "pero el comerciante quedó descontento con el aspecto de Aliosha.",
+          "translationRu": "но купец остался недоволен видом Алёши.",
+          "original": "но купец остался недоволен видом Алеши."
         }
       ]
     },
@@ -165,20 +231,20 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-024",
-          "text": "—Yo pensaba que me traerías de verdad un hombre en lugar de Semión —dijo el comerciante, mirando a Aliosha de arriba abajo—.",
-          "translationRu": "— Я думал, ты и вправду приведёшь мне человека вместо Семёна, — сказал купец, оглядев Алёшу. —",
+          "id": "sent-035",
+          "text": "—Pensé que de verdad me traerías a un hombre en lugar de Semión —dijo el comerciante, mirando a Aliosha de arriba abajo—.",
+          "translationRu": "— Я думал, и точно человека заместо Семёна поставишь, — сказал купец, оглянув Алёшу. —",
           "original": "— Я думал, и точно человека заместо Семена поставишь, — сказал купец, оглянув Алешу. —"
         },
         {
-          "id": "sent-025",
-          "text": "Y tú me has traído un mocoso cualquiera.",
-          "translationRu": "А ты привёл мне какого-то сопляка.",
+          "id": "sent-036",
+          "text": "Y me traes a este mocoso.",
+          "translationRu": "А ты мне какого сопляка привёл.",
           "original": "А ты мне какого сопляка привел."
         },
         {
-          "id": "sent-026",
-          "text": "¿Para qué sirve este?",
+          "id": "sent-037",
+          "text": "¿Para qué sirve?",
           "translationRu": "На что он годится?",
           "original": "На что он годится?"
         }
@@ -188,15 +254,21 @@
       "id": "para-005",
       "sentences": [
         {
-          "id": "sent-027",
-          "text": "—Él lo sabe hacer todo: enganchar el caballo, ir a cualquier parte y trabajar con ganas; solo parece flojo por fuera.",
-          "translationRu": "— Он всё умеет: и запрячь, и съездить куда надо, и работать рьяно; он только на вид слабый.",
-          "original": "— Он все может — и запрячь, и съездить куда, и работать лютой; он только на вид как плетень."
+          "id": "sent-038",
+          "text": "—Él todo lo puede: enganchar el caballo, ir a cualquier parte y trabajar como una fiera;",
+          "translationRu": "— Он всё может — и запрячь, и съездить куда, и работать лютой;",
+          "original": "— Он все может — и запрячь, и съездить куда, и работать лютой;"
         },
         {
-          "id": "sent-028",
-          "text": "Pero por dentro es fuerte y nervudo.",
-          "translationRu": "А на деле он жилистый.",
+          "id": "sent-039",
+          "text": "solo de aspecto parece un vallado.",
+          "translationRu": "он только на вид как плетень.",
+          "original": "он только на вид как плетень."
+        },
+        {
+          "id": "sent-040",
+          "text": "Pero es fibroso.",
+          "translationRu": "А то он жилист.",
           "original": "А то он жилист."
         }
       ]
@@ -205,9 +277,9 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-029",
-          "text": "—Bueno, ya veremos.",
-          "translationRu": "— Ну, видно будет, погляжу.",
+          "id": "sent-041",
+          "text": "—Bueno, ya se verá, lo miraré.",
+          "translationRu": "— Ну уж, видно, погляжу.",
           "original": "— Ну уж, видно, погляжу."
         }
       ]
@@ -216,15 +288,15 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-030",
-          "text": "—Y lo mejor de todo: es sumiso y dócil.",
-          "translationRu": "— А главное — он безответный.",
+          "id": "sent-042",
+          "text": "—Y, sobre todo, es sumiso.",
+          "translationRu": "— А пуще всего — безответный.",
           "original": "— А пуще всего — безответный."
         },
         {
-          "id": "sent-031",
-          "text": "Es muy aplicado para el trabajo.",
-          "translationRu": "Работать он завистливый.",
+          "id": "sent-043",
+          "text": "Ansioso por trabajar.",
+          "translationRu": "Работать завистливый.",
           "original": "Работать завистливый."
         }
       ]
@@ -233,10 +305,16 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-032",
-          "text": "—Qué se le va a hacer contigo. Déjalo.",
-          "translationRu": "— Что с тобой поделаешь. Оставь.",
-          "original": "— Что с тобой делать. Оставь."
+          "id": "sent-044",
+          "text": "—Qué se le va a hacer contigo.",
+          "translationRu": "— Что с тобой делать.",
+          "original": "— Что с тобой делать."
+        },
+        {
+          "id": "sent-045",
+          "text": "Déjalo.",
+          "translationRu": "Оставь.",
+          "original": "Оставь."
         }
       ]
     },
@@ -244,8 +322,8 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-033",
-          "text": "Y así Aliosha se quedó a vivir en casa del comerciante.",
+          "id": "sent-046",
+          "text": "Y Aliosha se quedó a vivir en casa del comerciante.",
           "translationRu": "И Алёша стал жить у купца.",
           "original": "И Алеша стал жить у купца."
         }
@@ -255,27 +333,33 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-034",
-          "text": "La familia del comerciante era pequeña.",
-          "translationRu": "Семья у купца была небольшая.",
+          "id": "sent-047",
+          "text": "La familia del comerciante era pequeña:",
+          "translationRu": "Семья у купца была небольшая:",
           "original": "Семья у купца была небольшая:"
         },
         {
-          "id": "sent-035",
-          "text": "La componían la dueña, la vieja madre, y el hijo mayor, que estaba casado, era de educación sencilla y trabajaba con el padre en el negocio.",
-          "translationRu": "В ней были хозяйка, старуха-мать и старший сын, женатый, простого воспитания, который вёл дело вместе с отцом.",
-          "original": "хозяйка, старуха мать, старший сын женатый, простого воспитания, с отцом в деле был,"
+          "id": "sent-048",
+          "text": "la dueña, la vieja madre,",
+          "translationRu": "хозяйка, старуха мать,",
+          "original": "хозяйка, старуха мать,"
         },
         {
-          "id": "sent-036",
-          "text": "Había otro hijo, el instruido, que había terminado el liceo y estaba en la universidad, pero de allí lo expulsaron, y vivía en casa.",
-          "translationRu": "Был и другой сын, учёный, который окончил гимназию и был в университете, но оттуда его выгнали, и он жил дома.",
+          "id": "sent-049",
+          "text": "el hijo mayor, casado, de crianza sencilla, que estaba en el negocio con el padre,",
+          "translationRu": "старший сын женатый, простого воспитания, с отцом в деле был,",
+          "original": "старший сын женатый, простого воспитания, с отцом в деле был,"
+        },
+        {
+          "id": "sent-050",
+          "text": "y otro hijo, instruido, que había terminado el gimnasio y había estado en la universidad, pero de allí lo echaron, y vivía en casa,",
+          "translationRu": "и другой сын — учёный, кончил в гимназии и был в университете, да оттуда выгнали, и он жил дома,",
           "original": "и другой сын — ученый, кончил в гимназии и был в университете, да оттуда выгнали, и он жил дома,"
         },
         {
-          "id": "sent-037",
-          "text": "Y además estaba la hija, una muchacha que iba al liceo.",
-          "translationRu": "А ещё была дочь — девушка-гимназистка.",
+          "id": "sent-051",
+          "text": "y además una hija, una muchacha que estudiaba en el gimnasio.",
+          "translationRu": "да ещё дочь — девушка гимназистка.",
           "original": "да еще дочь — девушка гимназистка."
         }
       ]
@@ -284,63 +368,93 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-038",
-          "text": "Al principio Alioshka no les gustó, porque era muy tosco y aldeano.",
-          "translationRu": "Сначала Алёшка им не понравился, потому что был очень неотёсанный и мужиковатый.",
-          "original": "Сначала Алешка не понравился — очень уж он был мужиковат,"
+          "id": "sent-052",
+          "text": "Al principio Aliosha no gustó:",
+          "translationRu": "Сначала Алёшка не понравился —",
+          "original": "Сначала Алешка не понравился —"
         },
         {
-          "id": "sent-039",
-          "text": "Iba mal vestido, no tenía modales y a todos los tuteaba; pero pronto se acostumbraron a él.",
-          "translationRu": "Он был плохо одет, не имел манер и всем говорил «ты»; но скоро к нему привыкли.",
-          "original": "и одет плохо, и обхожденья не было, всем говорил «ты», но скоро привыкли к нему."
+          "id": "sent-053",
+          "text": "era demasiado tosco, iba mal vestido, no tenía modales, a todos les hablaba de tú,",
+          "translationRu": "очень уж он был мужиковат, и одет плохо, и обхожденья не было, всем говорил «ты»,",
+          "original": "очень уж он был мужиковат, и одет плохо, и обхожденья не было, всем говорил «ты»,"
         },
         {
-          "id": "sent-040",
+          "id": "sent-054",
+          "text": "pero pronto se acostumbraron a él.",
+          "translationRu": "но скоро привыкли к нему.",
+          "original": "но скоро привыкли к нему."
+        },
+        {
+          "id": "sent-055",
           "text": "Servía aún mejor que su hermano.",
-          "translationRu": "Служил он даже лучше брата.",
+          "translationRu": "Служил он ещё лучше брата.",
           "original": "Служил он еще лучше брата."
         },
         {
-          "id": "sent-041",
-          "text": "De verdad era sumiso: lo mandaban a todos los trabajos, y todo lo hacía de buena gana y deprisa, pasando sin parar de una tarea a otra.",
-          "translationRu": "Он и правда был безответный: его посылали на все дела, и всё он делал охотно и быстро, без остановки переходя от одной работы к другой.",
-          "original": "Точно был безответный, на все дела его посылали, и все он делал охотно и скоро, без останова переходя от одного дела к другому."
+          "id": "sent-056",
+          "text": "En verdad era sumiso:",
+          "translationRu": "Точно был безответный,",
+          "original": "Точно был безответный,"
         },
         {
-          "id": "sent-042",
-          "text": "Igual que en casa, también en lo del comerciante le echaban encima todos los trabajos.",
-          "translationRu": "Как и дома, так и у купца на Алёшу наваливали всю работу.",
+          "id": "sent-057",
+          "text": "lo mandaban a todos los recados, y todo lo hacía de buena gana y deprisa,",
+          "translationRu": "на все дела его посылали, и всё он делал охотно и скоро,",
+          "original": "на все дела его посылали, и все он делал охотно и скоро,"
+        },
+        {
+          "id": "sent-058",
+          "text": "pasando sin parar de una tarea a otra.",
+          "translationRu": "без останова переходя от одного дела к другому.",
+          "original": "без останова переходя от одного дела к другому."
+        },
+        {
+          "id": "sent-059",
+          "text": "Y lo mismo que en casa, también en casa del comerciante le cargaban todos los trabajos a Aliosha.",
+          "translationRu": "И как дома, так и у купца на Алёшу наваливались все работы.",
           "original": "И как дома, так и у купца на Алешу наваливались все работы."
         },
         {
-          "id": "sent-043",
-          "text": "Cuanto más hacía, más le cargaban.",
-          "translationRu": "Чем больше он делал, тем больше на него наваливали.",
+          "id": "sent-060",
+          "text": "Cuanto más hacía, más le echaban encima.",
+          "translationRu": "Чем больше он делал, тем больше все на него наваливали дела.",
           "original": "Чем больше он делал, тем больше все на него наваливали дела."
         },
         {
-          "id": "sent-044",
-          "text": "La dueña, la madre de la dueña, la hija, el hijo, el dependiente y la cocinera, todos lo mandaban de un lado a otro y lo hacían hacer una cosa u otra.",
-          "translationRu": "Хозяйка, мать хозяйки, дочь, сын, приказчик и кухарка — все посылали его то туда, то сюда и заставляли делать то одно, то другое.",
-          "original": "Хозяйка, и хозяйская мать, и хозяйская дочь, и хозяйский сын, и приказчик, и кухарка, все то туда, то сюда посылали его, то то, то это заставляли делать."
+          "id": "sent-061",
+          "text": "La dueña, y la madre de la dueña, y la hija, y el hijo, y el dependiente, y la cocinera,",
+          "translationRu": "Хозяйка, и хозяйская мать, и хозяйская дочь, и хозяйский сын, и приказчик, и кухарка,",
+          "original": "Хозяйка, и хозяйская мать, и хозяйская дочь, и хозяйский сын, и приказчик, и кухарка,"
         },
         {
-          "id": "sent-045",
-          "text": "Solo se oía: «Corre, hermano», o: «Aliosha, arregla esto».",
-          "translationRu": "Только и слышно было: «Сбегай, брат», или: «Алёша, устрой это».",
+          "id": "sent-062",
+          "text": "todos lo mandaban de acá para allá, le hacían hacer esto y aquello.",
+          "translationRu": "все то туда, то сюда посылали его, то то, то это заставляли делать.",
+          "original": "все то туда, то сюда посылали его, то то, то это заставляли делать."
+        },
+        {
+          "id": "sent-063",
+          "text": "Solo se oía: «Corre, hermano», o: «Aliosha, arregla esto.",
+          "translationRu": "Только и слышно было «Сбегай, брат», или: «Алёша, ты это устрой.",
           "original": "Только и слышно было «Сбегай, брат», или: «Алеша, ты это устрой."
         },
         {
-          "id": "sent-046",
-          "text": "«¿Qué pasa, Alioshka, te has olvidado, o qué? Mira, no te olvides, Aliosha».",
-          "translationRu": "«Ты что же, Алёшка, забыл, что ли? Смотри, не забудь, Алёша».",
-          "original": "— Ты что ж это, Алешка, забыл, что ль? — Смотри, не забудь, Алеша»."
+          "id": "sent-064",
+          "text": "—¿Pero qué, Aliosha, se te olvidó, acaso?",
+          "translationRu": "— Ты что ж это, Алёшка, забыл, что ль?",
+          "original": "— Ты что ж это, Алешка, забыл, что ль?"
         },
         {
-          "id": "sent-047",
-          "text": "Y Aliosha corría, arreglaba, vigilaba, no se olvidaba, lo alcanzaba a hacer todo y siempre sonreía.",
-          "translationRu": "И Алёша бегал, устраивал, смотрел, не забывал, всё успевал и всё улыбался.",
+          "id": "sent-065",
+          "text": "—Mira, no lo olvides, Aliosha».",
+          "translationRu": "— Смотри, не забудь, Алёша».",
+          "original": "— Смотри, не забудь, Алеша»."
+        },
+        {
+          "id": "sent-066",
+          "text": "Y Aliosha corría, arreglaba, vigilaba, no olvidaba, llegaba a todo y a todo sonreía.",
+          "translationRu": "И Алёша бегал, устраивал, и смотрел, и не забывал, и всё успевал, и всё улыбался.",
           "original": "И Алеша бегал, устраивал, и смотрел, и не забывал, и все успевал, и все улыбался."
         }
       ]
@@ -349,34 +463,52 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-048",
-          "text": "Las botas del hermano las rompió pronto.",
-          "translationRu": "Братнины сапоги он скоро износил.",
+          "id": "sent-067",
+          "text": "Las botas del hermano pronto se le rompieron,",
+          "translationRu": "Сапоги братнины он скоро разбил,",
           "original": "Сапоги братнины он скоро разбил,"
         },
         {
-          "id": "sent-049",
-          "text": "El amo lo riñó por andar con las botas deshilachadas y los dedos al aire, y le mandó comprar unas botas nuevas en el mercado.",
-          "translationRu": "Хозяин разбранил его за то, что он ходил с лохмотьями на сапогах и голыми пальцами, и велел купить ему новые сапоги на базаре.",
-          "original": "и хозяин разбранил его за то, что он ходил с махрами на сапогах и голыми пальцами, и велел купить ему новые сапоги на базаре."
+          "id": "sent-068",
+          "text": "y el amo lo regañó porque andaba con las botas hechas jirones y los dedos al aire,",
+          "translationRu": "и хозяин разбранил его за то, что он ходил с махрами на сапогах и голыми пальцами,",
+          "original": "и хозяин разбранил его за то, что он ходил с махрами на сапогах и голыми пальцами,"
         },
         {
-          "id": "sent-050",
-          "text": "Las botas eran nuevas, y Aliosha se alegraba con ellas, pero sus pies seguían siendo los mismos de siempre.",
-          "translationRu": "Сапоги были новые, и Алёша радовался на них, но ноги у него были всё те же старые.",
-          "original": "Сапоги были новые, и Алеша радовался на них, но ноги у него были всё старые,"
+          "id": "sent-069",
+          "text": "y le mandó comprarle botas nuevas en el mercado.",
+          "translationRu": "и велел купить ему новые сапоги на базаре.",
+          "original": "и велел купить ему новые сапоги на базаре."
         },
         {
-          "id": "sent-051",
-          "text": "Por la tarde le dolían de tanto correr, y él se enfadaba con ellos.",
-          "translationRu": "К вечеру они у него ныли от беготни, и он на них сердился.",
+          "id": "sent-070",
+          "text": "Las botas eran nuevas, y Aliosha se alegraba con ellas,",
+          "translationRu": "Сапоги были новые, и Алёша радовался на них,",
+          "original": "Сапоги были новые, и Алеша радовался на них,"
+        },
+        {
+          "id": "sent-071",
+          "text": "pero sus pies seguían siendo los viejos,",
+          "translationRu": "но ноги у него были всё старые,",
+          "original": "но ноги у него были всё старые,"
+        },
+        {
+          "id": "sent-072",
+          "text": "y al atardecer le dolían de tanto correr, y se enfadaba con ellos.",
+          "translationRu": "и они к вечеру ныли у него от беготни, и он сердился на них.",
           "original": "и они к вечеру ныли у него от беготни, и он сердился на них."
         },
         {
-          "id": "sent-052",
-          "text": "Aliosha temía que su padre, cuando viniera a cobrar su dinero, se ofendiera porque el comerciante descontaría las botas del salario.",
-          "translationRu": "Алёша боялся, что отец, когда приедет получать за него деньги, обидится из-за того, что купец вычтет за сапоги из жалованья.",
-          "original": "Алеша боялся, как бы отец, когда приедет за него получить деньги, не обиделся бы за то, что купец за сапоги вычтет из жалованья."
+          "id": "sent-073",
+          "text": "Aliosha temía que su padre, cuando viniera a cobrar su paga por él, se ofendiera",
+          "translationRu": "Алёша боялся, как бы отец, когда приедет за него получить деньги, не обиделся бы",
+          "original": "Алеша боялся, как бы отец, когда приедет за него получить деньги, не обиделся бы"
+        },
+        {
+          "id": "sent-074",
+          "text": "porque el comerciante le descontaría las botas del salario.",
+          "translationRu": "за то, что купец за сапоги вычтет из жалованья.",
+          "original": "за то, что купец за сапоги вычтет из жалованья."
         }
       ]
     },
@@ -384,49 +516,73 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-053",
-          "text": "En invierno Aliosha se levantaba antes del amanecer, cortaba leña y luego barría el patio.",
-          "translationRu": "Зимой Алёша вставал до света, колол дрова, потом подметал двор.",
-          "original": "Вставал Алеша зимой до света, колол дров, потом выметал двор,"
+          "id": "sent-075",
+          "text": "En invierno Aliosha se levantaba antes del amanecer, partía leña,",
+          "translationRu": "Вставал Алёша зимой до света, колол дров,",
+          "original": "Вставал Алеша зимой до света, колол дров,"
         },
         {
-          "id": "sent-054",
-          "text": "Daba de comer a la vaca y al caballo, y los abrevaba.",
-          "translationRu": "Задавал корм корове и лошади, поил их.",
-          "original": "задавал корм корове, лошади, поил их."
+          "id": "sent-076",
+          "text": "luego barría el patio, daba de comer a la vaca y al caballo, los abrevaba.",
+          "translationRu": "потом выметал двор, задавал корм корове, лошади, поил их.",
+          "original": "потом выметал двор, задавал корм корове, лошади, поил их."
         },
         {
-          "id": "sent-055",
-          "text": "Después encendía las estufas, limpiaba las botas y la ropa de los amos, ponía los samovares y los limpiaba.",
-          "translationRu": "Потом топил печи, чистил сапоги и одежду хозяевам, ставил самовары и чистил их.",
+          "id": "sent-077",
+          "text": "Después encendía las estufas, limpiaba las botas y la ropa de los amos, preparaba los samovares, los limpiaba,",
+          "translationRu": "Потом топил печи, чистил сапоги, одежу хозяевам, ставил самовары, чистил их,",
           "original": "Потом топил печи, чистил сапоги, одежу хозяевам, ставил самовары, чистил их,"
         },
         {
-          "id": "sent-056",
-          "text": "Luego, o bien el dependiente lo llamaba para sacar la mercancía, o bien la cocinera le mandaba amasar la masa y limpiar las cacerolas.",
-          "translationRu": "Потом либо приказчик звал его выносить товар, либо кухарка приказывала ему месить тесто и чистить кастрюли.",
+          "id": "sent-078",
+          "text": "y luego, o el dependiente lo llamaba a sacar mercancía, o la cocinera le mandaba amasar la masa y limpiar las cacerolas.",
+          "translationRu": "потом либо приказчик звал его вытаскивать товар, либо кухарка приказывала ему месить тесто, чистить кастрюли.",
           "original": "потом либо приказчик звал его вытаскивать товар, либо кухарка приказывала ему месить тесто, чистить кастрюли."
         },
         {
-          "id": "sent-057",
-          "text": "Después lo mandaban a la ciudad, ya con una nota, ya a buscar a la hija de los amos al liceo, ya a comprar aceite de madera para la viejecita.",
-          "translationRu": "Потом посылали его в город — то с запиской, то за хозяйской дочерью в гимназию, то за деревянным маслом для старушки.",
+          "id": "sent-079",
+          "text": "Después lo mandaban a la ciudad, ya con una nota, ya a por la hija del amo al gimnasio, ya a por aceite de madera para la vieja.",
+          "translationRu": "Потом посылали его в город, то с запиской, то за хозяйской дочерью в гимназию, то за деревянным маслом для старушки.",
           "original": "Потом посылали его в город, то с запиской, то за хозяйской дочерью в гимназию, то за деревянным маслом для старушки."
         },
         {
-          "id": "sent-058",
-          "text": "«¿Dónde te metes, maldito?», le decía uno u otro.",
-          "translationRu": "«Где ты пропадаешь, проклятый?» — говорил ему то один, то другой.",
-          "original": "«Где ты пропадаешь, проклятый», — говорил ему то тот, то другой."
+          "id": "sent-080",
+          "text": "«¿Dónde te metes, maldito?»",
+          "translationRu": "«Где ты пропадаешь, проклятый»,",
+          "original": "«Где ты пропадаешь, проклятый»,"
         },
         {
-          "id": "sent-059",
-          "text": "«¿Para qué vais a ir vosotros mismos? Aliosha irá corriendo. ¡Alioshka! ¡Eh, Alioshka!».",
-          "translationRu": "«Зачем вам самим ходить — Алёша сбегает. Алёшка! Эй, Алёшка!».",
-          "original": "«Что вам самим ходить — Алеша сбегает. Алешка! А Алешка!»"
+          "id": "sent-081",
+          "text": "le decía uno u otro.",
+          "translationRu": "— говорил ему то тот, то другой.",
+          "original": "— говорил ему то тот, то другой."
         },
         {
-          "id": "sent-060",
+          "id": "sent-082",
+          "text": "«¿Para qué van a ir ustedes mismos?",
+          "translationRu": "«Что вам самим ходить —",
+          "original": "«Что вам самим ходить —"
+        },
+        {
+          "id": "sent-083",
+          "text": "Aliosha correrá.",
+          "translationRu": "Алёша сбегает.",
+          "original": "Алеша сбегает."
+        },
+        {
+          "id": "sent-084",
+          "text": "¡Aliosha!",
+          "translationRu": "Алёшка!",
+          "original": "Алешка!"
+        },
+        {
+          "id": "sent-085",
+          "text": "¡Eh, Aliosha!»",
+          "translationRu": "А Алёшка!»",
+          "original": "А Алешка!»"
+        },
+        {
+          "id": "sent-086",
           "text": "Y Aliosha corría.",
           "translationRu": "И Алёша бегал.",
           "original": "И Алеша бегал."
@@ -437,51 +593,57 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-061",
-          "text": "Desayunaba a la carrera, y rara vez llegaba a comer con todos.",
-          "translationRu": "Завтракал он на бегу, а к обеду со всеми редко поспевал.",
+          "id": "sent-087",
+          "text": "Desayunaba sobre la marcha, y rara vez llegaba a comer con todos.",
+          "translationRu": "Завтракал он на ходу, а обедать редко поспевал со всеми.",
           "original": "Завтракал он на ходу, а обедать редко поспевал со всеми."
         },
         {
-          "id": "sent-062",
-          "text": "La cocinera lo reñía por no comer con los demás, pero de todos modos lo compadecía y le dejaba algo caliente para la comida y para la cena.",
-          "translationRu": "Кухарка ругала его за то, что он не ходит со всеми, но всё-таки жалела его и оставляла ему горячего к обеду и к ужину.",
-          "original": "Кухарка ругала его за то, что он не со всеми ходит, но все-таки жалела его и оставляла ему горячего и к обеду и к ужину."
+          "id": "sent-088",
+          "text": "La cocinera lo regañaba porque no iba con todos,",
+          "translationRu": "Кухарка ругала его за то, что он не со всеми ходит,",
+          "original": "Кухарка ругала его за то, что он не со всеми ходит,"
         },
         {
-          "id": "sent-063",
-          "text": "Sobre todo había mucho trabajo en vísperas de las fiestas y durante las fiestas.",
-          "translationRu": "Особенно много работы бывало перед праздниками и во время праздников.",
+          "id": "sent-089",
+          "text": "pero de todos modos se compadecía de él y le guardaba algo caliente para la comida y para la cena.",
+          "translationRu": "но всё-таки жалела его и оставляла ему горячего и к обеду и к ужину.",
+          "original": "но все-таки жалела его и оставляла ему горячего и к обеду и к ужину."
+        },
+        {
+          "id": "sent-090",
+          "text": "Sobre todo había mucho trabajo antes de las fiestas y durante las fiestas.",
+          "translationRu": "Особенно много работы бывало к праздникам и во время праздников.",
           "original": "Особенно много работы бывало к праздникам и во время праздников."
         },
         {
-          "id": "sent-064",
-          "text": "Y Aliosha se alegraba de las fiestas, sobre todo porque en ellas le daban una propina, aunque fuera poca.",
-          "translationRu": "И Алёша радовался праздникам, особенно потому, что на праздники ему давали на чай, хоть и немного.",
+          "id": "sent-091",
+          "text": "Y Aliosha se alegraba de las fiestas, sobre todo porque en ellas le daban propina, aunque poca:",
+          "translationRu": "И Алёша радовался праздникам особенно потому, что на праздники ему давали на чай хоть и мало,",
           "original": "И Алеша радовался праздникам особенно потому, что на праздники ему давали на чай хоть и мало,"
         },
         {
-          "id": "sent-065",
-          "text": "Se juntaban unos sesenta kopeks, pero de todos modos era su propio dinero.",
-          "translationRu": "Набиралось копеек шестьдесят, но всё-таки это были его собственные деньги.",
+          "id": "sent-092",
+          "text": "se juntaban unos sesenta kopeks, pero al fin y al cabo era su dinero.",
+          "translationRu": "собиралось копеек шестьдесят, но всё-таки это были его деньги.",
           "original": "собиралось копеек шестьдесят, но все-таки это были его деньги."
         },
         {
-          "id": "sent-066",
+          "id": "sent-093",
           "text": "Podía gastarlo como quisiera.",
           "translationRu": "Он мог истратить их, как хотел.",
           "original": "Он мог истратить их, как хотел."
         },
         {
-          "id": "sent-067",
-          "text": "En cambio, su salario no lo veía ni de lejos.",
-          "translationRu": "А жалованья своего он и в глаза не видел.",
+          "id": "sent-094",
+          "text": "En cambio, su salario nunca lo vio ni de lejos.",
+          "translationRu": "Жалованья же своего он и в глаза не видал.",
           "original": "Жалованья же своего он и в глаза не видал."
         },
         {
-          "id": "sent-068",
-          "text": "El padre venía, lo cobraba del comerciante y solo le reprochaba a Alioshka que hubiera estropeado las botas tan pronto.",
-          "translationRu": "Отец приезжал, брал деньги у купца и только выговаривал Алёшке, что он так скоро истрепал сапоги.",
+          "id": "sent-095",
+          "text": "El padre venía, cobraba del comerciante y solo le reprochaba a Aliosha que hubiera roto tan pronto las botas.",
+          "translationRu": "Отец приезжал, брал у купца и только выговаривал Алёшке, что он сапоги скоро растрепал.",
           "original": "Отец приезжал, брал у купца и только выговаривал Алешке, что он сапоги скоро растрепал."
         }
       ]
@@ -490,16 +652,28 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-069",
-          "text": "Cuando juntó dos rublos de ese dinero de las propinas, compró, por consejo de la cocinera, una chaqueta roja de punto.",
-          "translationRu": "Когда он накопил два рубля из этих чаевых денег, он купил, по совету кухарки, красную вязаную куртку.",
-          "original": "Когда он собрал два рубля этих денег «начайных», то купил, по совету кухарки, красную вязаную куртку,"
+          "id": "sent-096",
+          "text": "Cuando reunió dos rublos de aquel dinero de las propinas,",
+          "translationRu": "Когда он собрал два рубля этих чаевых денег,",
+          "original": "Когда он собрал два рубля этих денег «начайных»,"
         },
         {
-          "id": "sent-070",
-          "text": "Cuando se la puso, de la alegría ya no podía cerrar los labios.",
-          "translationRu": "Когда он её надел, от радости он уже не мог закрыть губы.",
-          "original": "и когда надел, то не мог уж свести губы от удовольствия."
+          "id": "sent-097",
+          "text": "compró, por consejo de la cocinera, una chaqueta roja de punto,",
+          "translationRu": "он купил, по совету кухарки, красную вязаную куртку,",
+          "original": "то купил, по совету кухарки, красную вязаную куртку,"
+        },
+        {
+          "id": "sent-098",
+          "text": "y cuando se la puso,",
+          "translationRu": "и когда надел её,",
+          "original": "и когда надел,"
+        },
+        {
+          "id": "sent-099",
+          "text": "ya no podía juntar los labios de tanta alegría.",
+          "translationRu": "то уже не мог свести губы от удовольствия.",
+          "original": "то не мог уж свести губы от удовольствия."
         }
       ]
     },
@@ -507,21 +681,45 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-071",
-          "text": "Aliosha hablaba poco, y cuando hablaba, lo hacía siempre de forma corta y entrecortada.",
-          "translationRu": "Алёша говорил мало, и когда говорил, то всегда коротко и отрывисто.",
-          "original": "Говорил Алеша мало, и когда говорил, то всегда отрывисто и коротко."
+          "id": "sent-100",
+          "text": "Aliosha hablaba poco,",
+          "translationRu": "Алёша говорил мало,",
+          "original": "Говорил Алеша мало,"
         },
         {
-          "id": "sent-072",
-          "text": "Cuando le mandaban hacer algo, o le preguntaban si podía hacer tal o cual cosa, él siempre decía sin la menor duda: «Todo se puede».",
-          "translationRu": "Когда ему приказывали что-то сделать или спрашивали, может ли он сделать то или это, он всегда без малейшего сомнения говорил: «Всё можно».",
-          "original": "И когда ему что приказывали сделать или спрашивали, может ли он сделать то и то, то он всегда без малейшего колебания говорил: «Это все можно», —"
+          "id": "sent-101",
+          "text": "y cuando hablaba,",
+          "translationRu": "а когда говорил,",
+          "original": "и когда говорил,"
         },
         {
-          "id": "sent-073",
-          "text": "Y enseguida se lanzaba a hacerlo, y lo hacía.",
-          "translationRu": "И сразу же бросался это делать, и делал.",
+          "id": "sent-102",
+          "text": "siempre lo hacía de forma cortada y breve.",
+          "translationRu": "то всегда отрывисто и коротко.",
+          "original": "то всегда отрывисто и коротко."
+        },
+        {
+          "id": "sent-103",
+          "text": "Y cuando le mandaban hacer algo,",
+          "translationRu": "И когда ему что-нибудь приказывали сделать,",
+          "original": "И когда ему что приказывали сделать"
+        },
+        {
+          "id": "sent-104",
+          "text": "o le preguntaban si podía hacer tal o cual cosa,",
+          "translationRu": "или спрашивали, может ли он сделать то или это,",
+          "original": "или спрашивали, может ли он сделать то и то,"
+        },
+        {
+          "id": "sent-105",
+          "text": "él siempre, sin la menor duda, decía: «Todo se puede»,",
+          "translationRu": "он всегда, без малейшего колебания, говорил: «Это всё можно»,",
+          "original": "то он всегда без малейшего колебания говорил: «Это все можно», —"
+        },
+        {
+          "id": "sent-106",
+          "text": "y enseguida se lanzaba a hacerlo y lo hacía.",
+          "translationRu": "и сейчас же бросался делать и делал.",
           "original": "и сейчас же бросался делать и делал."
         }
       ]
@@ -530,22 +728,28 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-074",
-          "text": "No sabía ninguna oración.",
-          "translationRu": "Никаких молитв он не знал.",
+          "id": "sent-107",
+          "text": "No sabía ninguna oración;",
+          "translationRu": "Никаких молитв он не знал;",
           "original": "Молитв он никаких не знал;"
         },
         {
-          "id": "sent-075",
-          "text": "Lo que su madre le había enseñado, lo había olvidado.",
-          "translationRu": "То, чему учила его мать, он забыл.",
+          "id": "sent-108",
+          "text": "lo que le había enseñado su madre, lo había olvidado,",
+          "translationRu": "чему учила его мать, он забыл,",
           "original": "как его мать учила, он забыл,"
         },
         {
-          "id": "sent-076",
-          "text": "Pero aun así rezaba por la mañana y por la noche: rezaba con las manos, haciéndose la señal de la cruz.",
-          "translationRu": "Но всё-таки молился утром и вечером: молился руками, крестясь.",
-          "original": "а все-таки молился и утром и вечером — молился руками, крестясь."
+          "id": "sent-109",
+          "text": "pero aun así rezaba por la mañana y por la tarde:",
+          "translationRu": "но всё-таки молился и утром и вечером —",
+          "original": "а все-таки молился и утром и вечером —"
+        },
+        {
+          "id": "sent-110",
+          "text": "rezaba con las manos, haciéndose la señal de la cruz.",
+          "translationRu": "молился руками, крестясь.",
+          "original": "молился руками, крестясь."
         }
       ]
     },
@@ -553,87 +757,147 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-077",
-          "text": "Así vivió Aliosha un año y medio, y entonces, en la segunda mitad del segundo año, le ocurrió el suceso más extraordinario de su vida.",
-          "translationRu": "Так прожил Алёша полтора года, и тогда, во второй половине второго года, с ним случилось самое необыкновенное событие в его жизни.",
-          "original": "Так прожил Алеша полтора года, и тут, во второй половине второго года, случилось с ним самое необыкновенное в его жизни событие."
+          "id": "sent-111",
+          "text": "Así vivió Aliosha un año y medio,",
+          "translationRu": "Так прожил Алёша полтора года,",
+          "original": "Так прожил Алеша полтора года,"
         },
         {
-          "id": "sent-078",
-          "text": "El suceso fue que, para su propia sorpresa, descubrió algo nuevo sobre las relaciones entre las personas.",
-          "translationRu": "Событие было в том, что он, к своему удивлению, узнал кое-что новое об отношениях между людьми.",
-          "original": "Событие это состояло в том, что он, к удивлению своему, узнал, что,"
+          "id": "sent-112",
+          "text": "y entonces, en la segunda mitad del segundo año,",
+          "translationRu": "и тут, во второй половине второго года,",
+          "original": "и тут, во второй половине второго года,"
         },
         {
-          "id": "sent-079",
-          "text": "Además de las relaciones que nacen porque las personas se necesitan unas a otras, existen otras relaciones muy distintas.",
-          "translationRu": "Кроме отношений, которые возникают оттого, что люди нужны друг другу, существуют и совсем другие отношения.",
-          "original": "кроме тех отношений между людьми, которые происходят от нужды друг в друге, есть еще отношения совсем особенные:"
+          "id": "sent-113",
+          "text": "le ocurrió el suceso más extraordinario de su vida.",
+          "translationRu": "случилось с ним самое необыкновенное в его жизни событие.",
+          "original": "случилось с ним самое необыкновенное в его жизни событие."
         },
         {
-          "id": "sent-080",
-          "text": "No se trata de que haya que limpiarle las botas a alguien, llevarle una compra o enganchar el caballo.",
-          "translationRu": "Дело не в том, что кому-то нужно почистить сапоги, отнести покупку или запрячь лошадь.",
+          "id": "sent-114",
+          "text": "Aquel suceso consistió en que, para su sorpresa, comprendió",
+          "translationRu": "Событие это состояло в том, что он, к своему удивлению, узнал,",
+          "original": "Событие это состояло в том, что он, к удивлению своему, узнал,"
+        },
+        {
+          "id": "sent-115",
+          "text": "que, además de las relaciones entre las personas que nacen de la necesidad mutua,",
+          "translationRu": "что, кроме тех отношений между людьми, которые происходят от нужды друг в друге,",
+          "original": "что, кроме тех отношений между людьми, которые происходят от нужды друг в друге,"
+        },
+        {
+          "id": "sent-116",
+          "text": "hay otras relaciones muy especiales:",
+          "translationRu": "есть ещё отношения совсем особенные:",
+          "original": "есть еще отношения совсем особенные:"
+        },
+        {
+          "id": "sent-117",
+          "text": "no que uno necesite que le limpien las botas, o le lleven una compra, o le enganchen el caballo,",
+          "translationRu": "не то чтобы нужно было человеку вычистить сапоги, или снести покупку, или запрячь лошадь,",
           "original": "не то чтобы нужно было человеку вычистить сапоги, или снести покупку, или запрячь лошадь,"
         },
         {
-          "id": "sent-081",
-          "text": "Se trata de que una persona, sin más, sin ningún motivo, le hace falta a otra persona.",
-          "translationRu": "Дело в том, что человек просто так, без всякой причины, нужен другому человеку.",
+          "id": "sent-118",
+          "text": "sino que una persona, sin más, sin ningún motivo, le hace falta a otra,",
+          "translationRu": "а то, что человек так, ни зачем нужен другому человеку,",
           "original": "а то, что человек так, ни зачем нужен другому человеку,"
         },
         {
-          "id": "sent-082",
-          "text": "Hay que servirle, hay que acariciarle, y que él, Aliosha, era justo esa persona.",
-          "translationRu": "Ему нужно послужить, нужно его приласкать, и что он, Алёша, и есть тот самый человек.",
-          "original": "нужно ему послужить, его приласкать, и что он, Алеша, тот самый человек."
+          "id": "sent-119",
+          "text": "que hay que servirle, acariciarle,",
+          "translationRu": "что нужно ему послужить, приласкать его,",
+          "original": "нужно ему послужить, его приласкать,"
         },
         {
-          "id": "sent-083",
-          "text": "Lo supo a través de la cocinera Ustinia.",
-          "translationRu": "Узнал он это через кухарку Устинью.",
+          "id": "sent-120",
+          "text": "y que él, Aliosha, era esa misma persona.",
+          "translationRu": "и что он, Алёша, тот самый человек.",
+          "original": "и что он, Алеша, тот самый человек."
+        },
+        {
+          "id": "sent-121",
+          "text": "Lo comprendió por la cocinera Ustinia.",
+          "translationRu": "Узнал он через кухарку Устинью.",
           "original": "Узнал он через кухарку Устинью."
         },
         {
-          "id": "sent-084",
-          "text": "Ustiusha era huérfana, joven y tan trabajadora como Aliosha.",
-          "translationRu": "Устюша была сирота, молодая и такая же работящая, как Алёша.",
-          "original": "Устюша была сирота, молодая, такая же работящая, как и Алеша."
+          "id": "sent-122",
+          "text": "Ustiusha era huérfana, joven,",
+          "translationRu": "Устюша была сирота, молодая,",
+          "original": "Устюша была сирота, молодая,"
         },
         {
-          "id": "sent-085",
-          "text": "Ella empezó a compadecerse de Aliosha, y Aliosha por primera vez sintió que él mismo, no sus servicios, sino él mismo, le hacía falta a otra persona.",
-          "translationRu": "Она стала жалеть Алёшу, и Алёша впервые почувствовал, что он сам, не его услуги, а он сам нужен другому человеку.",
-          "original": "Она стала жалеть Алешу, и Алеша в первый раз почувствовал, что он, сам он, не его услуги, а он сам нужен другому человеку."
+          "id": "sent-123",
+          "text": "y tan trabajadora como Aliosha.",
+          "translationRu": "такая же работящая, как и Алёша.",
+          "original": "такая же работящая, как и Алеша."
         },
         {
-          "id": "sent-086",
-          "text": "Cuando su madre se compadecía de él, no lo notaba.",
-          "translationRu": "Когда мать жалела его, он этого не замечал.",
+          "id": "sent-124",
+          "text": "Ella empezó a compadecerse de Aliosha,",
+          "translationRu": "Она стала жалеть Алёшу,",
+          "original": "Она стала жалеть Алешу,"
+        },
+        {
+          "id": "sent-125",
+          "text": "y Aliosha, por primera vez, sintió que él mismo,",
+          "translationRu": "и Алёша в первый раз почувствовал, что он, сам он,",
+          "original": "и Алеша в первый раз почувствовал, что он, сам он,"
+        },
+        {
+          "id": "sent-126",
+          "text": "no sus servicios, sino él mismo, le hacía falta a otra persona.",
+          "translationRu": "не его услуги, а он сам нужен другому человеку.",
+          "original": "не его услуги, а он сам нужен другому человеку."
+        },
+        {
+          "id": "sent-127",
+          "text": "Cuando su madre se compadecía de él, no se daba cuenta;",
+          "translationRu": "Когда мать жалела его, он не замечал этого;",
           "original": "Когда мать жалела его, он не замечал этого,"
         },
         {
-          "id": "sent-087",
-          "text": "Le parecía que así debía ser, que era lo mismo que cuando uno se compadece de sí mismo.",
-          "translationRu": "Ему казалось, что так и должно быть, что это всё равно как если бы он сам себя жалел.",
-          "original": "ему казалось, что это так и должно быть, что это все равно, как он сам себя жалеет."
+          "id": "sent-128",
+          "text": "le parecía que así debía ser,",
+          "translationRu": "ему казалось, что это так и должно быть,",
+          "original": "ему казалось, что это так и должно быть,"
         },
         {
-          "id": "sent-088",
-          "text": "Pero ahora de pronto vio que Ustinia era una desconocida, y aun así se compadecía de él.",
-          "translationRu": "Но тут вдруг он увидел, что Устинья совсем чужая, а всё-таки жалеет его.",
-          "original": "Но тут вдруг он увидал, что Устинья совсем чужая, а жалеет его,"
+          "id": "sent-129",
+          "text": "que era lo mismo que compadecerse él de sí mismo.",
+          "translationRu": "что это всё равно, как он сам себя жалеет.",
+          "original": "что это все равно, как он сам себя жалеет."
         },
         {
-          "id": "sent-089",
-          "text": "Le dejaba en una olla gachas con mantequilla, y cuando él comía, apoyando la barbilla en su brazo arremangado, lo miraba.",
-          "translationRu": "Она оставляла ему в горшке кашу с маслом, и когда он ел, подперев подбородок засученной рукой, она смотрела на него.",
-          "original": "оставляет ему в горшке каши с маслом и, когда он ест, подпершись подбородком на засученную руку, смотрит на него."
+          "id": "sent-130",
+          "text": "Pero de pronto vio que Ustinia era una persona ajena,",
+          "translationRu": "Но тут вдруг он увидал, что Устинья совсем чужая,",
+          "original": "Но тут вдруг он увидал, что Устинья совсем чужая,"
         },
         {
-          "id": "sent-090",
-          "text": "Y él la miraba, y ella se reía, y él se reía.",
-          "translationRu": "И он смотрел на неё, и она смеялась, и он смеялся.",
+          "id": "sent-131",
+          "text": "y sin embargo se compadecía de él,",
+          "translationRu": "а жалеет его,",
+          "original": "а жалеет его,"
+        },
+        {
+          "id": "sent-132",
+          "text": "le dejaba en un puchero papilla con mantequilla",
+          "translationRu": "оставляет ему в горшке каши с маслом",
+          "original": "оставляет ему в горшке каши с маслом"
+        },
+        {
+          "id": "sent-133",
+          "text": "y, cuando él comía, apoyando la barbilla en el brazo remangado, lo miraba.",
+          "translationRu": "и, когда он ест, подпершись подбородком на засученную руку, смотрит на него.",
+          "original": "и, когда он ест, подпершись подбородком на засученную руку, смотрит на него."
+        },
+        {
+          "id": "sent-134",
+          "text": "Y él la miraba a ella, y ella se reía, y él se reía.",
+          "translationRu": "И он взглянет на неё, и она засмеётся, и он засмеётся.",
           "original": "И он взглянет на нее, и она засмеется, и он засмеется."
         }
       ]
@@ -642,69 +906,99 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-091",
-          "text": "Era algo tan nuevo y tan raro que al principio asustó a Aliosha.",
-          "translationRu": "Это было так ново и так странно, что сначала испугало Алёшу.",
+          "id": "sent-135",
+          "text": "Aquello era tan nuevo y extraño que al principio asustó a Aliosha.",
+          "translationRu": "Это было так ново и странно, что сначала испугало Алёшу.",
           "original": "Это было так ново и странно, что сначала испугало Алешу."
         },
         {
-          "id": "sent-092",
-          "text": "Sintió que esto le impediría servir como él servía.",
-          "translationRu": "Он почувствовал, что это помешает ему служить так, как он служил.",
+          "id": "sent-136",
+          "text": "Sintió que aquello le impediría servir como servía.",
+          "translationRu": "Он почувствовал, что это помешает ему служить, как он служил.",
           "original": "Он почувствовал, что это помешает ему служить, как он служил."
         },
         {
-          "id": "sent-093",
-          "text": "Pero aun así estaba contento, y cuando miraba sus pantalones, remendados por Ustinia, movía la cabeza y sonreía.",
-          "translationRu": "Но всё-таки он был рад, и когда смотрел на свои штаны, заштопанные Устиньей, покачивал головой и улыбался.",
-          "original": "Но все-таки он был рад и, когда смотрел свои штаны, заштопанные Устиньей, покачивал головой и улыбался."
+          "id": "sent-137",
+          "text": "Pero aun así estaba contento,",
+          "translationRu": "Но всё-таки он был рад",
+          "original": "Но все-таки он был рад"
         },
         {
-          "id": "sent-094",
-          "text": "A menudo, durante el trabajo o de camino, se acordaba de Ustinia y decía: «¡Ay, qué Ustinia!».",
-          "translationRu": "Часто за работой или по дороге он вспоминал Устинью и говорил: «Ай да Устинья!».",
+          "id": "sent-138",
+          "text": "y, cuando miraba sus pantalones, remendados por Ustinia,",
+          "translationRu": "и, когда смотрел свои штаны, заштопанные Устиньей,",
+          "original": "и, когда смотрел свои штаны, заштопанные Устиньей,"
+        },
+        {
+          "id": "sent-139",
+          "text": "movía la cabeza y sonreía.",
+          "translationRu": "покачивал головой и улыбался.",
+          "original": "покачивал головой и улыбался."
+        },
+        {
+          "id": "sent-140",
+          "text": "A menudo, en el trabajo o de camino, se acordaba de Ustinia y decía: «¡Ay, qué Ustinia!»",
+          "translationRu": "Часто за работой или на ходу он вспоминал Устинью и говорил: «Ай да Устинья!»",
           "original": "Часто за работой или на ходу он вспоминал Устинью и говорил: «Ай да Устинья!»"
         },
         {
-          "id": "sent-095",
-          "text": "Ustinia le ayudaba donde podía, y él le ayudaba a ella.",
+          "id": "sent-141",
+          "text": "Ustinia lo ayudaba donde podía, y él la ayudaba a ella.",
           "translationRu": "Устинья помогала ему, где могла, и он помогал ей.",
           "original": "Устинья помогала ему, где могла, и он помогал ей."
         },
         {
-          "id": "sent-096",
-          "text": "Ella le contó su vida: cómo quedó huérfana, cómo la tomó su tía, cómo la entregaron a la ciudad.",
-          "translationRu": "Она рассказала ему свою жизнь: как осиротела, как её взяла тётка, как её отдали в город.",
-          "original": "Она рассказала ему свою судьбу, как она осиротела, как ее тетка взяла, как отдали в город,"
+          "id": "sent-142",
+          "text": "Ella le contó su vida:",
+          "translationRu": "Она рассказала ему свою судьбу:",
+          "original": "Она рассказала ему свою судьбу,"
         },
         {
-          "id": "sent-097",
-          "text": "Y cómo el hijo del comerciante la incitaba a una tontería, y cómo ella lo paró en seco.",
-          "translationRu": "И как купеческий сын подбивал её на глупость, и как она его осадила.",
+          "id": "sent-143",
+          "text": "cómo quedó huérfana, cómo la tomó su tía,",
+          "translationRu": "как она осиротела, как её тётка взяла,",
+          "original": "как она осиротела, как ее тетка взяла,"
+        },
+        {
+          "id": "sent-144",
+          "text": "cómo la mandaron a la ciudad,",
+          "translationRu": "как отдали в город,",
+          "original": "как отдали в город,"
+        },
+        {
+          "id": "sent-145",
+          "text": "cómo el hijo de un comerciante la incitaba a una tontería y cómo ella lo puso en su sitio.",
+          "translationRu": "как купеческий сын подговаривал её на глупость и как она его осадила.",
           "original": "как купеческий сын ее на глупость подговаривал и как она его осадила."
         },
         {
-          "id": "sent-098",
-          "text": "A ella le gustaba hablar, y a él le resultaba agradable escucharla.",
-          "translationRu": "Она любила говорить, а ему было приятно её слушать.",
+          "id": "sent-146",
+          "text": "A ella le gustaba hablar, y a él le agradaba escucharla.",
+          "translationRu": "Она любила говорить, а ему приятно было её слушать.",
           "original": "Она любила говорить, а ему приятно было ее слушать."
         },
         {
-          "id": "sent-099",
-          "text": "Había oído que en las ciudades pasa a menudo que algunos campesinos que sirven de obreros se casan con las cocineras.",
-          "translationRu": "Он слышал, что в городах часто бывает: некоторые мужики, что в работниках, женятся на кухарках.",
-          "original": "Он слыхал, что в городах часто бывает: какие мужики в работниках — женятся на кухарках."
+          "id": "sent-147",
+          "text": "Había oído que en las ciudades pasa a menudo:",
+          "translationRu": "Он слыхал, что в городах часто бывает:",
+          "original": "Он слыхал, что в городах часто бывает:"
         },
         {
-          "id": "sent-100",
-          "text": "Y una vez ella le preguntó si pronto lo iban a casar.",
+          "id": "sent-148",
+          "text": "los mozos que sirven de peones se casan con las cocineras.",
+          "translationRu": "какие мужики в работниках — женятся на кухарках.",
+          "original": "какие мужики в работниках — женятся на кухарках."
+        },
+        {
+          "id": "sent-149",
+          "text": "Y una vez ella le preguntó si pronto lo casarían.",
           "translationRu": "И один раз она спросила его, скоро ли его женят.",
           "original": "И один раз она спросила его, скоро ли его женят."
         },
         {
-          "id": "sent-101",
-          "text": "Él dijo que no lo sabía y que no tenía ganas de tomar mujer en el pueblo.",
-          "translationRu": "Он сказал, что не знает и что ему неохота брать жену в деревне.",
+          "id": "sent-150",
+          "text": "Él dijo que no lo sabía y que no le apetecía tomar mujer en el pueblo.",
+          "translationRu": "Он сказал, что не знает и что ему неохота брать в деревне.",
           "original": "Он сказал, что не знает и что ему неохота в деревне брать."
         }
       ]
@@ -713,10 +1007,16 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-102",
-          "text": "—¿Y qué, a quién le has echado el ojo? —dijo ella.",
-          "translationRu": "— А что, кого ты приглядел? — сказала она.",
-          "original": "— Что ж, кого приглядел? — сказала она."
+          "id": "sent-151",
+          "text": "—¿Y bien, en quién te has fijado?",
+          "translationRu": "— Что ж, кого приглядел?",
+          "original": "— Что ж, кого приглядел?"
+        },
+        {
+          "id": "sent-152",
+          "text": "—dijo ella.",
+          "translationRu": "— сказала она.",
+          "original": "— сказала она."
         }
       ]
     },
@@ -724,10 +1024,16 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-103",
-          "text": "—Pues a ti te tomaría. ¿Vendrías, o qué?",
-          "translationRu": "— Да я бы тебя взял. Пойдёшь, что ли?",
-          "original": "— Да я бы тебя взял. Пойдешь, что ли?"
+          "id": "sent-153",
+          "text": "—Pues a ti te tomaría.",
+          "translationRu": "— Да я бы тебя взял.",
+          "original": "— Да я бы тебя взял."
+        },
+        {
+          "id": "sent-154",
+          "text": "¿Vendrías, o qué?",
+          "translationRu": "Пойдёшь, что ли?",
+          "original": "Пойдешь, что ли?"
         }
       ]
     },
@@ -735,16 +1041,22 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-104",
-          "text": "—Mira tú, una olla, una olla, y cómo se las ha arreglado para decirlo —dijo ella, dándole con el trapo en la espalda—.",
-          "translationRu": "— Гляди-ка, горшок, горшок, а как изловчился сказать, — сказала она, ударив его тряпкой по спине.",
-          "original": "— Вишь, горшок, горшок, а как изловчился сказать, — сказала она, ударив его ручником по спине."
+          "id": "sent-155",
+          "text": "—Mira, un puchero, un puchero, pero cómo se las ha arreglado para decirlo —dijo ella,",
+          "translationRu": "— Вишь, горшок, горшок, а как изловчился сказать, — сказала она,",
+          "original": "— Вишь, горшок, горшок, а как изловчился сказать, — сказала она,"
         },
         {
-          "id": "sent-105",
-          "text": "¿Y por qué no habría de ir?",
-          "translationRu": "— Отчего же не пойти?",
-          "original": "— Отчего же не пойти?"
+          "id": "sent-156",
+          "text": "dándole con el paño en la espalda—.",
+          "translationRu": "ударив его ручником по спине. —",
+          "original": "ударив его ручником по спине. —"
+        },
+        {
+          "id": "sent-157",
+          "text": "¿Y por qué no ir?",
+          "translationRu": "Отчего же не пойти?",
+          "original": "Отчего же не пойти?"
         }
       ]
     },
@@ -752,25 +1064,25 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-106",
-          "text": "En la semana de Carnaval el viejo vino a la ciudad a por el dinero.",
+          "id": "sent-158",
+          "text": "En la Semana de Carnaval el viejo vino a la ciudad a por el dinero.",
           "translationRu": "На масленице старик приехал в город за деньгами.",
           "original": "На масленице старик приехал в город за деньгами."
         },
         {
-          "id": "sent-107",
-          "text": "La mujer del comerciante se enteró de que Alexéi había decidido casarse con Ustinia, y eso no le gustó.",
-          "translationRu": "Жена купца узнала, что Алексей задумал жениться на Устинье, и ей это не понравилось.",
+          "id": "sent-159",
+          "text": "La mujer del comerciante se enteró de que Alekséi pensaba casarse con Ustinia, y aquello no le gustó.",
+          "translationRu": "Купцова жена узнала, что Алексей задумал жениться на Устинье, и ей не понравилось это.",
           "original": "Купцова жена узнала, что Алексей задумал жениться на Устинье, и ей не понравилось это."
         },
         {
-          "id": "sent-108",
-          "text": "«Se quedará embarazada, y con un niño, ¿para qué sirve?».",
-          "translationRu": "«Забеременеет, а с ребёнком на что она годится?».",
+          "id": "sent-160",
+          "text": "«Se quedará embarazada, ¿para qué va a servir con un niño?»",
+          "translationRu": "«Забеременеет, с ребёнком куда она годится».",
           "original": "«Забеременеет, с ребенком куда она годится»."
         },
         {
-          "id": "sent-109",
+          "id": "sent-161",
           "text": "Se lo dijo a su marido.",
           "translationRu": "Она сказала мужу.",
           "original": "Она сказала мужу."
@@ -781,8 +1093,8 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-110",
-          "text": "El amo le entregó el dinero al padre de Alexéi.",
+          "id": "sent-162",
+          "text": "El amo entregó el dinero al padre de Alekséi.",
           "translationRu": "Хозяин отдал деньги отцу Алексея.",
           "original": "Хозяин отдал деньги Алексееву отцу."
         }
@@ -792,16 +1104,22 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-111",
-          "text": "—¿Y qué, vive bien el mío? —dijo el campesino—.",
-          "translationRu": "— Ну что, хорошо живёт мой-то? — сказал мужик.",
-          "original": "— Что ж, хорошо живет мой-то? — сказал мужик."
+          "id": "sent-163",
+          "text": "—¿Qué, vive bien el mío?",
+          "translationRu": "— Что ж, хорошо живёт мой-то?",
+          "original": "— Что ж, хорошо живет мой-то?"
         },
         {
-          "id": "sent-112",
-          "text": "Yo ya lo decía: es un manso.",
-          "translationRu": "Я ведь говорил — безответный.",
-          "original": "— Я говорил — безответный."
+          "id": "sent-164",
+          "text": "—dijo el campesino—.",
+          "translationRu": "— сказал мужик. —",
+          "original": "— сказал мужик. —"
+        },
+        {
+          "id": "sent-165",
+          "text": "Ya decía yo: es un manso.",
+          "translationRu": "Я говорил — безответный.",
+          "original": "Я говорил — безответный."
         }
       ]
     },
@@ -809,22 +1127,28 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-113",
-          "text": "—Manso sí es, pero se le ha metido una tontería en la cabeza.",
-          "translationRu": "— Безответный-то безответный, да глупость задумал.",
+          "id": "sent-166",
+          "text": "—Manso, sí que es manso, pero se le ha metido una tontería en la cabeza.",
+          "translationRu": "— Безответный-то безответный, да глупости задумал.",
           "original": "— Безответный-то безответный, да глупости задумал."
         },
         {
-          "id": "sent-114",
+          "id": "sent-167",
           "text": "Se le ha ocurrido casarse con la cocinera.",
           "translationRu": "Жениться вздумал на кухарке.",
           "original": "Жениться вздумал на кухарке."
         },
         {
-          "id": "sent-115",
-          "text": "Y yo a los casados no los voy a tener. Eso a nosotros no nos conviene.",
-          "translationRu": "А я женатых держать не стану. Нам это не подходит.",
-          "original": "А я женатых держать не стану. Нам это не подходяще."
+          "id": "sent-168",
+          "text": "Y yo no voy a tener a hombres casados.",
+          "translationRu": "А я женатых держать не стану.",
+          "original": "А я женатых держать не стану."
+        },
+        {
+          "id": "sent-169",
+          "text": "Eso no nos conviene.",
+          "translationRu": "Нам это не подходяще.",
+          "original": "Нам это не подходяще."
         }
       ]
     },
@@ -832,16 +1156,28 @@
       "id": "para-027",
       "sentences": [
         {
-          "id": "sent-116",
-          "text": "—Tonto, tonto, pero mira lo que se le ha ocurrido —dijo el padre—.",
-          "translationRu": "— Дурак, дурак, а вон что задумал, — сказал отец.",
-          "original": "— Дурак, дурак, а что вздумал, — сказал отец."
+          "id": "sent-170",
+          "text": "—Tonto, tonto, ¡y mira lo que se le ha ocurrido!",
+          "translationRu": "— Дурак, дурак, а что вздумал,",
+          "original": "— Дурак, дурак, а что вздумал,"
         },
         {
-          "id": "sent-117",
-          "text": "Tú no te preocupes. Le ordenaré que lo deje.",
-          "translationRu": "Ты не думай. Я прикажу ему, чтобы он это бросил.",
-          "original": "— Ты не думай. Я прикажу ему, чтоб он это бросил."
+          "id": "sent-171",
+          "text": "—dijo el padre—.",
+          "translationRu": "— сказал отец. —",
+          "original": "— сказал отец. —"
+        },
+        {
+          "id": "sent-172",
+          "text": "Tú no te preocupes.",
+          "translationRu": "Ты не думай.",
+          "original": "Ты не думай."
+        },
+        {
+          "id": "sent-173",
+          "text": "Le ordenaré que lo deje.",
+          "translationRu": "Я прикажу ему, чтоб он это бросил.",
+          "original": "Я прикажу ему, чтоб он это бросил."
         }
       ]
     },
@@ -849,15 +1185,15 @@
       "id": "para-028",
       "sentences": [
         {
-          "id": "sent-118",
-          "text": "Al entrar en la cocina, el padre se sentó a la mesa a esperar a su hijo.",
-          "translationRu": "Войдя в кухню, отец сел за стол, дожидаясь сына.",
+          "id": "sent-174",
+          "text": "Al llegar a la cocina, el padre se sentó a la mesa a esperar a su hijo.",
+          "translationRu": "Придя в кухню, отец сел за стол, дожидаясь сына.",
           "original": "Придя в кухню, отец сел, дожидаясь сына, за стол."
         },
         {
-          "id": "sent-119",
+          "id": "sent-175",
           "text": "Aliosha andaba haciendo recados y volvió sin aliento.",
-          "translationRu": "Алёша бегал по делам и вернулся, запыхавшись.",
+          "translationRu": "Алёша бегал по делам и, запыхавшись, вернулся.",
           "original": "Алеша бегал по делам и, запыхавшись, вернулся."
         }
       ]
@@ -866,10 +1202,22 @@
       "id": "para-029",
       "sentences": [
         {
-          "id": "sent-120",
-          "text": "—Yo te creía sensato. ¿Y qué es lo que se te ha ocurrido? —dijo el padre.",
-          "translationRu": "— Я думал, ты путный. А ты что задумал? — сказал отец.",
-          "original": "— Я думал, ты путный. А ты что задумал? — сказал отец."
+          "id": "sent-176",
+          "text": "—Yo te tenía por sensato.",
+          "translationRu": "— Я думал, ты путный.",
+          "original": "— Я думал, ты путный."
+        },
+        {
+          "id": "sent-177",
+          "text": "¿Y qué es lo que se te ha ocurrido?",
+          "translationRu": "А ты что задумал?",
+          "original": "А ты что задумал?"
+        },
+        {
+          "id": "sent-178",
+          "text": "—dijo el padre.",
+          "translationRu": "— сказал отец.",
+          "original": "— сказал отец."
         }
       ]
     },
@@ -877,7 +1225,7 @@
       "id": "para-030",
       "sentences": [
         {
-          "id": "sent-121",
+          "id": "sent-179",
           "text": "—Pues yo nada.",
           "translationRu": "— Да я ничего.",
           "original": "— Да я ничего."
@@ -888,16 +1236,28 @@
       "id": "para-031",
       "sentences": [
         {
-          "id": "sent-122",
-          "text": "—¿Cómo que nada? Quisiste casarte.",
-          "translationRu": "— Как ничего? Жениться захотел.",
-          "original": "— Как ничего. Жениться захотел."
+          "id": "sent-180",
+          "text": "—¿Cómo que nada?",
+          "translationRu": "— Как ничего.",
+          "original": "— Как ничего."
         },
         {
-          "id": "sent-123",
-          "text": "Yo te casaré cuando llegue el momento, y te casaré con quien haga falta, no con una golfa de ciudad.",
-          "translationRu": "Я женю тебя, когда придёт время, и женю на ком надо, а не на городской распутнице.",
-          "original": "Я женю, когда время подойдет, и женю на ком надо, а не на шлюхе городской."
+          "id": "sent-181",
+          "text": "Has querido casarte.",
+          "translationRu": "Жениться захотел.",
+          "original": "Жениться захотел."
+        },
+        {
+          "id": "sent-182",
+          "text": "Yo te casaré cuando llegue el momento, y con quien haga falta,",
+          "translationRu": "Я женю, когда время подойдёт, и женю на ком надо,",
+          "original": "Я женю, когда время подойдет, и женю на ком надо,"
+        },
+        {
+          "id": "sent-183",
+          "text": "no con una golfa de la ciudad.",
+          "translationRu": "а не на шлюхе городской.",
+          "original": "а не на шлюхе городской."
         }
       ]
     },
@@ -905,19 +1265,19 @@
       "id": "para-032",
       "sentences": [
         {
-          "id": "sent-124",
+          "id": "sent-184",
           "text": "El padre habló mucho.",
-          "translationRu": "Отец говорил много.",
+          "translationRu": "Отец много говорил.",
           "original": "Отец много говорил."
         },
         {
-          "id": "sent-125",
+          "id": "sent-185",
           "text": "Aliosha estaba de pie y suspiraba.",
           "translationRu": "Алёша стоял и вздыхал.",
           "original": "Алеша стоял и вздыхал."
         },
         {
-          "id": "sent-126",
+          "id": "sent-186",
           "text": "Cuando el padre terminó, Aliosha sonrió.",
           "translationRu": "Когда отец кончил, Алёша улыбнулся.",
           "original": "Когда отец кончил, Алеша улыбнулся."
@@ -928,8 +1288,8 @@
       "id": "para-033",
       "sentences": [
         {
-          "id": "sent-127",
-          "text": "—Bueno, pues esto también se puede dejar.",
+          "id": "sent-187",
+          "text": "—Bueno, pues se puede dejar también.",
           "translationRu": "— Что ж, это и оставить можно.",
           "original": "— Что ж, это и оставить можно."
         }
@@ -939,7 +1299,7 @@
       "id": "para-034",
       "sentences": [
         {
-          "id": "sent-128",
+          "id": "sent-188",
           "text": "—Eso es.",
           "translationRu": "— То-то.",
           "original": "— То-то."
@@ -950,10 +1310,16 @@
       "id": "para-035",
       "sentences": [
         {
-          "id": "sent-129",
-          "text": "Cuando el padre se fue y él se quedó a solas con Ustinia, le dijo (ella había estado detrás de la puerta escuchando mientras el padre hablaba con su hijo):",
-          "translationRu": "Когда отец ушёл и он остался один с Устиньей, он сказал ей (она стояла за дверью и слушала, когда отец говорил с сыном):",
-          "original": "Когда отец ушел и он остался один с Устиньей, он сказал ей (она стояла за дверью и слушала, когда отец говорил с сыном):"
+          "id": "sent-189",
+          "text": "Cuando el padre se fue y él se quedó solo con Ustinia, le dijo",
+          "translationRu": "Когда отец ушёл и он остался один с Устиньей, он сказал ей",
+          "original": "Когда отец ушел и он остался один с Устиньей, он сказал ей"
+        },
+        {
+          "id": "sent-190",
+          "text": "(ella estaba detrás de la puerta y escuchaba cuando el padre hablaba con el hijo):",
+          "translationRu": "(она стояла за дверью и слушала, когда отец говорил с сыном):",
+          "original": "(она стояла за дверью и слушала, когда отец говорил с сыном):"
         }
       ]
     },
@@ -961,15 +1327,21 @@
       "id": "para-036",
       "sentences": [
         {
-          "id": "sent-130",
-          "text": "—Lo nuestro no va a poder ser, no salió. ¿Lo oíste?",
-          "translationRu": "— Дело наше не выходит, не вышло. Слышала?",
-          "original": "— Дело наше не того, не вышло. Слышала?"
+          "id": "sent-191",
+          "text": "—Lo nuestro no ha cuajado, no ha salido.",
+          "translationRu": "— Дело наше не того, не вышло.",
+          "original": "— Дело наше не того, не вышло."
         },
         {
-          "id": "sent-131",
-          "text": "Se enfadó, no me deja.",
-          "translationRu": "Рассердился, не велит.",
+          "id": "sent-192",
+          "text": "¿Lo has oído?",
+          "translationRu": "Слышала?",
+          "original": "Слышала?"
+        },
+        {
+          "id": "sent-193",
+          "text": "Se ha enfadado, no lo permite.",
+          "translationRu": "Рассерчал, не велит.",
           "original": "Рассерчал, не велит."
         }
       ]
@@ -978,14 +1350,14 @@
       "id": "para-037",
       "sentences": [
         {
-          "id": "sent-132",
-          "text": "Ella se echó a llorar en silencio contra el delantal.",
+          "id": "sent-194",
+          "text": "Ella se echó a llorar en silencio en el delantal.",
           "translationRu": "Она заплакала молча в фартук.",
           "original": "Она заплакала молча в фартук."
         },
         {
-          "id": "sent-133",
-          "text": "Aliosha chasqueó la lengua.",
+          "id": "sent-195",
+          "text": "Aliosha chascó la lengua.",
           "translationRu": "Алёша щёлкнул языком.",
           "original": "Алеша щелкнул языком."
         }
@@ -995,15 +1367,21 @@
       "id": "para-038",
       "sentences": [
         {
-          "id": "sent-134",
-          "text": "—Cómo no obedecer. Está claro que hay que dejarlo.",
-          "translationRu": "— Как не послушаться. Видно, надо бросать.",
-          "original": "— Как не послушаешь-то. Видно, бросать надо."
+          "id": "sent-196",
+          "text": "—Cómo no vas a obedecer.",
+          "translationRu": "— Как не послушаешь-то.",
+          "original": "— Как не послушаешь-то."
         },
         {
-          "id": "sent-135",
+          "id": "sent-197",
+          "text": "Se ve que hay que dejarlo.",
+          "translationRu": "Видно, бросать надо.",
+          "original": "Видно, бросать надо."
+        },
+        {
+          "id": "sent-198",
           "text": "Por la tarde, cuando la mujer del comerciante lo llamó para cerrar las contraventanas, ella le dijo:",
-          "translationRu": "Вечером, когда жена купца позвала его закрыть ставни, она сказала ему:",
+          "translationRu": "Вечером, когда купчиха позвала его закрыть ставни, она сказала ему:",
           "original": "Вечером, когда купчиха позвала его закрыть ставни, она сказала ему:"
         }
       ]
@@ -1012,9 +1390,9 @@
       "id": "para-039",
       "sentences": [
         {
-          "id": "sent-136",
-          "text": "—¿Y qué, obedeciste a tu padre, dejaste tus tonterías?",
-          "translationRu": "— Ну что, послушался отца, бросил свои глупости?",
+          "id": "sent-199",
+          "text": "—¿Qué, has obedecido a tu padre, has dejado tus tonterías?",
+          "translationRu": "— Что ж, послушал отца, бросил глупости свои?",
           "original": "— Что ж, послушал отца, бросил глупости свои?"
         }
       ]
@@ -1023,10 +1401,16 @@
       "id": "para-040",
       "sentences": [
         {
-          "id": "sent-137",
-          "text": "—Está claro que lo dejé —dijo Aliosha, se rió y al instante se echó a llorar.",
-          "translationRu": "— Видно, что бросил, — сказал Алёша, засмеялся и тут же заплакал.",
-          "original": "— Видно, что бросил, — сказал Алеша, засмеялся и тут же заплакал."
+          "id": "sent-200",
+          "text": "—Se ve que las he dejado —dijo Aliosha,",
+          "translationRu": "— Видно, что бросил, — сказал Алёша,",
+          "original": "— Видно, что бросил, — сказал Алеша,"
+        },
+        {
+          "id": "sent-201",
+          "text": "se rió y enseguida se echó a llorar.",
+          "translationRu": "засмеялся и тут же заплакал.",
+          "original": "засмеялся и тут же заплакал."
         }
       ]
     },
@@ -1034,10 +1418,16 @@
       "id": "para-041",
       "sentences": [
         {
-          "id": "sent-138",
-          "text": "Desde entonces Aliosha no volvió a hablar con Ustinia de la boda y vivió como antes.",
-          "translationRu": "С тех пор Алёша больше не говорил с Устиньей о женитьбе и жил по-старому.",
-          "original": "С тех пор Алеша не говорил больше с Устиньей об женитьбе и жил по-старому."
+          "id": "sent-202",
+          "text": "Desde entonces Aliosha no volvió a hablar con Ustinia de casarse",
+          "translationRu": "С тех пор Алёша не говорил больше с Устиньей о женитьбе",
+          "original": "С тех пор Алеша не говорил больше с Устиньей об женитьбе"
+        },
+        {
+          "id": "sent-203",
+          "text": "y vivió como antes.",
+          "translationRu": "и жил по-старому.",
+          "original": "и жил по-старому."
         }
       ]
     },
@@ -1045,39 +1435,39 @@
       "id": "para-042",
       "sentences": [
         {
-          "id": "sent-139",
-          "text": "Después el capataz lo mandó a quitar la nieve del tejado.",
-          "translationRu": "Потом приказчик послал его убирать снег с крыши.",
+          "id": "sent-204",
+          "text": "Luego el capataz lo mandó a limpiar la nieve del tejado.",
+          "translationRu": "Потом приказчик послал его счищать снег с крыши.",
           "original": "Потом приказчик послал его счищать снег с крыши."
         },
         {
-          "id": "sent-140",
-          "text": "Subió al tejado y quitó toda la nieve.",
-          "translationRu": "Он залез на крышу и убрал весь снег.",
+          "id": "sent-205",
+          "text": "Subió al tejado, lo limpió todo,",
+          "translationRu": "Он полез на крышу, счистил весь,",
           "original": "Он полез на крышу, счистил весь,"
         },
         {
-          "id": "sent-141",
-          "text": "Empezó a arrancar la nieve helada de los canalones.",
-          "translationRu": "Он начал отдирать примёрзший снег у желобов.",
+          "id": "sent-206",
+          "text": "empezó a arrancar la nieve helada de los canalones,",
+          "translationRu": "стал отдирать примёрзлый снег у желобов,",
           "original": "стал отдирать примерзлый снег у желобов,"
         },
         {
-          "id": "sent-142",
-          "text": "Sus pies resbalaron y se cayó con la pala.",
-          "translationRu": "Его ноги поехали, и он упал с лопатой.",
+          "id": "sent-207",
+          "text": "los pies le resbalaron y cayó con la pala.",
+          "translationRu": "ноги покатились, и он упал с лопатой.",
           "original": "ноги покатились, и он упал с лопатой."
         },
         {
-          "id": "sent-143",
-          "text": "Por desgracia no cayó en la nieve, sino sobre una salida cubierta de hierro.",
-          "translationRu": "На беду он упал не в снег, а на крытый железом выход.",
+          "id": "sent-208",
+          "text": "Por desgracia no cayó en la nieve, sino en un cobertizo cubierto de hierro.",
+          "translationRu": "На беду упал он не в снег, а на крытый железом выход.",
           "original": "На беду упал он не в снег, а на крытый железом выход."
         },
         {
-          "id": "sent-144",
+          "id": "sent-209",
           "text": "Ustinia corrió hacia él, y también la hija de los amos.",
-          "translationRu": "Устинья подбежала к нему, и хозяйская дочь тоже.",
+          "translationRu": "Устинья подбежала к нему, и хозяйская дочь.",
           "original": "Устинья подбежала к нему и хозяйская дочь."
         }
       ]
@@ -1086,9 +1476,9 @@
       "id": "para-043",
       "sentences": [
         {
-          "id": "sent-145",
-          "text": "—¿Te hiciste daño, Aliosha?",
-          "translationRu": "— Ты ушибся, Алёша?",
+          "id": "sent-210",
+          "text": "—¿Te has hecho daño, Aliosha?",
+          "translationRu": "— Ушибся, Алёша?",
           "original": "— Ушибся, Алеша?"
         }
       ]
@@ -1097,15 +1487,15 @@
       "id": "para-044",
       "sentences": [
         {
-          "id": "sent-146",
-          "text": "—Qué va, hacerme daño.",
-          "translationRu": "— Да что там, ушибся.",
+          "id": "sent-211",
+          "text": "—Qué va, daño.",
+          "translationRu": "— Вот ещё, ушибся.",
           "original": "— Вот еще, ушибся."
         },
         {
-          "id": "sent-147",
+          "id": "sent-212",
           "text": "No es nada.",
-          "translationRu": "— Ничего.",
+          "translationRu": "Ничего.",
           "original": "Ничево."
         }
       ]
@@ -1114,27 +1504,27 @@
       "id": "para-045",
       "sentences": [
         {
-          "id": "sent-148",
+          "id": "sent-213",
           "text": "Quiso levantarse, pero no pudo, y se puso a sonreír.",
-          "translationRu": "Он хотел встать, но не смог и стал улыбаться.",
+          "translationRu": "Он хотел встать, но не мог и стал улыбаться.",
           "original": "Он хотел встать, но не мог и стал улыбаться."
         },
         {
-          "id": "sent-149",
-          "text": "Lo llevaron a la habitación de los criados.",
-          "translationRu": "Его отнесли в дворницкую.",
+          "id": "sent-214",
+          "text": "Lo llevaron a la habitación del portero.",
+          "translationRu": "Его снесли в дворницкую.",
           "original": "Его снесли в дворницкую."
         },
         {
-          "id": "sent-150",
+          "id": "sent-215",
           "text": "Vino el practicante.",
           "translationRu": "Пришёл фельдшер.",
           "original": "Пришел фельдшер."
         },
         {
-          "id": "sent-151",
+          "id": "sent-216",
           "text": "Lo examinó y le preguntó dónde le dolía.",
-          "translationRu": "Он осмотрел его и спросил, где болит.",
+          "translationRu": "Осмотрел его и спросил, где больно.",
           "original": "Осмотрел его и спросил, где больно."
         }
       ]
@@ -1143,21 +1533,21 @@
       "id": "para-046",
       "sentences": [
         {
-          "id": "sent-152",
-          "text": "—Me duele en todas partes, pero no es nada.",
-          "translationRu": "— Болит везде, да это ничего.",
+          "id": "sent-217",
+          "text": "—Me duele en todas partes, pero eso no es nada.",
+          "translationRu": "— Больно везде, да это ничего.",
           "original": "— Больно везде, да это ничево."
         },
         {
-          "id": "sent-153",
-          "text": "Lo malo es que el amo se va a enfadar.",
-          "translationRu": "— Только хозяин обидится.",
+          "id": "sent-218",
+          "text": "Solo que el amo se va a enfadar.",
+          "translationRu": "Только что хозяин обидится.",
           "original": "Только что хозяин обидится."
         },
         {
-          "id": "sent-154",
-          "text": "Hay que avisar a mis padres.",
-          "translationRu": "— Надо дать весть батюшке.",
+          "id": "sent-219",
+          "text": "Hay que avisar al padre.",
+          "translationRu": "Надо батюшке послать слух.",
           "original": "Надо батюшке послать слух."
         }
       ]
@@ -1166,10 +1556,16 @@
       "id": "para-047",
       "sentences": [
         {
-          "id": "sent-155",
-          "text": "Aliosha estuvo en cama dos días, y al tercero mandaron llamar al cura.",
-          "translationRu": "Алёша пролежал двое суток, а на третьи послали за попом.",
-          "original": "Пролежал Алеша двое суток, на третьи послали за попом."
+          "id": "sent-220",
+          "text": "Aliosha estuvo tendido dos días,",
+          "translationRu": "Пролежал Алёша двое суток,",
+          "original": "Пролежал Алеша двое суток,"
+        },
+        {
+          "id": "sent-221",
+          "text": "y al tercero mandaron llamar al sacerdote.",
+          "translationRu": "на третьи послали за попом.",
+          "original": "на третьи послали за попом."
         }
       ]
     },
@@ -1177,10 +1573,16 @@
       "id": "para-048",
       "sentences": [
         {
-          "id": "sent-156",
-          "text": "—¿Qué pasa, te vas a morir? —preguntó Ustinia.",
-          "translationRu": "— Что же, помирать будешь? — спросила Устинья.",
-          "original": "— Что же, али помирать будешь? — спросила Устинья."
+          "id": "sent-222",
+          "text": "—¿Qué, es que te vas a morir?",
+          "translationRu": "— Что же, али помирать будешь?",
+          "original": "— Что же, али помирать будешь?"
+        },
+        {
+          "id": "sent-223",
+          "text": "—preguntó Ustinia.",
+          "translationRu": "— спросила Устинья.",
+          "original": "— спросила Устинья."
         }
       ]
     },
@@ -1188,39 +1590,39 @@
       "id": "para-049",
       "sentences": [
         {
-          "id": "sent-157",
-          "text": "—¿Y qué más da?",
+          "id": "sent-224",
+          "text": "—¿Y qué si no?",
           "translationRu": "— А то что ж?",
           "original": "— А то что ж?"
         },
         {
-          "id": "sent-158",
-          "text": "¿Acaso vamos a vivir para siempre?",
-          "translationRu": "— Разве мы все будем жить вечно?",
+          "id": "sent-225",
+          "text": "Acaso vamos a vivir siempre.",
+          "translationRu": "Разве всё и жить будем?",
           "original": "Разве всё и жить будем?"
         },
         {
-          "id": "sent-159",
-          "text": "Alguna vez hay que morir —dijo Aliosha deprisa, como siempre—.",
-          "translationRu": "— Когда-нибудь надо, — быстро, как всегда, сказал Алёша.",
-          "original": "Когда-нибудь надо, — быстро, как всегда, проговорил Алеша."
+          "id": "sent-226",
+          "text": "Alguna vez hay que morir —dijo Aliosha, rápido, como siempre—.",
+          "translationRu": "Когда-нибудь надо, — быстро, как всегда, проговорил Алёша. —",
+          "original": "Когда-нибудь надо, — быстро, как всегда, проговорил Алеша. —"
         },
         {
-          "id": "sent-160",
-          "text": "Gracias, Ustiusha, por haberte apiadado de mí.",
-          "translationRu": "— Спасибо, Устюша, что жалела меня.",
-          "original": "— Спасибо, Устюша, что жалела меня."
+          "id": "sent-227",
+          "text": "Gracias, Ustiusha, por haberte compadecido de mí.",
+          "translationRu": "Спасибо, Устюша, что жалела меня.",
+          "original": "Спасибо, Устюша, что жалела меня."
         },
         {
-          "id": "sent-161",
-          "text": "Mira, hasta ha sido mejor que no nos dejaran casarnos, si no, no habría servido de nada.",
-          "translationRu": "— Вот и лучше, что не велели жениться, а то бы ни к чему было.",
+          "id": "sent-228",
+          "text": "Mira, hasta es mejor que no nos dejaran casarnos, si no, no habría servido de nada.",
+          "translationRu": "Вот оно и лучше, что не велели жениться, а то бы ни к чему было.",
           "original": "Вот оно и лучше, что не велели жениться, а то бы ни к чему было."
         },
         {
-          "id": "sent-162",
+          "id": "sent-229",
           "text": "Ahora todo está bien.",
-          "translationRu": "— Теперь всё по-хорошему.",
+          "translationRu": "Теперь всё по-хорошему.",
           "original": "Теперь все по-хорошему."
         }
       ]
@@ -1229,16 +1631,22 @@
       "id": "para-050",
       "sentences": [
         {
-          "id": "sent-163",
-          "text": "Rezó con el cura solo con las manos y con el corazón.",
-          "translationRu": "Он молился с попом только руками и сердцем.",
+          "id": "sent-230",
+          "text": "Rezó con el sacerdote solo con las manos y con el corazón.",
+          "translationRu": "Молился он с попом только руками и сердцем.",
           "original": "Молился он с попом только руками и сердцем."
         },
         {
-          "id": "sent-164",
-          "text": "Y en su corazón sentía esto: que, así como aquí se está bien cuando obedeces y no ofendes a nadie, allí también se estará bien.",
-          "translationRu": "А в сердце у него было то, что как здесь хорошо, когда слушаешься и не обижаешь, так и там будет хорошо.",
-          "original": "А в сердце у него было то, что как здесь хорошо, коли слушаешь и не обижаешь, так и там хорошо будет."
+          "id": "sent-231",
+          "text": "Y en su corazón sentía que, así como aquí se está bien cuando obedeces y no ofendes,",
+          "translationRu": "А в сердце у него было то, что как здесь хорошо, коли слушаешь и не обижаешь,",
+          "original": "А в сердце у него было то, что как здесь хорошо, коли слушаешь и не обижаешь,"
+        },
+        {
+          "id": "sent-232",
+          "text": "también allí se estará bien.",
+          "translationRu": "так и там хорошо будет.",
+          "original": "так и там хорошо будет."
         }
       ]
     },
@@ -1246,14 +1654,14 @@
       "id": "para-051",
       "sentences": [
         {
-          "id": "sent-165",
+          "id": "sent-233",
           "text": "Hablaba poco.",
           "translationRu": "Говорил он мало.",
           "original": "Говорил он мало."
         },
         {
-          "id": "sent-166",
-          "text": "Solo pedía de beber y se asombraba de algo todo el tiempo.",
+          "id": "sent-234",
+          "text": "Solo pedía de beber y de algo se asombraba sin cesar.",
           "translationRu": "Только просил пить и всё чему-то удивлялся.",
           "original": "Только просил пить и все чему-то удивлялся."
         }
@@ -1263,9 +1671,9 @@
       "id": "para-052",
       "sentences": [
         {
-          "id": "sent-167",
+          "id": "sent-235",
           "text": "Se asombró de algo, se estiró y murió.",
-          "translationRu": "Удивился чему-то, потянулся и умер.",
+          "translationRu": "Удивился чему-то, потянулся и помер.",
           "original": "Удивился чему-то, потянулся и помер."
         }
       ]

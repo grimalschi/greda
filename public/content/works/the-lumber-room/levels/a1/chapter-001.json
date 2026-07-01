@@ -1,0 +1,867 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-lumber-room",
+  "level": "a1",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "El cuarto trastero"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "Los niños van a ir a la playa de Jagborough.",
+          "translationRu": "Дети поедут на пляж в Джагборо.",
+          "original": "The children were to be driven, as a special treat, to the sands at Jagborough.",
+          "originalRu": "Детей должны были отвезти, в качестве особого угощения, на пески в Джагборо."
+        },
+        {
+          "id": "sent-002",
+          "text": "Nicholas no va con ellos.",
+          "translationRu": "Николас с ними не едет.",
+          "original": "Nicholas was not to be of the party;",
+          "originalRu": "Николас не был частью этой компании;"
+        },
+        {
+          "id": "sent-003",
+          "text": "Está castigado.",
+          "translationRu": "Он наказан.",
+          "original": "he was in disgrace.",
+          "originalRu": "он был в немилости."
+        },
+        {
+          "id": "sent-004",
+          "text": "Esa mañana no quiso comer su pan con leche.",
+          "translationRu": "Тем утром он не захотел есть свой хлеб с молоком.",
+          "original": "Only that morning he had refused to eat his wholesome bread-and-milk on the seemingly frivolous ground that there was a frog in it.",
+          "originalRu": "Только тем утром он отказался есть свой полезный хлеб с молоком под, казалось бы, пустячным предлогом, что там лягушка."
+        },
+        {
+          "id": "sent-005",
+          "text": "Dijo que había una rana dentro.",
+          "translationRu": "Он сказал, что внутри лягушка.",
+          "original": "Older and wiser and better people had told him that there could not possibly be a frog in his bread-and-milk and that he was not to talk nonsense; he was not to talk nonsense; he continued, nevertheless, to talk what seemed the veriest nonsense, and described with much detail the colouration and markings of the alleged frog.",
+          "originalRu": "Взрослые, более мудрые и лучшие люди сказали ему, что в его хлебе с молоком никак не может быть лягушки и что он не должен болтать чепуху; он не должен болтать чепуху; и всё же он продолжал говорить то, что казалось чистейшей чепухой, и описывал с большими подробностями окраску и пятна этой мнимой лягушки."
+        },
+        {
+          "id": "sent-006",
+          "text": "Y era verdad: había una rana de verdad.",
+          "translationRu": "И это было правдой: лягушка и вправду была.",
+          "original": "The dramatic part of the incident was that there really was a frog in Nicholas' basin of bread-and-milk; he had put it there himself, so he felt entitled to know something about it.",
+          "originalRu": "Драматичной частью происшествия было то, что в миске Николаса с хлебом и молоком действительно была лягушка; он сам её туда положил, так что чувствовал себя вправе кое-что о ней знать."
+        },
+        {
+          "id": "sent-007",
+          "text": "Nicholas la había puesto él mismo.",
+          "translationRu": "Николас сам её туда положил.",
+          "original": "The sin of taking a frog from the garden and putting it into a bowl of wholesome bread-and-milk was enlarged on at great length,",
+          "originalRu": "О грехе — взять лягушку из сада и положить её в миску с полезным хлебом и молоком — говорили очень долго,"
+        },
+        {
+          "id": "sent-008",
+          "text": "Los mayores se habían equivocado, y él lo sabía.",
+          "translationRu": "Взрослые ошиблись, и он это знал.",
+          "original": "but the fact that stood out clearest in the whole affair, as it presented itself to the mind of Nicholas, was that the older, wiser, and better people had been proved to be profoundly in error in matters about which they had expressed the utmost assurance.",
+          "originalRu": "но самым ясным фактом во всём этом деле, как он представлялся уму Николаса, было то, что взрослые, более мудрые и лучшие люди оказались глубоко неправы в вещах, в которых они высказывались с полнейшей уверенностью."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-009",
+          "text": "—Dijiste que no podía haber una rana,",
+          "translationRu": "— Ты сказала, что лягушки быть не может,",
+          "original": "\"You said there couldn't possibly be a frog in my bread-and-milk;",
+          "originalRu": "— Ты сказала, что в моём хлебе с молоком никак не может быть лягушки;"
+        },
+        {
+          "id": "sent-010",
+          "text": "pero sí había una rana —repitió Nicholas.",
+          "translationRu": "но лягушка там была, — повторил Николас.",
+          "original": "there _was_ a frog in my bread-and-milk,\" he repeated, with the insistence of a skilled tactician who does not intend to shift from favourable ground.",
+          "originalRu": "но лягушка в моём хлебе с молоком была, — повторил он с упорством умелого тактика, который не собирается сходить с выгодной позиции."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-011",
+          "text": "Sus primos y su hermano van a la playa.",
+          "translationRu": "Его двоюродные брат с сестрой и его брат едут на пляж.",
+          "original": "So his boy-cousin and girl-cousin and his quite uninteresting younger brother were to be taken to Jagborough sands that afternoon and he was to stay at home.",
+          "originalRu": "И вот его двоюродного брата, двоюродную сестру и его совсем неинтересного младшего брата должны были отвезти в тот день на пески Джагборо, а он должен был остаться дома."
+        },
+        {
+          "id": "sent-012",
+          "text": "Nicholas se queda en casa.",
+          "translationRu": "Николас остаётся дома.",
+          "original": "His cousins' aunt, who insisted, by an unwarranted stretch of imagination, in styling herself his aunt also, had hastily invented the Jagborough expedition in order to impress on Nicholas the delights that he had justly forfeited by his disgraceful conduct at the breakfast-table.",
+          "originalRu": "Тётя его кузенов, которая, по ничем не оправданному полёту воображения, упорно называла себя и его тётей тоже, наспех выдумала поездку в Джагборо, чтобы показать Николасу те радости, которых он справедливо лишился из-за своего постыдного поведения за завтраком."
+        },
+        {
+          "id": "sent-013",
+          "text": "La tía inventó el paseo para castigarlo.",
+          "translationRu": "Тётя придумала прогулку, чтобы наказать его.",
+          "original": "It was her habit, whenever one of the children fell from grace, to improvise something of a festival nature from which the offender would be rigorously debarred; if all the children sinned collectively they were suddenly informed of a circus in a neighbouring town, a circus of unrivalled merit and uncounted elephants, to which, but for their depravity, they would have been taken that very day.",
+          "originalRu": "У неё была привычка: когда кто-нибудь из детей провинялся, наспех устраивать что-то вроде праздника, от которого провинившегося строго отстраняли; если же все дети грешили разом, им вдруг сообщали о цирке в соседнем городе — цирке несравненных достоинств и с бессчётными слонами, куда, если бы не их испорченность, их отвезли бы в тот же самый день."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-014",
+          "text": "Todos esperaban ver llorar a Nicholas.",
+          "translationRu": "Все ждали, что Николас заплачет.",
+          "original": "A few decent tears were looked for on the part of Nicholas when the moment for the departure of the expedition arrived.",
+          "originalRu": "От Николаса ждали нескольких приличных слезинок, когда настал час отъезда."
+        },
+        {
+          "id": "sent-015",
+          "text": "Pero la que lloró fue su prima.",
+          "translationRu": "Но заплакала его двоюродная сестра.",
+          "original": "As a matter of fact, however, all the crying was done by his girl-cousin, who scraped her knee rather painfully against the step of the carriage as she was scrambling in.",
+          "originalRu": "Однако на самом деле весь плач взяла на себя его кузина, которая довольно больно ободрала колено о ступеньку экипажа, когда карабкалась внутрь."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-016",
+          "text": "—¡Cómo gritaba!",
+          "translationRu": "— Как она ревела!",
+          "original": "\"How she did howl,\"",
+          "originalRu": "— Как же она выла, —"
+        },
+        {
+          "id": "sent-017",
+          "text": "—dijo Nicholas contento.",
+          "translationRu": "— весело сказал Николас.",
+          "original": "said Nicholas cheerfully, as the party drove off without any of the elation of high spirits that should have characterised it.",
+          "originalRu": "весело сказал Николас, когда компания отъехала без всякой той радости и приподнятого настроения, какими это должно было бы отличаться."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-018",
+          "text": "—Pronto se le pasará —dijo la tía—.",
+          "translationRu": "— У неё это скоро пройдёт, — сказала тётя. —",
+          "original": "\"She'll soon get over that,\" said the _soi-disant_ aunt;",
+          "originalRu": "— У неё это скоро пройдёт, — сказала мнимая тётя. —"
+        },
+        {
+          "id": "sent-019",
+          "text": "Se lo pasarán muy bien en la playa.",
+          "translationRu": "Они прекрасно проведут время на пляже.",
+          "original": "\"it will be a glorious afternoon for racing about over those beautiful sands. How they will enjoy themselves!\"",
+          "originalRu": "— Будет чудесный день, чтобы носиться по этим прекрасным пескам. Как же они повеселятся!"
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-020",
+          "text": "—Bobby no se lo pasará bien —dijo Nicholas—.",
+          "translationRu": "— Бобби не повеселится, — сказал Николас. —",
+          "original": "\"Bobby won't enjoy himself much, and he won't race much either,\" said Nicholas with a grim chuckle;",
+          "originalRu": "— Бобби не очень-то повеселится, да и бегать особо не будет, — сказал Николас с мрачным смешком. —"
+        },
+        {
+          "id": "sent-021",
+          "text": "Sus botas le hacen daño.",
+          "translationRu": "Ботинки ему жмут.",
+          "original": "\"his boots are hurting him.",
+          "originalRu": "— Его ботинки ему жмут."
+        },
+        {
+          "id": "sent-022",
+          "text": "Son muy pequeñas.",
+          "translationRu": "Они слишком малы.",
+          "original": "They're too tight.\"",
+          "originalRu": "Они слишком тесные."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "—¿Por qué no me lo dijo?",
+          "translationRu": "— Почему он мне не сказал?",
+          "original": "\"Why didn't he tell me they were hurting?\"",
+          "originalRu": "— Почему он не сказал мне, что они жмут?"
+        },
+        {
+          "id": "sent-024",
+          "text": "—preguntó la tía enfadada.",
+          "translationRu": "— сердито спросила тётя.",
+          "original": "asked the aunt with some asperity.",
+          "originalRu": "— спросила тётя с некоторой резкостью."
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-025",
+          "text": "—Te lo dijo dos veces, pero no escuchabas.",
+          "translationRu": "— Он сказал тебе дважды, но ты не слушала.",
+          "original": "\"He told you twice, but you weren't listening.",
+          "originalRu": "— Он говорил тебе дважды, но ты не слушала."
+        },
+        {
+          "id": "sent-026",
+          "text": "Nunca escuchas las cosas importantes.",
+          "translationRu": "Ты никогда не слушаешь важные вещи.",
+          "original": "You often don't listen when we tell you important things.\"",
+          "originalRu": "Ты часто не слушаешь, когда мы говорим тебе важные вещи."
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-027",
+          "text": "—No vayas al huerto de las grosellas —dijo la tía.",
+          "translationRu": "— Не ходи в крыжовенный сад, — сказала тётя.",
+          "original": "\"You are not to go into the gooseberry garden,\" said the aunt, changing the subject.",
+          "originalRu": "— Тебе нельзя ходить в крыжовенный сад, — сказала тётя, меняя тему."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-028",
+          "text": "—¿Por qué no?",
+          "translationRu": "— Почему нельзя?",
+          "original": "\"Why not?\"",
+          "originalRu": "— Почему нельзя?"
+        },
+        {
+          "id": "sent-029",
+          "text": "—preguntó Nicholas.",
+          "translationRu": "— спросил Николас.",
+          "original": "demanded Nicholas.",
+          "originalRu": "— потребовал ответа Николас."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "—Porque estás castigado —dijo la tía.",
+          "translationRu": "— Потому что ты наказан, — сказала тётя.",
+          "original": "\"Because you are in disgrace,\" said the aunt loftily.",
+          "originalRu": "— Потому что ты в немилости, — сказала тётя надменно."
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-031",
+          "text": "Nicholas no estaba de acuerdo.",
+          "translationRu": "Николас был не согласен.",
+          "original": "Nicholas did not admit the flawlessness of the reasoning; he felt perfectly capable of being in disgrace and in a gooseberry garden at the same moment.",
+          "originalRu": "Николас не признавал безупречности этого рассуждения; он чувствовал, что вполне способен быть наказанным и в крыжовенном саду одновременно."
+        },
+        {
+          "id": "sent-032",
+          "text": "Su cara se puso muy terca.",
+          "translationRu": "Его лицо стало очень упрямым.",
+          "original": "His face took on an expression of considerable obstinacy.",
+          "originalRu": "На его лице появилось выражение изрядного упрямства."
+        },
+        {
+          "id": "sent-033",
+          "text": "La tía vio que él quería entrar al huerto.",
+          "translationRu": "Тётя увидела, что он хочет войти в сад.",
+          "original": "It was clear to his aunt that he was determined to get into the gooseberry garden, \"only,\" as she remarked to herself, \"because I have told him he is not to.\"",
+          "originalRu": "Тёте было ясно, что он твёрдо решил пробраться в крыжовенный сад «только потому», как она заметила про себя, «что я запретила ему туда ходить»."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-034",
+          "text": "El huerto tenía dos puertas.",
+          "translationRu": "У сада было две двери.",
+          "original": "Now the gooseberry garden had two doors by which it might be entered, and once a small person like Nicholas could slip in there he could effectually disappear from view amid the masking growth of artichokes, raspberry canes, and fruit bushes.",
+          "originalRu": "У крыжовенного сада было две двери, через которые в него можно было войти, и стоило такому маленькому человечку, как Николас, туда проскользнуть, как он мог совсем скрыться из виду среди прикрывающих зарослей артишоков, малинника и плодовых кустов."
+        },
+        {
+          "id": "sent-035",
+          "text": "La tía se quedó en el jardín, vigilando las puertas.",
+          "translationRu": "Тётя осталась в саду, следя за дверями.",
+          "original": "The aunt had many other things to do that afternoon, but she spent an hour or two in trivial gardening operations among flower beds and shrubberies, whence she could keep a watchful eye on the two doors that led to the forbidden paradise.",
+          "originalRu": "У тёти в тот день было много других дел, но час или два она провела за пустячными садовыми работами среди клумб и кустарников, откуда могла зорко следить за двумя дверями, ведущими в запретный рай."
+        },
+        {
+          "id": "sent-036",
+          "text": "Podía mirarlas mucho tiempo.",
+          "translationRu": "Она могла смотреть на них долго.",
+          "original": "She was a woman of few ideas, with immense powers of concentration.",
+          "originalRu": "Она была женщиной небогатой на идеи, но с огромной способностью к сосредоточению."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-037",
+          "text": "Nicholas salió al jardín.",
+          "translationRu": "Николас вышел в сад.",
+          "original": "Nicholas made one or two sorties into the front garden, wriggling his way with obvious stealth of purpose towards one or other of the doors,",
+          "originalRu": "Николас раза два выбрался в передний сад, пробираясь с явной вороватостью к той или другой калитке,"
+        },
+        {
+          "id": "sent-038",
+          "text": "La tía lo miraba siempre.",
+          "translationRu": "Тётя всё время смотрела на него.",
+          "original": "but never able for a moment to evade the aunt's watchful eye.",
+          "originalRu": "но ни на миг не мог ускользнуть от бдительного глаза тёти."
+        },
+        {
+          "id": "sent-039",
+          "text": "En realidad, Nicholas no quería entrar en el jardín.",
+          "translationRu": "На самом деле Николас не хотел заходить в сад.",
+          "original": "As a matter of fact, he had no intention of trying to get into the gooseberry garden, but it was extremely convenient for him that his aunt should believe that he had;",
+          "originalRu": "На самом деле у него не было намерения пробираться в крыжовенный сад, но ему было очень удобно, чтобы тётя думала, будто он этого хочет;"
+        },
+        {
+          "id": "sent-040",
+          "text": "Así la tía vigilaba toda la tarde.",
+          "translationRu": "Так тётя сторожила весь день.",
+          "original": "it was a belief that would keep her on self-imposed sentry-duty for the greater part of the afternoon.",
+          "originalRu": "эта вера держала её на добровольном карауле почти весь остаток дня."
+        },
+        {
+          "id": "sent-041",
+          "text": "Nicholas volvió a la casa en silencio.",
+          "translationRu": "Николас тихо вернулся в дом.",
+          "original": "Having thoroughly confirmed and fortified her suspicions Nicholas slipped back into the house and rapidly put into execution a plan of action that had long germinated in his brain.",
+          "originalRu": "Как следует укрепив её подозрения, Николас проскользнул обратно в дом и быстро привёл в исполнение план, который давно созревал у него в голове."
+        },
+        {
+          "id": "sent-042",
+          "text": "Tenía un plan.",
+          "translationRu": "У него был план.",
+          "original": "By standing on a chair in the library one could reach a shelf on which reposed a fat, important-looking key.",
+          "originalRu": "Встав на стул в библиотеке, можно было дотянуться до полки, на которой лежал толстый, важный на вид ключ."
+        },
+        {
+          "id": "sent-043",
+          "text": "Cogió una llave.",
+          "translationRu": "Он взял ключ.",
+          "original": "The key was as important as it looked; it was the instrument which kept the mysteries of the lumber-room secure from unauthorised intrusion, which opened a way only for aunts and such-like privileged persons.",
+          "originalRu": "Ключ был так же важен, как и выглядел; это было орудие, которое хранило тайны чулана от незваных гостей и открывало путь только тётям и подобным избранным людям."
+        },
+        {
+          "id": "sent-044",
+          "text": "Era la llave del cuarto trastero.",
+          "translationRu": "Это был ключ от чулана.",
+          "original": "Nicholas had not had much experience of the art of fitting keys into keyholes and turning locks, but for some days past he had practised with the key of the schoolroom door; he did not believe in trusting too much to luck and accident.",
+          "originalRu": "У Николаса было мало опыта в искусстве вставлять ключи в скважины и поворачивать замки, но несколько дней он упражнялся с ключом от классной комнаты; он не любил слишком полагаться на удачу и случай."
+        },
+        {
+          "id": "sent-045",
+          "text": "La llave giró.",
+          "translationRu": "Ключ повернулся.",
+          "original": "The key turned stiffly in the lock, but it turned.",
+          "originalRu": "Ключ туго повернулся в замке, но повернулся."
+        },
+        {
+          "id": "sent-046",
+          "text": "La puerta se abrió.",
+          "translationRu": "Дверь открылась.",
+          "original": "The door opened, and Nicholas was in an unknown land, compared with which the gooseberry garden was a stale delight, a mere material pleasure.",
+          "originalRu": "Дверь открылась, и Николас оказался в неведомой стране, рядом с которой крыжовенный сад был скучной радостью, простым земным удовольствием."
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-047",
+          "text": "Nicholas soñaba con este cuarto.",
+          "translationRu": "Николас мечтал об этой комнате.",
+          "original": "Often and often Nicholas had pictured to himself what the lumber-room might be like, that region that was so carefully sealed from youthful eyes and concerning which no questions were ever answered.",
+          "originalRu": "Много-много раз Николас представлял себе, каким может быть чулан — этот край, так тщательно закрытый от детских глаз, о котором никогда не отвечали на вопросы."
+        },
+        {
+          "id": "sent-048",
+          "text": "Era grande y oscuro.",
+          "translationRu": "Он был большой и тёмный.",
+          "original": "It came up to his expectations. In the first place it was large and dimly lit, one high window opening on to the forbidden garden being its only source of illumination.",
+          "originalRu": "Он оправдал его ожидания. Во-первых, он был большой и тускло освещённый: одно высокое окно, выходившее в запретный сад, было единственным источником света."
+        },
+        {
+          "id": "sent-049",
+          "text": "Estaba lleno de cosas.",
+          "translationRu": "Он был полон вещей.",
+          "original": "In the second place it was a storehouse of unimagined treasures. The aunt-by-assertion was one of those people who think that things spoil by use and consign them to dust and damp by way of preserving them.",
+          "originalRu": "Во-вторых, это была кладовая невообразимых сокровищ. Тётя-по-названию была из тех людей, что думают, будто вещи портятся от пользования, и обрекают их на пыль и сырость ради сохранности."
+        },
+        {
+          "id": "sent-050",
+          "text": "Había cosas maravillosas.",
+          "translationRu": "Там были чудесные вещи.",
+          "original": "Such parts of the house as Nicholas knew best were rather bare and cheerless, but here there were wonderful things for the eye to feast on.",
+          "originalRu": "Те части дома, что Николас знал лучше всего, были довольно голыми и унылыми, но здесь было чем полюбоваться глазу."
+        },
+        {
+          "id": "sent-051",
+          "text": "Primero, había un tapiz.",
+          "translationRu": "Сначала — гобелен.",
+          "original": "First and foremost there was a piece of framed tapestry that was evidently meant to be a fire-screen.",
+          "originalRu": "Прежде всего там был кусок гобелена в раме, явно предназначенный для каминного экрана."
+        },
+        {
+          "id": "sent-052",
+          "text": "Nicholas lo miró con atención.",
+          "translationRu": "Николас смотрел на него внимательно.",
+          "original": "To Nicholas it was a living, breathing story; he sat down on a roll of Indian hangings, glowing in wonderful colours beneath a layer of dust, and took in all the details of the tapestry picture.",
+          "originalRu": "Для Николаса это была живая, дышащая история; он сел на свёрток индийских тканей, что сияли чудесными красками под слоем пыли, и вгляделся во все подробности картины на гобелене."
+        },
+        {
+          "id": "sent-053",
+          "text": "Un cazador había matado a un ciervo con una flecha.",
+          "translationRu": "Охотник убил оленя стрелой.",
+          "original": "A man, dressed in the hunting costume of some remote period, had just transfixed a stag with an arrow; it could not have been a difficult shot because the stag was only one or two paces away from him;",
+          "originalRu": "Человек в охотничьем костюме какой-то далёкой эпохи только что пронзил оленя стрелой; выстрел был нетрудный, ведь олень стоял всего в шаге или двух от него;"
+        },
+        {
+          "id": "sent-054",
+          "text": "Tenía dos perros.",
+          "translationRu": "У него было две собаки.",
+          "original": "in the thickly-growing vegetation that the picture suggested it would not have been difficult to creep up to a feeding stag, and the two spotted dogs that were springing forward to join in the chase had evidently been trained to keep to heel till the arrow was discharged.",
+          "originalRu": "в густой растительности, что угадывалась на картине, нетрудно было подкрасться к пасущемуся оленю, а две пятнистые собаки, рвавшиеся вперёд в погоню, явно были обучены держаться у ноги, пока не пущена стрела."
+        },
+        {
+          "id": "sent-055",
+          "text": "Pero cuatro lobos venían por el bosque.",
+          "translationRu": "Но четыре волка шли через лес.",
+          "original": "That part of the picture was simple, if interesting, but did the huntsman see, what Nicholas saw, that four galloping wolves were coming in his direction through the wood?",
+          "originalRu": "Эта часть картины была простой, хоть и любопытной, но видел ли охотник то, что видел Николас, — четырёх волков, что скакали к нему через лес?"
+        },
+        {
+          "id": "sent-056",
+          "text": "Nicholas tenía miedo por el cazador.",
+          "translationRu": "Николас боялся за охотника.",
+          "original": "There might be more than four of them hidden behind the trees, and in any case would the man and his dogs be able to cope with the four wolves if they made an attack?",
+          "originalRu": "Может, их было и больше четырёх, спрятанных за деревьями, и вообще — справятся ли человек и его собаки с четырьмя волками, если те нападут?"
+        },
+        {
+          "id": "sent-057",
+          "text": "El cazador tenía solo dos flechas.",
+          "translationRu": "У охотника было всего две стрелы.",
+          "original": "The man had only two arrows left in his quiver, and he might miss with one or both of them; all one knew about his skill in shooting was that he could hit a large stag at a ridiculously short range.",
+          "originalRu": "В колчане у человека оставалось всего две стрелы, и он мог промахнуться одной или обеими; всё, что было известно о его меткости, — что он умел попасть в большого оленя со смешно близкого расстояния."
+        },
+        {
+          "id": "sent-058",
+          "text": "Nicholas pensó mucho en la escena.",
+          "translationRu": "Николас долго думал об этой сцене.",
+          "original": "Nicholas sat for many golden minutes revolving the possibilities of the scene; he was inclined to think that there were more than four wolves and that the man and his dogs were in a tight corner.",
+          "originalRu": "Николас сидел много золотых минут, перебирая возможности сцены; он склонялся к мысли, что волков больше четырёх и что человек с собаками попал в трудное положение."
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-059",
+          "text": "Había otras cosas bonitas.",
+          "translationRu": "Были и другие красивые вещи.",
+          "original": "But there were other objects of delight and interest claiming his instant attention: there were quaint twisted candlesticks in the shape of snakes, and a teapot fashioned like a china duck, out of whose open beak the tea was supposed to come.",
+          "originalRu": "Но были и другие предметы, восхитительные и любопытные, что требовали его мгновенного внимания: причудливые витые подсвечники в виде змей и чайник в форме фарфоровой утки, из открытого клюва которой должен был литься чай."
+        },
+        {
+          "id": "sent-060",
+          "text": "La tetera de casa era muy fea al lado de esta.",
+          "translationRu": "Тот чайник был очень скучным рядом с этим.",
+          "original": "How dull and shapeless the nursery teapot seemed in comparison!",
+          "originalRu": "Каким скучным и бесформенным казался в сравнении чайник из детской!"
+        },
+        {
+          "id": "sent-061",
+          "text": "Había una caja con figuras de metal.",
+          "translationRu": "Была коробка с металлическими фигурками.",
+          "original": "And there was a carved sandal-wood box packed tight with aromatic cotton-wool, and between the layers of cotton-wool were little brass figures, hump-necked bulls, and peacocks and goblins, delightful to see and to handle.",
+          "originalRu": "И была резная шкатулка из сандалового дерева, туго набитая душистой ватой, а между слоями ваты лежали маленькие латунные фигурки — горбатые быки, павлины и гоблины, — приятные и на вид, и на ощупь."
+        },
+        {
+          "id": "sent-062",
+          "text": "Y había un libro grande y negro.",
+          "translationRu": "И была большая чёрная книга.",
+          "original": "Less promising in appearance was a large square book with plain black covers; Nicholas peeped into it, and, behold, it was full of coloured pictures of birds.",
+          "originalRu": "Менее заманчивой на вид была большая квадратная книга в простой чёрной обложке; Николас заглянул в неё — и вот, она была полна цветных картинок с птицами."
+        },
+        {
+          "id": "sent-063",
+          "text": "¡Qué pájaros!",
+          "translationRu": "Какие птицы!",
+          "original": "And such birds!",
+          "originalRu": "И какие птицы!"
+        },
+        {
+          "id": "sent-064",
+          "text": "Nicholas nunca había visto pájaros así.",
+          "translationRu": "Николас никогда не видел таких птиц.",
+          "original": "In the garden, and in the lanes when he went for a walk, Nicholas came across a few birds, of which the largest were an occasional magpie or wood-pigeon; here were herons and bustards, kites, toucans, tiger-bitterns, brush turkeys, ibises, golden pheasants, a whole portrait gallery of undreamed-of creatures.",
+          "originalRu": "В саду и на тропинках, когда он гулял, Николас встречал лишь немного птиц, самыми крупными из которых бывали изредка сорока или вяхирь; а здесь были цапли и дрофы, коршуны, туканы, тигровые выпи, кустарниковые индейки, ибисы, золотые фазаны — целая портретная галерея невиданных созданий."
+        },
+        {
+          "id": "sent-065",
+          "text": "De pronto, la tía gritó su nombre.",
+          "translationRu": "Вдруг тётя закричала его имя.",
+          "original": "And as he was admiring the colouring of the mandarin duck and assigning a life-history to it, the voice of his aunt in shrill vociferation of his name came from the gooseberry garden without.",
+          "originalRu": "И пока он любовался окраской утки-мандаринки и придумывал ей историю жизни, из крыжовенного сада снаружи донёсся голос тёти, пронзительно выкрикивавший его имя."
+        },
+        {
+          "id": "sent-066",
+          "text": "La tía lo buscaba en el jardín.",
+          "translationRu": "Тётя искала его в саду.",
+          "original": "She had grown suspicious at his long disappearance, and had leapt to the conclusion that he had climbed over the wall behind the sheltering screen of the lilac bushes; she was now engaged in energetic and rather hopeless search for him among the artichokes and raspberry canes.",
+          "originalRu": "Она заподозрила неладное из-за его долгого исчезновения и решила, что он перелез через стену за укрытием кустов сирени; теперь она вела бодрые и довольно безнадёжные поиски его среди артишоков и малиновых кустов."
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-067",
+          "text": "—¡Nicholas, Nicholas! —gritó ella—",
+          "translationRu": "— Николас, Николас! — закричала она —",
+          "original": "\"Nicholas, Nicholas!\" she screamed,",
+          "originalRu": "— Николас, Николас! — закричала она, —"
+        },
+        {
+          "id": "sent-068",
+          "text": "¡Sal de ahí ahora mismo!",
+          "translationRu": "Выходи оттуда сейчас же!",
+          "original": "\"you are to come out of this at once.",
+          "originalRu": "— ты сейчас же выйдешь оттуда."
+        },
+        {
+          "id": "sent-069",
+          "text": "Te veo todo el tiempo.",
+          "translationRu": "Я всё время тебя вижу.",
+          "original": "It's no use trying to hide there; I can see you all the time.\"",
+          "originalRu": "Прятаться там бесполезно; я всё время тебя вижу."
+        }
+      ]
+    },
+    {
+      "id": "para-019",
+      "sentences": [
+        {
+          "id": "sent-070",
+          "text": "Nadie sonreía en ese cuarto desde hacía veinte años.",
+          "translationRu": "В этой комнате никто не улыбался уже двадцать лет.",
+          "original": "It was probably the first time for twenty years that anyone had smiled in that lumber-room.",
+          "originalRu": "Наверное, впервые за двадцать лет кто-то улыбнулся в этом чулане."
+        }
+      ]
+    },
+    {
+      "id": "para-020",
+      "sentences": [
+        {
+          "id": "sent-071",
+          "text": "De pronto la tía gritó.",
+          "translationRu": "Вдруг тётя закричала.",
+          "original": "Presently the angry repetitions of Nicholas' name gave way to a shriek, and a cry for somebody to come quickly.",
+          "originalRu": "Вскоре сердитое повторение имени Николаса сменилось воплем и криком, чтобы кто-нибудь скорее пришёл."
+        },
+        {
+          "id": "sent-072",
+          "text": "Nicholas cerró el libro.",
+          "translationRu": "Николас закрыл книгу.",
+          "original": "Nicholas shut the book, restored it carefully to its place in a corner, and shook some dust from a neighbouring pile of newspapers over it.",
+          "originalRu": "Николас закрыл книгу, аккуратно вернул её на место в угол и стряхнул на неё немного пыли с соседней стопки газет."
+        },
+        {
+          "id": "sent-073",
+          "text": "Salió del cuarto.",
+          "translationRu": "Он вышел из комнаты.",
+          "original": "Then he crept from the room, locked the door, and replaced the key exactly where he had found it.",
+          "originalRu": "Потом он выбрался из комнаты, запер дверь и положил ключ точно туда, где нашёл его."
+        },
+        {
+          "id": "sent-074",
+          "text": "Fue despacio al jardín.",
+          "translationRu": "Он неспешно пошёл в сад.",
+          "original": "His aunt was still calling his name when he sauntered into the front garden.",
+          "originalRu": "Тётя всё ещё звала его по имени, когда он вразвалку вошёл в палисадник."
+        }
+      ]
+    },
+    {
+      "id": "para-021",
+      "sentences": [
+        {
+          "id": "sent-075",
+          "text": "—¿Quién llama? —preguntó él",
+          "translationRu": "— Кто зовёт? — спросил он",
+          "original": "\"Who's calling?\" he asked.",
+          "originalRu": "— Кто зовёт? — спросил он."
+        }
+      ]
+    },
+    {
+      "id": "para-022",
+      "sentences": [
+        {
+          "id": "sent-076",
+          "text": "—Yo —dijo la tía.",
+          "translationRu": "— Я, — сказала тётя.",
+          "original": "\"Me,\" came the answer from the other side of the wall; \"didn't you hear me?",
+          "originalRu": "— Я, — послышался ответ с другой стороны стены. — Ты меня не слышал?"
+        },
+        {
+          "id": "sent-077",
+          "text": "Estoy en el tanque de agua.",
+          "translationRu": "Я в баке для дождевой воды.",
+          "original": "I've been looking for you in the gooseberry garden, and I've slipped into the rain-water tank.",
+          "originalRu": "Я искала тебя в крыжовенном саду и упала в бак для дождевой воды."
+        },
+        {
+          "id": "sent-078",
+          "text": "No puedo salir.",
+          "translationRu": "Я не могу выбраться.",
+          "original": "Luckily there's no water in it, but the sides are slippery and I can't get out.",
+          "originalRu": "К счастью, в нём нет воды, но стенки скользкие, и я не могу выбраться."
+        },
+        {
+          "id": "sent-079",
+          "text": "Trae la escalera.",
+          "translationRu": "Принеси лестницу.",
+          "original": "Fetch the little ladder from under the cherry tree—\"",
+          "originalRu": "Принеси маленькую лестницу из-под вишнёвого дерева…"
+        }
+      ]
+    },
+    {
+      "id": "para-023",
+      "sentences": [
+        {
+          "id": "sent-080",
+          "text": "—No puedo ir al jardín de las grosellas —dijo Nicholas.",
+          "translationRu": "— Мне нельзя ходить в крыжовенный сад, — сказал Николас.",
+          "original": "\"I was told I wasn't to go into the gooseberry garden,\" said Nicholas promptly.",
+          "originalRu": "— Мне сказали, что нельзя ходить в крыжовенный сад, — тут же сказал Николас."
+        }
+      ]
+    },
+    {
+      "id": "para-024",
+      "sentences": [
+        {
+          "id": "sent-081",
+          "text": "—Ahora sí puedes —dijo la voz.",
+          "translationRu": "— А теперь можно, — сказал голос.",
+          "original": "\"I told you not to, and now I tell you that you may,\" came the voice from the rain-water tank, rather impatiently.",
+          "originalRu": "— Я запретила тебе, а теперь говорю, что можно, — раздался голос из бака, довольно нетерпеливо."
+        }
+      ]
+    },
+    {
+      "id": "para-025",
+      "sentences": [
+        {
+          "id": "sent-082",
+          "text": "—Tu voz no es de mi tía —dijo Nicholas.",
+          "translationRu": "— Твой голос не похож на голос тёти, — сказал Николас.",
+          "original": "\"Your voice doesn't sound like aunt's,\" objected Nicholas;",
+          "originalRu": "— Твой голос не похож на голос тёти, — возразил Николас. —"
+        },
+        {
+          "id": "sent-083",
+          "text": "Eres el Diablo.",
+          "translationRu": "Ты — Дьявол.",
+          "original": "\"you may be the Evil One tempting me to be disobedient.",
+          "originalRu": "— Может, ты Лукавый, что искушает меня к непослушанию."
+        },
+        {
+          "id": "sent-084",
+          "text": "Esta vez no voy a ceder.",
+          "translationRu": "На этот раз я не поддамся.",
+          "original": "Aunt often tells me that the Evil One tempts me and that I always yield. This time I'm not going to yield.\"",
+          "originalRu": "Тётя часто говорит мне, что Лукавый искушает меня и что я всегда поддаюсь. На этот раз я не поддамся."
+        }
+      ]
+    },
+    {
+      "id": "para-026",
+      "sentences": [
+        {
+          "id": "sent-085",
+          "text": "—No digas tonterías —dijo la tía—.",
+          "translationRu": "— Не говори глупостей, — сказала тётя. —",
+          "original": "\"Don't talk nonsense,\" said the prisoner in the tank;",
+          "originalRu": "— Не говори глупостей, — сказала пленница в баке. —"
+        },
+        {
+          "id": "sent-086",
+          "text": "Trae la escalera.",
+          "translationRu": "Принеси лестницу.",
+          "original": "\"go and fetch the ladder.\"",
+          "originalRu": "— иди и принеси лестницу."
+        }
+      ]
+    },
+    {
+      "id": "para-027",
+      "sentences": [
+        {
+          "id": "sent-087",
+          "text": "—¿Habrá mermelada de fresa para el té? —preguntó Nicholas",
+          "translationRu": "— А будет клубничное варенье к чаю? — спросил Николас",
+          "original": "\"Will there be strawberry jam for tea?\" asked Nicholas innocently.",
+          "originalRu": "— А будет клубничное варенье к чаю? — невинно спросил Николас."
+        }
+      ]
+    },
+    {
+      "id": "para-028",
+      "sentences": [
+        {
+          "id": "sent-088",
+          "text": "—Claro que sí —dijo la tía.",
+          "translationRu": "— Конечно, будет, — сказала тётя.",
+          "original": "\"Certainly there will be,\" said the aunt, privately resolving that Nicholas should have none of it.",
+          "originalRu": "— Конечно, будет, — сказала тётя, про себя решив, что Николасу не достанется ни капли."
+        }
+      ]
+    },
+    {
+      "id": "para-029",
+      "sentences": [
+        {
+          "id": "sent-089",
+          "text": "—¡Ahora sé que eres el Diablo! —gritó Nicholas contento—",
+          "translationRu": "— Теперь я знаю, что ты Дьявол! — радостно крикнул Николас —",
+          "original": "\"Now I know that you are the Evil One and not aunt,\" shouted Nicholas gleefully;",
+          "originalRu": "— Теперь я знаю, что ты Лукавый, а не тётя, — радостно крикнул Николас. —"
+        },
+        {
+          "id": "sent-090",
+          "text": "Ayer la tía dijo que no había mermelada.",
+          "translationRu": "Вчера тётя сказала, что варенья нет.",
+          "original": "\"when we asked aunt for strawberry jam yesterday she said there wasn't any.",
+          "originalRu": "— когда мы вчера попросили у тёти клубничное варенье, она сказала, что его нет."
+        },
+        {
+          "id": "sent-091",
+          "text": "Pero yo sé que hay cuatro tarros.",
+          "translationRu": "Но я знаю, что есть четыре банки.",
+          "original": "I know there are four jars of it in the store cupboard, because I looked, and of course you know it's there, but she doesn't, because she said there wasn't any.",
+          "originalRu": "Я знаю, что в кладовке четыре банки, потому что я смотрел, и ты, конечно, знаешь, что оно там, а она нет, потому что сказала, что его нет."
+        },
+        {
+          "id": "sent-092",
+          "text": "¡Diablo, te has delatado!",
+          "translationRu": "Дьявол, ты себя выдал!",
+          "original": "Oh, Devil, you _have_ sold yourself!\"",
+          "originalRu": "О, Дьявол, ты себя выдал!"
+        }
+      ]
+    },
+    {
+      "id": "para-030",
+      "sentences": [
+        {
+          "id": "sent-093",
+          "text": "Era divertido hablar con la tía como con el Diablo.",
+          "translationRu": "Было забавно говорить с тётей как с Дьяволом.",
+          "original": "There was an unusual sense of luxury in being able to talk to an aunt as though one was talking to the Evil One, but Nicholas knew, with childish discernment, that such luxuries were not to be over-indulged in.",
+          "originalRu": "Было необычное чувство роскоши в том, чтобы говорить с тётей, словно с Лукавым, но Николас с детским чутьём знал, что такими радостями не стоит злоупотреблять."
+        },
+        {
+          "id": "sent-094",
+          "text": "Nicholas se fue.",
+          "translationRu": "Николас ушёл.",
+          "original": "He walked noisily away, and it was a kitchenmaid, in search of parsley, who eventually rescued the aunt from the rain-water tank.",
+          "originalRu": "Он шумно ушёл, и в конце концов тётю из бака вытащила кухарка, искавшая петрушку."
+        }
+      ]
+    },
+    {
+      "id": "para-031",
+      "sentences": [
+        {
+          "id": "sent-095",
+          "text": "Esa noche el té fue muy silencioso.",
+          "translationRu": "В тот вечер чай прошёл в полном молчании.",
+          "original": "Tea that evening was partaken of in a fearsome silence.",
+          "originalRu": "Чай в тот вечер пили в жутком молчании."
+        },
+        {
+          "id": "sent-096",
+          "text": "En la playa no había arena para jugar.",
+          "translationRu": "На пляже не было песка, чтобы играть.",
+          "original": "The tide had been at its highest when the children had arrived at Jagborough Cove, so there had been no sands to play on—a circumstance that the aunt had overlooked in the haste of organising her punitive expedition.",
+          "originalRu": "Прилив был самым высоким, когда дети приехали в бухту Джагборо, так что играть на песке было негде — обстоятельство, которое тётя упустила в спешке своей карательной вылазки."
+        },
+        {
+          "id": "sent-097",
+          "text": "Los niños no lo pasaron bien.",
+          "translationRu": "Дети не повеселились.",
+          "original": "The tightness of Bobby's boots had had disastrous effect on his temper the whole of the afternoon, and altogether the children could not have been said to have enjoyed themselves.",
+          "originalRu": "Тесные ботинки Бобби весь день гибельно сказывались на его настроении, и в целом нельзя было сказать, что дети повеселились."
+        },
+        {
+          "id": "sent-098",
+          "text": "La tía estaba callada y enfadada.",
+          "translationRu": "Тётя молчала и сердилась.",
+          "original": "The aunt maintained the frozen muteness of one who has suffered undignified and unmerited detention in a rain-water tank for thirty-five minutes.",
+          "originalRu": "Тётя хранила ледяное молчание человека, который тридцать пять минут пробыл в унизительном и незаслуженном заточении в баке для дождевой воды."
+        },
+        {
+          "id": "sent-099",
+          "text": "Nicholas también estaba callado.",
+          "translationRu": "Николас тоже молчал.",
+          "original": "As for Nicholas, he, too, was silent, in the absorption of one who has much to think about;",
+          "originalRu": "Что до Николаса, он тоже молчал, поглощённый мыслями, как человек, которому есть о чём подумать."
+        },
+        {
+          "id": "sent-100",
+          "text": "Pensaba en el cazador y los lobos.",
+          "translationRu": "Он думал об охотнике и волках.",
+          "original": "it was just possible, he considered, that the huntsman would escape with his hounds while the wolves feasted on the stricken stag.",
+          "originalRu": "Вполне возможно, думал он, что охотник спасётся со своими гончими, пока волки будут пировать над поверженным оленем."
+        }
+      ]
+    }
+  ]
+}

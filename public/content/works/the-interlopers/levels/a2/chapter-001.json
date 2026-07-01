@@ -1,0 +1,1605 @@
+{
+  "schemaVersion": "1.0",
+  "workId": "the-interlopers",
+  "level": "a2",
+  "chapter": {
+    "id": "chapter-001",
+    "number": 1,
+    "title": "Los intrusos"
+  },
+  "paragraphs": [
+    {
+      "id": "para-001",
+      "sentences": [
+        {
+          "id": "sent-001",
+          "text": "En un bosque de los Cárpatos,",
+          "translationRu": "В лесу в Карпатах,",
+          "original": "In a forest of mixed growth somewhere on the eastern spurs of the Karpathians,",
+          "originalRu": "В смешанном лесу где-то на восточных отрогах Карпат,"
+        },
+        {
+          "id": "sent-002",
+          "text": "una noche de invierno un hombre miraba y escuchaba.",
+          "translationRu": "зимней ночью один человек смотрел и слушал.",
+          "original": "a man stood one winter night watching and listening,",
+          "originalRu": "зимней ночью стоял человек, смотрел и слушал,"
+        },
+        {
+          "id": "sent-003",
+          "text": "Parecía que esperaba a un animal del bosque,",
+          "translationRu": "Казалось, он ждал лесного зверя,",
+          "original": "as though he waited for some beast of the woods to come within the range of his vision, and, later, of his rifle. watching and listening, as though he waited for some beast of the woods to come within the range of his vision, and, later, of his rifle.",
+          "originalRu": "словно ждал, когда какой-нибудь лесной зверь войдёт в поле его зрения, а затем и его ружья. смотрел и слушал, словно ждал, когда какой-нибудь лесной зверь войдёт в поле его зрения, а затем и его ружья."
+        },
+        {
+          "id": "sent-004",
+          "text": "Pero él no buscaba un animal.",
+          "translationRu": "Но он искал не зверя.",
+          "original": "But the game for whose presence he kept so keen an outlook was none that figured in the sportsman's calendar as lawful and proper for the chase;",
+          "originalRu": "Но дичь, которую он так зорко высматривал, не значилась в календаре охотника как законная и подходящая добыча;"
+        },
+        {
+          "id": "sent-005",
+          "text": "Ulrich von Gradwitz buscaba a un enemigo humano.",
+          "translationRu": "Ульрих фон Градвиц искал врага-человека.",
+          "original": "Ulrich von Gradwitz patrolled the dark forest in quest of a human enemy.",
+          "originalRu": "Ульрих фон Градвиц обходил тёмный лес в поисках человека-врага."
+        }
+      ]
+    },
+    {
+      "id": "para-002",
+      "sentences": [
+        {
+          "id": "sent-006",
+          "text": "Los bosques de Gradwitz eran muy grandes y tenían mucha caza.",
+          "translationRu": "Леса Градвица были очень большими, и в них было много дичи.",
+          "original": "The forest lands of Gradwitz were of wide extent and well stocked with game;",
+          "originalRu": "Леса Градвица были обширны и полны дичи;"
+        },
+        {
+          "id": "sent-007",
+          "text": "En el borde había una franja de bosque estrecha y empinada.",
+          "translationRu": "На краю была узкая и крутая полоса леса.",
+          "original": "the narrow strip of precipitous woodland that lay on its outskirt was not remarkable for the game it harboured or the shooting it afforded,",
+          "originalRu": "узкая полоса обрывистого леса на его окраине не славилась ни дичью, что в ней водилась, ни охотой, что она давала,"
+        },
+        {
+          "id": "sent-008",
+          "text": "Allí no había mucha caza, pero era la tierra que Ulrich más cuidaba.",
+          "translationRu": "Дичи там было немного, но это была земля, которую Ульрих берёг больше всего.",
+          "original": "but it was the most jealously guarded of all its owner's territorial possessions.",
+          "originalRu": "но её владелец ревниво оберегал её больше всех своих владений."
+        },
+        {
+          "id": "sent-009",
+          "text": "En tiempos de su abuelo, un juicio famoso quitó esa tierra a una familia vecina.",
+          "translationRu": "Во времена его деда знаменитый суд отнял эту землю у соседней семьи.",
+          "original": "A famous law suit, in the days of his grandfather, had wrested it from the illegal possession of a neighbouring family of petty landowners;",
+          "originalRu": "Знаменитая тяжба во времена его деда вырвала её из незаконного владения соседней семьи мелких землевладельцев;"
+        },
+        {
+          "id": "sent-010",
+          "text": "Esa familia nunca aceptó la decisión del tribunal.",
+          "translationRu": "Эта семья так и не приняла решение суда.",
+          "original": "the dispossessed party had never acquiesced in the judgment of the Courts,",
+          "originalRu": "лишённая земли сторона так и не смирилась с решением судов,"
+        },
+        {
+          "id": "sent-011",
+          "text": "Durante tres generaciones hubo cazadores furtivos y peleas, y las dos familias se odiaron.",
+          "translationRu": "Три поколения были браконьеры и ссоры, и две семьи возненавидели друг друга.",
+          "original": "and a long series of poaching affrays and similar scandals had embittered the relationships between the families for three generations.",
+          "originalRu": "и долгая череда браконьерских стычек и подобных скандалов ожесточила отношения между семьями на три поколения."
+        },
+        {
+          "id": "sent-012",
+          "text": "Cuando Ulrich llegó a ser el jefe de su familia, el odio se hizo personal.",
+          "translationRu": "Когда Ульрих стал главой своей семьи, ненависть стала личной.",
+          "original": "The neighbour feud had grown into a personal one since Ulrich had come to be head of his family;",
+          "originalRu": "Соседская вражда стала личной с тех пор, как Ульрих сделался главой своей семьи;"
+        },
+        {
+          "id": "sent-013",
+          "text": "El hombre que Ulrich más odiaba era Georg Znaeym.",
+          "translationRu": "Человеком, которого Ульрих ненавидел больше всех, был Георг Знаейм.",
+          "original": "if there was a man in the world whom he detested and wished ill to it was Georg Znaeym,",
+          "originalRu": "если и был на свете человек, которого он ненавидел и которому желал зла, то это был Георг Знаейм,"
+        },
+        {
+          "id": "sent-014",
+          "text": "Georg heredó la pelea y entraba a robar caza en el bosque en disputa.",
+          "translationRu": "Георг унаследовал эту вражду и приходил красть дичь в спорном лесу.",
+          "original": "the inheritor of the quarrel and the tireless game-snatcher and raider of the disputed border-forest.",
+          "originalRu": "наследник ссоры, неутомимый похититель дичи и разбойник спорного пограничного леса."
+        },
+        {
+          "id": "sent-015",
+          "text": "Quizás la pelea podía terminar, pero los dos hombres no querían la paz.",
+          "translationRu": "Может быть, вражда могла бы кончиться, но эти двое не хотели мира.",
+          "original": "The feud might, perhaps, have died down or been compromised if the personal ill-will of the two men had not stood in the way;",
+          "originalRu": "Вражда, быть может, угасла бы или уладилась, если бы личная злоба этих двух людей не стояла на пути;"
+        },
+        {
+          "id": "sent-016",
+          "text": "De niños querían matarse,",
+          "translationRu": "В детстве они хотели убить друг друга,",
+          "original": "as boys they had thirsted for one another's blood,",
+          "originalRu": "мальчишками они жаждали крови друг друга,"
+        },
+        {
+          "id": "sent-017",
+          "text": "y de adultos cada uno deseaba el mal al otro.",
+          "translationRu": "а взрослыми каждый желал другому беды.",
+          "original": "as men each prayed that misfortune might fall on the other,",
+          "originalRu": "мужчинами каждый молился, чтобы на другого пало несчастье,"
+        },
+        {
+          "id": "sent-018",
+          "text": "Esa noche de viento y de invierno, Ulrich reunió a sus guardabosques.",
+          "translationRu": "В ту ветреную зимнюю ночь Ульрих собрал своих лесников.",
+          "original": "and this wind-scourged winter night Ulrich had banded together his foresters to watch the dark forest,",
+          "originalRu": "и в эту исхлёстанную ветром зимнюю ночь Ульрих собрал своих лесников, чтобы стеречь тёмный лес,"
+        },
+        {
+          "id": "sent-019",
+          "text": "No buscaba animales, sino a los ladrones que sospechaba en su tierra.",
+          "translationRu": "Он искал не зверей, а воров, которых подозревал на своей земле.",
+          "original": "not in quest of four-footed quarry, but to keep a look-out for the prowling thieves whom he suspected of being afoot from across the land boundary.",
+          "originalRu": "не в поисках четвероногой добычи, а чтобы высматривать крадущихся воров, которых он подозревал за границей своих земель."
+        },
+        {
+          "id": "sent-020",
+          "text": "Los corzos, que suelen esconderse cuando hay tormenta, esa noche corrían asustados.",
+          "translationRu": "Косули, что обычно прячутся в бурю, той ночью бежали в испуге.",
+          "original": "The roebuck, which usually kept in the sheltered hollows during a storm-wind, were running like driven things to-night,",
+          "originalRu": "Косули, что обычно держались в укрытых ложбинах при штормовом ветре, этой ночью бежали, как гонимые,"
+        },
+        {
+          "id": "sent-021",
+          "text": "y otros animales que suelen dormir estaban inquietos.",
+          "translationRu": "и другие звери, что обычно спят, были неспокойны.",
+          "original": "and there was movement and unrest among the creatures that were wont to sleep through the dark hours.",
+          "originalRu": "и было движение и беспокойство среди тварей, что привыкли спать в тёмные часы."
+        },
+        {
+          "id": "sent-022",
+          "text": "Algo molestaba al bosque, y Ulrich sabía de dónde venía.",
+          "translationRu": "Что-то тревожило лес, и Ульрих знал, откуда это шло.",
+          "original": "Assuredly there was a disturbing element in the forest, and Ulrich could guess the quarter from whence it came.",
+          "originalRu": "Несомненно, в лесу было нечто тревожащее, и Ульрих мог угадать, откуда оно исходит."
+        }
+      ]
+    },
+    {
+      "id": "para-003",
+      "sentences": [
+        {
+          "id": "sent-023",
+          "text": "Ulrich dejó a sus hombres, que esperaban escondidos en lo alto del monte.",
+          "translationRu": "Ульрих оставил своих людей, что ждали в засаде на вершине холма.",
+          "original": "He strayed away by himself from the watchers whom he had placed in ambush on the crest of the hill,",
+          "originalRu": "Он отошёл один от дозорных, которых поставил в засаде на гребне холма,"
+        },
+        {
+          "id": "sent-024",
+          "text": "Bajó solo por la ladera empinada, entre los arbustos.",
+          "translationRu": "Он спустился один по крутому склону, среди кустов.",
+          "original": "and wandered far down the steep slopes amid the wild tangle of undergrowth,",
+          "originalRu": "и забрёл далеко вниз по крутым склонам, в дикой чаще подлеска,"
+        },
+        {
+          "id": "sent-025",
+          "text": "Miraba entre los árboles y escuchaba el viento y las ramas,",
+          "translationRu": "Он смотрел меж деревьев и слушал ветер и ветви,",
+          "original": "peering through the tree trunks and listening through the whistling and skirling of the wind and the restless beating of the branches",
+          "originalRu": "вглядываясь между стволов и вслушиваясь сквозь свист и завывание ветра и беспокойный стук ветвей,"
+        },
+        {
+          "id": "sent-026",
+          "text": "buscando a los ladrones.",
+          "translationRu": "выискивая воров.",
+          "original": "for sight and sound of the marauders.",
+          "originalRu": "не мелькнут ли и не послышатся ли грабители."
+        },
+        {
+          "id": "sent-027",
+          "text": "Deseaba encontrar a Georg Znaeym solo, cara a cara, sin testigos.",
+          "translationRu": "Он желал встретить Георга Знаейма одного, лицом к лицу, без свидетелей.",
+          "original": "If only on this wild night, in this dark, lone spot, he might come across Georg Znaeym, man to man, with none to witness—that was the wish that was uppermost in his thoughts.",
+          "originalRu": "Если бы только в эту дикую ночь, в этом тёмном, глухом месте он мог встретить Георга Знаейма, один на один, без свидетелей, — вот какое желание было главным в его мыслях."
+        },
+        {
+          "id": "sent-028",
+          "text": "Y cuando dio la vuelta a un haya enorme,",
+          "translationRu": "И когда он обошёл огромный бук,",
+          "original": "And as he stepped round the trunk of a huge beech",
+          "originalRu": "И когда он шагнул вокруг ствола огромного бука,"
+        },
+        {
+          "id": "sent-029",
+          "text": "vio delante de él al hombre que buscaba.",
+          "translationRu": "он увидел перед собой человека, которого искал.",
+          "original": "he came face to face with the man he sought.",
+          "originalRu": "он столкнулся лицом к лицу с человеком, которого искал."
+        }
+      ]
+    },
+    {
+      "id": "para-004",
+      "sentences": [
+        {
+          "id": "sent-030",
+          "text": "Los dos enemigos se miraron un largo momento en silencio.",
+          "translationRu": "Два врага долго молча смотрели друг на друга.",
+          "original": "The two enemies stood glaring at one another for a long silent moment.",
+          "originalRu": "Два врага стояли, свирепо глядя друг на друга, долгое молчаливое мгновение."
+        },
+        {
+          "id": "sent-031",
+          "text": "Cada uno tenía un rifle en la mano y odio en el corazón.",
+          "translationRu": "У каждого было ружьё в руке и ненависть в сердце.",
+          "original": "Each had a rifle in his hand, each had hate in his heart and murder uppermost in his mind.",
+          "originalRu": "У каждого было ружьё в руке, у каждого была ненависть в сердце и мысль об убийстве."
+        },
+        {
+          "id": "sent-032",
+          "text": "Por fin podían dar rienda suelta al odio de toda una vida.",
+          "translationRu": "Наконец они могли дать волю ненависти всей жизни.",
+          "original": "The chance had come to give full play to the passions of a lifetime.",
+          "originalRu": "Пришёл случай дать полную волю страстям всей жизни."
+        },
+        {
+          "id": "sent-033",
+          "text": "Pero un hombre educado no puede matar a su vecino a sangre fría,",
+          "translationRu": "Но воспитанный человек не может хладнокровно убить соседа,",
+          "original": "But a man who has been brought up under the code of a restraining civilisation cannot easily nerve himself to shoot down his neighbour in cold blood and without word spoken,",
+          "originalRu": "Но человек, воспитанный по кодексу сдерживающей цивилизации, не может легко решиться застрелить соседа хладнокровно и без единого слова,"
+        },
+        {
+          "id": "sent-034",
+          "text": "sin decir nada, salvo por una gran ofensa.",
+          "translationRu": "не сказав ни слова, кроме как за тяжкое оскорбление.",
+          "original": "except for an offence against his hearth and honour.",
+          "originalRu": "разве что за оскорбление его очага и чести."
+        },
+        {
+          "id": "sent-035",
+          "text": "Y antes de que pasaran a la acción,",
+          "translationRu": "И прежде чем они перешли к действию,",
+          "original": "And before the moment of hesitation had given way to action",
+          "originalRu": "И прежде чем миг колебания сменился действием,"
+        },
+        {
+          "id": "sent-036",
+          "text": "la fuerza de la naturaleza cayó sobre los dos.",
+          "translationRu": "сила самой природы обрушилась на обоих.",
+          "original": "a deed of Nature's own violence overwhelmed them both.",
+          "originalRu": "деяние собственной ярости Природы одолело их обоих."
+        },
+        {
+          "id": "sent-037",
+          "text": "El viento gritó con fuerza, y sonó un crujido fuerte sobre sus cabezas.",
+          "translationRu": "Ветер яростно взвыл, и над их головами раздался громкий треск.",
+          "original": "A fierce shriek of the storm had been answered by a splitting crash over their heads,",
+          "originalRu": "Свирепому воплю бури ответил раскалывающий треск над их головами,"
+        },
+        {
+          "id": "sent-038",
+          "text": "Antes de poder saltar a un lado, un haya cayó sobre ellos.",
+          "translationRu": "Прежде чем они успели отскочить в сторону, бук упал на них.",
+          "original": "and ere they could leap aside a mass of falling beech tree had thundered down on them.",
+          "originalRu": "и, прежде чем они успели отпрыгнуть, громада падающего бука с грохотом рухнула на них."
+        },
+        {
+          "id": "sent-039",
+          "text": "Ulrich von Gradwitz quedó tendido en el suelo.",
+          "translationRu": "Ульрих фон Градвиц оказался лежащим на земле.",
+          "original": "Ulrich von Gradwitz found himself stretched on the ground,",
+          "originalRu": "Ульрих фон Градвиц оказался распростёртым на земле,"
+        },
+        {
+          "id": "sent-040",
+          "text": "Un brazo estaba dormido debajo de él, y el otro estaba atrapado entre las ramas.",
+          "translationRu": "Одна рука онемела под ним, а другая застряла среди ветвей.",
+          "original": "one arm numb beneath him and the other held almost as helplessly in a tight tangle of forked branches,",
+          "originalRu": "одна рука онемела под ним, а другая была зажата почти так же беспомощно в тесном сплетении раздвоенных ветвей,"
+        },
+        {
+          "id": "sent-041",
+          "text": "Sus dos piernas estaban debajo del árbol caído.",
+          "translationRu": "Обе его ноги были под упавшим деревом.",
+          "original": "while both legs were pinned beneath the fallen mass.",
+          "originalRu": "тогда как обе ноги были придавлены под упавшей громадой."
+        },
+        {
+          "id": "sent-042",
+          "text": "Sus botas fuertes salvaron sus pies.",
+          "translationRu": "Его крепкие сапоги спасли ему ноги.",
+          "original": "His heavy shooting-boots had saved his feet from being crushed to pieces,",
+          "originalRu": "Его тяжёлые охотничьи сапоги спасли его ступни от того, чтобы их не раздавило в куски,"
+        },
+        {
+          "id": "sent-043",
+          "text": "No estaba muy roto, pero no podía moverse sin ayuda.",
+          "translationRu": "Он не сильно пострадал, но не мог двинуться без помощи.",
+          "original": "but if his fractures were not as serious as they might have been, at least it was evident that he could not move from his present position till some one came to release him.",
+          "originalRu": "но, хотя его переломы были не так серьёзны, как могли бы быть, всё же было ясно, что он не сдвинется с места, пока кто-нибудь не придёт освободить его."
+        },
+        {
+          "id": "sent-044",
+          "text": "Una rama le cortó la cara,",
+          "translationRu": "Ветка порезала ему лицо,",
+          "original": "The descending twig had slashed the skin of his face,",
+          "originalRu": "Упавшая ветвь рассекла кожу на его лице,"
+        },
+        {
+          "id": "sent-045",
+          "text": "y tuvo que quitarse la sangre de los ojos para poder ver.",
+          "translationRu": "и ему пришлось смахнуть кровь с глаз, чтобы видеть.",
+          "original": "and he had to wink away some drops of blood from his eyelashes before he could take in a general view of the disaster.",
+          "originalRu": "и ему пришлось сморгнуть несколько капель крови с ресниц, прежде чем он смог оглядеть всё несчастье."
+        },
+        {
+          "id": "sent-046",
+          "text": "A su lado, muy cerca, estaba Georg Znaeym.",
+          "translationRu": "Рядом с ним, совсем близко, лежал Георг Знаейм.",
+          "original": "At his side, so near that under ordinary circumstances he could almost have touched him, lay Georg Znaeym,",
+          "originalRu": "Рядом с ним, так близко, что в обычных обстоятельствах он почти мог бы коснуться его, лежал Георг Знаейм,"
+        },
+        {
+          "id": "sent-047",
+          "text": "Estaba vivo y luchaba, pero también estaba atrapado, igual que Ulrich.",
+          "translationRu": "Он был жив и бился, но тоже был придавлен, как и Ульрих.",
+          "original": "alive and struggling, but obviously as helplessly pinioned down as himself.",
+          "originalRu": "живой и барахтающийся, но, очевидно, так же беспомощно придавленный, как и он сам."
+        },
+        {
+          "id": "sent-048",
+          "text": "Alrededor de ellos había muchas ramas rotas.",
+          "translationRu": "Вокруг них лежало много сломанных ветвей.",
+          "original": "All round them lay a thick-strewn wreckage of splintered branches and broken twigs.",
+          "originalRu": "Кругом лежали густо разбросанные обломки расщеплённых ветвей и сломанных сучьев."
+        }
+      ]
+    },
+    {
+      "id": "para-005",
+      "sentences": [
+        {
+          "id": "sent-049",
+          "text": "Ulrich estaba vivo, pero atrapado.",
+          "translationRu": "Ульрих был жив, но пойман в ловушку.",
+          "original": "Relief at being alive and exasperation at his captive plight",
+          "originalRu": "Облегчение оттого, что он жив, и досада на своё пленённое положение"
+        },
+        {
+          "id": "sent-050",
+          "text": "Por eso daba gracias a Dios y decía malas palabras a la vez.",
+          "translationRu": "Поэтому он то благодарил Бога, то ругался.",
+          "original": "brought a strange medley of pious thank-offerings and sharp curses to Ulrich's lips.",
+          "originalRu": "принесли на уста Ульриха странную смесь благочестивых благодарностей и резких проклятий."
+        },
+        {
+          "id": "sent-051",
+          "text": "Georg tenía sangre en los ojos y casi no veía.",
+          "translationRu": "У Георга была кровь в глазах, и он почти ничего не видел.",
+          "original": "Georg, who was nearly blinded with the blood which trickled across his eyes,",
+          "originalRu": "Георг, почти ослеплённый кровью, что струилась по его глазам,"
+        },
+        {
+          "id": "sent-052",
+          "text": "Dejó de luchar un momento para escuchar,",
+          "translationRu": "На миг он перестал биться, чтобы прислушаться,",
+          "original": "stopped his struggling for a moment to listen,",
+          "originalRu": "на мгновение перестал биться, чтобы прислушаться,"
+        },
+        {
+          "id": "sent-053",
+          "text": "y luego soltó una risa corta y feroz.",
+          "translationRu": "а потом коротко и злобно рассмеялся.",
+          "original": "and then gave a short, snarling laugh.",
+          "originalRu": "а потом издал короткий, рычащий смех."
+        }
+      ]
+    },
+    {
+      "id": "para-006",
+      "sentences": [
+        {
+          "id": "sent-054",
+          "text": "—Así que no estás muerto, como deberías,",
+          "translationRu": "— Значит, ты не убит, как следовало бы,",
+          "original": "\"So you're not killed, as you ought to be,",
+          "originalRu": "— Так ты не убит, как следовало бы,"
+        },
+        {
+          "id": "sent-055",
+          "text": "pero estás atrapado —gritó—.",
+          "translationRu": "но ты всё равно пойман, — крикнул он. —",
+          "original": "but you're caught, anyway,\" he cried;",
+          "originalRu": "но ты всё-таки пойман, — крикнул он;"
+        },
+        {
+          "id": "sent-056",
+          "text": "Bien atrapado.",
+          "translationRu": "Крепко пойман.",
+          "original": "\"caught fast.",
+          "originalRu": "— Крепко пойман."
+        },
+        {
+          "id": "sent-057",
+          "text": "¡Qué broma, Ulrich von Gradwitz atrapado en su bosque robado!",
+          "translationRu": "Вот потеха: Ульрих фон Градвиц пойман в своём краденом лесу!",
+          "original": "Ho, what a jest, Ulrich von Gradwitz snared in his stolen forest.",
+          "originalRu": "Хо, какая шутка: Ульрих фон Градвиц пойман в своём краденом лесу!"
+        },
+        {
+          "id": "sent-058",
+          "text": "¡Eso sí que es justicia!",
+          "translationRu": "Вот это настоящая справедливость!",
+          "original": "There's real justice for you!\"",
+          "originalRu": "Вот тебе настоящая справедливость!"
+        }
+      ]
+    },
+    {
+      "id": "para-007",
+      "sentences": [
+        {
+          "id": "sent-059",
+          "text": "Y volvió a reír, con burla y con rabia.",
+          "translationRu": "И он снова засмеялся, насмешливо и злобно.",
+          "original": "And he laughed again, mockingly and savagely.",
+          "originalRu": "И он снова засмеялся, насмешливо и свирепо."
+        }
+      ]
+    },
+    {
+      "id": "para-008",
+      "sentences": [
+        {
+          "id": "sent-060",
+          "text": "—Estoy atrapado en mi propio bosque —contestó Ulrich—.",
+          "translationRu": "— Я пойман в своём собственном лесу, — ответил Ульрих. —",
+          "original": "\"I'm caught in my own forest-land,\" retorted Ulrich.",
+          "originalRu": "— Я пойман в собственном лесу, — возразил Ульрих."
+        },
+        {
+          "id": "sent-061",
+          "text": "Cuando mis hombres vengan a soltarnos,",
+          "translationRu": "Когда мои люди придут освободить нас,",
+          "original": "\"When my men come to release us",
+          "originalRu": "— Когда мои люди придут освободить нас,"
+        },
+        {
+          "id": "sent-062",
+          "text": "quizás desees estar mejor que atrapado robando caza en tierra ajena.",
+          "translationRu": "ты, может, пожалеешь, что тебя поймали за кражей дичи на чужой земле.",
+          "original": "you will wish, perhaps, that you were in a better plight than caught poaching on a neighbour's land,",
+          "originalRu": "ты, быть может, пожелаешь оказаться в лучшем положении, чем пойманным за браконьерством на чужой земле,"
+        },
+        {
+          "id": "sent-063",
+          "text": "¡Qué vergüenza!",
+          "translationRu": "Стыд тебе!",
+          "original": "shame on you.\"",
+          "originalRu": "стыд тебе!"
+        },
+        {
+          "id": "sent-064",
+          "text": "Cuando mis hombres vengan a soltarnos,",
+          "translationRu": "Когда мои люди придут освободить нас,",
+          "original": "\"When my men come to release us",
+          "originalRu": "— Когда мои люди придут освободить нас,"
+        },
+        {
+          "id": "sent-065",
+          "text": "quizás desees estar mejor que atrapado robando caza en tierra ajena.",
+          "translationRu": "ты, может, пожалеешь, что тебя поймали за кражей дичи на чужой земле.",
+          "original": "you will wish, perhaps, that you were in a better plight than caught poaching on a neighbour's land,",
+          "originalRu": "ты, быть может, пожелаешь оказаться в лучшем положении, чем пойманным за браконьерством на чужой земле,"
+        },
+        {
+          "id": "sent-066",
+          "text": "¡Qué vergüenza!",
+          "translationRu": "Стыд тебе!",
+          "original": "shame on you.\"",
+          "originalRu": "стыд тебе!"
+        }
+      ]
+    },
+    {
+      "id": "para-009",
+      "sentences": [
+        {
+          "id": "sent-067",
+          "text": "Georg calló un momento;",
+          "translationRu": "Георг помолчал мгновение;",
+          "original": "Georg was silent for a moment;",
+          "originalRu": "Георг помолчал мгновение;"
+        },
+        {
+          "id": "sent-068",
+          "text": "luego respondió con calma:",
+          "translationRu": "потом спокойно ответил:",
+          "original": "then he answered quietly:",
+          "originalRu": "затем он тихо ответил:"
+        }
+      ]
+    },
+    {
+      "id": "para-010",
+      "sentences": [
+        {
+          "id": "sent-069",
+          "text": "—¿Seguro que tus hombres encontrarán mucho que soltar?",
+          "translationRu": "— Ты уверен, что твоим людям будет кого освобождать?",
+          "original": "\"Are you sure that your men will find much to release?",
+          "originalRu": "— Уверен ли ты, что твои люди найдут кого освобождать?"
+        },
+        {
+          "id": "sent-070",
+          "text": "Yo también tengo hombres en el bosque esta noche, muy cerca de mí,",
+          "translationRu": "У меня тоже есть люди в лесу этой ночью, совсем близко за мной,",
+          "original": "I have men, too, in the forest to-night, close behind me,",
+          "originalRu": "У меня тоже есть люди в лесу этой ночью, совсем близко за мной,"
+        },
+        {
+          "id": "sent-071",
+          "text": "y llegarán primero y me soltarán.",
+          "translationRu": "и они придут первыми и освободят меня.",
+          "original": "and they will be here first and do the releasing.",
+          "originalRu": "и они будут здесь первыми и сделают освобождение."
+        },
+        {
+          "id": "sent-072",
+          "text": "Cuando me saquen de estas ramas,",
+          "translationRu": "Когда они вытащат меня из-под этих веток,",
+          "original": "When they drag me out from under these damned branches",
+          "originalRu": "Когда они вытащат меня из-под этих проклятых веток,"
+        },
+        {
+          "id": "sent-073",
+          "text": "les será fácil empujar todo este tronco encima de ti.",
+          "translationRu": "им будет легко перекатить весь этот ствол прямо на тебя.",
+          "original": "it won't need much clumsiness on their part to roll this mass of trunk right over on the top of you.",
+          "originalRu": "им не потребуется большой неуклюжести, чтобы перекатить всю эту громаду ствола прямо на тебя."
+        },
+        {
+          "id": "sent-074",
+          "text": "Tus hombres te encontrarán muerto bajo un árbol.",
+          "translationRu": "Твои люди найдут тебя мёртвым под упавшим буком.",
+          "original": "Your men will find you dead under a fallen beech tree.",
+          "originalRu": "Твои люди найдут тебя мёртвым под упавшим буком."
+        },
+        {
+          "id": "sent-075",
+          "text": "Por educación, enviaré el pésame a tu familia.",
+          "translationRu": "Приличия ради я пошлю соболезнования твоей семье.",
+          "original": "For form's sake I shall send my condolences to your family.\"",
+          "originalRu": "Ради приличия я пошлю соболезнования твоей семье."
+        }
+      ]
+    },
+    {
+      "id": "para-011",
+      "sentences": [
+        {
+          "id": "sent-076",
+          "text": "—Es un buen aviso —dijo Ulrich con furia—.",
+          "translationRu": "— Это полезный совет, — сказал Ульрих яростно. —",
+          "original": "\"It is a useful hint,\" said Ulrich fiercely.",
+          "originalRu": "— Это полезная подсказка, — свирепо сказал Ульрих."
+        },
+        {
+          "id": "sent-077",
+          "text": "Mis hombres tenían orden de seguirme en diez minutos,",
+          "translationRu": "Моим людям было велено идти за мной через десять минут,",
+          "original": "\"My men had orders to follow in ten minutes time,",
+          "originalRu": "— Моим людям был приказ следовать через десять минут,"
+        },
+        {
+          "id": "sent-078",
+          "text": "y ya han pasado siete.",
+          "translationRu": "а семь уже прошло.",
+          "original": "seven of which must have gone by already,",
+          "originalRu": "семь из которых, должно быть, уже прошли,"
+        },
+        {
+          "id": "sent-079",
+          "text": "Cuando me saquen, recordaré tu aviso.",
+          "translationRu": "Когда меня вытащат, я вспомню твой совет.",
+          "original": "and when they get me out—I will remember the hint.",
+          "originalRu": "и когда меня вытащат — я вспомню подсказку."
+        },
+        {
+          "id": "sent-080",
+          "text": "Solo que, como morirás robando caza en mi tierra,",
+          "translationRu": "Только вот, раз ты умрёшь за кражей дичи на моей земле,",
+          "original": "Only as you will have met your death poaching on my lands",
+          "originalRu": "Только поскольку ты встретишь смерть, браконьерствуя на моих землях,"
+        },
+        {
+          "id": "sent-081",
+          "text": "no creo que pueda enviar el pésame a tu familia.",
+          "translationRu": "не думаю, что смогу прилично послать соболезнования твоей семье.",
+          "original": "I don't think I can decently send any message of condolence to your family.\"",
+          "originalRu": "не думаю, что могу прилично послать хоть какое-то соболезнование твоей семье."
+        }
+      ]
+    },
+    {
+      "id": "para-012",
+      "sentences": [
+        {
+          "id": "sent-082",
+          "text": "—Bien —gruñó Georg—, bien.",
+          "translationRu": "— Хорошо, — прорычал Георг, — хорошо.",
+          "original": "\"Good,\" snarled Georg, \"good.",
+          "originalRu": "— Хорошо, — прорычал Георг, — хорошо."
+        },
+        {
+          "id": "sent-083",
+          "text": "Terminaremos esta pelea a muerte, tú y yo y nuestros hombres,",
+          "translationRu": "Мы доведём эту вражду до смерти, ты и я и наши лесники,",
+          "original": "We fight this quarrel out to the death, you and I and our foresters,",
+          "originalRu": "Мы будем биться в этой ссоре до смерти, ты и я и наши лесники,"
+        },
+        {
+          "id": "sent-084",
+          "text": "sin ningún intruso maldito entre nosotros.",
+          "translationRu": "без всяких проклятых чужаков между нами.",
+          "original": "with no cursed interlopers to come between us.",
+          "originalRu": "без проклятых чужаков, что встали бы между нами."
+        },
+        {
+          "id": "sent-085",
+          "text": "¡Muerte y perdición para ti, Ulrich von Gradwitz!",
+          "translationRu": "Смерть и проклятие тебе, Ульрих фон Градвиц!",
+          "original": "Death and damnation to you, Ulrich von Gradwitz.\"",
+          "originalRu": "Смерть и проклятие тебе, Ульрих фон Градвиц!"
+        }
+      ]
+    },
+    {
+      "id": "para-013",
+      "sentences": [
+        {
+          "id": "sent-086",
+          "text": "—Lo mismo para ti, Georg Znaeym, ladrón de bosques, ladrón de caza.",
+          "translationRu": "— Того же и тебе, Георг Знаейм, лесной вор, похититель дичи.",
+          "original": "\"The same to you, Georg Znaeym, forest-thief, game-snatcher.\"",
+          "originalRu": "— Того же и тебе, Георг Знаейм, лесной вор, похититель дичи."
+        }
+      ]
+    },
+    {
+      "id": "para-014",
+      "sentences": [
+        {
+          "id": "sent-087",
+          "text": "Los dos hombres hablaban con la amargura de la posible derrota,",
+          "translationRu": "Оба говорили с горечью возможного поражения,",
+          "original": "Both men spoke with the bitterness of possible defeat before them,",
+          "originalRu": "Оба говорили с горечью возможного поражения перед ними,"
+        },
+        {
+          "id": "sent-088",
+          "text": "porque cada uno sabía que sus hombres podían tardar en encontrarlo;",
+          "translationRu": "ведь каждый знал, что его люди могут долго его искать;",
+          "original": "for each knew that it might be long before his men would seek him out or find him;",
+          "originalRu": "ибо каждый знал, что может пройти много времени, прежде чем его люди станут искать его или найдут;"
+        },
+        {
+          "id": "sent-089",
+          "text": "era solo cuestión de suerte quién llegaría primero.",
+          "translationRu": "было лишь делом случая, чья сторона придёт первой.",
+          "original": "it was a bare matter of chance which party would arrive first on the scene.",
+          "originalRu": "было чистым делом случая, какая из сторон явится на место первой."
+        }
+      ]
+    },
+    {
+      "id": "para-015",
+      "sentences": [
+        {
+          "id": "sent-090",
+          "text": "Los dos ya habían dejado de luchar para liberarse del árbol que los sujetaba;",
+          "translationRu": "Оба уже бросили бесполезную борьбу за свободу из-под державшего их дерева;",
+          "original": "Both had now given up the useless struggle to free themselves from the mass of wood that held them down;",
+          "originalRu": "Оба уже оставили бесполезную борьбу, чтобы освободиться из-под громады дерева, что держала их;"
+        },
+        {
+          "id": "sent-091",
+          "text": "Ulrich solo trataba de acercar su brazo medio libre al bolsillo del abrigo,",
+          "translationRu": "Ульрих лишь старался поднести полусвободную руку к карману пальто,",
+          "original": "Ulrich limited his endeavours to an effort to bring his one partially free arm near enough to his outer coat-pocket",
+          "originalRu": "Ульрих ограничил свои усилия попыткой поднести одну частично свободную руку к наружному карману пальто,"
+        },
+        {
+          "id": "sent-092",
+          "text": "para sacar su botella de vino.",
+          "translationRu": "чтобы достать свою флягу с вином.",
+          "original": "to draw out his wine-flask.",
+          "originalRu": "чтобы вытащить флягу с вином."
+        },
+        {
+          "id": "sent-093",
+          "text": "Y aun después de lograrlo, tardó mucho en abrir la botella y beber un poco.",
+          "translationRu": "И даже добившись этого, он долго не мог отвинтить пробку и глотнуть.",
+          "original": "Even when he had accomplished that operation it was long before he could manage the unscrewing of the stopper or get any of the liquid down his throat.",
+          "originalRu": "Даже когда он справился с этим делом, прошло много времени, прежде чем он смог отвинтить пробку или пропустить хоть немного жидкости в горло."
+        },
+        {
+          "id": "sent-094",
+          "text": "¡Pero qué trago tan bueno le pareció!",
+          "translationRu": "Но каким же благословенным показался ему этот глоток!",
+          "original": "But what a Heaven-sent draught it seemed!",
+          "originalRu": "Но каким же посланным с небес показался ему этот глоток!"
+        },
+        {
+          "id": "sent-095",
+          "text": "Era un invierno suave y había caído poca nieve,",
+          "translationRu": "Зима была мягкая, и снега выпало пока мало,",
+          "original": "It was an open winter, and little snow had fallen as yet,",
+          "originalRu": "Зима стояла бесснежная, и снега пока выпало мало,"
+        },
+        {
+          "id": "sent-096",
+          "text": "así que sufrían menos frío que en otras épocas del año;",
+          "translationRu": "поэтому пленники страдали от холода меньше, чем бывает в это время года;",
+          "original": "hence the captives suffered less from the cold than might have been the case at that season of the year;",
+          "originalRu": "поэтому пленники страдали от холода меньше, чем могло бы быть в это время года;"
+        },
+        {
+          "id": "sent-097",
+          "text": "aun así, el vino daba calor y fuerza al hombre herido,",
+          "translationRu": "и всё же вино согревало и оживляло раненого,",
+          "original": "nevertheless, the wine was warming and reviving to the wounded man,",
+          "originalRu": "тем не менее вино согревало и оживляло раненого,"
+        },
+        {
+          "id": "sent-098",
+          "text": "y él miró a su enemigo con algo parecido a la pena,",
+          "translationRu": "и он взглянул на своего врага почти с жалостью,",
+          "original": "and he looked across with something like a throb of pity to where his enemy lay,",
+          "originalRu": "и он посмотрел туда, где лежал его враг, с чем-то вроде вспышки жалости,"
+        },
+        {
+          "id": "sent-099",
+          "text": "que apenas aguantaba los gemidos de dolor y cansancio.",
+          "translationRu": "который едва сдерживал стоны боли и усталости.",
+          "original": "just keeping the groans of pain and weariness from crossing his lips.",
+          "originalRu": "едва удерживая стоны боли и усталости, чтобы они не сорвались с губ."
+        }
+      ]
+    },
+    {
+      "id": "para-016",
+      "sentences": [
+        {
+          "id": "sent-100",
+          "text": "—¿Podrías coger esta botella si te la lanzo?",
+          "translationRu": "— Ты бы поймал эту флягу, если бы я бросил её тебе?",
+          "original": "\"Could you reach this flask if I threw it over to you?\"",
+          "originalRu": "— Ты бы дотянулся до этой фляги, если бы я бросил её тебе?"
+        },
+        {
+          "id": "sent-101",
+          "text": "—preguntó Ulrich de pronto—.",
+          "translationRu": "— вдруг спросил Ульрих. —",
+          "original": "asked Ulrich suddenly;",
+          "originalRu": "— вдруг спросил Ульрих;"
+        },
+        {
+          "id": "sent-102",
+          "text": "Tiene buen vino, y mejor estar lo más cómodos posible.",
+          "translationRu": "В ней хорошее вино, и лучше устроиться так удобно, как можем.",
+          "original": "\"there is good wine in it, and one may as well be as comfortable as one can.",
+          "originalRu": "— в ней хорошее вино, и уж лучше устроиться настолько удобно, насколько можно."
+        },
+        {
+          "id": "sent-103",
+          "text": "Bebamos, aunque esta noche uno de los dos muera.",
+          "translationRu": "Выпьем, пусть даже ночью один из нас умрёт.",
+          "original": "Let us drink, even if to-night one of us dies.\"",
+          "originalRu": "Давай выпьем, пусть даже этой ночью один из нас умрёт."
+        }
+      ]
+    },
+    {
+      "id": "para-017",
+      "sentences": [
+        {
+          "id": "sent-104",
+          "text": "—No, casi no veo nada;",
+          "translationRu": "— Нет, я почти ничего не вижу;",
+          "original": "\"No, I can scarcely see anything;",
+          "originalRu": "— Нет, я едва что-либо вижу;"
+        },
+        {
+          "id": "sent-105",
+          "text": "tengo mucha sangre seca en los ojos —dijo Georg—,",
+          "translationRu": "у меня много запёкшейся крови вокруг глаз, — сказал Георг, —",
+          "original": "there is so much blood caked round my eyes,\" said Georg,",
+          "originalRu": "у меня столько запёкшейся крови вокруг глаз, — сказал Георг, —"
+        },
+        {
+          "id": "sent-106",
+          "text": "y además no bebo vino con un enemigo.",
+          "translationRu": "и в любом случае я не пью вина с врагом.",
+          "original": "\"and in any case I don't drink wine with an enemy.\"",
+          "originalRu": "— и в любом случае я не пью вина с врагом."
+        }
+      ]
+    },
+    {
+      "id": "para-018",
+      "sentences": [
+        {
+          "id": "sent-107",
+          "text": "Ulrich calló unos minutos,",
+          "translationRu": "Ульрих молчал несколько минут",
+          "original": "Ulrich was silent for a few minutes,",
+          "originalRu": "Ульрих несколько минут молчал"
+        },
+        {
+          "id": "sent-108",
+          "text": "y escuchaba el viento cansado.",
+          "translationRu": "и слушал усталый вой ветра.",
+          "original": "and lay listening to the weary screeching of the wind.",
+          "originalRu": "и лежал, слушая усталый визг ветра."
+        },
+        {
+          "id": "sent-109",
+          "text": "Poco a poco nacía una idea en su mente,",
+          "translationRu": "Медленно в его уме росла одна мысль,",
+          "original": "An idea was slowly forming and growing in his brain,",
+          "originalRu": "Одна мысль медленно складывалась и росла в его голове,"
+        },
+        {
+          "id": "sent-110",
+          "text": "una idea que se hacía más fuerte cada vez que miraba a Georg,",
+          "translationRu": "мысль, что крепла всякий раз, когда он смотрел на Георга,",
+          "original": "an idea that gained strength every time that he looked across at the man",
+          "originalRu": "мысль, что набирала силу всякий раз, когда он глядел на человека,"
+        },
+        {
+          "id": "sent-111",
+          "text": "que luchaba con tanto valor contra el dolor.",
+          "translationRu": "который так упорно боролся с болью и усталостью.",
+          "original": "who was fighting so grimly against pain and exhaustion.",
+          "originalRu": "который так угрюмо боролся с болью и изнеможением."
+        },
+        {
+          "id": "sent-112",
+          "text": "En su propio dolor, el viejo odio feroz parecía morir.",
+          "translationRu": "В его собственной боли и слабости старая жгучая ненависть словно угасала.",
+          "original": "In the pain and languor that Ulrich himself was feeling the old fierce hatred seemed to be dying down.",
+          "originalRu": "В боли и вялости, что чувствовал сам Ульрих, старая свирепая ненависть, казалось, угасала."
+        }
+      ]
+    },
+    {
+      "id": "para-019",
+      "sentences": [
+        {
+          "id": "sent-113",
+          "text": "—Vecino —dijo poco después—,",
+          "translationRu": "— Сосед, — сказал он немного погодя, —",
+          "original": "\"Neighbour,\" he said presently,",
+          "originalRu": "— Сосед, — сказал он вскоре, —"
+        },
+        {
+          "id": "sent-114",
+          "text": "haz lo que quieras si tus hombres llegan primero.",
+          "translationRu": "делай что хочешь, если твои люди придут первыми.",
+          "original": "\"do as you please if your men come first.",
+          "originalRu": "— поступай как знаешь, если твои люди придут первыми."
+        },
+        {
+          "id": "sent-115",
+          "text": "Fue un trato justo.",
+          "translationRu": "Это был честный уговор.",
+          "original": "It was a fair compact.",
+          "originalRu": "Это был честный уговор."
+        },
+        {
+          "id": "sent-116",
+          "text": "Pero yo he cambiado de idea.",
+          "translationRu": "Но я передумал.",
+          "original": "But as for me, I've changed my mind.",
+          "originalRu": "Но что до меня — я передумал."
+        },
+        {
+          "id": "sent-117",
+          "text": "Si mis hombres llegan primero, te ayudaré a ti primero, como a un invitado.",
+          "translationRu": "Если мои люди придут первыми, тебе помогут первым, как моему гостю.",
+          "original": "If my men are the first to come you shall be the first to be helped, as though you were my guest.",
+          "originalRu": "Если мои люди придут первыми, тебе окажут помощь первому, как если бы ты был моим гостем."
+        },
+        {
+          "id": "sent-118",
+          "text": "Hemos peleado como demonios toda la vida por esta tonta franja de bosque,",
+          "translationRu": "Мы всю жизнь дрались как черти из-за этой глупой полоски леса,",
+          "original": "We have quarrelled like devils all our lives over this stupid strip of forest,",
+          "originalRu": "Мы всю жизнь ссорились как черти из-за этой глупой полоски леса,"
+        },
+        {
+          "id": "sent-119",
+          "text": "donde los árboles ni siquiera aguantan de pie con un poco de viento.",
+          "translationRu": "где деревья даже не могут устоять от малейшего ветра.",
+          "original": "where the trees can't even stand upright in a breath of wind.",
+          "originalRu": "где деревья не могут даже стоять прямо при дуновении ветра."
+        },
+        {
+          "id": "sent-120",
+          "text": "Echado aquí esta noche, he pensado que hemos sido bastante tontos;",
+          "translationRu": "Лёжа здесь этой ночью, я подумал, что мы были порядочными глупцами;",
+          "original": "Lying here to-night thinking I've come to think we've been rather fools;",
+          "originalRu": "Лёжа здесь этой ночью в раздумьях, я пришёл к мысли, что мы были изрядными глупцами;"
+        },
+        {
+          "id": "sent-121",
+          "text": "hay cosas mejores en la vida que ganar una pelea por un límite.",
+          "translationRu": "в жизни есть вещи получше, чем взять верх в споре о границе.",
+          "original": "there are better things in life than getting the better of a boundary dispute.",
+          "originalRu": "в жизни есть вещи получше, чем одержать верх в споре о границе."
+        },
+        {
+          "id": "sent-122",
+          "text": "Vecino, si me ayudas a enterrar la vieja pelea,",
+          "translationRu": "Сосед, если ты поможешь мне похоронить старую вражду,",
+          "original": "Neighbour, if you will help me to bury the old quarrel",
+          "originalRu": "Сосед, если ты поможешь мне похоронить старую ссору,"
+        },
+        {
+          "id": "sent-123",
+          "text": "yo… te pediré que seas mi amigo.",
+          "translationRu": "я… попрошу тебя стать мне другом.",
+          "original": "I—I will ask you to be my friend.\"",
+          "originalRu": "я… я попрошу тебя стать моим другом."
+        }
+      ]
+    },
+    {
+      "id": "para-020",
+      "sentences": [
+        {
+          "id": "sent-124",
+          "text": "Georg Znaeym estuvo callado tanto tiempo",
+          "translationRu": "Георг Знаейм молчал так долго,",
+          "original": "Georg Znaeym was silent for so long",
+          "originalRu": "Георг Знаейм молчал так долго,"
+        },
+        {
+          "id": "sent-125",
+          "text": "que Ulrich pensó",
+          "translationRu": "что Ульрих подумал,",
+          "original": "that Ulrich thought,",
+          "originalRu": "что Ульрих подумал,"
+        },
+        {
+          "id": "sent-126",
+          "text": "que quizá se había desmayado por el dolor.",
+          "translationRu": "что, может быть, он потерял сознание от боли.",
+          "original": "perhaps, he had fainted with the pain of his injuries.",
+          "originalRu": "что, может быть, он лишился чувств от боли своих ран."
+        },
+        {
+          "id": "sent-127",
+          "text": "Luego habló despacio y con pausas.",
+          "translationRu": "Потом он заговорил медленно и с остановками.",
+          "original": "Then he spoke slowly and in jerks.",
+          "originalRu": "Потом он заговорил медленно и отрывисто."
+        }
+      ]
+    },
+    {
+      "id": "para-021",
+      "sentences": [
+        {
+          "id": "sent-128",
+          "text": "—La gente miraría y hablaría mucho",
+          "translationRu": "— Люди смотрели бы и много говорили,",
+          "original": "\"How the whole region would stare and gabble",
+          "originalRu": "— Как бы весь край глазел и судачил,"
+        },
+        {
+          "id": "sent-129",
+          "text": "si entráramos juntos en la plaza.",
+          "translationRu": "если бы мы вместе въехали на площадь.",
+          "original": "if we rode into the market-square together.",
+          "originalRu": "если бы мы вместе въехали на рыночную площадь."
+        },
+        {
+          "id": "sent-130",
+          "text": "Nadie recuerda",
+          "translationRu": "Никто не помнит,",
+          "original": "No one living can remember",
+          "originalRu": "Никто из живых не помнит,"
+        },
+        {
+          "id": "sent-131",
+          "text": "haber visto a un Znaeym y a un von Gradwitz hablar como amigos.",
+          "translationRu": "чтобы Знаейм и фон Градвиц говорили как друзья.",
+          "original": "seeing a Znaeym and a von Gradwitz talking to one another in friendship.",
+          "originalRu": "чтобы кто-то видел Знаейма и фон Градвица, говорящих друг с другом по-дружески."
+        },
+        {
+          "id": "sent-132",
+          "text": "Y habría mucha paz entre los guardas del bosque",
+          "translationRu": "И был бы большой мир между лесными людьми,",
+          "original": "And what peace there would be among the forester folk",
+          "originalRu": "И какой мир настал бы среди лесного люда,"
+        },
+        {
+          "id": "sent-133",
+          "text": "si terminamos hoy nuestra enemistad.",
+          "translationRu": "если мы сегодня покончим с нашей враждой.",
+          "original": "if we ended our feud to-night.",
+          "originalRu": "если бы мы этой ночью покончили с нашей враждой."
+        },
+        {
+          "id": "sent-134",
+          "text": "Y si queremos hacer la paz entre los nuestros,",
+          "translationRu": "И если мы захотим помириться между своими,",
+          "original": "And if we choose to make peace among our people",
+          "originalRu": "И если мы решим установить мир среди своих людей,"
+        },
+        {
+          "id": "sent-135",
+          "text": "no hay nadie más que pueda meterse,",
+          "translationRu": "нет никого больше, кто мог бы вмешаться,",
+          "original": "there is none other to interfere,",
+          "originalRu": "нет никого другого, кто мог бы вмешаться,"
+        },
+        {
+          "id": "sent-136",
+          "text": "ningún intruso de fuera...",
+          "translationRu": "никаких чужаков извне...",
+          "original": "no interlopers from outside . . .",
+          "originalRu": "никаких пришельцев со стороны..."
+        },
+        {
+          "id": "sent-137",
+          "text": "Tú vendrías a pasar la noche de San Silvestre bajo mi techo,",
+          "translationRu": "Ты приходил бы встречать Новый год под моей крышей,",
+          "original": "You would come and keep the Sylvester night beneath my roof,",
+          "originalRu": "Ты приходил бы встречать Сильвестрову ночь под моей крышей,"
+        },
+        {
+          "id": "sent-138",
+          "text": "y yo iría a comer en un día de fiesta a tu castillo...",
+          "translationRu": "а я приходил бы пировать в праздник в твоём замке...",
+          "original": "and I would come and feast on some high day at your castle . . .",
+          "originalRu": "а я приходил бы пировать в какой-нибудь праздник в твоём замке..."
+        },
+        {
+          "id": "sent-139",
+          "text": "Yo nunca dispararía en tu tierra,",
+          "translationRu": "Я никогда не стрелял бы на твоей земле,",
+          "original": "I would never fire a shot on your land,",
+          "originalRu": "Я никогда не выстрелил бы на твоей земле,"
+        },
+        {
+          "id": "sent-140",
+          "text": "salvo cuando me invitaras como invitado;",
+          "translationRu": "разве что когда ты позвал бы меня как гостя;",
+          "original": "save when you invited me as a guest;",
+          "originalRu": "разве что когда ты пригласил бы меня как гостя;"
+        },
+        {
+          "id": "sent-141",
+          "text": "y tú vendrías a cazar conmigo abajo, en las marismas de las aves.",
+          "translationRu": "а ты приходил бы охотиться со мной внизу, на болотах, где дичь.",
+          "original": "and you should come and shoot with me down in the marshes where the wildfowl are.",
+          "originalRu": "а ты приходил бы стрелять со мной внизу, на болотах, где водится дичь."
+        },
+        {
+          "id": "sent-142",
+          "text": "En toda la comarca no hay nadie que pueda impedirlo,",
+          "translationRu": "Во всём краю нет никого, кто мог бы этому помешать,",
+          "original": "In all the countryside there are none that could hinder",
+          "originalRu": "Во всей округе нет никого, кто мог бы помешать,"
+        },
+        {
+          "id": "sent-143",
+          "text": "si queremos hacer la paz.",
+          "translationRu": "если мы захотим помириться.",
+          "original": "if we willed to make peace.",
+          "originalRu": "если бы мы захотели заключить мир."
+        },
+        {
+          "id": "sent-144",
+          "text": "Nunca pensé querer otra cosa que odiarte toda mi vida,",
+          "translationRu": "Я никогда не думал, что захочу чего-то другого, кроме как ненавидеть тебя всю жизнь,",
+          "original": "I never thought to have wanted to do other than hate you all my life,",
+          "originalRu": "Я никогда не думал, что мне захочется чего-то иного, кроме как ненавидеть тебя всю жизнь,"
+        },
+        {
+          "id": "sent-145",
+          "text": "pero creo que yo también he cambiado de idea en esta última media hora.",
+          "translationRu": "но я думаю, что я тоже передумал за эти последние полчаса.",
+          "original": "but I think I have changed my mind about things too, this last half-hour.",
+          "originalRu": "но, думаю, я тоже переменил своё мнение обо всём за этот последний час."
+        },
+        {
+          "id": "sent-146",
+          "text": "Y tú me ofreciste tu bota de vino...",
+          "translationRu": "И ты предложил мне свою флягу с вином...",
+          "original": "And you offered me your wine-flask . . .",
+          "originalRu": "И ты предложил мне свою флягу с вином..."
+        },
+        {
+          "id": "sent-147",
+          "text": "Ulrich von Gradwitz, seré tu amigo.",
+          "translationRu": "Ульрих фон Градвиц, я буду твоим другом.",
+          "original": "Ulrich von Gradwitz, I will be your friend.\"",
+          "originalRu": "Ульрих фон Градвиц, я буду твоим другом."
+        }
+      ]
+    },
+    {
+      "id": "para-022",
+      "sentences": [
+        {
+          "id": "sent-148",
+          "text": "Durante un rato los dos hombres estuvieron callados,",
+          "translationRu": "Какое-то время оба молчали,",
+          "original": "For a space both men were silent,",
+          "originalRu": "Некоторое время оба человека молчали,"
+        },
+        {
+          "id": "sent-149",
+          "text": "pensando en los cambios maravillosos",
+          "translationRu": "думая о чудесных переменах,",
+          "original": "turning over in their minds the wonderful changes",
+          "originalRu": "перебирая в мыслях те чудесные перемены,"
+        },
+        {
+          "id": "sent-150",
+          "text": "que traería esta reconciliación.",
+          "translationRu": "которые принесло бы это примирение.",
+          "original": "that this dramatic reconciliation would bring about.",
+          "originalRu": "которые принесло бы это внезапное примирение."
+        },
+        {
+          "id": "sent-151",
+          "text": "En el bosque frío y oscuro,",
+          "translationRu": "В холодном тёмном лесу,",
+          "original": "In the cold, gloomy forest,",
+          "originalRu": "В холодном мрачном лесу,"
+        },
+        {
+          "id": "sent-152",
+          "text": "con el viento pasando a golpes entre las ramas desnudas",
+          "translationRu": "где ветер рвался порывами между голых веток",
+          "original": "with the wind tearing in fitful gusts through the naked branches",
+          "originalRu": "где ветер рвался порывистыми шквалами сквозь голые ветви"
+        },
+        {
+          "id": "sent-153",
+          "text": "y silbando alrededor de los troncos,",
+          "translationRu": "и свистел вокруг стволов,",
+          "original": "and whistling round the tree-trunks,",
+          "originalRu": "и свистел вокруг древесных стволов,"
+        },
+        {
+          "id": "sent-154",
+          "text": "esperaban la ayuda",
+          "translationRu": "они ждали помощи,",
+          "original": "they lay and waited for the help",
+          "originalRu": "они лежали и ждали помощи,"
+        },
+        {
+          "id": "sent-155",
+          "text": "que ahora los salvaría a los dos.",
+          "translationRu": "которая теперь спасла бы обоих.",
+          "original": "that would now bring release and succour to both parties.",
+          "originalRu": "которая теперь принесла бы избавление и подмогу обеим сторонам."
+        },
+        {
+          "id": "sent-156",
+          "text": "Y cada uno rezaba en silencio",
+          "translationRu": "И каждый молился про себя,",
+          "original": "And each prayed a private prayer",
+          "originalRu": "И каждый молился тайной молитвой,"
+        },
+        {
+          "id": "sent-157",
+          "text": "para que sus hombres llegaran primero,",
+          "translationRu": "чтобы его люди пришли первыми,",
+          "original": "that his men might be the first to arrive,",
+          "originalRu": "чтобы его люди пришли первыми,"
+        },
+        {
+          "id": "sent-158",
+          "text": "y así ser el primero en ayudar al enemigo",
+          "translationRu": "и так стать первым, кто поможет врагу,",
+          "original": "so that he might be the first to show honourable attention to the enemy",
+          "originalRu": "чтобы стать первым, кто окажет честь врагу,"
+        },
+        {
+          "id": "sent-159",
+          "text": "que ahora era su amigo.",
+          "translationRu": "который теперь стал его другом.",
+          "original": "that had become a friend.",
+          "originalRu": "который стал другом."
+        }
+      ]
+    },
+    {
+      "id": "para-023",
+      "sentences": [
+        {
+          "id": "sent-160",
+          "text": "Al poco rato, cuando el viento bajó un momento,",
+          "translationRu": "Немного погодя, когда ветер на миг стих,",
+          "original": "Presently, as the wind dropped for a moment,",
+          "originalRu": "Вскоре, когда ветер на мгновение стих,"
+        },
+        {
+          "id": "sent-161",
+          "text": "Ulrich rompió el silencio.",
+          "translationRu": "Ульрих нарушил молчание.",
+          "original": "Ulrich broke silence.",
+          "originalRu": "Ульрих нарушил молчание."
+        }
+      ]
+    },
+    {
+      "id": "para-024",
+      "sentences": [
+        {
+          "id": "sent-162",
+          "text": "—Gritemos pidiendo ayuda —dijo—,",
+          "translationRu": "— Давай крикнем о помощи, — сказал он, —",
+          "original": "\"Let's shout for help,\" he said,",
+          "originalRu": "— Давай кричать о помощи, — сказал он, —"
+        },
+        {
+          "id": "sent-163",
+          "text": "en esta calma nuestras voces pueden llegar un poco lejos.",
+          "translationRu": "в этом затишье наши голоса могут долететь немного дальше.",
+          "original": "\"in this lull our voices may carry a little way.\"",
+          "originalRu": "в этом затишье наши голоса могут донестись немного дальше."
+        }
+      ]
+    },
+    {
+      "id": "para-025",
+      "sentences": [
+        {
+          "id": "sent-164",
+          "text": "—No llegarán lejos entre los árboles y los matorrales",
+          "translationRu": "— Далеко они не долетят через деревья и кусты,",
+          "original": "\"They won't carry far through the trees and undergrowth,\"",
+          "originalRu": "— Далеко они не донесутся сквозь деревья и заросли, —"
+        },
+        {
+          "id": "sent-165",
+          "text": "—dijo Georg—,",
+          "translationRu": "— сказал Георг, —",
+          "original": "said Georg,",
+          "originalRu": "сказал Георг, —"
+        },
+        {
+          "id": "sent-166",
+          "text": "pero podemos intentarlo.",
+          "translationRu": "но мы можем попробовать.",
+          "original": "\"but we can try.",
+          "originalRu": "но мы можем попробовать."
+        },
+        {
+          "id": "sent-167",
+          "text": "Juntos, entonces.",
+          "translationRu": "Вместе, тогда.",
+          "original": "Together, then.\"",
+          "originalRu": "Вместе, значит."
+        }
+      ]
+    },
+    {
+      "id": "para-026",
+      "sentences": [
+        {
+          "id": "sent-168",
+          "text": "Los dos levantaron la voz en un largo grito de caza.",
+          "translationRu": "Оба подняли голоса в долгом охотничьем клике.",
+          "original": "The two raised their voices in a prolonged hunting call.",
+          "originalRu": "Оба подняли голоса в протяжном охотничьем кличе."
+        }
+      ]
+    },
+    {
+      "id": "para-027",
+      "sentences": [
+        {
+          "id": "sent-169",
+          "text": "—Otra vez juntos —dijo Ulrich unos minutos después,",
+          "translationRu": "— Ещё раз вместе, — сказал Ульрих несколько минут спустя,",
+          "original": "\"Together again,\" said Ulrich a few minutes later,",
+          "originalRu": "— Снова вместе, — сказал Ульрих несколько минут спустя,"
+        },
+        {
+          "id": "sent-170",
+          "text": "tras escuchar en vano una respuesta.",
+          "translationRu": "напрасно прислушавшись к ответу.",
+          "original": "after listening in vain for an answering halloo.",
+          "originalRu": "тщетно прислушавшись, не откликнется ли кто."
+        }
+      ]
+    },
+    {
+      "id": "para-028",
+      "sentences": [
+        {
+          "id": "sent-171",
+          "text": "—No he oído más que el maldito viento",
+          "translationRu": "— Я не слышал ничего, кроме проклятого ветра,",
+          "original": "\"I heard nothing but the pestilential wind,\"",
+          "originalRu": "— Я не слышал ничего, кроме несносного ветра, —"
+        },
+        {
+          "id": "sent-172",
+          "text": "—dijo Georg con voz ronca.",
+          "translationRu": "— сказал Георг хриплым голосом.",
+          "original": "said Georg hoarsely.",
+          "originalRu": "сказал Георг хрипло."
+        }
+      ]
+    },
+    {
+      "id": "para-029",
+      "sentences": [
+        {
+          "id": "sent-173",
+          "text": "Hubo silencio otra vez durante unos minutos,",
+          "translationRu": "Снова несколько минут стояла тишина,",
+          "original": "There was silence again for some minutes,",
+          "originalRu": "Снова несколько минут стояло молчание,"
+        },
+        {
+          "id": "sent-174",
+          "text": "y luego Ulrich dio un grito de alegría.",
+          "translationRu": "а потом Ульрих радостно вскрикнул.",
+          "original": "and then Ulrich gave a joyful cry.",
+          "originalRu": "а затем Ульрих издал радостный крик."
+        }
+      ]
+    },
+    {
+      "id": "para-030",
+      "sentences": [
+        {
+          "id": "sent-175",
+          "text": "—Veo figuras que vienen por el bosque.",
+          "translationRu": "— Я вижу фигуры, идущие через лес.",
+          "original": "\"I can see figures coming through the wood.",
+          "originalRu": "— Я вижу фигуры, идущие через лес."
+        },
+        {
+          "id": "sent-176",
+          "text": "Siguen el camino por el que yo bajé la ladera.",
+          "translationRu": "Они идут той дорогой, по которой я спустился со склона.",
+          "original": "They are following in the way I came down the hillside.\"",
+          "originalRu": "Они идут по тому пути, каким я спустился с холма."
+        }
+      ]
+    },
+    {
+      "id": "para-031",
+      "sentences": [
+        {
+          "id": "sent-177",
+          "text": "Los dos hombres gritaron tan fuerte como pudieron.",
+          "translationRu": "Оба человека закричали так громко, как только могли.",
+          "original": "Both men raised their voices in as loud a shout as they could muster.",
+          "originalRu": "Оба человека подняли голоса в таком громком крике, на какой только были способны."
+        }
+      ]
+    },
+    {
+      "id": "para-032",
+      "sentences": [
+        {
+          "id": "sent-178",
+          "text": "—¡Nos oyen!",
+          "translationRu": "— Они нас слышат!",
+          "original": "\"They hear us!",
+          "originalRu": "— Они нас слышат!"
+        },
+        {
+          "id": "sent-179",
+          "text": "¡Se han parado!",
+          "translationRu": "Они остановились!",
+          "original": "They've stopped.",
+          "originalRu": "Они остановились."
+        },
+        {
+          "id": "sent-180",
+          "text": "Ahora nos ven.",
+          "translationRu": "Теперь они нас видят.",
+          "original": "Now they see us.",
+          "originalRu": "Теперь они нас видят."
+        },
+        {
+          "id": "sent-181",
+          "text": "Bajan corriendo la colina hacia nosotros —gritó Ulrich.",
+          "translationRu": "Они бегут вниз с холма к нам, — крикнул Ульрих.",
+          "original": "They're running down the hill towards us,\" cried Ulrich.",
+          "originalRu": "Они бегут вниз с холма к нам, — крикнул Ульрих."
+        }
+      ]
+    },
+    {
+      "id": "para-033",
+      "sentences": [
+        {
+          "id": "sent-182",
+          "text": "—¿Cuántos son?",
+          "translationRu": "— Сколько их?",
+          "original": "\"How many of them are there?\"",
+          "originalRu": "— Сколько их там?"
+        },
+        {
+          "id": "sent-183",
+          "text": "—preguntó Georg.",
+          "translationRu": "— спросил Георг.",
+          "original": "asked Georg.",
+          "originalRu": "— спросил Георг."
+        }
+      ]
+    },
+    {
+      "id": "para-034",
+      "sentences": [
+        {
+          "id": "sent-184",
+          "text": "—No veo bien —dijo Ulrich—;",
+          "translationRu": "— Я плохо вижу, — сказал Ульрих, —",
+          "original": "\"I can't see distinctly,\" said Ulrich;",
+          "originalRu": "— Я не вижу отчётливо, — сказал Ульрих; —"
+        },
+        {
+          "id": "sent-185",
+          "text": "nueve o diez.",
+          "translationRu": "девять или десять.",
+          "original": "\"nine or ten,\"",
+          "originalRu": "девять или десять."
+        }
+      ]
+    },
+    {
+      "id": "para-035",
+      "sentences": [
+        {
+          "id": "sent-186",
+          "text": "—Entonces son los tuyos —dijo Georg—;",
+          "translationRu": "— Тогда это твои, — сказал Георг, —",
+          "original": "\"Then they are yours,\" said Georg;",
+          "originalRu": "— Тогда это твои, — сказал Георг; —"
+        },
+        {
+          "id": "sent-187",
+          "text": "yo solo tenía siete conmigo.",
+          "translationRu": "у меня было со мной только семеро.",
+          "original": "\"I had only seven out with me.\"",
+          "originalRu": "у меня было при себе только семеро."
+        }
+      ]
+    },
+    {
+      "id": "para-036",
+      "sentences": [
+        {
+          "id": "sent-188",
+          "text": "—Vienen todo lo rápido que pueden, buenos muchachos —dijo Ulrich con alegría.",
+          "translationRu": "— Они идут так быстро, как только могут, славные ребята, — радостно сказал Ульрих.",
+          "original": "\"They are making all the speed they can, brave lads,\" said Ulrich gladly.",
+          "originalRu": "— Они спешат изо всех сил, храбрые ребята, — радостно сказал Ульрих."
+        }
+      ]
+    },
+    {
+      "id": "para-037",
+      "sentences": [
+        {
+          "id": "sent-189",
+          "text": "—¿Son tus hombres?",
+          "translationRu": "— Это твои люди?",
+          "original": "\"Are they your men?\"",
+          "originalRu": "— Это твои люди?"
+        },
+        {
+          "id": "sent-190",
+          "text": "—preguntó Georg.",
+          "translationRu": "— спросил Георг.",
+          "original": "asked Georg.",
+          "originalRu": "— спросил Георг."
+        },
+        {
+          "id": "sent-191",
+          "text": "—¿Son tus hombres? —repitió con impaciencia",
+          "translationRu": "— Это твои люди? — повторил он нетерпеливо,",
+          "original": "\"Are they your men?\" he repeated impatiently",
+          "originalRu": "— Это твои люди? — нетерпеливо повторил он,"
+        },
+        {
+          "id": "sent-192",
+          "text": "porque Ulrich no contestaba.",
+          "translationRu": "потому что Ульрих не отвечал.",
+          "original": "as Ulrich did not answer.",
+          "originalRu": "так как Ульрих не отвечал."
+        }
+      ]
+    },
+    {
+      "id": "para-038",
+      "sentences": [
+        {
+          "id": "sent-193",
+          "text": "—No —dijo Ulrich con una risa,",
+          "translationRu": "— Нет, — сказал Ульрих со смехом,",
+          "original": "\"No,\" said Ulrich with a laugh,",
+          "originalRu": "— Нет, — сказал Ульрих со смехом,"
+        },
+        {
+          "id": "sent-194",
+          "text": "la risa tonta y temblorosa de un hombre",
+          "translationRu": "глупым дрожащим смехом человека,",
+          "original": "the idiotic chattering laugh of a man",
+          "originalRu": "тем бессмысленным дребезжащим смехом человека,"
+        },
+        {
+          "id": "sent-195",
+          "text": "roto por un miedo horrible.",
+          "translationRu": "сломленного ужасным страхом.",
+          "original": "unstrung with hideous fear.",
+          "originalRu": "которого сломил чудовищный страх."
+        }
+      ]
+    },
+    {
+      "id": "para-039",
+      "sentences": [
+        {
+          "id": "sent-196",
+          "text": "—¿Quiénes son? —preguntó Georg rápidamente,",
+          "translationRu": "— Кто они? — быстро спросил Георг,",
+          "original": "\"Who are they?\" asked Georg quickly,",
+          "originalRu": "— Кто они? — быстро спросил Георг,"
+        },
+        {
+          "id": "sent-197",
+          "text": "forzando los ojos para ver",
+          "translationRu": "напрягая глаза, чтобы разглядеть",
+          "original": "straining his eyes to see",
+          "originalRu": "напрягая глаза, чтобы разглядеть"
+        },
+        {
+          "id": "sent-198",
+          "text": "lo que el otro no querría ver.",
+          "translationRu": "то, чего другой предпочёл бы не видеть.",
+          "original": "what the other would gladly not have seen.",
+          "originalRu": "то, что другой рад был бы не видеть."
+        }
+      ]
+    },
+    {
+      "id": "para-040",
+      "sentences": [
+        {
+          "id": "sent-199",
+          "text": "—Lobos.",
+          "translationRu": "— Волки.",
+          "original": "\"Wolves.\"",
+          "originalRu": "— Волки."
+        }
+      ]
+    }
+  ]
+}

@@ -13,64 +13,38 @@
       "sentences": [
         {
           "id": "sent-001",
-          "text": "Soapy se movía inquieto",
-          "translationRu": "Сопи беспокойно ёрзал",
+          "text": "En su banco de Madison Square, Soapy se movía inquieto.",
+          "translationRu": "На своей скамейке на Мэдисон-сквер Соупи беспокойно ёрзал.",
           "original": "On his bench in Madison Square Soapy moved uneasily.",
-          "originalRu": "На своей скамье в Мэдисон-сквере Сопи беспокойно заёрзал."
+          "originalRu": "На своей скамейке на Мэдисон-сквер Соупи беспокойно ёрзал."
         },
         {
           "id": "sent-002",
-          "text": "en su banco de Madison Square.",
-          "translationRu": "на своей скамейке в Мэдисон-сквер."
+          "text": "Cuando los gansos salvajes graznan en lo alto por las noches,",
+          "translationRu": "Когда по ночам высоко в небе кричат дикие гуси,",
+          "original": "When wild geese honk high of nights,",
+          "originalRu": "Когда по ночам высоко в небе кричат дикие гуси,"
         },
         {
           "id": "sent-003",
-          "text": "Cuando los gansos salvajes graznan alto en las noches,",
-          "translationRu": "Когда дикие гуси гогочут высоко в ночи,",
-          "original": "When wild geese honk high of nights,",
-          "originalRu": "Когда по ночам высоко в небе гогочут дикие гуси,"
+          "text": "y cuando las mujeres sin abrigos de piel se vuelven amables con sus maridos,",
+          "translationRu": "и когда женщины без котиковых шубок становятся ласковы со своими мужьями,",
+          "original": "and when women without sealskin coats grow kind to their husbands,",
+          "originalRu": "и когда женщины без котиковых шубок становятся ласковы со своими мужьями,"
         },
         {
           "id": "sent-004",
-          "text": "cuando las mujeres sin abrigos de piel",
-          "translationRu": "когда женщины без шуб",
-          "original": "and when women without sealskin coats",
-          "originalRu": "когда женщины, не имеющие котиковых шуб,"
+          "text": "y cuando Soapy se mueve inquieto en su banco del parque,",
+          "translationRu": "и когда Соупи беспокойно ёрзает на своей скамейке в парке,",
+          "original": "and when Soapy moves uneasily on his bench in the park,",
+          "originalRu": "и когда Соупи беспокойно ёрзает на своей скамейке в парке,"
         },
         {
           "id": "sent-005",
-          "text": "se vuelven amables con sus maridos,",
-          "translationRu": "становятся ласковее с мужьями",
-          "original": "grow kind to their husbands,",
-          "originalRu": "делаются ласковы со своими мужьями,"
-        },
-        {
-          "id": "sent-006",
-          "text": "y cuando Soapy se mueve inquieto",
-          "translationRu": "и когда Сопи беспокойно ёрзает",
-          "original": "and when Soapy moves uneasily",
-          "originalRu": "а Сопи беспокойно ёрзает"
-        },
-        {
-          "id": "sent-007",
-          "text": "en su banco del parque,",
-          "translationRu": "на скамейке в парке —",
-          "original": "on his bench in the park,",
-          "originalRu": "на своей скамье в парке,"
-        },
-        {
-          "id": "sent-008",
-          "text": "puedes saber",
-          "translationRu": "знай:",
-          "original": "you may know",
-          "originalRu": "можно с уверенностью знать,"
-        },
-        {
-          "id": "sent-009",
-          "text": "que el invierno está cerca.",
-          "translationRu": "зима близко.",
-          "original": "that winter is near at hand.",
-          "originalRu": "что зима не за горами."
+          "text": "puedes saber que el invierno está cerca.",
+          "translationRu": "можно понять, что зима уже близко.",
+          "original": "you may know that winter is near at hand.",
+          "originalRu": "можно понять, что зима уже близко."
         }
       ]
     },
@@ -78,81 +52,53 @@
       "id": "para-002",
       "sentences": [
         {
+          "id": "sent-006",
+          "text": "Una hoja seca cayó en el regazo de Soapy.",
+          "translationRu": "Сухой лист упал Соупи на колени.",
+          "original": "A dead leaf fell in Soapy's lap.",
+          "originalRu": "Сухой лист упал Соупи на колени."
+        },
+        {
+          "id": "sent-007",
+          "text": "Era la tarjeta de Jack Frost, el Escarcha.",
+          "translationRu": "Это была визитная карточка Джека Мороза.",
+          "original": "That was Jack Frost's card.",
+          "originalRu": "Это была визитная карточка Джека Мороза."
+        },
+        {
+          "id": "sent-008",
+          "text": "Jack es amable con los habitantes habituales de Madison Square,",
+          "translationRu": "Джек добр к постоянным обитателям Мэдисон-сквер",
+          "original": "Jack is kind to the regular denizens of Madison Square,",
+          "originalRu": "Джек добр к постоянным обитателям Мэдисон-сквер"
+        },
+        {
+          "id": "sent-009",
+          "text": "y avisa con tiempo de su visita anual.",
+          "translationRu": "и заранее предупреждает о своём ежегодном визите.",
+          "original": "and gives fair warning of his annual call.",
+          "originalRu": "и честно предупреждает о своём ежегодном визите."
+        },
+        {
           "id": "sent-010",
-          "text": "Una hoja muerta",
-          "translationRu": "Мёртвый лист",
-          "original": "A dead leaf",
-          "originalRu": "Сухой лист"
+          "text": "En las esquinas de cuatro calles entrega su tarjeta al Viento del Norte,",
+          "translationRu": "На углах четырёх улиц он вручает свою карточку Северному Ветру,",
+          "original": "At the corners of four streets he hands his pasteboard to the North Wind,",
+          "originalRu": "На углах четырёх улиц он вручает свою картонную карточку Северному Ветру,"
         },
         {
           "id": "sent-011",
-          "text": "cayó en el regazo de Soapy.",
-          "translationRu": "упал на колени Сопи.",
-          "original": "fell in Soapy's lap.",
-          "originalRu": "упал Сопи на колени."
+          "text": "el lacayo de la mansión de Todo lo que está al Aire Libre,",
+          "translationRu": "лакею особняка под названием «Весь Мир на Воле»,",
+          "original": "footman of the mansion of All Outdoors,",
+          "originalRu": "лакею особняка «Всё под открытым небом»,"
         },
         {
           "id": "sent-012",
-          "text": "Era la tarjeta de visita de Jack Frost.",
-          "translationRu": "Это была визитная карточка Джека Мороза.",
-          "original": "That was Jack Frost's card.",
-          "originalRu": "То была визитная карточка Деда Мороза."
-        },
-        {
-          "id": "sent-013",
-          "text": "Jack es amable",
-          "translationRu": "Джек добр",
-          "original": "Jack is kind",
-          "originalRu": "Дед Мороз добр"
-        },
-        {
-          "id": "sent-014",
-          "text": "con los habitantes habituales de Madison Square",
-          "translationRu": "к постоянным обитателям Мэдисон-сквера",
-          "original": "to the regular denizens of Madison Square,",
-          "originalRu": "к постоянным обитателям Мэдисон-сквера"
-        },
-        {
-          "id": "sent-015",
-          "text": "y siempre les avisa con tiempo",
-          "translationRu": "и всегда заблаговременно предупреждает",
-          "original": "and gives fair warning",
-          "originalRu": "и честно предупреждает"
-        },
-        {
-          "id": "sent-016",
-          "text": "de su visita anual.",
-          "translationRu": "о своём ежегодном визите.",
-          "original": "of his annual call.",
-          "originalRu": "о своём ежегодном визите."
-        },
-        {
-          "id": "sent-017",
-          "text": "En las esquinas de cuatro calles",
-          "translationRu": "На углах четырёх улиц",
-          "original": "At the corners of four streets",
-          "originalRu": "На перекрёстке четырёх улиц"
-        },
-        {
-          "id": "sent-018",
-          "text": "le entrega su tarjeta al Viento del Norte,",
-          "translationRu": "он вручает свою карточку Северному ветру —",
-          "original": "he hands his pasteboard to the North Wind,",
-          "originalRu": "он вручает свою карточку Северному Ветру,"
-        },
-        {
-          "id": "sent-019",
-          "text": "que es como el portero de la gran mansión llamada Todo el Aire Libre,",
-          "translationRu": "словно лакею огромного особняка по имени Открытый Воздух, —",
-          "original": "footman of the mansion of All Outdoors,",
-          "originalRu": "лакею в особняке Под Открытым Небом,"
-        },
-        {
-          "id": "sent-020",
           "text": "para que sus habitantes puedan prepararse.",
-          "translationRu": "чтобы жильцы успели подготовиться.",
+          "translationRu": "чтобы его жильцы могли приготовиться.",
           "original": "so that the inhabitants thereof may make ready.",
-          "originalRu": "чтобы тамошние жильцы успели приготовиться."
+          "originalRu": "чтобы обитатели его могли приготовиться."
         }
       ]
     },
@@ -160,35 +106,32 @@
       "id": "para-003",
       "sentences": [
         {
-          "id": "sent-021",
-          "text": "Soapy comprendió",
-          "translationRu": "Сопи понял,",
-          "original": "Soapy's mind became cognisant of the fact that the time had come for him to resolve himself into a singular Committee of Ways and Means to provide against the coming rigour.",
-          "originalRu": "Сопи осознал, что настала пора учредить из самого себя единоличный Комитет по изысканию средств и путей, дабы оградиться от грядущих холодов."
+          "id": "sent-013",
+          "text": "La mente de Soapy comprendió un hecho:",
+          "translationRu": "Ум Соупи осознал одну вещь:",
+          "original": "Soapy's mind became cognisant of the fact",
+          "originalRu": "Ум Соупи осознал тот факт,"
         },
         {
-          "id": "sent-022",
-          "text": "que había llegado el momento de pensar",
-          "translationRu": "что пришло время подумать,"
+          "id": "sent-014",
+          "text": "había llegado el momento de convertirse él mismo en un pequeño Comité de Medios y Recursos",
+          "translationRu": "настало время превратиться в собственный Комитет путей и средств,",
+          "original": "that the time had come for him to resolve himself into a singular Committee of Ways and Means",
+          "originalRu": "что настал час обратиться в некий особый Комитет путей и средств,"
         },
         {
-          "id": "sent-023",
-          "text": "en cómo protegerse del frío que se acercaba.",
-          "translationRu": "как защититься от надвигающегося холода."
+          "id": "sent-015",
+          "text": "para protegerse del frío que se acercaba.",
+          "translationRu": "чтобы защититься от надвигающихся холодов.",
+          "original": "to provide against the coming rigour.",
+          "originalRu": "чтобы уберечься от грядущей стужи."
         },
         {
-          "id": "sent-024",
-          "text": "Por eso se movía inquieto",
-          "translationRu": "Вот почему он беспокойно ёрзал",
-          "original": "And therefore he moved uneasily",
-          "originalRu": "А потому он и заёрзал беспокойно"
-        },
-        {
-          "id": "sent-025",
-          "text": "en su banco.",
-          "translationRu": "на скамейке.",
-          "original": "on his bench.",
-          "originalRu": "на своей скамье."
+          "id": "sent-016",
+          "text": "Y por eso se movía inquieto en su banco.",
+          "translationRu": "И потому он беспокойно ёрзал на своей скамейке.",
+          "original": "And therefore he moved uneasily on his bench.",
+          "originalRu": "И потому он беспокойно ёрзал на своей скамейке."
         }
       ]
     },
@@ -196,75 +139,53 @@
       "id": "para-004",
       "sentences": [
         {
-          "id": "sent-026",
-          "text": "Las ambiciones de Soapy para el invierno",
-          "translationRu": "Зимние амбиции Сопи",
-          "original": "The hibernatorial ambitions of Soapy",
-          "originalRu": "Зимовальные притязания Сопи"
+          "id": "sent-017",
+          "text": "Las ambiciones invernales de Soapy no eran muy altas.",
+          "translationRu": "Зимние мечты Соупи не были особенно высокими.",
+          "original": "The hibernatorial ambitions of Soapy were not of the highest.",
+          "originalRu": "Мечты Соупи о зимовке не отличались размахом."
         },
         {
-          "id": "sent-027",
-          "text": "no eran muy grandes.",
-          "translationRu": "были весьма скромными.",
-          "original": "were not of the highest.",
-          "originalRu": "были не из самых высоких."
-        },
-        {
-          "id": "sent-028",
-          "text": "No soñaba con cruceros por el Mediterráneo",
-          "translationRu": "Он не мечтал о круизах по Средиземному морю",
+          "id": "sent-018",
+          "text": "En ellas no había cruceros por el Mediterráneo,",
+          "translationRu": "В них не было круизов по Средиземному морю,",
           "original": "In them there were no considerations of Mediterranean cruises,",
-          "originalRu": "В них не было и помину о круизах по Средиземному морю,"
+          "originalRu": "В них не было ни средиземноморских круизов,"
         },
         {
-          "id": "sent-029",
-          "text": "ni con cielos cálidos del sur sobre la bahía de Nápoles.",
-          "translationRu": "или о тёплом южном небе над неаполитанским заливом.",
+          "id": "sent-019",
+          "text": "ni cielos del Sur que adormecen sobre la bahía de Nápoles.",
+          "translationRu": "ни сонных южных небес над Неаполитанским заливом.",
           "original": "of soporific Southern skies drifting in the Vesuvian Bay.",
-          "originalRu": "о дремотных южных небесах, плывущих над Везувианским заливом."
+          "originalRu": "ни усыпляющих южных небес над Везувианским заливом."
         },
         {
-          "id": "sent-030",
-          "text": "Lo que su alma deseaba",
-          "translationRu": "Душа его желала одного:",
+          "id": "sent-020",
+          "text": "Tres meses en la Isla era lo que su alma deseaba.",
+          "translationRu": "Три месяца на Острове — вот чего жаждала его душа.",
           "original": "Three months on the Island was what his soul craved.",
           "originalRu": "Три месяца на Острове — вот чего жаждала его душа."
         },
         {
-          "id": "sent-031",
-          "text": "era pasar tres meses en la Isla.",
-          "translationRu": "провести три месяца на Острове."
-        },
-        {
-          "id": "sent-032",
-          "text": "Tres meses con cama segura,",
-          "translationRu": "Три месяца с гарантированной постелью,",
+          "id": "sent-021",
+          "text": "Tres meses de comida y cama seguras y de compañía agradable,",
+          "translationRu": "Три месяца надёжного стола, крова и приятной компании,",
           "original": "Three months of assured board and bed and congenial company,",
-          "originalRu": "Три месяца верного крова, стола и приятного общества,"
+          "originalRu": "Три месяца обеспеченного стола, постели и приятного общества,"
         },
         {
-          "id": "sent-033",
-          "text": "comida asegurada",
-          "translationRu": "едой"
-        },
-        {
-          "id": "sent-034",
-          "text": "y buena compañía,",
-          "translationRu": "и хорошей компанией,"
-        },
-        {
-          "id": "sent-035",
-          "text": "a salvo del frío y de la policía:",
-          "translationRu": "вдали от мороза и полиции —",
+          "id": "sent-022",
+          "text": "a salvo del viento del Norte y de los policías,",
+          "translationRu": "вдали от северного ветра и от полицейских,",
           "original": "safe from Boreas and bluecoats,",
-          "originalRu": "вдали от Борея и от синих мундиров —"
+          "originalRu": "в безопасности от Борея и от синих мундиров,"
         },
         {
-          "id": "sent-036",
-          "text": "eso era para Soapy lo mejor que podía existir.",
-          "translationRu": "вот что казалось Сопи верхом желанного.",
+          "id": "sent-023",
+          "text": "le parecían a Soapy lo más deseable del mundo.",
+          "translationRu": "казались Соупи самым желанным на свете.",
           "original": "seemed to Soapy the essence of things desirable.",
-          "originalRu": "вот что казалось Сопи воплощением всего желанного."
+          "originalRu": "казались Соупи самой сутью желанного."
         }
       ]
     },
@@ -272,222 +193,151 @@
       "id": "para-005",
       "sentences": [
         {
+          "id": "sent-024",
+          "text": "Durante años, la hospitalaria cárcel de Blackwell había sido su cuartel de invierno.",
+          "translationRu": "Много лет гостеприимный Блэкуэлл служил ему зимней квартирой.",
+          "original": "For years the hospitable Blackwell's had been his winter quarters.",
+          "originalRu": "Много лет гостеприимный Блэкуэлл служил ему зимней квартирой."
+        },
+        {
+          "id": "sent-025",
+          "text": "Así como sus vecinos neoyorquinos más afortunados compraban cada invierno sus billetes a Palm Beach y a la Riviera,",
+          "translationRu": "Как более удачливые его сограждане-нью-йоркцы каждую зиму покупали билеты в Палм-Бич и на Ривьеру,",
+          "original": "Just as his more fortunate fellow New Yorkers had bought their tickets to Palm Beach and the Riviera each winter,",
+          "originalRu": "Подобно тому как более удачливые его сограждане-нью-йоркцы каждую зиму покупали билеты в Палм-Бич и на Ривьеру,"
+        },
+        {
+          "id": "sent-026",
+          "text": "así Soapy hacía sus humildes preparativos para su huida anual a la Isla.",
+          "translationRu": "так и Соупи скромно готовился к своему ежегодному бегству на Остров.",
+          "original": "so Soapy had made his humble arrangements for his annual hegira to the Island.",
+          "originalRu": "так и Соупи делал свои скромные приготовления к ежегодному переселению на Остров."
+        },
+        {
+          "id": "sent-027",
+          "text": "Y ahora había llegado el momento.",
+          "translationRu": "И вот теперь этот момент настал.",
+          "original": "And now the time was come.",
+          "originalRu": "И вот теперь этот момент настал."
+        },
+        {
+          "id": "sent-028",
+          "text": "La noche anterior, tres periódicos del domingo,",
+          "translationRu": "Прошлой ночью три воскресные газеты,",
+          "original": "On the previous night three Sabbath newspapers,",
+          "originalRu": "Прошлой ночью три воскресные газеты,"
+        },
+        {
+          "id": "sent-029",
+          "text": "repartidos bajo su abrigo, alrededor de sus tobillos y sobre su regazo,",
+          "translationRu": "разложенные под пальто, вокруг лодыжек и на коленях,",
+          "original": "distributed beneath his coat, about his ankles and over his lap,",
+          "originalRu": "разложенные под пальто, вокруг лодыжек и на коленях,"
+        },
+        {
+          "id": "sent-030",
+          "text": "no habían logrado detener el frío",
+          "translationRu": "не смогли остановить холод,",
+          "original": "had failed to repulse the cold",
+          "originalRu": "не смогли отразить холод,"
+        },
+        {
+          "id": "sent-031",
+          "text": "mientras dormía en su banco cerca de la fuente que salpicaba en la vieja plaza.",
+          "translationRu": "пока он спал на скамейке возле бьющего фонтана на старой площади.",
+          "original": "as he slept on his bench near the spurting fountain in the ancient square.",
+          "originalRu": "пока он спал на скамейке возле бьющего фонтана на древней площади."
+        },
+        {
+          "id": "sent-032",
+          "text": "Así que la Isla se alzaba grande y oportuna en la mente de Soapy.",
+          "translationRu": "И потому Остров вставал в мыслях Соупи большим и своевременным.",
+          "original": "So the Island loomed big and timely in Soapy's mind.",
+          "originalRu": "И потому Остров вставал в мыслях Соупи большим и своевременным."
+        },
+        {
+          "id": "sent-033",
+          "text": "Despreciaba lo que la caridad ofrecía a los pobres de la ciudad.",
+          "translationRu": "Он презирал то, что благотворительность предлагала городским беднякам.",
+          "original": "He scorned the provisions made in the name of charity for the city's dependents.",
+          "originalRu": "Он презирал всё, что от имени благотворительности делалось для городских нахлебников."
+        },
+        {
+          "id": "sent-034",
+          "text": "En opinión de Soapy, la Ley era más benigna que la Filantropía.",
+          "translationRu": "По мнению Соупи, Закон был милостивее Филантропии.",
+          "original": "In Soapy's opinion the Law was more benign than Philanthropy.",
+          "originalRu": "По мнению Соупи, Закон был милостивее Филантропии."
+        },
+        {
+          "id": "sent-035",
+          "text": "Había un sinfín de instituciones, municipales y benéficas,",
+          "translationRu": "Существовало бесчисленное множество учреждений, городских и благотворительных,",
+          "original": "There was an endless round of institutions, municipal and eleemosynary,",
+          "originalRu": "Существовал бесконечный ряд учреждений, городских и благотворительных,"
+        },
+        {
+          "id": "sent-036",
+          "text": "a las que podía acudir para recibir cama y comida propias de una vida sencilla.",
+          "translationRu": "куда он мог обратиться, чтобы получить кров и еду, подобающие скромной жизни.",
+          "original": "on which he might set out and receive lodging and food accordant with the simple life.",
+          "originalRu": "куда он мог отправиться и получить ночлег и пищу, соответствующие простой жизни."
+        },
+        {
           "id": "sent-037",
-          "text": "Durante años,",
-          "translationRu": "Годами",
-          "original": "For years",
-          "originalRu": "Уже не первый год"
+          "text": "Pero para un espíritu tan orgulloso como el de Soapy, los regalos de la caridad son una carga.",
+          "translationRu": "Но для такой гордой души, как у Соупи, дары благотворительности — тяжкое бремя.",
+          "original": "But to one of Soapy's proud spirit the gifts of charity are encumbered.",
+          "originalRu": "Но для гордого духа, каким был дух Соупи, дары благотворительности обременены."
         },
         {
           "id": "sent-038",
-          "text": "la hospitalaria cárcel de Blackwell's",
-          "translationRu": "гостеприимная тюрьма Блэквелла",
-          "original": "the hospitable Blackwell's",
-          "originalRu": "гостеприимный Блэкуэлл"
+          "text": "Si no pagas con dinero, debes pagar con humillación del alma",
+          "translationRu": "Если не платишь деньгами, то платишь унижением души",
+          "original": "If not in coin you must pay in humiliation of spirit",
+          "originalRu": "Если не монетой, то платить приходится унижением духа"
         },
         {
           "id": "sent-039",
-          "text": "había sido su refugio de invierno.",
-          "translationRu": "служила ему зимним убежищем.",
-          "original": "had been his winter quarters.",
-          "originalRu": "служил ему зимней квартирой."
+          "text": "por cada beneficio recibido de manos de la filantropía.",
+          "translationRu": "за каждое благо, полученное из рук филантропии.",
+          "original": "for every benefit received at the hands of philanthropy.",
+          "originalRu": "за каждое благодеяние, полученное из рук филантропии."
         },
         {
           "id": "sent-040",
-          "text": "Igual que sus vecinos más afortunados",
-          "translationRu": "Так же как его более удачливые соседи-нью-йоркцы",
-          "original": "Just as his more fortunate fellow New Yorkers",
-          "originalRu": "И как более удачливые его собратья-нью-йоркцы"
+          "text": "Como César tuvo a su Bruto,",
+          "translationRu": "Как у Цезаря был свой Брут,",
+          "original": "As Caesar had his Brutus,",
+          "originalRu": "Как у Цезаря был свой Брут,"
         },
         {
           "id": "sent-041",
-          "text": "compraban cada invierno sus billetes a Palm Beach o a la Riviera,",
-          "translationRu": "покупали каждую зиму билеты на Палм-Бич или Ривьеру,",
-          "original": "had bought their tickets to Palm Beach and the Riviera each winter,",
-          "originalRu": "всякую зиму покупали билеты в Палм-Бич и на Ривьеру,"
+          "text": "cada cama de la caridad exige el peaje de un baño,",
+          "translationRu": "так каждая койка благотворительности требует платы в виде бани,",
+          "original": "every bed of charity must have its toll of a bath,",
+          "originalRu": "так каждая койка благотворительности берёт пошлину в виде ванны,"
         },
         {
           "id": "sent-042",
-          "text": "Soapy hacía sus modestos preparativos",
-          "translationRu": "Сопи скромно готовился",
-          "original": "so Soapy had made his humble arrangements",
-          "originalRu": "так и Сопи без затей готовился"
+          "text": "y cada pan, la compensación de un interrogatorio privado y personal.",
+          "translationRu": "а каждый ломоть хлеба — расплаты в виде личного, назойливого допроса.",
+          "original": "every loaf of bread its compensation of a private and personal inquisition.",
+          "originalRu": "а каждый ломоть хлеба — возмещения в виде частного и личного дознания."
         },
         {
           "id": "sent-043",
-          "text": "para su viaje anual a la Isla.",
-          "translationRu": "к своему ежегодному путешествию на Остров.",
-          "original": "for his annual hegira to the Island.",
-          "originalRu": "к своему ежегодному переселению на Остров."
+          "text": "Por eso es mejor ser huésped de la ley,",
+          "translationRu": "Вот почему лучше быть гостем закона,",
+          "original": "Wherefore it is better to be a guest of the law,",
+          "originalRu": "А потому лучше быть гостем закона,"
         },
         {
           "id": "sent-044",
-          "text": "Y ahora había llegado el momento.",
-          "translationRu": "И вот этот момент настал.",
-          "original": "And now the time was come.",
-          "originalRu": "И вот этот час настал."
-        },
-        {
-          "id": "sent-045",
-          "text": "La noche anterior,",
-          "translationRu": "Прошлой ночью",
-          "original": "On the previous night",
-          "originalRu": "Минувшей ночью"
-        },
-        {
-          "id": "sent-046",
-          "text": "tres periódicos dominicales",
-          "translationRu": "три воскресные газеты,",
-          "original": "three Sabbath newspapers,",
-          "originalRu": "три воскресные газеты,"
-        },
-        {
-          "id": "sent-047",
-          "text": "repartidos bajo su abrigo, alrededor de sus tobillos y sobre su regazo",
-          "translationRu": "рассованные под пальто, вокруг лодыжек и по коленям,",
-          "original": "distributed beneath his coat, about his ankles and over his lap,",
-          "originalRu": "подоткнутые под пальто, обёрнутые вокруг лодыжек и разложенные на коленях,"
-        },
-        {
-          "id": "sent-048",
-          "text": "no habían podido protegerle del frío",
-          "translationRu": "не спасли его от холода,",
-          "original": "had failed to repulse the cold",
-          "originalRu": "не сумели отбить холод,"
-        },
-        {
-          "id": "sent-049",
-          "text": "mientras dormía en su banco",
-          "translationRu": "пока он спал на скамейке",
-          "original": "as he slept on his bench",
-          "originalRu": "пока он спал на своей скамье"
-        },
-        {
-          "id": "sent-050",
-          "text": "cerca de la fuente del viejo parque.",
-          "translationRu": "у фонтана в старом сквере.",
-          "original": "near the spurting fountain in the ancient square.",
-          "originalRu": "подле бьющего фонтана в старинном сквере."
-        },
-        {
-          "id": "sent-051",
-          "text": "Así que la Isla se veía grande y necesaria en la mente de Soapy.",
-          "translationRu": "Так что Остров вырастал в мыслях Сопи большим и совершенно необходимым.",
-          "original": "So the Island loomed big and timely in Soapy's mind.",
-          "originalRu": "И оттого Остров вырисовывался в воображении Сопи большим и как нельзя более кстати."
-        },
-        {
-          "id": "sent-052",
-          "text": "Soapy despreciaba la caridad",
-          "translationRu": "Сопи презирал благотворительность,",
-          "original": "He scorned the provisions made in the name of charity",
-          "originalRu": "Он презирал то, что во имя благотворительности устраивалось"
-        },
-        {
-          "id": "sent-053",
-          "text": "que la ciudad ofrecía a sus pobres.",
-          "translationRu": "которую город предлагал своим беднякам.",
-          "original": "for the city's dependents.",
-          "originalRu": "для городских иждивенцев."
-        },
-        {
-          "id": "sent-054",
-          "text": "En su opinión,",
-          "translationRu": "По его мнению,",
-          "original": "In Soapy's opinion",
-          "originalRu": "По мнению Сопи,"
-        },
-        {
-          "id": "sent-055",
-          "text": "la Ley era más generosa que la Filantropía.",
-          "translationRu": "Закон был добрее Филантропии.",
-          "original": "the Law was more benign than Philanthropy.",
-          "originalRu": "Закон был милосерднее Филантропии."
-        },
-        {
-          "id": "sent-056",
-          "text": "Había muchos lugares,",
-          "translationRu": "Существовало множество учреждений —",
-          "original": "There was an endless round of institutions,",
-          "originalRu": "Существовала бесконечная вереница заведений,"
-        },
-        {
-          "id": "sent-057",
-          "text": "tanto municipales como benéficos,",
-          "translationRu": "муниципальных и благотворительных, —",
-          "original": "municipal and eleemosynary,",
-          "originalRu": "муниципальных и благотворительных,"
-        },
-        {
-          "id": "sent-058",
-          "text": "donde podía recibir alojamiento y comida.",
-          "translationRu": "где можно было получить ночлег и еду.",
-          "original": "on which he might set out and receive lodging and food accordant with the simple life.",
-          "originalRu": "куда он мог бы податься и получить кров и стол, приличествующие непритязательной жизни."
-        },
-        {
-          "id": "sent-059",
-          "text": "Pero para un espíritu orgulloso como el de Soapy,",
-          "translationRu": "Но для гордой натуры, подобной Сопи,",
-          "original": "But to one of Soapy's proud spirit",
-          "originalRu": "Но для гордой души, какова была у Сопи,"
-        },
-        {
-          "id": "sent-060",
-          "text": "los regalos de la caridad siempre tienen un precio.",
-          "translationRu": "дары благотворительности всегда имеют цену.",
-          "original": "the gifts of charity are encumbered.",
-          "originalRu": "дары благотворительности обременительны."
-        },
-        {
-          "id": "sent-061",
-          "text": "Si no pagas con dinero,",
-          "translationRu": "Если не платишь деньгами,",
-          "original": "If not in coin you must pay in humiliation of spirit for every benefit received at the hands of philanthropy.",
-          "originalRu": "Если не монетой, то унижением духа приходится платить за всякое благодеяние, полученное из рук филантропии."
-        },
-        {
-          "id": "sent-062",
-          "text": "pagas con humillación:",
-          "translationRu": "платишь унижением:",
-          "original": "As Caesar had his Brutus, every bed of charity must have its toll of a bath, every loaf of bread its compensation of a private and personal inquisition.",
-          "originalRu": "Как у Цезаря был свой Брут, так и всякая благотворительная койка взимает дань в виде ванны, а всякий ломоть хлеба — в виде частного, личного допроса."
-        },
-        {
-          "id": "sent-063",
-          "text": "te hacen bañarte,",
-          "translationRu": "тебя заставляют мыться,"
-        },
-        {
-          "id": "sent-064",
-          "text": "te hacen preguntas personales,",
-          "translationRu": "задают личные вопросы,"
-        },
-        {
-          "id": "sent-065",
-          "text": "miran dentro de tu vida.",
-          "translationRu": "копаются в твоей жизни."
-        },
-        {
-          "id": "sent-066",
-          "text": "Por eso es mejor ser huésped de la Ley:",
-          "translationRu": "Поэтому лучше быть гостем Закона:",
-          "original": "Wherefore it is better to be a guest of the law,",
-          "originalRu": "А посему лучше быть гостем закона,"
-        },
-        {
-          "id": "sent-067",
-          "text": "aunque tiene sus reglas,",
-          "translationRu": "при всех своих правилах,",
-          "original": "which though conducted by rules,",
-          "originalRu": "который хоть и действует по правилам,"
-        },
-        {
-          "id": "sent-068",
-          "text": "no se mete demasiado en los asuntos privados de un caballero.",
-          "translationRu": "он не лезет слишком глубоко в частные дела джентльмена.",
-          "original": "does not meddle unduly with a gentleman's private affairs.",
-          "originalRu": "но не вмешивается без нужды в частные дела джентльмена."
+          "text": "que, aunque se rige por reglas, no se mete demasiado en los asuntos privados de un caballero.",
+          "translationRu": "который, хоть и живёт по правилам, не суётся слишком в частные дела джентльмена.",
+          "original": "which though conducted by rules, does not meddle unduly with a gentleman's private affairs.",
+          "originalRu": "который, хоть и следует правилам, не вмешивается чрезмерно в частные дела джентльмена."
         }
       ]
     },
@@ -495,60 +345,53 @@
       "id": "para-006",
       "sentences": [
         {
-          "id": "sent-069",
-          "text": "Soapy, una vez decidido a ir a la Isla,",
-          "translationRu": "Сопи, решив добраться до Острова,",
+          "id": "sent-045",
+          "text": "Soapy, decidido a ir a la Isla,",
+          "translationRu": "Соупи, решив отправиться на Остров,",
           "original": "Soapy, having decided to go to the Island,",
-          "originalRu": "Решив отправиться на Остров,"
+          "originalRu": "Соупи, решив отправиться на Остров,"
         },
         {
-          "id": "sent-070",
-          "text": "empezó a pensar en cómo conseguirlo.",
-          "translationRu": "принялся думать, как этого достичь.",
+          "id": "sent-046",
+          "text": "se puso enseguida a cumplir su deseo.",
+          "translationRu": "тотчас взялся за исполнение своего желания.",
           "original": "at once set about accomplishing his desire.",
-          "originalRu": "Сопи тотчас принялся осуществлять задуманное."
+          "originalRu": "тотчас принялся за осуществление своего желания."
         },
         {
-          "id": "sent-071",
-          "text": "Había muchas maneras fáciles de hacerlo.",
-          "translationRu": "Способов было немало.",
+          "id": "sent-047",
+          "text": "Había muchas maneras fáciles de conseguirlo.",
+          "translationRu": "Способов добиться этого было много и все лёгкие.",
           "original": "There were many easy ways of doing this.",
-          "originalRu": "Сделать это можно было множеством нехитрых способов."
+          "originalRu": "Существовало много лёгких способов сделать это."
         },
         {
-          "id": "sent-072",
-          "text": "La más agradable era",
-          "translationRu": "Самый приятный —",
-          "original": "The pleasantest was",
-          "originalRu": "Самый приятный состоял в том,"
+          "id": "sent-048",
+          "text": "La más agradable era cenar con lujo en algún restaurante caro;",
+          "translationRu": "Самый приятный — роскошно поужинать в каком-нибудь дорогом ресторане,",
+          "original": "The pleasantest was to dine luxuriously at some expensive restaurant;",
+          "originalRu": "Самый приятный — роскошно поужинать в каком-нибудь дорогом ресторане,"
         },
         {
-          "id": "sent-073",
-          "text": "cenar bien en un restaurante caro",
-          "translationRu": "хорошо поужинать в дорогом ресторане,",
-          "original": "to dine luxuriously at some expensive restaurant;",
-          "originalRu": "чтобы роскошно отобедать в каком-нибудь дорогом ресторане;"
-        },
-        {
-          "id": "sent-074",
-          "text": "y luego, al decir que no tenía dinero,",
-          "translationRu": "а затем, объявив, что денег нет,",
+          "id": "sent-049",
+          "text": "y luego, tras declararse insolvente,",
+          "translationRu": "а затем, объявив себя несостоятельным,",
           "original": "and then, after declaring insolvency,",
-          "originalRu": "а затем, объявив о своей несостоятельности,"
+          "originalRu": "а затем, объявив себя неплатёжеспособным,"
         },
         {
-          "id": "sent-075",
-          "text": "ser entregado tranquilamente a un policía.",
-          "translationRu": "быть тихо передан в руки полиции.",
+          "id": "sent-050",
+          "text": "ser entregado en silencio y sin escándalo a un policía.",
+          "translationRu": "быть тихо и без шума передан в руки полицейского.",
           "original": "be handed over quietly and without uproar to a policeman.",
-          "originalRu": "быть тихо и без шума переданным в руки полисмена."
+          "originalRu": "быть тихо и без шума передан полицейскому."
         },
         {
-          "id": "sent-076",
-          "text": "Un magistrado comprensivo haría el resto.",
-          "translationRu": "Понятливый судья сделал бы остальное.",
+          "id": "sent-051",
+          "text": "Un juez complaciente haría el resto.",
+          "translationRu": "Сговорчивый судья довершил бы остальное.",
           "original": "An accommodating magistrate would do the rest.",
-          "originalRu": "Сговорчивый судья довершит остальное."
+          "originalRu": "Услужливый судья довершил бы остальное."
         }
       ]
     },
@@ -556,53 +399,39 @@
       "id": "para-007",
       "sentences": [
         {
-          "id": "sent-077",
-          "text": "Soapy se levantó de su banco",
-          "translationRu": "Сопи встал со скамейки",
+          "id": "sent-052",
+          "text": "Soapy dejó su banco y salió de la plaza,",
+          "translationRu": "Соупи покинул скамейку и вышел с площади,",
           "original": "Soapy left his bench and strolled out of the square",
-          "originalRu": "Сопи поднялся со скамьи, вышел из сквера"
+          "originalRu": "Соупи покинул скамейку и не спеша вышел с площади,"
         },
         {
-          "id": "sent-078",
-          "text": "y caminó por el asfalto",
-          "translationRu": "и прошёл по асфальту",
-          "original": "and across the level sea of asphalt,",
-          "originalRu": "и зашагал через ровное асфальтовое море"
+          "id": "sent-053",
+          "text": "cruzando el liso mar de asfalto donde Broadway y la Quinta Avenida se juntan.",
+          "translationRu": "перейдя гладкое асфальтовое море, где сливаются Бродвей и Пятая авеню.",
+          "original": "and across the level sea of asphalt, where Broadway and Fifth Avenue flow together.",
+          "originalRu": "через ровное асфальтовое море, где сливаются Бродвей и Пятая авеню."
         },
         {
-          "id": "sent-079",
-          "text": "hasta donde Broadway y la Quinta Avenida se juntan.",
-          "translationRu": "туда, где Бродвей сходится с Пятой авеню.",
-          "original": "where Broadway and Fifth Avenue flow together.",
-          "originalRu": "там, где сливаются Бродвей и Пятая авеню."
-        },
-        {
-          "id": "sent-080",
+          "id": "sent-054",
           "text": "Subió por Broadway",
-          "translationRu": "Он прошёл по Бродвею",
+          "translationRu": "Он свернул вверх по Бродвею",
           "original": "Up Broadway he turned,",
           "originalRu": "Он повернул вверх по Бродвею"
         },
         {
-          "id": "sent-081",
-          "text": "y se detuvo ante un café brillante,",
-          "translationRu": "и остановился перед сверкающим кафе,",
+          "id": "sent-055",
+          "text": "y se detuvo ante un café reluciente,",
+          "translationRu": "и остановился у сверкающего кафе,",
           "original": "and halted at a glittering café,",
           "originalRu": "и остановился у сверкающего кафе,"
         },
         {
-          "id": "sent-082",
-          "text": "donde cada noche se reunían",
-          "translationRu": "где каждый вечер собирался",
-          "original": "where are gathered together nightly",
-          "originalRu": "где еженощно собирается"
-        },
-        {
-          "id": "sent-083",
-          "text": "los mejores productos de la vid, del gusano de seda y de la buena cocina.",
-          "translationRu": "лучший продукт виноградной лозы, шелкопряда и изысканной кухни.",
-          "original": "the choicest products of the grape, the silkworm and the protoplasm.",
-          "originalRu": "всё отборнейшее, что дают виноградная лоза, шелковичный червь и протоплазма."
+          "id": "sent-056",
+          "text": "donde cada noche se reúnen los mejores frutos de la uva, del gusano de seda y del protoplasma.",
+          "translationRu": "где каждый вечер собираются лучшие плоды виноградной лозы, шелковичного червя и протоплазмы.",
+          "original": "where are gathered together nightly the choicest products of the grape, the silkworm and the protoplasm.",
+          "originalRu": "где каждую ночь собираются отборнейшие плоды виноградной лозы, шелковичного червя и протоплазмы."
         }
       ]
     },
@@ -610,149 +439,81 @@
       "id": "para-008",
       "sentences": [
         {
-          "id": "sent-084",
-          "text": "Soapy tenía confianza en su aspecto,",
-          "translationRu": "Сопи был уверен в своём внешнем виде —",
-          "original": "Soapy had confidence in himself",
-          "originalRu": "Сопи был уверен в себе"
+          "id": "sent-057",
+          "text": "Soapy tenía confianza en sí mismo desde el botón más bajo del chaleco hacia arriba.",
+          "translationRu": "Соупи был уверен в себе, начиная с нижней пуговицы жилета и выше.",
+          "original": "Soapy had confidence in himself from the lowest button of his vest upward.",
+          "originalRu": "Соупи был уверен в себе, начиная с нижней пуговицы жилета и выше."
         },
         {
-          "id": "sent-085",
-          "text": "al menos desde el botón más bajo del chaleco hacia arriba.",
-          "translationRu": "по крайней мере, от нижней пуговицы жилета и выше.",
-          "original": "from the lowest button of his vest upward.",
-          "originalRu": "от нижней пуговицы жилета и выше."
+          "id": "sent-058",
+          "text": "Iba afeitado, su chaqueta era decente",
+          "translationRu": "Он был выбрит, его пиджак был приличным,",
+          "original": "He was shaven, and his coat was decent",
+          "originalRu": "Он был выбрит, пиджак его был приличным,"
         },
         {
-          "id": "sent-086",
-          "text": "Estaba afeitado,",
-          "translationRu": "Он был выбрит,",
-          "original": "He was shaven,",
-          "originalRu": "Он был выбрит,"
-        },
-        {
-          "id": "sent-087",
-          "text": "su abrigo era decente",
-          "translationRu": "пальто выглядело прилично,",
-          "original": "and his coat was decent",
-          "originalRu": "пиджак на нём был приличный,"
-        },
-        {
-          "id": "sent-088",
-          "text": "y su corbata negra ya hecha,",
-          "translationRu": "а аккуратный чёрный галстук-самовяз",
+          "id": "sent-059",
+          "text": "y su pulcra corbata negra ya anudada",
+          "translationRu": "а его аккуратный чёрный, уже завязанный галстук",
           "original": "and his neat black, ready-tied four-in-hand",
-          "originalRu": "а опрятный чёрный галстук, повязанный заранее,"
+          "originalRu": "а его опрятный чёрный, заранее завязанный галстук"
         },
         {
-          "id": "sent-089",
-          "text": "que le había regalado una misionera el Día de Acción de Gracias.",
-          "translationRu": "ему подарила миссионерка в День благодарения.",
+          "id": "sent-060",
+          "text": "se la había regalado una señora misionera el Día de Acción de Gracias.",
+          "translationRu": "подарила ему одна дама-миссионерка в День благодарения.",
           "original": "had been presented to him by a lady missionary on Thanksgiving Day.",
-          "originalRu": "был подарен ему некой дамой-миссионеркой в День благодарения."
+          "originalRu": "подарила ему одна дама-миссионерка в День благодарения."
         },
         {
-          "id": "sent-090",
-          "text": "Si podía llegar a una mesa del restaurante sin despertar sospechas,",
-          "translationRu": "Если бы он добрался до столика в ресторане, не вызвав подозрений,",
-          "original": "If he could reach a table in the restaurant unsuspected",
-          "originalRu": "Если бы ему удалось добраться до столика в ресторане, не вызвав подозрений,"
+          "id": "sent-061",
+          "text": "Si lograba llegar a una mesa del restaurante sin despertar sospechas, el éxito sería suyo.",
+          "translationRu": "Если бы ему удалось добраться до столика в ресторане незамеченным, успех был бы обеспечен.",
+          "original": "If he could reach a table in the restaurant unsuspected success would be his.",
+          "originalRu": "Если бы он мог добраться до столика в ресторане незаподозренным, успех был бы за ним."
         },
         {
-          "id": "sent-091",
-          "text": "el éxito sería suyo.",
-          "translationRu": "успех был бы у него в кармане.",
-          "original": "success would be his.",
-          "originalRu": "успех был бы обеспечен."
+          "id": "sent-062",
+          "text": "La parte de él que quedaría por encima de la mesa no despertaría ninguna duda en el camarero.",
+          "translationRu": "Та часть его, что виднелась бы над столом, не вызвала бы у официанта никаких сомнений.",
+          "original": "The portion of him that would show above the table would raise no doubt in the waiter's mind.",
+          "originalRu": "Та часть его, что была бы видна над столом, не вызвала бы у официанта никаких сомнений."
         },
         {
-          "id": "sent-092",
-          "text": "La parte de él que quedaría visible encima de la mesa",
-          "translationRu": "Та часть, которая была бы видна над столом,",
-          "original": "The portion of him that would show above the table",
-          "originalRu": "Та часть его особы, что виднелась бы над столом,"
+          "id": "sent-063",
+          "text": "Un pato asado, pensó Soapy, sería lo adecuado,",
+          "translationRu": "Жареная утка, подумал Соупи, была бы в самый раз —",
+          "original": "A roasted mallard duck, thought Soapy, would be about the thing—",
+          "originalRu": "Жареная дикая утка, подумал Соупи, была бы в самый раз —"
         },
         {
-          "id": "sent-093",
-          "text": "no levantaría ninguna duda en la mente del camarero.",
-          "translationRu": "не вызвала бы у официанта никаких сомнений.",
-          "original": "would raise no doubt in the waiter's mind.",
-          "originalRu": "не заронила бы и тени сомнения в душу официанта."
+          "id": "sent-064",
+          "text": "con una botella de Chablis, y luego Camembert, un café solo y un puro.",
+          "translationRu": "с бутылкой шабли, потом камамбер, чашечка кофе и сигара.",
+          "original": "with a bottle of Chablis, and then Camembert, a demi-tasse and a cigar.",
+          "originalRu": "с бутылкой шабли, потом камамбер, чашечка кофе и сигара."
         },
         {
-          "id": "sent-094",
-          "text": "Un pato asado sería lo ideal,",
-          "translationRu": "Жареная утка — вот что было бы в самый раз,",
-          "original": "A roasted mallard duck, thought Soapy,",
-          "originalRu": "Жареная дикая утка, подумал Сопи,"
-        },
-        {
-          "id": "sent-095",
-          "text": "pensó Soapy:",
-          "translationRu": "подумал Сопи:"
-        },
-        {
-          "id": "sent-096",
-          "text": "con una botella de Chablis,",
-          "translationRu": "с бутылкой Шабли,",
-          "original": "would be about the thing—with a bottle of Chablis,",
-          "originalRu": "будет в самый раз — да бутылочка шабли,"
-        },
-        {
-          "id": "sent-097",
-          "text": "luego Camembert,",
-          "translationRu": "потом камамбер,",
-          "original": "and then Camembert,",
-          "originalRu": "потом камамбер,"
-        },
-        {
-          "id": "sent-098",
-          "text": "un café solo",
-          "translationRu": "маленькая чашечка кофе",
-          "original": "a demi-tasse",
-          "originalRu": "чашечка кофе"
-        },
-        {
-          "id": "sent-099",
-          "text": "y un puro.",
-          "translationRu": "и сигара.",
-          "original": "and a cigar.",
-          "originalRu": "и сигара."
-        },
-        {
-          "id": "sent-100",
+          "id": "sent-065",
           "text": "Un dólar por el puro sería suficiente.",
-          "translationRu": "Доллара за сигару хватит.",
+          "translationRu": "Доллара за сигару было бы достаточно.",
           "original": "One dollar for the cigar would be enough.",
-          "originalRu": "Доллара на сигару хватит вполне."
+          "originalRu": "Доллара за сигару было бы достаточно."
         },
         {
-          "id": "sent-101",
-          "text": "El total no sería tan alto",
-          "translationRu": "Итого выйдет не настолько много,",
-          "original": "The total would not be so high",
-          "originalRu": "Всё вместе обойдётся не настолько дорого,"
+          "id": "sent-066",
+          "text": "El total no sería tan alto como para provocar una gran venganza por parte de la dirección del café;",
+          "translationRu": "Общий счёт не был бы настолько велик, чтобы вызвать особую месть со стороны хозяев кафе,",
+          "original": "The total would not be so high as to call forth any supreme manifestation of revenge from the café management;",
+          "originalRu": "Общая сумма не была бы столь велика, чтобы вызвать какое-либо крайнее проявление мести со стороны дирекции кафе,"
         },
         {
-          "id": "sent-102",
-          "text": "como para provocar una reacción exagerada de los dueños del café,",
-          "translationRu": "чтобы вызвать особое возмущение владельцев кафе,",
-          "original": "as to call forth any supreme manifestation of revenge from the café management;",
-          "originalRu": "чтобы навлечь со стороны управляющего кафе какое-либо чрезмерное мщение;"
-        },
-        {
-          "id": "sent-103",
-          "text": "pero la comida lo dejaría lleno y contento",
-          "translationRu": "зато еда оставит его сытым и довольным",
-          "original": "and yet the meat would leave him filled and happy",
-          "originalRu": "и всё же еда оставит его сытым и довольным"
-        },
-        {
-          "id": "sent-104",
-          "text": "para el viaje a su refugio de invierno.",
-          "translationRu": "для путешествия в зимнее убежище.",
-          "original": "for the journey to his winter refuge.",
-          "originalRu": "для путешествия в зимнее убежище."
+          "id": "sent-067",
+          "text": "y aun así la comida lo dejaría lleno y feliz para el viaje a su refugio de invierno.",
+          "translationRu": "и всё же еда оставила бы его сытым и счастливым для путешествия в зимнее убежище.",
+          "original": "and yet the meat would leave him filled and happy for the journey to his winter refuge.",
+          "originalRu": "и всё же еда оставила бы его сытым и счастливым для путешествия в зимнее убежище."
         }
       ]
     },
@@ -760,46 +521,39 @@
       "id": "para-009",
       "sentences": [
         {
-          "id": "sent-105",
-          "text": "Pero cuando Soapy puso el pie dentro de la puerta del restaurante,",
-          "translationRu": "Но едва Сопи переступил порог ресторана,",
+          "id": "sent-068",
+          "text": "Pero, en cuanto Soapy puso un pie en la puerta del restaurante,",
+          "translationRu": "Но едва Соупи переступил порог ресторана,",
           "original": "But as Soapy set foot inside the restaurant door",
-          "originalRu": "Но едва Сопи переступил порог ресторана,"
+          "originalRu": "Но едва Соупи переступил порог ресторана,"
         },
         {
-          "id": "sent-106",
-          "text": "el ojo del jefe de sala cayó",
-          "translationRu": "взгляд метрдотеля упал",
-          "original": "the head waiter's eye fell",
-          "originalRu": "взгляд старшего официанта упал"
+          "id": "sent-069",
+          "text": "el ojo del jefe de camareros cayó sobre sus pantalones raídos y sus zapatos gastados.",
+          "translationRu": "взгляд метрдотеля упал на его потёртые брюки и стоптанные ботинки.",
+          "original": "the head waiter's eye fell upon his frayed trousers and decadent shoes.",
+          "originalRu": "взгляд старшего официанта упал на его потёртые брюки и разбитые ботинки."
         },
         {
-          "id": "sent-107",
-          "text": "sobre sus pantalones gastados y sus zapatos en mal estado.",
-          "translationRu": "на его потрёпанные брюки и разбитые ботинки.",
-          "original": "upon his frayed trousers and decadent shoes.",
-          "originalRu": "на его потёртые брюки и прохудившиеся башмаки."
+          "id": "sent-070",
+          "text": "Unas manos fuertes y prontas lo dieron la vuelta",
+          "translationRu": "Сильные и проворные руки развернули его",
+          "original": "Strong and ready hands turned him about",
+          "originalRu": "Сильные и проворные руки повернули его"
         },
         {
-          "id": "sent-108",
-          "text": "Unas manos fuertes y rápidas",
-          "translationRu": "Сильные и проворные руки",
-          "original": "Strong and ready hands",
-          "originalRu": "Сильные и проворные руки"
+          "id": "sent-071",
+          "text": "y lo llevaron en silencio y a toda prisa hasta la acera,",
+          "translationRu": "и молча, торопливо вывели на тротуар,",
+          "original": "and conveyed him in silence and haste to the sidewalk",
+          "originalRu": "и в молчании и спешке препроводили его на тротуар,"
         },
         {
-          "id": "sent-109",
-          "text": "lo giraron",
-          "translationRu": "развернули его",
-          "original": "turned him about",
-          "originalRu": "повернули его кругом"
-        },
-        {
-          "id": "sent-110",
-          "text": "y lo sacaron en silencio y con rapidez a la acera.",
-          "translationRu": "и молча, без промедления, вывели на тротуар.",
-          "original": "and conveyed him in silence and haste to the sidewalk and averted the ignoble fate of the menaced mallard.",
-          "originalRu": "и молча, без промедления выпроводили на тротуар, отвратив бесславную участь, грозившую дикой утке."
+          "id": "sent-072",
+          "text": "librando así al amenazado pato de su innoble destino.",
+          "translationRu": "избавив тем самым обречённую утку от её недостойной участи.",
+          "original": "and averted the ignoble fate of the menaced mallard.",
+          "originalRu": "и отвратив недостойную судьбу от находившейся под угрозой утки."
         }
       ]
     },
@@ -807,32 +561,25 @@
       "id": "para-010",
       "sentences": [
         {
-          "id": "sent-111",
-          "text": "Soapy se alejó de Broadway.",
-          "translationRu": "Сопи отошёл от Бродвея.",
+          "id": "sent-073",
+          "text": "Soapy dejó Broadway.",
+          "translationRu": "Соупи свернул с Бродвея.",
           "original": "Soapy turned off Broadway.",
-          "originalRu": "Сопи свернул с Бродвея."
+          "originalRu": "Соупи свернул с Бродвея."
         },
         {
-          "id": "sent-112",
-          "text": "Parecía que su camino a la deseada Isla",
-          "translationRu": "Похоже, путь к желанному Острову",
-          "original": "It seemed that his route to the coveted island",
-          "originalRu": "Видно, путь его к вожделенному острову"
+          "id": "sent-074",
+          "text": "Parecía que su camino hacia la codiciada isla no iba a ser el de un buen comedor.",
+          "translationRu": "Похоже, дорога к желанному острову не собиралась пролегать через изысканный обед.",
+          "original": "It seemed that his route to the coveted island was not to be an epicurean one.",
+          "originalRu": "Похоже, путь его к желанному острову не будет путём гурмана."
         },
         {
-          "id": "sent-113",
-          "text": "no iba a ser por la vía gastronómica.",
-          "translationRu": "через ресторанный стол был для него закрыт.",
-          "original": "was not to be an epicurean one.",
-          "originalRu": "не был усыпан гастрономическими наслаждениями."
-        },
-        {
-          "id": "sent-114",
-          "text": "Había que pensar en otra forma de entrar.",
-          "translationRu": "Нужно было придумать другой способ попасть туда.",
+          "id": "sent-075",
+          "text": "Había que pensar en otra manera de entrar en aquel purgatorio.",
+          "translationRu": "Нужно было придумать другой способ попасть в это чистилище.",
           "original": "Some other way of entering limbo must be thought of.",
-          "originalRu": "Надо было измыслить иной способ попасть в чистилище."
+          "originalRu": "Нужно было измыслить какой-нибудь иной способ попасть в это узилище."
         }
       ]
     },
@@ -840,74 +587,60 @@
       "id": "para-011",
       "sentences": [
         {
-          "id": "sent-115",
+          "id": "sent-076",
           "text": "En una esquina de la Sexta Avenida,",
           "translationRu": "На углу Шестой авеню",
-          "original": "At a corner of Sixth Avenue",
-          "originalRu": "На углу Шестой авеню"
+          "original": "At a corner of Sixth Avenue electric lights",
+          "originalRu": "На углу Шестой авеню электрические огни"
         },
         {
-          "id": "sent-116",
-          "text": "las luces eléctricas y los productos bien expuestos detrás de un escaparate de cristal",
-          "translationRu": "электрические огни и умело выставленные за стеклянной витриной товары",
-          "original": "electric lights and cunningly displayed wares behind plate-glass",
-          "originalRu": "электрические огни и хитро разложенный за зеркальным стеклом товар"
+          "id": "sent-077",
+          "text": "unas luces eléctricas y unas mercancías hábilmente expuestas tras un cristal",
+          "translationRu": "яркие электрические огни и ловко разложенный за стеклом товар",
+          "original": "and cunningly displayed wares behind plate-glass",
+          "originalRu": "и хитро выставленный за зеркальным стеклом товар"
         },
         {
-          "id": "sent-117",
-          "text": "llamaron la atención de Soapy.",
-          "translationRu": "привлекли внимание Сопи.",
+          "id": "sent-078",
+          "text": "hacían que un escaparate llamara la atención.",
+          "translationRu": "делали одну витрину особенно приметной.",
           "original": "made a shop window conspicuous.",
-          "originalRu": "делали витрину магазина особенно приметной."
+          "originalRu": "делали витрину заметной."
         },
         {
-          "id": "sent-118",
-          "text": "Soapy agarró un adoquín",
-          "translationRu": "Сопи схватил булыжник",
-          "original": "Soapy took a cobblestone",
-          "originalRu": "Сопи поднял булыжник"
+          "id": "sent-079",
+          "text": "Soapy cogió un adoquín y lo lanzó contra el cristal.",
+          "translationRu": "Соупи схватил булыжник и швырнул его в стекло.",
+          "original": "Soapy took a cobblestone and dashed it through the glass.",
+          "originalRu": "Соупи схватил булыжник и запустил им в стекло."
         },
         {
-          "id": "sent-119",
-          "text": "y lo lanzó contra el cristal.",
-          "translationRu": "и швырнул его в стекло.",
-          "original": "and dashed it through the glass.",
-          "originalRu": "и швырнул его в стекло."
-        },
-        {
-          "id": "sent-120",
-          "text": "La gente corrió desde la esquina",
-          "translationRu": "Люди сбежались с угла,",
+          "id": "sent-080",
+          "text": "La gente vino corriendo desde la esquina,",
+          "translationRu": "Люди прибежали из-за угла,",
           "original": "People came running around the corner,",
-          "originalRu": "Из-за угла сбежался народ,"
+          "originalRu": "Люди прибежали из-за угла,"
         },
         {
-          "id": "sent-121",
+          "id": "sent-081",
           "text": "con un policía a la cabeza.",
-          "translationRu": "а впереди — полицейский.",
+          "translationRu": "и впереди всех — полицейский.",
           "original": "a policeman in the lead.",
-          "originalRu": "а впереди всех — полисмен."
+          "originalRu": "во главе с полицейским."
         },
         {
-          "id": "sent-122",
-          "text": "Soapy se quedó quieto,",
-          "translationRu": "Сопи стоял неподвижно,",
-          "original": "Soapy stood still,",
-          "originalRu": "Сопи стоял не двигаясь,"
+          "id": "sent-082",
+          "text": "Soapy se quedó quieto, con las manos en los bolsillos,",
+          "translationRu": "Соупи стоял неподвижно, засунув руки в карманы,",
+          "original": "Soapy stood still, with his hands in his pockets,",
+          "originalRu": "Соупи стоял неподвижно, засунув руки в карманы,"
         },
         {
-          "id": "sent-123",
-          "text": "con las manos en los bolsillos,",
-          "translationRu": "засунув руки в карманы,",
-          "original": "with his hands in his pockets,",
-          "originalRu": "засунув руки в карманы,"
-        },
-        {
-          "id": "sent-124",
-          "text": "y sonrió al ver los botones dorados del uniforme.",
-          "translationRu": "и улыбался, глядя на золотые пуговицы мундира.",
+          "id": "sent-083",
+          "text": "y sonrió al ver los botones de latón.",
+          "translationRu": "и улыбнулся при виде латунных пуговиц.",
           "original": "and smiled at the sight of brass buttons.",
-          "originalRu": "и улыбался при виде медных пуговиц."
+          "originalRu": "и улыбнулся при виде латунных пуговиц."
         }
       ]
     },
@@ -915,18 +648,18 @@
       "id": "para-012",
       "sentences": [
         {
-          "id": "sent-125",
-          "text": "— ¿Dónde está el hombre que hizo eso?",
-          "translationRu": "— Где человек, который это сделал?",
+          "id": "sent-084",
+          "text": "—¿Dónde está el que ha hecho eso?",
+          "translationRu": "— Где тот, кто это сделал?",
           "original": "'Where's the man that done that?'",
-          "originalRu": "— Где тот, кто это сделал? —"
+          "originalRu": "— Где человек, который это сделал?"
         },
         {
-          "id": "sent-126",
-          "text": "— preguntó el agente con agitación.",
-          "translationRu": "— взволнованно спросил офицер.",
+          "id": "sent-085",
+          "text": "—preguntó el agente muy alterado.",
+          "translationRu": "— взволнованно спросил полицейский.",
           "original": "inquired the officer excitedly.",
-          "originalRu": "взволнованно осведомился блюститель порядка."
+          "originalRu": "— взволнованно осведомился полицейский."
         }
       ]
     },
@@ -934,32 +667,25 @@
       "id": "para-013",
       "sentences": [
         {
-          "id": "sent-127",
-          "text": "— ¿No se le ocurre que podría haber sido yo?",
-          "translationRu": "— Разве вам не приходит в голову, что это мог быть я?",
-          "original": "'Don't you figure out that I might have had something to do with it?'",
-          "originalRu": "— А вам не приходит в голову, что я мог иметь к этому какое-то отношение? —"
+          "id": "sent-086",
+          "text": "—¿No se le ocurre que yo podría tener algo que ver? —dijo Soapy,",
+          "translationRu": "— А вам не приходит в голову, что тут могу быть замешан я? — сказал Соупи,",
+          "original": "'Don't you figure out that I might have had something to do with it?' said Soapy,",
+          "originalRu": "— Вам не приходит в голову, что я мог иметь к этому какое-то отношение? — сказал Соупи,"
         },
         {
-          "id": "sent-128",
-          "text": "— dijo Soapy,",
-          "translationRu": "— сказал Сопи",
-          "original": "said Soapy,",
-          "originalRu": "сказал Сопи"
-        },
-        {
-          "id": "sent-129",
-          "text": "con cierta ironía pero también con amabilidad,",
-          "translationRu": "с лёгкой иронией, но дружелюбно,",
+          "id": "sent-087",
+          "text": "no sin sarcasmo, pero amistoso,",
+          "translationRu": "не без насмешки, но дружелюбно,",
           "original": "not without sarcasm, but friendly,",
           "originalRu": "не без сарказма, но дружелюбно,"
         },
         {
-          "id": "sent-130",
+          "id": "sent-088",
           "text": "como quien saluda a la buena suerte.",
-          "translationRu": "как приветствуют удачу.",
+          "translationRu": "как приветствуют счастливый случай.",
           "original": "as one greets good fortune.",
-          "originalRu": "как встречают привалившую удачу."
+          "originalRu": "как приветствуют удачу."
         }
       ]
     },
@@ -967,93 +693,53 @@
       "id": "para-014",
       "sentences": [
         {
-          "id": "sent-131",
-          "text": "El policía no quiso ni considerar",
-          "translationRu": "Полицейский и думать не стал,",
+          "id": "sent-089",
+          "text": "La mente del policía se negó a aceptar a Soapy siquiera como una pista.",
+          "translationRu": "Ум полицейского отказывался принять Соупи даже за улику.",
           "original": "The policeman's mind refused to accept Soapy even as a clue.",
-          "originalRu": "Но полисмен отказывался признать в Сопи хотя бы зацепку."
+          "originalRu": "Ум полицейского отказывался принять Соупи даже за улику."
         },
         {
-          "id": "sent-132",
-          "text": "que Soapy pudiera ser el culpable.",
-          "translationRu": "что Сопи мог быть виновником."
+          "id": "sent-090",
+          "text": "Los hombres que rompen escaparates no se quedan a discutir con los agentes de la ley.",
+          "translationRu": "Люди, которые бьют витрины, не остаются пререкаться со слугами закона.",
+          "original": "Men who smash windows do not remain to parley with the law's minions.",
+          "originalRu": "Люди, которые бьют стёкла, не остаются вести переговоры со слугами закона."
         },
         {
-          "id": "sent-133",
-          "text": "Los hombres que rompen escaparates",
-          "translationRu": "Люди, которые бьют витрины,",
-          "original": "Men who smash windows",
-          "originalRu": "Люди, которые бьют витрины,"
-        },
-        {
-          "id": "sent-134",
-          "text": "no se quedan a hablar con la policía:",
-          "translationRu": "не остаются разговаривать с полицией —",
-          "original": "do not remain to parley with the law's minions.",
-          "originalRu": "не остаются вступать в переговоры со слугами закона."
-        },
-        {
-          "id": "sent-135",
-          "text": "salen corriendo.",
-          "translationRu": "они убегают.",
+          "id": "sent-091",
+          "text": "Salen corriendo.",
+          "translationRu": "Они пускаются наутёк.",
           "original": "They take to their heels.",
-          "originalRu": "Они пускаются наутёк."
+          "originalRu": "Они дают тягу."
         },
         {
-          "id": "sent-136",
-          "text": "El policía vio a un hombre",
-          "translationRu": "Полицейский заметил человека,",
-          "original": "The policeman saw a man",
-          "originalRu": "Полисмен заметил человека,"
+          "id": "sent-092",
+          "text": "El policía vio a un hombre a media manzana que corría para alcanzar un tranvía.",
+          "translationRu": "Полицейский увидел на середине квартала человека, бежавшего, чтобы догнать трамвай.",
+          "original": "The policeman saw a man half way down the block running to catch a car.",
+          "originalRu": "Полицейский увидел на середине квартала человека, бежавшего, чтобы догнать трамвай."
         },
         {
-          "id": "sent-137",
-          "text": "corriendo a mitad de la manzana",
-          "translationRu": "бегущего в середине квартала,",
-          "original": "half way down the block running",
-          "originalRu": "бежавшего на середине квартала,"
+          "id": "sent-093",
+          "text": "Con la porra en la mano se unió a la persecución.",
+          "translationRu": "С поднятой дубинкой он бросился в погоню.",
+          "original": "With drawn club he joined in the pursuit.",
+          "originalRu": "С выхваченной дубинкой он присоединился к погоне."
         },
         {
-          "id": "sent-138",
-          "text": "para alcanzar un tranvía.",
-          "translationRu": "чтобы догнать трамвай.",
-          "original": "to catch a car.",
-          "originalRu": "чтобы вскочить в вагон."
+          "id": "sent-094",
+          "text": "Soapy, con asco en el corazón, siguió caminando sin prisa,",
+          "translationRu": "Соупи, с досадой в сердце, побрёл дальше не спеша,",
+          "original": "Soapy, with disgust in his heart, loafed along,",
+          "originalRu": "Соупи, с отвращением в сердце, побрёл дальше,"
         },
         {
-          "id": "sent-139",
-          "text": "Con la porra en la mano,",
-          "translationRu": "С дубинкой наготове",
-          "original": "With drawn club",
-          "originalRu": "Выхватив дубинку,"
-        },
-        {
-          "id": "sent-140",
-          "text": "se unió a la persecución.",
-          "translationRu": "он бросился в погоню.",
-          "original": "he joined in the pursuit.",
-          "originalRu": "он бросился за ним в погоню."
-        },
-        {
-          "id": "sent-141",
-          "text": "Soapy, con disgusto en el corazón,",
-          "translationRu": "Сопи с горьким чувством",
-          "original": "Soapy, with disgust in his heart,",
-          "originalRu": "Сопи же, с досадой на сердце,"
-        },
-        {
-          "id": "sent-142",
-          "text": "se fue caminando despacio:",
-          "translationRu": "побрел прочь:",
-          "original": "loafed along,",
-          "originalRu": "побрёл дальше,"
-        },
-        {
-          "id": "sent-143",
-          "text": "dos intentos fallidos.",
-          "translationRu": "две неудачных попытки.",
+          "id": "sent-095",
+          "text": "fracasado por segunda vez.",
+          "translationRu": "потерпев неудачу во второй раз.",
           "original": "twice unsuccessful.",
-          "originalRu": "дважды потерпев неудачу."
+          "originalRu": "во второй раз неудачливый."
         }
       ]
     },
@@ -1061,88 +747,60 @@
       "id": "para-015",
       "sentences": [
         {
-          "id": "sent-144",
-          "text": "Al otro lado de la calle",
-          "translationRu": "На другой стороне улицы",
-          "original": "On the opposite side of the street",
-          "originalRu": "На другой стороне улицы"
+          "id": "sent-096",
+          "text": "Al otro lado de la calle había un restaurante de poca categoría.",
+          "translationRu": "На другой стороне улицы стоял ресторанчик без больших претензий.",
+          "original": "On the opposite side of the street was a restaurant of no great pretensions.",
+          "originalRu": "На противоположной стороне улицы был ресторан без больших претензий."
         },
         {
-          "id": "sent-145",
-          "text": "había un restaurante sin pretensiones,",
-          "translationRu": "стоял ресторан без претензий —",
-          "original": "was a restaurant of no great pretensions.",
-          "originalRu": "находился ресторанчик без особых притязаний."
-        },
-        {
-          "id": "sent-146",
-          "text": "para gente con mucho apetito y poco dinero.",
-          "translationRu": "для тех, у кого большой аппетит и мало денег.",
+          "id": "sent-097",
+          "text": "Servía a grandes apetitos y a bolsillos modestos.",
+          "translationRu": "Он был рассчитан на большой аппетит и скромный кошелёк.",
           "original": "It catered to large appetites and modest purses.",
-          "originalRu": "Он был рассчитан на большие аппетиты и скромные кошельки."
+          "originalRu": "Он обслуживал большие аппетиты и скромные кошельки."
         },
         {
-          "id": "sent-147",
-          "text": "La vajilla y el ambiente eran toscos;",
-          "translationRu": "Посуда и обстановка были грубоваты;",
+          "id": "sent-098",
+          "text": "Su vajilla y su ambiente eran gruesos;",
+          "translationRu": "Посуда и воздух в нём были густыми,",
           "original": "Its crockery and atmosphere were thick;",
-          "originalRu": "Посуда и воздух в нём были густы,"
+          "originalRu": "Посуда его и атмосфера были плотными,"
         },
         {
-          "id": "sent-148",
-          "text": "la sopa y las servilletas, finas.",
-          "translationRu": "суп и салфетки — жидкие.",
+          "id": "sent-099",
+          "text": "su sopa y su mantelería, finas.",
+          "translationRu": "а суп и салфетки — жидкими.",
           "original": "its soup and napery thin.",
-          "originalRu": "суп и скатерти — жидки."
+          "originalRu": "суп же и бельё — жидкими."
         },
         {
-          "id": "sent-149",
-          "text": "En este lugar Soapy entró",
-          "translationRu": "В это заведение Сопи вошёл",
-          "original": "Into this place Soapy took",
-          "originalRu": "Сюда Сопи внёс"
+          "id": "sent-100",
+          "text": "Soapy entró en aquel lugar con sus zapatos acusadores y sus pantalones delatores, sin que nadie lo detuviera.",
+          "translationRu": "Соупи вошёл туда со своими обличающими ботинками и предательскими брюками, и никто его не остановил.",
+          "original": "Into this place Soapy took his accusive shoes and telltale trousers without challenge.",
+          "originalRu": "В это заведение Соупи внёс свои обличающие ботинки и предательские брюки без всякого препятствия."
         },
         {
-          "id": "sent-150",
-          "text": "con sus zapatos delatores y sus pantalones sospechosos",
-          "translationRu": "со своими предательскими ботинками и подозрительными брюками",
-          "original": "his accusive shoes and telltale trousers",
-          "originalRu": "свои уличающие башмаки и красноречивые брюки"
+          "id": "sent-101",
+          "text": "Se sentó a una mesa y devoró un bistec, tortitas, rosquillas y pastel.",
+          "translationRu": "Он сел за столик и уплёл бифштекс, оладьи, пончики и пирог.",
+          "original": "At a table he sat and consumed beefsteak, flapjacks, doughnuts and pie.",
+          "originalRu": "За столиком он сел и поглотил бифштекс, оладьи, пончики и пирог."
         },
         {
-          "id": "sent-151",
-          "text": "sin ningún problema.",
-          "translationRu": "без всяких помех.",
-          "original": "without challenge.",
-          "originalRu": "безо всяких препятствий."
-        },
-        {
-          "id": "sent-152",
-          "text": "Se sentó en una mesa",
-          "translationRu": "Он сел за столик",
-          "original": "At a table he sat",
-          "originalRu": "Он уселся за столик"
-        },
-        {
-          "id": "sent-153",
-          "text": "y comió filete, tortitas, rosquillas y pastel.",
-          "translationRu": "и съел бифштекс, оладьи, пончики и пирог.",
-          "original": "and consumed beefsteak, flapjacks, doughnuts and pie.",
-          "originalRu": "и уничтожил бифштекс, оладьи, пончики и пирог."
-        },
-        {
-          "id": "sent-154",
-          "text": "Luego le dijo al camarero",
-          "translationRu": "Затем сообщил официанту,",
+          "id": "sent-102",
+          "text": "Y entonces le confesó al camarero",
+          "translationRu": "А потом признался официанту,",
           "original": "And then to the waiter be betrayed the fact",
-          "originalRu": "А затем поведал официанту,"
+          "originalRu": "А затем открыл официанту тот факт,"
         },
         {
-          "id": "sent-155",
-          "text": "que no tenía ni una moneda.",
-          "translationRu": "что у него нет ни гроша.",
+          "id": "sent-103",
+          "text": "que él y la moneda más pequeña eran completos desconocidos.",
+          "translationRu": "что он и самая мелкая монета друг другу совершенно чужие.",
           "original": "that the minutest coin and himself were strangers.",
-          "originalRu": "что он и мельчайшая монета друг другу совершенно чужие."
+          "originalRu": "что мельчайшая монета и он сам были незнакомцами."
         }
       ]
     },
@@ -1150,25 +808,18 @@
       "id": "para-016",
       "sentences": [
         {
-          "id": "sent-156",
-          "text": "— Ahora llama a un policía",
-          "translationRu": "— Теперь зови полицейского, —",
-          "original": "'Now, get busy and call a cop,'",
-          "originalRu": "— Ну, пошевеливайтесь и зовите полицейского, —"
+          "id": "sent-104",
+          "text": "—Vamos, dese prisa y llame a un policía —dijo Soapy—.",
+          "translationRu": "— Ну же, поживее, зовите фараона, — сказал Соупи. —",
+          "original": "'Now, get busy and call a cop,' said Soapy.",
+          "originalRu": "— Ну, живее, зовите полицейского, — сказал Соупи."
         },
         {
-          "id": "sent-157",
-          "text": "— dijo Soapy.",
-          "translationRu": "сказал Сопи.",
-          "original": "said Soapy.",
-          "originalRu": "сказал Сопи. —"
-        },
-        {
-          "id": "sent-158",
-          "text": "— Y no hagas esperar a un caballero.",
-          "translationRu": "— И не заставляй джентльмена ждать.",
+          "id": "sent-105",
+          "text": "Y no haga esperar a un caballero.",
+          "translationRu": "И не заставляйте джентльмена ждать.",
           "original": "'And don't keep a gentleman waiting.'",
-          "originalRu": "И не заставляйте джентльмена ждать."
+          "originalRu": "— И не заставляйте джентльмена ждать."
         }
       ]
     },
@@ -1176,32 +827,25 @@
       "id": "para-017",
       "sentences": [
         {
-          "id": "sent-159",
-          "text": "— Aquí no hay policías para ti",
-          "translationRu": "— Никакой полиции для тебя, —",
-          "original": "'No cop for youse,'",
-          "originalRu": "— Никаких тебе полицейских, —"
+          "id": "sent-106",
+          "text": "—Nada de policía para usted —dijo el camarero,",
+          "translationRu": "— Никакого фараона тебе не будет, — сказал официант",
+          "original": "'No cop for youse,' said the waiter,",
+          "originalRu": "— Никаких фараонов для тебя, — сказал официант"
         },
         {
-          "id": "sent-160",
-          "text": "— dijo el camarero",
-          "translationRu": "сказал официант",
-          "original": "said the waiter,",
-          "originalRu": "сказал официант"
-        },
-        {
-          "id": "sent-161",
-          "text": "con una voz suave pero una mirada dura.",
-          "translationRu": "мягким голосом, но с твёрдым взглядом.",
+          "id": "sent-107",
+          "text": "con una voz como tortitas de mantequilla y un ojo como la cereza de un cóctel Manhattan.",
+          "translationRu": "голосом сладким, как масляные пышки, и с глазом, как вишенка в коктейле «Манхэттен».",
           "original": "with a voice like butter cakes and an eye like the cherry in a Manhattan cocktail.",
-          "originalRu": "голосом, словно сдобная булочка, и с глазами, как вишенка в коктейле «Манхэттен». —"
+          "originalRu": "голосом, как масляные пышки, и глазом, как вишенка в коктейле «Манхэттен»."
         },
         {
-          "id": "sent-162",
-          "text": "— ¡Eh, Con!",
+          "id": "sent-108",
+          "text": "—¡Eh, Con!",
           "translationRu": "— Эй, Кон!",
           "original": "'Hey, Con!'",
-          "originalRu": "Эй, Кон!"
+          "originalRu": "— Эй, Кон!"
         }
       ]
     },
@@ -1209,77 +853,60 @@
       "id": "para-018",
       "sentences": [
         {
-          "id": "sent-163",
-          "text": "Dos camareros lanzaron a Soapy limpiamente",
-          "translationRu": "Два официанта аккуратно швырнули Сопи",
-          "original": "Neatly upon his left ear on the callous pavement two waiters pitched Soapy.",
-          "originalRu": "И двое официантов ловко вышвырнули Сопи на чёрствую мостовую, так что он угодил наземь левым ухом."
+          "id": "sent-109",
+          "text": "Justo sobre su oreja izquierda, en el duro pavimento,",
+          "translationRu": "Ровно на левое ухо, на жёсткую мостовую,",
+          "original": "Neatly upon his left ear on the callous pavement",
+          "originalRu": "Аккуратно на левое ухо, на бесчувственную мостовую,"
         },
         {
-          "id": "sent-164",
-          "text": "sobre la acera dura,",
-          "translationRu": "на жёсткий тротуар —"
+          "id": "sent-110",
+          "text": "dos camareros arrojaron a Soapy.",
+          "translationRu": "два официанта вышвырнули Соупи.",
+          "original": "two waiters pitched Soapy.",
+          "originalRu": "два официанта швырнули Соупи."
         },
         {
-          "id": "sent-165",
-          "text": "cayendo sobre su oreja izquierda.",
-          "translationRu": "он упал на левое ухо."
+          "id": "sent-111",
+          "text": "Se levantó, articulación por articulación, como se abre la regla de un carpintero,",
+          "translationRu": "Он поднялся, сустав за суставом, точно раскрывается складной плотницкий метр,",
+          "original": "He arose, joint by joint, as a carpenter's rule opens,",
+          "originalRu": "Он поднялся, сустав за суставом, как раскрывается складная плотницкая линейка,"
         },
         {
-          "id": "sent-166",
-          "text": "Se levantó poco a poco, articulación por articulación,",
-          "translationRu": "Он поднимался медленно, сустав за суставом,",
-          "original": "He arose, joint by joint,",
-          "originalRu": "Он поднялся, сустав за суставом,"
-        },
-        {
-          "id": "sent-167",
-          "text": "como una regla de carpintero que se despliega,",
-          "translationRu": "словно складной метр плотника,",
-          "original": "as a carpenter's rule opens,",
-          "originalRu": "как раскрывается складной плотницкий метр,"
-        },
-        {
-          "id": "sent-168",
-          "text": "y sacudió el polvo de su ropa.",
-          "translationRu": "и отряхивал пыль с одежды.",
+          "id": "sent-112",
+          "text": "y se sacudió el polvo de la ropa.",
+          "translationRu": "и стряхнул пыль с одежды.",
           "original": "and beat the dust from his clothes.",
-          "originalRu": "и отряхнул пыль с одежды."
+          "originalRu": "и выбил пыль из одежды."
         },
         {
-          "id": "sent-169",
-          "text": "El arresto parecía un sueño lejano.",
-          "translationRu": "Арест казался далёким сном.",
+          "id": "sent-113",
+          "text": "El arresto no parecía más que un sueño de color de rosa.",
+          "translationRu": "Арест казался всего лишь розовой мечтой.",
           "original": "Arrest seemed but a rosy dream.",
-          "originalRu": "Арест казался теперь несбыточной розовой мечтой."
+          "originalRu": "Арест казался всего лишь розовой мечтой."
         },
         {
-          "id": "sent-170",
-          "text": "La Isla parecía muy lejos.",
+          "id": "sent-114",
+          "text": "La Isla parecía muy lejana.",
           "translationRu": "Остров казался очень далёким.",
           "original": "The Island seemed very far away.",
-          "originalRu": "Остров казался бесконечно далёким."
+          "originalRu": "Остров казался очень далёким."
         },
         {
-          "id": "sent-171",
-          "text": "Un policía que estaba de pie ante una farmacia a dos puertas de allí",
-          "translationRu": "Полицейский, стоявший у аптеки в двух дверях,",
+          "id": "sent-115",
+          "text": "Un policía que estaba delante de una farmacia, dos puertas más allá,",
+          "translationRu": "Полицейский, стоявший у аптеки, через две двери,",
           "original": "A policeman who stood before a drug store two doors away",
-          "originalRu": "Полисмен, стоявший у аптеки через два дома,"
+          "originalRu": "Полицейский, стоявший перед аптекой в двух дверях оттуда,"
         },
         {
-          "id": "sent-172",
-          "text": "se rió",
-          "translationRu": "засмеялся",
-          "original": "laughed",
-          "originalRu": "рассмеялся"
-        },
-        {
-          "id": "sent-173",
-          "text": "y siguió su camino.",
-          "translationRu": "и пошёл дальше.",
-          "original": "and walked down the street.",
-          "originalRu": "и пошёл прочь по улице."
+          "id": "sent-116",
+          "text": "se rió y siguió calle abajo.",
+          "translationRu": "рассмеялся и пошёл дальше по улице.",
+          "original": "laughed and walked down the street.",
+          "originalRu": "рассмеялся и зашагал по улице."
         }
       ]
     },
@@ -1287,74 +914,46 @@
       "id": "para-019",
       "sentences": [
         {
-          "id": "sent-174",
-          "text": "Soapy caminó cinco manzanas",
-          "translationRu": "Сопи прошагал пять кварталов,",
+          "id": "sent-117",
+          "text": "Soapy anduvo cinco manzanas",
+          "translationRu": "Соупи прошёл пять кварталов,",
           "original": "Five blocks Soapy travelled",
-          "originalRu": "Пять кварталов прошёл Сопи,"
+          "originalRu": "Пять кварталов прошёл Соупи,"
         },
         {
-          "id": "sent-175",
-          "text": "antes de reunir el valor",
-          "translationRu": "прежде чем собрался с духом",
-          "original": "before his courage permitted him",
-          "originalRu": "прежде чем мужество позволило ему"
+          "id": "sent-118",
+          "text": "antes de que su valor le permitiera cortejar de nuevo la captura.",
+          "translationRu": "прежде чем к нему вернулась смелость снова добиваться ареста.",
+          "original": "before his courage permitted him to woo capture again.",
+          "originalRu": "прежде чем мужество позволило ему вновь искать пленения."
         },
         {
-          "id": "sent-176",
-          "text": "para intentarlo de nuevo.",
-          "translationRu": "попробовать снова.",
-          "original": "to woo capture again.",
-          "originalRu": "снова добиваться ареста."
-        },
-        {
-          "id": "sent-177",
-          "text": "Esta vez la oportunidad parecía perfecta.",
-          "translationRu": "На этот раз возможность казалась идеальной.",
+          "id": "sent-119",
+          "text": "Esta vez la ocasión le pareció lo que él, tontamente, llamó para sí «cosa segura».",
+          "translationRu": "На этот раз случай показался ему тем, что он наивно назвал про себя «верным делом».",
           "original": "This time the opportunity presented what he fatuously termed to himself a 'cinch.'",
-          "originalRu": "На этот раз случай преподнёс ему то, что он самодовольно назвал про себя «верным дельцем»."
+          "originalRu": "На этот раз возможность явила то, что он самодовольно назвал про себя «верным делом»."
         },
         {
-          "id": "sent-178",
-          "text": "Una mujer joven, de aspecto modesto y agradable,",
-          "translationRu": "Молодая женщина скромного и приятного вида",
-          "original": "A young woman of a modest and pleasing guise",
-          "originalRu": "Молодая женщина, скромная и приятная на вид,"
+          "id": "sent-120",
+          "text": "Una joven de aspecto modesto y agradable estaba ante un escaparate,",
+          "translationRu": "Молодая женщина скромного и приятного вида стояла перед витриной",
+          "original": "A young woman of a modest and pleasing guise was standing before a show window",
+          "originalRu": "Молодая женщина скромного и приятного вида стояла перед витриной"
         },
         {
-          "id": "sent-179",
-          "text": "estaba parada ante un escaparate",
-          "translationRu": "стояла перед витриной,",
-          "original": "was standing before a show window",
-          "originalRu": "стояла перед витриной"
-        },
-        {
-          "id": "sent-180",
-          "text": "mirando con interés los artículos expuestos.",
-          "translationRu": "с живым интересом разглядывая выставленные товары.",
+          "id": "sent-121",
+          "text": "mirando con vivo interés los tazones de afeitar y los tinteros allí expuestos.",
+          "translationRu": "и с живым интересом разглядывала выставленные там бритвенные чашки и чернильницы.",
           "original": "gazing with sprightly interest at its display of shaving mugs and inkstands.",
-          "originalRu": "и с живым любопытством разглядывала выставленные кружки для бритья и чернильницы."
+          "originalRu": "и с живым любопытством разглядывала выставленные бритвенные чашки и чернильницы."
         },
         {
-          "id": "sent-181",
-          "text": "A dos metros de la vitrina,",
-          "translationRu": "В двух метрах от витрины",
-          "original": "two yards from the window",
-          "originalRu": "В двух шагах от витрины"
-        },
-        {
-          "id": "sent-182",
-          "text": "un policía grande y de aspecto severo",
-          "translationRu": "крупный полицейский с суровым видом",
-          "original": "a large policeman of severe demeanour",
-          "originalRu": "рослый полицейский сурового вида"
-        },
-        {
-          "id": "sent-183",
-          "text": "se apoyaba contra una boca de incendios.",
-          "translationRu": "опирался о пожарный гидрант.",
-          "original": "leaned against a water plug.",
-          "originalRu": "опирался на пожарный гидрант."
+          "id": "sent-122",
+          "text": "A dos metros de la ventana, un policía corpulento y de aire severo se apoyaba en una boca de riego.",
+          "translationRu": "В двух метрах от окна дюжий полицейский сурового вида прислонился к пожарному крану.",
+          "original": "two yards from the window a large policeman of severe demeanour leaned against a water plug.",
+          "originalRu": "В двух ярдах от окна крупный полицейский сурового вида прислонился к водозаборной колонке."
         }
       ]
     },
@@ -1362,58 +961,39 @@
       "id": "para-020",
       "sentences": [
         {
-          "id": "sent-184",
-          "text": "El plan de Soapy era",
-          "translationRu": "План Сопи состоял в том,",
-          "original": "It was Soapy's design",
-          "originalRu": "Сопи задумал"
+          "id": "sent-123",
+          "text": "El plan de Soapy era representar el papel del despreciable y odiado «pícaro» que molesta a las mujeres.",
+          "translationRu": "Замысел Соупи состоял в том, чтобы сыграть роль презренного и ненавистного приставалы.",
+          "original": "It was Soapy's design to assume the role of the despicable and execrated 'masher.'",
+          "originalRu": "Замысел Соупи состоял в том, чтобы взять на себя роль презренного и проклинаемого «ухажёра»."
         },
         {
-          "id": "sent-185",
-          "text": "hacer el papel del hombre molesto e insoportable",
-          "translationRu": "чтобы сыграть роль назойливого и противного",
-          "original": "to assume the role of the despicable and execrated 'masher.'",
-          "originalRu": "сыграть роль презренного и ненавистного всем приставалы."
-        },
-        {
-          "id": "sent-186",
-          "text": "que acosa a las mujeres en la calle.",
-          "translationRu": "уличного приставалы."
-        },
-        {
-          "id": "sent-187",
-          "text": "El aspecto elegante de la joven",
-          "translationRu": "Изящный вид молодой женщины",
+          "id": "sent-124",
+          "text": "El aspecto refinado y elegante de su víctima,",
+          "translationRu": "Утончённый и изящный вид его жертвы",
           "original": "The refined and elegant appearance of his victim",
-          "originalRu": "Утончённый и изящный облик его жертвы,"
+          "originalRu": "Утончённый и изящный облик его жертвы"
         },
         {
-          "id": "sent-188",
-          "text": "y la presencia del policía cerca",
-          "translationRu": "и близость полицейского",
+          "id": "sent-125",
+          "text": "y la cercanía del concienzudo policía",
+          "translationRu": "и близость добросовестного полицейского",
           "original": "and the contiguity of the conscientious cop",
-          "originalRu": "а также близость добросовестного стража порядка"
+          "originalRu": "и соседство добросовестного полицейского"
         },
         {
-          "id": "sent-189",
-          "text": "lo animaron a creer",
-          "translationRu": "придали ему уверенность:",
-          "original": "encouraged him to believe",
-          "originalRu": "внушали ему уверенность,"
+          "id": "sent-126",
+          "text": "le animaban a creer que pronto sentiría en el brazo la agradable garra oficial",
+          "translationRu": "внушали ему надежду, что скоро он почувствует на руке приятную официальную хватку,",
+          "original": "encouraged him to believe that he would soon feel the pleasant official clutch upon his arm",
+          "originalRu": "внушали ему веру, что скоро он почувствует на руке приятную официальную хватку,"
         },
         {
-          "id": "sent-190",
-          "text": "que pronto sentiría el agradable agarre oficial en su brazo,",
-          "translationRu": "скоро он почувствует приятный официальный захват за руку,",
-          "original": "that he would soon feel the pleasant official clutch upon his arm",
-          "originalRu": "что вскоре он ощутит на своём плече приятную официальную хватку,"
-        },
-        {
-          "id": "sent-191",
-          "text": "asegurándole sus cuarteles de invierno en la querida islita.",
-          "translationRu": "который гарантирует ему зимнее пристанище на дорогом островке.",
+          "id": "sent-127",
+          "text": "que le aseguraría su alojamiento de invierno en la pequeña y acogedora isla.",
+          "translationRu": "которая обеспечит ему зимнюю квартиру на славном, уютном островке.",
           "original": "that would insure his winter quarters on the right little, tight little isle.",
-          "originalRu": "которая обеспечит ему зимнюю квартиру на уютном тесном островке."
+          "originalRu": "которая обеспечит ему зимнее пристанище на славном, тесном островке."
         }
       ]
     },
@@ -1421,130 +1001,95 @@
       "id": "para-021",
       "sentences": [
         {
-          "id": "sent-192",
-          "text": "Soapy se arregló la corbata de la misionera,",
-          "translationRu": "Сопи поправил миссионерский галстук,",
+          "id": "sent-128",
+          "text": "Soapy se enderezó la corbata de confección,",
+          "translationRu": "Соупи поправил свой готовый галстук,",
           "original": "Soapy straightened the lady missionary's ready-made tie,",
-          "originalRu": "Сопи поправил готовый галстук, подаренный дамой-миссионеркой,"
+          "originalRu": "Соупи поправил свой готовый галстук, как у дамы-миссионерки,"
         },
         {
-          "id": "sent-193",
-          "text": "bajó sus puños para que se vieran,",
-          "translationRu": "выпустил манжеты на свет,",
+          "id": "sent-129",
+          "text": "sacó a la vista los puños que se le encogían,",
+          "translationRu": "вытащил напоказ съёжившиеся манжеты,",
           "original": "dragged his shrinking cuffs into the open,",
-          "originalRu": "вытащил наружу прятавшиеся манжеты,"
+          "originalRu": "вытащил на свет свои жавшиеся манжеты,"
         },
         {
-          "id": "sent-194",
-          "text": "se puso el sombrero de lado",
-          "translationRu": "надвинул шляпу набекрень",
+          "id": "sent-130",
+          "text": "se puso el sombrero en un ángulo arrollador",
+          "translationRu": "заломил шляпу под убийственным углом",
           "original": "set his hat at a killing cant",
-          "originalRu": "заломил шляпу под убийственным углом"
+          "originalRu": "заломил шляпу под сногсшибательным углом"
         },
         {
-          "id": "sent-195",
-          "text": "y se acercó a la joven mujer.",
-          "translationRu": "и двинулся к молодой женщине.",
+          "id": "sent-131",
+          "text": "y se acercó de lado a la joven.",
+          "translationRu": "и бочком подобрался к молодой женщине.",
           "original": "and sidled toward the young woman.",
-          "originalRu": "и бочком придвинулся к молодой женщине."
+          "originalRu": "и бочком двинулся к молодой женщине."
         },
         {
-          "id": "sent-196",
-          "text": "Le dirigió miradas insistentes,",
-          "translationRu": "Он бросал на неё навязчивые взгляды,",
+          "id": "sent-132",
+          "text": "Le hizo ojitos,",
+          "translationRu": "Он строил ей глазки,",
           "original": "He made eyes at her,",
           "originalRu": "Он строил ей глазки,"
         },
         {
-          "id": "sent-197",
-          "text": "tosió de repente,",
-          "translationRu": "внезапно кашлял,",
+          "id": "sent-133",
+          "text": "le entraron toses y carraspeos repentinos,",
+          "translationRu": "вдруг закашлялся и захмыкал,",
           "original": "was taken with sudden coughs and 'hems,'",
-          "originalRu": "внезапно принимался покашливать и поддакивать,"
+          "originalRu": "был охвачен внезапными покашливаниями и «кхе-кхе»,"
         },
         {
-          "id": "sent-198",
-          "text": "sonrió con descaro",
-          "translationRu": "нагло улыбался",
+          "id": "sent-134",
+          "text": "sonrió, hizo muecas afectadas",
+          "translationRu": "улыбался, жеманно ухмылялся",
           "original": "smiled, smirked",
           "originalRu": "улыбался, ухмылялся"
         },
         {
-          "id": "sent-199",
-          "text": "y siguió todo el ritual irritante del hombre que acosa.",
-          "translationRu": "и проходил через весь раздражающий ритуал уличного приставалы.",
+          "id": "sent-135",
+          "text": "y recitó descaradamente toda la letanía impúdica y despreciable del molesto galán.",
+          "translationRu": "и нагло проделал весь бесстыжий и презренный набор приёмов приставалы.",
           "original": "and went brazenly through the impudent and contemptible litany of the 'masher.'",
-          "originalRu": "и нагло проделывал всю бесстыдную и низкую обрядность приставалы."
+          "originalRu": "и нагло прошёл через всю бесстыжую и презренную литанию «ухажёра»."
         },
         {
-          "id": "sent-200",
-          "text": "Con el rabillo del ojo",
-          "translationRu": "Краем глаза",
-          "original": "With half an eye Soapy",
-          "originalRu": "Краем глаза Сопи"
+          "id": "sent-136",
+          "text": "Con medio ojo Soapy vio que el policía lo observaba fijamente.",
+          "translationRu": "Краем глаза Соупи заметил, что полицейский пристально за ним следит.",
+          "original": "With half an eye Soapy saw that the policeman was watching him fixedly.",
+          "originalRu": "Вполглаза Соупи видел, что полицейский пристально за ним наблюдает."
         },
         {
-          "id": "sent-201",
-          "text": "vio",
-          "translationRu": "он видел,",
-          "original": "saw",
-          "originalRu": "видел,"
+          "id": "sent-137",
+          "text": "La joven se apartó unos pasos",
+          "translationRu": "Молодая женщина отошла на несколько шагов",
+          "original": "The young woman moved away a few steps,",
+          "originalRu": "Молодая женщина отошла на несколько шагов"
         },
         {
-          "id": "sent-202",
-          "text": "que el policía lo miraba fijamente.",
-          "translationRu": "что полицейский пристально за ним наблюдает.",
-          "original": "that the policeman was watching him fixedly.",
-          "originalRu": "что полицейский пристально за ним наблюдает."
-        },
-        {
-          "id": "sent-203",
-          "text": "La mujer joven",
-          "translationRu": "Молодая женщина",
-          "original": "The young woman",
-          "originalRu": "Молодая женщина"
-        },
-        {
-          "id": "sent-204",
-          "text": "dio unos pasos",
-          "translationRu": "отошла на несколько шагов",
-          "original": "moved away a few steps,",
-          "originalRu": "отошла на несколько шагов"
-        },
-        {
-          "id": "sent-205",
-          "text": "y volvió a mirar el escaparate.",
-          "translationRu": "и снова уставилась на витрину.",
+          "id": "sent-138",
+          "text": "y de nuevo dedicó toda su atención a los tazones de afeitar.",
+          "translationRu": "и снова с головой ушла в разглядывание бритвенных чашек.",
           "original": "and again bestowed her absorbed attention upon the shaving mugs.",
-          "originalRu": "и снова обратила всё своё внимание на кружки для бритья."
+          "originalRu": "и снова обратила всё своё внимание на бритвенные чашки."
         },
         {
-          "id": "sent-206",
-          "text": "Soapy la siguió,",
-          "translationRu": "Сопи последовал за ней,",
-          "original": "Soapy followed,",
-          "originalRu": "Сопи последовал за ней,"
+          "id": "sent-139",
+          "text": "Soapy la siguió, poniéndose con descaro a su lado,",
+          "translationRu": "Соупи пошёл за ней, нахально встал рядом,",
+          "original": "Soapy followed, boldly stepping to her side,",
+          "originalRu": "Соупи последовал за ней, дерзко встав рядом,"
         },
         {
-          "id": "sent-207",
-          "text": "se acercó a su lado con decisión,",
-          "translationRu": "решительно встал рядом,",
-          "original": "boldly stepping to her side,",
-          "originalRu": "смело шагнув к ней вплотную,"
-        },
-        {
-          "id": "sent-208",
-          "text": "se quitó el sombrero",
-          "translationRu": "снял шляпу",
-          "original": "raised his hat",
-          "originalRu": "приподнял шляпу"
-        },
-        {
-          "id": "sent-209",
-          "text": "y dijo:",
-          "translationRu": "и произнёс:",
-          "original": "and said:",
-          "originalRu": "и сказал:"
+          "id": "sent-140",
+          "text": "se levantó el sombrero y dijo:",
+          "translationRu": "приподнял шляпу и сказал:",
+          "original": "raised his hat and said:",
+          "originalRu": "приподнял шляпу и сказал:"
         }
       ]
     },
@@ -1552,18 +1097,18 @@
       "id": "para-022",
       "sentences": [
         {
-          "id": "sent-210",
-          "text": "— ¡Hola, Bedelia!",
-          "translationRu": "— Привет, Бедилия!",
+          "id": "sent-141",
+          "text": "—¡Hola, Bedelia!",
+          "translationRu": "— Эй, Беделия!",
           "original": "'Ah there, Bedelia!",
-          "originalRu": "— Эй, Беделия!"
+          "originalRu": "— Э-эй, Беделия!"
         },
         {
-          "id": "sent-211",
+          "id": "sent-142",
           "text": "¿No quieres venir a jugar a mi jardín?",
-          "translationRu": "Не хочешь прийти поиграть в моём дворе?",
+          "translationRu": "Не хочешь пойти поиграть у меня во дворе?",
           "original": "Don't you want to come and play in my yard?'",
-          "originalRu": "Не хочешь ли пойти поиграть со мной во дворе?"
+          "originalRu": "Не хочешь пойти поиграть у меня во дворе?"
         }
       ]
     },
@@ -1571,67 +1116,46 @@
       "id": "para-023",
       "sentences": [
         {
-          "id": "sent-212",
+          "id": "sent-143",
           "text": "El policía seguía mirando.",
-          "translationRu": "Полицейский по-прежнему смотрел.",
+          "translationRu": "Полицейский всё смотрел.",
           "original": "The policeman was still looking.",
           "originalRu": "Полицейский всё ещё смотрел."
         },
         {
-          "id": "sent-213",
-          "text": "La joven molestada",
-          "translationRu": "Потревоженной женщине",
-          "original": "The persecuted young woman",
-          "originalRu": "Притеснённой молодой женщине"
+          "id": "sent-144",
+          "text": "A la joven acosada le bastaba con levantar un dedo",
+          "translationRu": "Преследуемой молодой женщине стоило лишь поманить пальцем,",
+          "original": "The persecuted young woman had but to beckon a finger",
+          "originalRu": "Гонимой молодой женщине стоило лишь поманить пальцем,"
         },
         {
-          "id": "sent-214",
-          "text": "sólo necesitaba llamarlo con un gesto",
-          "translationRu": "достаточно было сделать знак,",
-          "original": "had but to beckon a finger",
-          "originalRu": "стоило лишь поманить пальцем,"
-        },
-        {
-          "id": "sent-215",
-          "text": "y Soapy estaría casi en camino a su refugio en la Isla.",
-          "translationRu": "и Сопи был бы уже почти на пути к своему пристанищу на Острове.",
+          "id": "sent-145",
+          "text": "y Soapy estaría prácticamente camino de su refugio isleño.",
+          "translationRu": "и Соупи был бы уже почти на пути к своему островному приюту.",
           "original": "and Soapy would be practically en route for his insular haven.",
-          "originalRu": "и Сопи был бы, считай, уже в пути к своему островному приюту."
+          "originalRu": "и Соупи был бы практически на пути к своему островному приюту."
         },
         {
-          "id": "sent-216",
-          "text": "Ya imaginaba",
-          "translationRu": "Он уже воображал",
-          "original": "Already he imagined he could feel",
-          "originalRu": "Ему уже чудилось, будто он ощущает"
+          "id": "sent-146",
+          "text": "Ya imaginaba que podía sentir el cálido bienestar de la comisaría.",
+          "translationRu": "Он уже воображал, что чувствует уютное тепло полицейского участка.",
+          "original": "Already he imagined he could feel the cozy warmth of the station-house.",
+          "originalRu": "Он уже воображал, что чувствует уютное тепло участка."
         },
         {
-          "id": "sent-217",
-          "text": "el calor acogedor de la comisaría.",
-          "translationRu": "уютное тепло полицейского участка.",
-          "original": "the cozy warmth of the station-house.",
-          "originalRu": "уютное тепло полицейского участка."
+          "id": "sent-147",
+          "text": "La joven se volvió hacia él y, alargando la mano,",
+          "translationRu": "Молодая женщина повернулась к нему и, протянув руку,",
+          "original": "The young woman faced him and, stretching out a hand,",
+          "originalRu": "Молодая женщина повернулась к нему и, протянув руку,"
         },
         {
-          "id": "sent-218",
-          "text": "La joven se volvió hacia él,",
-          "translationRu": "Молодая женщина повернулась к нему,",
-          "original": "The young woman faced him and,",
-          "originalRu": "Молодая женщина повернулась к нему и,"
-        },
-        {
-          "id": "sent-219",
-          "text": "extendió la mano",
-          "translationRu": "протянула руку",
-          "original": "stretching out a hand,",
-          "originalRu": "протянув руку,"
-        },
-        {
-          "id": "sent-220",
-          "text": "y agarró la manga del abrigo de Soapy.",
-          "translationRu": "и схватила Сопи за рукав пальто.",
+          "id": "sent-148",
+          "text": "agarró la manga del abrigo de Soapy.",
+          "translationRu": "схватила Соупи за рукав пальто.",
           "original": "caught Soapy's coat sleeve.",
-          "originalRu": "ухватила Сопи за рукав пальто."
+          "originalRu": "поймала Соупи за рукав пальто."
         }
       ]
     },
@@ -1639,39 +1163,25 @@
       "id": "para-024",
       "sentences": [
         {
-          "id": "sent-221",
-          "text": "— Claro, Mike",
-          "translationRu": "— Конечно, Майк,",
-          "original": "'Sure, Mike,'",
-          "originalRu": "— Идёт, Майк, —"
+          "id": "sent-149",
+          "text": "—Claro, Mike —dijo ella con alegría—,",
+          "translationRu": "— Конечно, Майк, — радостно сказала она, —",
+          "original": "'Sure, Mike,' she said joyfully,",
+          "originalRu": "— Конечно, Майк, — радостно сказала она,"
         },
         {
-          "id": "sent-222",
-          "text": "— dijo ella con alegría.",
-          "translationRu": "— весело ответила она.",
-          "original": "she said joyfully,",
-          "originalRu": "радостно сказала она, —"
-        },
-        {
-          "id": "sent-223",
-          "text": "— Si me invitas a una cerveza, vengo.",
-          "translationRu": "— Если угостишь пивом, пойду.",
+          "id": "sent-150",
+          "text": "si me invitas a un jarro de cerveza.",
+          "translationRu": "если поставишь мне кружку пивка.",
           "original": "'if you'll blow me to a pail of suds.",
-          "originalRu": "если поставишь мне кружечку пива."
+          "originalRu": "— если угостишь меня кружкой пива."
         },
         {
-          "id": "sent-224",
-          "text": "Quería hablarte antes,",
-          "translationRu": "Хотела заговорить раньше,",
-          "original": "I'd have spoke to you sooner,",
-          "originalRu": "Я бы заговорила с тобой и раньше,"
-        },
-        {
-          "id": "sent-225",
-          "text": "pero el policía miraba.",
-          "translationRu": "но полицейский смотрел.",
-          "original": "but the cop was watching.'",
-          "originalRu": "да фараон всё глядел."
+          "id": "sent-151",
+          "text": "Te habría hablado antes, pero el policía estaba mirando.",
+          "translationRu": "Я бы заговорила с тобой раньше, да фараон следил.",
+          "original": "I'd have spoke to you sooner, but the cop was watching.'",
+          "originalRu": "Я бы заговорила с тобой раньше, да полицейский смотрел."
         }
       ]
     },
@@ -1679,32 +1189,25 @@
       "id": "para-025",
       "sentences": [
         {
-          "id": "sent-226",
-          "text": "Con la mujer colgada de su brazo como una enredadera a su árbol,",
-          "translationRu": "С женщиной, повисшей на его руке, словно плющ на дубе,",
+          "id": "sent-152",
+          "text": "Con la joven agarrada a él como la hiedra al roble,",
+          "translationRu": "С молодой женщиной, льнувшей к нему, как плющ к дубу,",
           "original": "With the young woman playing the clinging ivy to his oak",
-          "originalRu": "И вот молодая женщина, обвившись вокруг него, точно плющ вокруг дуба,"
+          "originalRu": "С молодой женщиной, игравшей цепкий плющ при его дубе,"
         },
         {
-          "id": "sent-227",
-          "text": "Soapy pasó por delante del policía",
-          "translationRu": "Сопи прошёл мимо полицейского,",
-          "original": "Soapy walked past the policeman",
-          "originalRu": "Сопи прошёл мимо полицейского,"
+          "id": "sent-153",
+          "text": "Soapy pasó junto al policía abrumado por la tristeza.",
+          "translationRu": "Соупи, подавленный унынием, прошёл мимо полицейского.",
+          "original": "Soapy walked past the policeman overcome with gloom.",
+          "originalRu": "Соупи, охваченный унынием, прошёл мимо полицейского."
         },
         {
-          "id": "sent-228",
-          "text": "lleno de tristeza.",
-          "translationRu": "охваченный тоской.",
-          "original": "overcome with gloom.",
-          "originalRu": "объятый унынием."
-        },
-        {
-          "id": "sent-229",
+          "id": "sent-154",
           "text": "Parecía condenado a la libertad.",
           "translationRu": "Казалось, он обречён на свободу.",
           "original": "He seemed doomed to liberty.",
-          "originalRu": "Он, казалось, был обречён на свободу."
+          "originalRu": "Казалось, он обречён на свободу."
         }
       ]
     },
@@ -1712,102 +1215,60 @@
       "id": "para-026",
       "sentences": [
         {
-          "id": "sent-230",
-          "text": "En la siguiente esquina",
-          "translationRu": "На следующем углу",
-          "original": "At the next corner",
-          "originalRu": "На следующем углу"
+          "id": "sent-155",
+          "text": "En la siguiente esquina se libró de su compañera y echó a correr.",
+          "translationRu": "На следующем углу он избавился от своей спутницы и пустился бежать.",
+          "original": "At the next corner he shook off his companion and ran.",
+          "originalRu": "На следующем углу он стряхнул с себя спутницу и побежал."
         },
         {
-          "id": "sent-231",
-          "text": "se desprendió de su acompañante",
-          "translationRu": "он вырвался от своей спутницы",
-          "original": "he shook off his companion",
-          "originalRu": "он стряхнул с себя спутницу"
+          "id": "sent-156",
+          "text": "Se detuvo en el barrio donde de noche se hallan las calles, los corazones, los votos y los libretos más ligeros.",
+          "translationRu": "Он остановился в квартале, где ночью найдёшь самые светлые улицы, самые лёгкие сердца, клятвы и оперные либретто.",
+          "original": "He halted in the district where by night are found the lightest streets, hearts, vows and librettos.",
+          "originalRu": "Он остановился в квартале, где ночью встречаются самые светлые улицы, сердца, клятвы и либретто."
         },
         {
-          "id": "sent-232",
-          "text": "y echó a correr.",
-          "translationRu": "и побежал.",
-          "original": "and ran.",
-          "originalRu": "и бросился бежать."
+          "id": "sent-157",
+          "text": "Mujeres con pieles y hombres con abrigos se movían alegres en el aire invernal.",
+          "translationRu": "Женщины в мехах и мужчины в шубах весело двигались в зимнем воздухе.",
+          "original": "Women in furs and men in greatcoats moved gaily in the wintry air.",
+          "originalRu": "Женщины в мехах и мужчины в тёплых пальто весело двигались в зимнем воздухе."
         },
         {
-          "id": "sent-233",
-          "text": "Se detuvo en el barrio",
-          "translationRu": "Он остановился в квартале,",
-          "original": "He halted in the district",
-          "originalRu": "Он остановился в том квартале,"
-        },
-        {
-          "id": "sent-234",
-          "text": "donde por las noches se encuentran las calles más alegres,",
-          "translationRu": "где по ночам гуляли самые нарядные улицы:",
-          "original": "where by night are found the lightest streets, hearts, vows and librettos.",
-          "originalRu": "где по ночам всего ярче огни улиц и всего легкомысленнее сердца, обеты и либретто."
-        },
-        {
-          "id": "sent-235",
-          "text": "con mujeres en pieles y hombres en abrigos largos",
-          "translationRu": "женщины в мехах и мужчины в длинных пальто",
-          "original": "Women in furs and men in greatcoats",
-          "originalRu": "Женщины в мехах и мужчины в зимних пальто"
-        },
-        {
-          "id": "sent-236",
-          "text": "que caminaban contentos por el aire invernal.",
-          "translationRu": "весело шагали по зимнему воздуху.",
-          "original": "moved gaily in the wintry air.",
-          "originalRu": "весело двигались в морозном воздухе."
-        },
-        {
-          "id": "sent-237",
-          "text": "Un miedo repentino se apoderó de Soapy:",
-          "translationRu": "Внезапный страх охватил Сопи:",
+          "id": "sent-158",
+          "text": "De pronto un miedo se apoderó de Soapy:",
+          "translationRu": "Вдруг Соупи охватил страх:",
           "original": "A sudden fear seized Soapy",
-          "originalRu": "Внезапный страх охватил Сопи,"
+          "originalRu": "Внезапный страх охватил Соупи:"
         },
         {
-          "id": "sent-238",
-          "text": "quizás algún hechizo terrible",
-          "translationRu": "быть может, какое-то ужасное заклятие",
-          "original": "that some dreadful enchantment",
-          "originalRu": "что некие ужасные чары"
+          "id": "sent-159",
+          "text": "quizá algún terrible encantamiento lo había vuelto inmune al arresto.",
+          "translationRu": "быть может, какие-то ужасные чары сделали его неуязвимым для ареста.",
+          "original": "that some dreadful enchantment had rendered him immune to arrest.",
+          "originalRu": "что какое-то ужасное колдовство сделало его неуязвимым для ареста."
         },
         {
-          "id": "sent-239",
-          "text": "lo hacía inmune al arresto.",
-          "translationRu": "делало его неуязвимым для ареста.",
-          "original": "had rendered him immune to arrest.",
-          "originalRu": "сделали его неуязвимым для ареста."
-        },
-        {
-          "id": "sent-240",
-          "text": "Ese pensamiento lo llenó de pánico,",
-          "translationRu": "Эта мысль нагнала на него панику,",
+          "id": "sent-160",
+          "text": "La idea le produjo algo parecido al pánico,",
+          "translationRu": "Эта мысль повергла его почти в панику,",
           "original": "The thought brought a little of panic upon it,",
-          "originalRu": "Эта мысль повергла его в лёгкую панику,"
+          "originalRu": "Мысль эта нагнала на него лёгкую панику,"
         },
         {
-          "id": "sent-241",
-          "text": "y cuando vio a otro policía",
-          "translationRu": "и когда он увидел другого полицейского,",
-          "original": "and when he came upon another policeman",
-          "originalRu": "и, когда он наткнулся на ещё одного полицейского,"
+          "id": "sent-161",
+          "text": "y cuando se topó con otro policía que holgazaneaba con aire de grandeza ante un teatro resplandeciente,",
+          "translationRu": "и когда он наткнулся на ещё одного полицейского, важно бездельничавшего перед сияющим театром,",
+          "original": "and when he came upon another policeman lounging grandly in front of a transplendent theatre",
+          "originalRu": "и когда он набрёл на другого полицейского, величественно слонявшегося перед блистательным театром,"
         },
         {
-          "id": "sent-242",
-          "text": "que descansaba con aire majestuoso frente a un teatro brillante,",
-          "translationRu": "величественно отдыхавшего перед сверкающим театром,",
-          "original": "lounging grandly in front of a transplendent theatre",
-          "originalRu": "величественно прохаживавшегося перед сияющим театром,"
-        },
-        {
-          "id": "sent-243",
-          "text": "se aferró a la idea inmediata de «conducta desordenada».",
-          "translationRu": "он ухватился за немедленную идею «буйного поведения».",
+          "id": "sent-162",
+          "text": "se aferró a la tabla salvadora más a mano: la «conducta escandalosa».",
+          "translationRu": "он ухватился за ближайшую спасительную соломинку — «нарушение общественного порядка».",
           "original": "he caught at the immediate straw of 'disorderly conduct.'",
-          "originalRu": "он ухватился за подвернувшуюся соломинку — «нарушение общественного порядка»."
+          "originalRu": "он ухватился за ближайшую соломинку — «нарушение общественного порядка»."
         }
       ]
     },
@@ -1815,53 +1276,32 @@
       "id": "para-027",
       "sentences": [
         {
-          "id": "sent-244",
-          "text": "En la acera",
-          "translationRu": "На тротуаре",
-          "original": "On the sidewalk",
-          "originalRu": "Прямо на тротуаре"
+          "id": "sent-163",
+          "text": "En la acera, Soapy empezó a gritar tonterías de borracho",
+          "translationRu": "На тротуаре Соупи принялся выкрикивать пьяную бессмыслицу",
+          "original": "On the sidewalk Soapy began to yell drunken gibberish",
+          "originalRu": "На тротуаре Соупи принялся орать пьяную бессмыслицу"
         },
         {
-          "id": "sent-245",
-          "text": "Soapy empezó a gritar tonterías",
-          "translationRu": "Сопи начал орать бессвязную чушь",
-          "original": "Soapy began to yell drunken gibberish",
-          "originalRu": "Сопи принялся горланить пьяную тарабарщину"
-        },
-        {
-          "id": "sent-246",
-          "text": "con voz ronca y a todo pulmón.",
-          "translationRu": "хриплым голосом во всё горло.",
+          "id": "sent-164",
+          "text": "con toda la fuerza de su voz ronca.",
+          "translationRu": "во весь свой хриплый голос.",
           "original": "at the top of his harsh voice.",
-          "originalRu": "во всю мощь своего хриплого голоса."
+          "originalRu": "во всю мощь своего резкого голоса."
         },
         {
-          "id": "sent-247",
-          "text": "Bailó,",
-          "translationRu": "Он плясал,",
-          "original": "He danced,",
-          "originalRu": "Он плясал,"
+          "id": "sent-165",
+          "text": "Bailó, aulló, deliró",
+          "translationRu": "Он плясал, выл, бредил",
+          "original": "He danced, howled, raved",
+          "originalRu": "Он плясал, выл, бесновался"
         },
         {
-          "id": "sent-248",
-          "text": "aulló,",
-          "translationRu": "выл,",
-          "original": "howled,",
-          "originalRu": "выл,"
-        },
-        {
-          "id": "sent-249",
-          "text": "gritó",
-          "translationRu": "кричал",
-          "original": "raved",
-          "originalRu": "бесновался"
-        },
-        {
-          "id": "sent-250",
-          "text": "y perturbó todo cuanto pudo el orden público.",
-          "translationRu": "и нарушал общественный порядок как только мог.",
+          "id": "sent-166",
+          "text": "y molestó de todas las maneras posibles al cielo mismo.",
+          "translationRu": "и всячески беспокоил само небо.",
           "original": "and otherwise disturbed the welkin.",
-          "originalRu": "и всячески сотрясал небесный свод."
+          "originalRu": "и всячески тревожил сам небосвод."
         }
       ]
     },
@@ -1869,25 +1309,25 @@
       "id": "para-028",
       "sentences": [
         {
-          "id": "sent-251",
-          "text": "El policía giró su porra,",
-          "translationRu": "Полицейский покрутил дубинку,",
+          "id": "sent-167",
+          "text": "El policía hizo girar su porra,",
+          "translationRu": "Полицейский покрутил свою дубинку,",
           "original": "The policeman twirled his club,",
-          "originalRu": "Полицейский повертел дубинкой,"
+          "originalRu": "Полицейский покрутил свою дубинку,"
         },
         {
-          "id": "sent-252",
-          "text": "dio la espalda a Soapy",
-          "translationRu": "повернулся спиной к Сопи",
+          "id": "sent-168",
+          "text": "le dio la espalda a Soapy",
+          "translationRu": "повернулся к Соупи спиной",
           "original": "turned his back to Soapy",
-          "originalRu": "повернулся к Сопи спиной"
+          "originalRu": "повернулся к Соупи спиной"
         },
         {
-          "id": "sent-253",
-          "text": "y le dijo a un ciudadano:",
-          "translationRu": "и сказал гражданину:",
+          "id": "sent-169",
+          "text": "y le comentó a un ciudadano:",
+          "translationRu": "и заметил какому-то прохожему:",
           "original": "and remarked to a citizen.",
-          "originalRu": "и заметил какому-то прохожему:"
+          "originalRu": "и заметил одному прохожему."
         }
       ]
     },
@@ -1895,37 +1335,32 @@
       "id": "para-029",
       "sentences": [
         {
-          "id": "sent-254",
-          "text": "— Es uno de esos estudiantes de Yale",
-          "translationRu": "— Это один из йельских студентов,",
+          "id": "sent-170",
+          "text": "—Es uno de esos muchachos de Yale",
+          "translationRu": "— Это один из тех йельских ребят,",
           "original": "'Tis one of them Yale lads",
-          "originalRu": "— Это один из тех молодчиков из Йеля,"
+          "originalRu": "— Это один из тех йельских молодцов,"
         },
         {
-          "id": "sent-255",
-          "text": "que celebran la victoria sobre Hartford College",
-          "translationRu": "которые отмечают победу над Хартфордским колледжем,",
+          "id": "sent-171",
+          "text": "que celebran el cero a cero que le metieron al Hartford College.",
+          "translationRu": "что празднуют разгром, который они устроили Хартфордскому колледжу.",
           "original": "celebratin' the goose egg they give to the Hartford College.",
-          "originalRu": "празднует, что они всухую разделали Хартфордский колледж."
+          "originalRu": "празднуют тот сухой счёт, что они влепили Хартфордскому колледжу."
         },
         {
-          "id": "sent-256",
-          "text": "— dijo.",
-          "translationRu": "— сказал он."
-        },
-        {
-          "id": "sent-257",
-          "text": "Ruidoso, pero sin peligro.",
-          "translationRu": "Шумный, но не опасный.",
+          "id": "sent-172",
+          "text": "Ruidoso, pero no hace daño.",
+          "translationRu": "Шумный, но безобидный.",
           "original": "Noisy; but no harm.",
-          "originalRu": "Шумят; да вреда нет."
+          "originalRu": "Шумный, но безвредный."
         },
         {
-          "id": "sent-258",
-          "text": "Tenemos instrucciones de dejarlos tranquilos.",
-          "translationRu": "У нас приказ их не трогать.",
+          "id": "sent-173",
+          "text": "Tenemos órdenes de dejarlos en paz.",
+          "translationRu": "У нас приказ таких не трогать.",
           "original": "We've instructions to lave them be.",
-          "originalRu": "Нам велено их не трогать."
+          "originalRu": "Нам велено оставлять их в покое."
         }
       ]
     },
@@ -1933,53 +1368,32 @@
       "id": "para-030",
       "sentences": [
         {
-          "id": "sent-259",
-          "text": "Soapy, desconsolado,",
-          "translationRu": "Сопи, убитый горем,",
-          "original": "Disconsolate, Soapy",
-          "originalRu": "Безутешный Сопи"
+          "id": "sent-174",
+          "text": "Desconsolado, Soapy dejó su alboroto inútil.",
+          "translationRu": "Огорчённый, Соупи прекратил свой бесполезный шум.",
+          "original": "Disconsolate, Soapy ceased his unavailing racket.",
+          "originalRu": "Безутешный, Соупи прекратил свой напрасный гвалт."
         },
         {
-          "id": "sent-260",
-          "text": "dejó de gritar.",
-          "translationRu": "прекратил вопить.",
-          "original": "ceased his unavailing racket.",
-          "originalRu": "прекратил свой бесполезный гвалт."
-        },
-        {
-          "id": "sent-261",
-          "text": "¿Acaso ningún policía lo iba a detener jamás?",
-          "translationRu": "Неужели ни один полицейский никогда его не арестует?",
+          "id": "sent-175",
+          "text": "¿Es que nunca un policía iba a ponerle la mano encima?",
+          "translationRu": "Неужели ни один полицейский так и не тронет его?",
           "original": "Would never a policeman lay hands on him?",
-          "originalRu": "Неужели ни один полицейский так и не наложит на него руки?"
+          "originalRu": "Неужели ни один полицейский не наложит на него руки?"
         },
         {
-          "id": "sent-262",
-          "text": "En su imaginación,",
-          "translationRu": "В воображении",
-          "original": "In his fancy",
-          "originalRu": "В его воображении"
+          "id": "sent-176",
+          "text": "En su imaginación, la Isla parecía una Arcadia inalcanzable.",
+          "translationRu": "В его воображении Остров казался недосягаемой Аркадией.",
+          "original": "In his fancy the Island seemed an unattainable Arcadia.",
+          "originalRu": "В его воображении Остров казался недостижимой Аркадией."
         },
         {
-          "id": "sent-263",
-          "text": "la Isla parecía una tierra inalcanzable.",
-          "translationRu": "Остров казался недостижимой землёй.",
-          "original": "the Island seemed an unattainable Arcadia.",
-          "originalRu": "Остров казался недостижимой Аркадией."
-        },
-        {
-          "id": "sent-264",
-          "text": "Se abotonó el delgado abrigo",
-          "translationRu": "Он застегнул тонкое пальто на все пуговицы",
-          "original": "He buttoned his thin coat",
-          "originalRu": "Он застегнул своё тонкое пальто"
-        },
-        {
-          "id": "sent-265",
-          "text": "contra el viento helado.",
-          "translationRu": "против ледяного ветра.",
-          "original": "against the chilling wind.",
-          "originalRu": "от пронизывающего ветра."
+          "id": "sent-177",
+          "text": "Se abrochó el fino abrigo contra el viento frío.",
+          "translationRu": "Он застегнул тонкое пальто, защищаясь от студёного ветра.",
+          "original": "He buttoned his thin coat against the chilling wind.",
+          "originalRu": "Он застегнул тонкое пальто против пронизывающего ветра."
         }
       ]
     },
@@ -1987,67 +1401,46 @@
       "id": "para-031",
       "sentences": [
         {
-          "id": "sent-266",
-          "text": "En una tienda de puros",
-          "translationRu": "В табачной лавке",
-          "original": "In a cigar store",
-          "originalRu": "В табачной лавке"
+          "id": "sent-178",
+          "text": "En un estanco vio a un hombre bien vestido",
+          "translationRu": "В табачной лавке он увидел хорошо одетого человека,",
+          "original": "In a cigar store he saw a well-dressed man",
+          "originalRu": "В табачной лавке он увидел хорошо одетого человека,"
         },
         {
-          "id": "sent-267",
-          "text": "vio a un hombre bien vestido",
-          "translationRu": "он увидел хорошо одетого мужчину,",
-          "original": "he saw a well-dressed man",
-          "originalRu": "он увидел хорошо одетого человека,"
-        },
-        {
-          "id": "sent-268",
-          "text": "que encendía un puro en una llama.",
-          "translationRu": "прикуривавшего сигару от огня.",
+          "id": "sent-179",
+          "text": "que encendía un cigarro en una llama colgante.",
+          "translationRu": "который прикуривал сигару от висящего огонька.",
           "original": "lighting a cigar at a swinging light.",
-          "originalRu": "прикуривавшего сигару от висячей горелки."
+          "originalRu": "прикуривавшего сигару от подвесного огонька."
         },
         {
-          "id": "sent-269",
-          "text": "El hombre había dejado su paraguas de seda apoyado en la puerta al entrar.",
-          "translationRu": "Войдя, тот оставил свой шёлковый зонт у двери.",
+          "id": "sent-180",
+          "text": "Al entrar, había dejado su paraguas de seda junto a la puerta.",
+          "translationRu": "Войдя, он оставил свой шёлковый зонт у двери.",
           "original": "His silk umbrella he had set by the door on entering.",
-          "originalRu": "Свой шёлковый зонт он, входя, поставил у двери."
+          "originalRu": "Свой шёлковый зонт он поставил у двери, когда вошёл."
         },
         {
-          "id": "sent-270",
-          "text": "Soapy entró,",
-          "translationRu": "Сопи вошёл,",
-          "original": "Soapy stepped inside,",
-          "originalRu": "Сопи шагнул внутрь,"
+          "id": "sent-181",
+          "text": "Soapy entró, cogió el paraguas",
+          "translationRu": "Соупи вошёл, взял зонт",
+          "original": "Soapy stepped inside, secured the umbrella",
+          "originalRu": "Соупи вошёл, завладел зонтом"
         },
         {
-          "id": "sent-271",
-          "text": "tomó el paraguas",
-          "translationRu": "взял зонт",
-          "original": "secured the umbrella",
-          "originalRu": "завладел зонтом"
-        },
-        {
-          "id": "sent-272",
-          "text": "y se fue caminando despacio con él.",
-          "translationRu": "и медленно ушёл с ним.",
+          "id": "sent-182",
+          "text": "y se alejó despacio con él.",
+          "translationRu": "и не спеша удалился с ним.",
           "original": "and sauntered off with it slowly.",
-          "originalRu": "и неторопливо удалился с ним."
+          "originalRu": "и медленно пошёл прочь с ним."
         },
         {
-          "id": "sent-273",
-          "text": "El hombre del puro",
-          "translationRu": "Мужчина с сигарой",
-          "original": "The man at the cigar light",
-          "originalRu": "Человек, прикуривавший сигару,"
-        },
-        {
-          "id": "sent-274",
-          "text": "lo siguió rápidamente.",
-          "translationRu": "поспешил за ним.",
-          "original": "followed hastily.",
-          "originalRu": "поспешно бросился следом."
+          "id": "sent-183",
+          "text": "El hombre de la llama lo siguió apresuradamente.",
+          "translationRu": "Человек у огонька поспешно бросился за ним.",
+          "original": "The man at the cigar light followed hastily.",
+          "originalRu": "Человек у сигарного огонька поспешно последовал за ним."
         }
       ]
     },
@@ -2055,18 +1448,11 @@
       "id": "para-032",
       "sentences": [
         {
-          "id": "sent-275",
-          "text": "— Mi paraguas",
-          "translationRu": "— Мой зонт,",
-          "original": "'My umbrella,'",
-          "originalRu": "— Мой зонт, —"
-        },
-        {
-          "id": "sent-276",
-          "text": "— dijo el hombre con firmeza.",
-          "translationRu": "— строго сказал мужчина.",
-          "original": "he said, sternly.",
-          "originalRu": "сказал он сурово."
+          "id": "sent-184",
+          "text": "—Mi paraguas —dijo con severidad.",
+          "translationRu": "— Мой зонт, — сказал он сурово.",
+          "original": "'My umbrella,' he said, sternly.",
+          "originalRu": "— Мой зонт, — сказал он сурово."
         }
       ]
     },
@@ -2074,58 +1460,51 @@
       "id": "para-033",
       "sentences": [
         {
-          "id": "sent-277",
-          "text": "— ¿Ah, sí?",
-          "translationRu": "— Ах вот как?",
-          "original": "'Oh, is it?'",
-          "originalRu": "— Ах, вот как? —"
+          "id": "sent-185",
+          "text": "—¿Ah, sí? —se burló Soapy,",
+          "translationRu": "— Ах, вот как? — усмехнулся Соупи,",
+          "original": "'Oh, is it?' sneered Soapy,",
+          "originalRu": "— Ах, вот как? — ухмыльнулся Соупи,"
         },
         {
-          "id": "sent-278",
-          "text": "— respondió Soapy con descaro,",
-          "translationRu": "— с наглостью ответил Сопи,",
-          "original": "sneered Soapy,",
-          "originalRu": "усмехнулся Сопи,"
-        },
-        {
-          "id": "sent-279",
-          "text": "añadiendo insulto al pequeño robo.",
-          "translationRu": "добавив оскорбление к мелкой краже.",
+          "id": "sent-186",
+          "text": "añadiendo el insulto al pequeño hurto.",
+          "translationRu": "прибавляя к мелкой краже ещё и оскорбление.",
           "original": "adding insult to petit larceny.",
-          "originalRu": "прибавляя оскорбление к мелкой краже."
+          "originalRu": "прибавляя к мелкой краже оскорбление."
         },
         {
-          "id": "sent-280",
-          "text": "— Pues ¿por qué no llama a un policía?",
-          "translationRu": "— Так почему же не вызвать полицейского?",
+          "id": "sent-187",
+          "text": "—Bueno, ¿por qué no llama a un policía?",
+          "translationRu": "— Так что же вы не позовёте полицейского?",
           "original": "'Well, why don't you call a policeman?",
-          "originalRu": "— Что ж, отчего бы вам не позвать полицейского?"
+          "originalRu": "— Что же, почему бы вам не позвать полицейского?"
         },
         {
-          "id": "sent-281",
-          "text": "Yo lo tomé.",
+          "id": "sent-188",
+          "text": "Lo cogí yo.",
           "translationRu": "Я его взял.",
           "original": "I took it.",
           "originalRu": "Я его взял."
         },
         {
-          "id": "sent-282",
-          "text": "Su paraguas.",
-          "translationRu": "Ваш зонт.",
+          "id": "sent-189",
+          "text": "¡Su paraguas!",
+          "translationRu": "Ваш зонт!",
           "original": "Your umbrella!",
           "originalRu": "Ваш зонт!"
         },
         {
-          "id": "sent-283",
-          "text": "¿Por qué no llama a un agente?",
-          "translationRu": "Почему не позовёте агента?",
+          "id": "sent-190",
+          "text": "¿Por qué no llama a un guardia?",
+          "translationRu": "Почему бы вам не позвать фараона?",
           "original": "Why don't you call a cop?",
-          "originalRu": "Отчего бы вам не кликнуть фараона?"
+          "originalRu": "Почему бы вам не позвать полисмена?"
         },
         {
-          "id": "sent-284",
-          "text": "Hay uno en la esquina.",
-          "translationRu": "Вон он на углу.",
+          "id": "sent-191",
+          "text": "Hay uno ahí, en la esquina.",
+          "translationRu": "Вон один стоит на углу.",
           "original": "There stands one on the corner.'",
           "originalRu": "Вон один стоит на углу."
         }
@@ -2135,46 +1514,32 @@
       "id": "para-034",
       "sentences": [
         {
-          "id": "sent-285",
-          "text": "El dueño del paraguas",
-          "translationRu": "Владелец зонта",
-          "original": "The umbrella owner",
-          "originalRu": "Владелец зонта"
+          "id": "sent-192",
+          "text": "El dueño del paraguas aminoró el paso.",
+          "translationRu": "Владелец зонта замедлил шаг.",
+          "original": "The umbrella owner slowed his steps.",
+          "originalRu": "Владелец зонта замедлил шаг."
         },
         {
-          "id": "sent-286",
-          "text": "fue ralentizando el paso.",
-          "translationRu": "стал замедлять шаг.",
-          "original": "slowed his steps.",
-          "originalRu": "замедлил шаг."
-        },
-        {
-          "id": "sent-287",
-          "text": "Soapy también lo hizo,",
-          "translationRu": "Сопи тоже замедлился —",
+          "id": "sent-193",
+          "text": "Soapy hizo lo mismo,",
+          "translationRu": "Соупи сделал то же самое,",
           "original": "Soapy did likewise,",
-          "originalRu": "Сопи сделал то же самое,"
+          "originalRu": "Соупи сделал то же самое,"
         },
         {
-          "id": "sent-288",
-          "text": "con el presentimiento",
-          "translationRu": "с предчувствием,",
-          "original": "with a presentiment",
-          "originalRu": "с предчувствием,"
+          "id": "sent-194",
+          "text": "con el presentimiento de que la suerte volvería a irle en contra.",
+          "translationRu": "с предчувствием, что удача снова обернётся против него.",
+          "original": "with a presentiment that luck would again run against him.",
+          "originalRu": "с предчувствием, что удача опять обернётся против него."
         },
         {
-          "id": "sent-289",
-          "text": "de que la suerte iba a jugarle en contra de nuevo.",
-          "translationRu": "что удача снова обернётся против него.",
-          "original": "that luck would again run against him.",
-          "originalRu": "что удача снова от него отвернётся."
-        },
-        {
-          "id": "sent-290",
+          "id": "sent-195",
           "text": "El policía miró a los dos con curiosidad.",
-          "translationRu": "Полицейский с любопытством посмотрел на обоих.",
+          "translationRu": "Полицейский с любопытством взглянул на обоих.",
           "original": "The policeman looked at the two curiously.",
-          "originalRu": "Полицейский с любопытством оглядел этих двоих."
+          "originalRu": "Полицейский с любопытством посмотрел на обоих."
         }
       ]
     },
@@ -2182,67 +1547,39 @@
       "id": "para-035",
       "sentences": [
         {
-          "id": "sent-291",
-          "text": "— Claro",
-          "translationRu": "— Конечно,",
-          "original": "'Of course,'",
-          "originalRu": "— Разумеется, —"
+          "id": "sent-196",
+          "text": "—Por supuesto —dijo el hombre del paraguas—,",
+          "translationRu": "— Разумеется, — сказал человек с зонтом, —",
+          "original": "'Of course,' said the umbrella man—",
+          "originalRu": "— Разумеется, — сказал человек с зонтом, —"
         },
         {
-          "id": "sent-292",
-          "text": "— dijo el hombre del paraguas —,",
-          "translationRu": "— сказал хозяин зонта, —",
-          "original": "said the umbrella",
-          "originalRu": "сказал владелец зонта, —"
+          "id": "sent-197",
+          "text": "es decir, bueno, ya sabe cómo ocurren estos errores,",
+          "translationRu": "то есть, ну, вы же знаете, как случаются такие ошибки,",
+          "original": "'that is—well, you know how these mistakes occur—",
+          "originalRu": "то есть — ну, вы же знаете, как случаются подобные недоразумения, —"
         },
         {
-          "id": "sent-293",
-          "text": "esto es...",
-          "translationRu": "это...",
-          "original": "man—'that is—well,",
-          "originalRu": "то есть… ну,"
+          "id": "sent-198",
+          "text": "yo, si es su paraguas, espero que me disculpe,",
+          "translationRu": "я… если это ваш зонт, надеюсь, вы меня извините,",
+          "original": "I—if it's your umbrella I hope you'll excuse me—",
+          "originalRu": "я… если это ваш зонт, надеюсь, вы меня извините, —"
         },
         {
-          "id": "sent-294",
-          "text": "bueno, usted sabe cómo ocurren estos malentendidos...",
-          "translationRu": "ну, вы знаете, как бывают недоразумения...",
-          "original": "you know how these mistakes occur—I—if",
-          "originalRu": "вы же знаете, как случаются такие недоразумения… я… если"
+          "id": "sent-199",
+          "text": "lo cogí esta mañana en un restaurante,",
+          "translationRu": "я взял его сегодня утром в ресторане, —",
+          "original": "I picked it up this morning in a restaurant—",
+          "originalRu": "я подобрал его сегодня утром в ресторане, —"
         },
         {
-          "id": "sent-295",
-          "text": "si es su paraguas,",
-          "translationRu": "если это ваш зонт,",
-          "original": "it's your umbrella",
-          "originalRu": "это ваш зонт,"
-        },
-        {
-          "id": "sent-296",
-          "text": "espero que me disculpe.",
-          "translationRu": "надеюсь, вы меня простите.",
-          "original": "I hope you'll excuse me—I",
-          "originalRu": "надеюсь, вы меня извините… я"
-        },
-        {
-          "id": "sent-297",
-          "text": "Lo recogí esta mañana en un restaurante.",
-          "translationRu": "Я подобрал его сегодня утром в ресторане.",
-          "original": "picked it up this morning in a restaurant—If",
-          "originalRu": "подобрал его сегодня утром в ресторане… Если"
-        },
-        {
-          "id": "sent-298",
-          "text": "Si usted lo reconoce como suyo, pues...",
-          "translationRu": "Если вы его узнаёте как свой, то...",
-          "original": "you recognise it as yours, why—I",
-          "originalRu": "вы признаёте его своим, что ж… я"
-        },
-        {
-          "id": "sent-299",
-          "text": "espero que...",
-          "translationRu": "надеюсь, что...",
-          "original": "hope you'll—'",
-          "originalRu": "надеюсь, вы…"
+          "id": "sent-200",
+          "text": "si lo reconoce como suyo, pues, espero que usted...",
+          "translationRu": "если вы признаёте его своим, что ж, надеюсь, вы…",
+          "original": "If you recognise it as yours, why—I hope you'll—'",
+          "originalRu": "если вы признаёте его своим, что ж, надеюсь, вы…"
         }
       ]
     },
@@ -2250,18 +1587,11 @@
       "id": "para-036",
       "sentences": [
         {
-          "id": "sent-300",
-          "text": "— Por supuesto que es mío",
-          "translationRu": "— Конечно, он мой,",
-          "original": "'Of course it's mine,'",
-          "originalRu": "— Разумеется, он мой, —"
-        },
-        {
-          "id": "sent-301",
-          "text": "— dijo Soapy con rabia.",
-          "translationRu": "— сказал Сопи с злобой.",
-          "original": "said Soapy, viciously.",
-          "originalRu": "злобно сказал Сопи."
+          "id": "sent-201",
+          "text": "—Claro que es mío —dijo Soapy con rabia.",
+          "translationRu": "— Конечно, он мой, — злобно сказал Соупи.",
+          "original": "'Of course it's mine,' said Soapy, viciously.",
+          "originalRu": "— Конечно, он мой, — злобно сказал Соупи."
         }
       ]
     },
@@ -2269,46 +1599,32 @@
       "id": "para-037",
       "sentences": [
         {
-          "id": "sent-302",
+          "id": "sent-202",
           "text": "El ex dueño del paraguas se retiró.",
-          "translationRu": "Бывший владелец зонта удалился.",
+          "translationRu": "Бывший владелец зонта отступил.",
           "original": "The ex-umbrella man retreated.",
           "originalRu": "Бывший владелец зонта ретировался."
         },
         {
-          "id": "sent-303",
-          "text": "El policía se apresuró a ayudar",
-          "translationRu": "Полицейский поспешил помочь",
-          "original": "The policeman hurried to assist",
-          "originalRu": "Полицейский кинулся помогать"
+          "id": "sent-203",
+          "text": "El policía se apresuró a ayudar a una rubia alta con capa de ópera",
+          "translationRu": "Полицейский поспешил помочь высокой блондинке в оперной накидке",
+          "original": "The policeman hurried to assist a tall blonde in an opera cloak",
+          "originalRu": "Полицейский поспешил помочь высокой блондинке в оперной накидке"
         },
         {
-          "id": "sent-304",
-          "text": "a una alta mujer rubia con capa de ópera",
-          "translationRu": "высокой светловолосой женщине в оперной накидке",
-          "original": "a tall blonde in an opera cloak",
-          "originalRu": "высокой блондинке в оперном плаще"
-        },
-        {
-          "id": "sent-305",
+          "id": "sent-204",
           "text": "a cruzar la calle",
           "translationRu": "перейти улицу",
           "original": "across the street",
-          "originalRu": "перейти улицу"
+          "originalRu": "перейти через улицу"
         },
         {
-          "id": "sent-306",
-          "text": "frente a un tranvía",
-          "translationRu": "перед трамваем,",
-          "original": "in front of a street car",
-          "originalRu": "перед трамваем,"
-        },
-        {
-          "id": "sent-307",
-          "text": "que se acercaba desde dos manzanas.",
-          "translationRu": "приближавшимся за два квартала.",
-          "original": "that was approaching two blocks away.",
-          "originalRu": "приближавшимся за два квартала."
+          "id": "sent-205",
+          "text": "por delante de un tranvía que se acercaba a dos manzanas de distancia.",
+          "translationRu": "перед трамваем, приближавшимся за два квартала.",
+          "original": "in front of a street car that was approaching two blocks away.",
+          "originalRu": "перед трамваем, что подходил за два квартала."
         }
       ]
     },
@@ -2316,67 +1632,39 @@
       "id": "para-038",
       "sentences": [
         {
-          "id": "sent-308",
-          "text": "Soapy caminó hacia el este",
-          "translationRu": "Сопи пошёл на восток",
-          "original": "Soapy walked eastward",
-          "originalRu": "Сопи побрёл на восток"
+          "id": "sent-206",
+          "text": "Soapy caminó hacia el este por una calle destrozada por unas obras.",
+          "translationRu": "Соупи пошёл на восток по улице, разрытой ремонтными работами.",
+          "original": "Soapy walked eastward through a street damaged by improvements.",
+          "originalRu": "Соупи пошёл на восток по улице, изуродованной ремонтом."
         },
         {
-          "id": "sent-309",
-          "text": "por una calle en obras.",
-          "translationRu": "по улице, разрытой ремонтными работами.",
-          "original": "through a street damaged by improvements.",
-          "originalRu": "по улице, развороченной благоустройством."
+          "id": "sent-207",
+          "text": "Arrojó el paraguas con furia a una zanja.",
+          "translationRu": "Он с яростью швырнул зонт в яму.",
+          "original": "He hurled the umbrella wrathfully into an excavation.",
+          "originalRu": "Он гневно швырнул зонт в котлован."
         },
         {
-          "id": "sent-310",
-          "text": "Arrojó el paraguas con rabia",
-          "translationRu": "Он в ярости швырнул зонт",
-          "original": "He hurled the umbrella wrathfully",
-          "originalRu": "Он в ярости швырнул зонт"
+          "id": "sent-208",
+          "text": "Refunfuñó contra los hombres que llevan casco y porra.",
+          "translationRu": "Он бормотал проклятия людям, что носят каски и дубинки.",
+          "original": "He muttered against the men who wear helmets and carry clubs.",
+          "originalRu": "Он ворчал на людей, что носят каски и держат дубинки."
         },
         {
-          "id": "sent-311",
-          "text": "a una excavación.",
-          "translationRu": "в какую-то яму.",
-          "original": "into an excavation.",
-          "originalRu": "в какую-то яму."
-        },
-        {
-          "id": "sent-312",
-          "text": "Murmuró maldiciones",
-          "translationRu": "Он бормотал проклятия",
-          "original": "He muttered against",
-          "originalRu": "Он бормотал проклятия"
-        },
-        {
-          "id": "sent-313",
-          "text": "contra los hombres que llevan casco y porras.",
-          "translationRu": "в адрес людей в форменных шлемах и с дубинками.",
-          "original": "the men who wear helmets and carry clubs.",
-          "originalRu": "людям в шлемах с дубинками."
-        },
-        {
-          "id": "sent-314",
-          "text": "Porque él quería caer en sus manos,",
-          "translationRu": "Потому что именно тогда, когда он хотел попасться им в руки,",
+          "id": "sent-209",
+          "text": "Como él quería caer en sus garras,",
+          "translationRu": "Оттого что он сам хотел попасть к ним в лапы,",
           "original": "Because he wanted to fall into their clutches,",
-          "originalRu": "Оттого, что он жаждал угодить им в лапы,"
+          "originalRu": "Оттого что он желал попасть в их когти,"
         },
         {
-          "id": "sent-315",
-          "text": "ellos lo miraban como si fuera un rey",
-          "translationRu": "они смотрели на него как на короля,",
-          "original": "they seemed to regard him as a king",
-          "originalRu": "они, казалось, видели в нём короля,"
-        },
-        {
-          "id": "sent-316",
-          "text": "que no puede hacer nada malo.",
-          "translationRu": "который не способен ни на что дурное.",
-          "original": "who could do no wrong.",
-          "originalRu": "который не может поступить дурно."
+          "id": "sent-210",
+          "text": "parecían tratarlo como a un rey que no puede hacer nada malo.",
+          "translationRu": "они, казалось, обращались с ним как с королём, который не способен на дурное.",
+          "original": "they seemed to regard him as a king who could do no wrong.",
+          "originalRu": "они, казалось, смотрели на него как на короля, который не может поступить дурно."
         }
       ]
     },
@@ -2384,39 +1672,39 @@
       "id": "para-039",
       "sentences": [
         {
-          "id": "sent-317",
-          "text": "Al final Soapy llegó a una de las avenidas del este,",
-          "translationRu": "Наконец Сопи вышел на одну из восточных авеню,",
+          "id": "sent-211",
+          "text": "Por fin Soapy llegó a una de las avenidas del este,",
+          "translationRu": "Наконец Соупи вышел к одной из восточных авеню,",
           "original": "At length Soapy reached one of the avenues to the east",
-          "originalRu": "Наконец Сопи добрался до одной из улиц на востоке,"
+          "originalRu": "Наконец Соупи добрался до одной из восточных авеню,"
         },
         {
-          "id": "sent-318",
-          "text": "donde el ruido y el brillo eran débiles.",
-          "translationRu": "где шум и блеск были слабее.",
+          "id": "sent-212",
+          "text": "donde el brillo y el bullicio eran ya débiles.",
+          "translationRu": "где блеск и суета были уже слабыми.",
           "original": "where the glitter and turmoil was but faint.",
-          "originalRu": "где блеск и суета были уже совсем слабы."
+          "originalRu": "где блеск и суматоха были едва различимы."
         },
         {
-          "id": "sent-319",
-          "text": "Puso su cara en dirección a Madison Square,",
-          "translationRu": "Он повернулся лицом к Мэдисон-сквер,",
+          "id": "sent-213",
+          "text": "Volvió la cara hacia Madison Square,",
+          "translationRu": "Он повернул лицо в сторону Мэдисон-сквер,",
           "original": "He set his face down this toward Madison Square,",
-          "originalRu": "Он направился по ней к Мэдисон-сквер,"
+          "originalRu": "Он направил свои шаги по ней к Мэдисон-сквер,"
         },
         {
-          "id": "sent-320",
-          "text": "porque el instinto del hogar sobrevive",
-          "translationRu": "потому что инстинкт дома выживает,",
+          "id": "sent-214",
+          "text": "porque el instinto de volver a casa sobrevive",
+          "translationRu": "потому что инстинкт возвращения домой живёт",
           "original": "for the homing instinct survives",
-          "originalRu": "ибо тяга к дому жива"
+          "originalRu": "ибо инстинкт возвращения домой не умирает,"
         },
         {
-          "id": "sent-321",
-          "text": "incluso cuando el hogar es un banco del parque.",
-          "translationRu": "даже когда домом служит парковая скамейка.",
+          "id": "sent-215",
+          "text": "aunque la casa sea un banco del parque.",
+          "translationRu": "даже когда дом — это скамейка в парке.",
           "original": "even when the home is a park bench.",
-          "originalRu": "даже когда домом служит скамейка в парке."
+          "originalRu": "даже когда дом — это парковая скамейка."
         }
       ]
     },
@@ -2424,81 +1712,53 @@
       "id": "para-040",
       "sentences": [
         {
-          "id": "sent-322",
-          "text": "Pero en una esquina especialmente tranquila",
-          "translationRu": "Но на одном особенно тихом углу",
-          "original": "But on an unusually quiet corner",
-          "originalRu": "Но на одном необычайно тихом углу"
+          "id": "sent-216",
+          "text": "Pero en una esquina extrañamente tranquila Soapy se detuvo.",
+          "translationRu": "Но на непривычно тихом углу Соупи остановился.",
+          "original": "But on an unusually quiet corner Soapy came to a standstill.",
+          "originalRu": "Но на необычайно тихом углу Соупи замер."
         },
         {
-          "id": "sent-323",
-          "text": "Soapy se detuvo.",
-          "translationRu": "Сопи остановился.",
-          "original": "Soapy came to a standstill.",
-          "originalRu": "Сопи остановился как вкопанный."
+          "id": "sent-217",
+          "text": "Allí había una iglesia vieja, curiosa, irregular y con gabletes.",
+          "translationRu": "Там стояла старая церковь — причудливая, беспорядочная, с остроконечными кровлями.",
+          "original": "Here was an old church, quaint and rambling and gabled.",
+          "originalRu": "Тут стояла старинная церковь, причудливая, разбросанная и с фронтонами."
         },
         {
-          "id": "sent-324",
-          "text": "Había allí una iglesia vieja,",
-          "translationRu": "Там стояла старая церковь —",
-          "original": "Here was an old church,",
-          "originalRu": "Здесь стояла старая церковь,"
+          "id": "sent-218",
+          "text": "A través de una ventana de cristal violeta brillaba una luz suave,",
+          "translationRu": "Сквозь окно из фиолетового стекла лился мягкий свет,",
+          "original": "Through one violet-stained window a soft light glowed,",
+          "originalRu": "Сквозь окно из фиолетового стекла лился мягкий свет,"
         },
         {
-          "id": "sent-325",
-          "text": "curiosa y con tejados a dos aguas.",
-          "translationRu": "причудливая, с двускатными крышами.",
-          "original": "quaint and rambling and gabled.",
-          "originalRu": "причудливая, беспорядочно раскинувшаяся, с островерхими фронтонами."
+          "id": "sent-219",
+          "text": "donde, sin duda, el organista se demoraba ante las teclas,",
+          "translationRu": "там, без сомнения, органист задержался над клавишами,",
+          "original": "where, no doubt, the organist loitered over the keys,",
+          "originalRu": "где, несомненно, органист медлил над клавишами,"
         },
         {
-          "id": "sent-326",
-          "text": "Por una ventana de vidrio violeta",
-          "translationRu": "Сквозь окно с фиолетовым стеклом",
-          "original": "Through one violet-stained window",
-          "originalRu": "Сквозь одно окно с лиловыми стёклами"
+          "id": "sent-220",
+          "text": "asegurándose de dominar el himno del próximo domingo.",
+          "translationRu": "оттачивая гимн для наступающего воскресенья.",
+          "original": "making sure of his mastery of the coming Sabbath anthem.",
+          "originalRu": "убеждаясь в своём владении хоралом грядущего воскресенья."
         },
         {
-          "id": "sent-327",
-          "text": "brillaba una luz suave,",
-          "translationRu": "мерцал мягкий свет —",
-          "original": "a soft light glowed,",
-          "originalRu": "струился мягкий свет,"
-        },
-        {
-          "id": "sent-328",
-          "text": "donde sin duda el organista",
-          "translationRu": "там, должно быть, органист",
-          "original": "where, no doubt, the organist",
-          "originalRu": "где, без сомнения, органист"
-        },
-        {
-          "id": "sent-329",
-          "text": "practicaba las teclas para el himno del próximo domingo.",
-          "translationRu": "упражнялся перед воскресным гимном.",
-          "original": "loitered over the keys, making sure of his mastery of the coming Sabbath anthem.",
-          "originalRu": "засиделся за клавишами, удостоверяясь, что в совершенстве владеет грядущим воскресным гимном."
-        },
-        {
-          "id": "sent-330",
-          "text": "Porque llegó a los oídos de Soapy una música dulce",
-          "translationRu": "До ушей Сопи донеслась сладкая музыка,",
+          "id": "sent-221",
+          "text": "Pues llegaba a los oídos de Soapy una música dulce",
+          "translationRu": "Ибо до слуха Соупи долетала сладкая музыка,",
           "original": "For there drifted out to Soapy's ears sweet music",
-          "originalRu": "Ибо до слуха Сопи доносилась сладостная музыка,"
+          "originalRu": "Ибо до ушей Соупи доносилась сладостная музыка,"
         },
         {
-          "id": "sent-331",
-          "text": "que lo atrapó",
-          "translationRu": "которая поймала его",
-          "original": "that caught",
-          "originalRu": "которая захватила его"
-        },
-        {
-          "id": "sent-332",
-          "text": "y lo mantuvo inmóvil junto a la verja de hierro.",
-          "translationRu": "и удержала неподвижно у железной ограды.",
-          "original": "and held him transfixed against the convolutions of the iron fence.",
-          "originalRu": "и приковала, недвижного, к завиткам железной ограды."
+          "id": "sent-222",
+          "text": "que lo atrapó y lo dejó inmóvil contra las curvas de la verja de hierro.",
+          "translationRu": "которая захватила его и приковала неподвижным к завиткам железной ограды.",
+          "original": "that caught and held him transfixed against the convolutions of the iron fence.",
+          "originalRu": "которая захватила его и удержала недвижимым у завитков железной решётки."
         }
       ]
     },
@@ -2506,74 +1766,60 @@
       "id": "para-041",
       "sentences": [
         {
-          "id": "sent-333",
-          "text": "La luna brillaba arriba, serena y luminosa;",
-          "translationRu": "Луна сияла вверху — спокойная и яркая;",
+          "id": "sent-223",
+          "text": "La luna estaba en lo alto, luminosa y serena;",
+          "translationRu": "Луна стояла высоко, светлая и спокойная;",
           "original": "The moon was above, lustrous and serene;",
-          "originalRu": "Луна сияла вверху, лучезарная и безмятежная;"
+          "originalRu": "Луна была вверху, лучистая и безмятежная;"
         },
         {
-          "id": "sent-334",
+          "id": "sent-224",
           "text": "había pocos vehículos y peatones;",
-          "translationRu": "прохожих и экипажей было мало;",
+          "translationRu": "экипажей и прохожих было мало;",
           "original": "vehicles and pedestrians were few;",
-          "originalRu": "экипажей и пешеходов было мало;"
+          "originalRu": "экипажей и пешеходов было немного;"
         },
         {
-          "id": "sent-335",
-          "text": "los gorriones piaban soñolientos bajo los aleros.",
-          "translationRu": "воробьи сонно чирикали под карнизами.",
+          "id": "sent-225",
+          "text": "los gorriones piaban con sueño bajo los aleros;",
+          "translationRu": "воробьи сонно чирикали под карнизами;",
           "original": "sparrows twittered sleepily in the eaves—",
-          "originalRu": "под застрехами сонно щебетали воробьи —"
+          "originalRu": "воробьи сонно щебетали под карнизами;"
         },
         {
-          "id": "sent-336",
-          "text": "Por un momento la escena",
-          "translationRu": "На мгновение картина",
-          "original": "for a little while the scene",
-          "originalRu": "на короткий миг это место"
+          "id": "sent-226",
+          "text": "por un momento la escena podría haber sido un cementerio de pueblo.",
+          "translationRu": "на миг всё это могло сойти за деревенское кладбище при церкви.",
+          "original": "for a little while the scene might have been a country churchyard.",
+          "originalRu": "на короткое время вся картина могла показаться сельским церковным двором."
         },
         {
-          "id": "sent-337",
-          "text": "parecía el cementerio de una iglesia rural.",
-          "translationRu": "напоминала кладбище деревенской церкви.",
-          "original": "might have been a country churchyard.",
-          "originalRu": "могло сойти за сельский погост."
+          "id": "sent-227",
+          "text": "Y el himno que tocaba el organista pegó a Soapy a la verja de hierro,",
+          "translationRu": "А хорал, который играл органист, приковал Соупи к железной ограде,",
+          "original": "And the anthem that the organist played cemented Soapy to the iron fence,",
+          "originalRu": "И хорал, который играл органист, словно припаял Соупи к железной решётке,"
         },
         {
-          "id": "sent-338",
-          "text": "Y el himno que tocaba el organista",
-          "translationRu": "И гимн, который играл органист,",
-          "original": "And the anthem that the organist played",
-          "originalRu": "А гимн, который играл органист,"
+          "id": "sent-228",
+          "text": "porque lo había conocido bien en los días",
+          "translationRu": "потому что он хорошо знал его в те дни,",
+          "original": "for he had known it well in the days",
+          "originalRu": "ибо он хорошо знал его в те дни,"
         },
         {
-          "id": "sent-339",
-          "text": "unió a Soapy a la verja de hierro,",
-          "translationRu": "приковал Сопи к железной ограде —",
-          "original": "cemented Soapy to the iron fence,",
-          "originalRu": "приковал Сопи к чугунной ограде,"
+          "id": "sent-229",
+          "text": "en que su vida contenía cosas como madres y rosas y ambiciones",
+          "translationRu": "когда в его жизни были такие вещи, как матери, розы, мечты",
+          "original": "when his life contained such things as mothers and roses and ambitions",
+          "originalRu": "когда жизнь его заключала в себе матерей, и розы, и честолюбивые замыслы,"
         },
         {
-          "id": "sent-340",
-          "text": "porque él lo había conocido bien",
-          "translationRu": "ведь он знал его",
-          "original": "for he had known it well",
-          "originalRu": "ведь он хорошо знал его"
-        },
-        {
-          "id": "sent-341",
-          "text": "en los días en que su vida tenía cosas como",
-          "translationRu": "в те дни, когда в его жизни были такие вещи, как",
-          "original": "in the days when his life contained such things as",
-          "originalRu": "в те дни, когда в его жизни ещё были такие вещи, как"
-        },
-        {
-          "id": "sent-342",
-          "text": "madres, rosas, ambiciones, amigos, pensamientos puros y cuellos limpios.",
-          "translationRu": "матери, розы, надежды, друзья, чистые мысли и чистые воротники.",
-          "original": "mothers and roses and ambitions and friends and immaculate thoughts and collars.",
-          "originalRu": "матери, и розы, и честолюбивые мечты, и друзья, и чистые помыслы, и свежие воротнички."
+          "id": "sent-230",
+          "text": "y amigos y pensamientos puros y cuellos limpios.",
+          "translationRu": "и друзья, и чистые мысли, и белые воротнички.",
+          "original": "and friends and immaculate thoughts and collars.",
+          "originalRu": "и друзей, и незапятнанные помыслы, и свежие воротнички."
         }
       ]
     },
@@ -2581,74 +1827,39 @@
       "id": "para-042",
       "sentences": [
         {
-          "id": "sent-343",
-          "text": "La combinación del estado receptivo de Soapy",
-          "translationRu": "Сочетание восприимчивого состояния Сопи",
-          "original": "The conjunction of Soapy's receptive state of mind",
-          "originalRu": "Сошлись воедино восприимчивое состояние души Сопи"
+          "id": "sent-231",
+          "text": "La unión del estado receptivo de Soapy y de las influencias de la vieja iglesia",
+          "translationRu": "Соединение восприимчивого настроения Соупи и веяний старой церкви",
+          "original": "The conjunction of Soapy's receptive state of mind and the influences about the old church",
+          "originalRu": "Совпадение восприимчивого состояния души Соупи и влияний, окружавших старую церковь,"
         },
         {
-          "id": "sent-344",
-          "text": "y la influencia de la vieja iglesia",
-          "translationRu": "и влияния старой церкви",
-          "original": "and the influences about the old church",
-          "originalRu": "и то, что веяло от старой церкви,"
-        },
-        {
-          "id": "sent-345",
+          "id": "sent-232",
           "text": "produjo un cambio repentino y maravilloso en su alma.",
-          "translationRu": "произвело внезапную и удивительную перемену в его душе.",
+          "translationRu": "произвело внезапную и чудесную перемену в его душе.",
           "original": "wrought a sudden and wonderful change in his soul.",
-          "originalRu": "и произвели в его душе внезапную и чудесную перемену."
+          "originalRu": "произвело внезапную и дивную перемену в его душе."
         },
         {
-          "id": "sent-346",
-          "text": "Miró con horror",
-          "translationRu": "Он с ужасом взглянул на",
+          "id": "sent-233",
+          "text": "Vio con rápido horror el pozo en el que había caído:",
+          "translationRu": "Он с мгновенным ужасом увидел яму, в которую упал:",
           "original": "He viewed with swift horror the pit into which he had tumbled,",
-          "originalRu": "С быстрым ужасом он окинул взглядом ту яму, в которую скатился,"
+          "originalRu": "Он с быстрым ужасом обозрел пропасть, в которую свалился,"
         },
         {
-          "id": "sent-347",
-          "text": "los días degradados,",
-          "translationRu": "унылые дни,",
-          "original": "the degraded days,",
-          "originalRu": "опустившиеся дни,"
+          "id": "sent-234",
+          "text": "los días degradados, los deseos indignos, las esperanzas muertas,",
+          "translationRu": "унизительные дни, недостойные желания, мёртвые надежды,",
+          "original": "the degraded days, unworthy desires, dead hopes,",
+          "originalRu": "опустившиеся дни, недостойные желания, погибшие надежды,"
         },
         {
-          "id": "sent-348",
-          "text": "los deseos indignos,",
-          "translationRu": "недостойные желания,",
-          "original": "unworthy desires,",
-          "originalRu": "недостойные желания,"
-        },
-        {
-          "id": "sent-349",
-          "text": "las esperanzas muertas,",
-          "translationRu": "мёртвые надежды,",
-          "original": "dead hopes,",
-          "originalRu": "умершие надежды,"
-        },
-        {
-          "id": "sent-350",
-          "text": "las capacidades arruinadas",
-          "translationRu": "погубленные способности",
-          "original": "wrecked faculties",
-          "originalRu": "загубленные способности"
-        },
-        {
-          "id": "sent-351",
-          "text": "y los motivos bajos",
-          "translationRu": "и низкие побуждения,",
-          "original": "and base motives",
-          "originalRu": "и низменные побуждения,"
-        },
-        {
-          "id": "sent-352",
-          "text": "que formaban su existencia.",
-          "translationRu": "составлявшие его существование.",
-          "original": "that made up his existence.",
-          "originalRu": "из которых складывалось его существование."
+          "id": "sent-235",
+          "text": "las facultades arruinadas y los motivos bajos que componían su existencia.",
+          "translationRu": "загубленные способности и низкие побуждения, из которых состояло его существование.",
+          "original": "wrecked faculties and base motives that made up his existence.",
+          "originalRu": "загубленные способности и низкие побуждения, составлявшие его существование."
         }
       ]
     },
@@ -2656,156 +1867,93 @@
       "id": "para-043",
       "sentences": [
         {
-          "id": "sent-353",
-          "text": "Y también, en un instante,",
-          "translationRu": "И тут же, в одно мгновение,",
-          "original": "And also in a moment",
-          "originalRu": "И в тот же миг"
+          "id": "sent-236",
+          "text": "Y también, en un instante, su corazón respondió con emoción a este ánimo nuevo.",
+          "translationRu": "И тут же, в один миг, сердце его трепетно откликнулось на это новое настроение.",
+          "original": "And also in a moment his heart responded thrillingly to this novel mood.",
+          "originalRu": "И тут же, в один миг, сердце его волнующе отозвалось на это небывалое настроение."
         },
         {
-          "id": "sent-354",
-          "text": "su corazón respondió con fuerza",
-          "translationRu": "его сердце живо откликнулось",
-          "original": "his heart responded thrillingly",
-          "originalRu": "его сердце трепетно отозвалось"
+          "id": "sent-237",
+          "text": "Un impulso instantáneo y fuerte lo movió a luchar contra su destino desesperado.",
+          "translationRu": "Мгновенный и сильный порыв толкнул его бороться с отчаянной судьбой.",
+          "original": "An instantaneous and strong impulse moved him to battle with his desperate fate.",
+          "originalRu": "Мгновенный и сильный порыв побудил его сразиться со своей отчаянной судьбой."
         },
         {
-          "id": "sent-355",
-          "text": "a este estado de ánimo nuevo.",
-          "translationRu": "на это новое чувство.",
-          "original": "to this novel mood.",
-          "originalRu": "на это небывалое настроение."
-        },
-        {
-          "id": "sent-356",
-          "text": "Un impulso poderoso e inmediato",
-          "translationRu": "Мощный и неожиданный порыв",
-          "original": "An instantaneous and strong impulse",
-          "originalRu": "Мгновенный и сильный порыв"
-        },
-        {
-          "id": "sent-357",
-          "text": "lo movió a luchar contra su destino desesperado.",
-          "translationRu": "побудил его бороться против своей безнадёжной судьбы.",
-          "original": "moved him to battle with his desperate fate.",
-          "originalRu": "подтолкнул его вступить в борьбу со своей отчаянной судьбой."
-        },
-        {
-          "id": "sent-358",
-          "text": "Se sacaría del barro en que estaba;",
-          "translationRu": "Он выберется из трясины;",
+          "id": "sent-238",
+          "text": "Se sacaría a sí mismo del fango;",
+          "translationRu": "Он вытащит себя из грязи;",
           "original": "He would pull himself out of the mire;",
-          "originalRu": "Он выберется из этой трясины;"
+          "originalRu": "Он вытащит себя из трясины;"
         },
         {
-          "id": "sent-359",
-          "text": "se convertiría de nuevo en un hombre;",
-          "translationRu": "снова станет человеком;",
+          "id": "sent-239",
+          "text": "volvería a hacerse un hombre;",
+          "translationRu": "он снова сделает из себя человека;",
           "original": "he would make a man of himself again;",
-          "originalRu": "он снова станет человеком;"
+          "originalRu": "он снова сделает из себя человека;"
         },
         {
-          "id": "sent-360",
+          "id": "sent-240",
           "text": "vencería el mal que se había apoderado de él.",
-          "translationRu": "победит зло, завладевшее им.",
+          "translationRu": "он одолеет зло, что завладело им.",
           "original": "he would conquer the evil that had taken possession of him.",
-          "originalRu": "он одолеет зло, что завладело им."
+          "originalRu": "он одолеет зло, что овладело им."
         },
         {
-          "id": "sent-361",
-          "text": "Todavía había tiempo;",
-          "translationRu": "Ещё было время;",
-          "original": "There was time;",
-          "originalRu": "Время ещё было;"
+          "id": "sent-241",
+          "text": "Había tiempo; todavía era relativamente joven;",
+          "translationRu": "Время ещё было; он был ещё сравнительно молод;",
+          "original": "There was time; he was comparatively young yet;",
+          "originalRu": "Время ещё было; он был сравнительно ещё молод;"
         },
         {
-          "id": "sent-362",
-          "text": "era relativamente joven aún.",
-          "translationRu": "он был ещё сравнительно молод.",
-          "original": "he was comparatively young yet;",
-          "originalRu": "он был сравнительно молод;"
+          "id": "sent-242",
+          "text": "resucitaría sus antiguas y vivas ambiciones y las perseguiría sin vacilar.",
+          "translationRu": "он воскресит свои прежние горячие стремления и пойдёт за ними не колеблясь.",
+          "original": "he would resurrect his old eager ambitions and pursue them without faltering.",
+          "originalRu": "он воскресит свои прежние пылкие честолюбивые мечты и станет их добиваться без колебаний."
         },
         {
-          "id": "sent-363",
-          "text": "Resucitaría sus antiguas ambiciones",
-          "translationRu": "Он воскресит старые амбиции",
-          "original": "he would resurrect his old eager ambitions",
-          "originalRu": "он воскресит свои былые горячие стремления"
+          "id": "sent-243",
+          "text": "Aquellas notas solemnes pero dulces del órgano habían provocado una revolución en él.",
+          "translationRu": "Эти торжественные, но сладкие звуки органа произвели в нём переворот.",
+          "original": "Those solemn but sweet organ notes had set up a revolution in him.",
+          "originalRu": "Эти торжественные, но сладостные звуки органа подняли в нём целый переворот."
         },
         {
-          "id": "sent-364",
-          "text": "y las perseguiría sin rendirse.",
-          "translationRu": "и будет добиваться их, не сдаваясь.",
-          "original": "and pursue them without faltering.",
-          "originalRu": "и будет идти к ним, не колеблясь."
+          "id": "sent-244",
+          "text": "Mañana iría al bullicioso centro y buscaría trabajo.",
+          "translationRu": "Завтра он пойдёт в шумный деловой центр и найдёт работу.",
+          "original": "To-morrow he would go into the roaring downtown district and find work.",
+          "originalRu": "Завтра он отправится в шумный деловой квартал и найдёт работу."
         },
         {
-          "id": "sent-365",
-          "text": "Esas notas de órgano solemnes pero dulces",
-          "translationRu": "Эти торжественные, но сладкие ноты органа",
-          "original": "Those solemn but sweet organ notes",
-          "originalRu": "Эти торжественные, но сладостные звуки органа"
+          "id": "sent-245",
+          "text": "Un importador de pieles le había ofrecido una vez un puesto de conductor.",
+          "translationRu": "Один торговец мехами когда-то предлагал ему место возчика.",
+          "original": "A fur importer had once offered him a place as driver.",
+          "originalRu": "Один импортёр мехов однажды предлагал ему место кучера."
         },
         {
-          "id": "sent-366",
-          "text": "habían provocado una revolución en él.",
-          "translationRu": "произвели в нём настоящую революцию.",
-          "original": "had set up a revolution in him.",
-          "originalRu": "произвели в нём целый переворот."
+          "id": "sent-246",
+          "text": "Lo buscaría mañana y le pediría el puesto.",
+          "translationRu": "Он разыщет его завтра и попросит это место.",
+          "original": "He would find him to-morrow and ask for the position.",
+          "originalRu": "Он разыщет его завтра и попросит эту должность."
         },
         {
-          "id": "sent-367",
-          "text": "Mañana iría al bullicioso centro de la ciudad",
-          "translationRu": "Завтра он пойдёт в шумный деловой центр",
-          "original": "To-morrow he would go into the roaring downtown district",
-          "originalRu": "Завтра он отправится в шумный деловой центр города"
-        },
-        {
-          "id": "sent-368",
-          "text": "y buscaría trabajo.",
-          "translationRu": "и найдёт работу.",
-          "original": "and find work.",
-          "originalRu": "и найдёт работу."
-        },
-        {
-          "id": "sent-369",
-          "text": "Un importador de pieles",
-          "translationRu": "Один торговец мехами",
-          "original": "A fur importer",
-          "originalRu": "Один торговец мехами"
-        },
-        {
-          "id": "sent-370",
-          "text": "le había ofrecido una vez un puesto de conductor.",
-          "translationRu": "когда-то предлагал ему место водителя.",
-          "original": "had once offered him a place as driver.",
-          "originalRu": "когда-то предлагал ему место возницы."
-        },
-        {
-          "id": "sent-371",
-          "text": "Lo encontraría mañana",
-          "translationRu": "Завтра он его найдёт",
-          "original": "He would find him to-morrow",
-          "originalRu": "Завтра он разыщет его"
-        },
-        {
-          "id": "sent-372",
-          "text": "y pediría ese puesto.",
-          "translationRu": "и попросит эту должность.",
-          "original": "and ask for the position.",
-          "originalRu": "и попросит об этом месте."
-        },
-        {
-          "id": "sent-373",
+          "id": "sent-247",
           "text": "Sería alguien en el mundo.",
           "translationRu": "Он станет кем-то в этом мире.",
           "original": "He would be somebody in the world.",
-          "originalRu": "Он станет в этом мире хоть кем-то."
+          "originalRu": "Он станет кем-то в этом мире."
         },
         {
-          "id": "sent-374",
-          "text": "Lo haría...",
-          "translationRu": "Он сделает это...",
+          "id": "sent-248",
+          "text": "Él...",
+          "translationRu": "Он…",
           "original": "He would—",
           "originalRu": "Он…"
         }
@@ -2815,25 +1963,18 @@
       "id": "para-044",
       "sentences": [
         {
-          "id": "sent-375",
-          "text": "Soapy sintió una mano en su brazo.",
-          "translationRu": "Сопи почувствовал руку на своей руке.",
+          "id": "sent-249",
+          "text": "Soapy sintió una mano sobre su brazo.",
+          "translationRu": "Соупи почувствовал руку на своём плече.",
           "original": "Soapy felt a hand laid on his arm.",
-          "originalRu": "Сопи почувствовал, как на его руку легла чья-то ладонь."
+          "originalRu": "Соупи почувствовал руку, легшую на его плечо."
         },
         {
-          "id": "sent-376",
-          "text": "Miró rápidamente",
-          "translationRu": "Он быстро обернулся",
-          "original": "He looked quickly around",
-          "originalRu": "Он быстро обернулся"
-        },
-        {
-          "id": "sent-377",
-          "text": "y vio la cara ancha de un policía.",
-          "translationRu": "и увидел широкое лицо полицейского.",
-          "original": "into the broad face of a policeman.",
-          "originalRu": "и увидел перед собой широкое лицо полицейского."
+          "id": "sent-250",
+          "text": "Se volvió rápidamente y vio la ancha cara de un policía.",
+          "translationRu": "Он быстро обернулся и увидел широкое лицо полицейского.",
+          "original": "He looked quickly around into the broad face of a policeman.",
+          "originalRu": "Он быстро обернулся и уставился в широкое лицо полицейского."
         }
       ]
     },
@@ -2841,18 +1982,18 @@
       "id": "para-045",
       "sentences": [
         {
-          "id": "sent-378",
-          "text": "— ¿Qué haces aquí?",
-          "translationRu": "— Что ты здесь делаешь?",
+          "id": "sent-251",
+          "text": "—¿Qué hace usted aquí?",
+          "translationRu": "— Что вы тут делаете?",
           "original": "'What are you doin' here?'",
-          "originalRu": "— Ты что здесь делаешь? —"
+          "originalRu": "— Что вы тут делаете?"
         },
         {
-          "id": "sent-379",
-          "text": "— preguntó el agente.",
-          "translationRu": "— спросил агент.",
+          "id": "sent-252",
+          "text": "—preguntó el agente.",
+          "translationRu": "— спросил полицейский.",
           "original": "asked the officer.",
-          "originalRu": "спросил блюститель порядка."
+          "originalRu": "— спросил блюститель порядка."
         }
       ]
     },
@@ -2860,18 +2001,11 @@
       "id": "para-046",
       "sentences": [
         {
-          "id": "sent-380",
-          "text": "— Nada",
-          "translationRu": "— Ничего,",
-          "original": "'Nothin','",
-          "originalRu": "— Ничего, —"
-        },
-        {
-          "id": "sent-381",
-          "text": "— dijo Soapy.",
-          "translationRu": "— сказал Сопи.",
-          "original": "said Soapy.",
-          "originalRu": "ответил Сопи."
+          "id": "sent-253",
+          "text": "—Nada —dijo Soapy.",
+          "translationRu": "— Ничего, — сказал Соупи.",
+          "original": "'Nothin',' said Soapy.",
+          "originalRu": "— Ничего, — сказал Соупи."
         }
       ]
     },
@@ -2879,18 +2013,11 @@
       "id": "para-047",
       "sentences": [
         {
-          "id": "sent-382",
-          "text": "— Pues ven conmigo",
-          "translationRu": "— Тогда пойдём со мной,",
-          "original": "'Then come along,'",
-          "originalRu": "— Тогда пойдём со мной, —"
-        },
-        {
-          "id": "sent-383",
-          "text": "— dijo el policía.",
-          "translationRu": "— сказал полицейский.",
-          "original": "said the policeman.",
-          "originalRu": "сказал полицейский."
+          "id": "sent-254",
+          "text": "—Entonces venga conmigo —dijo el policía.",
+          "translationRu": "— Тогда идёмте со мной, — сказал полицейский.",
+          "original": "'Then come along,' said the policeman.",
+          "originalRu": "— Тогда пройдёмте, — сказал полицейский."
         }
       ]
     },
@@ -2898,25 +2025,18 @@
       "id": "para-048",
       "sentences": [
         {
-          "id": "sent-384",
-          "text": "— Tres meses en la Isla",
-          "translationRu": "— Три месяца на Острове,",
-          "original": "'Three months on the Island,'",
-          "originalRu": "— Три месяца на Острове, —"
+          "id": "sent-255",
+          "text": "—Tres meses en la Isla —dijo el juez",
+          "translationRu": "— Три месяца на Острове, — сказал судья",
+          "original": "'Three months on the Island,' said the Magistrate",
+          "originalRu": "— Три месяца на Острове, — сказал судья"
         },
         {
-          "id": "sent-385",
-          "text": "— dijo el magistrado en el tribunal policial",
-          "translationRu": "— сказал судья в полицейском суде",
-          "original": "said the Magistrate in the Police Court",
-          "originalRu": "объявил судья в полицейском участке"
-        },
-        {
-          "id": "sent-386",
-          "text": "a la mañana siguiente.",
-          "translationRu": "на следующее утро.",
-          "original": "the next morning.",
-          "originalRu": "на следующее утро."
+          "id": "sent-256",
+          "text": "en el juzgado de policía a la mañana siguiente.",
+          "translationRu": "в полицейском суде на следующее утро.",
+          "original": "in the Police Court the next morning.",
+          "originalRu": "в полицейском суде на следующее утро."
         }
       ]
     }
